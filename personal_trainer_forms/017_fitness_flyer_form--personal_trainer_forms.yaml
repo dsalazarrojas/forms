@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Flyer Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 7
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: available_coaches
+      label: Available Coaches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: available_trainers
+      label: Available Trainers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: available_locations
+      label: Available Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Gym
+      - Home
+      - Park
+      - Online
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: emergency_contact_emergency
+      label: Emergency Contact Emergency
+      hint: null
+      type: select_multiple
+      options:
+      - Heart Condition
+      - Allergies
+      - Medical Condition
+      - Other
+      required: false
+    - id: 18
+      name: available_languages
+      label: Available Languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Lesson Feedback Poll Form
+    pages:
+    - id: 1
+      name: music_lesson_feedback
+      label: Music Lesson Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lesson_date
+      label: Lesson Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instrument
+      label: Instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lesson_length
+      label: Lesson Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: lesson_topics
+      label: Lesson Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Topic 1
+      - Topic 2
+      required: false

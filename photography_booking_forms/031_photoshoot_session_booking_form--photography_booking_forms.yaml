@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: photoshoot_session_booking_form
+    pages:
+    - id: 1
+      name: photoshoot_session_booking
+      label: Photoshoot Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: model_consent
+      label: Model Consent
+      hint: Please read and agree to the model consent form
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contract
+      label: Contract
+      hint: Please sign here to confirm your booking
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

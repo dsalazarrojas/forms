@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Book Series Pre Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: apartment_suite
+      label: Apartment, Suite, or Floor (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: book_selection
+      label: -- Book Series Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: series_name
+      label: Which book series are you ordering
+      hint: null
+      type: select_one
+      options:
+      - Adventure Series (Books 1-5)
+      - Fantasy Chronicles (Books 1-4)
+      - Mystery Box Set (Books 1-6)
+      - Individual Books
+      required: true
+    - id: 14
+      name: individual_books
+      label: Select individual books
+      hint: null
+      type: select_multiple
+      options:
+      - Book 1 - The Beginning
+      - Book 2 - New Adventures
+      - Book 3 - Deeper Into Mystery
+      - Book 4 - The Twist
+      - Book 5 - Final Chapter
+      - Book 6 - Epilogue
+      required: false
+    - id: 15
+      name: quantity_section
+      label: -- Quantity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: number_of_copies
+      label: Number of Sets or Books
+      hint: How many copies do you want to order
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: gift_option
+      label: -- Gift Option --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: is_gift
+      label: Is this order a gift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: gift_recipient_name
+      label: Gift Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: gift_recipient_age
+      label: Gift Recipient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: gift_message
+      label: Gift Message
+      hint: Optional message to include
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_section
+      label: -- Shipping Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping (7-10 business days)
+      - Express Shipping (3-5 business days)
+      - Overnight Shipping
+      - Local Pickup
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: newsletter_signup
+      label: Subscribe to our newsletter for future releases
+      hint: null
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: false

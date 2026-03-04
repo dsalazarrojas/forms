@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ata Ur Rehman Photography School Registration Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_whatsapp
+      label: WhatsApp Number
+      hint: WhatsApp contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: Current education
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Professional Diploma
+      - Other
+      required: true
+    - id: 11
+      name: photography_experience
+      label: Prior Photography Experience
+      hint: Have you taken photography before?
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 12
+      name: learning_mode
+      label: Preferred Learning Mode
+      hint: In-person or online?
+      type: select_one
+      options:
+      - In-Person (Rawalpindi)
+      - Online
+      - Hybrid
+      required: true
+    - id: 13
+      name: courses_interested
+      label: Courses You Want to Learn
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photography Basics
+      - Professional Photography
+      - Videography
+      - Video Editing
+      - Adobe Photoshop
+      - Adobe Lightroom
+      - Adobe Premiere Pro
+      - Graphic Design
+      - Web Design
+      - Complete Package
+      required: true
+    - id: 14
+      name: course_duration
+      label: Preferred Course Duration
+      hint: How long can you commit?
+      type: select_one
+      options:
+      - 1 Month
+      - 2-3 Months
+      - 3-6 Months
+      - 6+ Months
+      required: true
+    - id: 15
+      name: class_schedule_preference
+      label: Preferred Class Schedule
+      hint: When do you prefer classes?
+      type: select_one
+      options:
+      - Early Morning
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: true
+    - id: 16
+      name: learning_goal
+      label: Main Learning Goal
+      hint: What do you want to achieve?
+      type: select_one
+      options:
+      - Hobby and Personal Interest
+      - Professional Career
+      - Business Startup
+      - Skill Enhancement
+      - Creative Expression
+      required: true
+    - id: 17
+      name: equipment_available
+      label: Photography Equipment Available
+      hint: Do you have a camera?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Purchase
+      required: true
+    - id: 18
+      name: equipment_type
+      label: Type of Camera/Equipment
+      hint: What type of equipment?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: software_available
+      label: Design Software Available
+      hint: Adobe software installed?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Purchase
+      required: true
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Social Media
+      - Friend Referral
+      - Google Search
+      - WhatsApp
+      - Email
+      - Instagram
+      - Facebook
+      - Other
+      required: true
+    - id: 21
+      name: payment_mode
+      label: Payment Mode Preference
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cash Payment
+      - Online Payment Gateway
+      - Installments
+      required: true
+    - id: 22
+      name: additional_questions
+      label: Any Questions or Special Requests
+      hint: Let us know your concerns
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: commitment_confirmation
+      label: I am committed to completing the course
+      hint: Confirm commitment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

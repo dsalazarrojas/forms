@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Data Lookup Tool Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator full name
+      hint: Enter your full name for follow up
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_email
+      label: Evaluator email address
+      hint: Provide a business email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization name
+      hint: Company or team using the lookup tool
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role or job title
+      hint: Your role in relation to data or operations
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Evaluation date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: primary_use_case
+      label: Primary use case for the lookup tool
+      hint: Briefly describe why you evaluated this tool
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: data_accuracy_rating
+      label: Data accuracy rating
+      hint: Rate the accuracy of returned contact data
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very poor
+      required: true
+    - id: 8
+      name: match_rate_percentage
+      label: Typical match rate percentage
+      hint: Estimate percentage of successful contact matches
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coverage_scope
+      label: Geographic coverage relevance
+      hint: Which regions did you test
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia Pacific
+      - Latin America
+      - Africa
+      - Global
+      required: false
+    - id: 10
+      name: turnaround_time_rating
+      label: Turnaround time satisfaction
+      hint: Speed of lookup responses
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: ease_of_integration
+      label: Ease of integration with existing systems
+      hint: How easy was it to connect the tool to workflows
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 12
+      name: api_documentation_quality
+      label: API documentation quality
+      hint: Rate clarity of documentation and examples
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: privacy_and_compliance
+      label: Privacy and compliance concerns
+      hint: Note any regulatory or compliance issues observed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cost_value_assessment
+      label: Cost versus value assessment
+      hint: Provide brief comments on pricing fairness
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_recommendation
+      label: Overall recommendation
+      hint: Would you recommend this tool to others
+      type: select_one
+      options:
+      - Strongly recommend
+      - Recommend with reservations
+      - Neutral
+      - Do not recommend
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Any other notes for vendors or internal teams
+      type: text
+      options: []
+      required: false

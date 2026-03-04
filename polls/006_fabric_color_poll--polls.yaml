@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fabric Color Poll
+    pages:
+    - id: 1
+      name: fabric_color_poll_1_name
+      label: fabric_color_poll_1_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fabric_color_poll_2_name
+      label: fabric_color_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fabric_color_poll_3_name
+      label: fabric_color_preferences_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: fabric_color_poll_4_name
+      label: fabric_color_preferences_category
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 5
+      name: fabric_color_poll_5_name
+      label: fabric_color_preferences_subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: fabric_color_poll_6_name
+      label: fabric_color_preferences_subcategory_description
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: fabric_color_poll_7_name
+      label: fabric_color_preferences_subcategory_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: fabric_color_poll_8_name
+      label: fabric_color_preferences_subcategory_subcategory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fabric_color_poll_9_name
+      label: fabric_color_preferences_subcategory_subcategory_description
+      hint: null
+      type: text
+      options: []
+      required: false

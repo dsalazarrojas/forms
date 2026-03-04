@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Notebook Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: notebook_type
+      label: notebook type
+      hint: null
+      type: select_one
+      options:
+      - A4
+      - A5
+      - A6
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cover_type
+      label: cover type
+      hint: null
+      type: select_one
+      options:
+      - Hardcover
+      - Softcover
+      - None
+      required: false
+    - id: 5
+      name: paper_color
+      label: paper color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Gray
+      required: false
+    - id: 6
+      name: paper_weight
+      label: paper weight
+      hint: null
+      type: select_one
+      options:
+      - 80 gsm
+      - 100 gsm
+      - 120 gsm
+      required: false
+    - id: 7
+      name: page_count
+      label: page count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: imprint_type
+      label: imprint type
+      hint: null
+      type: select_one
+      options:
+      - Simple
+      - Embossed
+      - None
+      required: false
+    - id: 9
+      name: imprint_text
+      label: imprint text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_request
+      label: special request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - FedEx
+      required: false
+    - id: 15
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_city
+      label: shipping city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_state
+      label: shipping state
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      required: false
+    - id: 18
+      name: shipping_zip
+      label: shipping zip
+      hint: null
+      type: select_one
+      options:
+      - '[None]'
+      - Other
+      required: false
+    - id: 19
+      name: shipping_country
+      label: shipping country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_method
+      label: delivery method
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Express
+      required: false
+    - id: 23
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: customer_note
+      label: customer note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - default
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: straw_poll
+    pages:
+    - id: 1
+      name: poll_question
+      label: Poll Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_answer
+      label: question_answer
+      hint: null
+      type: select_one
+      options:
+      - answer1
+      - answer2
+      - answer3
+      - answer4
+      - answer5
+      required: false
+    - id: 3
+      name: voter_education
+      label: Voter Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      - Doctorate
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

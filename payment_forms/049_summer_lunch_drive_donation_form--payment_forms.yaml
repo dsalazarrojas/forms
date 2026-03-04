@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Lunch Drive Donation Form
+    pages:
+    - id: 1
+      name: summer_lunch_drive_donation_form
+      label: Summer Lunch Drive Donation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - American Express
+      - Cash
+      - PayPal
+      - Visa
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Donate
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: headshot_session_inquiry_form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: photographer_preferences
+      label: Photographer Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Landscape''}'
+      - '{''name'': ''Portrait''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

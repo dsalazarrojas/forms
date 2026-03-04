@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Screening Pre Order Form
+    pages:
+    - id: 1
+      name: user_info_form
+      label: User Information Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Card payment''}'
+      - '{''id'': 2, ''label'': ''Cash''}'
+      - '{''id'': 3, ''label'': ''Other (please describe)''}'
+      required: false
+    - id: 6
+      name: payment_method_other_description
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''VIP''}'
+      - '{''id'': 3, ''label'': ''Premium''}'
+      required: false
+    - id: 9
+      name: total_amount_paid
+      label: Total Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

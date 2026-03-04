@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: gap_analysis_form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gap_description
+      label: gap_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_goal
+      label: performance_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: analysis
+      label: analysis
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 5
+      name: current_status
+      label: current_status
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 6
+      name: future_status
+      label: future_status
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_page_text
+      label: first_page_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted
+      label: submitted
+      hint: null
+      type: time
+      options: []
+      required: false

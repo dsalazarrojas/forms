@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography And Videography Request Form
+    pages:
+    - id: 1
+      name: photography_and_videography_request_form
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Photography
+      - Videography
+      - Both
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date_request
+      label: Date Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_request
+      label: Time Request
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specific_location_note
+      label: Specific Location Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: video_equipment
+      label: Video Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Drones
+      - Cameras
+      - Lenses
+      - Lighting
+      - Sound
+      required: false
+    - id: 13
+      name: photography_equipment
+      label: Photography Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Camera
+      - Lens
+      - Tripod
+      - Lighting
+      - Drone
+      required: false

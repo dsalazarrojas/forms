@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Product Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_list
+      label: Product List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_total
+      label: Order Total
+      hint: Calculate the total of this order
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: Please enter a valid email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: Please enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: product_price
+      label: Product Price
+      hint: Please enter a price
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

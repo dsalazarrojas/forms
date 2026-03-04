@@ -1,0 +1,273 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Security Assessment Form
+    pages:
+      - id: 1
+        name: section_header_facility_info
+        label: -- Facility Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: church_name
+        label: Church Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: church_address
+        label: Church Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: assessor_name
+        label: Assessor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: assessor_title
+        label: Assessor Title
+        hint: Security officer, clergy, administrator
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_header_building_security
+        label: -- Building Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: entrance_assessment
+        label: Main Entrances Have Controlled Access
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partial
+        required: true
+      - id: 9
+        name: emergency_exits
+        label: Emergency Exits Are Properly Marked and Accessible
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partial
+        required: true
+      - id: 10
+        name: exterior_lighting
+        label: Adequate Exterior Lighting in Parking Areas
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+          - Very poor
+        required: true
+      - id: 11
+        name: surveillance_cameras
+        label: Surveillance Cameras Installed
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partial
+        required: true
+      - id: 12
+        name: camera_coverage_areas
+        label: Areas with Camera Coverage
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_header_access_control
+        label: -- Access Control --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: building_access_control
+        label: Building Access Controlled and Monitored
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partial
+        required: true
+      - id: 15
+        name: key_card_system
+        label: Key Card or Electronic Lock System
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+        required: false
+      - id: 16
+        name: key_management
+        label: Key Management and Control Procedures in Place
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Needs improvement
+        required: true
+      - id: 17
+        name: section_header_staff_security
+        label: -- Staff and Personnel Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: security_staff_presence
+        label: Security Staff or Trained Greeters Present During Events
+        hint: null
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: background_checks
+        label: Background Checks for All Staff and Volunteers
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partial
+        required: true
+      - id: 20
+        name: section_header_emergency_planning
+        label: -- Emergency Planning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: emergency_plan_exists
+        label: Written Emergency Response Plan
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - In development
+        required: true
+      - id: 22
+        name: emergency_drills
+        label: Regular Emergency Drills Conducted
+        hint: Evacuation drills, fire drills, etc
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Annually
+          - Never
+        required: false
+      - id: 23
+        name: communication_system
+        label: Emergency Communication System in Place
+        hint: PA system, alert system, etc
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Partial
+        required: true
+      - id: 24
+        name: section_header_threats
+        label: -- Threat Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: threat_concerns
+        label: Any Known Threat Concerns
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - Uncertain
+        required: true
+      - id: 26
+        name: threat_details
+        label: Description of Threat Concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: section_header_recommendations
+        label: -- Recommendations and Follow-up --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: security_gaps
+        label: Identified Security Gaps or Vulnerabilities
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: recommendations
+        label: Recommended Security Improvements
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: priority_improvements
+        label: Priority Level for Improvements
+        hint: null
+        type: select_one
+        options:
+          - Immediate
+          - Short-term
+          - Medium-term
+          - Long-term
+        required: false

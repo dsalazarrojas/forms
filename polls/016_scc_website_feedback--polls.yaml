@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: scc_website_feedback
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment_section
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Save and Continue''}'
+      - '{''id'': 3, ''label'': ''Save and Continue Editing''}'
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Polls''}'
+      - '{''id'': 2, ''label'': ''Reviews''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

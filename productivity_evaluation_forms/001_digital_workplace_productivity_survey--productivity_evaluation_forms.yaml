@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_workplace_productivity_survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is this form about
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: User name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workflow_tools
+      label: Tools used for work
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Chat
+      - Video conferencing
+      - Project management software
+      - Document management software
+      - Other
+      required: false
+    - id: 9
+      name: workflow_tools_other
+      label: Other tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_hours
+      label: Average work hours per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: break_length
+      label: Average break length in minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_breaks
+      label: Number of work breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: meetings_per_week
+      label: Meetings per week
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 meetings
+      - 3-5 meetings
+      - 6 or more
+      required: false
+    - id: 14
+      name: meeting_length
+      label: Meeting length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: meeting_frequency
+      label: Meeting frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: false
+    - id: 16
+      name: communication_channel
+      label: Communication channel preference
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Chat
+      - Phone
+      - Video
+      required: false
+    - id: 17
+      name: productivity
+      label: Self-assessed productivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_satisfaction
+      label: Work satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: select_one
+      options:
+      - Work-life balance is good
+      - Work-life balance is fair
+      - Work-life balance is poor
+      required: false
+    - id: 20
+      name: work_life_balance_other
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false

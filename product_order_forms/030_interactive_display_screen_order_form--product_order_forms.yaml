@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interactive Display Screen Order Form
+    pages:
+    - id: 1
+      name: screen_order_form
+      label: Screen Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true

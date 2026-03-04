@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Budget Tracker
+    pages:
+    - id: 1
+      name: user_input
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: household_members
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: savings_goal
+      label: Savings Goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: household_budget
+      label: Household Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: household_budget_type
+      label: Budget Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 8
+      name: budget_category
+      label: Budget Category
+      hint: null
+      type: select_multiple
+      options:
+      - Housing
+      - Transportation
+      - Food
+      - Entertainment
+      - Clothing
+      - Utilities
+      - Health
+      - Other
+      required: true
+    - id: 9
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 10
+      name: expense_frequency
+      label: Expense Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 11
+      name: tracking_frequency
+      label: Tracking Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: household_budget_tracker_frequency
+      label: Household Budget Tracker Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Fortnightly
+      - Monthly
+      required: true
+    - id: 14
+      name: income_frequency_notes
+      label: Income Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expense_frequency_notes
+      label: Expense Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tracking_frequency_notes
+      label: Tracking Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes_1
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes_2
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes_3
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes_4
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes_5
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: income_notes
+      label: Income Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: expense_notes
+      label: Expense Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tracking_notes
+      label: Tracking Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

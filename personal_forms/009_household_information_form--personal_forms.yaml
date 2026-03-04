@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Information Form
+    pages:
+    - id: 1
+      name: household_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''single'', ''label'': ''Single''}'
+      - '{''value'': ''married'', ''label'': ''Married''}'
+      required: true
+    - id: 3
+      name: household_size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''small'', ''label'': ''Small''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''large'', ''label'': ''Large''}'
+      required: false
+    - id: 4
+      name: income_source
+      label: Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''work'', ''label'': ''Work''}'
+      - '{''value'': ''investment'', ''label'': ''Investment''}'
+      - '{''value'': ''government'', ''label'': ''Government''}'
+      required: false
+    - id: 5
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''student'', ''label'': ''Student''}'
+      - '{''value'': ''employee'', ''label'': ''Employee''}'
+      - '{''value'': ''retired'', ''label'': ''Retired''}'
+      required: false
+    - id: 8
+      name: occupation_description
+      label: Occupation Description
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''engineer'', ''label'': ''Engineer''}'
+      - '{''value'': ''doctor'', ''label'': ''Doctor''}'
+      - '{''value'': ''artist'', ''label'': ''Artist''}'
+      required: false

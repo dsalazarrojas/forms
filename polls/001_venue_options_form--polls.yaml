@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Venue Options Form
+    pages:
+    - id: 1
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: venue_type
+      label: Venue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: venue_costs
+      label: Costs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: costs_description
+      label: Costs Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: costs_amount
+      label: Costs Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: indoor_amenities
+      label: Indoor Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: outdoor_amenities
+      label: Outdoor Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_website
+      label: Contact Website
+      hint: null
+      type: text
+      options: []
+      required: false

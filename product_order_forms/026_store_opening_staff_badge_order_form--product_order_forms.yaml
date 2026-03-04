@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: store-opening-staff-badge-order-form
+    pages:
+    - id: 1
+      name: store_opening_form_data
+      label: Staff details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: staff_roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: shipping_info
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payments
+      label: Payments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment terms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_total
+      label: Payment total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: store_address
+      label: Store address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: Billing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_name
+      label: Billing name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_phone
+      label: Billing phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_email
+      label: Billing email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: store_name
+      label: Store name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: store_phone
+      label: Store phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: store_email
+      label: Store email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: store_address
+      label: Store address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: manager_title
+      label: Manager title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: manager_badge_id
+      label: Manager badge ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_badge_number
+      label: Manager badge number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_badge_pin
+      label: Manager badge pin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_owner_name
+      label: Store owner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: store_owner_phone
+      label: Store owner phone
+      hint: null
+      type: text
+      options: []
+      required: true

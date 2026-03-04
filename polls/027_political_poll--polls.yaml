@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Poll
+    pages:
+    - id: 1
+      name: political_poll
+      label: political_poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: political_party
+      label: political_party
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: political_candidate
+      label: political_candidate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: political_issue
+      label: political_issue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: political_party_affiliation
+      label: political_party_affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Jobs Application Form
+    pages:
+    - id: 1
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: background_check_status
+      label: Background Check Status
+      hint: null
+      type: select_one
+      options:
+      - Cleared
+      - Pending
+      - Failed
+      required: false
+    - id: 5
+      name: police_certificate_number
+      label: Police Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: police_id_number
+      label: Police ID Number
+      hint: Your police ID number if you are an current or former police officer.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - Police Officer
+      - Deputy Sheriff
+      - Detective
+      - Sergeant
+      - Lieutenant
+      - Chief of Police
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Local Police Department
+      - State Police Department
+      - Federal Police Department
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - City
+      - State
+      - County
+      required: false
+    - id: 15
+      name: reason_for_applying
+      label: Reason for Applying
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: uploaded_documents
+      label: Upload Documents
+      hint: Upload supporting documents to complete your application.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

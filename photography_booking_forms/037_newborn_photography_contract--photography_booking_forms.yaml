@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Photography Contract
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_start
+      label: Contract Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consent_1
+      label: We will not use the images for any purpose other than as described on
+        this contract.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 7
+      name: consent_2
+      label: We will not use the images on any other social media or platform.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 8
+      name: consent_3
+      label: We will not use the images for any other purpose without the customer's
+        consent.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 9
+      name: signature_consent
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_customer
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature_photographer
+      label: Photographer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_photographer_date
+      label: Photographer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contract_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_signature_image
+      label: Customer Signature Image
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 16
+      name: photographer_signature_image
+      label: Photographer Signature Image
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 17
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: session_start
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: session_end
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: consent_4
+      label: I understand that my contract and signature must be returned to the photographer
+        within 24 hours of the session.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 22
+      name: consent_5
+      label: I understand that I am free to terminate this contract at any time without
+        cost.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 23
+      name: consent_6
+      label: I understand that the photographer has the right to refuse the contract.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 24
+      name: consent_7
+      label: I understand that the photographer is not responsible for any damage
+        or loss of property.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 25
+      name: consent_8
+      label: I understand that I must provide valid contact information for my emergency
+        contact.
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false

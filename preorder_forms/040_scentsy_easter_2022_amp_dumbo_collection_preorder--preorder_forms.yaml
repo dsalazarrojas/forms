@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentsy Easter 2022 & Dumbo Collection Preorder
+    pages:
+    - id: 1
+      name: easter_2022
+      label: Easter 2022
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collection
+      label: Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: easter_2022_preorder
+      label: Easter 2022 Preorder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: dumbo_collection_preorder
+      label: Dumbo Collection Preorder
+      hint: null
+      type: select_multiple
+      options:
+      - Dumbo Collection
+      - Another item
+      required: false

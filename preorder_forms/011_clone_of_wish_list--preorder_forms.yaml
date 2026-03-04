@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clone Of Wish List
+    pages:
+    - id: 1
+      name: header
+      label: -- Wish List Entry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email to notify about availability
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product name
+      hint: Item you wish to preorder
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_variant
+      label: Product variant
+      hint: Size, color, or SKU
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity desired
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: estimated_budget
+      label: Estimated budget
+      hint: Maximum willing to pay per unit
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_notification
+      label: Preferred notification method
+      hint: How you want to be notified
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone call
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping address
+      hint: Required if order will be shipped
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other preferences or requests
+      type: text
+      options: []
+      required: false

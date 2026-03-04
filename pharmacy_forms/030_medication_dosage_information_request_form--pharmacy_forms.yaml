@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Dosage Information Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_name
+      label: Medication name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_dosage_frequency
+      label: How often
+      hint: null
+      type: select_multiple
+      options:
+      - Once a day
+      - Twice a day
+      - Three times a day
+      - Four times a day
+      required: false
+    - id: 6
+      name: medication_dosage_unit
+      label: Unit
+      hint: Please specify the unit of the medication (e.g. mL, mg, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_dosage_instructions
+      label: Dosage instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pharmacy
+      label: Which pharmacy
+      hint: null
+      type: select_one
+      options:
+      - Pharmacy A
+      - Pharmacy B
+      - Pharmacy C
+      required: false
+    - id: 9
+      name: doctor
+      label: Which doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Jones
+      - Dr. Johnson
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

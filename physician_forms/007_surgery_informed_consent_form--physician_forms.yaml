@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Informed Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surgery_details
+      label: Surgery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: anesthesia_details
+      label: Anesthesia Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: Additional Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_info_additional
+      label: Patient Information Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Minor
+      - Emergency
+      required: true
+    - id: 23
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

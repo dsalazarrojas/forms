@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foot And Ankle Care Center Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false

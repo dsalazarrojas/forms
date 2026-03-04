@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen ventilation filter order form
+    pages:
+    - id: 1
+      name: kitchen_ventilation_filter_order
+      label: Filter Type
+      hint: Please select the type of filter
+      type: select_one
+      options:
+      - Standard Filter
+      - Premium Filter
+      - Ultra Filter
+      required: false
+    - id: 2
+      name: kitchen_ventilation_size
+      label: Filter Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: kitchen_ventilation_shape
+      label: Filter Shape
+      hint: Please select the shape of your filter
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Rectangular
+      required: false
+    - id: 4
+      name: kitchen_ventilation_location
+      label: Location
+      hint: Please select the location of your filter
+      type: select_multiple
+      options:
+      - Downtown
+      - Uptown
+      - Suburbs
+      required: false
+    - id: 5
+      name: kitchen_ventilation_filter_number
+      label: Number of Filters
+      hint: How many filters do you need?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: kitchen_ventilation_filter_type
+      label: Filter Type
+      hint: What kind of filter do you need?
+      type: select_multiple
+      options:
+      - Ceramic
+      - Metal
+      - Plastic
+      required: false
+    - id: 7
+      name: kitchen_ventilation_other_filters
+      label: Other Filters
+      hint: Please list any other filters you need
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kitchen_ventilation_special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: kitchen_ventilation_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: kitchen_ventilation_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: kitchen_ventilation_date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

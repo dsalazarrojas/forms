@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Council Petition Template
+    pages:
+    - id: 1
+      name: petitioner_name
+      label: Petitioner Full Name
+      hint: Student name leading the petition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your student ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Your current grade
+      type: select_one
+      options:
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 6
+      name: petition_title
+      label: Petition Title
+      hint: Brief title for your petition
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: petition_category
+      label: Petition Category
+      hint: What area does this address
+      type: select_one
+      options:
+      - Academic Policy
+      - School Facilities
+      - Student Life
+      - Extracurricular Activities
+      - Dress Code
+      - Cafeteria Services
+      - Transportation
+      - Safety and Security
+      - Environmental Issues
+      - Other
+      required: true
+    - id: 8
+      name: issue_description
+      label: Describe the Issue or Concern
+      hint: What problem are you addressing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: proposed_solution
+      label: What Solution Do You Propose
+      hint: Your suggested change
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: affected_students
+      label: How Many Students Are Affected
+      hint: Estimate
+      type: select_one
+      options:
+      - Just my class
+      - Multiple classes
+      - Entire grade
+      - Whole school
+      required: true
+    - id: 11
+      name: urgency_level
+      label: How Urgent Is This Matter
+      hint: Select urgency
+      type: select_one
+      options:
+      - Very urgent - needs immediate attention
+      - Somewhat urgent - within this semester
+      - Moderate - can wait this year
+      - Low priority - long-term goal
+      required: true
+    - id: 12
+      name: previous_discussions
+      label: Have You Discussed This With Anyone
+      hint: Teachers, administrators
+      type: select_one
+      options:
+      - Yes, with teacher
+      - Yes, with counselor
+      - Yes, with administrator
+      - Yes, with student council
+      - No, this is first step
+      required: true
+    - id: 13
+      name: discussion_outcome
+      label: What Was the Outcome
+      hint: If discussed before
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_evidence
+      label: Do You Have Supporting Evidence
+      hint: Data, examples, research
+      type: select_one
+      options:
+      - Yes, will attach
+      - Yes, have but not attaching
+      - No, based on student feedback
+      required: true
+    - id: 15
+      name: expected_benefits
+      label: What Benefits Will This Change Bring
+      hint: Positive outcomes
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: potential_concerns
+      label: Are There Potential Concerns or Objections
+      hint: Anticipated challenges
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: implementation_timeline
+      label: When Should This Be Implemented
+      hint: Your proposed timeline
+      type: select_one
+      options:
+      - Immediately
+      - Next semester
+      - Next school year
+      - Gradual implementation
+      - No preference
+      required: true
+    - id: 18
+      name: student_support
+      label: How Many Students Support This Petition
+      hint: Current signature count
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: presentation_request
+      label: Would You Like to Present to Council
+      hint: In person
+      type: select_one
+      options:
+      - Yes, I want to present
+      - Yes, but someone else can present
+      - No, written petition is enough
+      required: true
+    - id: 20
+      name: faculty_advisor
+      label: Do You Have a Faculty Advisor
+      hint: Teacher supporting you
+      type: select_one
+      options:
+      - true
+      - false
+      - Looking for one
+      required: true
+    - id: 21
+      name: advisor_name
+      label: Faculty Advisor Name
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Anything else to add
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Product Order Form
+    pages:
+    - id: 1
+      name: customer_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Barbershop
+      - Salon
+      - Spa
+      - Retail Store
+      - Online Retailer
+      - Other
+      required: true
+    - id: 7
+      name: billing_header
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: billing_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_header
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: same_as_billing
+      label: Same as Billing Address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_header
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: beard_oil_quantity
+      label: Beard Oil Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: beard_conditioner_quantity
+      label: Beard Conditioner Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: beard_balm_quantity
+      label: Beard Balm Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: beard_wash_quantity
+      label: Beard Wash Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: additional_items
+      label: Additional Items Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Wire Transfer
+      - PayPal
+      required: true
+    - id: 26
+      name: tax_id
+      label: Business Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

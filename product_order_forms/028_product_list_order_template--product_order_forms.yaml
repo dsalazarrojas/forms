@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_list_order_template
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_items
+      label: order_items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item_price
+      label: item_price
+      hint: null
+      type: number
+      options: []
+      required: false

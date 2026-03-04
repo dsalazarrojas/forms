@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Assessment Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent name
+        hint: Optional for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: attendance_frequency
+        label: Attendance frequency
+        hint: How often do you attend services
+        type: select_one
+        options:
+          - Weekly
+          - Biweekly
+          - Monthly
+          - Occasionally
+          - First time visitor
+        required: true
+      - id: 3
+        name: satisfaction_overall
+        label: Overall satisfaction
+        hint: Rate overall satisfaction with church 1 low to 5 high
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 4
+        name: worship_experience
+        label: Worship experience
+        hint: How satisfied are you with worship and music
+        type: select_one
+        options:
+          - Very dissatisfied
+          - Dissatisfied
+          - Neutral
+          - Satisfied
+          - Very satisfied
+        required: true
+      - id: 5
+        name: teaching_quality
+        label: Teaching quality
+        hint: Rate the quality of messages and sermons
+        type: select_one
+        options:
+          - Very poor
+          - Poor
+          - Average
+          - Good
+          - Excellent
+        required: true
+      - id: 6
+        name: community_engagement
+        label: Community engagement
+        hint: How well does the church support community needs
+        type: select_one
+        options:
+          - Not at all
+          - Poorly
+          - Adequately
+          - Well
+          - Exceptionally
+        required: true
+      - id: 7
+        name: volunteer_interest
+        label: Interest in volunteering
+        hint: Would you consider volunteering for church activities
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: true
+      - id: 8
+        name: suggestions
+        label: Suggestions for improvement
+        hint: Any ideas or feedback for leadership or null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: demographic_optional
+        label: Optional demographic information
+        hint: Age range or other details or null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: consent_contact
+        label: Consent to follow up
+        hint: Allow church staff to contact you about your feedback
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

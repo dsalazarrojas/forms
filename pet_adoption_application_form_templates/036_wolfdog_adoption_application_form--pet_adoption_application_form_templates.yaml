@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wolfdog Adoption Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_info
+      label: Household Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_conditions
+      label: Pet Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: pet_species
+      label: Pet Species
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: adoption_type
+      label: Adoption Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: adoption_fee
+      label: Adoption Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: adoption_fee_currency
+      label: Adoption Fee Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false

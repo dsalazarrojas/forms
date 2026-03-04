@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trash Can Strap Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      required: false
+    - id: 3
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Bob
+      - Joe
+      - Jane
+      - John
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card Number
+      - PayPal
+      - Bank
+      required: false
+    - id: 9
+      name: strap_length
+      label: Strap Length
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Courier
+      - Post
+      - Self Pick up
+      required: false
+    - id: 13
+      name: strap_color
+      label: Strap Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 14
+      name: strap_material
+      label: Strap Material
+      hint: null
+      type: select_multiple
+      options:
+      - Nylon
+      - Leather
+      - Canvas
+      required: false
+    - id: 15
+      name: strap_size
+      label: Strap Size
+      hint: null
+      type: select_multiple
+      options:
+      - S
+      - M
+      - L
+      required: false
+    - id: 16
+      name: strap_type
+      label: Strap Type
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Flat
+      - Custom
+      required: false
+    - id: 17
+      name: strap_color_note
+      label: Strap Color Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: strap_material_note
+      label: Strap Material Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: strap_size_note
+      label: Strap Size Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: strap_type_note
+      label: Strap Type Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

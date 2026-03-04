@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Collection Pre Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_artwork
+      label: -- Artwork Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artwork_id
+      label: Artwork ID or Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artwork_medium
+      label: Medium or Material
+      hint: Canvas, metal, wood, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Width x Height x Depth if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: edition_number
+      label: Edition Number or Print Number
+      hint: If limited edition
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_preorder
+      label: -- Pre-Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preorder_quantity
+      label: Quantity to Pre-Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: available_edition
+      label: Edition or Size Availability
+      hint: null
+      type: select_one
+      options:
+      - Original
+      - Limited edition print
+      - Open edition
+      - Custom size
+      required: true
+    - id: 16
+      name: expected_delivery
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: section_price
+      label: -- Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: total_price
+      label: Total Pre-Order Price
+      hint: Quantity x unit price
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: deposit_percentage
+      label: Deposit Required
+      hint: Percentage or amount
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 23
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Full payment now
+      - Deposit now - balance on delivery
+      - Custom arrangement
+      required: true
+    - id: 24
+      name: section_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: framing_request
+      label: Framing or Mounting Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Handling or Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

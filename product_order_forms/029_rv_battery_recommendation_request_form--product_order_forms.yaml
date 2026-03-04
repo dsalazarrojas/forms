@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Battery Recommendation Request Form
+    pages:
+    - id: 1
+      name: rv_batteries_camping_style
+      label: Camping style
+      hint: null
+      type: select_one
+      options:
+      - RVing
+      - Boating
+      - Marine
+      - Off Grid
+      - Trucking
+      - Construction
+      - Commercial
+      - Other
+      required: false
+    - id: 2
+      name: power_goals_batteries
+      label: Power goals
+      hint: null
+      type: select_multiple
+      options:
+      - High power
+      - Medium power
+      - Low power
+      required: false
+    - id: 3
+      name: battery_warranty
+      label: Battery warranty
+      hint: 2-3 years
+      type: select_one
+      options:
+      - 2 years
+      - 3 years
+      - No Warranty
+      required: false
+    - id: 4
+      name: preferred_location
+      label: Preferred location of installation
+      hint: null
+      type: select_multiple
+      options:
+      - Dealer
+      - Remote
+      - Home
+      - Other
+      required: false
+    - id: 5
+      name: preferred_installation_method
+      label: Preferred installation method
+      hint: null
+      type: select_multiple
+      options:
+      - Professional
+      - DIY
+      - Both
+      required: false
+    - id: 6
+      name: battery_size
+      label: Battery size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: battery_type
+      label: Battery type
+      hint: null
+      type: select_multiple
+      options:
+      - AGM
+      - Gel
+      - Maintenance Free
+      - Absorbed Glass Mat
+      - Other
+      required: false
+    - id: 8
+      name: battery_brand
+      label: Battery brand
+      hint: null
+      type: select_multiple
+      options:
+      - Trojan
+      - Deka
+      - Trojan-Deka
+      - Other
+      required: false
+    - id: 9
+      name: special_features
+      label: Special features
+      hint: null
+      type: select_multiple
+      options:
+      - Cold Cranking
+      - Deep Cycle
+      - Marine
+      - Off Grid
+      - Other
+      required: false
+    - id: 10
+      name: follow_up
+      label: Would you like to be contacted for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact number
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Email Address
+      type: email
+      options: []
+      required: false

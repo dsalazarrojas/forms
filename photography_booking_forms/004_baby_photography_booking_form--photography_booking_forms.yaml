@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Photography Booking Form
+    pages:
+    - id: 1
+      name: booking_header
+      label: -- Baby Photography Session Booking --
+      hint: Capture your little one's special moments
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Parent or Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For booking confirmation and gallery delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Mobile Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_type
+      label: Type of Photography Session
+      hint: null
+      type: select_one
+      options:
+      - Maternity
+      - Newborn (Hospital/Fresh 48)
+      - Newborn (Studio)
+      - Milestone (6 months)
+      - Cake Smash (1 year)
+      - Family Portrait
+      required: true
+    - id: 6
+      name: baby_name_age
+      label: Baby's Name and Age (at time of session)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_session_date
+      label: Preferred Session Date
+      hint: Subject to availability
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: alternative_date
+      label: Alternative Date Preference
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: Morning sessions are usually best for babies
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_location
+      label: Desired Location
+      hint: null
+      type: select_one
+      options:
+      - My Studio
+      - At Your Home
+      - Outdoor Location
+      required: true
+    - id: 11
+      name: photography_package
+      label: Choose Your Package
+      hint: Packages include digital files and prints
+      type: select_one
+      options:
+      - Basic - 10 Digital Images
+      - Essential - 25 Digital Images
+      - Premium - All Digitals + Album
+      - Mini Session
+      required: true
+    - id: 12
+      name: special_requests
+      label: Special Requests or Props to Include
+      hint: Let us know if you have specific themes or heirlooms
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: referral_source
+      label: How did you find my photography?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: terms_acceptance
+      label: I agree to the photography service terms and conditions
+      hint: Deposit is required to secure your date
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

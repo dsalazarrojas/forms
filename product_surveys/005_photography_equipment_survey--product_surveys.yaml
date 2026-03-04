@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Equipment Survey
+    pages:
+    - id: 1
+      name: photography_equipment_survey_intro
+      label: Photography Equipment Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: How satisfied are you with our photography equipment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      required: false
+    - id: 3
+      name: purchase_intent
+      label: What is the likelihood of you purchasing from us in the future?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 4
+      name: photography_equipment_owned
+      label: What photography equipment do you own?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Camera''}'
+      - '{''label'': ''Lens''}'
+      - '{''label'': ''Tripod''}'
+      - '{''label'': ''Flash''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: photography_equipment_planning_to_buy
+      label: What photography equipment do you plan to buy next?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Camera''}'
+      - '{''label'': ''Lens''}'
+      - '{''label'': ''Tripod''}'
+      - '{''label'': ''Flash''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: photography_equipment_recommendation
+      label: What do you think would be an ideal feature for our next photography
+        equipment product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photography_equipment_satisfaction
+      label: What do you think about the quality of our photography equipment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Not Good''}'
+      required: false
+    - id: 8
+      name: photography_equipment_price
+      label: What is your perception of the price of our photography equipment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Reasonable''}'
+      - '{''label'': ''Too High''}'
+      - '{''label'': ''Not Too High''}'
+      required: false
+    - id: 9
+      name: photography_equipment_purchase_from_us
+      label: What is the likelihood you would purchase from us?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 10
+      name: photography_equipment_recommend_to_friend
+      label: Would you recommend our photography equipment to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 11
+      name: photography_equipment_additional_comments
+      label: Do you have any additional comments about our photography equipment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photography_equipment_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: photography_equipment_phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photography_equipment_satisfaction_2
+      label: Would you like to see more of these types of questions?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false

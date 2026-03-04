@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Photography Contract
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_signed
+      label: Contract Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stripe''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Square''}'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''credit_card''}'
+      - '{''value'': ''bank_transfer''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''paid''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''unpaid''}'
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: amount_due
+      label: Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms_agreed
+      label: Payment Terms Agreed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

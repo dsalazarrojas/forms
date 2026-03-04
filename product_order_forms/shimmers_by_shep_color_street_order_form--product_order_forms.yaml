@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: Shimmers By Shep Color Street Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send a confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address_header
+      label: '--- Shipping Address ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_details_header
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order date
+      hint: Date you place the order
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: item_name
+      label: Item or product name
+      hint: Enter the exact name of the item
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_variant
+      label: Product variant
+      hint: Choose the variant you want
+      type: select_one
+      options:
+      - Regular
+      - Limited Edition
+      - Custom
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: Enter number of items
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit price
+      hint: Price per item (USD)
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose your shipping option
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Pickup
+      - Local Delivery
+      required: true
+    - id: 14
+      name: delivery_date
+      label: Requested delivery date
+      hint: Optional, if shipping
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: gift_wrap
+      label: Gift wrap
+      hint: Would you like gift wrapping?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: discount_code
+      label: Discount code
+      hint: Enter promotional code if you have one
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_priority
+      label: Order priority
+      hint: Select urgency level
+      type: select_one
+      options:
+      - Standard
+      - Expedited
+      - Urgent
+      required: false
+    - id: 19
+      name: payment_info_header
+      label: '--- Payment Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 21
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: Please agree to the terms before submitting
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information you wish to share
+      type: text
+      options: []
+      required: false

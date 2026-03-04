@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Merchandise Submission
+    pages:
+    - id: 1
+      name: section_creator_vendor_info
+      label: -- Creator and Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creator_full_name_merch
+      label: Creator or Vendor Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_or_brand_name
+      label: Business or Brand Name
+      hint: If applicable
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_for_merch
+      label: Contact Email for Submission
+      hint: For submission status and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: creator_phone_number
+      label: Creator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_merchandise_details
+      label: -- Merchandise Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: character_featured_in_merch
+      label: Character Featured in the Merchandise
+      hint: Which character is the product based on?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_category_type
+      label: Product Category
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Apparel (T-shirts, Hoodies)
+      - Accessories (Pins, Keychain)
+      - Stationery (Stickers, Journals)
+      - Home and Lifestyle (Mugs, Pillows)
+      - Collectibles (Figurines, Art Prints)
+      - Other
+      required: true
+    - id: 9
+      name: product_title_and_description
+      label: Product Title and Brief Description
+      hint: Provide a catchy name and what it is
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_production_and_sales
+      label: -- Production and Sales Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: manufacturing_method_used
+      label: Manufacturing Method Used
+      hint: How is the product being made?
+      type: select_one
+      options:
+      - Handmade by Creator
+      - Locally Produced
+      - Mass-Produced by Third Party
+      - Print-on-Demand
+      required: true
+    - id: 12
+      name: target_sale_price_point
+      label: Target Sale Price Point
+      hint: Estimated retail price per unit
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: availability_timeline_estimate
+      label: Availability Timeline Estimate
+      hint: When will the product be ready for sale?
+      type: select_one
+      options:
+      - Immediately Available
+      - Within 1-2 Months
+      - Within 3-6 Months
+      - Concept Stage
+      required: true
+    - id: 14
+      name: section_samples_and_images
+      label: -- Samples and Images --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: link_to_product_portfolio_images
+      label: Link to Product Images or Portfolio
+      hint: Provide a URL where we can see the product
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: physical_sample_availability
+      label: Is a physical sample available for review?
+      hint: null
+      type: select_one
+      options:
+      - Yes, ready to ship
+      - Available upon request
+      - No, digital concept only
+      required: true
+    - id: 17
+      name: section_submission_confirmation
+      label: -- Submission Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: accuracy_confirmation_creator_merch
+      label: Confirmation of Submission Details
+      hint: I confirm that I am the creator or authorized vendor for this merchandise
+      type: select_one
+      options:
+      - I Confirm and Submit Proposal
+      - Other
+      required: true
+    - id: 19
+      name: date_of_merchandise_submission_log
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_merchandise_comments
+      label: Additional Merchandise Comments
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: marketing_plan_summary
+      label: Marketing Plan Summary
+      hint: Briefly describe how you plan to promote this product
+      type: text
+      options: []
+      required: false

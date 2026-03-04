@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_clothing_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: items_ordered
+      label: Items Ordered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_options
+      label: Shipping Options
+      hint: null
+      type: select_multiple
+      options:
+      - Shipping Option 1
+      - Shipping Option 2
+      - Shipping Option 3
+      - Shipping Option 4
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - '...'
+      - Wyoming
+      required: true
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: select_one
+      options:
+      - '10001'
+      - '10002'
+      - '10003'
+      - '...'
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 23
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 24
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

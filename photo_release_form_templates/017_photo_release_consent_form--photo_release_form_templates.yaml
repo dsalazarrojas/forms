@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Photo Release Consent Form
+    pages:
+    - id: 1
+      name: photo_release_consent_form
+      label: Photo Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_info
+      label: Photographer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photo_owner
+      label: Photo Owner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Self''}'
+      - '{''value'': ''Parent or Guardian''}'
+      - '{''value'': ''Other (Specify below)''}'
+      required: false
+    - id: 4
+      name: specify_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purpose_of_shoot
+      label: Purpose of Shoot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Print''}'
+      - '{''value'': ''Internet''}'
+      - '{''value'': ''Both''}'
+      required: true
+    - id: 7
+      name: release_location
+      label: Release Location
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: photographer_signature
+      label: Photographer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_owner_signature
+      label: Photo Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: lab_request_form
+    pages:
+    - id: 1
+      name: test_request
+      label: What Tests Do You Want To Run
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_info
+      label: Patient Information
+      hint: Enter patient information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_description
+      label: Sample Description
+      hint: Describe the sample
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_results
+      label: Expected Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_samples
+      label: Patient Samples
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: test_priority
+      label: Test Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

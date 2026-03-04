@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Performance Analytics Support Request Form
+    pages:
+    - id: 1
+      name: performance_analytics_support_request_form_page_1
+      label: performance_analytics_support_request_form_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performance_analytics_support_request_form_page_2
+      label: select_analytics_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''tool_1'', ''label'': ''tool_1''}'
+      - '{''id'': 2, ''name'': ''tool_2'', ''label'': ''tool_2''}'
+      - '{''id'': 3, ''name'': ''tool_3'', ''label'': ''tool_3''}'
+      required: true
+    - id: 3
+      name: performance_analytics_support_request_form_page_3
+      label: select_analytics_tool_version
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''version_1'', ''label'': ''version_1''}'
+      - '{''id'': 2, ''name'': ''version_2'', ''label'': ''version_2''}'
+      required: false
+    - id: 4
+      name: performance_analytics_support_request_form_page_4
+      label: select_data_source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''data_source_1'', ''label'': ''data_source_1''}'
+      - '{''id'': 2, ''name'': ''data_source_2'', ''label'': ''data_source_2''}'
+      - '{''id'': 3, ''name'': ''data_source_3'', ''label'': ''data_source_3''}'
+      required: true
+    - id: 5
+      name: performance_analytics_support_request_form_page_5
+      label: date_of_occurrence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: performance_analytics_support_request_form_page_6
+      label: select_time_of_day
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''time_of_day_1'', ''label'': ''morning''}'
+      - '{''id'': 2, ''name'': ''time_of_day_2'', ''label'': ''afternoon''}'
+      - '{''id'': 3, ''name'': ''time_of_day_3'', ''label'': ''evening''}'
+      required: true
+    - id: 7
+      name: performance_analytics_support_request_form_page_7
+      label: select_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''priority_1'', ''label'': ''high''}'
+      - '{''id'': 2, ''name'': ''priority_2'', ''label'': ''low''}'
+      - '{''id'': 3, ''name'': ''priority_3'', ''label'': ''medium''}'
+      required: true
+    - id: 8
+      name: performance_analytics_support_request_form_page_8
+      label: select_urgency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''urgency_1'', ''label'': ''urgent''}'
+      - '{''id'': 2, ''name'': ''urgency_2'', ''label'': ''not_urgent''}'
+      - '{''id'': 3, ''name'': ''urgency_3'', ''label'': ''sometime_in_a_week''}'
+      required: true

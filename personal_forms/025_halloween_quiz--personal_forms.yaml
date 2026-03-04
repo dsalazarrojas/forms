@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Quiz
+    pages:
+    - id: 1
+      name: halloween_quiz_page_1
+      label: What is your favorite Halloween movie
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Horror''}'
+      - '{''options'': ''Comedy''}'
+      - '{''options'': ''Action''}'
+      required: false
+    - id: 2
+      name: halloween_quiz_page_2
+      label: Who is your favorite Halloween character
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: halloween_quiz_page_2_2
+      label: When do you start feeling spooky
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: halloween_quiz_page_3
+      label: What is your favorite Halloween song
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Thriller''}'
+      - '{''options'': ''Monster Mash''}'
+      - '{''options'': "Don''t Fear the Reaper"}'
+      required: false
+    - id: 5
+      name: halloween_quiz_page_4
+      label: How many times have you celebrated Halloween
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''5 or more''}'
+      - '{''options'': ''3-4''}'
+      - '{''options'': ''1-2''}'
+      required: false
+    - id: 6
+      name: halloween_quiz_page_4_2
+      label: When is your birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: halloween_quiz_page_5
+      label: What time do you usually go trick-or-treat
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: halloween_quiz_page_6
+      label: Have you ever attended a Halloween party
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      - '{''options'': ''Maybe''}'
+      required: false
+    - id: 9
+      name: halloween_quiz_page_7
+      label: How many times do you usually watch Halloween movies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''5 or more''}'
+      - '{''options'': ''3-4''}'
+      - '{''options'': ''1-2''}'
+      required: false
+    - id: 10
+      name: halloween_quiz_page_8
+      label: What is your favorite Halloween activity
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Trick-or-treating''}'
+      - '{''options'': ''Attending a costume party''}'
+      - '{''options'': ''Watching horror movies''}'
+      required: false
+    - id: 11
+      name: halloween_quiz_page_9
+      label: Do you like pumpkin soup
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 12
+      name: halloween_quiz_page_10
+      label: Which of the following is your favorite Halloween color
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Red''}'
+      - '{''options'': ''Green''}'
+      - '{''options'': ''Purple''}'
+      required: false
+    - id: 13
+      name: halloween_quiz_page_11
+      label: What time do you usually go out on Halloween night
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: halloween_quiz_page_12
+      label: Have you ever gone on a ghost tour
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 15
+      name: halloween_quiz_page_13
+      label: What is your favorite type of candy
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': "Reese''s"}'
+      - '{''options'': ''Jolly Rancher''}'
+      - '{''options'': ''Gummy worms''}'
+      required: false
+    - id: 16
+      name: halloween_quiz_page_14
+      label: Who do you usually go out with on Halloween night
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Family''}'
+      - '{''options'': ''Friends''}'
+      - '{''options'': ''Alone''}'
+      required: false
+    - id: 17
+      name: halloween_quiz_page_15
+      label: Do you like scary movies
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 18
+      name: halloween_quiz_page_16
+      label: What do you usually wear on Halloween night
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Costume''}'
+      - '{''options'': ''Casual''}'
+      - '{''options'': ''Formal''}'
+      required: false
+    - id: 19
+      name: halloween_quiz_page_17
+      label: How many times do you usually eat candy on Halloween night
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''5 or more''}'
+      - '{''options'': ''3-4''}'
+      - '{''options'': ''1-2''}'
+      required: false
+    - id: 20
+      name: halloween_quiz_page_18
+      label: Have you ever gone on a haunted house tour
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 21
+      name: halloween_quiz_page_19
+      label: Do you like Halloween
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 22
+      name: halloween_quiz_page_20
+      label: What is the best time for trick-or-treating
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: halloween_quiz_page_21
+      label: Have you ever seen the real Ghostbusters
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 24
+      name: halloween_quiz_page_22
+      label: Have you ever gone to a haunted asylum on Halloween
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 25
+      name: halloween_quiz_page_23
+      label: Would you rather be a vampire or a werewolf
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Vampire''}'
+      - '{''options'': ''Werewolf''}'
+      required: false

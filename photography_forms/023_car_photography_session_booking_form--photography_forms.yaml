@@ -1,0 +1,348 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Photography Session Booking Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For session communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_organization
+      label: Company or Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about the vehicle to photograph
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Showroom/Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Needs detailing
+      required: true
+    - id: 13
+      name: vehicle_modifications
+      label: Vehicle Modifications
+      hint: Any custom modifications?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_ownership
+      label: Vehicle Ownership
+      hint: Do you own this vehicle?
+      type: select_one
+      options:
+      - Yes - I am the owner
+      - No - I have permission
+      - No - dealer vehicle
+      - No - client vehicle
+      required: true
+    - id: 15
+      name: session_details
+      label: Session Details
+      hint: Your photography session preferences
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_type
+      label: Session Type
+      hint: What type of shoot?
+      type: select_one
+      options:
+      - Portfolio/Personal
+      - Commercial/Advertising
+      - Social Media
+      - Event Coverage
+      - Dealership Inventory
+      - Magazine/Publication
+      - Other
+      required: true
+    - id: 17
+      name: session_date
+      label: Preferred Session Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: session_time
+      label: Preferred Session Time
+      hint: Time of day
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: session_duration
+      label: Expected Duration
+      hint: How long?
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 3-4 hours
+      - Full day
+      - Multiple days
+      required: true
+    - id: 20
+      name: location_preference
+      label: Location Preference
+      hint: Where do you want to shoot?
+      type: select_one
+      options:
+      - Studio
+      - Urban/City
+      - Natural/Outdoor
+      - Garage/Industrial
+      - Racetrack
+      - Scenic route
+      - Client's location
+      - Other
+      required: true
+    - id: 21
+      name: location_address
+      label: Location Address
+      hint: Specific address if known
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: backup_date
+      label: Backup Date
+      hint: Alternative date
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: photography_style
+      label: Photography Style
+      hint: Desired style
+      type: select_multiple
+      options:
+      - Classic/Traditional
+      - Modern/Contemporary
+      - Dramatic/High contrast
+      - Natural/Light
+      - Action/Motion
+      - Detail-focused
+      - Artistic/Creative
+      - Documentary
+      required: true
+    - id: 24
+      name: shot_list
+      label: Shot List
+      hint: Specific shots you want
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: package_selection
+      label: Package Selection
+      hint: Choose your package
+      type: select_one
+      options:
+      - Basic - 10 edited photos - $200
+      - Standard - 25 edited photos - $400
+      - Premium - 50 edited photos - $700
+      - Commercial - 100+ photos - $1,200
+      - Custom package
+      required: true
+    - id: 26
+      name: additional_services
+      label: Additional Services
+      hint: Add-ons
+      type: select_multiple
+      options:
+      - Vehicle detailing before shoot - $100
+      - Drone photography - $150
+      - Video reel - $300
+      - Rush editing - $100
+      - Print package - $200
+      - Social media package - $150
+      - None
+      required: false
+    - id: 27
+      name: props_needed
+      label: Props Needed
+      hint: Any props required?
+      type: select_one
+      options:
+      - No props
+      - Lighting equipment
+      - Backdrop
+      - Smoke/fog effects
+      - Models
+      - Other
+      required: false
+    - id: 28
+      name: props_details
+      label: Props Details
+      hint: Describe props
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: weather_contingency
+      label: Weather Contingency
+      hint: Plan for bad weather
+      type: select_one
+      options:
+      - Reschedule
+      - Indoor backup location
+      - Proceed anyway
+      - Undecided
+      required: true
+    - id: 30
+      name: payment_information
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: deposit_paid
+      label: Deposit Payment
+      hint: Deposit required to book
+      type: select_one
+      options:
+      - Yes - ready to pay
+      - Need invoice
+      - Already paid
+      required: true
+    - id: 32
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      - Cash
+      required: true
+    - id: 33
+      name: usage_rights
+      label: Usage Rights
+      hint: How will photos be used?
+      type: select_multiple
+      options:
+      - Personal use
+      - Social media
+      - Commercial advertising
+      - Print publication
+      - Website
+      - Portfolio
+      - Resale
+      required: true
+    - id: 34
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Referral
+      - Advertisement
+      - Previous client
+      - Other
+      required: false
+    - id: 36
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to terms?
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree
+      required: true
+    - id: 37
+      name: booking_date
+      label: Booking Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

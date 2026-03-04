@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Feedback Culture Survey
+    pages:
+    - id: 1
+      name: feedback_culture_intro
+      label: Academic Peer Feedback Culture Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Academic Community
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - Faculty member
+      - Graduate student
+      - Undergraduate student
+      - Administrator
+      - Staff member
+      - Postdoctoral researcher
+      - Other
+      required: true
+    - id: 3
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of experience do you have in academia?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department_college
+      label: Department or College
+      hint: Your primary academic department or college
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: peer_feedback_frequency
+      label: Peer Feedback Frequency
+      hint: How often do you give or receive peer feedback?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: comfort_with_giving_feedback
+      label: Comfort with Giving Feedback
+      hint: How comfortable are you giving feedback to peers? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comfort_with_receiving_feedback
+      label: Comfort with Receiving Feedback
+      hint: How comfortable are you receiving feedback from peers? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback_quality_rating
+      label: Feedback Quality Rating
+      hint: How would you rate the quality of peer feedback in your institution? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: feedback_culture_rating
+      label: Feedback Culture Rating
+      hint: How would you rate the peer feedback culture in your institution? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: feedback_benefits_perceived
+      label: Perceived Benefits of Peer Feedback
+      hint: What benefits do you see in peer feedback? (Select all that apply)
+      type: select_multiple
+      options:
+      - Improved teaching methods
+      - Enhanced research collaboration
+      - Professional development
+      - Increased accountability
+      - Better communication
+      - Reduced isolation
+      - Quality improvement
+      - None
+      required: false
+    - id: 11
+      name: feedback_challenges_perceived
+      label: Perceived Challenges of Peer Feedback
+      hint: What challenges do you see in peer feedback? (Select all that apply)
+      type: select_multiple
+      options:
+      - Time constraints
+      - Lack of training
+      - Power dynamics
+      - Defensiveness
+      - Lack of trust
+      - Unclear guidelines
+      - Fear of retaliation
+      - None
+      required: false
+    - id: 12
+      name: feedback_format_preference
+      label: Preferred Feedback Format
+      hint: What format do you prefer for peer feedback?
+      type: select_one
+      options:
+      - Formal written reports
+      - Informal conversations
+      - Structured meetings
+      - Online surveys
+      - Peer observation
+      - Group discussions
+      - Other
+      required: true
+    - id: 13
+      name: feedback_anonymity_preference
+      label: Feedback Anonymity Preference
+      hint: Do you prefer anonymous or attributed feedback?
+      type: select_one
+      options:
+      - Anonymous feedback
+      - Attributed feedback
+      - Either is fine
+      - Depends on context
+      required: true
+    - id: 14
+      name: feedback_training_received
+      label: Feedback Training Received
+      hint: Have you received training on giving or receiving peer feedback?
+      type: select_one
+      options:
+      - Yes, extensive training
+      - Yes, some training
+      - No, but interested
+      - No, and not interested
+      required: true
+    - id: 15
+      name: feedback_guidelines_clarity
+      label: Clarity of Feedback Guidelines
+      hint: How clear are the guidelines for peer feedback in your institution? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: feedback_impact_on_performance
+      label: Impact on Performance
+      hint: How much has peer feedback influenced your academic performance? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What would improve the peer feedback culture at your institution?
+      type: text
+      options: []
+      required: false

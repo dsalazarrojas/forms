@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: police_brutality_survey
+    pages:
+    - id: 1
+      name: police_brutality_survey_page_1
+      label: Police Brutality Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: police_brutality_survey_page_2
+      label: police_brutality_survey_questions
+      hint: null
+      type: select_multiple
+      options:
+      - Police Brutality
+      - Police Conduct
+      - Police Use of Force
+      required: false
+    - id: 3
+      name: police_brutality_survey_page_3
+      label: police_brutality_survey_experiences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: police_brutality_survey_page_4
+      label: police_brutality_survey_perceptions
+      hint: null
+      type: select_one
+      options:
+      - police_brutality_survey_police
+      - police_brutality_survey_community
+      required: false
+    - id: 5
+      name: police_brutality_survey_page_5
+      label: police_brutality_survey_justification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: police_brutality_survey_page_6
+      label: police_brutality_survey_frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: police_brutality_survey_page_7
+      label: police_brutality_survey_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: police_brutality_survey_page_8
+      label: police_brutality_survey_justification
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Photo Transfer Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transfer_format
+      label: Transfer Format
+      hint: null
+      type: select_one
+      options:
+      - jpg
+      - png
+      - tiff
+      required: true
+    - id: 6
+      name: design_details
+      label: Design Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: file_uploader
+      label: File Uploader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_uploader_label
+      label: File Uploader Label
+      hint: null
+      type: text
+      options: []
+      required: false

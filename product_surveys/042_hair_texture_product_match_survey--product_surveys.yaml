@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Texture Product Match Survey
+    pages:
+    - id: 1
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_multiple
+      options:
+      - Fine
+      - Coarse
+      - Wavy
+      - Straight
+      - Curly
+      - Very Curly
+      - Bouncy
+      - Dry
+      required: false
+    - id: 2
+      name: hair_type
+      label: hair type
+      hint: null
+      type: select_one
+      options:
+      - Natural
+      - Chemical-processed
+      - Synthetic
+      required: false
+    - id: 3
+      name: length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Blond
+      - Brown
+      - Red
+      - Grey
+      - Other
+      required: false
+    - id: 5
+      name: hair_porosity
+      label: Hair Porosity
+      hint: null
+      type: select_one
+      options:
+      - Porous
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: hair_density
+      label: Hair Density
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Thick
+      - Very Thick
+      required: false
+    - id: 7
+      name: product_match
+      label: Product Match
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: salon_preferences
+      label: Salon Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

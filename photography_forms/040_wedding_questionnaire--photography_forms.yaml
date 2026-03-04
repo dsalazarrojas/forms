@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''name'', ''value'': ''Name''}'
+      - '{''name'': ''email'', ''value'': ''Email''}'
+      - '{''name'': ''phone'', ''value'': ''Phone''}'
+      required: false
+    - id: 3
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: services_wanted
+      label: Services Wanted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''photography'', ''value'': ''Photography''}'
+      - '{''name'': ''videography'', ''value'': ''Videography''}'
+      - '{''name'': ''wedding_party'', ''value'': ''Wedding Party''}'
+      required: false
+    - id: 7
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes_and_comments
+      label: Notes and Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''online'', ''value'': ''Online''}'
+      - '{''name'': ''bank_transfer'', ''value'': ''Bank Transfer''}'
+      - '{''name'': ''cash'', ''value'': ''Cash''}'
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

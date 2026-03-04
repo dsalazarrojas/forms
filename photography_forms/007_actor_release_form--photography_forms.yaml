@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Actor Release Form
+    pages:
+    - id: 1
+      name: --release_information
+      label: -- Release Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performer_name
+      label: Performer name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project name
+      hint: Production or campaign name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: usage_description
+      label: Usage description
+      hint: How images audio or footage will be used
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: compensation
+      label: Compensation details
+      hint: Payment terms or free usage note
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_for_use
+      label: Consent for use
+      hint: Agreement to allow use of likeness
+      type: select_one
+      options: [Agree, Decline]
+      required: true
+    - id: 7
+      name: duration_of_rights
+      label: Duration of rights granted
+      hint: Time period for usage rights
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact information
+      hint: Address phone or email for notices
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature_name
+      label: Name for signature record
+      hint: Typed name accepted as signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true

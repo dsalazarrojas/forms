@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Keychain Order Form
+    pages:
+    - id: 1
+      name: keychain_order_form_first_page
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: keychain_order_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: keychain_order_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: keychain_order_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: keychain_order_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: keychain_order_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: keychain_order_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: keychain_order_keychain_type
+      label: keychain_type
+      hint: null
+      type: select_one
+      options:
+      - Custom
+      - Default
+      - Premium
+      required: true
+    - id: 9
+      name: keychain_order_size
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 10
+      name: keychain_order_chain_name
+      label: chain_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: keychain_order_chain_color
+      label: chain_color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: keychain_order_keychain_text
+      label: keychain_text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: keychain_order_keychain_color
+      label: keychain_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: keychain_order_keychain_message
+      label: keychain_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: keychain_order_keychain_image
+      label: keychain_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: keychain_order_keychain_text_color
+      label: keychain_text_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: keychain_order_keychain_message_color
+      label: keychain_message_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: keychain_order_keychain_background_color
+      label: keychain_background_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: keychain_order_keychain_size
+      label: keychain_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: keychain_order_keychain_shape
+      label: keychain_shape
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: keychain_order_keychain_text_size
+      label: keychain_text_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: keychain_order_keychain_line_height
+      label: keychain_line_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: keychain_order_keychain_font_size
+      label: keychain_font_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: keychain_order_keychain_line_weight
+      label: keychain_line_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: keychain_order_keychain_color_depth
+      label: keychain_color_depth
+      hint: null
+      type: number
+      options: []
+      required: false

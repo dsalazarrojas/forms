@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Model Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: Select a date for delivery
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: How many drones do you want to order?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Black
+      required: true
+    - id: 9
+      name: model
+      label: Model
+      hint: What drone model would you like to pre-order?
+      type: select_multiple
+      options:
+      - Model 1
+      - Model 2
+      - Model 3
+      required: true
+    - id: 10
+      name: message
+      label: Message
+      hint: Any additional comments or questions?
+      type: note
+      options: []
+      required: false

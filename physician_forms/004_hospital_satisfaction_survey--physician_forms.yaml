@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How would you rate your overall satisfaction with your visit to this
+        hospital?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 3
+      name: question2
+      label: How would you rate your satisfaction with the doctor who treated you?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 4
+      name: question3
+      label: How would you rate the wait time for this visit?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Less than 15 minutes''}'
+      - '{''label'': ''15-30 minutes''}'
+      - '{''label'': ''30-45 minutes''}'
+      - '{''label'': ''More than 60 minutes''}'
+      required: false
+    - id: 5
+      name: question4
+      label: How would you rate the quality of care provided by the doctor?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very low''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Very high''}'
+      required: false
+    - id: 6
+      name: question5
+      label: How would you rate the quality of care provided by the nurses?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very low''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Very high''}'
+      required: false
+    - id: 7
+      name: question6
+      label: How would you rate the cleanliness of the hospital?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 8
+      name: question7
+      label: How would you rate the hospital's parking facilities?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 9
+      name: question8
+      label: How would you rate the hospital's food services?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 10
+      name: question9
+      label: How would you rate the hospital's overall atmosphere?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 11
+      name: question10
+      label: How would you rate the hospital's overall satisfaction?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 12
+      name: comments
+      label: Do you have any comments regarding your visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hospital_location
+      label: Hospital location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_location
+      label: Doctor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: date1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: question11
+      label: Did you visit this hospital previously?
+      hint: Yes or No
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: question12
+      label: How would you rate your overall visit?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 24
+      name: question13
+      label: How likely are you to recommend this hospital?
+      hint: Please select from the scale below
+      type: select_one
+      options:
+      - '{''label'': ''Not likely''}'
+      - '{''label'': ''Somewhat unlikely''}'
+      - '{''label'': ''Undecided''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Very likely''}'
+      required: false
+    - id: 25
+      name: question14
+      label: Do you plan on visiting this hospital again?
+      hint: Yes or No
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

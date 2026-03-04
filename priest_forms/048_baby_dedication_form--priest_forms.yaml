@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Dedication Form
+    pages:
+    - id: 1
+      name: section_family_info
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: baby_name
+      label: Baby's Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: baby_date_of_birth
+      label: Baby's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: baby_gender
+      label: Baby's Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 5
+      name: parent_1_name
+      label: Parent/Guardian 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_1_email
+      label: Parent/Guardian 1 Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_1_phone
+      label: Parent/Guardian 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_2_name
+      label: Parent/Guardian 2 Name (if applicable)
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_2_email
+      label: Parent/Guardian 2 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: section_church_info
+      label: -- Church Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: church_name
+      label: Church Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pastor_name
+      label: Pastor or Minister Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dedication_date
+      label: Desired Dedication Date
+      hint: When should the dedication occur?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_commitment
+      label: -- Commitment and Promises --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: commitment_statement
+      label: Your Commitment Statement
+      hint: How will you raise your child in faith?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: spiritual_values
+      label: Important Spiritual Values to Teach
+      hint: What do you want to instill?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: godparents_chosen
+      label: Godparents or Sponsors Chosen?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 18
+      name: godparent_1_name
+      label: Godparent or Sponsor 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: godparent_2_name
+      label: Godparent or Sponsor 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_ceremony_details
+      label: -- Ceremony Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: ceremony_type
+      label: Type of Dedication Ceremony
+      hint: null
+      type: select_one
+      options:
+      - Full dedication service
+      - Special blessing
+      - Infant baptism
+      - Other
+      required: false
+    - id: 22
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Family and friends
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: reception_planned
+      label: Reception Planned After Service?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Considerations
+      hint: Music, readings, traditions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_agreement
+      label: I understand and agree to participate in this dedication
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

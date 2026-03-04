@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resistance Band Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_select
+      label: Product Select
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

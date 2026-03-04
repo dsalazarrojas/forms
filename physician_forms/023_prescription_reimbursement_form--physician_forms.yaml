@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Reimbursement Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prescription
+      label: Prescription
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 0}'
+      required: false
+    - id: 3
+      name: prescription_info
+      label: Prescription Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_treatment
+      label: Patient Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 0}'
+      required: false
+    - id: 8
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_zip
+      label: Patient Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_city
+      label: Physician City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_state
+      label: Physician State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_zip
+      label: Physician Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: physician_email
+      label: Physician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prescription_number
+      label: Prescription Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Waiver Release Form
+    pages:
+    - id: 1
+      name: general_waiver_release_form
+      label: General Waiver Release Form
+      hint: Use for any purpose
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer Name
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: photographer_address
+      label: Photographer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - Client Agreed
+      - Not Client Agreed
+      required: false
+    - id: 14
+      name: photographer_agreement
+      label: Photographer Agreement
+      hint: null
+      type: select_one
+      options:
+      - Photographer Agreed
+      - Not Photographer Agreed
+      required: false
+    - id: 15
+      name: waiver_signed
+      label: Waiver Signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: waiver_date
+      label: Waiver Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: waiver_time
+      label: Waiver Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: waiver_note
+      label: Waiver Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: photographer_fee
+      label: Photographer Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_fee
+      label: Event Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photographer_expense
+      label: Photographer Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_expense
+      label: Event Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: waiver_total
+      label: Waiver Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: waiver_paid
+      label: Waiver Paid
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: photographer_sign
+      label: Photographer Signature
+      hint: Signature of Photographer
+      type: note
+      options: []
+      required: false

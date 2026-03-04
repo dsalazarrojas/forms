@@ -1,0 +1,60 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: trade reflection journal
+    pages:
+    - id: 1
+      name: trade_date
+      label: Trade Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: trade_type
+      label: Trade Type
+      hint: null
+      type: select_one
+      options:
+      - Trade
+      - Non-Trade
+      required: false
+    - id: 3
+      name: trade_details
+      label: Trade Details
+      hint: Write a brief description of the trade.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trade_reflection
+      label: Trade Reflection
+      hint: What did you learn from the trade?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trade_action_items
+      label: Action Items
+      hint: List any action items from this trade.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trade_notes
+      label: Trade Notes
+      hint: Additional notes about the trade.
+      type: text
+      options: []
+      required: false

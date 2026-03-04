@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packing Cubes Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_postal_code
+      label: zip/postal code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_details
+      label: order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_note
+      label: customer note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_count
+      label: number of products
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_type
+      label: product type
+      hint: null
+      type: select_one
+      options:
+      - Cuboid
+      - Cubo
+      - Cubelet
+      - Cube
+      - Packed Cuboid
+      - Packed Cubo
+      - Packed Cube
+      - Packed Cubelet
+      - Packed Cube
+      required: false
+    - id: 14
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_id
+      label: customer id
+      hint: null
+      type: text
+      options: []
+      required: false

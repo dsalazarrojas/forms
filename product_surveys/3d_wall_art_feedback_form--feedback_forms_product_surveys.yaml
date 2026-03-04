@@ -1,0 +1,172 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Wall Art Feedback Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- 3D Wall Art Customer Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to follow up on your feedback
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: purchase_date
+      label: When did you purchase your 3D wall art?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: product_line
+      label: Which 3D wall art product line did you purchase?
+      hint: null
+      type: select_one
+      options:
+      - Geometric Patterns
+      - Nature Landscapes
+      - Abstract Art
+      - Modern Minimalist
+      - Vintage Collection
+      - Custom Design
+      required: true
+    - id: 6
+      name: satisfaction
+      label: How satisfied are you with your 3D wall art?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 7
+      name: installation_experience
+      label: How would you rate the installation process?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 8
+      name: quality_rating
+      label: Quality rating of the 3D wall art (1-10)
+      hint: 1 = Poor quality, 10 = Excellent quality
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: key_features
+      label: Which aspects influenced your satisfaction most? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Visual appeal
+      - Durability
+      - Installation ease
+      - Value for money
+      - Color accuracy
+      - Depth effect
+      - Size proportions
+      required: false
+    - id: 10
+      name: likelihood_to_recommend
+      label: How likely are you to recommend our 3D wall art to others? (0-10)
+      hint: 0 = not at all, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: price_perception
+      label: How do you perceive the pricing of our 3D wall art?
+      hint: null
+      type: select_one
+      options:
+      - Great value
+      - Fair price
+      - Slightly expensive
+      - Too expensive
+      required: true
+    - id: 12
+      name: room_placement
+      label: Where did you install the 3D wall art?
+      hint: null
+      type: select_one
+      options:
+      - Living room
+      - Bedroom
+      - Office
+      - Dining room
+      - Hallway
+      - Other
+      required: false
+    - id: 13
+      name: light_condition
+      label: How does lighting affect the appearance of the 3D effect?
+      hint: null
+      type: select_one
+      options:
+      - Excellent in all lighting
+      - Better in bright light
+      - Better in dim light
+      - No difference
+      - Poor in all lighting
+      required: false
+    - id: 14
+      name: improvement_suggestion
+      label: What would you improve about our 3D wall art products?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Feel free to share any other thoughts
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_permission
+      label: May we contact you for further feedback or product updates?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

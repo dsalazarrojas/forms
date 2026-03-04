@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding DVD Application Form
+    pages:
+    - id: 1
+      name: wedding_dvd_application_form
+      label: Wedding DVD Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_video_services
+      label: Wedding Video Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: videographer
+      label: Videographer
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: wedding_video_order
+      label: Wedding Video Order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: video_format
+      label: Video Format
+      hint: null
+      type: select_one
+      options:
+      - HD
+      - SD
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_cost
+      label: Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: videographer_notes
+      label: Videographer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

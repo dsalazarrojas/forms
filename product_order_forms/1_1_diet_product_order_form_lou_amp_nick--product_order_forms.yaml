@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1:1 Diet Product Order Form Lou & Nick
+    pages:
+    - id: 1
+      name: section_header_customer_info
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Receipt and order updates will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, include country code (e.g., +1...)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 6
+      name: section_header_order_details
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: product_sku
+      label: Product SKU or code
+      hint: Provide SKU if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_name
+      label: Item or product name
+      hint: "Exact product name (e.g., 1:1 Diet - 28 Day Pack)"
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Enter the number of units
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: unit_price
+      label: Unit price (USD)
+      hint: Price per unit, numbers only
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: total_price
+      label: Total price (USD)
+      hint: Unit price × quantity — enter total or leave for staff to calculate
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: include_gift_wrap
+      label: Include gift wrap
+      hint: Small additional fee may apply
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Preferred delivery method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery address
+      hint: Leave blank if choosing Pickup
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_date
+      label: Requested delivery date
+      hint: Optional — we'll confirm availability
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Allergies, substitutions, packaging requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 19
+      name: card_last4
+      label: Card last 4 digits
+      hint: Optional — useful for reconciliation if paying by card
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: subscribe_newsletter
+      label: Subscribe to Lou & Nick updates
+      hint: Receive product news, offers and tips
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: order_status
+      label: Order status (internal)
+      hint: For staff use
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Processing
+      - Shipped
+      - Completed
+      - Cancelled
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information relevant to this order
+      type: text
+      options: []
+      required: false

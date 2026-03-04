@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Mini Session Contract
+    pages:
+    - id: 1
+      name: holiday_mini_session_contract
+      label: Session Details
+      hint: Please fill out the following information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contracted_for
+      label: Contracted For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms_signed
+      label: Signed Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms_date
+      label: Payment Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms_signed_date
+      label: Payment Terms Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false

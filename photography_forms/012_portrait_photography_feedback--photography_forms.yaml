@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portrait Photography Feedback
+    pages:
+    - id: 1
+      name: session_rating
+      label: session_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: favorite_images
+      label: favorite_images
+      hint: null
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      - Image 4
+      - Image 5
+      required: false

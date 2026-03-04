@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Winding Up Petition Form
+    pages:
+    - id: 1
+      name: petitioner_info_section
+      label: -- Petitioner Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_name
+      label: Petitioner Full Name or Entity Name
+      hint: The person or company bringing the petition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: petitioner_type
+      label: Petitioner Type
+      hint: Select your relationship to the company
+      type: select_one
+      options:
+      - Creditor
+      - Contributory (Shareholder)
+      - Director
+      - Secretary of State
+      - Other Authorized Person
+      required: true
+    - id: 4
+      name: petitioner_contact_email
+      label: Petitioner Contact Email
+      hint: Official email for legal correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: respondent_company_section
+      label: -- Respondent Company Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: target_company_name
+      label: Name of Company to be Wound Up
+      hint: Full legal name as registered
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_company_registration_number
+      label: Company Registration Number
+      hint: Unique identifier from the national registry
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: registered_office_address
+      label: Registered Office Address
+      hint: Physical address of the company's registered office
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: petition_grounds_section
+      label: -- Grounds for Petition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: grounds_for_winding_up
+      label: Grounds for Winding Up
+      hint: Select the primary reason for the petition
+      type: select_one
+      options:
+      - Company is unable to pay its debts
+      - Just and equitable ground
+      - Default in delivering statutory report
+      - Suspension of business for a whole year
+      required: true
+    - id: 11
+      name: total_debt_amount
+      label: Total Debt Amount
+      hint: Specify the total amount owed by the company (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: debt_evidence_summary
+      label: Summary of Evidence
+      hint: Briefly describe the evidence of insolvency or other grounds
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: legal_representative_name
+      label: Legal Representative Name
+      hint: Name of the solicitor or firm acting for the petitioner
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: petition_date
+      label: Date of Petition
+      hint: Official filing date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: verification_statement
+      label: I verify that the facts stated in this petition are true
+      hint: Legal verification statement
+      type: select_one
+      options:
+      - I so verify
+      - Other
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distillery Selection Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Distillery Selection Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: distillery_preferences
+      label: What do you enjoy the most at a distillery?
+      hint: Please select one or more.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Atmosphere''}'
+      - '{''id'': 2, ''name'': ''Ambience''}'
+      - '{''id'': 3, ''name'': ''Food and Drink''}'
+      required: true
+    - id: 3
+      name: distillery_experience
+      label: What do you usually do at a distillery?
+      hint: Please select one or more.
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Tour''}'
+      - '{''id'': 2, ''name'': ''Event''}'
+      - '{''id'': 3, ''name'': ''Meet and Greet''}'
+      required: true
+    - id: 4
+      name: distillery_visits
+      label: How often do you visit distilleries?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      - '{''id'': 4, ''name'': ''Never''}'
+      required: true
+    - id: 5
+      name: distillery_preferences
+      label: What are you looking for in a distillery?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: distillery_rating
+      label: How would you rate this distillery?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: distillery_comments
+      label: Any additional comments about this distillery?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: distillery_email
+      label: Would you like to be contacted by the distillery?
+      hint: null
+      type: email
+      options: []
+      required: false

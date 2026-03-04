@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Action Figure Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the person placing the pre-order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Email address for order confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: Phone number for order-related communication
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete address where the action figure should be shipped
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: action_figure_name
+      label: Name of Action Figure
+      hint: Official name of the action figure being pre-ordered
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: character_universe
+      label: Character Universe
+      hint: Franchise or universe the character belongs to
+      type: select_one
+      options:
+      - Marvel
+      - DC
+      - Star Wars
+      - Anime
+      - Video Game
+      - Movie
+      - TV Show
+      - Original Design
+      - Other
+      required: true
+    - id: 7
+      name: variant_selection
+      label: Variant Selection
+      hint: If applicable, select the specific variant of the figure
+      type: select_one
+      options:
+      - Standard Edition
+      - Collector's Edition
+      - Exclusive Variant
+      - Convention Exclusive
+      - Not Applicable
+      required: false
+    - id: 8
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: How many of this action figure are you ordering
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any special packaging or handling requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: estimated_release_date
+      label: Estimated Release Date
+      hint: When do you expect the figure to be released
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the pre-order
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 12
+      name: order_total
+      label: Estimated Order Total
+      hint: Approximate total cost of the pre-order
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: shipping_preference
+      label: Shipping Preference
+      hint: How would you like the item shipped
+      type: select_one
+      options:
+      - Standard Shipping
+      - Expedited Shipping
+      - Express Overnight
+      - Will Call/Pickup
+      required: true

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_waiver_release_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: photo_release_date
+      label: photo_release_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_release_time
+      label: photo_release_time
+      hint: "12:00 AM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: release_purpose
+      label: release_purpose
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_release_type
+      label: photo_release_type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 12
+      name: photo_capture_device
+      label: photo_capture_device
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 13
+      name: photo_capture_method
+      label: photo_capture_method
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 14
+      name: location
+      label: location_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature_date
+      label: signature_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: time_signed
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: true

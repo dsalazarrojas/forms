@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Clearance Form
+    pages:
+    - id: 1
+      name: form_number
+      label: Medical Clearance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_clearance
+      label: Reason For Clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_clearance_required
+      label: Medical Clearance Required
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Surgical
+      - Other
+      required: true
+    - id: 5
+      name: medical_clearance_type
+      label: Type of Clearance
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac
+      - Pulmonary
+      - Other
+      required: true
+    - id: 6
+      name: medical_clearance_duration
+      label: Medical Clearance Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_clearance_date
+      label: Medical Clearance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_clearance_status
+      label: Clearance Status
+      hint: null
+      type: select_one
+      options:
+      - Cleared
+      - Not Cleared
+      required: true
+    - id: 9
+      name: prophets_name
+      label: Proctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: proctors_title
+      label: Proctor's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: proctors
+      label: Proctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_clearance_provider
+      label: Medical Clearance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: zip
+      label: ZIP
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: medical_clearance_comments
+      label: Medical Clearance Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: medical_clearance_notes
+      label: Medical Clearance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_clearance_expiration
+      label: Medical Clearance Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: proctors_phone
+      label: Proctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: proctors_fax
+      label: Proctor's Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: proctors_email
+      label: Proctor's Email
+      hint: null
+      type: email
+      options: []
+      required: false

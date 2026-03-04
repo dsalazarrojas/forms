@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal-training-consultation-form
+    pages:
+    - id: 1
+      name: session_schedule
+      label: Schedule A Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Client Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: available_sessions
+      label: Available Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: preferred_session_duration
+      label: Preferred Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      required: false
+    - id: 5
+      name: trainer_preference
+      label: Trainer Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trainer_availability
+      label: Trainer Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trainer_notes
+      label: Trainer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am ready to schedule a session
+      - No, I am not ready to schedule a session
+      - Maybe, I will consider scheduling a session
+      required: false
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trainer_availability_date
+      label: Available Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: trainer_availability_time
+      label: Available Time Slots
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: trainer_special_requests
+      label: Trainer Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirmation_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: confirmation_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirmation_client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation
+      label: Are You Ready To Schedule A Session
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

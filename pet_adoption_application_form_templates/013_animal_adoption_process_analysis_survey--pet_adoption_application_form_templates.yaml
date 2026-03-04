@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Process Analysis Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: What is your role in the adoption process
+      hint: Select your position
+      type: select_one
+      options:
+      - Shelter director or manager
+      - Adoption coordinator
+      - Volunteer
+      - Foster parent
+      - Veterinarian
+      - Board member
+      - Other staff
+      required: true
+    - id: 2
+      name: shelter_name
+      label: Shelter or Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: years_operation
+      label: How long has your organization been operating
+      hint: Years in operation
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-10 years
+      - 11-20 years
+      - More than 20 years
+      required: false
+    - id: 4
+      name: survey_intro
+      label: Adoption Process Analysis Survey
+      hint: This survey helps identify areas for improvement in your animal adoption workflow
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: annual_adoptions
+      label: Approximately how many adoptions do you process annually
+      hint: Annual adoption volume
+      type: select_one
+      options:
+      - Less than 50
+      - 50-100
+      - 101-250
+      - 251-500
+      - 501-1000
+      - More than 1000
+      required: true
+    - id: 6
+      name: application_method
+      label: How do applicants submit adoption applications
+      hint: Application submission methods
+      type: select_multiple
+      options:
+      - Online form
+      - Paper form in person
+      - Email
+      - Phone interview
+      - Mobile app
+      - Other
+      required: true
+    - id: 7
+      name: application_length
+      label: How long is your adoption application
+      hint: Number of questions approximately
+      type: select_one
+      options:
+      - Less than 10 questions
+      - 10-20 questions
+      - 21-35 questions
+      - 36-50 questions
+      - More than 50 questions
+      required: true
+    - id: 8
+      name: processing_time
+      label: What is the average time to process an adoption application
+      hint: From submission to decision
+      type: select_one
+      options:
+      - Same day
+      - 1-2 days
+      - 3-5 days
+      - 1-2 weeks
+      - More than 2 weeks
+      required: true
+    - id: 9
+      name: screening_steps
+      label: What screening steps are included in your process
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Application review
+      - Phone interview
+      - In-person interview
+      - Home visit
+      - Reference checks
+      - Veterinarian reference
+      - Landlord verification
+      - Meet and greet with animal
+      required: true
+    - id: 10
+      name: approval_rate
+      label: What percentage of applications are typically approved
+      hint: Approval rate
+      type: select_one
+      options:
+      - Less than 50 percent
+      - 50-69 percent
+      - 70-84 percent
+      - 85-95 percent
+      - More than 95 percent
+      required: false
+    - id: 11
+      name: common_rejection_reasons
+      label: What are the most common reasons for application rejection
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Inadequate housing
+      - Landlord restrictions
+      - Incompatible lifestyle
+      - Previous animal surrender
+      - Financial constraints
+      - Inexperience with animal type
+      - Other pets in home
+      - Work schedule conflicts
+      required: false
+    - id: 12
+      name: follow_up_process
+      label: Do you conduct post-adoption follow-ups
+      hint: Follow-up procedures
+      type: select_one
+      options:
+      - Yes - scheduled calls
+      - Yes - email check-ins
+      - Yes - home visits
+      - No formal follow-up
+      - Optional follow-up
+      required: true
+    - id: 13
+      name: return_rate
+      label: What is your approximate adoption return rate
+      hint: Percentage of returns
+      type: select_one
+      options:
+      - Less than 5 percent
+      - 5-10 percent
+      - 11-15 percent
+      - 16-20 percent
+      - More than 20 percent
+      required: false
+    - id: 14
+      name: technology_used
+      label: What technology do you use to manage adoptions
+      hint: Software and tools
+      type: select_multiple
+      options:
+      - Shelter management software
+      - Online adoption platform
+      - Email automation
+      - SMS notifications
+      - Video conferencing
+      - Paper records only
+      - Custom database
+      required: true
+    - id: 15
+      name: biggest_challenges
+      label: What are the biggest challenges in your adoption process
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Too many applications to process
+      - Not enough qualified applicants
+      - Lengthy approval process
+      - Staff or volunteer shortage
+      - Limited technology
+      - Communication with applicants
+      - Screening effectiveness
+      - Post-adoption support
+      required: true
+    - id: 16
+      name: improvement_areas
+      label: Which areas would you most like to improve
+      hint: Priority improvements
+      type: select_multiple
+      options:
+      - Application processing speed
+      - Screening accuracy
+      - Applicant communication
+      - Technology integration
+      - Staff training
+      - Post-adoption support
+      - Marketing and outreach
+      - Data tracking
+      required: true
+    - id: 17
+      name: satisfaction_rating
+      label: How satisfied are you with your current adoption process
+      hint: Overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 18
+      name: best_practices
+      label: What is working well in your current process
+      hint: Strengths to maintain
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_feedback
+      label: Additional Comments or Suggestions
+      hint: Any other insights
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tumbler Order Form
+    pages:
+    - id: 1
+      name: tumbler_product_select
+      label: Select A Product
+      hint: Select a tumbler product.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

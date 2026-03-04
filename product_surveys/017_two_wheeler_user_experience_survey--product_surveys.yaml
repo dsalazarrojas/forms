@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Two Wheeler User Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Scooter''}'
+      - '{''value'': ''Motorcycle''}'
+      - '{''value'': ''Car''}'
+      required: false
+    - id: 3
+      name: riding_frequency
+      label: riding_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Dissatisfied''}'
+      required: false
+    - id: 5
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Design''}'
+      - '{''value'': ''Performance''}'
+      - '{''value'': ''Price''}'
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''Old''}'
+      - '{''value'': ''Average''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: false
+    - id: 14
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Red''}'
+      - '{''value'': ''Blue''}'
+      - '{''value'': ''Black''}'
+      required: false
+    - id: 15
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_gender
+      label: contact_gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      required: false
+    - id: 17
+      name: contact_location
+      label: contact_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_brand
+      label: vehicle_brand
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Honda''}'
+      - '{''value'': ''Yamaha''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 19
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_zip
+      label: contact_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_engine
+      label: vehicle_engine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_type_1
+      label: vehicle_type_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Scooter''}'
+      - '{''value'': ''Motorcycle''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 24
+      name: vehicle_model_1
+      label: vehicle_model_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: vehicle_engine_power
+      label: vehicle_engine_power
+      hint: null
+      type: text
+      options: []
+      required: true

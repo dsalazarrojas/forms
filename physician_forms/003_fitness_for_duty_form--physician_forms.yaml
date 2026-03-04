@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness For Duty Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_return_to_work
+      label: Date of Return to Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employer_title
+      label: Employer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_last_exam
+      label: Date of Last Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: fitness_for_duty
+      label: Fitness for Duty
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''label'': True}'
+      - '{''name'': False, ''label'': False}'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Checklist With Color Indicators
+    pages:
+      - id: 1
+        name: checklist_title
+        label: Checklist Title
+        hint: Name of this checklist
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: created_by
+        label: Created By
+        hint: Name of the checklist creator
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: creation_date
+        label: Creation Date
+        hint: Date this checklist was created
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Department using this checklist
+        type: select_one
+        options:
+          - Operations
+          - Quality Assurance
+          - Production
+          - Administration
+          - Sales
+          - Other
+        required: true
+      - id: 5
+        name: checklist_type
+        label: Checklist Type
+        hint: Type of checklist
+        type: select_one
+        options:
+          - Daily Operations
+          - Weekly Review
+          - Monthly Audit
+          - Project Tracking
+          - Quality Control
+          - Safety Inspection
+        required: true
+      - id: 6
+        name: item_1_name
+        label: Item 1 Name
+        hint: Name of first checklist item
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: item_1_status
+        label: Item 1 Status
+        hint: Status of first item
+        type: select_one
+        options:
+          - Green - Complete
+          - Yellow - In Progress
+          - Red - Not Started
+          - Blue - On Hold
+        required: true
+      - id: 8
+        name: item_1_notes
+        label: Item 1 Notes
+        hint: Notes for first item
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: item_2_name
+        label: Item 2 Name
+        hint: Name of second checklist item
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: item_2_status
+        label: Item 2 Status
+        hint: Status of second item
+        type: select_one
+        options:
+          - Green - Complete
+          - Yellow - In Progress
+          - Red - Not Started
+          - Blue - On Hold
+        required: true
+      - id: 11
+        name: item_2_notes
+        label: Item 2 Notes
+        hint: Notes for second item
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: item_3_name
+        label: Item 3 Name
+        hint: Name of third checklist item
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: item_3_status
+        label: Item 3 Status
+        hint: Status of third item
+        type: select_one
+        options:
+          - Green - Complete
+          - Yellow - In Progress
+          - Red - Not Started
+          - Blue - On Hold
+        required: true
+      - id: 14
+        name: item_3_notes
+        label: Item 3 Notes
+        hint: Notes for third item
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: item_4_name
+        label: Item 4 Name
+        hint: Name of fourth checklist item
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: item_4_status
+        label: Item 4 Status
+        hint: Status of fourth item
+        type: select_one
+        options:
+          - Green - Complete
+          - Yellow - In Progress
+          - Red - Not Started
+          - Blue - On Hold
+        required: true
+      - id: 17
+        name: item_4_notes
+        label: Item 4 Notes
+        hint: Notes for fourth item
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: item_5_name
+        label: Item 5 Name
+        hint: Name of fifth checklist item
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: item_5_status
+        label: Item 5 Status
+        hint: Status of fifth item
+        type: select_one
+        options:
+          - Green - Complete
+          - Yellow - In Progress
+          - Red - Not Started
+          - Blue - On Hold
+        required: true
+      - id: 20
+        name: item_5_notes
+        label: Item 5 Notes
+        hint: Notes for fifth item
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_progress
+        label: Overall Progress
+        hint: Overall completion status
+        type: select_one
+        options:
+          - 0-25 percent
+          - 26-50 percent
+          - 51-75 percent
+          - 76-100 percent
+        required: true
+      - id: 22
+        name: completion_date
+        label: Expected Completion Date
+        hint: When will this checklist be complete
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

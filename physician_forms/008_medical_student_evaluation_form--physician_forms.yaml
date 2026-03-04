@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Student Evaluation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: professor_name
+      label: Professor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_school
+      label: Medical School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_level_approved
+      label: Approve Next Level
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 8
+      name: student_performance
+      label: Student Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: final_decision
+      label: Final Decision
+      hint: null
+      type: select_one
+      options:
+      - Not Recommended
+      - Recommended
+      required: false
+    - id: 11
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: professor_id
+      label: Professor ID
+      hint: null
+      type: text
+      options: []
+      required: false

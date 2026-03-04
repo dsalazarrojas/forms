@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Product Release Trade Show Feedback
+    pages:
+    - id: 1
+      name: section_header_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: For follow-up information
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization
+      hint: Your business or employer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title or Role
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_trade_show
+      label: -- Trade Show Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trade_show_name
+      label: Trade Show or Event Name
+      hint: Which event are you attending?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When is this event?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: City and venue
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_product
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: product_name
+      label: Beverage Product Name
+      hint: Name of the product you tasted
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_category
+      label: Product Category
+      hint: Type of beverage
+      type: select_one
+      options:
+      - Soft drink
+      - Energy drink
+      - Juice or smoothie
+      - Sports drink
+      - Coffee beverage
+      - Tea beverage
+      - Flavored water
+      - Other
+      required: true
+    - id: 14
+      name: section_header_tasting
+      label: -- Tasting Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: appearance_rating
+      label: Appearance Rating
+      hint: Visual appeal of the drink
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: aroma_rating
+      label: Aroma Rating
+      hint: How appealing is the smell?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: taste_rating
+      label: Overall Taste Rating
+      hint: How good does it taste?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: sweetness_rating
+      label: Sweetness Level Rating
+      hint: Is sweetness appropriate?
+      type: select_one
+      options:
+      - Too sweet
+      - Appropriately sweet
+      - Not sweet enough
+      - Just right
+      - No opinion
+      required: true
+    - id: 19
+      name: flavor_intensity
+      label: Flavor Intensity
+      hint: null
+      type: select_one
+      options:
+      - Too strong
+      - Appropriately strong
+      - Too mild
+      - Just right
+      - No opinion
+      required: true
+    - id: 20
+      name: aftertaste_rating
+      label: Aftertaste Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent, pleasant
+      - Good
+      - Neutral
+      - Unpleasant
+      - Very unpleasant
+      required: true
+    - id: 21
+      name: section_header_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_rating
+      label: Overall Product Rating
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 23
+      name: compare_competitors
+      label: Compared to Similar Products
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Better
+      - About the same
+      - Worse
+      - Much worse
+      required: true
+    - id: 24
+      name: unique_qualities
+      label: What Makes This Product Unique
+      hint: Distinctive features or benefits
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: section_header_purchase
+      label: -- Purchase Intent & Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: purchase_likelihood
+      label: How Likely Are You to Purchase This Product
+      hint: null
+      type: select_one
+      options:
+      - Definitely will buy
+      - Probably will buy
+      - Might buy
+      - Probably will not buy
+      - Definitely will not buy
+      required: true
+    - id: 27
+      name: recommend_likelihood
+      label: Would You Recommend This Product
+      hint: null
+      type: select_one
+      options:
+      - Definitely would recommend
+      - Probably would recommend
+      - Might recommend
+      - Probably would not recommend
+      - Would not recommend
+      required: true
+    - id: 28
+      name: wholesale_interest
+      label: Are You Interested in Wholesale or Distribution
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Yes, somewhat interested
+      - Maybe
+      - Not interested
+      - Not applicable
+      required: true
+    - id: 29
+      name: section_header_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: strengths
+      label: What Are the Product Strengths
+      hint: What works well?
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: improvements
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: follow_up_contact
+      label: Would You Like Us to Follow Up With You
+      hint: null
+      type: select_one
+      options:
+      - Yes, please contact me
+      - Only for partnership opportunities
+      - No follow-up needed
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or suggestions?
+      type: text
+      options: []
+      required: false

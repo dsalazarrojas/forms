@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Feedback Form
+    pages:
+    - id: 1
+      name: patient_feedback_form
+      label: Patient Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_visited
+      label: Clinic Visited
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Main Clinic''}'
+      - '{1: ''Sub Clinic''}'
+      required: true
+    - id: 4
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{0: ''Satisfactory''}'
+      - '{1: ''Unsatisfactory''}'
+      required: true
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Please provide your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: doctor_contact_info
+      label: Doctor Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_visit
+      label: Follow up Visit
+      hint: null
+      type: select_multiple
+      options:
+      - '{0: ''1 week''}'
+      - '{1: ''2 weeks''}'
+      - '{2: ''3 weeks''}'
+      - '{3: ''4 weeks''}'
+      required: true
+    - id: 16
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_status
+      label: Follow up Status
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''On time''}'
+      - '{1: ''Late''}'
+      - '{2: ''Missed''}'
+      required: true
+    - id: 18
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: doctor_id
+      label: Doctor ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''New Patient''}'
+      - '{1: ''Follow-up''}'
+      required: true
+    - id: 22
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''General Practice''}'
+      - '{1: ''Specialist''}'
+      required: true
+    - id: 23
+      name: patient_age
+      label: Patient Age
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: doctor_gender
+      label: Doctor Gender
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Male''}'
+      - '{1: ''Female''}'
+      required: true
+    - id: 25
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Male''}'
+      - '{1: ''Female''}'
+      required: true

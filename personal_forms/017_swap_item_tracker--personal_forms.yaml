@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Swap Item Tracker
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Waiting
+      - Sold
+      - Available
+      required: true
+    - id: 4
+      name: item_image
+      label: Item Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: swap_date
+      label: Swap Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: swap_status
+      label: Swap Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Pending
+      - Waiting
+      required: true
+    - id: 10
+      name: swap_status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: exchange_date
+      label: Exchange Date
+      hint: null
+      type: date
+      options: []
+      required: false

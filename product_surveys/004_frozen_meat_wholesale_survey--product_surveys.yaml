@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frozen Meat Wholesale Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Frozen Meat Wholesale Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: introduction_paragraph
+      label: What is your role in the meat industry?
+      hint: null
+      type: select_one
+      options:
+      - Frozen Meat Buyer
+      - Frozen Meat Seller
+      - Frozen Meat Producer
+      - Other
+      required: false
+    - id: 4
+      name: introduction_seller
+      label: What is your role in the meat industry?
+      hint: Please choose one of the options above
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: frozen_meats
+      label: What type of frozen meat do you buy or sell?
+      hint: Please separate with commas
+      type: select_multiple
+      options:
+      - Beef
+      - Lamb
+      - Pork
+      - Chicken
+      - Turkey
+      required: false
+    - id: 6
+      name: frozen_meats_2
+      label: What type of frozen meat do you sell?
+      hint: Please separate with commas
+      type: select_multiple
+      options:
+      - Beef
+      - Lamb
+      - Pork
+      - Chicken
+      - Turkey
+      required: false
+    - id: 7
+      name: satisfaction
+      label: How satisfied are you with your current suppliers?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 8
+      name: priority1
+      label: What is your top priority when purchasing frozen meat?
+      hint: Please choose one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: priority1_0
+      label: Price
+      hint: Please choose one or more
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Service
+      - Availability
+      required: false
+    - id: 10
+      name: priority1_1
+      label: Product Variety
+      hint: Please choose one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: priority2
+      label: What is your second priority when purchasing frozen meat?
+      hint: Please choose one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: priority2_0
+      label: Quality
+      hint: Please choose one or more
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 13
+      name: priority2_1
+      label: Service
+      hint: Please choose one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: buyer
+      label: What is the name of the company or organization you work for?
+      hint: Name of the company or organization
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact
+      label: Contact
+      hint: Please enter your contact number or email
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: thank_you
+      label: Thank you
+      hint: null
+      type: note
+      options: []
+      required: false

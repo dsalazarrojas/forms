@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Visit Form Template
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_diagnosis
+      label: Medical Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: text
+      options: []
+      required: false

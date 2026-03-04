@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Enrollment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: true
+    - id: 5
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_primary
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_secondary
+      label: Secondary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: enrollment_section
+      label: -- Enrollment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: enrollment_reason
+      label: Reason for Enrollment
+      hint: null
+      type: select_one
+      options:
+      - Personal health - at-risk individual
+      - Healthcare worker
+      - Essential worker
+      - Frontline worker
+      - Community member
+      - Caregiver to vulnerable person
+      - Other
+      required: true
+    - id: 16
+      name: vaccination_timeline
+      label: Preferred Vaccination Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Flexible
+      required: true
+    - id: 17
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      required: true
+    - id: 18
+      name: preferred_location
+      label: Preferred Vaccination Location
+      hint: null
+      type: select_one
+      options:
+      - Doctor office
+      - Clinic
+      - Pharmacy
+      - Hospital
+      - Mobile clinic
+      - No preference
+      required: true
+    - id: 19
+      name: health_section
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: chronic_conditions
+      label: Do you have chronic health conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: condition_description
+      label: If yes, describe conditions
+      hint: Diabetes, heart disease, lung disease, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: immunocompromised
+      label: Are you immunocompromised
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: current_medications
+      label: Currently taking medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Known allergies to medications or vaccines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: prior_covid
+      label: Previously diagnosed with COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: prior_covid_date
+      label: If yes, date of diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: insurance_section
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: insurance_status
+      label: Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - Insured
+      - Uninsured
+      - Medicaid
+      - Medicare
+      - CHIP
+      required: true
+    - id: 29
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: consent
+      label: I consent to participate in the vaccination program
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

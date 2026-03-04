@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Booth Rental Form
+    pages:
+    - id: 1
+      name: photo_booth_rental_form
+      label: Photo Booth Rental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_dates
+      label: Rental Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: photo_booth_type
+      label: Photo Booth Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 10
+      name: photo_booth_count
+      label: Photo Booth Count
+      hint: null
+      type: number
+      options: []
+      required: false

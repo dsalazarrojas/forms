@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Progress Assessment
+    pages:
+    - id: 1
+      name: stage_progress_form
+      label: Stage Progress Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stage_name
+      label: stage_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trainer_rating
+      label: trainer_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: manager_rating
+      label: manager_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: educator_rating
+      label: educator_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: other_rating
+      label: other_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 17
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: true

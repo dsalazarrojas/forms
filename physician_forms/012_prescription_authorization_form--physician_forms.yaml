@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Authorization Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prescriber_title
+      label: Prescriber Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: prescriber_phone_number
+      label: Prescriber's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prescriber_address
+      label: Prescriber's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prescriber_email
+      label: Prescriber's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: prescriber_date
+      label: Prescriber's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: pickup_or_refill
+      label: Pickup or Refill
+      hint: null
+      type: select_one
+      options:
+      - Refill
+      - Pickup
+      required: true
+    - id: 9
+      name: pickup_by_date
+      label: Pickup By
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: prescriber_signature
+      label: Prescriber's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: authorized_individual_name
+      label: Authorized Individual's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_individual_title
+      label: Authorized Individual's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_individual_phone_number
+      label: Authorized Individual's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorized_individual_email
+      label: Authorized Individual's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: authorized_individual_date
+      label: Authorized Individual's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: authorized_individual_signature
+      label: Authorized Individual's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: authorized_individual_id_number
+      label: Authorized Individual's ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: authorized_individual_relationship
+      label: Authorized Individual's Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: prescriber_issuing_facility
+      label: Prescriber's Issuing Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: prescriber_npi
+      label: Prescriber's NPI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: prescriber_license_number
+      label: Prescriber's License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prescriber_facility_license_number
+      label: Prescriber's Facility License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false

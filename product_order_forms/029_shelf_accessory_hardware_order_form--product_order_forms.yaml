@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Accessory Hardware Order Form
+    pages:
+    - id: 1
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: How many units do you need?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Customer Name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Order Date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: Customer Email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: Customer Phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: Additional Order Comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Chatjimmy''}'
+      - '{''id'': 12, ''label'': ''Jimbo''}'
+      - '{''id'': 13, ''label'': ''Bob''}'
+      required: false
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: Delivery Address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Delivery Instructions
+      type: text
+      options: []
+      required: false

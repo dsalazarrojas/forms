@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Policy Proposal Voting Form
+    pages:
+    - id: 1
+      name: political_policy_proposal_voting_form_page_1
+      label: Political Policy Proposal Voting Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: political_policy_proposal_voting_form_page_2
+      label: Eligibility Checks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: political_policy_proposal_voting_form_page_3
+      label: Proposal Details
+      hint: null
+      type: select_multiple
+      options:
+      - Proposal Title
+      - Proposal Description
+      - Proposal Category
+      - Proposal Status
+      - Proposal Priority
+      - Proposal Deadline
+      required: true
+    - id: 4
+      name: political_policy_proposal_voting_form_page_4
+      label: Vote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: political_policy_proposal_voting_form_page_5
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: political_policy_proposal_voting_form_page_6
+      label: Eligible Voters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: political_policy_proposal_voting_form_page_7
+      label: Voting Threshold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: political_policy_proposal_voting_form_page_8
+      label: Vote Tracking
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: political_policy_proposal_voting_form_page_9
+      label: Vote Tracking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: political_policy_proposal_voting_form_page_10
+      label: Eligibility Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: political_policy_proposal_voting_form_page_11
+      label: Vote Outcome
+      hint: null
+      type: text
+      options: []
+      required: false

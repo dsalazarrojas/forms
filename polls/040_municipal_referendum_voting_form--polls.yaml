@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Referendum Voting Form
+    pages:
+    - id: 1
+      name: question1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question2
+      label: What is your age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question3
+      label: Do you agree to the referendum
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: question4
+      label: When do you think it should be implemented?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: question5
+      label: When do you think it will end?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: question6
+      label: What is your contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: question7
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question8
+      label: What is your note
+      hint: null
+      type: note
+      options: []
+      required: false

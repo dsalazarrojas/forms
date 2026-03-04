@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Digital Banking Trust Poll Form
+    pages:
+    - id: 1
+      name: home_page
+      label: Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_trust
+      label: trust
+      hint: How much trust do you have with digital banking?
+      type: select_one
+      options:
+      - '{''label'': ''Very low''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 4
+      name: security_confidence
+      label: security
+      hint: How secure do you feel your data is with us?
+      type: select_multiple
+      options:
+      - '{''label'': ''Not very secure''}'
+      - '{''label'': ''Somewhat secure''}'
+      - '{''label'': ''Secure''}'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: How satisfied are you with digital banking experience?
+      type: select_one
+      options:
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfied''}'
+      required: false
+    - id: 6
+      name: security_confidence_2
+      label: security_confidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_2
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfied''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

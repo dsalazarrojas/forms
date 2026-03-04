@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gun Control Measures Petition Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: select_one
+      label: Which of the following best describes your level of interest in this
+        campaign?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: select_multiple
+      label: Which of the following issues are you most interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

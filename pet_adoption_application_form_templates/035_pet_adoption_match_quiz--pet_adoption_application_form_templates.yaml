@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Match Quiz
+    pages:
+    - id: 1
+      name: potential_adopter
+      label: Meet The Adopter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: What type of pet do you want to adopt?
+      hint: null
+      type: select_one
+      options:
+      - dog
+      - cat
+      - bird
+      - fish
+      required: false
+    - id: 3
+      name: energy_level
+      label: What energy level are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 4
+      name: size
+      label: What size pet do you want?
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 5
+      name: space_availability
+      label: How much space do you have available?
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 6
+      name: noise_level
+      label: What noise level are you comfortable with?
+      hint: null
+      type: select_one
+      options:
+      - quiet
+      - moderate
+      - loud
+      required: false
+    - id: 7
+      name: pet_experience
+      label: Have you had a pet before?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: available_time
+      label: How many hours per day do you have to spend with your pet?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_members
+      label: How many family members are there in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pet_budget
+      label: What is your pet budget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - chat
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Is there an emergency contact person?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

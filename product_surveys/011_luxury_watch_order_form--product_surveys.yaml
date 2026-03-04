@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Watch Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: watch_model
+      label: Watch Model
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Rolex''}'
+      - '{2: ''Omega''}'
+      - '{3: ''Cartier''}'
+      - '{4: ''Patek Philippe''}'
+      - '{5: ''Tag Heuer''}'
+      - '{6: ''IWC Schaffhausen''}'
+      required: false
+    - id: 3
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Stainless Steel''}'
+      - '{2: ''Gold''}'
+      - '{3: ''Silver''}'
+      - '{4: ''Leather''}'
+      - '{5: ''Other''}'
+      required: false
+    - id: 4
+      name: band_material
+      label: Band Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Leather''}'
+      - '{2: ''Stainless Steel''}'
+      - '{3: ''Rubber''}'
+      - '{4: ''Other''}'
+      required: false
+    - id: 5
+      name: band_type
+      label: Band Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Deployment''}'
+      - '{2: ''Buckle''}'
+      - '{3: ''Folded''}'
+      - '{4: ''Folded Deployment''}'
+      - '{5: ''Other''}'
+      required: false
+    - id: 6
+      name: strap_color
+      label: Strap Color
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Brown''}'
+      - '{2: ''Black''}'
+      - '{3: ''White''}'
+      - '{4: ''Green''}'
+      - '{5: ''Blue''}'
+      required: false
+    - id: 7
+      name: strap_pattern
+      label: Strap Pattern
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Plain''}'
+      - '{2: ''Patterned''}'
+      - '{3: ''Engraved''}'
+      required: false
+    - id: 8
+      name: crystal_type
+      label: Crystal Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Sapphire''}'
+      - '{2: ''Acrylic''}'
+      - '{3: ''Synthetic''}'
+      required: false
+    - id: 9
+      name: water_resistance
+      label: Water Resistance
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''30m''}'
+      - '{2: ''40m''}'
+      - '{3: ''50m''}'
+      - '{4: ''100m''}'
+      - '{5: ''Other''}'
+      required: false
+    - id: 10
+      name: case_size
+      label: Case Size
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''30mm''}'
+      - '{2: ''40mm''}'
+      - '{3: ''50mm''}'
+      - '{4: ''60mm''}'
+      - '{5: ''70mm''}'
+      required: false
+    - id: 11
+      name: watch_price
+      label: Watch Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone_number
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_postal_code
+      label: Customer Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

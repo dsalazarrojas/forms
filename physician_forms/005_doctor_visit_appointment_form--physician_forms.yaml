@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Visit Appointment Form
+    pages:
+    - id: 1
+      name: doctor_visit_appointment_form
+      label: Doctor Visit Appointment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: null
+      type: select_multiple
+      options:
+      - General Medicine
+      - Cardiology
+      - Surgery
+      - Pediatric
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Lee
+      required: false
+    - id: 8
+      name: appointment_location
+      label: appointment_location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Home Visit
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

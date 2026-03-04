@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Portal Security Survey
+    pages:
+    - id: 1
+      name: tenant_portal_access
+      label: Tenant Portal Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: building_security
+      label: Building Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_report
+      label: Incident Report
+      hint: Provide a brief description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: security_concerns
+      label: Security Concerns
+      hint: Describe any concerns you have regarding your safety in the building
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: building_contact_info
+      label: Building Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: portal_contact_info
+      label: Portal Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: incident_response
+      label: Incident Response
+      hint: Describe your experience with the incident response
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: tenant_portal_features
+      label: Tenant Portal Features
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: building_features
+      label: Building Features
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 11
+      name: building_maintenance
+      label: Building Maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: portal_maintenance
+      label: Portal Maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: building_equipment
+      label: Building Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: security_camera_location
+      label: Security Camera Location
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 15
+      name: security_camera_condition
+      label: Security Camera Condition
+      hint: null
+      type: select_multiple
+      options:
+      - option10
+      - option11
+      - option12
+      required: false
+    - id: 16
+      name: building_lighting
+      label: Building Lighting
+      hint: null
+      type: select_multiple
+      options:
+      - option13
+      - option14
+      - option15
+      required: false
+    - id: 17
+      name: security_system_status
+      label: Security System Status
+      hint: null
+      type: select_multiple
+      options:
+      - option16
+      - option17
+      - option18
+      required: false
+    - id: 18
+      name: building_security_measures
+      label: Building Security Measures
+      hint: null
+      type: select_multiple
+      options:
+      - option19
+      - option20
+      - option21
+      required: false
+    - id: 19
+      name: incident_response_time
+      label: Incident Response Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_response_effectiveness
+      label: Incident Response Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tenant_portal_satisfaction
+      label: Tenant Portal Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - option22
+      - option23
+      - option24
+      required: false
+    - id: 22
+      name: building_facilities
+      label: Building Facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

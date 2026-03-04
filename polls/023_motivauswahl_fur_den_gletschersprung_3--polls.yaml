@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motivauswahl Fur Den Gletschersprung 3
+    pages:
+    - id: 1
+      name: gletschersprung_page
+      label: Gletschersprung
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: selection_page
+      label: Selection
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: submit_page
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

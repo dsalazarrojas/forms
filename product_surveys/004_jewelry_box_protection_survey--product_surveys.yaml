@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Box Protection Survey
+    pages:
+    - id: 1
+      name: jewelry_box_protection_survey_page1
+      label: jewelry_box_protection_survey_page1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: storage_habits
+      label: storage_habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: protection_features
+      label: protection_features
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

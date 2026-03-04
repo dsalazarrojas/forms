@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Photography Order Form
+    pages:
+    - id: 1
+      name: youth_photography_order_form
+      label: YouthPhotographyOrderForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: PhotographerName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_photographer
+      label: SelectPhotographer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: select_service
+      label: SelectService
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false

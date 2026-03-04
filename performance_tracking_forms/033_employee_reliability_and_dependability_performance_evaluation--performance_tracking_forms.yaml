@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reliability And Dependability Performance Evaluation
+    pages:
+    - id: 1
+      name: employee_reliability
+      label: Employee Reliability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_feedback
+      label: Manager Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ratings
+      label: Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 4
+      name: trends
+      label: Trends
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true

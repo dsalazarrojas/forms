@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Preliminary Report Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_name
+      label: vaccine_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_reported
+      label: date_reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vaccine_dose
+      label: vaccine_dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_result
+      label: test_result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Indeterminate
+      required: true
+    - id: 9
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: side_effects
+      label: side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_outcome
+      label: patient_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_scheduled
+      label: follow_up_scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Scheduled
+      required: true
+    - id: 14
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vaccine_lot
+      label: vaccine_lot
+      hint: null
+      type: text
+      options: []
+      required: false

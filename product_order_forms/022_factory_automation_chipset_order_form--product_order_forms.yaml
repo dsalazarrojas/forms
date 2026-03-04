@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Automation Chipset Order Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: chipset_selection
+      label: Chipset Selection
+      hint: null
+      type: select_one
+      options:
+      - Chipset 1
+      - Chipset 2
+      required: false
+    - id: 4
+      name: quantities
+      label: Quantities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_order_forms
+      label: Product Order Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

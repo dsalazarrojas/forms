@@ -1,0 +1,336 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antibiotic Use Survey
+    pages:
+    - id: 1
+      name: physician_name
+      label: Physician Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: physician_npi
+      label: NPI Number
+      hint: National Provider Identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specialty
+      label: Medical Specialty
+      hint: Your specialty area
+      type: select_one
+      options:
+      - Internal medicine
+      - Family medicine
+      - Pediatrics
+      - Infectious disease
+      - Emergency medicine
+      - Critical care
+      - Surgery
+      - Hospitalist
+      - Other
+      required: true
+    - id: 4
+      name: practice_setting
+      label: Practice Setting
+      hint: Where do you practice
+      type: select_one
+      options:
+      - Academic medical center
+      - Community hospital
+      - Private practice
+      - Outpatient clinic
+      - Urgent care
+      - Long-term care facility
+      - Government facility
+      required: true
+    - id: 5
+      name: years_in_practice
+      label: Years in Practice
+      hint: How long have you been practicing
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5 to 10 years
+      - 10 to 20 years
+      - More than 20 years
+      required: true
+    - id: 6
+      name: geographic_region
+      label: Geographic Region
+      hint: Practice location
+      type: select_one
+      options:
+      - Northeast
+      - Southeast
+      - Midwest
+      - Southwest
+      - West
+      - International
+      required: true
+    - id: 7
+      name: patient_population
+      label: Primary Patient Population
+      hint: Who do you primarily treat
+      type: select_one
+      options:
+      - Adults
+      - Pediatrics
+      - Geriatric
+      - Mixed population
+      - Immunocompromised
+      - Surgical patients
+      required: true
+    - id: 8
+      name: antibiotic_prescribing_frequency
+      label: Antibiotic Prescribing Frequency
+      hint: How often do you prescribe antibiotics
+      type: select_one
+      options:
+      - Multiple times daily
+      - Once daily
+      - Several times weekly
+      - Weekly
+      - Rarely
+      required: true
+    - id: 9
+      name: common_infections_treated
+      label: Common Infections Treated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Respiratory infections
+      - Urinary tract infections
+      - Skin and soft tissue infections
+      - Gastrointestinal infections
+      - Sexually transmitted infections
+      - Sepsis
+      - Surgical prophylaxis
+      - Other
+      required: true
+    - id: 10
+      name: most_prescribed_antibiotic
+      label: Most Frequently Prescribed Antibiotic
+      hint: Which do you prescribe most
+      type: select_one
+      options:
+      - Amoxicillin
+      - Azithromycin
+      - Ciprofloxacin
+      - Doxycycline
+      - Cephalexin
+      - Levofloxacin
+      - Clindamycin
+      - Other
+      required: true
+    - id: 11
+      name: prescribing_guidelines
+      label: Prescribing Guidelines Followed
+      hint: What guides your prescribing
+      type: select_multiple
+      options:
+      - IDSA guidelines
+      - CDC guidelines
+      - Hospital protocols
+      - Local antibiogram
+      - Personal experience
+      - Specialist consultation
+      - UpToDate or similar
+      - Other resources
+      required: true
+    - id: 12
+      name: culture_testing
+      label: Culture Testing Before Prescribing
+      hint: How often do you obtain cultures
+      type: select_one
+      options:
+      - Always when possible
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: narrow_vs_broad_spectrum
+      label: Narrow vs Broad Spectrum Preference
+      hint: Your prescribing tendency
+      type: select_one
+      options:
+      - Always start narrow
+      - Usually start narrow
+      - Depends on severity
+      - Usually start broad
+      - Always start broad
+      required: true
+    - id: 14
+      name: patient_pressure
+      label: Patient Pressure for Antibiotics
+      hint: How often do patients request antibiotics
+      type: select_one
+      options:
+      - Very often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: pressure_resistance
+      label: Resistance to Patient Pressure
+      hint: How do you respond to requests
+      type: select_one
+      options:
+      - Always resist if not indicated
+      - Usually resist
+      - Sometimes prescribe to satisfy
+      - Often prescribe
+      - Always prescribe if requested
+      required: true
+    - id: 16
+      name: stewardship_program
+      label: Antibiotic Stewardship Program
+      hint: Does your facility have a program
+      type: select_one
+      options:
+      - Yes, active and comprehensive
+      - Yes, basic program
+      - No, but planning one
+      - false
+      - Not applicable
+      required: true
+    - id: 17
+      name: stewardship_participation
+      label: Participation in Stewardship Activities
+      hint: Your level of involvement
+      type: select_one
+      options:
+      - Very active
+      - Active
+      - Somewhat active
+      - Minimal participation
+      - No participation
+      required: true
+    - id: 18
+      name: resistance_concern
+      label: Concern About Antibiotic Resistance
+      hint: How concerned are you
+      type: select_one
+      options:
+      - Extremely concerned
+      - Very concerned
+      - Moderately concerned
+      - Slightly concerned
+      - Not concerned
+      required: true
+    - id: 19
+      name: resistance_impact
+      label: Impact of Resistance on Practice
+      hint: Has resistance affected your prescribing
+      type: select_one
+      options:
+      - Significantly changed practice
+      - Somewhat changed practice
+      - Slightly changed practice
+      - No change
+      required: true
+    - id: 20
+      name: adverse_events
+      label: Adverse Events from Antibiotics
+      hint: Have you encountered adverse events
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: c_diff_experience
+      label: C. difficile Cases in Past Year
+      hint: Approximate number of cases
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: education_needs
+      label: Educational Needs
+      hint: Topics for further education
+      type: select_multiple
+      options:
+      - Latest guidelines
+      - Emerging resistance patterns
+      - New antibiotics
+      - Diagnostic stewardship
+      - Duration optimization
+      - Pediatric dosing
+      - Renal adjustments
+      - Drug interactions
+      required: true
+    - id: 23
+      name: barriers_to_stewardship
+      label: Barriers to Antibiotic Stewardship
+      hint: What prevents optimal prescribing
+      type: select_multiple
+      options:
+      - Time constraints
+      - Patient expectations
+      - Diagnostic uncertainty
+      - Limited resources
+      - Lack of guidelines
+      - Resistance from colleagues
+      - No barriers
+      - Other
+      required: true
+    - id: 24
+      name: rapid_diagnostics
+      label: Access to Rapid Diagnostics
+      hint: Do you have access to rapid tests
+      type: select_one
+      options:
+      - Always available
+      - Usually available
+      - Sometimes available
+      - Rarely available
+      - Never available
+      required: true
+    - id: 25
+      name: iv_to_oral_conversion
+      label: IV to Oral Conversion Practice
+      hint: How do you approach conversion
+      type: select_one
+      options:
+      - Always convert when possible
+      - Usually convert
+      - Sometimes convert
+      - Rarely convert
+      - Prefer IV therapy
+      required: true
+    - id: 26
+      name: duration_practice
+      label: Antibiotic Duration Practice
+      hint: How do you determine duration
+      type: select_one
+      options:
+      - Follow guidelines strictly
+      - Usually follow guidelines
+      - Based on clinical judgment
+      - Patient preference
+      - Standard durations always
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other insights
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

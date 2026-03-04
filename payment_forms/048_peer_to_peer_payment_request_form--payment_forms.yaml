@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Payment Request Form
+    pages:
+    - id: 1
+      name: peer_to_peer_payment_request_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: select_one_option
+      label: How much to pay?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''$10''}'
+      - '{''option'': 2, ''label'': ''$20''}'
+      - '{''option'': 3, ''label'': ''$30''}'
+      required: true
+    - id: 7
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_payment
+      label: Time of Payment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_payment_request
+      label: Submit Payment Request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': 1, ''label'': ''Send Payment Request via Email''}'
+      - '{''option'': 2, ''label'': ''Send Payment Request via SMS''}'
+      required: true
+    - id: 11
+      name: select_multiple_option_1
+      label: Send via Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_multiple_option_2
+      label: Send via SMS
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: send_payment_request
+      label: Send Payment Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: confirm_payment_request
+      label: Confirm Payment Request
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''Sent''}'
+      - '{''option'': 2, ''label'': ''Received''}'
+      - '{''option'': 3, ''label'': ''Cancelled''}'
+      required: false

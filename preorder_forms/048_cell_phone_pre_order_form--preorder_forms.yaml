@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cell Phone Pre Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_device_selection
+      label: -- Device Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: device_brand
+      label: Device Brand
+      hint: null
+      type: select_one
+      options:
+      - Apple iPhone
+      - Samsung Galaxy
+      - Google Pixel
+      - OnePlus
+      - Motorola
+      - Other Android
+      - Other
+      required: true
+    - id: 8
+      name: device_model
+      label: Device Model
+      hint: Specific model name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: device_color
+      label: Device Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Silver
+      - Gold
+      - Blue
+      - Red
+      - Purple
+      - Green
+      - Pink
+      - Other
+      required: true
+    - id: 10
+      name: device_storage
+      label: Storage Capacity
+      hint: null
+      type: select_one
+      options:
+      - 128 GB
+      - 256 GB
+      - 512 GB
+      - 1 TB
+      - Other
+      required: true
+    - id: 11
+      name: section_preorder_details
+      label: -- Pre-Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preorder_date
+      label: Pre-Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: expected_release_date
+      label: Expected Device Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: quantity
+      label: Quantity to Pre-Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_price
+      label: Total Pre-Order Amount
+      hint: Quantity multiplied by unit price
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Engraving, accessories, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I agree to the pre-order terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

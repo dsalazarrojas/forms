@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: level_creation_survey
+    pages:
+    - id: 1
+      name: level_creation_survey_page
+      label: Level Creation Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: What did you like best
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_details
+      label: What did you like best about it
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: level_creation_process
+      label: How would you improve the level creation process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_on_features
+      label: What did you like least
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: suggestion
+      label: Do you have any suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

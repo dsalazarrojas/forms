@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Demographic Information Form
+    pages:
+    - id: 1
+      name: patient_last_name
+      label: patient last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_given_names
+      label: patient given names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: patient dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_email
+      label: patient email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: patient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: patient address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: blood_pressure
+      label: blood pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pulse
+      label: pulse
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: artery_pressure
+      label: artery pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: heart_rate
+      label: heart rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: medication_form
+      label: medication form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''label'': ''Nurse'', ''value'': ''Nurse''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false

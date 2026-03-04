@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payjunction Candles Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_note
+      label: Order note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option 1''}'
+      - '{''value'': ''option2'', ''label'': ''Option 2''}'
+      - '{''value'': ''option3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: select_multiple
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option 1''}'
+      - '{''value'': ''option2'', ''label'': ''Option 2''}'
+      - '{''value'': ''option3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_quantity
+      label: Order quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: order_amount
+      label: Order amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_service
+      label: Customer service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option 1''}'
+      - '{''value'': ''option2'', ''label'': ''Option 2''}'
+      required: true
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option 1''}'
+      - '{''value'': ''option2'', ''label'': ''Option 2''}'
+      - '{''value'': ''option3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option 1''}'
+      - '{''value'': ''option2'', ''label'': ''Option 2''}'
+      - '{''value'': ''option3'', ''label'': ''Option 3''}'
+      required: true

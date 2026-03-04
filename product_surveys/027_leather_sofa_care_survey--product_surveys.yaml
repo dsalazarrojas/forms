@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leather Sofa Care Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sofa_details
+      label: Sofa Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: care_frequency
+      label: How often do you clean your leather sofa?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 4
+      name: recommended_products
+      label: Have you ever purchased any cleaning products for your leather sofa?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: cleaning_method
+      label: What cleaning method do you use?
+      hint: null
+      type: select_one
+      options:
+      - Vacuum
+      - Soap and water
+      - Specialized cleaning solution
+      required: false
+    - id: 6
+      name: maintenance_services
+      label: Have you used any professional maintenance services for your leather
+        sofa?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_experience
+      label: Please share any positive or negative experiences with your leather sofa's
+        maintenance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

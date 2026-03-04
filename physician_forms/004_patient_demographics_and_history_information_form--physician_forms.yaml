@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Demographics And History Information Form
+    pages:
+    - id: 1
+      name: new_patient_info
+      label: New Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_patient_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Heart Disease
+      - Diabetes
+      - Hypertension
+      - Other (Please specify)
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_family_history
+      label: Medical Family History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: social_history
+      label: Social History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

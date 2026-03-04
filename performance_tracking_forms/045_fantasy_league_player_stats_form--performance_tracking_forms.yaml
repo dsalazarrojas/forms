@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fantasy League Player Stats Form
+    pages:
+    - id: 1
+      name: game_info
+      label: Game Info
+      hint: null
+      type: select_multiple
+      options:
+      - Team
+      - Opponent
+      - Location
+      - Date
+      - Time
+      required: false
+    - id: 2
+      name: player_stats
+      label: Player Stats
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: fantasy_league_info
+      label: Fantasy League Info
+      hint: null
+      type: select_one
+      options:
+      - Name
+      - Commissioner
+      - Manager
+      - Stat Keeper
+      required: false
+    - id: 4
+      name: game_results
+      label: Game Results
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: player_performance
+      label: Player Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_score
+      label: Team Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fantasy_league_points
+      label: Fantasy League Points
+      hint: null
+      type: select_multiple
+      options:
+      - Points
+      - Points Differential
+      - Winning Streak
+      - Losses
+      required: false
+    - id: 9
+      name: fantasy_league_info_2
+      label: Fantasy League Info 2
+      hint: null
+      type: select_one
+      options:
+      - Name
+      - Commissioner
+      - Manager
+      - Stat Keeper
+      required: false
+    - id: 10
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: player_performance_2
+      label: Player Performance 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: team_score_2
+      label: Team Score 2
+      hint: null
+      type: number
+      options: []
+      required: false

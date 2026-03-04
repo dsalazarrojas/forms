@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Card Upload Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: Please provide your basic information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: Your current email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Your current phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_id_number
+      label: Patient ID or Medical Record Number
+      hint: Your clinic patient ID if available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_header
+      label: -- Vaccination Card Information --
+      hint: Details from your vaccination card
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_manufacturer
+      label: Vaccine Manufacturer
+      hint: What vaccine did you receive
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - Other
+      required: true
+    - id: 9
+      name: first_dose_date
+      label: First Dose Date
+      hint: Date of your first COVID-19 vaccine dose
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: second_dose_date
+      label: Second Dose Date
+      hint: Date of your second dose if applicable
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: booster_dose_date
+      label: Booster Dose Date
+      hint: Date of your first booster dose
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: additional_boosters_count
+      label: Number of Additional Booster Doses
+      hint: How many additional boosters have you received
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vaccination_location
+      label: Vaccination Facility Name
+      hint: Where did you receive your vaccine
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vaccination_lot_numbers
+      label: Vaccine Lot Numbers
+      hint: Lot numbers from your vaccination card
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: card_upload_header
+      label: -- Vaccination Card Upload --
+      hint: Upload a photo or document of your card
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vaccination_card_document
+      label: Upload Vaccination Card Image or Document
+      hint: Upload a clear photo or scan of your vaccination card
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: card_quality_confirmation
+      label: Card Image is Clear and Readable
+      hint: Confirm the image quality is sufficient
+      type: select_one
+      options:
+      - Yes, image is clear
+      - Image is partially clear
+      - Image is not clear
+      required: true
+    - id: 18
+      name: verification_header
+      label: -- Information Verification --
+      hint: Please verify the information provided
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: information_accurate
+      label: The Information I Provided is Accurate
+      hint: I confirm all vaccination information is correct
+      type: select_one
+      options:
+      - I confirm this information is accurate
+      - I need to correct information
+      required: true
+    - id: 20
+      name: authorization_consent
+      label: Authorization for Record Keeping
+      hint: I authorize this facility to maintain my vaccination records
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any additional information about your vaccination
+      type: text
+      options: []
+      required: false

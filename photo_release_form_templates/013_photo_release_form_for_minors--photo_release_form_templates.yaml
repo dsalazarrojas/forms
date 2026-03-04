@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Release Form For Minors
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: Please fill in the parent's information
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: minor_info
+      label: Minor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_details
+      label: Photo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_type
+      label: Type of Photo
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Portrait'', ''value'': ''Portrait''}'
+      - '{''id'': 2, ''name'': ''Landscape'', ''value'': ''Landscape''}'
+      - '{''id'': 3, ''name'': ''Full'', ''value'': ''Full''}'
+      - '{''id'': 4, ''name'': ''Sibling'', ''value'': ''Sibling''}'
+      required: false
+    - id: 6
+      name: photo_number
+      label: Photo Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: photo_description
+      label: Photo Description
+      hint: A description of the photo
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_date_taken
+      label: Date Taken
+      hint: Date photo was taken
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: minor_consent
+      label: Minor Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 11
+      name: photo_license
+      label: Photo License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Public'', ''value'': ''Public''}'
+      - '{''id'': 2, ''name'': ''Non-Public'', ''value'': ''Non-Public''}'
+      required: false
+    - id: 12
+      name: photo_retouching
+      label: Photo Retouching
+      hint: Do you want us to retouch this photo?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Retouch'', ''value'': ''Retouch''}'
+      - '{''id'': 2, ''name'': ''Do Not Retouch'', ''value'': ''Do Not Retouch''}'
+      required: false
+    - id: 13
+      name: photo_printing
+      label: Print or Publish
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Print'', ''value'': ''Print''}'
+      - '{''id'': 2, ''name'': ''Publish'', ''value'': ''Publish''}'
+      required: false
+    - id: 14
+      name: photo_sharing
+      label: Photo Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Share on Facebook'', ''value'': ''Share on Facebook''}'
+      - '{''id'': 2, ''name'': ''Share on Twitter'', ''value'': ''Share on Twitter''}'
+      - '{''id'': 3, ''name'': ''Share on Instagram'', ''value'': ''Share on Instagram''}'
+      required: false

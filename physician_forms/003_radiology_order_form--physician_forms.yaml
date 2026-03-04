@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiology Order Form
+    pages:
+    - id: 1
+      name: radiology_order_form
+      label: radiology_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: false
+    - id: 5
+      name: imaging_requested
+      label: imaging_requested
+      hint: null
+      type: select_multiple
+      options:
+      - X-ray
+      - MRI
+      required: false
+    - id: 6
+      name: reason_for_imaging
+      label: reason_for_imaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: radiologist_name
+      label: radiologist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_condition
+      label: patient_condition
+      hint: null
+      type: note
+      options: []
+      required: false

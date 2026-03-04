@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Launch Feedback Survey
+    pages:
+    - id: 1
+      name: product_launch_feedback
+      label: Product Launch Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_launch_category
+      label: What category does this product belong to?
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Home
+      - Clothing
+      - Others
+      required: false
+    - id: 3
+      name: product_launch_satisfaction
+      label: How satisfied are you with this product?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 4
+      name: product_launch_improvement
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_launch_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

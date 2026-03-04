@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Large Format Printing Estimate Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: printing_type
+      label: Printing Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Rollup''}'
+      - '{2: ''Banner''}'
+      - '{3: ''Poster''}'
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Paper 1''}'
+      - '{2: ''Paper 2''}'
+      - '{3: ''Paper 3''}'
+      required: true
+    - id: 9
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Material 1''}'
+      - '{2: ''Material 2''}'
+      - '{3: ''Material 3''}'
+      required: true
+    - id: 10
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Color 1''}'
+      - '{2: ''Color 2''}'
+      - '{3: ''Color 3''}'
+      required: true
+    - id: 11
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_printed
+      label: Date Printed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

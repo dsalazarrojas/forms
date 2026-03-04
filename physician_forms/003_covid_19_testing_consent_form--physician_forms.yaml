@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: Your current email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Your current contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_header
+      label: -- Testing and Consent Information --
+      hint: Please review the following information carefully
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: understand_testing_purpose
+      label: I understand the purpose of COVID-19 testing
+      hint: Acknowledge your understanding of the test
+      type: select_one
+      options:
+      - I understand and agree
+      - I have questions
+      - I do not understand
+      required: true
+    - id: 8
+      name: understand_test_process
+      label: I understand the testing procedure
+      hint: You acknowledge understanding how the test will be conducted
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      - false
+      required: true
+    - id: 9
+      name: health_declaration
+      label: Health Declaration
+      hint: I certify that I am fit for testing
+      type: select_one
+      options:
+      - I declare I am in good health for testing
+      - I have health conditions that may affect testing
+      - I have concerns
+      required: true
+    - id: 10
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Are you currently experiencing COVID-19 related symptoms
+      type: select_one
+      options:
+      - No symptoms
+      - Mild symptoms
+      - Moderate symptoms
+      - Severe symptoms
+      required: true
+    - id: 11
+      name: symptom_details
+      label: Describe Any Symptoms You Are Experiencing
+      hint: If applicable, describe your symptoms in detail
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_note
+      label: -- Medical History --
+      hint: Please provide relevant medical information
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: chronic_conditions
+      label: Do You Have Any Chronic Medical Conditions
+      hint: Select conditions that may be relevant
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Disease
+      - Lung Disease
+      - Immunocompromised
+      - Hypertension
+      - Obesity
+      - Pregnancy
+      - None
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication_allergies
+      label: Medication Allergies
+      hint: List any known medication allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_acknowledgment_note
+      label: -- Consent Acknowledgment --
+      hint: By signing below, you consent to the COVID-19 test
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: authorize_test
+      label: I Authorize the COVID-19 Test
+      hint: I authorize this testing facility to conduct the test
+      type: select_one
+      options:
+      - I authorize this test
+      - I do not authorize this test
+      required: true
+    - id: 18
+      name: data_privacy_agreement
+      label: I Agree to Data Privacy Terms
+      hint: My test results may be reported to health authorities as required by law
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: insurance_information
+      label: Insurance Provider or Policy Type
+      hint: Name of your health insurance or whether uninsured
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: Phone number for your emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Date of Consent
+      hint: Date when you are signing this form
+      type: date
+      options: []
+      required: true

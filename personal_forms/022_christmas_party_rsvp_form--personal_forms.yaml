@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_status
+      label: RSVP Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes I will attend
+      - No I cannot attend
+      - Maybe still deciding
+      required: true
+    - id: 5
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: number_attending
+      label: Number Attending
+      hint: How many people from your household
+      type: select_one
+      options:
+      - Just me
+      - 2 people
+      - 3-4 people
+      - 5 or more
+      required: true
+    - id: 7
+      name: bringing_children
+      label: Bringing Children
+      hint: Will children be attending
+      type: select_one
+      options:
+      - No adults only
+      - Yes 1 child
+      - Yes 2 children
+      - Yes 3 or more children
+      required: true
+    - id: 8
+      name: children_ages
+      label: Children Ages
+      hint: List ages of children
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_family_info
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Other
+      required: true
+    - id: 11
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify your needs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_dietary
+      label: -- Dietary Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dish_to_share
+      label: Dish to Share
+      hint: What will you bring for potluck
+      type: select_one
+      options:
+      - Not applicable
+      - Appetizer
+      - Main dish
+      - Side dish
+      - Dessert
+      - Beverages
+      - Still deciding
+      required: false
+    - id: 14
+      name: dish_description
+      label: Dish Description
+      hint: Describe what you will bring
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_potluck
+      label: -- Potluck Contribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: gift_exchange
+      label: Gift Exchange
+      hint: Will you participate
+      type: select_one
+      options:
+      - Yes I will participate
+      - No I will not
+      - Maybe
+      required: true
+    - id: 17
+      name: gift_type
+      label: Gift Type Preference
+      hint: What type of gift do you prefer
+      type: select_one
+      options:
+      - Secret Santa assigned
+      - White elephant swap
+      - Homemade gifts
+      - No gifts please
+      required: false
+    - id: 18
+      name: section_gift_exchange
+      label: -- Gift Exchange --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need a ride
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes need ride there
+      - Yes need ride back
+      - Yes need both ways
+      required: true
+    - id: 20
+      name: parking_question
+      label: Parking Question
+      hint: Do you have parking questions
+      type: select_one
+      options:
+      - No I am fine
+      - Yes need parking info
+      required: true
+    - id: 21
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: song_requests
+      label: Song Requests
+      hint: Songs you want to hear
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: message_to_host
+      label: Message to Host
+      hint: Any message or question
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: how_heard
+      label: How Did You Hear About Party
+      hint: null
+      type: select_one
+      options:
+      - Direct invitation
+      - Social media
+      - Friend told me
+      - Other
+      required: false

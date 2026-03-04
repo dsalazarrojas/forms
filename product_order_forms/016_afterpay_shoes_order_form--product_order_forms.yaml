@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Shoes Order Form
+    pages:
+    - id: 1
+      name: buyer_details
+      label: -- Buyer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer name
+      hint: Full name for order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: For shipping confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shoe_model
+      label: Shoe model
+      hint: Item SKU or model name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: size
+      label: Shoe size
+      hint: Include width if applicable
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: color
+      label: Color
+      hint: Preferred color
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of pairs
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: afterpay
+      label: Use Afterpay
+      hint: Choose payment method
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping address
+      hint: Delivery address details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: return_policy_acknowledgment
+      label: Return policy acknowledgment
+      hint: Acknowledge you have read the return policy
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true

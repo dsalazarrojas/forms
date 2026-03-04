@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote For Your Favorite Bird
+    pages:
+    - id: 1
+      name: favorite_bird
+      label: Favorite Bird
+      hint: null
+      type: select_one
+      options:
+      - American Robin
+      - Bluebird
+      - Canary
+      - Finch
+      - Hummingbird
+      - Parrot
+      - Sparrow
+      - Swallow
+      - Toucan
+      - Turkey
+      - Vulture
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

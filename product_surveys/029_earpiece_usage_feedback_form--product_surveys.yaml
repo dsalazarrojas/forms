@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earpiece Usage Feedback Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neither Satisfied Nor Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 7
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Applicable''}'
+      - '{''label'': ''Battery Life is too short''}'
+      - '{''label'': ''Volume too soft or too hard''}'
+      - '{''label'': ''Not loud enough''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: issues_text
+      label: Issues (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: Team/Company
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Teams''}'
+      - '{''label'': ''Retailers''}'
+      - '{''label'': ''Device Providers''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: device_used
+      label: Device Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

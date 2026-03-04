@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Result Form
+    pages:
+    - id: 1
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_officials
+      label: Medical Officials
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      required: false
+    - id: 3
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: specimen_description
+      label: Specimen Description
+      hint: Describe the specimen
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: results
+      label: Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinical_laboratory
+      label: Clinical Laboratory
+      hint: Laboratory where the test was performed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_results_notes
+      label: Test Results Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Do Not Submit
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Blood Test
+      - Urine Test
+      - Saliva Test
+      required: false
+    - id: 16
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: clinical_laboratory_name
+      label: Clinical Laboratory Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_results_status
+      label: Test Results Status
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: false
+    - id: 19
+      name: test_results_date
+      label: Test Results Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_zip
+      label: Patient Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_officials_name
+      label: Medical Officials Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: specimen_type
+      label: Specimen Type
+      hint: null
+      type: select_one
+      options:
+      - Blood
+      - Urine
+      - Saliva
+      required: false

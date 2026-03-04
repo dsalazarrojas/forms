@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Manufacturing Wearable Order Form
+    pages:
+    - id: 1
+      name: company_details
+      label: company_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_info
+      label: delivery_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wearable_select
+      label: wearable_select
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': ''Option 1''}'
+      - '{''id'': ''4.1.1'', ''label'': ''Option 1.1''}'
+      - '{''id'': ''4.1.2'', ''label'': ''Option 1.2''}'
+      - '{''id'': 4.2, ''label'': ''Option 2''}'
+      - '{''id'': ''4.2.1'', ''label'': ''Option 2.1''}'
+      - '{''id'': ''4.2.2'', ''label'': ''Option 2.2''}'
+      required: false
+    - id: 5
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: company_notes
+      label: company_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': ''Type 1''}'
+      - '{''id'': ''11.1.1'', ''label'': ''Type 1.1''}'
+      - '{''id'': 11.2, ''label'': ''Type 2''}'
+      - '{''id'': ''11.2.1'', ''label'': ''Type 2.1''}'
+      required: false
+    - id: 12
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 18.1, ''label'': ''Method 1''}'
+      - '{''id'': ''18.1.1'', ''label'': ''Method 1.1''}'
+      - '{''id'': 18.2, ''label'': ''Method 2''}'
+      - '{''id'': ''18.2.1'', ''label'': ''Method 2.1''}'
+      required: false
+    - id: 19
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 19.1, ''label'': ''Status 1''}'
+      - '{''id'': ''19.1.1'', ''label'': ''Status 1.1''}'
+      - '{''id'': 19.2, ''label'': ''Status 2''}'
+      - '{''id'': ''19.2.1'', ''label'': ''Status 2.1''}'
+      required: false

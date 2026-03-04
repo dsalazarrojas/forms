@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine Patient Evaluation Form
+    pages:
+    - id: 1
+      name: telemedicine_patient_evaluation_form_page_1
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patients_family_members
+      label: Family Members
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

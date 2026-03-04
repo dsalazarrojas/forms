@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Juice Production Feedback Form
+    pages:
+    - id: 1
+      name: product_information
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: production_quality
+      label: Production Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wood Paneling Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wood_type
+      label: Wood Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Oak'', ''label'': ''Oak''}'
+      - '{''value'': ''Maple'', ''label'': ''Maple''}'
+      - '{''value'': ''Pine'', ''label'': ''Pine''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''White'', ''label'': ''White''}'
+      - '{''value'': ''Black'', ''label'': ''Black''}'
+      - '{''value'': ''Brown'', ''label'': ''Brown''}'
+      required: false
+    - id: 5
+      name: wood_finish
+      label: Wood Finish
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Stain'', ''label'': ''Stain''}'
+      - '{''value'': ''Paint'', ''label'': ''Paint''}'
+      - '{''value'': ''Polish'', ''label'': ''Polish''}'
+      required: false
+    - id: 6
+      name: installation_type
+      label: Installation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full'', ''label'': ''Full''}'
+      - '{''value'': ''Half'', ''label'': ''Half''}'
+      - '{''value'': ''Partial'', ''label'': ''Partial''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit'', ''label'': ''Submit''}'
+      - '{''value'': ''Cancel'', ''label'': ''Cancel''}'
+      required: false

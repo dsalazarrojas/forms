@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: general_health_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: smoker
+      label: smoker
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: drinker
+      label: drinker
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: exercise
+      label: exercise
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history_other
+      label: medical_history_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_insurance
+      label: health_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medicare''}'
+      - '{''label'': ''Medicaid''}'
+      - '{''label'': ''Private''}'
+      required: false

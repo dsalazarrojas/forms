@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Movies Watchlist Checklist
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: Email Address
+      hint: Optional - for sharing your watchlist
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: list_type
+      label: Type of Watchlist
+      hint: What kind of movie list is this
+      type: select_one
+      options:
+      - Personal Watchlist
+      - Family Watchlist
+      - Film Club List
+      - Class Project
+      - Friends Group
+      - Date Night Ideas
+      - Other
+      required: true
+    - id: 4
+      name: movie_1
+      label: Movie Title 1
+      hint: First movie on your watchlist
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: movie_1_genre
+      label: Movie 1 Genre
+      hint: Select the genre
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Sci-Fi
+      - Romance
+      - Documentary
+      - Animation
+      - Thriller
+      - Fantasy
+      required: false
+    - id: 6
+      name: movie_1_watched
+      label: Movie 1 Watched
+      hint: Have you watched this movie
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 7
+      name: movie_1_rating
+      label: Movie 1 Rating
+      hint: Rate this movie if watched
+      type: select_one
+      options:
+      - 5 Stars
+      - 4 Stars
+      - 3 Stars
+      - 2 Stars
+      - 1 Star
+      - Not Watched
+      required: false
+    - id: 8
+      name: movie_2
+      label: Movie Title 2
+      hint: Second movie on your watchlist
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: movie_2_genre
+      label: Movie 2 Genre
+      hint: Select the genre
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Sci-Fi
+      - Romance
+      - Documentary
+      - Animation
+      - Thriller
+      - Fantasy
+      required: false
+    - id: 10
+      name: movie_2_watched
+      label: Movie 2 Watched
+      hint: Have you watched this movie
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 11
+      name: movie_2_rating
+      label: Movie 2 Rating
+      hint: Rate this movie if watched
+      type: select_one
+      options:
+      - 5 Stars
+      - 4 Stars
+      - 3 Stars
+      - 2 Stars
+      - 1 Star
+      - Not Watched
+      required: false
+    - id: 12
+      name: movie_3
+      label: Movie Title 3
+      hint: Third movie on your watchlist
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: movie_3_genre
+      label: Movie 3 Genre
+      hint: Select the genre
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Sci-Fi
+      - Romance
+      - Documentary
+      - Animation
+      - Thriller
+      - Fantasy
+      required: false
+    - id: 14
+      name: movie_3_watched
+      label: Movie 3 Watched
+      hint: Have you watched this movie
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 15
+      name: movie_3_rating
+      label: Movie 3 Rating
+      hint: Rate this movie if watched
+      type: select_one
+      options:
+      - 5 Stars
+      - 4 Stars
+      - 3 Stars
+      - 2 Stars
+      - 1 Star
+      - Not Watched
+      required: false
+    - id: 16
+      name: movie_4
+      label: Movie Title 4
+      hint: Fourth movie on your watchlist
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: movie_4_watched
+      label: Movie 4 Watched
+      hint: Have you watched this movie
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 18
+      name: movie_5
+      label: Movie Title 5
+      hint: Fifth movie on your watchlist
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: movie_5_watched
+      label: Movie 5 Watched
+      hint: Have you watched this movie
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 20
+      name: preferred_viewing_method
+      label: Preferred Viewing Method
+      hint: How do you usually watch movies
+      type: select_one
+      options:
+      - Theater
+      - Streaming at Home
+      - DVD or Blu-ray
+      - Digital Rental
+      - TV Broadcast
+      required: false
+    - id: 21
+      name: favorite_streaming_service
+      label: Favorite Streaming Service
+      hint: Which platform do you use most
+      type: select_one
+      options:
+      - Netflix
+      - Amazon Prime Video
+      - Disney Plus
+      - Hulu
+      - HBO Max
+      - Apple TV Plus
+      - Paramount Plus
+      - Peacock
+      - Other
+      - None
+      required: false
+    - id: 22
+      name: favorite_genre
+      label: Favorite Movie Genre
+      hint: What genre do you enjoy most
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Sci-Fi
+      - Romance
+      - Documentary
+      - Animation
+      - Thriller
+      - Fantasy
+      - Mystery
+      - Musical
+      required: false
+    - id: 23
+      name: viewing_goals
+      label: Movie Viewing Goals
+      hint: How many movies do you plan to watch this month
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other movies you want to add or comments
+      type: text
+      options: []
+      required: false

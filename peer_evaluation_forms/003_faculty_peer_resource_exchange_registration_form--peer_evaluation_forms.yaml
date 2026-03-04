@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Peer Resource Exchange Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Arts and Sciences'', ''label'': ''Arts and Sciences''}'
+      - '{''id'': 2, ''name'': ''Business'', ''label'': ''Business''}'
+      - '{''id'': 3, ''name'': ''Engineering'', ''label'': ''Engineering''}'
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Moses'', ''label'': ''Moses''}'
+      - '{''id'': 2, ''name'': ''Elijah'', ''label'': ''Elijah''}'
+      - '{''id'': 3, ''name'': ''Abraham'', ''label'': ''Abraham''}'
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: faculty_id
+      label: Faculty ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department_id
+      label: Department ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Computer Science'', ''label'': ''Computer Science''}'
+      - '{''id'': 2, ''name'': ''Physics'', ''label'': ''Physics''}'
+      - '{''id'': 3, ''name'': ''Mathematics'', ''label'': ''Mathematics''}'
+      required: true
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Arts'', ''label'': ''Arts''}'
+      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
+      - '{''id'': 3, ''name'': ''Business'', ''label'': ''Business''}'
+      required: true
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Business'', ''label'': ''Business''}'
+      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
+      - '{''id'': 3, ''name'': ''Arts'', ''label'': ''Arts''}'
+      required: false
+    - id: 17
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Arts'', ''label'': ''Arts''}'
+      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
+      - '{''id'': 3, ''name'': ''Business'', ''label'': ''Business''}'
+      required: false

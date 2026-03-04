@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brunswick Islands Baptist Church
+    pages:
+    - id: 1
+      name: person_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: person_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: If minor - under 18 years old
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: photo_location
+      label: Event or Location of Photos
+      hint: Where will photos be taken
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: photo_date
+      label: Date of Event
+      hint: When will photos be taken
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: church_ministry
+      label: Church Ministry or Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: website_use
+      label: Allow photos on church website
+      hint: For website publication
+      type: select_one
+      options:
+      - Yes, allow
+      - No, do not use
+      required: true
+    - id: 10
+      name: facebook_use
+      label: Allow photos on church Facebook
+      hint: For social media use
+      type: select_one
+      options:
+      - Yes, allow
+      - No, do not use
+      required: true
+    - id: 11
+      name: print_use
+      label: Allow photos for print materials
+      hint: Newsletters, flyers, etc
+      type: select_one
+      options:
+      - Yes, allow
+      - No, do not use
+      required: true
+    - id: 12
+      name: name_identification
+      label: Allow identification by name
+      hint: When photos are published
+      type: select_one
+      options:
+      - Yes, identify me
+      - No, anonymous only
+      required: true
+    - id: 13
+      name: commercial_use
+      label: Allow use for commercial purposes
+      hint: If church sells materials
+      type: select_one
+      options:
+      - Yes, allow
+      - No, exclude
+      required: true
+    - id: 14
+      name: duration_of_use
+      label: Duration of Photo Use Permission
+      hint: How long can photos be used
+      type: select_one
+      options:
+      - One-time use only
+      - One year
+      - Indefinite
+      - Other
+      required: true
+    - id: 15
+      name: additional_restrictions
+      label: Any Additional Restrictions
+      hint: Special requests or concerns
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: release_consent
+      label: I grant permission for photo release
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

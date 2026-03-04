@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_order_form
+    pages:
+    - id: 1
+      name: domain_name
+      label: Enter Domain Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Enter Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Enter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Enter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Enter Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: Select Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: business_type
+      label: Select Business Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 8
+      name: domain_suggestions
+      label: Get Domain Suggestions
+      hint: null
+      type: select_one
+      options:
+      - suggestion1
+      - suggestion2
+      - suggestion3
+      required: false
+    - id: 9
+      name: domain_suggestions
+      label: Get Domain Suggestions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: website_requirements
+      label: What is the purpose of your website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_requirements
+      label: What are your business needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: target_audience
+      label: Describe Your Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: target_audience
+      label: Select Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

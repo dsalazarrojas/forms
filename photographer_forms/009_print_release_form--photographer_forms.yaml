@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Print Release Form
+    pages:
+    - id: 1
+      name: print_release_form
+      label: print_release_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subject_to_print
+      label: subject_to_print_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photographer_info
+      label: photographer_info_label
+      hint: This is information about the photographer.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject_release_info
+      label: subject_release_info_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_taken
+      label: date_taken_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: location_taken
+      label: location_taken_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer
+      label: photographer_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: contact_info_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: client_name
+      label: client_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_email
+      label: client_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: client_phone
+      label: client_phone_label
+      hint: null
+      type: text
+      options: []
+      required: true

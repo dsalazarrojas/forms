@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacist Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: How many years of experience do you have as a Pharmacist?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: certification
+      label: Certification
+      hint: Do you have a valid pharmacist certification?
+      type: select_one
+      options:
+      - Certified pharmacist
+      - Not certified
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor of pharmacy
+      - Bachelor of pharmacy
+      required: false
+    - id: 7
+      name: resume
+      label: Resume
+      hint: Please upload your resume.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: license
+      label: License
+      hint: Please provide a copy of your license.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_institution
+      label: Education Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: education_field
+      label: Education Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_company
+      label: Job Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: job_employer
+      label: Job Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Actively working
+      - Not working
+      - Retired
+      - Other
+      required: false
+    - id: 25
+      name: upload_license
+      label: Upload License
+      hint: Please upload your license.
+      type: text
+      options: []
+      required: false

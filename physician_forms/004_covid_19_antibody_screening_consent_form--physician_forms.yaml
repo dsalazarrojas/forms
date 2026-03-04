@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Antibody Screening Consent Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_header
+      label: -- Reason for Testing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: testing_reason
+      label: Reason for antibody screening
+      hint: null
+      type: select_one
+      options:
+      - Symptomatic
+      - Asymptomatic
+      - Exposed Contact
+      - Healthcare Worker
+      - Research
+      - Other
+      required: true
+    - id: 9
+      name: symptoms_header
+      label: -- COVID-19 Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: symptoms
+      label: Any COVID-19 symptoms in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: symptom_description
+      label: Describe symptoms if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: illness_duration
+      label: Duration of illness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prior_positive_test
+      label: Prior positive COVID-19 test
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: test_date
+      label: Date of prior positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: understanding_confirmation
+      label: I understand the risks and benefits of antibody screening
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 16
+      name: consent
+      label: I consent to COVID-19 antibody screening
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 17
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

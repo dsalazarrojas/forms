@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microbrewery Equipment Supply Order Form
+    pages:
+    - id: 1
+      name: equipment_order
+      label: Equipment Order
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: terms_confirmation
+      label: Terms Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_company
+      label: Contact Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_accepted
+      label: Terms Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

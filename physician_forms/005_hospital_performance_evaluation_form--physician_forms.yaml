@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Performance Evaluation Form
+    pages:
+    - id: 1
+      name: hospital_performance_evaluation_form_1
+      label: Performance Evaluation Form
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: hospital_performance_evaluation_form_2
+      label: Form Description
+      hint: This is the form description
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hospital_performance_evaluation_form_3
+      label: Staff Performance Metrics
+      hint: Measure staff performance
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: hospital_performance_evaluation_form_4
+      label: Patient Care Metrics
+      hint: Evaluate patient care metrics
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hospital_performance_evaluation_form_5
+      label: Time of Visit
+      hint: Choose a time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: hospital_performance_evaluation_form_6
+      label: Date of Visit
+      hint: Choose a date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: hospital_performance_evaluation_form_7
+      label: Staff Feedback
+      hint: Leave feedback for your staff
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hospital_performance_evaluation_form_8
+      label: Form Submission
+      hint: Submission notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hospital_performance_evaluation_form_9
+      label: Email Address
+      hint: Staff email address
+      type: email
+      options: []
+      required: false

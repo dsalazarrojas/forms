@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback For Introduction To Dermatology Module Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: suggestion
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: module_suggestion
+      label: Module Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_form
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_form
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one_1
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: select_multiple_1
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

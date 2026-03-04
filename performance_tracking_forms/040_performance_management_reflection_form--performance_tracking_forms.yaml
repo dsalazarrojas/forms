@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_management_reflection_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals_page
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: review_page
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: reflection_page
+      label: Reflection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: performance_page
+      label: Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: goals_page_2
+      label: Goals 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: reflection_page_2
+      label: Reflection 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: review_page_2
+      label: Review 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_page
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: final_evaluation_page
+      label: Final Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

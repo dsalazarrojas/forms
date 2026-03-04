@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Exam Form Template
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_exam_performed
+      label: Date Exam Performed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: eye_exam_type
+      label: Eye Exam Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ophthalmology Exam
+      - Contact Lens Evaluation
+      - Visual Field Test
+      - Retina Exam
+      - Other
+      required: true
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_2
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: prescription_issued
+      label: Prescription
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_up_scheduled
+      label: Follow Up Scheduled
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_lenses
+      label: Contact Lenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 12
+      name: contact_lens_type
+      label: Contact Lens Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_lens_power
+      label: Contact Lens Power
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: spectacle_prescription
+      label: Spectacle Prescription
+      hint: null
+      type: select_multiple
+      options:
+      - Right
+      - Left
+      - Both
+      required: false
+    - id: 15
+      name: spectacle_prescription_power
+      label: Spectacle Prescription Power
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_lens_solution
+      label: Contact Lens Solution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spectacle_frame
+      label: Spectacle Frame
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: eye_exam_result
+      label: Eye Exam Result
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Abnormal
+      - Borderline
+      required: true
+    - id: 19
+      name: eye_exam_result_detail
+      label: Eye Exam Result Detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: spectacle_frame_1
+      label: Spectacle Frame 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: spectacle_frame_2
+      label: Spectacle Frame 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: spectacle_frame_3
+      label: Spectacle Frame 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: spectacle_frame_4
+      label: Spectacle Frame 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: spectacle_frame_5
+      label: Spectacle Frame 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: spectacle_frame_6
+      label: Spectacle Frame 6
+      hint: null
+      type: text
+      options: []
+      required: false

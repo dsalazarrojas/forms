@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Order Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: dosage_form
+      label: Dosage Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: instructions
+      label: Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: prescriber_info
+      label: Prescriber Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pharmacy_address
+      label: Pharmacy Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: prescriber_phone
+      label: Prescriber Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: prescription_number
+      label: Prescription Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medication_notes
+      label: Medication Notes
+      hint: null
+      type: note
+      options: []
+      required: false

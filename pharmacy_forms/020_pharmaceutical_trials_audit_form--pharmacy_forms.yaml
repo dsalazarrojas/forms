@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Trials Audit Form
+    pages:
+    - id: 1
+      name: trial_id
+      label: Trial ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: auditors_name
+      label: Auditor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: auditors_organization
+      label: Auditor's Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: auditors_title
+      label: Auditor's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: auditors_department
+      label: Auditor's Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: auditors_phone
+      label: Auditor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: auditors_email
+      label: Auditor's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date_of_visit_start
+      label: Date of Visit Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_visit_end
+      label: Date of Visit End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: site_visit_duration
+      label: Site Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: site_visit_type
+      label: Site Visit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: site_visit_status
+      label: Site Visit Status
+      hint: null
+      type: select_one
+      options:
+      - On Site
+      - Off Site
+      - Remote
+      required: false
+    - id: 14
+      name: findings
+      label: Findings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: findings_details
+      label: Findings Details
+      hint: null
+      type: text
+      options: []
+      required: false

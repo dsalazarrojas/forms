@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behind The Scenes Release Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_project
+      label: -- Production/Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name
+      label: Project/Production Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: production_company
+      label: Production Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - Television
+      - Documentary
+      - Streaming Content
+      - Commercial
+      - Podcast
+      - Online Content
+      - Other
+      required: true
+    - id: 11
+      name: filming_location
+      label: Filming/Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: filming_date
+      label: Date of Filming
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: section_permission
+      label: -- Behind-the-Scenes Permission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: permit_photos
+      label: Permission to Use Behind-the-Scenes Photos
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: permit_video
+      label: Permission to Use Behind-the-Scenes Video
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: permit_audio
+      label: Permission to Use Audio/Voice Recording
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: media_usage
+      label: Permitted Use of Media
+      hint: null
+      type: select_multiple
+      options:
+      - Promotional Materials
+      - Social Media
+      - Official Website
+      - Press Kit
+      - Documentary or Making Of
+      - DVD or Streaming Release
+      - Educational Purposes
+      - Other
+      required: true
+    - id: 18
+      name: section_restrictions
+      label: -- Usage Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: face_recognition
+      label: Face May Be Visible in Behind-the-Scenes Content
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Only if Blurred
+      required: true
+    - id: 20
+      name: name_usage
+      label: Name May Be Used with Behind-the-Scenes Content
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Yes but Anonymous
+      required: false
+    - id: 21
+      name: content_restrictions
+      label: Content Restrictions
+      hint: Any specific restrictions on how material can be used
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_compensation
+      label: -- Compensation and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: compensation_received
+      label: Compensation for Participation
+      hint: null
+      type: select_one
+      options:
+      - No Compensation
+      - Appearance Fee
+      - Credit
+      - Other
+      required: false
+    - id: 24
+      name: compensation_amount
+      label: Compensation Amount
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_acknowledgment
+      label: I Acknowledge Understanding of This Release
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 26
+      name: consent_final
+      label: I Consent to the Terms of This Release
+      hint: Required to proceed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 27
+      name: release_date
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: true

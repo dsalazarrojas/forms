@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_drug_inventory_form
+    pages:
+    - id: 1
+      name: business_organization
+      label: business_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventory_date
+      label: inventory_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inventory_items
+      label: inventory_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: pharmacist_name
+      label: pharmacist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: asset_value
+      label: asset_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

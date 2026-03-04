@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness App Workout Plan Effectiveness Report
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: workout_details
+      label: Workout Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: progress_insights
+      label: Progress Insights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

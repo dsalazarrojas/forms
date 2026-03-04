@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: marriage_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: marriage_status
+      label: are_you_married
+      hint: null
+      type: select_one
+      options:
+      - never married
+      - married
+      - in a domestic partnership
+      - in a civil union
+      - other
+      required: false
+    - id: 3
+      name: husband_wife_name
+      label: husband_wife_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_married
+      label: years_married
+      hint: years
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: how_many_children
+      label: have_children
+      hint: null
+      type: select_multiple
+      options:
+      - no children
+      - one child
+      - two or more children
+      required: false
+    - id: 6
+      name: income_husband
+      label: income_husband
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: income_wife
+      label: income_wife
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: family_members
+      label: family_members
+      hint: null
+      type: select_multiple
+      options:
+      - spouse
+      - parents
+      - children
+      - other relatives
+      - other
+      required: false
+    - id: 9
+      name: family_members_other
+      label: other_family_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: family_members_other_details
+      label: other_family_member_details
+      hint: null
+      type: text
+      options: []
+      required: false

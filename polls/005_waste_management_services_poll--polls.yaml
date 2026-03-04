@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Management Services Poll
+    pages:
+    - id: 1
+      name: service_quality
+      label: How do you rate the service quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: issues_faced
+      label: What issues do you face with waste management services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvement_priorities
+      label: Improvement priorities for waste management services
+      hint: null
+      type: select_one
+      options:
+      - Improved collection and collection frequency
+      - Better communication from service providers
+      - Improved recycling and waste reduction programs
+      - Other
+      - None of the above
+      required: false
+    - id: 4
+      name: resident_feedback
+      label: resident_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_feedback
+      label: manager_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_improvement_priorities
+      label: manager_improvement_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Improved collection and collection frequency
+      - Better communication from service providers
+      - Improved recycling and waste reduction programs
+      - Other
+      - None of the above
+      required: false

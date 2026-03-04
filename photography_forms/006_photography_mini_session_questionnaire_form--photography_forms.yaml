@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_mini_session_questionnaire_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''mail'', ''label'': ''Mail''}'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''portrait'', ''label'': ''Portrait''}'
+      - '{''value'': ''event'', ''label'': ''Event''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photographer_preferences
+      label: Photographer Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mail
+      label: Mail
+      hint: null
+      type: text
+      options: []
+      required: false

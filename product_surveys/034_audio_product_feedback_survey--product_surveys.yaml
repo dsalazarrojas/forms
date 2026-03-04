@@ -1,0 +1,164 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audio Product Feedback Survey
+    pages:
+      - id: 1
+        name: section_purchase
+        label: -- Product Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: product_model_name
+        label: Product Model/Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: purchase_date
+        label: Date of Purchase
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: section_ratings
+        label: -- User Experience Ratings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: setup_ease
+        label: Ease of Initial Setup
+        hint: From unboxing to first use
+        type: select_one
+        options:
+          - Extremely Easy
+          - Easy
+          - Moderate
+          - Difficult
+        required: true
+      - id: 6
+        name: sound_quality_rating
+        label: Overall Sound Quality
+        hint: Clarity, balance, and depth
+        type: select_one
+        options:
+          - 5 - Outstanding
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Unacceptable
+        required: true
+      - id: 7
+        name: build_quality_rating
+        label: Build Quality and Durability
+        hint: How robust does the product feel?
+        type: select_one
+        options:
+          - Premium Feel
+          - Sturdy
+          - Average
+          - Feels Flimsy
+        required: true
+      - id: 8
+        name: feature_satisfaction
+        label: Satisfaction with Included Features
+        hint: e.g., Connectivity, app control, EQ
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Dissatisfied
+        required: true
+      - id: 9
+        name: section_usage
+        label: -- Usage and Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: primary_use_case
+        label: What is your primary use for this product?
+        hint: null
+        type: select_one
+        options:
+          - Music Production/Studio
+          - Live Performance
+          - Casual Listening
+          - Gaming
+          - Content Creation (Podcast/Video)
+        required: true
+      - id: 11
+        name: defect_report
+        label: Have you encountered any defects or technical issues?
+        hint: If yes, please describe below
+        type: select_one
+        options:
+          - No issues
+          - Minor software bug
+          - Hardware defect
+          - Connectivity issues
+        required: true
+      - id: 12
+        name: issue_description
+        label: Description of Issue (if any)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_comparison
+        label: -- Final Thoughts --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: competitor_comparison
+        label: How does this compare to other brands you have used?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: recommendation_score
+        label: Likelihood to recommend to others
+        hint: null
+        type: select_one
+        options:
+          - Definitely Recommend
+          - Likely Recommend
+          - Neutral
+          - Unlikely
+        required: true
+      - id: 16
+        name: general_suggestions
+        label: Any suggestions for product improvement?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow up if you reported an issue
+        type: email
+        options: []
+        required: false

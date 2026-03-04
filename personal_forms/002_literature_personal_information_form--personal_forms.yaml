@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Personal Information Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Literature Personal Information Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_participants
+      label: program_participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_interest
+      label: literature_program_interest
+      hint: null
+      type: text
+      options: []
+      required: false

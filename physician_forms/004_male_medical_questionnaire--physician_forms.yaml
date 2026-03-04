@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Male Medical Questionnaire
+    pages:
+    - id: 1
+      name: medical_history
+      label: medical-history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medication_info
+      label: Medication Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_photos
+      label: Patient Photos
+      hint: null
+      type: text
+      options: []
+      required: false

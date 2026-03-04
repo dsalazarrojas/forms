@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Communication Log Form
+    pages:
+    - id: 1
+      name: family_conversations
+      label: Family Conversations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_decisions
+      label: Family Decisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: co_parent_names
+      label: Co-parent Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: household_members
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: household_member_relationships
+      label: Household Member Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: family_members_residing
+      label: Family Members Residing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: family_conversation_dates
+      label: Family Conversation Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: family_conversation_times
+      label: Family Conversation Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: family_conversation_notes
+      label: Family Conversation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: family_conversation_outcomes
+      label: Family Conversation Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false

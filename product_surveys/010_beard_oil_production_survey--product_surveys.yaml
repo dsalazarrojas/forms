@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Oil Production Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56+
+      required: true
+    - id: 6
+      name: location
+      label: Geographic Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: usage_header
+      label: -- Product Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: usage_frequency
+      label: How Often Do You Use Beard Oil
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Multiple Times Weekly
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: time_as_customer
+      label: How Long Have You Used Beard Oil
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 10
+      name: beard_length
+      label: Current Beard Length
+      hint: null
+      type: select_one
+      options:
+      - Stubble
+      - Short
+      - Medium
+      - Long
+      - Extra Long
+      required: true
+    - id: 11
+      name: beard_type
+      label: Beard Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coarse
+      - Fine
+      required: true
+    - id: 12
+      name: quality_header
+      label: -- Product Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: product_quality
+      label: Overall Product Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: scent_satisfaction
+      label: Satisfaction with Scent
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 15
+      name: texture_satisfaction
+      label: Satisfaction with Texture
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 16
+      name: absorption_rate
+      label: How Quickly Does Product Absorb
+      hint: null
+      type: select_one
+      options:
+      - Too Fast
+      - Fast
+      - Just Right
+      - Slow
+      - Too Slow
+      required: true
+    - id: 17
+      name: effectiveness_header
+      label: -- Effectiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: moisture_effectiveness
+      label: Moisturizing Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Ineffective
+      - Ineffective
+      - Neutral
+      - Effective
+      - Very Effective
+      required: true
+    - id: 19
+      name: shine_appearance
+      label: Shine and Appearance Improvement
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 20
+      name: itching_relief
+      label: Relief from Itching or Irritation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Moderate
+      - Significant
+      - Complete
+      required: true
+    - id: 21
+      name: improvement_header
+      label: -- Improvement Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: formula_improvements
+      label: Suggested Formula Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: scent_preferences
+      label: Preferred Scent Profiles
+      hint: Woodsy, citrus, herbal, unscented, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: packaging_feedback
+      label: Packaging Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recommend_friends
+      label: Would You Recommend to Friends
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true

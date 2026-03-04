@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Kit Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Bank Transfer
+      required: true
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Standard
+      - Express
+      required: true
+    - id: 9
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Processing
+      - Delivered
+      required: true
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: true
+    - id: 14
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: customer
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: payment_status_2
+      label: Payment Status 2
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: true
+    - id: 20
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Bank Transfer
+      required: true
+    - id: 23
+      name: payment_method_3
+      label: Payment Method 3
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Bank Transfer
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_status_update
+      label: Order Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

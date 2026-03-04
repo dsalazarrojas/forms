@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Rescue Adoption Matching Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dog_name
+      label: Dog Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: adoption_status
+      label: Adoption Status
+      hint: Available for adoption status
+      type: select_multiple
+      options:
+      - Available for adoption
+      - Adopted
+      required: true
+    - id: 9
+      name: rescue_org_info
+      label: Rescue Organization Information
+      hint: Enter rescue organization details.
+      type: text
+      options: []
+      required: false

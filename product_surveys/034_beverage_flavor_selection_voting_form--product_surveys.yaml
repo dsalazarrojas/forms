@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Flavor Selection Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: We will send results to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: voter_age
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or Older
+        required: true
+      - id: 4
+        name: beverage_category
+        label: Beverage Category
+        hint: Which beverage category is this vote for
+        type: select_one
+        options:
+          - Carbonated Soft Drinks
+          - Energy Drinks
+          - Sports Drinks
+          - Juice
+          - Tea
+          - Coffee
+          - Water
+          - Alcoholic Beverages
+          - Plant-Based Milk
+          - Other
+        required: true
+      - id: 5
+        name: favorite_flavor
+        label: Favorite Flavor
+        hint: Which flavor is your favorite
+        type: select_one
+        options:
+          - Strawberry
+          - Blueberry
+          - Raspberry
+          - Lemon
+          - Lime
+          - Orange
+          - Mango
+          - Pineapple
+          - Peach
+          - Apple
+          - Cherry
+          - Grape
+          - Watermelon
+          - Coconut
+          - Passion Fruit
+          - Guava
+          - Pomegranate
+          - Acai
+          - Other
+        required: true
+      - id: 6
+        name: second_favorite_flavor
+        label: Second Favorite Flavor
+        hint: What is your second choice
+        type: select_one
+        options:
+          - Strawberry
+          - Blueberry
+          - Raspberry
+          - Lemon
+          - Lime
+          - Orange
+          - Mango
+          - Pineapple
+          - Peach
+          - Apple
+          - Cherry
+          - Grape
+          - Watermelon
+          - Coconut
+          - Passion Fruit
+          - Guava
+          - Pomegranate
+          - Acai
+          - Other
+        required: false
+      - id: 7
+        name: third_favorite_flavor
+        label: Third Favorite Flavor
+        hint: What is your third choice
+        type: select_one
+        options:
+          - Strawberry
+          - Blueberry
+          - Raspberry
+          - Lemon
+          - Lime
+          - Orange
+          - Mango
+          - Pineapple
+          - Peach
+          - Apple
+          - Cherry
+          - Grape
+          - Watermelon
+          - Coconut
+          - Passion Fruit
+          - Guava
+          - Pomegranate
+          - Acai
+          - Other
+        required: false
+      - id: 8
+        name: flavor_combinations
+        label: Favorite Flavor Combinations
+        hint: Which flavor combinations do you enjoy
+        type: select_multiple
+        options:
+          - Strawberry-Banana
+          - Mango-Pineapple
+          - Lemon-Lime
+          - Apple-Cherry
+          - Orange-Vanilla
+          - Berry Blend
+          - Tropical Mix
+          - Citrus Punch
+          - Peach-Mango
+          - Watermelon-Lime
+        required: false
+      - id: 9
+        name: new_flavor_interest
+        label: Interest in New Flavors
+        hint: Would you try new or unique flavors
+        type: select_one
+        options:
+          - Always Willing to Try
+          - Sometimes
+          - Rarely
+          - Prefer Classic Flavors
+          - Never
+        required: true
+      - id: 10
+        name: seasonal_flavors
+        label: Interest in Seasonal Flavors
+        hint: Would you buy seasonal limited edition flavors
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 11
+        name: flavor_intensity_preference
+        label: Flavor Intensity Preference
+        hint: How strong do you like flavors
+        type: select_one
+        options:
+          - Very Strong
+          - Moderately Strong
+          - Mild
+          - Subtle
+          - No Preference
+        required: true
+      - id: 12
+        name: natural_vs_artificial
+        label: Natural vs Artificial Preference
+        hint: Do you prefer natural or artificial flavors
+        type: select_one
+        options:
+          - Natural Only
+          - Prefer Natural
+          - No Preference
+          - Prefer Artificial
+          - Artificial Only
+        required: true
+      - id: 13
+        name: purchase_frequency
+        label: Purchase Frequency
+        hint: How often do you buy flavored beverages
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - 2-3 times a month
+          - Once a month
+          - Rarely
+        required: true
+      - id: 14
+        name: brand_preference
+        label: Does Flavor Influence Brand Choice
+        hint: Do you choose brands based on flavor options
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 15
+        name: flavor_suggestions
+        label: Flavor Suggestions
+        hint: What new flavors would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about beverage flavors
+        type: text
+        options: []
+        required: false

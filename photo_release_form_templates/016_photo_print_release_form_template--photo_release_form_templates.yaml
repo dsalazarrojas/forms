@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Print Release Form Template
+    pages:
+    - id: 1
+      name: print_release_form
+      label: print_released_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photo_release
+      label: photo_released
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Model
+      - Both
+      required: false
+    - id: 3
+      name: photo_release_date
+      label: photo_release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: photographer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photographer_email
+      label: photographer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: photographer_contact
+      label: photographer_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: photo_release_agreement
+      label: photo_release_agreement
+      hint: null
+      type: text
+      options: []
+      required: false

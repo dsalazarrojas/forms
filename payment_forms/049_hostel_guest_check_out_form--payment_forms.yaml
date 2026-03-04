@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Guest Check Out Form
+    pages:
+    - id: 1
+      name: feedback
+      label: What did you think of our hostel?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stay
+      label: Check in Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single Room''}'
+      - '{''value'': ''Double Room''}'
+      - '{''value'': ''Family Room''}'
+      required: false
+    - id: 6
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cash''}'
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''Bank Transfer''}'
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Refundable''}'
+      - '{''value'': ''Non Refundable''}'
+      required: false
+    - id: 13
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid''}'
+      - '{''value'': ''Due''}'
+      required: false
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_form_owner
+      label: Assigned Form Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_amount_remaining
+      label: Payment Amount Remaining
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_status_owner
+      label: Payment Status Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_due_date_owner
+      label: Payment Due Date Owner
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_owner_comments
+      label: Payment Owner Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_owner_name
+      label: Payment Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_owner_email
+      label: Payment Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: payment_owner_phone
+      label: Payment Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Performance Assessment Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_period
+      label: performance_period
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Q1''}'
+      - '{''label'': ''Q2''}'
+      - '{''label'': ''Q3''}'
+      - '{''label'': ''Q4''}'
+      required: false
+    - id: 5
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_ratings
+      label: performance_ratings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save for Later''}'
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Shoot Booking Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: photo_shoot_type
+      label: Photo Shoot Type
+      hint: null
+      type: select_one
+      options:
+      - outdoor
+      - indoor
+      - studio
+      required: false
+    - id: 10
+      name: photo_shoot_date
+      label: Photo Shoot Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: photo_shoot_duration
+      label: Photo Shoot Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: photo_shoot_location
+      label: Photo Shoot Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_shoot_notes
+      label: Photo Shoot Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photo_shoot_price
+      label: Photo Shoot Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - card
+      - bank transfer
+      - paypals
+      - stripe
+      required: false
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: message_to_photographer
+      label: Message to Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: message_to_client
+      label: Message to Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: photo_shoot_booking_time
+      label: Photo Shoot Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false

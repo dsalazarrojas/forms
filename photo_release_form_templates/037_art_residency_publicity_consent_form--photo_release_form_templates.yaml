@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Residency Publicity Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent form
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Full name of artist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Artist Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Artist Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: residency_program
+      label: Residency Program
+      hint: Name of residency program
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residency_dates
+      label: Residency Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artwork_title
+      label: Artwork Title
+      hint: Title of artwork if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artwork_description
+      label: Artwork Description
+      hint: Description of artwork or project
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_consent
+      label: Photo Consent
+      hint: Consent for photographs of you
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 10
+      name: photo_usage
+      label: Photo Usage
+      hint: Select allowed uses of your image
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Press Releases
+      - Exhibition Materials
+      - Promotional Brochures
+      - Annual Reports
+      - Grant Applications
+      - News Media
+      - Archive Purposes
+      required: false
+    - id: 11
+      name: artwork_photo_consent
+      label: Artwork Photo Consent
+      hint: Consent for photographs of your artwork
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 12
+      name: artwork_usage
+      label: Artwork Usage
+      hint: Select allowed uses of artwork images
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Press Releases
+      - Exhibition Materials
+      - Promotional Brochures
+      - Annual Reports
+      - Grant Applications
+      - News Media
+      - Archive Purposes
+      - Merchandise
+      required: false
+    - id: 13
+      name: video_consent
+      label: Video Consent
+      hint: Consent for video recordings
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 14
+      name: video_usage
+      label: Video Usage
+      hint: Select allowed uses of video
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Documentary
+      - Promotional Materials
+      - Educational Purposes
+      - Archive Purposes
+      required: false
+    - id: 15
+      name: interview_consent
+      label: Interview Consent
+      hint: Consent to be interviewed
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 16
+      name: interview_usage
+      label: Interview Usage
+      hint: Select allowed uses of interview content
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Press Releases
+      - Podcast
+      - Video
+      - Print Publications
+      - Archive Purposes
+      required: false
+    - id: 17
+      name: name_biography_consent
+      label: Name Biography Consent
+      hint: Consent to use name and biography
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 18
+      name: statement_consent
+      label: Statement Consent
+      hint: Consent to use artist statements
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 19
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where can materials be used
+      type: select_one
+      options:
+      - Worldwide
+      - North America Only
+      - United States Only
+      - Europe Only
+      - Other
+      required: true
+    - id: 20
+      name: time_limit
+      label: Time Limit
+      hint: How long can materials be used
+      type: select_one
+      options:
+      - Perpetual - No Time Limit
+      - 5 Years
+      - 3 Years
+      - 1 Year
+      - Duration of Residency Only
+      required: true
+    - id: 21
+      name: exclusivity
+      label: Exclusivity
+      hint: Are there exclusivity restrictions
+      type: select_one
+      options:
+      - No Restrictions
+      - Exclusive to Residency for Period
+      - Other
+      required: true
+    - id: 22
+      name: exclusivity_details
+      label: Exclusivity Details
+      hint: Describe exclusivity terms
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: credit_required
+      label: Credit Required
+      hint: Do you require credit attribution
+      type: select_one
+      options:
+      - Yes - Always Credit
+      - Preferred But Not Required
+      - No Credit Needed
+      required: true
+    - id: 24
+      name: credit_format
+      label: Credit Format
+      hint: Preferred credit format
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_required
+      label: Approval Required
+      hint: Do you require approval before use
+      type: select_one
+      options:
+      - Yes - All Materials
+      - Yes - Specific Materials
+      - No - Not Required
+      required: true
+    - id: 26
+      name: approval_details
+      label: Approval Details
+      hint: Specify which materials need approval
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: Can you withdraw consent later
+      type: select_one
+      options:
+      - Yes - With Written Notice
+      - No - Consent is Final
+      - Case by Case
+      required: true
+    - id: 28
+      name: additional_terms
+      label: Additional Terms
+      hint: Any additional terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: artist_signature
+      label: Artist Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature
+      type: text
+      options: []
+      required: false

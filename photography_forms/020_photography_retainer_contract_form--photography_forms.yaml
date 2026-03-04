@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_retainer_contract_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: retainer_type
+      label: Retainer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Hourly'', ''value'': ''hourly''}'
+      - '{''label'': ''Package'', ''value'': ''package''}'
+      - '{''label'': ''Flat Fee'', ''value'': ''flat_fee''}'
+      required: true
+    - id: 10
+      name: retainer_start_date
+      label: Retainer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: retainer_end_date
+      label: Retainer End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms_frequency
+      label: Payment Terms Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit/Debit Card'', ''value'': ''credit/debit_card''}'
+      - '{''label'': ''Invoice'', ''value'': ''invoice''}'
+      - '{''label'': ''ACH'', ''value'': ''ach''}'
+      required: true
+    - id: 18
+      name: payment_terms_frequency_description
+      label: Payment Terms Frequency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_shoots
+      label: Number of Photo Shoots
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: photo_shoot_duration
+      label: Photo Shoot Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photo_shoot_frequency
+      label: Photo Shoot Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photo_delivery
+      label: Photo Delivery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: photo_editing
+      label: Photo Editing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photo_storage
+      label: Photo Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_and_conditions
+      label: Terms And Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

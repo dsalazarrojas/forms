@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trading Card Cataloging Form
+    pages:
+    - id: 1
+      name: trading_card_cataloging_form_page_1
+      label: card_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: card_info_details
+      label: card_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rarity
+      label: rarity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rarity_other
+      label: other_rarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition
+      label: condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: condition_other
+      label: other_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: card_number
+      label: card_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: edition
+      label: edition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: edition_other
+      label: other_edition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: purchase_time
+      label: purchase_time
+      hint: null
+      type: time
+      options: []
+      required: false

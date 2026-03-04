@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shampoo Size Feedback Form
+    pages:
+    - id: 1
+      name: shampoo_size_id
+      label: What is your current shampoo bottle size?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''6 fl oz''}'
+      - '{''label'': ''8 fl oz''}'
+      - '{''label'': ''12 fl oz''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: what_do_you_use
+      label: What size do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Shampoo 6 fl oz''}'
+      - '{''label'': ''Shampoo 8 fl oz''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: size_preferences
+      label: Which size do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''6 fl oz''}'
+      - '{''label'': ''8 fl oz''}'
+      - '{''label'': ''12 fl oz''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: current_product
+      label: What is your current product?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Shampoo 6 fl oz''}'
+      - '{''label'': ''Shampoo 8 fl oz''}'
+      - '{''label'': ''Shampoo 12 fl oz''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: What are your thoughts?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stat Adjustment Survey
+    pages:
+    - id: 1
+      name: stat_adjustment_survey_page
+      label: Player Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: rating
+      label: Overall Satisfaction
+      hint: Rate between 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: adjustment_suggestion
+      label: What adjustment do you suggest?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: adjustment_reason
+      label: Why do you suggest this adjustment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stat_adjustment_comment
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stat_adjustment_important
+      label: Is this adjustment important?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: stat_adjustment_important_reason
+      label: Why is this adjustment important?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stat_adjustment_important_reason_other
+      label: Other (please describe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stat_adjustment_important_other
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: user_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: user_rating_reason
+      label: Why did you rate your overall experience this way?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stat_adjustment_user_satisfaction
+      label: How satisfied are you with our stat adjustments?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: stat_adjustment_user_satisfaction_reason
+      label: Why did you rate your satisfaction this way?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_feedback
+      label: Team Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stat_adjustment_satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: stat_adjustment_satisfaction_description
+      label: Why is this adjustment satisfying for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: stat_adjustment_improvement_idea
+      label: Stat adjustment improvement idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stat_adjustment_improvement_plan
+      label: Stat adjustment improvement plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stat_adjustment_improvement_status
+      label: Improvement status
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not implemented
+      - In progress
+      - Not planned
+      - Unknown
+      required: false
+    - id: 26
+      name: stat_adjustment_improvement_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

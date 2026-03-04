@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Set Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nail_set_name
+      label: nail_set
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nail_set_details
+      label: nail_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nail_set_price
+      label: nail_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false

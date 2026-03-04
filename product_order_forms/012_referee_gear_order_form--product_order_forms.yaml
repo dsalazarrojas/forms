@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Gear Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_terms
+      label: Order Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14, ''name'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''id'': 15, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 16, ''name'': ''paypal'', ''label'': ''PayPal''}'
+      required: true
+    - id: 11
+      name: confirm_order
+      label: Confirm Order
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 18, ''name'': ''confirm'', ''label'': ''Confirm''}'
+      - '{''id'': 19, ''name'': ''do_not_confirm'', ''label'': ''Do Not Confirm''}'
+      required: true

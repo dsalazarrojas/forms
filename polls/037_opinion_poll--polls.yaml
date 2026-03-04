@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: opinion_poll
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your opinion on our new product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: How would you rate our new product?
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: What is your favorite feature?
+      hint: null
+      type: select_one
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      required: false
+    - id: 4
+      name: rating_scale_2
+      label: How would you rate this feature?
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Do you have any comments?
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: diabetes screening form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: blood_glucose
+      label: Blood Glucose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_family_history
+      label: Medical Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Obesity
+      - Physical inactivity
+      - Family history of diabetes
+      - Other
+      required: true
+    - id: 9
+      name: screening_tests
+      label: Screening Tests
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 10
+      name: results
+      label: Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

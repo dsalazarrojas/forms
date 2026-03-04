@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anthology Book Pre Order Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Customer Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For order confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_info_header
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: book_selection
+      label: Select Anthology Volume
+      hint: null
+      type: select_one
+      options:
+      - Volume 1 - Whispers in the Wind
+      - Volume 2 - Urban Echoes
+      - Volume 3 - Future Frontiers
+      required: true
+    - id: 9
+      name: quantity
+      label: Number of Copies
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: binding_preference
+      label: Binding Type
+      hint: null
+      type: select_one
+      options:
+      - Paperback
+      - Hardcover (Limited Edition)
+      - Digital (E-Book)
+      required: true
+    - id: 11
+      name: signed_copy
+      label: Would you like a signed copy?
+      hint: Signed by the lead editor
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 13
+      name: additional_requests
+      label: Gift Message or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

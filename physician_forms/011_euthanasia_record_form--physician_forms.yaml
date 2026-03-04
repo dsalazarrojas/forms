@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Euthanasia Record Form
+    pages:
+    - id: 1
+      name: animal_species
+      label: Animal Species
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_of_death
+      label: Date Of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_euthanasia
+      label: Reason For Euthanasia
+      hint: null
+      type: select_one
+      options:
+      - owner_request
+      - euthanasia_by_owner
+      - euthanasia_by_physician
+      - other
+      required: false
+    - id: 4
+      name: animal_condition
+      label: Animal Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shelter_signature
+      label: Shelter Signature
+      hint: null
+      type: text
+      options: []
+      required: false

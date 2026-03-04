@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Diary Form
+    pages:
+    - id: 1
+      name: pet_diary_form
+      label: Pet Diary Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Dog
+      - Pet Cat
+      - Pet Other
+      required: false
+    - id: 5
+      name: pet_color
+      label: Pet Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_weight
+      label: Pet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pet_health
+      label: Pet Health
+      hint: null
+      type: select_multiple
+      options:
+      - Healthy
+      - Slightly Ill
+      - Very Ill
+      required: false
+    - id: 8
+      name: pet_medication
+      label: Pet Medication
+      hint: null
+      type: text
+      options: []
+      required: false

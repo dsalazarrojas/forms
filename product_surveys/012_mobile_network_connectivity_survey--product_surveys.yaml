@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Network Connectivity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mobile_network_coverage
+      label: How would you rate your current mobile network coverage?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''No Coverage''}'
+      required: false
+    - id: 3
+      name: mobile_network_reliability
+      label: How would you rate the reliability of your mobile network?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always On''}'
+      - '{''label'': ''Most of the time''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: true
+    - id: 4
+      name: mobile_network_satisfaction
+      label: How satisfied are you with your mobile network?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: true
+    - id: 5
+      name: location
+      label: What location is your current mobile network usage?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rural Area''}'
+      - '{''label'': ''Urban Area''}'
+      - '{''label'': ''Suburban Area''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: mobile_network_usage
+      label: On how many devices do you use this mobile network?
+      hint: Please select all that apply.
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: mobile_network_usage_devices
+      label: What are the mobile devices you use this network on?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Mobile Phone''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Laptop''}'
+      - '{''label'': ''Desktop''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: mobile_network_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mobile_network_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 5}'
+      - '{''label'': 4}'
+      - '{''label'': 3}'
+      - '{''label'': 2}'
+      - '{''label'': 1}'
+      required: true

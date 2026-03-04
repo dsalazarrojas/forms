@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Productivity Analysis Program Registration
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: worker_name
+      label: Worker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goals
+      label: Participant Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to participate
+      - I do not consent
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

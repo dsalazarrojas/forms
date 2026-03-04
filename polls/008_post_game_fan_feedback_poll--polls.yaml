@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Game Fan Feedback Poll
+    pages:
+    - id: 1
+      name: event_attended
+      label: Was the event exciting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 2
+      name: overall_satisfaction
+      label: Overall event satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: event_attended_frequency
+      label: How often do you attend our games
+      hint: null
+      type: select_multiple
+      options:
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: favorite_part
+      label: What was your favorite part of the event
+      hint: null
+      type: select_one
+      options:
+      - Pre-game Festivities
+      - Food and Beverage
+      - Music and Entertainment
+      - Game Day Activities
+      - Other (specify below)
+      required: false
+    - id: 5
+      name: other_favorite_part
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: favorite_food_item
+      label: What was your favorite food item
+      hint: null
+      type: select_one
+      options:
+      - Burger
+      - Hot Dog
+      - Popcorn
+      - Other (specify below)
+      required: false
+    - id: 7
+      name: other_favorite_food_item
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_food_satisfaction
+      label: How would you rate the quality of our food
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: staff_friendliness
+      label: How friendly was the event staff
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: overall_staff_friendliness
+      label: Overall staff friendliness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: venue_facilities
+      label: How would you rate the facilities at the venue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall_experience
+      label: Overall event experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: recommend
+      label: Would you recommend this event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,287 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Mass Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: parish_status
+        label: Parish Status
+        hint: What is your relationship to our parish
+        type: select_one
+        options:
+          - Registered parishioner
+          - Regular attendee not registered
+          - Occasional visitor
+          - First time visitor
+          - Returning Catholic
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: false
+      - id: 5
+        name: section_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: mass_attended
+        label: Which Mass Did You Attend
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Christmas Eve 4pm Family Mass
+          - Christmas Eve 6pm Youth Mass
+          - Christmas Eve 8pm Traditional Mass
+          - Christmas Eve 10pm Midnight Mass
+          - Christmas Day 7am Dawn Mass
+          - Christmas Day 9am Family Mass
+          - Christmas Day 11am Solemn Mass
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied were you with Christmas mass
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: music_quality
+        label: Music Quality
+        hint: Rate the music and choir
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: section_mass_experience
+        label: -- Mass Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: homily_rating
+        label: Homily Rating
+        hint: Rate the sermon
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: liturgy_rating
+        label: Liturgy Rating
+        hint: Rate the overall liturgy
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: atmosphere_rating
+        label: Atmosphere Rating
+        hint: Rate the church atmosphere
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: decorations_rating
+        label: Decorations Rating
+        hint: Rate the Christmas decorations
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: section_facilities
+        label: -- Facilities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: seating_comfort
+        label: Seating Comfort
+        hint: Rate seating comfort
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: temperature_comfort
+        label: Temperature Comfort
+        hint: Was the temperature comfortable
+        type: select_one
+        options:
+          - Too cold
+          - Comfortable
+          - Too warm
+          - Varied throughout
+        required: true
+      - id: 17
+        name: parking_experience
+        label: Parking Experience
+        hint: Rate parking availability
+        type: select_one
+        options:
+          - Excellent easy to find
+          - Good minimal wait
+          - Average some waiting
+          - Difficult long wait
+          - Did not drive
+        required: true
+      - id: 18
+        name: section_logistics
+        label: -- Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: usher_hospitality
+        label: Usher Hospitality
+        hint: Rate usher helpfulness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+          - Did not interact
+        required: true
+      - id: 20
+        name: bulletin_quality
+        label: Bulletin Quality
+        hint: Rate the Christmas bulletin
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+          - Did not receive
+        required: false
+      - id: 21
+        name: length_of_service
+        label: Length of Service
+        hint: Was the mass too long or short
+        type: select_one
+        options:
+          - Too short
+          - Just right
+          - Slightly long
+          - Too long
+        required: true
+      - id: 22
+        name: would_return
+        label: Will You Return
+        hint: Will you attend future masses
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 23
+        name: recommend_to_others
+        label: Recommend to Others
+        hint: Would you recommend our mass
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 24
+        name: best_part
+        label: Best Part of Mass
+        hint: What did you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: suggestions_improvement
+        label: Suggestions for Improvement
+        hint: How can we improve
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

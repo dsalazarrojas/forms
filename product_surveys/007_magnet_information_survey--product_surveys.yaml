@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magnet Information Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: magnet_name
+      label: magnet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: magnet_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''type_1''}'
+      - '{''id'': 2, ''value'': ''type_2''}'
+      required: false
+    - id: 4
+      name: usage_habits
+      label: usage_habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''option_1''}'
+      - '{''id'': 2, ''value'': ''option_2''}'
+      - '{''id'': 3, ''value'': ''option_3''}'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option_1''}'
+      - '{''id'': 2, ''value'': ''option_2''}'
+      required: false
+    - id: 6
+      name: purchase_behavior
+      label: purchase_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false

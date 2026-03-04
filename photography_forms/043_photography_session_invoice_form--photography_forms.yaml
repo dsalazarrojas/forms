@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_services
+      label: Session Services
+      hint: null
+      type: select_multiple
+      options:
+      - Session Details
+      - Client Info
+      required: false
+    - id: 4
+      name: services_list
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rates_and_fees
+      label: Rates And Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rates
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: taxes
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms_list
+      label: Payment Terms List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_term
+      label: Term
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes_list
+      label: Note List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_file
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

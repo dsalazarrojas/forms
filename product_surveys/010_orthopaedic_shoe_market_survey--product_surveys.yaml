@@ -1,0 +1,334 @@
+inputSchema:
+  type: object
+  properties:
+    title: orthopaedic_shoe_market_survey
+    pages:
+    - id: 1
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_behavior
+      label: purchase_behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_preferences
+      label: product_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_history
+      label: purchase_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_frequency
+      label: purchase_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 8
+      name: household_income
+      label: household_income
+      hint: null
+      type: select_one
+      options:
+      - Less than $30,000
+      - $30,000 to $59,999
+      - $60,000 to $79,999
+      - $80,000 to $99,999
+      - $100,000 or more
+      required: false
+    - id: 9
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School Diploma or GED
+      - Some college or 1 or 2 years
+      - Bachelor's degree
+      - Master's or higher
+      required: false
+    - id: 10
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Retired
+      - Unemployed
+      - Student
+      - Other
+      required: false
+    - id: 11
+      name: purchase_location
+      label: purchase_location
+      hint: null
+      type: select_one
+      options:
+      - In-store
+      - Online
+      required: false
+    - id: 12
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: purchase_frequency
+      label: purchase_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: purchase_behaviour_score
+      label: purchase_behaviour_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - Athletic
+      - Fashion
+      required: false
+    - id: 16
+      name: size
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: brand
+      label: brand
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: comfort
+      label: comfort
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: style
+      label: style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: purchase_score
+      label: purchase_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: recommended_features
+      label: recommended_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: recommended_score
+      label: recommended_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: purchase_decision
+      label: purchase_decision
+      hint: null
+      type: select_one
+      options:
+      - Highly Likely
+      - Somewhat Likely
+      - Somewhat Unlikely
+      - Highly Unlikely
+      required: false
+    - id: 25
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: purchase_time
+      label: purchase_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: purchase_reason
+      label: purchase_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: sex
+      label: sex
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      required: false
+    - id: 30
+      name: age_group
+      label: age_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School Diploma or GED
+      - Some college or 1 or 2 years
+      - Bachelor's degree
+      - Master's or higher
+      required: false
+    - id: 33
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Retired
+      - Unemployed
+      - Student
+      - Other
+      required: false
+    - id: 34
+      name: purchase_location
+      label: purchase_location
+      hint: null
+      type: select_one
+      options:
+      - In-store
+      - Online
+      required: false
+    - id: 35
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: purchase_history
+      label: purchase_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: purchase_frequency
+      label: purchase_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false

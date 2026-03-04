@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Care Plan Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment
+      label: Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medication_reconciliation
+      label: Medication Reconciliation
+      hint: null
+      type: select_multiple
+      options:
+      - Medication A
+      - Medication B
+      - Medication C
+      required: true
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Pharmacist Signature
+      - Other Signature
+      - Other - Signature
+      required: false

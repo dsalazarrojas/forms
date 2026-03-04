@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Photo Release Consent Form
+    pages:
+    - id: 1
+      name: photo_release_consent_form_1
+      label: photo_releasing_party
+      hint: null
+      type: select_one
+      options:
+      - Owner of the photos
+      - Acquiring party
+      required: true
+    - id: 2
+      name: photo_release_consent_form_2
+      label: photo_use
+      hint: null
+      type: select_multiple
+      options:
+      - Any purpose
+      - Commercial use
+      - Personal use
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: photo_release_consent_form_3
+      label: photo_release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photo_release_consent_form_4
+      label: photo_receiving_party
+      hint: null
+      type: select_one
+      options:
+      - Owner of the photos
+      - Acquiring party
+      required: true
+    - id: 5
+      name: photo_release_consent_form_5
+      label: photo_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: photo_release_consent_form_6
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: photo_release_consent_form_7
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: photo_release_consent_form_8
+      label: other_use
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adopter Availability Survey
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: work_schedule_header
+      label: Work Schedule and Availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Retired
+      - Stay-at-home
+      - Student
+      - Unemployed
+      required: true
+    - id: 6
+      name: work_hours
+      label: Typical Work Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weekday_availability
+      label: Weekday Availability for pet care
+      hint: null
+      type: select_multiple
+      options:
+      - Before work (6am-9am)
+      - Mid-day (12pm-1pm)
+      - After work (5pm-7pm)
+      - Evening (7pm-10pm)
+      - Not available weekdays
+      required: true
+    - id: 8
+      name: weekend_availability
+      label: Weekend Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Saturday morning
+      - Saturday afternoon
+      - Saturday evening
+      - Sunday morning
+      - Sunday afternoon
+      - Sunday evening
+      required: true
+    - id: 9
+      name: vacation_frequency
+      label: How often do you take vacations?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 1-2 weeks per year
+      - 2-4 weeks per year
+      - Monthly
+      - Several times per year
+      required: true
+    - id: 10
+      name: travel_arrangements
+      label: Who cares for pets when you travel?
+      hint: null
+      type: select_one
+      options:
+      - I have a trusted pet sitter
+      - I board my pet at a facility
+      - I take them with me
+      - I ask family or friends
+      - I do not travel
+      required: false
+    - id: 11
+      name: contact_preference_header
+      label: Contact Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred method of contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text message
+      - In-person
+      required: true
+    - id: 13
+      name: best_contact_time
+      label: Best time to contact you
+      hint: null
+      type: select_one
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-10pm)
+      - Weekends only
+      - Anytime
+      required: true
+    - id: 14
+      name: communication_frequency
+      label: Preferred communication frequency
+      hint: null
+      type: select_one
+      options:
+      - As needed only
+      - Weekly updates
+      - Monthly updates
+      - Quarterly follow-ups
+      required: false
+    - id: 15
+      name: schedule_summary
+      label: Please summarize your typical weekly schedule
+      hint: Help us understand when you have time for pet care
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hours_alone
+      label: Average hours pet would be alone per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: backup_care
+      label: Do you have backup care available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 18
+      name: flexible_schedule
+      label: Can you adjust your schedule for pet needs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very flexible
+      - Somewhat flexible
+      - Not very flexible
+      required: true
+    - id: 19
+      name: emergency_availability
+      label: Are you available for emergency pet needs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, most times
+      - Sometimes
+      - false
+      required: true

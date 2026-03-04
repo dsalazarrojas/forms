@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Performance Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: performance_indicators
+      label: Performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_performance
+      label: Employee Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_recommendations
+      label: Manager Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: evaluation_due_date
+      label: Evaluation Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 13
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: evaluation_cycle
+      label: Evaluation Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: evaluation_round
+      label: Evaluation Round
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: evaluation_cycle_date
+      label: Evaluation Cycle Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: evaluation_cycle_frequency
+      label: Evaluation Cycle Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: performance_improvement_area
+      label: Performance Improvement Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: next_evaluation_cycle_date
+      label: Next Evaluation Cycle Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_cycle_completed
+      label: Evaluation Cycle Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_assigned_to
+      label: Form Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 25
+      name: evaluation_cycle_status
+      label: Evaluation Cycle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

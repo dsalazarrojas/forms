@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camera Inventory Management Form
+    pages:
+      - id: 1
+        name: equipment_id
+        label: Equipment ID
+        hint: Unique identifier for the camera
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: model
+        label: Camera Model
+        hint: Manufacturer and model name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: serial_number
+        label: Serial Number
+        hint: Device serial number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: purchase_date
+        label: Purchase Date
+        hint: Date the equipment was purchased
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: condition
+        label: Current Condition
+        hint: State of the equipment
+        type: select_one
+        options: [New, Good, Fair, Needs Repair]
+        required: true
+      - id: 6
+        name: location_storage
+        label: Storage Location
+        hint: Where the camera is stored
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: assigned_to
+        label: Assigned To
+        hint: Person currently responsible for the equipment
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: last_service_date
+        label: Last Service Date
+        hint: Date of most recent maintenance
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: notes
+        label: Notes
+        hint: Any additional inventory remarks
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: warranty_until
+        label: Warranty Expiration Date
+        hint: Warranty end date if applicable
+        type: date
+        options: []
+        required: false

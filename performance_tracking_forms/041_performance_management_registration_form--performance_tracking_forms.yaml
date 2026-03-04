@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Management Registration Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''11-a'', ''label'': ''Manager''}'
+      - '{''id'': ''11-b'', ''label'': ''Peer''}'
+      - '{''id'': ''11-c'', ''label'': ''Self''}'
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

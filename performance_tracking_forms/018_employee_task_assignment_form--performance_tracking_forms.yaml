@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_task_assignment_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_assign_task
+      label: task_assign_task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assign_worker
+      label: Assign Worker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false

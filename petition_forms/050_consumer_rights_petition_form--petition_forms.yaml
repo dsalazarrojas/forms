@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Rights Petition Form
+    pages:
+    - id: 1
+      name: petition_title
+      label: Petition Title
+      hint: Title of the petition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: petition_category
+      label: Petition Category
+      hint: Select the category
+      type: select_one
+      options:
+      - Product Safety
+      - Fair Pricing
+      - Privacy Rights
+      - Truth in Advertising
+      - Customer Service
+      - Refund Policy
+      - Contract Terms
+      - Environmental Concerns
+      - Labor Practices
+      - Other
+      required: true
+    - id: 3
+      name: target_company
+      label: Target Company or Organization
+      hint: Name of company being petitioned
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_industry
+      label: Company Industry
+      hint: Industry sector
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: petitioner_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: petitioner_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: petitioner_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: petitioner_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: petitioner_address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: petitioner_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: petitioner_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: petitioner_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: petitioner_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue or grievance
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_date
+      label: Incident Date
+      hint: When did the issue occur
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: affected_consumers
+      label: Number of Consumers Affected
+      hint: Estimate of people affected
+      type: select_one
+      options:
+      - Just Me
+      - 2-10 People
+      - 11-50 People
+      - 51-100 People
+      - 100+ People
+      - Unknown
+      required: true
+    - id: 17
+      name: personal_impact
+      label: How Has This Affected You
+      hint: Describe the impact on you
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What change are you seeking
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: specific_demands
+      label: Specific Demands
+      hint: List your specific demands
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: previous_contact
+      label: Have You Contacted the Company
+      hint: Select if you have reached out
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, Not Yet
+      required: true
+    - id: 21
+      name: company_response
+      label: Company Response
+      hint: Describe any response received
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any documents you have
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witnesses
+      label: Witnesses or Supporting Parties
+      hint: List anyone who can support your claim
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: media_interest
+      label: Are You Willing to Speak to Media
+      hint: Select if willing to go public
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Yes, Possibly
+      - No, Prefer Privacy
+      required: false
+    - id: 25
+      name: legal_action_interest
+      label: Interest in Legal Action
+      hint: Would you consider legal action
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Yes, Possibly
+      - No, Not Interested
+      required: false
+    - id: 26
+      name: petition_share
+      label: Will You Share This Petition
+      hint: Select if you will help gather signatures
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Yes, Possibly
+      - No, Just Signing
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to add
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: I confirm this information is accurate
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 29
+      name: petition_date
+      label: Petition Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

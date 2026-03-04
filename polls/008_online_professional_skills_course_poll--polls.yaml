@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Professional Skills Course Poll
+    pages:
+    - id: 1
+      name: course_goal
+      label: What is the goal of this online course?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_type
+      label: What type of course is this?
+      hint: null
+      type: select_one
+      options:
+      - Basic Knowledge
+      - Advanced Knowledge
+      - Expert Knowledge
+      required: false
+    - id: 3
+      name: course_format
+      label: What format would you like to take this course in?
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Text
+      - Live
+      required: false
+    - id: 4
+      name: course_duration
+      label: How long does this course last?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - More than 3 hours
+      required: false
+    - id: 5
+      name: course_schedule
+      label: What time of day do you prefer for the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 6
+      name: course_language
+      label: What language would you like the course in?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Chinese
+      - Spanish
+      - French
+      - Japanese
+      required: false
+    - id: 7
+      name: course_pace
+      label: What pace would you like the course to be?
+      hint: null
+      type: select_multiple
+      options:
+      - Fast
+      - Medium
+      - Slow
+      required: false
+    - id: 8
+      name: course_location
+      label: Where would you like to take the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Online
+      - Mobile
+      required: false
+    - id: 9
+      name: course_venue
+      label: Where would you like to take the course in?
+      hint: null
+      type: select_multiple
+      options:
+      - Classroom
+      - Home
+      - Virtual
+      required: false
+    - id: 10
+      name: course_instructor
+      label: Who would you like to be your instructor?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: course_materials
+      label: What materials do you need for the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Printed
+      - Digital
+      - None
+      required: false
+    - id: 12
+      name: course_fees
+      label: How much would you like to pay for the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Free
+      - Paid
+      - Donation
+      required: false
+    - id: 13
+      name: course_frequency
+      label: How often would you like to take the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Repeatedly
+      - On Demand
+      required: false
+    - id: 14
+      name: course_format_preference
+      label: What format do you prefer for the course materials?
+      hint: null
+      type: select_multiple
+      options:
+      - PDF
+      - Video
+      - Audio
+      required: false
+    - id: 15
+      name: course_language_preference
+      label: What language do you prefer for the course materials?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      required: false
+    - id: 16
+      name: course_duration_preference
+      label: What duration do you prefer for the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 17
+      name: course_venue_preference
+      label: Where do you prefer to take the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Classroom
+      - Online
+      - Home
+      required: false
+    - id: 18
+      name: course_instructor_preference
+      label: What type of instructor do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 19
+      name: course_materials_preference
+      label: What materials do you prefer for the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Printed
+      - Digital
+      - None
+      required: false
+    - id: 20
+      name: course_fees_preference
+      label: How much do you prefer to pay for the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Free
+      - Paid
+      - Donation
+      required: false
+    - id: 21
+      name: course_frequency_preference
+      label: How often do you prefer to take the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Repeatedly
+      - On Demand
+      required: false
+    - id: 22
+      name: contact_info
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_info2
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_info3
+      label: What is your website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_info4
+      label: What is your address?
+      hint: null
+      type: text
+      options: []
+      required: false

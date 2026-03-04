@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Evaluation Form
+    pages:
+    - id: 1
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lifestyle
+      label: Lifestyle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_lifestyle
+      label: Patient Lifestyle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_service
+      label: Health Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: needs
+      label: Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_needs
+      label: Patient Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_obstacles
+      label: Patient Obstacles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: physician_goals
+      label: Physician Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physician_obstacles
+      label: Physician Obstacles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: physician_recommendations
+      label: Physician Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: communication_plan
+      label: Communication Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medication_list_items
+      label: Medication List Items
+      hint: null
+      type: text
+      options: []
+      required: false

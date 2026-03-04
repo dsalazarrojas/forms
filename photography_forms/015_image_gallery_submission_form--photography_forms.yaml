@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Gallery Submission Form
+    pages:
+    - id: 1
+      name: image_gallery_submission_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Describe your image
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: back_to_form
+      label: Back to Form
+      hint: null
+      type: text
+      options: []
+      required: false

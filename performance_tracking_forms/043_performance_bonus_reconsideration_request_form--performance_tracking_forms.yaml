@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Bonus Reconsideration Request Form
+    pages:
+    - id: 1
+      name: performance_bonus_request
+      label: Performance Bonus Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: reconsideration_case_status
+      label: Reconsideration Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: performance_bonuses_included
+      label: Performance Bonuses Included
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reason_for_reconsideration
+      label: Reason For Reconsideration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_reconsideration
+      label: Date of Reconsideration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true

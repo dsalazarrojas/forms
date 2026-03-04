@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Accessories Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_company
+      label: Company Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_order_items
+      label: -- Order Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sleeping_bag_quantity
+      label: Sleeping Bag (Winter) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tent_quantity
+      label: Tent 4-Person - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: backpack_quantity
+      label: Camping Backpack - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: lantern_quantity
+      label: LED Camping Lantern - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cooler_quantity
+      label: Insulated Cooler - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: camping_stove_quantity
+      label: Portable Camping Stove - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: water_filter_quantity
+      label: Water Filter Bottle - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: grill_quantity
+      label: Portable Camping Grill - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_additional
+      label: -- Additional Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Custom Orders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard - 5-7 business days
+      - Express - 2-3 business days
+      - Overnight - 1 business day
+      required: true
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 25
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

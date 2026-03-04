@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Pre Screening Form
+    pages:
+    - id: 1
+      name: screening_patient_header
+      label: -- Patient Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: screening_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: screening_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: screening_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: screening_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: screening_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: screening_date
+      label: Screening Date
+      hint: Date of this screening
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: screening_healthcare_provider
+      label: Screening Provider Name
+      hint: Healthcare provider conducting screening
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergy_screening_header
+      label: -- Allergy Screening --
+      hint: Important allergy questions
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_component_allergy
+      Label: Severe Allergy to Vaccine Components
+      hint: Polysorbate, eggs, or other components
+      type: select_one
+      options:
+        - No known allergies
+        - Yes, have allergies
+        - Unsure
+      required: true
+    - id: 11
+      name: allergy_details
+      label: If Yes, Please Describe the Allergy
+      hint: Details about vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_vaccine_reaction
+      Label: Previous Severe Allergic Reaction to Any Vaccine
+      hint: Anaphylaxis or severe reaction
+      type: select_one
+      options:
+        - No previous reactions
+        - Yes, had severe reaction
+        - Unsure
+      required: true
+    - id: 13
+      name: previous_reaction_details
+      label: If Yes, Please Describe the Previous Reaction
+      hint: Details of vaccine reaction
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_screening_header
+      label: -- Medical Screening --
+      hint: Health conditions affecting vaccination
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_illness
+      Label: Currently Ill with Acute Illness
+      hint: Fever, cough, or acute infection
+      type: select_one
+      options:
+        - No acute illness
+        - Yes, currently ill
+        - Unsure
+      required: true
+    - id: 16
+      name: illness_description
+      label: If Currently Ill, Describe Symptoms
+      hint: Description of current symptoms
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: immune_condition
+      Label: Immunocompromised or Taking Immunosuppressive Therapy
+      hint: Weakened immune system or immunosuppressants
+      type: select_one
+      options:
+        - No
+        - Yes, immunocompromised
+        - Yes, on immunosuppressants
+        - Unsure
+      required: true
+    - id: 18
+      name: bleeding_disorder
+      Label: Bleeding Disorder or Anticoagulation Therapy
+      hint: Blood clotting issues or blood thinners
+      type: select_one
+      options:
+        - No bleeding disorder
+        - Yes, have bleeding disorder
+        - Yes, on blood thinners
+      required: true
+    - id: 19
+      name: vaccination_timing_header
+      label: -- Vaccination Timing --
+      hint: Other vaccine or medication timing
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recent_covid_vaccine
+      Label: Received Another COVID-19 Vaccine in Last 14 Days
+      hint: Recent COVID-19 vaccination
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 21
+      name: recent_other_vaccine
+      Label: Received Another Vaccine in Last 14 Days
+      hint: Other vaccines like flu, pneumococcal, etc.
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 22
+      name: other_vaccine_details
+      label: If Yes, What Vaccine Was Received
+      hint: Type of other vaccine
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: screening_recommendation_header
+      label: -- Screening Recommendation --
+      hint: Based on screening results
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: screening_clearance
+      Label: Screening Result
+      hint: Patient status after screening
+      type: select_one
+      options:
+        - Cleared for vaccination
+        - Refer for further evaluation
+        - Do not vaccinate at this time
+        - Needs physician consultation
+      required: true
+    - id: 25
+      name: screening_notes
+      label: Provider Notes and Recommendations
+      hint: Any additional notes or recommendations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiology Requisition Form
+    pages:
+    - id: 1
+      name: order_x_ray
+      label: Order x ray
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Chest x ray''}'
+      - '{''id'': 2, ''label'': ''Abdomen x ray''}'
+      required: false
+    - id: 2
+      name: mri_order
+      label: Order mri
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Knee''}'
+      - '{''id'': 2, ''label'': ''Shoulder''}'
+      - '{''id'': 3, ''label'': ''Spine''}'
+      required: true
+    - id: 3
+      name: patient_info
+      label: Patient info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: physician_note
+      label: Physician note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_dob
+      label: Patient dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: patient_address
+      label: Patient address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: radiologist_info
+      label: Radiologist info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dr Smith''}'
+      - '{''id'': 2, ''label'': ''Dr Jones''}'
+      - '{''id'': 3, ''label'': ''Dr Doe''}'
+      required: true

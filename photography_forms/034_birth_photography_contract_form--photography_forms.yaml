@@ -1,0 +1,307 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Photography Contract Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Photography Contract --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contract_intro
+      label: Please review and complete this contract
+      hint: Agreement between photographer and client
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_photographer
+      label: -- Photographer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: photographer_business
+      label: Business Name
+      hint: Photography business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: photographer_email
+      label: Photographer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: photographer_phone
+      label: Photographer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Full Name
+      hint: Parent or guardian name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_address
+      label: Client Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: service_date
+      label: Expected Birth/Service Date
+      hint: Estimated due date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: birth_location
+      label: Birth Location
+      hint: Hospital, birth center, or home
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: service_duration
+      label: Photographer Service Duration
+      hint: Hours or specific time frame
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pre_birth_sessions
+      label: Included Pre-Birth Sessions
+      hint: How many prenatal shoots
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: post_birth_sessions
+      label: Included Post-Birth Sessions
+      hint: How many postpartum shoots
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_deliverables
+      label: -- Deliverables --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: photo_count_estimate
+      label: Estimated Number of Final Photos
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: edited_timeline
+      label: Timeline for Edited Photos Delivery
+      hint: When will photos be ready
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: delivery_format
+      label: Photo Delivery Format
+      hint: Digital files, prints, album, etc.
+      type: select_multiple
+      options:
+      - Digital Files
+      - USB Drive
+      - Photo Album
+      - Prints
+      - Online Gallery
+      - Backup Drive
+      required: true
+    - id: 23
+      name: retouching_included
+      label: Level of Retouching Included
+      hint: Basic or extensive editing
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_fees
+      label: -- Fees and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: session_fee
+      label: Session Fee
+      hint: Cost for photography service
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: additional_charges
+      label: Additional Charges
+      hint: Travel, prints, albums, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: total_fee
+      label: Total Contract Fee
+      hint: Sum of all fees
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: deposit_required
+      label: Deposit Required
+      hint: Amount due to secure date
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: deposit_deadline
+      label: Deposit Due Date
+      hint: When deposit is due
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: balance_due_date
+      label: Balance Due Date
+      hint: When final payment is due
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: payment_methods
+      label: Accepted Payment Methods
+      hint: Check, credit card, transfer, etc.
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Terms if birth happens early
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: section_rights
+      label: -- Photo Rights and Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: client_rights
+      label: Client Rights to Photos
+      hint: Personal use, sharing rights
+      type: select_one
+      options:
+      - Full Ownership and Rights
+      - Personal Use Only
+      - Limited Sharing Rights
+      - Other
+      required: true
+    - id: 35
+      name: photographer_rights
+      label: Photographer Rights to Use Photos
+      hint: Portfolio, social media, etc.
+      type: select_one
+      options:
+      - No Use Without Permission
+      - Limited Portfolio Use
+      - Social Media and Marketing Use
+      - Full Use With Watermark
+      required: true
+    - id: 36
+      name: privacy_protection
+      label: Privacy and Confidentiality Agreement
+      hint: Photos kept confidential if requested
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      - With Conditions
+      required: true
+    - id: 37
+      name: section_terms
+      label: -- Additional Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: backup_photographer
+      label: Backup Photographer Provided
+      hint: In case of emergency
+      type: select_one
+      options:
+      - true
+      - false
+      - Upon Request
+      required: true
+    - id: 39
+      name: contract_agreement
+      label: I agree to the terms of this contract
+      hint: Both parties must acknowledge
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 40
+      name: contract_date
+      label: Contract Date
+      hint: Date contract is signed
+      type: date
+      options: []
+      required: true

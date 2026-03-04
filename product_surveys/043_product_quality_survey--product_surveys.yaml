@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Quality Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: product_quality_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: The name of the product
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product A''}'
+      - '{''id'': 2, ''label'': ''Product B''}'
+      - '{''id'': 3, ''label'': ''Product C''}'
+      required: false
+    - id: 3
+      name: quality_characteristics
+      label: quality_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Price''}'
+      - '{''id'': 2, ''label'': ''Performance''}'
+      - '{''id'': 3, ''label'': ''Features''}'
+      - '{''id'': 4, ''label'': ''Aesthetics''}'
+      required: false
+    - id: 4
+      name: experience
+      label: experience
+      hint: How would you rate your overall experience
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

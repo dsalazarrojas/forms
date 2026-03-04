@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Visit Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_info
+      label: Follow Up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_visit_form_signature
+      label: Doctor Visit Form Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: doctor_visit_form_version
+      label: Doctor Visit Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_visit_form_revision
+      label: Doctor Visit Form Revision
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: doctor_visit_form_last_updated
+      label: Doctor Visit Form Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: doctor_visit_form_last_updated_by
+      label: Doctor Visit Form Last Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: doctor_visit_form_last_updated_at
+      label: Doctor Visit Form Last Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: doctor_visit_form_last_updated_by_name
+      label: Doctor Visit Form Last Updated By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_visit_form_last_updated_by_email
+      label: Doctor Visit Form Last Updated By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: doctor_visit_form_last_updated_at_time
+      label: Doctor Visit Form Last Updated At Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: doctor_visit_form_last_updated_by_phone
+      label: Doctor Visit Form Last Updated By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_visit_form_last_updated_by_department
+      label: Doctor Visit Form Last Updated By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_visit_form_last_updated_by_tool
+      label: Doctor Visit Form Last Updated By Tool
+      hint: null
+      type: text
+      options: []
+      required: false

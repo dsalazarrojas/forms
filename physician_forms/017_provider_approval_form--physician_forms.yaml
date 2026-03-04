@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Provider Approval Form
+    pages:
+    - id: 1
+      name: provider_details
+      label: Provider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_license
+      label: Practice License
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: provider_status
+      label: Provider Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 9
+      name: practice_type
+      label: Practice Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Hospital''}'
+      - '{''label'': ''Clinic''}'
+      required: false
+    - id: 10
+      name: assigned_provider
+      label: Assigned Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jim''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Bob''}'
+      required: false
+    - id: 11
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''In progress''}'
+      required: false
+    - id: 12
+      name: onboard_date
+      label: Onboard Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: onboard_time
+      label: Onboard Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: onboard_comment
+      label: Onboard Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: onboarded
+      label: Onboarded
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: onboarded_date
+      label: Onboarded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: onboarded_time
+      label: Onboarded Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: onboarded_by
+      label: Onboarded By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jim''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Bob''}'
+      required: false
+    - id: 20
+      name: onboarded_comment
+      label: Onboarded Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: onboarded_date_time
+      label: Onboarded Date Time
+      hint: null
+      type: date
+      options: []
+      required: false

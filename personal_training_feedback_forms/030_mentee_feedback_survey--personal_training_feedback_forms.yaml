@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: mentee_feedback_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: mentor_name
+      label: Mentor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_about_mentor
+      label: Feedback About Mentor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_about_program
+      label: Feedback About Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_about_form
+      label: Feedback About Form
+      hint: null
+      type: text
+      options: []
+      required: false

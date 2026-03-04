@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_sample_form
+    pages:
+    - id: 1
+      name: choose_nail_sample
+      label: Choose your nail sample
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: nail_description
+      label: Sample Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: order_quantity
+      label: Quantity of order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assign to
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Email
+      - Phone
+      required: false
+    - id: 8
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false

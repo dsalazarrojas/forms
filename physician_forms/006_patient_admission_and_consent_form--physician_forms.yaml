@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Admission And Consent Form
+    pages:
+    - id: 1
+      name: admission_and_consent_form
+      label: Admission and Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: select_multiple
+      options:
+      - Mr. John Doe
+      - Mrs. Jane Doe
+      - Mr. John Smith
+      required: false
+    - id: 3
+      name: admission_date
+      label: Admission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Smith
+      - Other
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Session Booking Contract Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: photographer
+      label: Photographer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photographer_signature
+      label: Photographer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contract_conditions
+      label: Contract Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: photo_delivery_date
+      label: Photo Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: photo_session_duration
+      label: Photo Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: photo_session_details
+      label: Photo Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_session_location
+      label: Photo Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo_session_time
+      label: Photo Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: photo_session_date
+      label: Photo Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: photo_session_type
+      label: Photo Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: photo_session_price
+      label: Photo Session Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: photo_session_discount
+      label: Photo Session Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: photo_session_terms
+      label: Photo Session Terms
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Petition Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your institutional student ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Your university email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: academic_info_section
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: class_year
+      label: Class Year
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Other
+      required: true
+    - id: 7
+      name: major_program
+      label: Major or Program
+      hint: Your academic program
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: petition_info_section
+      label: -- Petition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: petition_type
+      label: Type of Petition
+      hint: What are you petitioning for?
+      type: select_one
+      options:
+      - Grade Appeal
+      - Course Substitution
+      - Prerequisite Waiver
+      - Academic Exception
+      - Policy Exception
+      - Double Major Request
+      - Minor Addition
+      - Schedule Exception
+      - Graduation Exception
+      - Other
+      required: true
+    - id: 10
+      name: relevant_course
+      label: Relevant Course (if applicable)
+      hint: Course number and name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_involved
+      label: Instructor Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: petition_details_section
+      label: -- Petition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: detailed_explanation
+      label: Detailed Explanation of Request
+      hint: Provide a clear description of what you are requesting
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: justification
+      label: Justification or Reason
+      hint: Why should this petition be approved?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: precedent_inquiry
+      label: Have You Discussed This With Your Advisor?
+      hint: null
+      type: select_one
+      options:
+      - Yes, and they support it
+      - Yes, and they have concerns
+      - Yes, neutral response
+      - No, not yet
+      - No, advisor unavailable
+      required: true
+    - id: 16
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Select what you are providing
+      type: select_multiple
+      options:
+      - Transcript
+      - Course syllabus
+      - Grade documentation
+      - Advisor recommendation
+      - Medical documentation
+      - Letter of support
+      - Course descriptions
+      - Other
+      required: false
+    - id: 17
+      name: circumstances_section
+      label: -- Special Circumstances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_circumstances
+      label: Are There Special Circumstances?
+      hint: Hardship, health issues, extenuating factors
+      type: select_one
+      options:
+      - Yes, there are special circumstances
+      - No special circumstances
+      - Prefer not to disclose
+      required: false
+    - id: 19
+      name: circumstances_detail
+      label: Describe Special Circumstances
+      hint: Provide context about your situation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: academic_standing_section
+      label: -- Academic Standing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_gpa
+      label: Current GPA
+      hint: Your cumulative GPA
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: academic_standing
+      label: Current Academic Standing
+      hint: null
+      type: select_one
+      options:
+      - Good Standing
+      - Academic Probation
+      - On Appeal
+      - Other
+      required: true
+    - id: 23
+      name: previous_petitions
+      label: Previous Petitions Filed
+      hint: Have you submitted petitions before?
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, denied
+      - Yes, one approved and one denied
+      - No, first petition
+      required: false
+    - id: 24
+      name: urgency_section
+      label: -- Urgency and Deadline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: needed_by_date
+      label: Date Petition Decision is Needed By
+      hint: null
+      type: date
+      options: []
+      required: false

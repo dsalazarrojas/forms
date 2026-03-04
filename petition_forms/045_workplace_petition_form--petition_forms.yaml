@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Petition Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: concerns
+      label: Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: management_response
+      label: Management Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: labor_unions
+      label: Labor Unions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_advocacy_groups
+      label: Employee Advocacy Groups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employee_assistance_programs
+      label: Employee Assistance Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

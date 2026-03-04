@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_employee_remote_work_policy_poll
+    pages:
+    - id: 1
+      name: remote_work_preferences
+      label: remote-work-preferences
+      hint: null
+      type: select_one
+      options:
+      - remote-full-time
+      - remote-part-time
+      - hybrid
+      required: false
+    - id: 2
+      name: work_from_home_frequency
+      label: work-from-home-frequency
+      hint: null
+      type: select_multiple
+      options:
+      - frequently
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 3
+      name: preferred_work_location
+      label: preferred-work-location
+      hint: null
+      type: select_one
+      options:
+      - office
+      - home
+      - client-site
+      - coffee-shop
+      - park
+      required: false
+    - id: 4
+      name: policy_satisfaction
+      label: policy-satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: preferred_commute_time
+      label: preferred-commute-time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_location_convenience
+      label: work-location-convenience
+      hint: null
+      type: select_one
+      options:
+      - convenient
+      - inconvenient
+      required: false
+    - id: 7
+      name: remote_work_satisfaction
+      label: remote-work-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - satisfied
+      - somewhat-satisfied
+      - neither-satisfied-nor-unsatisfied
+      - dissatisfied
+      - very-dissatisfied
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_commute_method
+      label: preferred-commute-method
+      hint: null
+      type: select_multiple
+      options:
+      - driving
+      - public-transportation
+      - walk-bike
+      - ride-share
+      - other
+      - none
+      required: false
+    - id: 12
+      name: work_hours
+      label: work-hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: work_days
+      label: work-days
+      hint: null
+      type: select_multiple
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      required: false
+    - id: 14
+      name: work_duration
+      label: work-duration
+      hint: null
+      type: select_multiple
+      options:
+      - short
+      - medium
+      - long
+      required: false
+    - id: 15
+      name: preferred_commute_time_in_minutes
+      label: preferred-commute-time-in-minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: preferred_commute_distance
+      label: preferred-commute-distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: policy_effectiveness
+      label: policy-effectiveness
+      hint: null
+      type: select_one
+      options:
+      - effective
+      - ineffective
+      - neither-effective-nor-ineffective
+      - effective-but-room-for-improvement
+      required: false
+    - id: 18
+      name: policy_relevance
+      label: policy-relevance
+      hint: null
+      type: select_one
+      options:
+      - relevant
+      - irrelevant
+      - neither-relevant-nor-irrelevant
+      required: false
+    - id: 19
+      name: policy_fairness
+      label: policy-fairness
+      hint: null
+      type: select_one
+      options:
+      - fair
+      - unfair
+      - neither-fair-nor-unfair
+      required: false
+    - id: 20
+      name: policy_transparency
+      label: policy-transparency
+      hint: null
+      type: select_one
+      options:
+      - transparent
+      - opaque
+      - neither-transparent-nor-opaque
+      required: false
+    - id: 21
+      name: policy_clarity
+      label: policy-clarity
+      hint: null
+      type: select_one
+      options:
+      - clear
+      - unclear
+      - neither-clear-nor-unclear
+      required: false
+    - id: 22
+      name: policy_comprehensiveness
+      label: policy-comprehensiveness
+      hint: null
+      type: select_one
+      options:
+      - comprehensive
+      - not-comprehensive
+      required: false
+    - id: 23
+      name: policy_impact
+      label: policy-impact
+      hint: null
+      type: select_one
+      options:
+      - impacted
+      - not-impacted
+      required: false
+    - id: 24
+      name: policy_adoption
+      label: policy-adoption
+      hint: null
+      type: select_one
+      options:
+      - adopted
+      - not-adopted
+      required: false

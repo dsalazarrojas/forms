@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patch Test Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_name
+      label: Test Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_session_booking_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 7
+      name: contact_agreement
+      label: Contact Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: deposit
+      label: Deposit
+      hint: null
+      type: number
+      options: []
+      required: false

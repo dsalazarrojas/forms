@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Ventilation Grille Order Form
+    pages:
+    - id: 1
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grille_specifications
+      label: Grille Specifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2, ''name'': ''grille_size'', ''label'': ''Grille Size'', ''type'':
+        ''select_one'', ''options'': [{''id'': 1, ''label'': ''small''}, {''id'':
+        2, ''label'': ''large''}, {''id'': 3, ''label'': ''extra_large''}]}'
+      - '{''id'': 3, ''name'': ''grille_pattern'', ''label'': ''Grille Pattern'',
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''label'': ''grid''},
+        {''id'': 2, ''label'': ''mesh''}, {''id'': 3, ''label'': ''weave''}]}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''credit_card''}'
+      - '{''id'': 2, ''label'': ''bank_transfer''}'
+      - '{''id'': 3, ''label'': ''cash''}'
+      required: false
+    - id: 10
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false

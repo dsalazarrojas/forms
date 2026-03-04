@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Pine Straw Sale Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Unit Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: straw_type
+      label: Straw Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: ship_address_1
+      label: Ship To Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ship_city
+      label: Ship To City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ship_state
+      label: Ship To State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ship_zip
+      label: Ship To Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ship_country
+      label: Ship To Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bsa_number
+      label: BSA Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: straw_price
+      label: Straw Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: ship_method
+      label: Ship Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: ship_comments
+      label: Ship Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: ship_town
+      label: Ship To Town
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: unit_leader
+      label: Unit Leader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: bsa_number_2
+      label: BSA Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: bsa_number_2_type
+      label: BSA Number Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: bsa_1
+      label: BSA 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: bsa_2
+      label: BSA 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_photo_release_form
+    pages:
+    - id: 1
+      name: patient_photo_release_form
+      label: Patient Photo Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photo_release_consent
+      label: Photo Release Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consent_signed_by
+      label: Consent Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_signed_date
+      label: Consent Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: photo_release_signature
+      label: Photo Release Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Flavor Concentrate Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For order updates if needed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business or organization name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: flavor_category
+      label: Flavor Category
+      hint: What type of flavor concentrate do you need
+      type: select_one
+      options:
+      - Fruit Flavors
+      - Citrus Flavors
+      - Berry Flavors
+      - Tropical Flavors
+      - Spice Flavors
+      - Beverage Base Flavors
+      - Custom Blend
+      - Variety Pack
+      required: true
+    - id: 10
+      name: specific_flavors
+      label: Specific Flavors
+      hint: Which specific flavors do you want
+      type: select_multiple
+      options:
+      - Strawberry
+      - Blueberry
+      - Raspberry
+      - Lemon
+      - Lime
+      - Orange
+      - Mango
+      - Pineapple
+      - Peach
+      - Apple
+      - Cherry
+      - Grape
+      - Watermelon
+      - Coconut
+      - Vanilla
+      - Caramel
+      - Chocolate
+      - Coffee
+      - Mint
+      - Cinnamon
+      required: true
+    - id: 11
+      name: concentrate_type
+      label: Concentrate Type
+      hint: What form of concentrate do you need
+      type: select_one
+      options:
+      - Liquid Concentrate
+      - Powder Concentrate
+      - Emulsion
+      - Natural Extract
+      - Artificial Flavor
+      - Natural and Artificial Blend
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: How much concentrate do you need
+      type: select_one
+      options:
+      - 1 Liter
+      - 5 Liters
+      - 10 Liters
+      - 25 Liters
+      - 50 Liters
+      - 100 Liters
+      - Custom Quantity
+      required: true
+    - id: 13
+      name: intended_use
+      label: Intended Use
+      hint: What will you use this concentrate for
+      type: select_one
+      options:
+      - Carbonated Beverages
+      - Still Beverages
+      - Energy Drinks
+      - Sports Drinks
+      - Juice Blends
+      - Alcoholic Beverages
+      - Dairy Products
+      - Desserts
+      - Other
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any specific dietary requirements
+      type: select_multiple
+      options:
+      - None
+      - Organic
+      - Non-GMO
+      - Kosher
+      - Halal
+      - Vegan
+      - Gluten-Free
+      - Sugar-Free
+      - All-Natural
+      required: true
+    - id: 15
+      name: shipping_method
+      label: Shipping Method
+      hint: How would you like your order shipped
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Freight Shipping
+      - Will Call Pickup
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Wire Transfer
+      - PayPal
+      - Invoice Account
+      required: true
+    - id: 17
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sample_request
+      label: Would You Like Samples
+      hint: Would you like to receive samples before ordering
+      type: select_one
+      options:
+      - Yes, Send Samples
+      - No, Proceed with Order
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements for your order
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your order
+      type: text
+      options: []
+      required: false

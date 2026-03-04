@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Visitation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_to_patient
+      label: Relationship To Patient
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Child''}'
+      - '{''id'': 2, ''label'': ''Spouse''}'
+      - '{''id'': 3, ''label'': ''Parent''}'
+      - '{''id'': 4, ''label'': ''Sibling''}'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: Reason For Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visitor_signature
+      label: Visitor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: visitor_dob
+      label: Visitor DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: visitor_phone
+      label: Visitor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: visitor_relationship
+      label: Visitor Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Child''}'
+      - '{''id'': 2, ''label'': ''Spouse''}'
+      - '{''id'': 3, ''label'': ''Parent''}'
+      - '{''id'': 4, ''label'': ''Sibling''}'
+      required: false
+    - id: 14
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: staff_dob
+      label: Staff DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: visit_limit
+      label: Visit Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: visit_frequency
+      label: Visit Frequency
+      hint: Enter visit frequency in hours
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: visit_end_time
+      label: Visit End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: visit_start_time
+      label: Visit Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: medical_condition_1
+      label: Medical Condition 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_condition_2
+      label: Medical Condition 2
+      hint: null
+      type: text
+      options: []
+      required: false

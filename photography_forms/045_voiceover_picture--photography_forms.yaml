@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voiceover Picture
+    pages:
+    - id: 1
+      name: video_files
+      label: video_files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: video_duration
+      label: video_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: video_title
+      label: video_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: video_over
+      label: video_over
+      hint: null
+      type: select_one
+      options:
+      - narration
+      - voiceover
+      - dubbing
+      required: true
+    - id: 5
+      name: video_over_type
+      label: video_over_type
+      hint: null
+      type: select_one
+      options:
+      - voiceover
+      - narration
+      - dubbing
+      - none
+      required: true
+    - id: 6
+      name: audio_file
+      label: audio_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: audio_duration
+      label: audio_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: audio_title
+      label: audio_title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Document Upload Form
+    pages:
+    - id: 1
+      name: property_document_upload_form
+      label: Upload Property Documents
+      hint: null
+      type: select_one
+      options:
+      - Building plans
+      - Floor plans
+      - Photos
+      - Videos
+      - Other
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Commercial
+      - Land
+      - Other
+      required: false
+    - id: 3
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      required: false
+    - id: 4
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_date
+      label: Uploaded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

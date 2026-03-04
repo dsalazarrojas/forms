@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Photo Upload Form
+    pages:
+    - id: 1
+      name: photo_upload_form
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_title
+      label: Photo Title
+      hint: Enter a title for your photo
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: upload_status
+      label: Upload Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Done
+      - Cancelled
+      required: false
+    - id: 7
+      name: upload_status_hint
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photo_tags
+      label: Photo Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 9
+      name: photo_tags_hint
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: upload_user
+      label: Upload User
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Intake Consent Form
+    pages:
+    - id: 1
+      name: intake_patient_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intake_patient_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: intake_date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: intake_patient_id
+      label: Patient ID or Medical Record Number
+      hint: Your clinic patient ID if available
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: intake_patient_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: intake_patient_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: intake_patient_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: intake_emergency_contact
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: intake_emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_intake_header
+      label: -- Medical History --
+      hint: Important health information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: intake_allergies
+      label: Known Allergies
+      hint: Allergies to medications or vaccine components
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: intake_current_medications
+      label: Current Medications
+      hint: List all medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: intake_chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: intake_immunocompromised
+      label: Are You Immunocompromised
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 15
+      name: intake_pregnancy
+      label: Pregnant or Breastfeeding
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+        - Pregnant
+        - Breastfeeding
+        - Neither
+        - Prefer Not to Say
+      required: false
+    - id: 16
+      name: intake_covid_history_header
+      label: -- COVID-19 History --
+      hint: Your previous COVID-19 status
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: intake_previous_covid
+      label: Have You Had COVID-19
+      hint: Previous COVID-19 infection
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 18
+      name: intake_covid_date
+      label: Date of COVID-19 Infection
+      hint: When you had COVID-19
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: intake_previous_vaccines
+      label: Number of COVID-19 Vaccine Doses Received
+      hint: How many doses already received
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: intake_vaccine_type
+      label: Previous Vaccine Types
+      hint: Types of COVID-19 vaccines received
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: intake_adverse_reactions
+      Label: Previous Adverse Vaccine Reactions
+      hint: Any previous vaccine side effects
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: intake_vaccination_header
+      label: -- Vaccination Today --
+      hint: Information about today's vaccination
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: intake_vaccine_dose_type
+      label: Dose Type for Today
+      hint: First dose, second dose, or booster
+      type: select_one
+      options:
+        - First Dose
+        - Second Dose
+        - Booster Dose
+        - Additional Dose
+      required: true
+    - id: 24
+      name: intake_vaccine_product
+      label: Vaccine Product for Today
+      hint: Which vaccine will you receive
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - Novavax
+        - To Be Determined
+      required: true
+    - id: 25
+      name: intake_consent_header
+      label: -- Patient Consent --
+      hint: Please confirm your consent
+      type: note
+      options: []
+      required: false

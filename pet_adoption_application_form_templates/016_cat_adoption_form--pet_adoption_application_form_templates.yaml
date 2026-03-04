@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Adoption Form
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: physical_address
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_home_details
+      label: -- Home Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: residence_type
+      label: Type of Residence
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Mobile Home
+      required: true
+    - id: 8
+      name: home_ownership
+      label: Do you own or rent
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      required: true
+    - id: 9
+      name: children_in_household
+      label: Are there children in the household
+      hint: If yes, please list ages
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_pets
+      label: Do you currently have other pets
+      hint: List species and whether they are spayed/neutered
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_cat_interest
+      label: -- Cat Interests and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: specific_cat_interest
+      label: Name of cat or breed you are interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: why_this_animal
+      label: Why are you interested in adopting at this time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: work_hours
+      label: How many hours will the cat be alone each day
+      hint: null
+      type: select_one
+      options:
+      - 0-4 hours
+      - 4-8 hours
+      - 8-10 hours
+      - More than 10 hours
+      required: true
+    - id: 15
+      name: cat_indoor_outdoor
+      label: Will the cat be kept indoors or outdoors
+      hint: null
+      type: select_one
+      options:
+      - Indoors only
+      - Indoors and Outdoors
+      - Outdoors only
+      required: true
+    - id: 16
+      name: veterinary_name
+      label: Name and Phone of your current Veterinarian
+      hint: If you don't have one, list the one you plan to use
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: adoption_fee_ack
+      label: I understand that there is an adoption fee
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 18
+      name: agreement_follow_up
+      label: I agree to a follow-up visit or call after adoption
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

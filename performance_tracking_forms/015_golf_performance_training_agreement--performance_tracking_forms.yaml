@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: golf_performance_training_agreement
+    pages:
+    - id: 1
+      name: program_details
+      label: program_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: false
+    - id: 3
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: training_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_time
+      label: training_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: program_duration
+      label: program_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_players
+      label: total_players
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_coaches
+      label: total_coaches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_hours
+      label: training_hours
+      hint: null
+      type: number
+      options: []
+      required: false

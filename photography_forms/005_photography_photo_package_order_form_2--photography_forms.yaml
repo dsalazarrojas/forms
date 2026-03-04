@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Photo Package Order Form 2
+    pages:
+    - id: 1
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_details
+      label: Event details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_guests
+      label: Event guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_package
+      label: Photo package
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: photo_sessions
+      label: Photo sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: photo_editing
+      label: Photo editing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: photo_deliveries
+      label: Photo deliveries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: photo_retouching
+      label: Photo retouching
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: print_services
+      label: Print services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

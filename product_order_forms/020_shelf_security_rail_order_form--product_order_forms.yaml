@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: shelf_security_rail_order_form
+    pages:
+    - id: 1
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: shipping_company
+      label: shipping_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ship_from
+      label: ship_from
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_details
+      label: product_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_order_details
+      label: customer_order_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: product_info
+      label: product_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: false

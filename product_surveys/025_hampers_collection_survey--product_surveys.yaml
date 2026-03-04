@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hampers Collection Survey
+    pages:
+    - id: 1
+      name: hamper_collection_survey_form_1
+      label: what_is_your_interest_in_hampers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hamper_type
+      label: what_type_of_hampers_do_you_like
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fruits''}'
+      - '{''id'': 2, ''label'': ''Vegetables''}'
+      - '{''id'': 3, ''label'': ''Flowers''}'
+      required: false
+    - id: 3
+      name: hamper_size
+      label: hamper_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      required: true
+    - id: 4
+      name: hamper_color
+      label: favorite_hampers_color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Blue''}'
+      - '{''id'': 2, ''label'': ''Red''}'
+      - '{''id'': 3, ''label'': ''Green''}'
+      required: false
+    - id: 5
+      name: hamper_message
+      label: hamper_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hamper_price
+      label: hamper_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: hamper_weight
+      label: hamper_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: hamper_weight_range
+      label: hamper_weight_range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less Than 10''}'
+      - '{''id'': 2, ''label'': ''10-15''}'
+      - '{''id'': 3, ''label'': ''More Than 15''}'
+      required: true
+    - id: 14
+      name: hamper_weight_min_max
+      label: hamper_weight_min_max
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''min''}'
+      - '{''id'': 2, ''label'': ''max''}'
+      required: true
+    - id: 15
+      name: hamper_weight_unit
+      label: hamper_weight_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Grams''}'
+      - '{''id'': 2, ''label'': ''Kilograms''}'
+      - '{''id'': 3, ''label'': ''Pounds''}'
+      required: true
+    - id: 16
+      name: hamper_size_unit
+      label: hamper_size_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Meters''}'
+      - '{''id'': 2, ''label'': ''Kilometers''}'
+      - '{''id'': 3, ''label'': ''Feet''}'
+      required: true
+    - id: 17
+      name: hamper_color_unit
+      label: hamper_color_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Inches''}'
+      - '{''id'': 2, ''label'': ''Centimeters''}'
+      - '{''id'': 3, ''label'': ''Millimeters''}'
+      required: true
+    - id: 18
+      name: hamper_message
+      label: hamper_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: hamper_price
+      label: hamper_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: hamper_weight
+      label: hamper_weight
+      hint: null
+      type: number
+      options: []
+      required: true

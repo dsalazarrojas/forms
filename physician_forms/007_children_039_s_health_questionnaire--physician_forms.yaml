@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Childrens Health Questionnaire
+    pages:
+      - id: 1
+        name: header_child_info
+        label: -- Child Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: Child birth date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: parent_contact
+        label: Parent Contact Phone or Email
+        hint: Best contact for medical questions
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: primary_physician
+        label: Primary Physician
+        hint: Name of the child's doctor
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: immunizations_up_to_date
+        label: Immunizations Up to Date
+        hint: Select current status
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 7
+        name: allergies
+        label: Allergies
+        hint: List any known allergies
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: medications
+        label: Current Medications
+        hint: Include dosage and schedule if applicable
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: chronic_conditions
+        label: Chronic Conditions
+        hint: Note any long term health conditions
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: recent_symptoms
+        label: Recent Symptoms
+        hint: Describe any recent illness or symptoms
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: permission_for_treatment
+        label: Permission for Emergency Treatment
+        hint: Authorize emergency care if needed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

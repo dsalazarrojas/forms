@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_informed_consent_for_medical_marijuana_treatment
+    pages:
+    - id: 1
+      name: patient_informed_consent_for_medical_marijuana_treatment_page_1
+      label: patient_informed_consent_for_medical_marijuana_treatment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_marijuana_treatment
+      label: medical_marijuana_treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_marijuana_contraindications
+      label: medical_marijuana_contraindications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risks_of_medical_marijuana
+      label: risks_of_medical_marijuana
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: potential_side_effects
+      label: potential_side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: potential_interactions
+      label: potential_interactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_marijuana_use
+      label: medical_marijuana_use
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: informed_consent
+      label: informed_consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true

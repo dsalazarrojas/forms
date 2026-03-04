@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Cup Prototype Order Form
+    pages:
+    - id: 1
+      name: form_1
+      label: form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms_confirmation
+      label: Terms confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_2
+      label: form_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - Shipping by post
+      - Shipping by courier
+      - Other
+      required: false
+    - id: 7
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_terms
+      label: shipping_terms
+      hint: null
+      type: text
+      options: []
+      required: false

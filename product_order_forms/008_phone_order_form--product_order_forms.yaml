@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_order_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number_2
+      label: Second Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_list
+      label: Product List
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Accessories
+      required: false
+    - id: 8
+      name: accessory_list
+      label: Accessories List
+      hint: null
+      type: select_one
+      options:
+      - Headphones
+      - Earbuds
+      required: false
+    - id: 9
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      required: false

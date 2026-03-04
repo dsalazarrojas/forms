@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Nutrition Product Feedback Survey
+    pages:
+    - id: 1
+      name: product_name
+      label: Pet Nutrition Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - Pet Health
+      - Nutrition
+      - Quality
+      required: true
+    - id: 3
+      name: product_rating
+      label: How would you rate this product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_comment
+      label: Product Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: would_recommend
+      label: Would you recommend this product
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, highly recommend
+      - 'False'
+      - No, not at all
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_other
+      label: Other Contact
+      hint: null
+      type: text
+      options: []
+      required: false

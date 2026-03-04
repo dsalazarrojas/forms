@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall Pre Order
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_type
+      label: Pre-order Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product 1''}'
+      - '{''id'': 2, ''label'': ''Product 2''}'
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

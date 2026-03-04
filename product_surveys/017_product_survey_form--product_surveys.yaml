@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Survey Form
+    pages:
+    - id: 1
+      name: product_survey_form
+      label: How long have you been using our products/services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_survey_form_impression
+      label: Impressions on how we compete with other competitors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_survey_form_satisfaction
+      label: Satisfaction with our products/services
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Very bad''}'
+      required: false
+    - id: 4
+      name: product_survey_form_impression
+      label: How would you rate our customer service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 5
+      name: product_survey_form_impression
+      label: What was the main reason for your last purchase with us?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''To replace old products''}'
+      - '{''value'': ''To get a product recommendation''}'
+      - '{''value'': ''To purchase a gift''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: product_survey_form_suggestion
+      label: Do you have a suggestion for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_survey_form_experience
+      label: Overall experience with our products/services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Very good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Very bad''}'
+      required: false
+    - id: 8
+      name: product_survey_form_purchased
+      label: How often do you purchase from us?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: product_survey_form_loyalty
+      label: Are you loyal to our products/services?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

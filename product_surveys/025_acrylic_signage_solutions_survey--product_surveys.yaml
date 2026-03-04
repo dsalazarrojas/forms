@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acrylic Signage Solutions Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Your Role
+      hint: Select your primary role related to signage
+      type: select_one
+      options:
+      - Business Owner
+      - Marketing Manager
+      - Facilities Manager
+      - Sign Designer
+      - Procurement Specialist
+      - Other
+      required: true
+    - id: 2
+      name: company_type
+      label: Type of Organization
+      hint: What type of organization do you represent
+      type: select_one
+      options:
+      - Retail Store
+      - Restaurant
+      - Corporate Office
+      - Healthcare Facility
+      - Educational Institution
+      - Other Business
+      required: true
+    - id: 3
+      name: signage_usage_frequency
+      label: How Often Do You Purchase Acrylic Signage
+      hint: Estimate your purchasing frequency
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Twice a year
+      - Once a year
+      - As needed
+      - First time buyer
+      required: true
+    - id: 4
+      name: signage_application
+      label: Primary Application for Acrylic Signage
+      hint: Select the main use for your acrylic signage
+      type: select_one
+      options:
+      - Interior signs
+      - Exterior signs
+      - Point of sale displays
+      - Directional signage
+      - Branding elements
+      - Trade show displays
+      required: true
+    - id: 5
+      name: satisfaction_with_quality
+      label: Satisfaction with Acrylic Sign Quality
+      hint: How satisfied are you with the quality of acrylic signs you've purchased
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: durability_rating
+      label: Durability Rating of Acrylic Signs
+      hint: How would you rate the durability of acrylic signage products
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 7
+      name: design_options_satisfaction
+      label: Satisfaction with Design Options
+      hint: Are you satisfied with the design options available for acrylic signage
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: price_satisfaction
+      label: Satisfaction with Pricing
+      hint: How satisfied are you with the pricing of acrylic signage solutions
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: installation_ease
+      label: Ease of Installation
+      hint: How easy is it to install acrylic signage products
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 10
+      name: important_features
+      label: Most Important Features in Acrylic Signage
+      hint: Select the features that are most important to you
+      type: select_multiple
+      options:
+      - Durability
+      - Visual appeal
+      - Customizability
+      - Weather resistance
+      - Cost-effectiveness
+      - Lightweight
+      - Easy to clean
+      required: false
+    - id: 11
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What aspects of acrylic signage could be improved
+      type: select_multiple
+      options:
+      - Quality consistency
+      - Price point
+      - Design options
+      - Installation process
+      - Delivery time
+      - Customer service
+      - Product range
+      required: false
+    - id: 12
+      name: recommendation_likelihood
+      label: How Likely Are You to Recommend Acrylic Signage
+      hint: On a scale of 0-10, how likely are you to recommend acrylic signage to
+        others
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_feedback
+      label: Additional Feedback or Suggestions
+      hint: Any other comments about acrylic signage solutions
+      type: text
+      options: []
+      required: false

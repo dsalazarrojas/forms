@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Photography Order Form
+    pages:
+    - id: 1
+      name: new_born_photography_order_form_title
+      label: Newborn Photography Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: Select the date and time for your newborn photography session
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consent_terms
+      label: Consent Terms
+      hint: We will need you to read and consent to the Terms and Conditions on our
+        website.
+      type: select_multiple
+      options:
+      - terms-and-conditions
+      - release-of-liability
+      required: true
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - bank_transfer
+      - check
+      - credit_card
+      required: true
+    - id: 10
+      name: contract
+      label: Contract
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_cell
+      label: Cell Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_work_email
+      label: Work E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contract_version
+      label: Version
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_and_conditions
+      label: Terms And Conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - customer-signature
+      - photographer-signature
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: photographer_signature
+      label: Photographer Signature
+      hint: null
+      type: select_one
+      options:
+      - photographer-signature
+      - Other
+      required: false

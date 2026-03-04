@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soda Flavor Release Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flavor_input
+      label: Flavor Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description_input
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_entry_input
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_entry_input
+      label: Time of Entry
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes_input
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter_permission
+      label: Submitter Permission
+      hint: null
+      type: select_multiple
+      options:
+      - I have submitted a flavor previously
+      - I have not submitted a flavor previously
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_time_of_submission
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitter_permission_agreement
+      label: Submitter Permission Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to submit my flavor submission
+      - I do not agree
+      required: false
+    - id: 16
+      name: submitter_name_agreement
+      label: Submitter Name Agreement
+      hint: Please note that by submitting this agreement, your information will be
+        shared with the product team for the use of our products.
+      type: select_one
+      options:
+      - I agree to share my submission with the product team
+      - I do not agree
+      required: false
+    - id: 17
+      name: product_development_team
+      label: Product Development Team
+      hint: null
+      type: select_multiple
+      options:
+      - Product Development Team
+      - Not Applicable
+      required: false
+    - id: 18
+      name: marketing_development_team
+      label: Marketing Development Team
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing Development Team
+      - Not Applicable
+      required: false
+    - id: 19
+      name: product_launch_team
+      label: Product Launch Team
+      hint: null
+      type: select_multiple
+      options:
+      - Product Launch Team
+      - Not Applicable
+      required: false
+    - id: 20
+      name: product_development_manager
+      label: Product Development Manager
+      hint: null
+      type: select_multiple
+      options:
+      - Product Development Manager
+      - Not Applicable
+      required: false
+    - id: 21
+      name: product_developer
+      label: Product Developer
+      hint: null
+      type: select_multiple
+      options:
+      - Product Developer
+      - Not Applicable
+      required: false
+    - id: 22
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_multiple
+      options:
+      - Project Manager
+      - Not Applicable
+      required: false
+    - id: 23
+      name: marketing_manager
+      label: Marketing Manager
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing Manager
+      - Not Applicable
+      required: false
+    - id: 24
+      name: project_developer
+      label: Project Developer
+      hint: null
+      type: select_multiple
+      options:
+      - Project Developer
+      - Not Applicable
+      required: false
+    - id: 25
+      name: other_team_members
+      label: Other Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Other Team Members
+      - Not Applicable
+      required: false

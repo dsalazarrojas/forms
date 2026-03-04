@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Performance Evaluation
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_shift_start_time
+      label: Employee Shift Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: employee_shift_end_time
+      label: Employee Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: employee_worked_hours
+      label: Employee Worked Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_shift_start_time
+      label: Manager Shift Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_shift_end_time
+      label: Manager Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manager_worked_hours
+      label: Manager Worked Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shift_performance_score
+      label: Shift Performance Score
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: shift_performance_comments
+      label: Shift Performance Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employee_shift_notes
+      label: Employee Shift Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_shift_notes
+      label: Manager Shift Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: manager_feedback
+      label: Manager Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 14
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 15
+      name: shift_performance_category
+      label: Shift Performance Category
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: shift_performance_level
+      label: Shift Performance Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: manager_performance_score
+      label: Manager Performance Score
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: manager_performance_level
+      label: Manager Performance Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: manager_performance_category
+      label: Manager Performance Category
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: manager_performance_comments
+      label: Manager Performance Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: employee_performance_level
+      label: Employee Performance Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: employee_performance_comments
+      label: Employee Performance Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: shift_performance_rating
+      label: Shift Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Test Results Form
+    pages:
+    - id: 1
+      name: performance_test_results_form_1
+      label: Performance Test Results Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_run_number
+      label: test run number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: test_duration
+      label: test duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: test_start_date
+      label: test start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: test_end_date
+      label: test end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_result
+      label: test result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Pass''}'
+      - '{''id'': 2, ''value'': ''Fail''}'
+      - '{''id'': 3, ''value'': ''Pending''}'
+      required: true
+    - id: 7
+      name: performance_test_result_comments
+      label: performance test result comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_title
+      label: user title
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''QA''}'
+      - '{''id'': 2, ''value'': ''Engineering''}'
+      - '{''id'': 3, ''value'': ''IT''}'
+      required: false
+    - id: 10
+      name: test_environment
+      label: test environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_device
+      label: test device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_version
+      label: test version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: test_notes
+      label: test notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_outcome
+      label: test outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: test_outcome_notes
+      label: test outcome notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: performance_test_result_graph
+      label: performance test result graph
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: performance_test_result_csv
+      label: performance test result csv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: performance_test_result_json
+      label: performance test result json
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: performance_test_result_xml
+      label: performance test result xml
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: performance_test_result_pdf
+      label: performance test result pdf
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: performance_test_result_excel
+      label: performance test result excel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: performance_test_result_word
+      label: performance test result word
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: performance_test_result_ppt
+      label: performance test result ppt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: performance_test_result_txt
+      label: performance test result txt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: performance_test_result_img
+      label: performance test result img
+      hint: null
+      type: text
+      options: []
+      required: false

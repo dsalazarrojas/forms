@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milestone Sharing Survey
+    pages:
+    - id: 1
+      name: milestone_sharing_survey
+      label: Team Wins
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: milestone_sharing_survey_program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: milestone_sharing_survey_project
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: milestone_sharing_survey_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: milestone_sharing_survey_milestone_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: milestone_sharing_survey_milestone_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: milestone_sharing_survey_milestone_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: milestone_sharing_survey_program_impact
+      label: Program Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: milestone_sharing_survey_project_impact
+      label: Project Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: milestone_sharing_survey_department_impact
+      label: Department Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: milestone_sharing_survey_recognized_employees
+      label: Recognized Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: milestone_sharing_survey_recognized_employees_count
+      label: Recognized Employees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: milestone_sharing_survey_recognized_employees_note
+      label: Recognized Employees Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: milestone_sharing_survey_recognized_employees_email
+      label: Recognized Employees Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: milestone_sharing_survey_recognized_employees_phone
+      label: Recognized Employees Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: milestone_sharing_survey_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

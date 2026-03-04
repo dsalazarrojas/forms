@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: restricted_antibiotic_request_form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_request
+      label: Reason for request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Resident''}'
+      - '{''label'': ''Fellow''}'
+      required: true
+    - id: 8
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: pharmacy_name
+      label: Pharmacy Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pharmacy_phone
+      label: Pharmacy Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: route_to_pharmacy
+      label: Route To Pharmacy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_button
+      label: Submit Button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

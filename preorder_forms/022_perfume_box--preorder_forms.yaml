@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Perfume Box
+    pages:
+    - id: 1
+      name: preorder_forms
+      label: Preorder Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contest_registration_forms
+      label: Contest Registration Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Preorder Forms
+      - Contest Registration Forms
+      required: true
+    - id: 5
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_ids_2
+      label: Form IDs 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

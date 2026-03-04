@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Costume Contest Voting Form
+    pages:
+    - id: 1
+      name: contest_form
+      label: Vote for the best costume
+      hint: null
+      type: select_multiple
+      options:
+      - Pumpkin King
+      - Witch
+      - Ghost
+      - Skeleton
+      - Zombie
+      required: true
+    - id: 2
+      name: contestant_form
+      label: Contestant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contestant_email
+      label: Contestant's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contestant_phone
+      label: Contestant's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vote_form
+      label: Cast Your Vote
+      hint: null
+      type: select_one
+      options:
+      - Best Costume
+      - Best Performance
+      - Best of Show
+      required: true
+    - id: 6
+      name: why_vote_form
+      label: Why do you like this costume?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments_form
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

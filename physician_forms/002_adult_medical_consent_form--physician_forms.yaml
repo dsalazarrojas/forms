@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Medical Consent Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_procedure_description
+      label: Description of Medical Procedure
+      hint: Detailed description of the procedure you will undergo
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: risks_explained
+      label: Risks Explained
+      hint: Have all potential risks been explained to you
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: benefits_understood
+      label: Benefits Understood
+      hint: Do you understand the potential benefits of this procedure
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: alternative_treatments_discussed
+      label: Alternative Treatments Discussed
+      hint: Have alternative treatments been discussed with you
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: consent_to_proceed
+      label: Consent to Proceed
+      hint: Do you give your consent to proceed with the described medical procedure
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: physician_name
+      label: Physician Name
+      hint: Name of the physician performing the procedure
+      type: text
+      options: []
+      required: true

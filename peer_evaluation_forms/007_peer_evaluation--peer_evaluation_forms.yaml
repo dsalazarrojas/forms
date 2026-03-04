@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Evaluation
+    pages:
+    - id: 1
+      name: feedback_questions
+      label: Feedback Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: peer_evaluation
+      label: Peer Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_given
+      label: Date Given
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: peer_evaluation_form
+      label: Peer Evaluation Form
+      hint: null
+      type: select_multiple
+      options:
+      - Peer Evaluation Form 1
+      - Peer Evaluation Form 2
+      - Peer Evaluation Form 3
+      required: false

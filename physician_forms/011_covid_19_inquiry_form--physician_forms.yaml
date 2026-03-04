@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Inquiry Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inquiry_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Company (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Vaccination information
+      - Symptoms and testing
+      - Treatment options
+      - Prevention measures
+      - Workplace safety
+      - General information
+      - Appointment request
+      - Other
+      required: true
+    - id: 8
+      name: inquiry_subject
+      label: Subject of Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inquiry_message
+      label: Detailed Message or Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_medical_context
+      label: -- Medical Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: inquiry_urgency
+      label: How urgent is this inquiry?
+      hint: null
+      type: select_one
+      options:
+      - Non-urgent
+      - Moderately urgent
+      - Urgent
+      - Emergency
+      required: true
+    - id: 12
+      name: inquiry_status
+      label: Current COVID-19 status
+      hint: null
+      type: select_one
+      options:
+      - No symptoms or diagnosis
+      - Currently experiencing symptoms
+      - Positive diagnosis
+      - Recently recovered
+      - Vaccinated
+      - Prefer not to answer
+      required: false
+    - id: 13
+      name: section_contact_preference
+      label: -- Communication Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - In-person appointment
+      required: true
+    - id: 15
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: receive_updates
+      label: May we send you updates about COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: consent_information_sharing
+      label: I consent to share my information with medical staff
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: inquiry_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portrait Photography Session Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: booking date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: booking time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_style
+      label: photo style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_type
+      label: session type
+      hint: null
+      type: select_one
+      options:
+      - portrait
+      - landscape
+      - wedding
+      - event
+      required: false
+    - id: 10
+      name: booking_date
+      label: booking date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: booking_time
+      label: booking time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: photographer
+      label: photographer
+      hint: null
+      type: select_one
+      options:
+      - photographer 1
+      - photographer 2
+      - photographer 3
+      required: false
+    - id: 13
+      name: session_details
+      label: session details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: client_message
+      label: client message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_booking
+      label: confirm booking
+      hint: null
+      type: select_one
+      options:
+      - confirm
+      - decline
+      required: false
+    - id: 17
+      name: confirm_booking_date
+      label: confirm booking date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: confirm_booking_time
+      label: confirm booking time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: confirmation_method
+      label: confirmation method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - in-person
+      required: false
+    - id: 21
+      name: confirmation_method_details
+      label: confirmation method details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_date
+      label: confirm date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: confirm_time
+      label: confirm time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - card
+      - online
+      required: false
+    - id: 25
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false

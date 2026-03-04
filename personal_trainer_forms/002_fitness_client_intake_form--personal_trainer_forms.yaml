@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Client Intake Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_history
+      label: Health History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: availability_status
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_history_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: health_history_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: health_history_smoker
+      label: Smoker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: health_history_heart_condition
+      label: Heart Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: availability_status_available
+      label: Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: availability_status_unavailable
+      label: Unavailable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: training_goals_goal
+      label: Goal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: training_goals_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: training_goals_duration
+      label: Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: acknowledgement_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: acknowledgement_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: acknowledgement_terms
+      label: Terms of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: acknowledgement_signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

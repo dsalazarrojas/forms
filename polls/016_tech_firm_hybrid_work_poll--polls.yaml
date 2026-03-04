@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_firm_hybrid_work_poll
+    pages:
+    - id: 1
+      name: intro
+      label: What do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Always work remotely
+      - Sometimes work remotely
+      - Never work remotely
+      required: false
+    - id: 2
+      name: benefits
+      label: What benefits do you get from working from home?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges
+      label: What challenges do you face when working from home?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule
+      label: Do you have a set schedule for working from home?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, I have a schedule
+      - No, my schedule varies
+      required: false
+    - id: 5
+      name: time_management
+      label: How do you manage your time at home?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: productivity
+      label: How is your productivity when working from home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: How does communication flow with team members when working from home?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support
+      label: What kind of support do you need from your employer when working from
+        home?
+      hint: null
+      type: select_one
+      options:
+      - Technical support
+      - HR support
+      - Managerial support
+      - IT support
+      required: false
+    - id: 9
+      name: technology
+      label: Which technology do you prefer to use for work?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collaboration
+      label: How do you prefer to collaborate with team members when working from
+        home?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_life
+      label: How does working from home affect your work-life balance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: What feedback do you give to your employer about working from home?
+      hint: null
+      type: text
+      options: []
+      required: false

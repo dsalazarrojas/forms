@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Petition
+    pages:
+    - id: 1
+      name: candidate_info_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_name
+      label: Nominee Full Name
+      hint: Enter the name of the candidate you are petitioning for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_sought
+      label: Position or Office Sought
+      hint: e.g. City Council, Board Member, Student President
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: party_group_affiliation
+      label: Party or Group Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: petitioner_info_section
+      label: -- Petitioner Information --
+      hint: Your details for verification
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: petitioner_name
+      label: Petitioner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: voter_address
+      label: Registered Voter Address
+      hint: The address where you are registered to vote
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: petitioner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: petitioner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: precinct_district_number
+      label: Precinct or District Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_declaration_section
+      label: -- Support Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: support_reason
+      label: Reason for Support
+      hint: Briefly explain why you support this candidate
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: campaign_contact_consent
+      label: Consent to be contacted by campaign
+      hint: Choose your preference for communication
+      type: select_one
+      options:
+      - Yes, by email
+      - Yes, by SMS
+      - Yes, by both
+      - false
+      required: true
+    - id: 14
+      name: legal_verification_section
+      label: -- Legal Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: registered_voter_certify
+      label: I certify I am a registered voter in this district
+      hint: Providing false information is subject to legal action
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: electronic_signature_text
+      label: Electronic Signature
+      hint: Type your full name to sign this petition
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signing_date
+      label: Date of Signing
+      hint: null
+      type: date
+      options: []
+      required: true

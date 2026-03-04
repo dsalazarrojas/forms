@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Trainer Evaluation Survey
+    pages:
+    - id: 1
+      name: professionalism_rating
+      label: Professionalism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: communication_style
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: false
+    - id: 3
+      name: motivation
+      label: Motivation
+      hint: null
+      type: select_multiple
+      options:
+      - Very Motivating
+      - Somewhat Motivating
+      - Neutral
+      - Somewhat Demotivating
+      - Very Demotivating
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trainer_professionalism
+      label: Trainer Professionalism
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Professional
+      - Somewhat Professional
+      - Not Very Professional
+      - Not At All Professional
+      required: false
+    - id: 6
+      name: trainer_communication
+      label: Trainer Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Communicative
+      - Somewhat Communicative
+      - Not Very Communicative
+      - Not At All Communicative
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: Please share any additional feedback about the trainer
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: gym_name
+      label: Gym Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Ordering Experience Survey
+    pages:
+    - id: 1
+      name: section_purchase_experience
+      label: -- Purchase Experience --
+      hint: Collect feedback about the ordering and delivery process
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: Order id
+      hint: Reference for the purchase
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_with_ordering
+      label: Satisfaction with ordering process
+      hint: Rate ease of checkout and options
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 4
+      name: delivery_timeliness
+      label: Delivery timeliness
+      hint: Was the order delivered on time
+      type: select_one
+      options:
+        - Early
+        - On time
+        - Late
+        - Very late
+      required: true
+    - id: 5
+      name: product_quality
+      label: Product quality satisfaction
+      hint: Rate material fit and finish
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very good
+        - Excellent
+      required: true
+    - id: 6
+      name: returns_or_issues
+      label: Did you need to return or exchange
+      hint: Provide brief reason if yes
+      type: select_one
+      options:
+        - No
+        - Yes returned
+        - Yes exchanged
+      required: false
+    - id: 7
+      name: likelihood_to_reorder
+      label: Likelihood to reorder from us
+      hint: Customer loyalty indicator
+      type: select_one
+      options:
+        - Very unlikely
+        - Unlikely
+        - Neutral
+        - Likely
+        - Very likely
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: Any recommendations to improve the experience
+      type: text
+      options: []
+      required: false

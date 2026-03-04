@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_feedback_survey
+    pages:
+    - id: 1
+      name: product_feedback
+      label: what do you think about this product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: what is it that you like most about this product
+      hint: be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: how would you rate this product (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: product_recommendation
+      label: would you recommend this product
+      hint: null
+      type: select_one
+      options:
+      - 1 - highly likely
+      - 2 - maybe
+      - 3 - not likely
+      required: true
+    - id: 5
+      name: additional_feedback
+      label: additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false

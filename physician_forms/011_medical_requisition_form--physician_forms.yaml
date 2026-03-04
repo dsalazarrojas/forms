@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Requisition Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_equipment
+      label: Medical Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

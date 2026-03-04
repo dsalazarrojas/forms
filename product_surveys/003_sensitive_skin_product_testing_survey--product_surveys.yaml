@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sensitive Skin Product Testing Survey
+    pages:
+    - id: 1
+      name: sensitive_skin_product_testing_survey
+      label: What product are you testing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skin_condition
+      label: Skin condition
+      hint: null
+      type: select_one
+      options:
+      - Sensitive Skin
+      - Dry skin
+      - Oily skin
+      - Other
+      - None
+      required: true
+    - id: 3
+      name: product_used
+      label: Name of the product used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: skin_irritation
+      label: Skin irritation
+      hint: null
+      type: select_multiple
+      options:
+      - Redness
+      - Burning sensation
+      - Itching
+      - Stinging sensation
+      - Dryness
+      - Other
+      - None
+      required: false
+    - id: 5
+      name: feedback
+      label: What was your overall feedback about the product?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: How would you rate this product?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: would_recommend
+      label: Would you recommend this product?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 8
+      name: would_recommend_why
+      label: Why would you recommend it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: product_rating
+      label: Product rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_name
+      label: Name of the product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: product_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: product_type
+      label: Type of product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: product_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: product_subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: product_price_range
+      label: Price range
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: product_country_of_origin
+      label: Country of origin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: product_ingredients
+      label: Ingredients
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: product_allergic_reactions
+      label: Allergic reactions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: product_side_effects
+      label: Side effects
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: product_other_comments
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false

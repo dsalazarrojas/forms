@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Primary Care Exhibit Intent Form
+    pages:
+    - id: 1
+      name: exhibitor_contact_details
+      label: exhibitor_contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: focus_area
+      label: focus_area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: intent
+      label: intent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: focus_areas
+      label: focus_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: primary_care_intent_form_description
+      label: primary_care_intent_form_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

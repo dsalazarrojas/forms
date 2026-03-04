@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Equipment Usability Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_availability
+      label: equipment_availability
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Always available''}'
+      - '{''value'': ''Most of the time''}'
+      - '{''value'': ''Rarely available''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 3
+      name: usability
+      label: usability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Very easy to use''}'
+      - '{''value'': ''Somewhat easy to use''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat difficult to use''}'
+      - '{''value'': ''Very difficult to use''}'
+      required: false
+    - id: 4
+      name: facility_improvements
+      label: facility_improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Card Collection Form
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee or Staff Member Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department or Division
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: vaccination_section
+        label: "-- COVID-19 Vaccination Status --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: vaccination_status
+        label: Vaccination Status
+        hint: null
+        type: select_one
+        options:
+          - Fully vaccinated
+          - Partially vaccinated
+          - Not vaccinated
+        required: true
+      - id: 7
+        name: vaccine_type
+        label: Vaccine Type
+        hint: null
+        type: select_one
+        options:
+          - Pfizer
+          - Moderna
+          - Johnson and Johnson
+          - AstraZeneca
+          - Novavax
+          - Other
+        required: false
+      - id: 8
+        name: dose1_date
+        label: Date of First Dose
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: dose1_location
+        label: Location of First Dose
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: dose2_date
+        label: Date of Second Dose
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: dose2_location
+        label: Location of Second Dose
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: booster_date
+        label: Date of Booster Dose
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 13
+        name: booster_location
+        label: Location of Booster Dose
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: card_section
+        label: "-- Vaccine Card Information --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: has_card
+        label: Do you have your vaccine card
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Lost
+          - Damaged
+        required: true
+      - id: 16
+        name: card_upload
+        label: Upload Vaccine Card Photo or Copy
+        hint: PDF, JPG, or PNG format
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: card_readable
+        label: Card is readable and legible
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 18
+        name: verification_section
+        label: "-- Verification and Compliance --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: information_accurate
+        label: All vaccination information is accurate and truthful
+        hint: null
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 20
+        name: consent_sharing
+        label: I consent to sharing vaccination information for verification
+        hint: null
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 21
+        name: replacement_needed
+        label: Need replacement vaccine card
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 22
+        name: booster_intent
+        label: Plan to get booster shot
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - Already received
+          - No
+          - Unsure
+        required: false
+      - id: 23
+        name: documentation_section
+        label: "-- Additional Documentation --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: exemption_claim
+        label: Claiming medical or religious exemption
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 25
+        name: exemption_type
+        label: If yes, type of exemption
+        hint: null
+        type: select_one
+        options:
+          - Medical exemption
+          - Religious exemption
+          - Other
+        required: false
+      - id: 26
+        name: exemption_documentation
+        label: Upload exemption documentation
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: submission_date
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Poster Voting
+    pages:
+    - id: 1
+      name: favorite_poster_voting_page1
+      label: What is your favorite poster?
+      hint: null
+      type: select_multiple
+      options:
+      - Poster 1
+      - Poster 2
+      - Poster 3
+      required: false
+    - id: 2
+      name: favorite_poster_voting_page2
+      label: Select one or more of the following -
+      hint: null
+      type: select_multiple
+      options:
+      - Poster 1
+      - Poster 2
+      - Poster 3
+      required: false
+    - id: 3
+      name: favorite_poster_voting_page3
+      label: Which one do you like?
+      hint: null
+      type: select_one
+      options:
+      - Poster 1
+      - Poster 2
+      - Poster 3
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_poster_voting_page6
+      label: What is your favorite poster?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: favorite_poster_voting_page7
+      label: Select one or more of the following -
+      hint: null
+      type: select_multiple
+      options:
+      - Poster 1
+      - Poster 2
+      - Poster 3
+      required: false

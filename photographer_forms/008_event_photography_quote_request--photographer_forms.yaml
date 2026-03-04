@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_photography_quote_request
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Party
+      - Corporate Event
+      required: false
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_timezone
+      label: event_timezone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photographer_name
+      label: photographer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photographer_email
+      label: photographer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: photographer_phone
+      label: photographer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inquiry_details
+      label: inquiry_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: photographer_message
+      label: photographer_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quote_request
+      label: quote_request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Services
+      - Party Services
+      - Corporate Services
+      required: false
+    - id: 16
+      name: services_cost
+      label: services_cost
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_summary
+      label: order_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_products
+      label: Medical Products
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_order
+      label: Submit Order
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

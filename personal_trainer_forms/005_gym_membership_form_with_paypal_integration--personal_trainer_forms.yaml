@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Form With PayPal Integration
+    pages:
+    - id: 1
+      name: member_info
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Elite
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 5
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: membership_notes
+      label: Membership Notes
+      hint: Additional information about this membership
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

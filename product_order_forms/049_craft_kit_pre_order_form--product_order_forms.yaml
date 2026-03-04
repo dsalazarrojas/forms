@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Kit Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Australia
+      - United Kingdom
+      required: false
+    - id: 8
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - UK
+      - AUS
+      - CAN
+      required: false
+    - id: 9
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false

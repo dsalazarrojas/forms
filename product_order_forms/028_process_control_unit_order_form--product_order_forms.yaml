@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Control Unit Order Form
+    pages:
+    - id: 1
+      name: process_control_unit_order_form
+      label: Process Control Unit Order Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: unit_selections
+      label: Unit Selections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: unit_description
+      label: Unit Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unit_cost
+      label: Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false

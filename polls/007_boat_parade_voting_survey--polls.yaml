@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Parade Voting Survey
+    pages:
+    - id: 1
+      name: voter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: voter_email
+      label: Email Address
+      hint: For contact and verification
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: voter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parade_location
+      label: Which boat parade are you voting for
+      hint: Select your parade
+      type: select_one
+      options:
+      - Marina Bay Boat Parade
+      - Riverside Boat Parade
+      - Harbor Lights Boat Parade
+      - Coastal Boat Parade
+      - Holiday Boat Parade
+      required: true
+    - id: 5
+      name: best_decorated_boat
+      label: Most Decorated Boat
+      hint: Vote for the best decorated entry
+      type: select_one
+      options:
+      - Boat 1 - The Nautical Dream
+      - Boat 2 - Ocean Explorer
+      - Boat 3 - Crystal Wave
+      - Boat 4 - Sunset Voyager
+      - Boat 5 - Moonlight Sailor
+      - Other
+      required: true
+    - id: 6
+      name: best_themed_boat
+      label: Best Themed Boat
+      hint: Which boat had the best theme
+      type: select_one
+      options:
+      - Boat 1 - Pirates Theme
+      - Boat 2 - Tropical Paradise
+      - Boat 3 - Winter Wonderland
+      - Boat 4 - Space Adventure
+      - Boat 5 - Historical Voyage
+      - Other
+      required: true
+    - id: 7
+      name: most_creative_design
+      label: Most Creative Design
+      hint: null
+      type: select_one
+      options:
+      - Boat 1
+      - Boat 2
+      - Boat 3
+      - Boat 4
+      - Boat 5
+      - Boat 6
+      - Boat 7
+      required: true
+    - id: 8
+      name: best_lighting_display
+      label: Best Lighting Display
+      hint: Vote for the most impressive lights
+      type: select_one
+      options:
+      - Boat 1
+      - Boat 2
+      - Boat 3
+      - Boat 4
+      - Boat 5
+      - Boat 6
+      required: true
+    - id: 9
+      name: audience_favorite
+      label: Audience Favorite Award
+      hint: Which boat was your overall favorite
+      type: select_one
+      options:
+      - Boat 1
+      - Boat 2
+      - Boat 3
+      - Boat 4
+      - Boat 5
+      - Boat 6
+      - Boat 7
+      - Other
+      required: true
+    - id: 10
+      name: parade_rating
+      label: Overall Parade Experience Rating
+      hint: How would you rate the parade
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: parade_highlights
+      label: What were your favorite parade highlights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participation_likelihood
+      label: Would you attend next year
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 13
+      name: improvement_suggestions
+      label: Suggestions for Next Year
+      hint: How can we improve the parade
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_interest
+      label: Would you volunteer to help
+      hint: null
+      type: select_one
+      options:
+      - Yes, I would like to volunteer
+      - Maybe, contact me with details
+      - No, I cannot volunteer
+      required: false
+    - id: 15
+      name: voter_zip_code
+      label: Zip Code
+      hint: For local community tracking
+      type: text
+      options: []
+      required: false

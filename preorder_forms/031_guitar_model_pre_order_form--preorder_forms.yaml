@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guitar Model Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: model_number
+      label: Model Number
+      hint: Please provide model number of guitar
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guitar_type
+      label: Guitar Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Acoustic''}'
+      - '{''label'': ''Electric''}'
+      - '{''label'': ''Semi-Acoustic''}'
+      required: true
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: deposit
+      label: Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: first_name_err
+      label: First Name Error
+      hint: Error message for First Name field
+      type: text
+      options: []
+      required: false

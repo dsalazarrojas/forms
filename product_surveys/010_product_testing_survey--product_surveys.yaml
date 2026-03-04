@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_testing_survey
+    pages:
+    - id: 1
+      name: product_survey
+      label: product survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_feedback
+      label: customer feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_rating
+      label: product rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: product_comment
+      label: product comment
+      hint: null
+      type: text
+      options: []
+      required: false

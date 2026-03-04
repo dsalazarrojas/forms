@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Progress Report
+    pages:
+    - id: 1
+      name: employee_performance
+      label: Employee Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: performance_goals
+      label: Performance Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: actual_performance
+      label: Actual Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: documentation
+      label: Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false

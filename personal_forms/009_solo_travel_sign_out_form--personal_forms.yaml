@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: solo_travel_sign_out_form
+    pages:
+    - id: 1
+      name: traveler_details
+      label: Traveler details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Enter a contact person for this traveler
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Enter a phone number for the traveler
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter an email address for the traveler
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter an emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Person Phone
+      hint: Enter a contact person phone number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: trip_itinerary
+      label: Trip Itinerary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: accommodation
+      label: Accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: Enter the traveler's address
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Train
+      - Bus
+      - Air
+      - Other
+      required: false
+    - id: 15
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - In Progress
+      - Canceled
+      - Unknown
+      required: false
+    - id: 18
+      name: travel_note
+      label: Travel Note
+      hint: Enter any additional information about this travel
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Select the relationship of the emergency contact
+      type: select_multiple
+      options:
+      - Parent
+      - Friend
+      - Family Member
+      - Other
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Select the emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Select the emergency contact email address
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: travel_agency
+      label: Travel Agency
+      hint: Select the travel agency used
+      type: select_one
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      - Agency D
+      - Agency E
+      required: false
+    - id: 24
+      name: travel_agency_id
+      label: Travel Agency ID
+      hint: Enter the travel agency ID
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

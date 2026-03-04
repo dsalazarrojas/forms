@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Drying Device Usage Survey
+    pages:
+    - id: 1
+      name: device_type
+      label: Which device do you use
+      hint: null
+      type: select_one
+      options:
+      - Nail Polish Drying Device
+      - Other
+      required: false
+    - id: 2
+      name: satisfaction
+      label: How satisfied
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: Have you experienced any issues
+      hint: null
+      type: select_multiple
+      options:
+      - Not applicable
+      - Problem with device
+      - Problem with polish
+      - Other
+      required: false
+    - id: 4
+      name: frequency_of_use
+      label: How often
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 5
+      name: duration_of_use
+      label: How long you use it
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: user_experience
+      label: How would you describe your experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_to_others
+      label: Recommend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: why_not_recommended
+      label: Why not recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

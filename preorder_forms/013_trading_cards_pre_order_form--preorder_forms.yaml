@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trading Cards Pre Order Form
+    pages:
+    - id: 1
+      name: trading_cards_pre_order_form_1
+      label: Customer Information
+      hint: Please fill in your information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - State/Province
+      - Alberta
+      - British Columbia
+      - Ontario
+      - Quebec
+      required: false
+    - id: 7
+      name: shipping_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Interac e-Transfer
+      - Bank Draft
+      required: false
+    - id: 9
+      name: preorder_items
+      label: Preorder Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preorder_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: preorder_item_2
+      label: Preorder Item 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Vacuum Product Comparison Survey
+    pages:
+    - id: 1
+      name: brand_awareness
+      label: How do you feel about robot vacuum brands?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Overall satisfaction with the brand
+      hint: On a scale of 0-10, 0 being very dissatisfied, 10 being very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: purchase_driver
+      label: What motivated you to purchase a robot vacuum?
+      hint: null
+      type: select_one
+      options:
+      - Low maintenance
+      - High performance
+      - Affordability
+      - Other
+      required: false
+    - id: 4
+      name: feature_preferences
+      label: What features do you prefer in a robot vacuum?
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Navigation system
+      - Noise level
+      - Suction power
+      - Other
+      required: false
+    - id: 5
+      name: note
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: When did you purchase your robot vacuum?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: What time of day did you purchase your robot vacuum?
+      hint: 24 hour clock format
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_of_day
+      label: What time of day did you purchase your robot vacuum?
+      hint: 12 hour clock format
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: robot_model
+      label: Which robot vacuum model did you purchase?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: robot_brand
+      label: Which robot vacuum brand did you purchase?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: location
+      label: What city do you live in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: What is your zip code?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: purchase_location
+      label: Where did you purchase your robot vacuum?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: price_range
+      label: What is the price range of the robot vacuum you purchased?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: robot_vacuum_satisfaction
+      label: Overall satisfaction with your robot vacuum
+      hint: On a scale of 0-10, 0 being very dissatisfied, 10 being very satisfied
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: maintenance
+      label: How difficult is it to maintain your robot vacuum?
+      hint: On a scale of 0-10, 0 being very difficult, 10 being very easy
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: noise_level
+      label: How does the noise level of your robot vacuum compare to others?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: suction_power
+      label: How satisfied are you with the suction power of your robot vacuum?
+      hint: On a scale of 0-10, 0 being very dissatisfied, 10 being very satisfied
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: battery_life
+      label: How satisfied are you with the battery life of your robot vacuum?
+      hint: On a scale of 0-10, 0 being very dissatisfied, 10 being very satisfied
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: navigation_system
+      label: How satisfied are you with the navigation system of your robot vacuum?
+      hint: On a scale of 0-10, 0 being very dissatisfied, 10 being very satisfied
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: recommendation
+      label: Would you recommend this robot vacuum brand to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false

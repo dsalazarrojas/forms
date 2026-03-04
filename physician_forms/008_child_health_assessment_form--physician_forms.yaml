@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Health Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of health assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Primary reason for this health assessment
+      type: select_one
+      options:
+      - Routine check-up
+      - Illness or symptoms
+      - Sports physical
+      - School requirement
+      - Behavioral concerns
+      - Developmental evaluation
+      - Follow-up visit
+      - Other
+      required: true
+    - id: 11
+      name: current_symptoms
+      label: Current Symptoms
+      hint: List any current symptoms the child is experiencing
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: symptom_duration
+      label: Symptom Duration
+      hint: How long have symptoms been present?
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 1 to 3 days
+      - 4 to 7 days
+      - 1 to 2 weeks
+      - More than 2 weeks
+      - Not applicable
+      required: false
+    - id: 13
+      name: fever_present
+      label: Fever Present
+      hint: Has the child had a fever?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: highest_temperature
+      label: Highest Temperature Recorded
+      hint: If yes, what was the highest temperature?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: List any chronic medical conditions the child has
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: List any known allergies (food, medication, environmental)
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications with dosages
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: immunization_status
+      label: Immunization Status
+      hint: Is the child up to date on immunizations?
+      type: select_one
+      options:
+      - Yes, fully up to date
+      - Partially up to date
+      - No, behind on immunizations
+      - Prefer not to vaccinate
+      - Unsure
+      required: true
+    - id: 19
+      name: family_medical_history
+      label: Relevant Family Medical History
+      hint: List any relevant family medical history
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: diet_and_nutrition
+      label: Diet and Nutrition Notes
+      hint: Any dietary restrictions or nutrition concerns
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: Describe the child's typical sleep patterns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physical_activity_level
+      label: Physical Activity Level
+      hint: How would you describe the child's activity level?
+      type: select_one
+      options:
+      - Very active
+      - Moderately active
+      - Somewhat active
+      - Mostly sedentary
+      - Unable to assess
+      required: true
+    - id: 23
+      name: developmental_concerns
+      label: Developmental Concerns
+      hint: Any concerns about the child's development?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physician_name
+      label: Primary Care Physician Name
+      hint: Name of the child's primary care physician
+      type: text
+      options: []
+      required: true

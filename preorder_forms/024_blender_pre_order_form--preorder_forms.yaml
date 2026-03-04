@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blender Pre Order Form
+    pages:
+    - id: 1
+      name: preorder_intro
+      label: Blender Pre-Order Form
+      hint: Reserve your new blender before official launch
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address_line_1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_line_2
+      label: Address Line 2
+      hint: Apartment or suite
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: blender_model
+      label: Blender Model
+      hint: Which model are you pre-ordering
+      type: select_one
+      options:
+      - Classic Series - Standard
+      - Pro Series - Professional
+      - Elite Series - Premium
+      - Compact Series - Travel
+      required: true
+    - id: 11
+      name: color_preference
+      label: Color Preference
+      hint: Choose your color
+      type: select_one
+      options:
+      - Matte Black
+      - Stainless Steel
+      - Crimson Red
+      - Ocean Blue
+      - Forest Green
+      - White
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: How many units
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_amount
+      label: Total Amount
+      hint: Total order value
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: deposit_paid
+      label: Deposit Payment
+      hint: Deposit required for pre-order
+      type: select_one
+      options:
+      - Yes Paid
+      - Will Pay Now
+      - Have Questions
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Financing Plan
+      required: true
+    - id: 17
+      name: expected_ship_date
+      label: Expected Ship Date
+      hint: When do you expect delivery
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: gift_message
+      label: Gift Message
+      hint: Is this a gift include message
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: warranty_selection
+      label: Warranty Selection
+      hint: Choose warranty coverage
+      type: select_one
+      options:
+      - Standard 1 Year
+      - Extended 2 Years
+      - Premium 3 Years
+      required: true
+    - id: 20
+      name: accessories_added
+      label: Additional Accessories
+      hint: Add-ons you want
+      type: select_multiple
+      options:
+      - Extra Blending Cup
+      - Travel Lid Set
+      - Recipe Book
+      - Cleaning Brush Kit
+      - None
+      required: false
+    - id: 21
+      name: promotional_code
+      label: Promotional Code
+      hint: Enter discount code if any
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to pre-order terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

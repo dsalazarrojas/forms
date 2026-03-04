@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Order Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_medication_history
+      label: Patient Medication History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: medication_order
+      label: Medication Order
+      hint: Please specify medication details
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_option
+      label: Treatment Option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dosing_instructions
+      label: Dosing Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pharmacy_signature
+      label: Pharmacy Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pharmacy_name
+      label: Pharmacy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pharmacy_name
+      label: Pharmacy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pharmacy_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pharmacy_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: pharmacy_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: doctor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_last_visit
+      label: Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false

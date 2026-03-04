@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math Alarm Setup Form
+    pages:
+    - id: 1
+      name: math_alarm_setup_form_user_preferences
+      label: User Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: math_alarm_setup_form_math_challenge_settings
+      label: Math Challenge Settings
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: math_alarm_setup_form_alarm_preference_frequency
+      label: Alarm Preference Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: math_alarm_setup_form_alarm_preference_time
+      label: Alarm Preference Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: math_alarm_setup_form_alarm_preference_duration
+      label: Alarm Preference Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: math_alarm_setup_form_target_time
+      label: Target Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: math_alarm_setup_form_target_time_zone
+      label: Target Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      required: false
+    - id: 8
+      name: math_alarm_setup_form_notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - None
+      required: false
+    - id: 9
+      name: math_alarm_setup_form_notification_frequency
+      label: Notification Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: math_alarm_setup_form_notification_time
+      label: Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false

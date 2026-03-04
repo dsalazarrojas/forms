@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_shoot_order_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shoot_info
+      label: Shoot Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shoot_details
+      label: Shoot Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_info
+      label: Photo Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shoot_schedule
+      label: Shoot Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 6
+      name: shoot_time
+      label: Shoot Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: photo_packages
+      label: Photo Packages
+      hint: null
+      type: select_multiple
+      options:
+      - Package 1
+      - Package 2
+      - Package 3
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: package_price
+      label: Package Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shoot_date
+      label: Shoot Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: shoot_time
+      label: Shoot Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: client_photo
+      label: Client Photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: photo_credit
+      label: Photo Credit
+      hint: null
+      type: select_one
+      options:
+      - Left
+      - Right
+      - Top
+      - Bottom
+      required: true
+    - id: 23
+      name: photo_orientation
+      label: Photo Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Portrait
+      - Landscape
+      - Square
+      required: false
+    - id: 24
+      name: shoot_location
+      label: Shoot Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes_for_shooting
+      label: Notes For Shooting
+      hint: null
+      type: text
+      options: []
+      required: false

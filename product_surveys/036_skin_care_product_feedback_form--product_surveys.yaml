@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Product Feedback Form
+    pages:
+    - id: 1
+      name: page1
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: How often do you use the product?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: page3
+      label: How would you rate the product?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 4
+      name: page4
+      label: What features would you like to see improved?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: page5
+      label: Any Additional Feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: page7
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: page8
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

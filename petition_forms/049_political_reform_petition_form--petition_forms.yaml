@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Reform Petition Form
+    pages:
+    - id: 1
+      name: petition_details
+      label: Petition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature_details
+      label: Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

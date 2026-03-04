@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: race_participant_packet_printing_order_form
+    pages:
+    - id: 1
+      name: packet_type
+      label: Packet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type A'', ''value'': ''type_a''}'
+      - '{''label'': ''Type B'', ''value'': ''type_b''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 2
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online'', ''value'': ''online''}'
+      - '{''label'': ''Offline'', ''value'': ''offline''}'
+      required: false
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

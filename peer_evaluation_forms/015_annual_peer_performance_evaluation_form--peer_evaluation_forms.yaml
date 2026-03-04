@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Peer Performance Evaluation Form
+    pages:
+      - id: 1
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Your name as the evaluator
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: evaluator_email
+        label: Your Email
+        hint: Contact email for follow-up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: employee_name
+        label: Employee Name
+        hint: Name of employee being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: position_title
+        label: Employee Position Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: evaluation_period
+        label: Evaluation Period
+        hint: Date range for this evaluation
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: relationship
+        label: Your relationship to employee
+        hint: null
+        type: select_one
+        options:
+          - "Direct peer"
+          - "Team member"
+          - "Colleague in different department"
+          - "Manager"
+          - "Subordinate"
+          - "Cross-functional partner"
+        required: true
+      - id: 9
+        name: time_working_together
+        label: How long have you worked together
+        hint: null
+        type: select_one
+        options:
+          - "Less than 6 months"
+          - "6-12 months"
+          - "1-2 years"
+          - "2-5 years"
+          - "More than 5 years"
+        required: true
+      - id: 10
+        name: work_quality
+        label: Rate quality of work
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 11
+        name: reliability
+        label: Reliability and dependability
+        hint: Can you count on them to complete tasks
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 12
+        name: communication_skills
+        label: Communication and collaboration
+        hint: Ability to share ideas and work with others
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 13
+        name: problem_solving
+        label: Problem-solving abilities
+        hint: Ability to identify and resolve issues
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 14
+        name: initiative
+        label: Initiative and proactivity
+        hint: Takes on new challenges without being asked
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 15
+        name: teamwork
+        label: Teamwork and cooperation
+        hint: Works well with team members
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 16
+        name: leadership_potential
+        label: Leadership potential
+        hint: Ability to lead or influence others
+        type: select_one
+        options:
+          - "Strong potential"
+          - "Good potential"
+          - "Moderate potential"
+          - "Limited potential"
+          - "Not applicable"
+        required: true
+      - id: 17
+        name: technical_skills
+        label: Technical skills and competence
+        hint: Proficiency in required skills for role
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 18
+        name: strengths
+        label: Key strengths of this employee
+        hint: What they do particularly well
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: improvement_areas
+        label: Areas for improvement
+        hint: Skills or behaviors to develop
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: specific_examples
+        label: Specific examples of performance
+        hint: Concrete incidents illustrating your feedback
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_rating
+        label: Overall performance rating
+        hint: null
+        type: select_one
+        options:
+          - "Exceeds expectations"
+          - "Meets expectations"
+          - "Needs improvement"
+          - "Below expectations"
+        required: true
+      - id: 22
+        name: would_work_again
+        label: Would you work with this person again
+        hint: null
+        type: select_one
+        options:
+          - "Definitely yes"
+          - "Yes"
+          - "Undecided"
+          - "No"
+          - "Definitely no"
+        required: true

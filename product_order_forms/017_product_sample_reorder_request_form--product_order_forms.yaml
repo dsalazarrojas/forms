@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Sample Reorder Request Form
+    pages:
+    - id: 1
+      name: product_sample_reorder_request_form
+      label: product sample reorder request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_id
+      label: sample id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: product id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sample_quantity
+      label: sample quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reorder_reason
+      label: reorder reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reorders
+      label: reorders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false

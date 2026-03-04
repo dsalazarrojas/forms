@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Mascot Selection Voting Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Select Mascot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: mascot_name
+      label: Mascot Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mascot_image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mascot_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mascot_votes
+      label: Votes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: first_page_submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: SIPOC Form
+    pages:
+    - id: 1
+      name: suppliers_inputs
+      label: Suppliers Inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suppliers
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - Supplier 1
+      - Supplier 2
+      - Supplier 3
+      required: false
+    - id: 3
+      name: inputs
+      label: Inputs
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: process
+      label: Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: outputs
+      label: Outputs
+      hint: null
+      type: select_multiple
+      options:
+      - Output 1
+      - Output 2
+      - Output 3
+      required: false
+    - id: 6
+      name: customers
+      label: Customers
+      hint: null
+      type: select_one
+      options:
+      - Customer 1
+      - Customer 2
+      - Customer 3
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

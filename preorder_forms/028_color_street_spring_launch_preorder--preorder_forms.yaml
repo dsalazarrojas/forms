@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Spring Launch Preorder
+    pages:
+    - id: 1
+      name: section_spring_preorder_intro
+      label: -- Spring Collection Pre-Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pre_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pre_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: pre_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_pre_selection
+      label: -- Select Your Spring Favorites --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pre_solids
+      label: Spring Solids
+      hint: null
+      type: select_multiple
+      options:
+      - Aspen Sky
+      - Giza Sands
+      - Key West Is Best
+      - Maine-ly Mums
+      required: false
+    - id: 7
+      name: pre_glitters
+      label: Spring Glitters
+      hint: null
+      type: select_multiple
+      options:
+      - Glittersweet
+      - Fort Worth It
+      - Chelsea Ya Later
+      - At the Plaza
+      required: false
+    - id: 8
+      name: pre_designs
+      label: Spring Designs
+      hint: null
+      type: select_multiple
+      options:
+      - Spotted in NYC
+      - Floral Distraction
+      - Polka Dot-com
+      - Mermaid You Look
+      required: false
+    - id: 9
+      name: pre_total_sets
+      label: Total Sets to Pre-Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pre_b3g1
+      label: Applying B3G1 Deal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_pre_checkout
+      label: -- Billing and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pre_payment_method
+      label: Preferred Payment
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Facebook Pay
+      required: true
+    - id: 13
+      name: pre_delivery_method
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping ($4.00)
+      - Priority Shipping ($8.00)
+      - Porch Pick-up (Free)
+      required: true
+    - id: 14
+      name: pre_notes
+      label: Additional Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

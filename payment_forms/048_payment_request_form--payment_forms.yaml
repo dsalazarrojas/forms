@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_request_form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Payment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Cash
+      - Check
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Installment payments
+      - Lump sum payments
+      - Other
+      required: false
+    - id: 5
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_payment
+      label: Time of Payment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

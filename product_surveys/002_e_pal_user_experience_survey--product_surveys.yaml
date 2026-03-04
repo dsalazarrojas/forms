@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_pal_user_experience_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you with E Pal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: usage_features
+      label: How often do you use the E Pal features?
+      hint: null
+      type: select_one
+      options:
+      - E Pal Desktop
+      - E Pal Web
+      - E Pal Mobile
+      - Other
+      required: false
+    - id: 7
+      name: recommend_improvement
+      label: Any features you would like us to improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Health
+      - Technology
+      - Other
+      required: false
+    - id: 10
+      name: category_other
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

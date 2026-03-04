@@ -1,0 +1,310 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage New Drink Satisfaction Assessment
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- About You --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 5
+        name: tasting_location
+        label: Where Are You Tasting This Beverage
+        hint: Location or event name
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: tasting_date
+        label: Date of Tasting
+        hint: When did you try this drink?
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: section_header_drink
+        label: -- About the Drink --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: drink_name
+        label: Beverage Name
+        hint: Name of the new drink
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: drink_category
+        label: Beverage Category
+        hint: What type of drink is it?
+        type: select_one
+        options:
+          - Soft drink
+          - Energy drink
+          - Juice or smoothie
+          - Sports drink
+          - Coffee beverage
+          - Tea beverage
+          - Flavored water
+          - Other
+        required: true
+      - id: 10
+        name: drink_color
+        label: Color of Beverage
+        hint: What color is it?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: section_header_initial
+        label: -- First Impression --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: appearance_appeal
+        label: Was the Appearance Appealing
+        hint: null
+        type: select_one
+        options:
+          - Very appealing
+          - Appealing
+          - Neutral
+          - Not very appealing
+          - Not appealing
+        required: true
+      - id: 13
+        name: aroma
+        label: What Did the Drink Smell Like
+        hint: Describe the aroma
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: aroma_satisfaction
+        label: Was the Smell Appealing
+        hint: null
+        type: select_one
+        options:
+          - Very appealing
+          - Appealing
+          - Neutral
+          - Not appealing
+          - Not appealing at all
+        required: true
+      - id: 15
+        name: section_header_taste
+        label: -- Taste Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: overall_taste
+        label: Overall Taste Impression
+        hint: How does it taste overall?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Okay
+          - Not good
+          - Poor
+        required: true
+      - id: 17
+        name: flavor_profile
+        label: Describe the Flavor Profile
+        hint: Sweet, sour, fruity, bitter, etc.
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: sweetness
+        label: Sweetness Level
+        hint: Is it appropriately sweet?
+        type: select_one
+        options:
+          - Much too sweet
+          - Too sweet
+          - Just right
+          - Not sweet enough
+          - Not sweet at all
+        required: true
+      - id: 19
+        name: tartness
+        label: Is There an Appropriate Level of Tartness
+        hint: null
+        type: select_one
+        options:
+          - Much too tart
+          - Too tart
+          - Just right
+          - Not tart enough
+          - Not tart
+        required: true
+      - id: 20
+        name: aftertaste_quality
+        label: Aftertaste Quality
+        hint: Any lingering flavor?
+        type: select_one
+        options:
+          - Pleasant aftertaste
+          - Neutral aftertaste
+          - Unpleasant aftertaste
+          - No aftertaste
+        required: true
+      - id: 21
+        name: flavor_authenticity
+        label: How Authentic is the Flavor
+        hint: Does it taste real or artificial?
+        type: select_one
+        options:
+          - Very authentic
+          - Mostly authentic
+          - Somewhat authentic
+          - Not authentic
+          - Completely artificial
+        required: true
+      - id: 22
+        name: section_header_comparison
+        label: -- Comparison & Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: similar_products
+        label: What Existing Products is This Similar To
+        hint: Competitor products or brands
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: vs_competitors
+        label: Compared to Similar Products
+        hint: How does this compare?
+        type: select_one
+        options:
+          - Much better
+          - Better
+          - About the same
+          - Worse
+          - Much worse
+        required: true
+      - id: 25
+        name: unique_aspect
+        label: What Makes This Drink Unique or Special
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: section_header_purchase
+        label: -- Purchase Intent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: repurchase_likelihood
+        label: Would You Buy This Drink Again
+        hint: null
+        type: select_one
+        options:
+          - Definitely would buy
+          - Probably would buy
+          - Might buy
+          - Probably would not buy
+          - Would not buy
+        required: true
+      - id: 28
+        name: recommend_likelihood
+        label: Would You Recommend This to Friends
+        hint: null
+        type: select_one
+        options:
+          - Definitely would recommend
+          - Probably would recommend
+          - Might recommend
+          - Probably would not recommend
+          - Would not recommend
+        required: true
+      - id: 29
+        name: price_acceptable
+        label: What Would Be a Fair Price for This Drink
+        hint: What would you pay?
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: section_header_feedback
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: improvements
+        label: What Could Be Improved About This Drink
+        hint: Suggestions for enhancement
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: purchase_occasion
+        label: When Would You Most Likely Buy This
+        hint: Morning, afternoon, workout, social, etc.
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: additional_comments
+        label: Any Other Comments or Feedback
+        hint: null
+        type: text
+        options: []
+        required: false

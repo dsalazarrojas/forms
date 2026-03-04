@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jacket Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: jacket_size
+      label: Jacket Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: jacket_color
+      label: Jacket Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_delivery
+      label: Date of Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_delivery
+      label: Time of Delivery
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_instructions_2
+      label: Special Instructions 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Progress Report
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_conditions
+      label: Current Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: social_history
+      label: Social History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

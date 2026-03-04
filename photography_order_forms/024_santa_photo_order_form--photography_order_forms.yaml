@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Santa Photo Order Form
+    pages:
+    - id: 1
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Session 1''}'
+      - '{''id'': 2, ''name'': ''Session 2''}'
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false

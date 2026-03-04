@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: workshop_session_quality_poll
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session_quality
+      label: session_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_improvement
+      label: what_improve
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: what_improve_to
+      label: what_improve_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: what_improve_by
+      label: what_improve_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submission
+      label: submission
+      hint: null
+      type: note
+      options: []
+      required: false

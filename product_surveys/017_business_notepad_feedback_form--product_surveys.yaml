@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Notepad Feedback Form
+    pages:
+    - id: 1
+      name: feedback_date
+      label: Feedback Date
+      hint: Date you are providing feedback
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: user_name
+      label: Your Name
+      hint: Name of feedback provider
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_experience_duration
+      label: How Long Have You Used the Product?
+      hint: Usage duration
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Product Satisfaction
+      hint: Rate satisfaction (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: ease_of_use
+      label: Ease of Use
+      hint: How easy is the product to use? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feature_completeness
+      label: Feature Completeness
+      hint: Do features meet your needs? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: value_for_money
+      label: Value for Money
+      hint: Is it worth the price? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: customer_support_quality
+      label: Customer Support Quality
+      hint: Rate support quality (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: best_features
+      label: What Are Your Favorite Features?
+      hint: Describe the best aspects
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: missing_features
+      label: Missing Features or Functionality
+      hint: What features are you missing?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: biggest_issue
+      label: Biggest Issue or Frustration
+      hint: What frustrated you most?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommend_to_others
+      label: Would You Recommend to Others?
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 16
+      name: likelihood_score
+      label: Likelihood to Recommend Score
+      hint: Rate 0-10
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: comparison_with_competitors
+      label: How Does It Compare to Competitors?
+      hint: Your honest comparison
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: permission_to_contact
+      label: May We Contact You for More Details?
+      hint: Can we follow up?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

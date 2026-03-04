@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Case Report Form
+    pages:
+    - id: 1
+      name: case_summary
+      label: Mpox Case Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: patient age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 5
+      name: symptoms_description
+      label: symptoms description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exposure_date
+      label: exposure date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_history
+      label: contact history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_history
+      label: travel history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_status
+      label: vaccination status
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - pending
+      required: false
+    - id: 10
+      name: contact_trace_details
+      label: contact trace details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: diagnosis_confirmed
+      label: diagnosis confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: test_results
+      label: test results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_contact_trace
+      label: patient contact trace
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: exposure_site
+      label: exposure site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exposure_source
+      label: exposure source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: symptoms_start_date
+      label: symptoms start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: symptoms_end_date
+      label: symptoms end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: patient_outcome
+      label: patient outcome
+      hint: null
+      type: select_one
+      options:
+      - recovered
+      - deceased
+      - pending
+      required: true
+    - id: 19
+      name: patient_outcome_details
+      label: patient outcome details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_reported
+      label: case reported
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: reporter_info
+      label: reporter info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: case_type
+      label: case type
+      hint: null
+      type: select_one
+      options:
+      - confirmed
+      - suspected
+      - probable
+      required: true
+    - id: 23
+      name: contact_type
+      label: contact type
+      hint: null
+      type: select_one
+      options:
+      - close contact
+      - casual contact
+      - household contact
+      required: true
+    - id: 24
+      name: exposure_type
+      label: exposure type
+      hint: null
+      type: select_one
+      options:
+      - close exposure
+      - casual exposure
+      - household exposure
+      required: true
+    - id: 25
+      name: other_details
+      label: other details
+      hint: null
+      type: text
+      options: []
+      required: false

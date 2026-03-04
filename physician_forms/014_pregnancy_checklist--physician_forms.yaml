@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy Checklist
+    pages:
+    - id: 1
+      name: expectant_parents
+      label: Expectant Parents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: due_date
+      label: Due Date
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: gestation_age
+      label: Gestation Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fetal_size
+      label: Fetal Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: true
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: complications
+      label: Complications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High Blood Pressure''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: hospitalizations
+      label: Hospitalizations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: birth_weight
+      label: Birth Weight
+      hint: Enter weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: birth_length
+      label: Birth Length
+      hint: Enter length in centimeters
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Vaginal''}'
+      - '{''id'': 2, ''label'': ''C-Section''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''O Negative''}'
+      - '{''id'': 2, ''label'': ''O Positive''}'
+      - '{''id'': 3, ''label'': ''A Negative''}'
+      - '{''id'': 4, ''label'': ''A Positive''}'
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false

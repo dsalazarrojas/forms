@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Degree Leadership Evaluation
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Employee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_full_name
+      label: Full name of evaluator
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email
+      label: Email address
+      hint: Enter your work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_department
+      label: Department
+      hint: Enter your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_job_title
+      label: Job title
+      hint: Enter your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluator_relationship
+      label: Relationship to evaluated employee
+      hint: Select your relationship to the person being evaluated
+      type: select_one
+      options:
+      - Direct Report
+      - Peer
+      - Supervisor
+      - External Stakeholder
+      required: true
+    - id: 7
+      name: evaluation_period
+      label: Evaluation period
+      hint: Select the time frame being evaluated
+      type: select_one
+      options:
+      - Last Quarter
+      - Last Half-Year
+      - Last Year
+      - Project Duration
+      required: true
+    - id: 8
+      name: section_header_leadership
+      label: '--- Leadership Competencies ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: communication_effectiveness
+      label: Communication effectiveness rating
+      hint: Rate from 1 (poor) to 10 (excellent)
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: decision_making_skills
+      label: Decision-making skills assessment
+      hint: How well does this leader make decisions?
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 11
+      name: team_development
+      label: Team development and mentoring
+      hint: Rate their ability to develop others
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds Expectations
+      - Meets Expectations
+      - Below Expectations
+      - Significantly Below Expectations
+      required: true
+    - id: 12
+      name: strategic_thinking
+      label: Strategic thinking and vision
+      hint: How well do they align team goals with organizational objectives?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: collaboration_skills
+      label: Collaboration and teamwork abilities
+      hint: Rate their ability to work with others
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: innovation_initiative
+      label: Innovation and initiative demonstrated
+      hint: How often do they propose new ideas or solutions?
+      type: select_multiple
+      options:
+      - Regularly proposes new ideas
+      - Implements process improvements
+      - Encourages creative thinking
+      - Takes calculated risks
+      - Resists change
+      required: false
+    - id: 15
+      name: conflict_resolution
+      label: Conflict resolution effectiveness
+      hint: How well do they handle workplace conflicts?
+      type: select_one
+      options:
+      - Highly Effective
+      - Effective
+      - Moderately Effective
+      - Somewhat Effective
+      - Ineffective
+      required: true
+    - id: 16
+      name: emotional_intelligence
+      label: Emotional intelligence and empathy
+      hint: Rate their awareness of others' emotions and reactions
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: accountability
+      label: Accountability for results
+      hint: How well do they take responsibility for outcomes?
+      type: select_one
+      options:
+      - Always Accountable
+      - Usually Accountable
+      - Sometimes Accountable
+      - Rarely Accountable
+      - Not Accountable
+      required: true
+    - id: 18
+      name: section_header_feedback
+      label: '--- Constructive Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: strengths_identified
+      label: Key leadership strengths observed
+      hint: Describe specific examples of their strengths
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: areas_for_improvement
+      label: Areas for development
+      hint: What should they focus on improving?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: growth_opportunities
+      label: Recommended development opportunities
+      hint: Suggest specific training or experiences
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: leadership_examples
+      label: Specific examples of leadership in action
+      hint: Provide concrete examples of their leadership behaviors
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_performance_rating
+      label: Overall leadership performance rating
+      hint: Rate from 1 (unsatisfactory) to 10 (outstanding)
+      type: integer
+      options: []
+      required: true
+    - id: 24
+      name: promotion_recommendation
+      label: Would you recommend this leader for advancement?
+      hint: Based on your evaluation
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Oppose
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or observations
+      hint: Any other feedback you'd like to share
+      type: text
+      options: []
+      required: false

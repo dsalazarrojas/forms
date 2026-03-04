@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photography Contract Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: services_description
+      label: Description of Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pricing
+      label: Pricing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_terms_description
+      label: Description of Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_expires
+      label: Contract Expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contract_signed
+      label: Contract Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: contract_signed
+      label: Contract Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

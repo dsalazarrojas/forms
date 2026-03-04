@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Billing Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Tricare
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_care_provider
+      label: Primary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

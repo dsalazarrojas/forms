@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: mask_holders_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_select
+      label: Select Product
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: false
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false

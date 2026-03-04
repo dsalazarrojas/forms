@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Social Media Backdrop Order Form
+    pages:
+    - id: 1
+      name: gym_social_media_backdrop_order_form
+      label: backdrop_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gym_logo_order
+      label: gym_logo
+      hint: null
+      type: select_multiple
+      options:
+      - Gym Logo
+      - Branding
+      - Other
+      required: false
+    - id: 3
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - PayPal
+      required: false
+    - id: 6
+      name: shipping_info
+      label: shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false

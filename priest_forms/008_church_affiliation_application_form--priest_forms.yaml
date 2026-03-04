@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Affiliation Application Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_faith_background
+      label: -- Faith Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: religious_tradition
+      label: Religious Tradition
+      hint: null
+      type: select_one
+      options:
+      - Catholic
+      - Protestant
+      - Orthodox
+      - Other Christian
+      - Non-Christian
+      required: true
+    - id: 14
+      name: years_practicing_faith
+      label: Years of Faith Practice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: current_religious_involvement
+      label: Current Religious Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_affiliation_request
+      label: -- Affiliation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: affiliation_type
+      label: Type of Affiliation Sought
+      hint: null
+      type: select_one
+      options:
+      - Full membership
+      - Associate membership
+      - Lay ministry participation
+      - Volunteer involvement
+      - Study group participation
+      - Other
+      required: true
+    - id: 18
+      name: ministry_interests
+      label: Areas of Ministry Interest (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching or education
+      - Music or choir
+      - Community outreach
+      - Social justice
+      - Youth programs
+      - Pastoral care
+      - Administrative support
+      - Facility maintenance
+      required: false
+    - id: 19
+      name: affiliation_reason
+      label: Why Do You Seek Affiliation with Our Church
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_background_check
+      label: -- Background and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Our church may conduct a background check as part of the application process
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 22
+      name: reference_name_1
+      label: Reference Name (1)
+      hint: Please provide a personal or professional reference
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reference_contact_1
+      label: Reference Contact Information (1)
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_commitment
+      label: -- Commitment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: doctrine_agreement
+      label: I agree with the church doctrine and beliefs
+      hint: null
+      type: select_one
+      options:
+      - Fully agree
+      - Mostly agree
+      - Partially agree
+      - Disagree
+      required: true
+    - id: 26
+      name: conduct_agreement
+      label: I agree to conduct myself in accordance with church values
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

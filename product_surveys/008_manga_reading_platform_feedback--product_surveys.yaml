@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manga Reading Platform Feedback
+    pages:
+    - id: 1
+      name: platform_use
+      label: platform_use
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: experience
+      label: manga_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: technical_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: what_can_we_improve
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: time_spent
+      label: average_time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_last_visited
+      label: last_visit_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Pre Op Order Form
+    pages:
+    - id: 1
+      name: chief_complaints
+      label: chief_complaints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: history_of_illness
+      label: history_of_illness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: past_medical_history
+      label: past_medical_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: review_of_systems
+      label: review_of_systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: signature_physician
+      label: signature_physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_surgery
+      label: date_of_surgery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: type_of_surgery
+      label: type_of_surgery
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chainroom User Feedback Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - for follow-up purposes
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up or updates
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: user_since
+        label: How Long Have You Used Chainroom
+        hint: Duration of product usage
+        type: select_one
+        options: ["Less than 1 month", "1-3 months", "3-6 months", "6-12 months", "Over 1 year"]
+        required: true
+      - id: 4
+        name: usage_frequency
+        label: Frequency of Use
+        hint: How often do you use Chainroom
+        type: select_one
+        options: ["Daily", "Multiple times per week", "Weekly", "Multiple times per month", "Monthly or less"]
+        required: true
+      - id: 5
+        name: primary_use_case
+        label: Primary Use Case
+        hint: What do you mainly use Chainroom for
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction with Chainroom
+        hint: Rate your overall satisfaction
+        type: select_one
+        options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+        required: true
+      - id: 7
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy is Chainroom to use
+        type: select_one
+        options: ["Very Easy", "Easy", "Neutral", "Difficult", "Very Difficult"]
+        required: true
+      - id: 8
+        name: feature_completeness
+        label: Does Chainroom Meet Your Needs
+        hint: Are all needed features available
+        type: select_one
+        options: ["Completely", "Mostly", "Partially", "Minimally", "Not at All"]
+        required: true
+      - id: 9
+        name: performance_rating
+        label: Application Performance Rating
+        hint: Speed and reliability
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+        required: true
+      - id: 10
+        name: customer_support
+        label: Customer Support Quality
+        hint: Rate the helpfulness of support
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Poor", "Have not contacted support"]
+        required: false
+      - id: 11
+        name: missing_features
+        label: Missing Features or Improvements
+        hint: What features would you like added
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: main_frustrations
+        label: Main Frustrations or Issues
+        hint: Describe any problems encountered
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: likelihood_recommend
+        label: Likelihood to Recommend Chainroom
+        hint: Would you recommend to others
+        type: select_one
+        options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+        required: true
+      - id: 14
+        name: comparison_alternatives
+        label: How Does Chainroom Compare to Alternatives
+        hint: Better, same, or worse than competitors
+        type: select_one
+        options: ["Much Better", "Better", "About the Same", "Worse", "Much Worse", "Not sure"]
+        required: false
+      - id: 15
+        name: price_value
+        label: Does Price Reflect Value
+        hint: Is pricing fair for what you get
+        type: select_one
+        options: ["Excellent Value", "Good Value", "Fair Value", "Overpriced", "Very Overpriced"]
+        required: true
+      - id: 16
+        name: integration_quality
+        label: Integration with Other Tools
+        hint: How well does Chainroom integrate
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Poor", "Don't use integrations"]
+        required: false
+      - id: 17
+        name: data_security_confidence
+        label: Confidence in Data Security
+        hint: Trust in data protection
+        type: select_one
+        options: ["Very Confident", "Confident", "Neutral", "Concerned", "Very Concerned"]
+        required: true
+      - id: 18
+        name: likelihood_continue
+        label: Likelihood to Continue Using Chainroom
+        hint: Will you keep using this product
+        type: select_one
+        options: ["Very Likely", "Likely", "Undecided", "Unlikely", "Very Unlikely"]
+        required: true
+      - id: 19
+        name: additional_feedback
+        label: Additional Feedback or Comments
+        hint: Any other thoughts about Chainroom
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_session_order_form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_session_details
+      label: Photo Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_options
+      label: Payment Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Credit Card''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - '{''id'': 4, ''label'': ''Cheque''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

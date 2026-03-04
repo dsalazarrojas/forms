@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Diabetes Supply Order Form
+    pages:
+    - id: 1
+      name: ordering_physician_information_section
+      label: -- Ordering Physician Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physician_name
+      label: Physician Name
+      hint: Full name of the ordering physician
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: physician_license_number
+      label: Physician License Number
+      hint: Medical license number of the ordering physician
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hospital_department
+      label: Hospital Department
+      hint: Department placing the order
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hospital_name
+      label: Hospital Name
+      hint: Name of the hospital or medical facility
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete address for delivery of supplies
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Name of the person to contact regarding the order
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: Phone number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: diabetes_supplies_section
+      label: -- Diabetes Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: insulin_types_ordered
+      label: Insulin Types Ordered
+      hint: Which types of insulin are being ordered
+      type: select_multiple
+      options:
+      - Rapid-acting
+      - Short-acting
+      - Intermediate-acting
+      - Long-acting
+      - Ultra-long acting
+      - Premixed
+      - None
+      required: true
+    - id: 11
+      name: insulin_quantities
+      label: Insulin Quantities
+      hint: Quantity needed for each insulin type (in vials or pens)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: glucose_monitoring_supplies
+      label: Glucose Monitoring Supplies
+      hint: Which glucose monitoring supplies are needed
+      type: select_multiple
+      options:
+      - Blood glucose meters
+      - Test strips
+      - Lancets
+      - Control solution
+      - Carrying case
+      - None
+      required: true
+    - id: 13
+      name: continuous_glucose_monitoring_supplies
+      label: Continuous Glucose Monitoring Supplies
+      hint: Which CGM supplies are needed
+      type: select_multiple
+      options:
+      - CGM sensors
+      - Transmitters
+      - Receivers
+      - Calibration supplies
+      - Adhesive patches
+      - None
+    - id: 14
+      name: insulin_delivery_supplies
+      label: Insulin Delivery Supplies
+      hint: Which insulin delivery supplies are needed
+      type: select_multiple
+      options:
+      - Insulin syringes
+      - Insulin pens
+      - Pen needles
+      - Insulin pumps
+      - Infusion sets
+      - Reservoirs
+      - None
+      required: true
+    - id: 15
+      name: diabetes_education_materials
+      label: Diabetes Education Materials
+      hint: Which educational materials are needed
+      type: select_multiple
+      options:
+      - Instructional pamphlets
+      - Injection technique guides
+      - Nutritional guidelines
+      - Monitoring logs
+      - None
+      required: false
+    - id: 16
+      name: special_requirements_section
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: storage_requirements
+      label: Storage Requirements
+      hint: Special storage requirements for the supplies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_timing
+      label: Delivery Timing
+      hint: When do you need the supplies delivered
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 1 week
+      - Within 2 weeks
+      - 'Specific date:'
+      - Standard delivery
+      required: true
+    - id: 19
+      name: budget_approval
+      label: Budget Approval
+      hint: Has the order been approved by the finance department
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending approval
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any special instructions or comments about the order
+      type: text
+      options: []
+      required: false

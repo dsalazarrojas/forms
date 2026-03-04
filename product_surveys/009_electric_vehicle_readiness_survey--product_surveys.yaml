@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''name'', ''label'': ''Name'', ''value'': ''''}'
+      - '{''name'': ''email'', ''label'': ''Email'', ''value'': ''''}'
+      - '{''name'': ''phone'', ''label'': ''Phone'', ''value'': ''''}'
+      required: true
+    - id: 3
+      name: survey_goals
+      label: survey_goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''interest_in_ev'', ''label'': ''Interested in EV'', ''value'':
+        ''''}'
+      - '{''name'': ''charging_feasibility'', ''label'': ''Charging Feasibility'',
+        ''value'': ''''}'
+      - '{''name'': ''outreach_needs'', ''label'': ''Outreach Needs'', ''value'':
+        ''''}'
+      required: true
+    - id: 4
+      name: outreach_plan
+      label: outreach_plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''community_support'', ''label'': ''Community Support'', ''value'':
+        ''''}'
+      - '{''name'': ''marketing_materials'', ''label'': ''Marketing Materials'', ''value'':
+        ''''}'
+      - '{''name'': ''training_programs'', ''label'': ''Training Programs'', ''value'':
+        ''''}'
+      required: true
+    - id: 5
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''vehicle_type'', ''label'': ''Vehicle Type'', ''value'': ''''}'
+      - '{''name'': ''vehicle_model'', ''label'': ''Vehicle Model'', ''value'': ''''}'
+      - '{''name'': ''vehicle_year'', ''label'': ''Vehicle Year'', ''value'': ''''}'
+      required: true
+    - id: 6
+      name: charging_info
+      label: charging_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''charging_frequency'', ''label'': ''Charging Frequency'', ''value'':
+        ''''}'
+      - '{''name'': ''charging_duration'', ''label'': ''Charging Duration'', ''value'':
+        ''''}'
+      - '{''name'': ''charging_location'', ''label'': ''Charging Location'', ''value'':
+        ''''}'
+      required: true
+    - id: 7
+      name: charging_hardware
+      label: charging_hardware
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''charger_type'', ''label'': ''Charger Type'', ''value'': ''''}'
+      - '{''name'': ''charger_model'', ''label'': ''Charger Model'', ''value'': ''''}'
+      - '{''name'': ''charger_location'', ''label'': ''Charger Location'', ''value'':
+        ''''}'
+      required: true
+    - id: 8
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''data_frequency'', ''label'': ''Data Frequency'', ''value'':
+        ''''}'
+      - '{''name'': ''data_duration'', ''label'': ''Data Duration'', ''value'': ''''}'
+      - '{''name'': ''data_location'', ''label'': ''Data Location'', ''value'': ''''}'
+      required: true
+    - id: 9
+      name: outreach_methods
+      label: outreach_methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''social_media'', ''label'': ''Social Media'', ''value'': ''''}'
+      - '{''name'': ''email_marketing'', ''label'': ''Email Marketing'', ''value'':
+        ''''}'
+      - '{''name'': ''online_events'', ''label'': ''Online Events'', ''value'': ''''}'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

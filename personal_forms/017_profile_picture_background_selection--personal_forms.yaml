@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profile Picture Background Selection
+    pages:
+    - id: 1
+      name: background_style
+      label: background_style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: profile_photo
+      label: profile_photo
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I am willing to allow my image to be used for official purposes
+      - I am not willing to allow my image to be used for official purposes
+      required: false

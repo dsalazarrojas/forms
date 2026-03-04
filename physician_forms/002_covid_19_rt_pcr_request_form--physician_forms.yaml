@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 RT PCR Request Form
+    pages:
+    - id: 1
+      name: ordering_physician_name
+      label: Ordering Physician Name
+      hint: Full name with credentials
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: physician_npi_number
+      label: Physician NPI Number
+      hint: National Provider Identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_facility_name
+      label: Medical Facility Name
+      hint: Hospital or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_address
+      label: Facility Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physician_phone
+      label: Physician Phone
+      hint: Direct line or office number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: physician_email
+      label: Physician Email
+      hint: For result delivery
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: patient_full_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: patient_gender
+      label: Patient Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_address
+      label: Patient Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_test
+      label: Reason for Test
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Symptomatic patient
+      - Close contact exposure
+      - Pre-procedure screening
+      - Pre-admission screening
+      - Healthcare worker screening
+      - Travel requirement
+      - Patient request
+      - Public health surveillance
+      - Other
+      required: true
+    - id: 16
+      name: symptom_details
+      label: Symptom Details
+      hint: Describe symptoms if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When symptoms began
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: exposure_date
+      label: Exposure Date
+      hint: Date of known exposure if applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: collection_date
+      label: Preferred Collection Date
+      hint: When should sample be collected
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: collection_time
+      label: Preferred Collection Time
+      hint: Preferred time slot
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: specimen_type
+      label: Specimen Type
+      hint: Type of sample to collect
+      type: select_one
+      options:
+      - Nasopharyngeal swab
+      - Anterior nasal swab
+      - Mid-turbinate swab
+      - Oropharyngeal swab
+      - Saliva
+      required: true
+    - id: 22
+      name: test_priority
+      label: Test Priority
+      hint: Urgency level
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - STAT
+      required: true
+    - id: 23
+      name: insurance_information
+      label: Insurance Information
+      hint: Provider and policy number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_clinical_notes
+      label: Additional Clinical Notes
+      hint: Any relevant medical history or notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_signature_date
+      label: Signature Date
+      hint: Date of ordering
+      type: date
+      options: []
+      required: true

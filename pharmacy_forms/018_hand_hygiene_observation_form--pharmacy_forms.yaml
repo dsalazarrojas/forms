@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: hand_hygiene_observation_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_observed
+      label: date_observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: observed_by
+      label: observed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observed_at
+      label: observed_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: observed_time
+      label: observed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: handwashing_technique
+      label: handwashing_technique
+      hint: null
+      type: select_one
+      options:
+      - Hand Hygiene Hand Sanitizer
+      - Hand Hygiene Gloves
+      - Hand Hygiene Soap
+      required: false
+    - id: 7
+      name: handwashing_technique_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: handwashing_location
+      label: handwashing_location
+      hint: null
+      type: select_multiple
+      options:
+      - Bathroom Sink
+      - Bathroom Sink (Handwashing Station)
+      - Bathroom Sink (Handwashing Station)
+      - Other
+      required: false
+    - id: 9
+      name: handwashing_frequent
+      label: handwashing_frequent
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: handwashing_duration
+      label: handwashing_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: handwashing_frequency
+      label: handwashing_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Before Patient Contact
+      - After Patient Contact
+      - Before and After Patient Contact
+      required: false
+    - id: 12
+      name: observation_completed
+      label: observation_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: observation_completed_by
+      label: observed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: observation_completed_at
+      label: observed_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: handwashing_technique_other
+      label: other_technique
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: handwashing_frequency_other
+      label: other_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: handwashing_duration_other
+      label: other_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: handwashing_location_other
+      label: other_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: handwashing_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: handwashing_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: handwashing_frequency_comments
+      label: comments_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: handwashing_duration_comments
+      label: comments_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: handwashing_location_comments
+      label: comments_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: handwashing_other_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

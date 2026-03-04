@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Reflection Journal
+    pages:
+    - id: 1
+      name: mood_today_label
+      label: Mood Today
+      hint: null
+      type: select_multiple
+      options:
+      - Very Happy
+      - Happy
+      - Neutral
+      - Sad
+      - Angry
+      - Anxious
+      required: false
+    - id: 2
+      name: intensity_today_label
+      label: Intensity Today
+      hint: On a scale of 0-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mood_yesterday_label
+      label: Mood Yesterday
+      hint: null
+      type: select_one
+      options:
+      - Very Happy
+      - Happy
+      - Neutral
+      - Sad
+      - Angry
+      - Anxious
+      required: false
+    - id: 4
+      name: intensity_yesterday_label
+      label: Intensity Yesterday
+      hint: On a scale of 0-10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mood_tomorrow_label
+      label: Mood Tomorrow
+      hint: null
+      type: select_multiple
+      options:
+      - Very Happy
+      - Happy
+      - Neutral
+      - Sad
+      - Angry
+      - Anxious
+      required: false
+    - id: 6
+      name: intensity_tomorrow_label
+      label: Intensity Tomorrow
+      hint: On a scale of 0-10
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mood_why_label
+      label: Mood Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: intensity_why_label
+      label: Intensity Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mood_comments_label
+      label: Mood Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: intensity_comments_label
+      label: Intensity Comments
+      hint: null
+      type: text
+      options: []
+      required: false

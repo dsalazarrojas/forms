@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form Copy Paste Feedback
+    pages:
+    - id: 1
+      name: copy_paste_title
+      label: Copy Paste Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: devices
+      label: Devices
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Mac
+      - Windows
+      - Chrome OS
+      required: true
+    - id: 5
+      name: browsers
+      label: Browsers
+      hint: null
+      type: select_multiple
+      options:
+      - Chrome
+      - Firefox
+      - Edge
+      required: true
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issue_found
+      label: Issue Found
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unable to determine
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: screenshot_url
+      label: Screenshot URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screenshot_file_url
+      label: Screenshot File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 20
+      name: browser_type
+      label: Browser Type
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Safari
+      - Firefox
+      required: false
+    - id: 21
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: screenshot
+      label: Screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issue_description_attachment
+      label: Issue Description Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: issue_relevant
+      label: Issue Relevant
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

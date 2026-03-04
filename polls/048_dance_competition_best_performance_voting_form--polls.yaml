@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Competition Best Performance Voting Form
+    pages:
+    - id: 1
+      name: routine_title
+      label: Routine Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: judge_score
+      label: Judge Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: audience_score
+      label: Audience Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: routine_description
+      label: Routine Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performance_video_url
+      label: Performance Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vote_for
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - Dance Routine A
+      - Dance Routine B
+      - Dance Routine C
+      - Other
+      required: false

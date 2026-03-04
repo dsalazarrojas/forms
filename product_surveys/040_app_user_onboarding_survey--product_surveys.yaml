@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: App User Onboarding Survey
+    pages:
+    - id: 1
+      name: signup_experience_header
+      label: -- Getting Started --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_creation_ease
+      label: How easy was it to create your account?
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tutorial_clarity
+      label: Clarity of the initial walkthrough or tutorial
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Helpful
+      - Neutral
+      - Confusing
+      - Skipped it
+      required: true
+    - id: 4
+      name: onboarding_time
+      label: Time taken to complete the setup process
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 minute
+      - 1-3 minutes
+      - 3-5 minutes
+      - Over 5 minutes
+      required: true
+    - id: 5
+      name: helpful_step
+      label: Which part of the onboarding was most helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confusing_step
+      label: Which part of the onboarding was most confusing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ui_first_impression
+      label: Initial impression of the user interface
+      hint: null
+      type: select_one
+      options:
+      - Modern and Clean
+      - Functional but dated
+      - Overwhelming
+      - Simple and Intuitive
+      required: true
+    - id: 8
+      name: value_prop_understanding
+      label: Is it clear what value this app provides?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very clear
+      - Somewhat clear
+      - No, not yet
+      required: true
+    - id: 9
+      name: primary_goal
+      label: What is your primary goal for using this app?
+      hint: What are you trying to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referral_intent
+      label: Did you invite anyone else to join during signup?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Plan to later
+      required: false
+    - id: 11
+      name: onboarding_improvement
+      label: What could we do to improve the first 5 minutes of your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signup_source
+      label: Where did you first hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false

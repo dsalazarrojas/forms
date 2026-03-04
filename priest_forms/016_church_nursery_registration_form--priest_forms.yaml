@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Nursery Registration Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Child's Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_nickname
+      label: Child's Nickname
+      hint: What they like to be called
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: parent_name
+      label: Parent/Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_phone
+      label: Parent/Guardian Phone Number
+      hint: Best contact during service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: If parents unavailable
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorized_pickup
+      label: Who Is Authorized to Pick Up Your Child
+      hint: List all individuals
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies
+      label: Does Your Child Have Any Allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: allergies_detail
+      label: Please Describe Allergies
+      hint: Include food, medication, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Does Your Child Have Any Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: medical_conditions_detail
+      label: Please Describe Medical Conditions
+      hint: Include any special needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Is Your Child Taking Any Medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: medications_detail
+      label: Please List Medications and Dosages
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions for Caregivers
+      hint: Feeding, napping, comfort items
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: diaper_change
+      label: Does Your Child Need Diaper Changes
+      hint: null
+      type: select_one
+      options:
+      - Yes, will provide diapers
+      - Yes, church provides diapers
+      - No, potty trained
+      required: true
+    - id: 19
+      name: feeding_needs
+      label: Will Your Child Need Feeding
+      hint: null
+      type: select_one
+      options:
+      - Yes, will provide food
+      - Yes, church provides snacks
+      - No feeding needed
+      required: true
+    - id: 20
+      name: nap_time
+      label: Does Your Child Nap Regularly
+      hint: null
+      type: select_one
+      options:
+      - Yes, morning nap
+      - Yes, afternoon nap
+      - No regular nap time
+      - No, does not nap
+      required: true
+    - id: 21
+      name: comfort_items
+      label: Does Your Child Need Comfort Items
+      hint: Blanket, pacifier, toy
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: nursery_schedule
+      label: Which Services Will Your Child Attend Nursery
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sunday Morning Service
+      - Sunday Evening Service
+      - Wednesday Evening
+      - Special Events
+      required: true
+    - id: 23
+      name: illness_policy
+      label: Illness Policy Acknowledgment
+      hint: Child must be fever-free 24 hours before return
+      type: select_one
+      options:
+      - I understand and agree
+      - I have questions
+      required: true
+    - id: 24
+      name: photo_release
+      label: Photo Release for Nursery Activities
+      hint: Photos may be taken for church use
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true
+    - id: 25
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

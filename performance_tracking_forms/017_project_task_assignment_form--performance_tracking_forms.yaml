@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Task Assignment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager_input
+      label: Task Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_owner_input
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_assignee_input
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Joe Doe''}'
+      required: false
+    - id: 5
+      name: project_duedate_input
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_status_input
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 7
+      name: project_priority_input
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_comments_input
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_createdby_input
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_createdat_input
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

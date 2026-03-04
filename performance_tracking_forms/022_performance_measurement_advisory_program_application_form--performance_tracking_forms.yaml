@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance-measurement-advisory-program-application-form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: performance_measurement_period
+      label: Performance Measurement Period
+      hint: null
+      type: select_one
+      options:
+      - quarterly
+      - monthly
+      - yearly
+      required: true
+    - id: 6
+      name: performance_measurement_duration
+      label: Performance Measurement Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: performance_measurement_start_date
+      label: Performance Measurement Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: performance_measurement_end_date
+      label: Performance Measurement End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: performance_measurement_fund_sources
+      label: Performance Measurement Fund Sources
+      hint: null
+      type: select_one
+      options:
+      - government funds
+      - private grants
+      - internal funds
+      required: true
+    - id: 10
+      name: additional_performance_measurement_fund_sources
+      label: Additional Performance Measurement Fund Sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_measurement_objectives
+      label: Performance Measurement Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: performance_measurement_outcomes
+      label: Performance Measurement Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_measurement_criteria
+      label: Performance Measurement Criteria
+      hint: null
+      type: select_one
+      options:
+      - cost savings
+      - customer satisfaction
+      - efficiency gains
+      - productivity increases
+      required: true

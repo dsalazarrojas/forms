@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Seller Payment Setup
+    pages:
+    - id: 1
+      name: marketplace_seller_payment_setup_form
+      label: marketplace_seller_payment_setup_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_details
+      label: seller_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payout_preferences
+      label: payout_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit_card'', ''label'': ''credit_card''}'
+      - '{''id'': 2, ''name'': ''bank_transfer'', ''label'': ''bank_transfer''}'
+      - '{''id'': 3, ''name'': ''paypal'', ''label'': ''paypal''}'
+      - '{''id'': 4, ''name'': ''stripe'', ''label'': ''stripe''}'
+      required: true
+    - id: 5
+      name: payment_terms_and_conditions
+      label: payment_terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bank_account_number
+      label: bank_account_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: bank_account_name
+      label: bank_account_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state_province
+      label: state_province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bank_account_routine
+      label: bank_account_routine
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''routine_1'', ''label'': ''routine_1''}'
+      - '{''id'': 2, ''name'': ''routine_2'', ''label'': ''routine_2''}'
+      required: false
+    - id: 16
+      name: payment_terms_date
+      label: payment_terms_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms_time
+      label: payment_terms_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms_note
+      label: payment_terms_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_of_service_agreement
+      label: terms_of_service_agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''accepted'', ''label'': ''accepted''}'
+      - '{''id'': 2, ''name'': ''not_accepted'', ''label'': ''not_accepted''}'
+      required: true
+    - id: 21
+      name: payment_terms_and_conditions_agreement
+      label: payment_terms_and_conditions_agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''accepted'', ''label'': ''accepted''}'
+      - '{''id'': 2, ''name'': ''not_accepted'', ''label'': ''not_accepted''}'
+      required: true
+    - id: 22
+      name: bank_details
+      label: bank_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''bank_details_1'', ''label'': ''bank_details_1''}'
+      - '{''id'': 2, ''name'': ''bank_details_2'', ''label'': ''bank_details_2''}'
+      required: true
+    - id: 23
+      name: bank_routing
+      label: bank_routing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: routing_rules
+      label: routing_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: text
+      options: []
+      required: false

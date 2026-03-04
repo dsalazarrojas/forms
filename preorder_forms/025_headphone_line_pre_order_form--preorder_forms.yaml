@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headphone Line Pre Order Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: shipping_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: shipping_notes
+      label: Shipping Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 121, ''name'': ''Online Payment'', ''label'': ''Online Payment''}'
+      - '{''id'': 122, ''name'': ''Offline Payment'', ''label'': ''Offline Payment''}'
+      required: false
+    - id: 13
+      name: preorder_status
+      label: Pre-Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 131, ''name'': ''Pre-Order Available'', ''label'': ''Pre-Order Available''}'
+      - '{''id'': 132, ''name'': ''Pre-Order Sold Out'', ''label'': ''Pre-Order Sold
+        Out''}'
+      - '{''id'': 133, ''label'': ''Pre-Order Canceled''}'
+      - '{''id'': 134, ''label'': ''Pre-Order Not Available''}'
+      required: false
+    - id: 14
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_notes
+      label: Product Notes
+      hint: null
+      type: text
+      options: []
+      required: false

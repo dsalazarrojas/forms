@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metro Security Report Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspect_name
+      label: Suspect Name
+      hint: Enter suspect's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crime_date
+      label: Crime Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: crime_time
+      label: Crime Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: crime_location
+      label: Crime Location
+      hint: Enter the location of the crime
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: crime_description
+      label: Crime Description
+      hint: Enter a detailed description of the crime
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspect_demeanor
+      label: Suspect Demeanor
+      hint: null
+      type: select_one
+      options:
+      - Aggressive
+      - Belligerent
+      - Combative
+      - Hostile
+      - Passive
+      - Sedate
+      required: false
+    - id: 9
+      name: witness_name
+      label: Witness Name
+      hint: Enter witness's name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_address
+      label: Witness Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_phone
+      label: Witness Phone
+      hint: Enter witness's phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_officer_name
+      label: Reporting Officer Name
+      hint: Enter officer's name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_officer_title
+      label: Reporting Officer Title
+      hint: Enter officer's title
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

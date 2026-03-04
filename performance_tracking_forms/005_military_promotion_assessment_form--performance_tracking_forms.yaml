@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Promotion Assessment Form
+    pages:
+    - id: 1
+      name: performance_assessment
+      label: Performance Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: officer_evaluation
+      label: Officer Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: soldier_evaluation
+      label: Soldier Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: promotion_recommendation
+      label: Promotion Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: promotion_recommendation_other
+      label: Other Promotion Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: promotion_recommendation_other_description
+      label: Other Promotion Recommendation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: promotion_recommendation_other_date
+      label: Other Promotion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: promotion_recommendation_other_rating
+      label: Other Promotion Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: officer_rank
+      label: Officer Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: officer_service_number
+      label: Officer Service Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: officer_years_of_service
+      label: Officer Years of Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: officer_date_of_service_start
+      label: Officer Date of Service Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: officer_date_of_service_end
+      label: Officer Date of Service End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: officer_service_hours
+      label: Officer Service Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: officer_performance_evaluation
+      label: Officer Performance Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfactory
+      - Needs Improvement
+      - Below Expectations
+      - Unsatisfactory
+      required: true
+    - id: 18
+      name: officer_performance_evaluation_details
+      label: Officer Performance Evaluation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: officer_comments
+      label: Officer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: soldier_name
+      label: Soldier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: soldier_rank
+      label: Soldier Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: soldier_years_of_service
+      label: Soldier Years of Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: soldier_date_of_service_start
+      label: Soldier Date of Service Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: soldier_date_of_service_end
+      label: Soldier Date of Service End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: soldier_service_hours
+      label: Soldier Service Hours
+      hint: null
+      type: number
+      options: []
+      required: true

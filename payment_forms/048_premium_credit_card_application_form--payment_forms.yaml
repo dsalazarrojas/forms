@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Premium Credit Card Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: card_details
+      label: Card Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: bank_info
+      label: Bank Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed''}'
+      - '{''id'': 2, ''label'': ''Unemployed''}'
+      - '{''id'': 3, ''label'': ''Self-Employed''}'
+      - '{''id'': 4, ''label'': ''Student''}'
+      required: false
+    - id: 6
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full-time''}'
+      - '{''id'': 2, ''label'': ''Part-time''}'
+      - '{''id'': 3, ''label'': ''Freelance''}'
+      required: false
+    - id: 7
+      name: income
+      label: Monthly Income
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1,000 - 2,000''}'
+      - '{''id'': 2, ''label'': ''2,000 - 5,000''}'
+      - '{''id'': 3, ''label'': ''5,000 - 8,000''}'
+      - '{''id'': 4, ''label'': ''8,000 - 10,000''}'
+      required: false
+    - id: 8
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Artist''}'
+      - '{''id'': 2, ''label'': ''Doctor''}'
+      - '{''id'': 3, ''label'': ''Engineer''}'
+      - '{''id'': 4, ''label'': ''Lawyer''}'
+      - '{''id'': 5, ''label'': ''Student''}'
+      required: false
+    - id: 9
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': "Bachelor''s Degree"}'
+      - '{''id'': 2, ''label'': "Master''s Degree"}'
+      - '{''id'': 3, ''label'': ''Doctoral Degree''}'
+      - '{''id'': 4, ''label'': ''High School Diploma''}'
+      - '{''id'': 5, ''label'': ''Some High School''}'
+      required: false
+    - id: 10
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''600 - 700''}'
+      - '{''id'': 2, ''label'': ''700 - 800''}'
+      - '{''id'': 3, ''label'': ''800 - 900''}'
+      - '{''id'': 4, ''label'': ''900 - 1000''}'
+      required: false
+    - id: 11
+      name: charting
+      label: Charting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: driver_license
+      label: Driver's License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 23
+      name: bank_statement
+      label: Bank Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: credit_report
+      label: Credit Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: proof_of_employment
+      label: Proof of Employment
+      hint: null
+      type: text
+      options: []
+      required: false

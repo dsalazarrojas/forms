@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Training Course Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: security_guard_license_number
+      label: Security Guard License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_course_type
+      label: Training Course Type
+      hint: null
+      type: select_one
+      options:
+      - Basic Training Course
+      - Advanced Training Course
+      - Refresher Training Course
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of the person to contact in case of an emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      - Spouse
+      - Son
+      - Daughter
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter the phone number of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Enter the email of the emergency contact
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: training_course_start_date
+      label: Training Course Start Date
+      hint: Enter the start date of the training course
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: training_course_end_date
+      label: Training Course End Date
+      hint: Enter the end date of the training course
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: training_facility_address
+      label: Training Facility Address
+      hint: Enter the address of the training facility
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_course_cost
+      label: Training Course Cost
+      hint: Enter the cost of the training course
+      type: number
+      options: []
+      required: false

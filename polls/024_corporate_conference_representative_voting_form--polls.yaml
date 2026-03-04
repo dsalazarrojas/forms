@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Conference Representative Voting Form
+    pages:
+    - id: 1
+      name: delegate_name
+      label: Delegate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vote
+      label: Vote
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly Agree''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Not Sure''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Strongly Disagree''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false

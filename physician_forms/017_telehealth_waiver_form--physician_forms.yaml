@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Waiver Form
+    pages:
+    - id: 1
+      name: telehealth_waiver_form
+      label: telehealth waiver form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: patient email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: patient phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: physician_name
+      label: physician name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: date_waiver_signed
+      label: date waiver signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_waiver_effective
+      label: date waiver effective
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: physician_signature
+      label: physician signature
+      hint: null
+      type: select_multiple
+      options:
+      - physician
+      - MD
+      - DO
+      required: true
+    - id: 10
+      name: waiver_type
+      label: waiver type
+      hint: null
+      type: select_one
+      options:
+      - HIPAA
+      - State
+      - Other
+      required: true
+    - id: 11
+      name: reason_for_waiver
+      label: reason for waiver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: waiver_terms
+      label: waiver terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_form_submitted
+      label: date form submitted
+      hint: null
+      type: date
+      options: []
+      required: true

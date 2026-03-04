@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Photography Booking Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number for session coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: baby_name
+      label: Baby Name
+      hint: Name of baby for session
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: baby_age
+      label: Baby Age
+      hint: Select age range
+      type: select_one
+      options:
+      - Newborn, 0 to 2 weeks
+      - Infant, 2 weeks to 3 months
+      - Baby, 3 to 6 months
+      - Baby, 6 to 12 months
+      - Toddler, 1 to 2 years
+      - Toddler, 2 plus years
+      required: true
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: Select photography session type
+      type: select_one
+      options:
+      - Newborn Studio
+      - Milestone Session
+      - First Birthday
+      - Family with Baby
+      - Maternity and Newborn
+      - Outdoor Session
+      required: true
+    - id: 7
+      name: preferred_date
+      label: Preferred Session Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: alternative_date
+      label: Alternative Date
+      hint: Backup date option
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: When is baby most cooperative
+      type: select_one
+      options:
+      - Morning, 8 AM to 11 AM
+      - Midday, 11 AM to 2 PM
+      - Afternoon, 2 PM to 5 PM
+      - Evening, 5 PM to 8 PM
+      - Flexible
+      required: true
+    - id: 10
+      name: session_location
+      label: Session Location Preference
+      hint: Where would you like photos taken
+      type: select_one
+      options:
+      - Studio
+      - My Home
+      - Outdoor Location
+      - Other Location
+      required: true
+    - id: 11
+      name: package_selection
+      label: Photography Package
+      hint: Select desired package
+      type: select_one
+      options:
+      - Basic, 1 hour, 10 digital images
+      - Standard, 2 hours, 25 digital images
+      - Premium, 3 hours, 50 digital images, prints
+      - Deluxe, Full session, all digital images, album
+      - Custom Package
+      required: true
+    - id: 12
+      name: props_provided
+      label: Props and Outfits
+      hint: What props will be provided
+      type: select_one
+      options:
+      - Photographer provides all
+      - I will bring some items
+      - I will provide everything
+      - Need guidance
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests or Themes
+      hint: Any specific themes or ideas
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: siblings_included
+      label: Will Siblings Be Included
+      hint: Will other children be in photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: number_of_siblings
+      label: Number of Siblings
+      hint: How many siblings will participate
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: parents_in_photos
+      label: Will Parents Be in Photos
+      hint: Would you like family portraits included
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 17
+      name: baby_health_notes
+      label: Baby Health or Special Needs Notes
+      hint: Any allergies, sensitivities, or special considerations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Social media
+      - Website
+      - Friend or family referral
+      - Previous client
+      - Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: deposit_payment
+      label: Deposit Payment
+      hint: Deposit required to secure booking
+      type: select_one
+      options:
+      - Yes, I will pay deposit
+      - No, not ready to book
+      required: true
+    - id: 20
+      name: booking_date
+      label: Booking Date
+      hint: Date of this reservation
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Photography Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: session date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: customer_phone
+      label: customer phone
+      hint: Please provide your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: session time
+      hint: Please choose your preferred session time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

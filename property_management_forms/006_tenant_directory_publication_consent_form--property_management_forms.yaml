@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Directory Publication Consent Form
+    pages:
+    - id: 1
+      name: tenant_id
+      label: Tenant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant_directory_publication_consent_form_2
+      label: Publication Consent
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: tenant_directory_publication_consent_form_3
+      label: Additional Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_directory_publication_consent_form_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: tenant_directory_publication_consent_form_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_directory_publication_consent_form_8
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tenant_directory_publication_consent_form_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

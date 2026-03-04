@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Review Publication Consent Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: testimonial
+      label: Testimonial
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: publish_on_websites
+      label: Publish on Websites
+      hint: Select all websites you'd like to share your testimonial on
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      required: false
+    - id: 6
+      name: publish_on_social_media
+      label: Publish on Social Media
+      hint: Select all social media you'd like to share your testimonial on
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      required: false
+    - id: 7
+      name: date_published
+      label: Date Published
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: trainer_info
+      label: Trainer Info
+      hint: This will be shared with the trainer
+      type: text
+      options: []
+      required: true

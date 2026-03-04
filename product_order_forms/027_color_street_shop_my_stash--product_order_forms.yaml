@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Shop My Stash
+    pages:
+    - id: 1
+      name: section_stash_info
+      label: -- Shop My Personal Stash --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stash_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stash_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: stash_mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_stash_selection
+      label: -- Select from Available Stock --
+      hint: Items are first come first served
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stash_items_list
+      label: List the set names you would like to purchase
+      hint: Check current stock list for availability
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: stash_total_sets
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: stash_deal_check
+      label: Are you using the B3G1 Deal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: section_stash_billing
+      label: -- Billing and Checkout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: stash_paypal_email
+      label: PayPal Email for Invoicing
+      hint: If different from contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: stash_shipping_speed
+      label: Shipping Choice
+      hint: null
+      type: select_one
+      options:
+      - Standard ($4.00)
+      - Priority ($8.00)
+      - Local Pick-up (Free)
+      required: true
+    - id: 12
+      name: section_stash_inquiries
+      label: -- Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: stash_hostess_interest
+      label: Are you interested in hosting an online party for free nails?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe later
+      required: true
+    - id: 14
+      name: stash_stylist_interest
+      label: Are you interested in learning about being a Stylist?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: stash_referral
+      label: Who is your hostess or stylist?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stash_comments
+      label: Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

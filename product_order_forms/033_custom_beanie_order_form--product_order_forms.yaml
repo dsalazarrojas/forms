@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Beanie Order Form
+    pages:
+    - id: 1
+      name: custom_beanie_order_form
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Beige
+      - Blue
+      - Red
+      required: false
+    - id: 3
+      name: order_details_2
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 4
+      name: customer
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_first_name
+      label: First Name
+      hint: Enter customer's first name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_last_name
+      label: Last Name
+      hint: Enter customer's last name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address_1
+      label: Shipping Address 1
+      hint: Enter shipping address 1
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_address_2
+      label: Shipping Address 2
+      hint: Enter shipping address 2
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 12
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

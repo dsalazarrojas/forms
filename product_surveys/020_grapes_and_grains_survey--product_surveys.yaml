@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grapes And Grains Survey
+    pages:
+    - id: 1
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_beverage
+      label: favorite_beverage
+      hint: null
+      type: select_one
+      options:
+      - Grapes
+      - Grapes
+      - Grapes
+      - Grains
+      - Grains
+      - Grains
+      required: false
+    - id: 3
+      name: wine_type
+      label: wine_type
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Red
+      - Rosé
+      - Sparkling
+      - Fortified
+      required: false
+    - id: 4
+      name: beer_type
+      label: beer_type
+      hint: null
+      type: select_one
+      options:
+      - Lager
+      - Ale
+      - IPA
+      - Stout
+      - Sour
+      - Wheat
+      - Seltzer
+      required: false
+    - id: 5
+      name: favorite_wine_color
+      label: favorite_wine_color
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Dark
+      - Red
+      - White
+      - Pink
+      required: false
+    - id: 6
+      name: favorite_beer_color
+      label: favorite_beer_color
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Dark
+      - Amber
+      - Gold
+      required: false
+    - id: 7
+      name: favorite_seltzer_color
+      label: favorite_seltzer_color
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Light
+      - Dark
+      required: false
+    - id: 8
+      name: how_do_you_prefer_your_beverage
+      label: how_do_you_prefer_your_beverage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: how_do_you_like_your_beverage
+      label: how_do_you_like_your_beverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_do_you_pronounce_your_fav_beverage
+      label: how_do_you_pronounce_your_fav_beverage
+      hint: null
+      type: text
+      options: []
+      required: false

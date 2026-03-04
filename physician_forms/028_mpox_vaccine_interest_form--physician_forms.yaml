@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Interest Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_history
+      label: Health History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: potential_exposure
+      label: Potential Exposure
+      hint: null
+      type: select_one
+      options:
+      - Risk Category
+      - No Risk Category
+      - Not Sure
+      required: true
+    - id: 4
+      name: vaccine_interest
+      label: Vaccine Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Interested
+      - Not Interested
+      - Undecided
+      required: true
+    - id: 5
+      name: eligibility
+      label: Eligibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_recommended
+      label: Doctor Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone_number
+      label: Doctor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: date_last_seen_doctor
+      label: Date Last Seen Doctor
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_interest
+      label: Reason for Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vaccine_side_effects
+      label: Vaccine Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 20
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: vaccine_availability
+      label: Vaccine Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Not Sure
+      required: false
+    - id: 22
+      name: vaccine_availability_date
+      label: Vaccine Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vaccine_availability_time
+      label: Vaccine Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: next_vaccine_availability
+      label: Next Vaccine Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: next_vaccine_availability_time
+      label: Next Vaccine Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false

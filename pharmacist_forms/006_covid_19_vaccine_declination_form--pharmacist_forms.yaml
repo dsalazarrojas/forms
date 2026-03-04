@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Declination Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: declination_date
+      label: Date of Declination
+      hint: When declining the vaccine
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_type_offered
+      label: Vaccine Type Offered
+      hint: null
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Other
+      required: true
+    - id: 8
+      name: dose_number
+      label: Dose Number Declined
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Third dose (booster)
+      - Fourth dose (booster)
+      - Additional booster
+      required: true
+    - id: 9
+      name: declination_reason
+      label: Reason for Declining Vaccination
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Medical contraindication
+      - Allergies
+      - Personal choice
+      - Religious or moral beliefs
+      - Concerns about vaccine safety
+      - Previous adverse reaction
+      - Other medical reason
+      required: true
+    - id: 10
+      name: reason_details
+      label: Detailed Explanation
+      hint: Provide more information about your decision
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risks_discussed
+      label: Risks of not being vaccinated have been discussed
+      hint: Understand increased COVID-19 infection risk
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: benefits_discussed
+      label: Benefits of vaccination have been explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: questions_answered
+      label: All questions were answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: informed_decision
+      label: This is an informed voluntary decision
+      hint: I understand the consequences of declining
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I do not confirm
+      required: true
+    - id: 15
+      name: future_reconsideration
+      label: Would reconsider vaccination in the future
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 16
+      name: signature
+      label: Patient Signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: witness_name
+      label: Witness Name
+      hint: Healthcare provider or witness name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name as witness signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: facility_name
+      label: Facility Name
+      hint: Where declination occurred
+      type: text
+      options: []
+      required: false

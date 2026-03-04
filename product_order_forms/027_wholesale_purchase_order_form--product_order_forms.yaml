@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: wholesale_purchase_order_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_po
+      label: Customer PO
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: items
+      label: Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_number
+      label: Item Number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Photography Contract
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_count
+      label: photo count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shoot_date
+      label: shoot date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: photo_type
+      label: photo type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: photo_size
+      label: photo size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: photo_location
+      label: photo location
+      hint: null
+      type: text
+      options: []
+      required: false

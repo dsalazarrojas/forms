@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity App Recommendation Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_preferences
+      label: What are your preferred tools and devices?
+      hint: null
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Apps
+      - Other
+      required: false
+    - id: 3
+      name: app_features
+      label: Which features are you looking for in a productivity app?
+      hint: null
+      type: select_one
+      options:
+      - Task management
+      - Project management
+      - Time tracking
+      - Organization and focus
+      required: false
+    - id: 4
+      name: app_preferences
+      label: What are your app preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - Android
+      - iOS
+      - Web
+      - Desktop
+      required: false
+    - id: 5
+      name: device_preferences
+      label: What devices do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_hours
+      label: What hours do you work?
+      hint: null
+      type: time
+      options: []
+      required: false

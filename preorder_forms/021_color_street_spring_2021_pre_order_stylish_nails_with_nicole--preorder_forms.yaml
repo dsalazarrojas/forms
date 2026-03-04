@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street SPRING 2021 PRE ORDER - Stylish Nails With Nicole
+    pages:
+    - id: 1
+      name: section_nicole_welcome
+      label: -- Stylish Nails With Nicole - Spring 2021 Launch --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nicole_customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nicole_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nicole_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_nicole_spring_sets
+      label: -- Spring 2021 Collection Selections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nicole_spring_solids
+      label: 2021 Spring Solids
+      hint: null
+      type: select_multiple
+      options:
+      - Himalayan Salt
+      - Mint to Be
+      - Lavender Skies
+      - Sunflower Gold
+      - Key West Is Best
+      required: false
+    - id: 7
+      name: nicole_spring_glitters
+      label: 2021 Spring Glitters
+      hint: null
+      type: select_multiple
+      options:
+      - Pink Peony
+      - Robin's Egg
+      - Spring Fling
+      - Dew Drops
+      - Fort Worth It
+      required: false
+    - id: 8
+      name: nicole_spring_designs
+      label: 2021 Spring Designs
+      hint: null
+      type: select_multiple
+      options:
+      - Butterfly Garden
+      - Rain Showers
+      - April Blossoms
+      - Pastel Picnic
+      required: false
+    - id: 9
+      name: nicole_b3g1_status
+      label: Are you doing a B3G1 (Buy 3 Get 1 Free) order?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: nicole_total_sets
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_nicole_checkout
+      label: -- Checkout Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: nicole_payment_method
+      label: How will you pay?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Zelle
+      required: true
+    - id: 13
+      name: nicole_payment_handle
+      label: Payment Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: nicole_shipping_preference
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard ($4.00)
+      - Priority ($8.50)
+      - Pick-up (Free)
+      required: true
+    - id: 15
+      name: nicole_hostess
+      label: Hostess Name (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nicole_notes
+      label: Anything else for Nicole?
+      hint: null
+      type: text
+      options: []
+      required: false

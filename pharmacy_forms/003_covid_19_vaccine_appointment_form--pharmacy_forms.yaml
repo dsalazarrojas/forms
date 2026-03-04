@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: As it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: For appointment confirmation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: Select a date from the calendar
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Select from available time slots
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_type_preference
+      label: COVID-19 Vaccine Type Preference
+      hint: Indicate if you have a preference
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No preference
+      required: true
+    - id: 8
+      name: dose_type
+      label: Which Dose Is This
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Second booster dose
+      required: true
+    - id: 9
+      name: previous_vaccine_date
+      label: Date of Previous COVID Vaccine
+      hint: Leave blank if first dose
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Known Allergies
+      hint: Including vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Any conditions that might affect vaccination
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - High blood pressure
+      - Respiratory disease
+      - Immunocompromised
+      - Pregnant
+      - None
+      required: false
+    - id: 12
+      name: medications
+      label: Current Medications
+      hint: List any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recent_vaccine
+      label: Other Vaccines Received Recently
+      hint: Within the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: recent_illness
+      label: Recent COVID-19 Infection
+      hint: Within the past 3 months
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 15
+      name: fever
+      label: Current Fever or Illness
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_id
+      label: Insurance ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent_information
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: address
+      label: Street Address
+      hint: Where you live
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: false

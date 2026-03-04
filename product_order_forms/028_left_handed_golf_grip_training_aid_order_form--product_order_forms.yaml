@@ -1,0 +1,62 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: left_handed_golf_grip_training_aid_order_form
+    pages:
+    - id: 1
+      name: product_selection
+      label: Product selection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 2
+      name: shipping_preferences
+      label: Shipping preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 3
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Address Line 1'', ''value'': ''addressLine1''}'
+      - '{''id'': 2, ''label'': ''Address Line 2'', ''value'': ''addressLine2''}'
+      - '{''id'': 3, ''label'': ''Postal Code'', ''value'': ''postcode''}'
+      - '{''id'': 4, ''label'': ''Phone Number'', ''value'': ''phoneNumber''}'
+      - '{''id'': 5, ''label'': ''Email'', ''value'': ''email''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Talker Frame Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_size
+      label: product_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 3
+      name: product_quantity
+      label: product_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_design
+      label: product_design
+      hint: null
+      type: select_multiple
+      options:
+      - color
+      - pattern
+      - design
+      required: true
+    - id: 5
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_name_2
+      label: product_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_size_2
+      label: product_size_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: product_quantity_2
+      label: product_quantity_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: product_design_2
+      label: product_design_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: order_notes_2
+      label: order_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date_2
+      label: order_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: order_time_2
+      label: order_time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: customer_email_2
+      label: customer_email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: customer_phone_2
+      label: customer_phone_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to_2
+      label: assigned_to_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: assigned_tool_2
+      label: assigned_tool_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

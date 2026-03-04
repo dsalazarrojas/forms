@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Store Chatbot Survey
+    pages:
+    - id: 1
+      name: customer_preferences
+      label: Customer Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Clothing
+      - Accessories
+      - Shoes
+      - Bags
+      - Jewelry
+      required: false
+    - id: 5
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: preferred_color
+      label: Preferred Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: income_range
+      label: Income Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - Doctor
+      required: false
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self Employed
+      - Retired
+      required: false
+    - id: 12
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 13
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_store_type
+      label: Preferred Store Type
+      hint: null
+      type: select_multiple
+      options:
+      - Online Store
+      - Retail Store
+      - Outlet Store
+      required: false
+    - id: 15
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      - Daily
+      required: false
+    - id: 16
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Snapchat
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

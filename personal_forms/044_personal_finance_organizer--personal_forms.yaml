@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_finance_organizer
+    pages:
+    - id: 1
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: savings_goals
+      label: Savings Goals
+      hint: null
+      type: select_one
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 4
+      name: money_priorities
+      label: Money Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Priority 1
+      - Priority 2
+      - Priority 3
+      required: false
+    - id: 5
+      name: income_type
+      label: Income Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

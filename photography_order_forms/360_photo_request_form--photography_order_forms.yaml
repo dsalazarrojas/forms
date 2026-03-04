@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Photo Request Form
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will send confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, for urgent updates
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order date
+      hint: Date of order submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_product
+      label: '--- Product Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_name
+      label: Item or product name
+      hint: Name of the product to capture
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Enter number of items
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit price
+      hint: Price per item in USD
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: photo_style
+      label: Photo style
+      hint: Choose the primary style for the shoot
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Landscape
+      - Portrait
+      - Action
+      required: true
+    - id: 11
+      name: camera_type
+      label: Camera type
+      hint: Preferred camera for the shoot
+      type: select_one
+      options:
+      - DSLR
+      - Mirrorless
+      - Smartphone
+      - Drone
+      required: false
+    - id: 12
+      name: resolution
+      label: Resolution
+      hint: Desired image resolution
+      type: select_one
+      options:
+      - 4K
+      - 1080p
+      - 720p
+      required: false
+    - id: 13
+      name: color_scheme
+      label: Color scheme
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Color
+      - Black & White
+      - Sepia
+      - HDR
+      - Vintage
+      required: false
+    - id: 14
+      name: shoot_location
+      label: Shoot location
+      hint: Address or description of location
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_delivery
+      label: '--- Delivery Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose how you want the photos delivered
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 17
+      name: delivery_address
+      label: Delivery address
+      hint: Provide if shipping is selected
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date
+      label: Requested delivery date
+      hint: Preferred date for receiving photos
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: requested_delivery_time
+      label: Preferred delivery time
+      hint: Time of day you prefer the delivery
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Any specific requests for the shoot
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_payment
+      label: '--- Payment Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 23
+      name: payment_terms
+      label: Payment terms
+      hint: Select preferred payment arrangement
+      type: select_one
+      options:
+      - Prepaid
+      - Postpaid
+      - Credit
+      required: false
+    - id: 24
+      name: section_header_additional
+      label: '--- Additional Notes ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information or questions
+      type: text
+      options: []
+      required: false

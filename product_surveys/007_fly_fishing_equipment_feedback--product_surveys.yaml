@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fly Fishing Equipment Feedback
+    pages:
+    - id: 1
+      name: brand
+      label: Brand
+      hint: null
+      type: select_one
+      options:
+      - Orvis
+      - Simms
+      - Other
+      required: true
+    - id: 2
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Rod
+      - Reel
+      - Fishing Waders
+      - Other
+      required: true
+    - id: 3
+      name: gear_type
+      label: Gear Type
+      hint: null
+      type: select_multiple
+      options:
+      - Rod
+      - Reel
+      - Fishing Waders
+      required: true
+    - id: 4
+      name: gear_condition
+      label: Gear Condition
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      - Unknown
+      required: true
+    - id: 5
+      name: issue
+      label: Issue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 6
+      name: comment
+      label: Comment
+      hint: Please provide details about your experience
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: How Satisfied Are You?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

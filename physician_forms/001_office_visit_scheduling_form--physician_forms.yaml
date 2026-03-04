@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Visit Scheduling Form
+    pages:
+    - id: 1
+      name: office_visit_scheduling_form
+      label: Scheduling Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: office_visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: office_visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: office_visit_doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: office_visit_patient_name
+      label: Patient's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: office_visit_contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: office_visit_additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: office_visit_note
+      label: Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: office_visit_schedule
+      label: Schedule Visit
+      hint: null
+      type: select_one
+      options:
+      - 9-10am
+      - 10-11am
+      - 11-12pm
+      - 12-1pm
+      - 1-2pm
+      - 2-3pm
+      - 3-4pm
+      - 4-5pm
+      - 5-6pm
+      - 6-7pm
+      - 7-8pm
+      - 8-9pm
+      - 9-10pm
+      required: true
+    - id: 10
+      name: office_visit_additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: office_visit_responsible_party
+      label: Responsible Party
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Parent
+      - Guardian
+      - Spouse
+      - Other
+      required: true
+    - id: 12
+      name: office_visit_responsible_party_other
+      label: Other Party Information
+      hint: null
+      type: text
+      options: []
+      required: false

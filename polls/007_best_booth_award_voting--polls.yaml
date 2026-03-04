@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Booth Award Voting
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Which company do you work for
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: event_name
+        label: Event Name
+        hint: Which event or trade show are you attending
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: event_date
+        label: Event Date
+        hint: When did the event take place
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: booth_number
+        label: Booth Number or Location
+        hint: What is the booth number you are voting for
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: company_represented
+        label: Company Represented at Booth
+        hint: Which company does this booth represent
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: booth_category
+        label: Booth Category
+        hint: Select the category for this booth
+        type: select_one
+        options:
+          - Best Overall Design
+          - Most Innovative Display
+          - Best Interactive Experience
+          - Best Product Demonstration
+          - Most Engaging Staff
+          - Best Use of Technology
+          - Best Sustainable Booth
+          - People Choice Award
+        required: true
+      - id: 9
+        name: design_rating
+        label: Booth Design Rating
+        hint: How would you rate the overall booth design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: visual_appeal
+        label: Visual Appeal Rating
+        hint: Rate the visual attractiveness of the booth
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: staff_engagement
+        label: Staff Engagement Rating
+        hint: How engaging and helpful was the booth staff
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: interactivity
+        label: Interactivity and Engagement
+        hint: How interactive was the booth experience
+        type: select_one
+        options:
+          - Very Interactive
+          - Somewhat Interactive
+          - Neutral
+          - Not Very Interactive
+          - Not Interactive at All
+        required: true
+      - id: 13
+        name: memorable_features
+        label: Most Memorable Features
+        hint: What stood out most about this booth
+        type: select_multiple
+        options:
+          - Eye-catching Design
+          - Interactive Displays
+          - Product Demonstrations
+          - Giveaways and Promotions
+          - Knowledgeable Staff
+          - Technology Integration
+          - Comfortable Space
+          - Clear Branding
+          - Unique Concept
+          - Other
+        required: true
+      - id: 14
+        name: visit_experience
+        label: Overall Visit Experience
+        hint: How would you describe your experience at this booth
+        type: select_one
+        options:
+          - Exceptional
+          - Very Good
+          - Good
+          - Average
+          - Below Average
+        required: true
+      - id: 15
+        name: would_visit_again
+        label: Would You Visit This Booth Again
+        hint: If this booth were at a future event, would you visit again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 16
+        name: why_this_booth
+        label: Why Did You Choose This Booth
+        hint: What made you vote for this particular booth
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about this booth
+        type: text
+        options: []
+        required: false

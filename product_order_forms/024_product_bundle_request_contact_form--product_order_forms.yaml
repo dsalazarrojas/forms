@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Bundle Request Contact Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: use_cases
+      label: Use Cases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_qualifier
+      label: Lead Qualifier
+      hint: null
+      type: select_one
+      options:
+      - High-qualified lead
+      - Low-qualified lead
+      - Unqualified lead
+      required: true
+    - id: 4
+      name: resources
+      label: Resources
+      hint: null
+      type: select_one
+      options:
+      - Resources 1
+      - Resources 2
+      - Resources 3
+      required: true
+    - id: 5
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Other
+      required: true
+    - id: 6
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: note
+      options: []
+      required: true

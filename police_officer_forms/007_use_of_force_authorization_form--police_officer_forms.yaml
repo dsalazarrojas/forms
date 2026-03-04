@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: form_id
+      label: form id
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: officer_name
+      label: officer name
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident date
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_of_day
+      label: time of day
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_name
+      label: suspect name
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_name_alt
+      label: suspect other names
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_name_1
+      - suspect_name_2
+      - suspect_name_3
+      required: false
+    - id: 7
+      name: force_level
+      label: force level
+      hint: <text or null>
+      type: select_one
+      options:
+      - force_level_1
+      - force_level_2
+      - force_level_3
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witnesses
+      label: witnesses
+      hint: <text or null>
+      type: select_one
+      options:
+      - witness_1
+      - witness_2
+      - witness_3
+      required: false
+    - id: 10
+      name: witness_alt
+      label: witness other
+      hint: <text or null>
+      type: select_one
+      options:
+      - witness_alt_1
+      - witness_alt_2
+      - witness_alt_3
+      required: false
+    - id: 11
+      name: vehicle_involved
+      label: vehicle involved
+      hint: <text or null>
+      type: select_one
+      options:
+      - vehicle_1
+      - vehicle_2
+      - vehicle_3
+      required: false
+    - id: 12
+      name: suspect_vehicle
+      label: suspect vehicle
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_vehicle_1
+      - suspect_vehicle_2
+      - suspect_vehicle_3
+      required: false
+    - id: 13
+      name: officer_involved
+      label: officer involved
+      hint: <text or null>
+      type: select_one
+      options:
+      - officer_1
+      - officer_2
+      - officer_3
+      required: false
+    - id: 14
+      name: weapons_used
+      label: weapons used
+      hint: <text or null>
+      type: select_one
+      options:
+      - weapons_used_1
+      - weapons_used_2
+      - weapons_used_3
+      required: false
+    - id: 15
+      name: officer_involved_alt
+      label: officer other
+      hint: <text or null>
+      type: select_one
+      options:
+      - officer_alt_1
+      - officer_alt_2
+      - officer_alt_3
+      required: false
+    - id: 16
+      name: suspect_injuries
+      label: suspect injuries
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_injuries_1
+      - suspect_injuries_2
+      - suspect_injuries_3
+      required: false
+    - id: 17
+      name: officer_injuries
+      label: officer injuries
+      hint: <text or null>
+      type: select_one
+      options:
+      - officer_injuries_1
+      - officer_injuries_2
+      - officer_injuries_3
+      required: false
+    - id: 18
+      name: other_involves
+      label: other involves
+      hint: <text or null>
+      type: select_one
+      options:
+      - other_involves_1
+      - other_involves_2
+      - other_involves_3
+      required: false
+    - id: 19
+      name: suspect_resistances
+      label: suspect resistances
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_resistances_1
+      - suspect_resistances_2
+      - suspect_resistances_3
+      required: false
+    - id: 20
+      name: suspect_alt_resistances
+      label: suspect other resistances
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_alt_resistances_1
+      - suspect_alt_resistances_2
+      - suspect_alt_resistances_3
+      required: false
+    - id: 21
+      name: officer_resistances
+      label: officer resistances
+      hint: <text or null>
+      type: select_one
+      options:
+      - officer_resistances_1
+      - officer_resistances_2
+      - officer_resistances_3
+      required: false
+    - id: 22
+      name: suspect_alt_resistances
+      label: suspect other resistances
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_alt_resistances_1
+      - suspect_alt_resistances_2
+      - suspect_alt_resistances_3
+      required: false
+    - id: 23
+      name: officer_alt_resistances
+      label: officer other resistances
+      hint: <text or null>
+      type: select_one
+      options:
+      - officer_alt_resistances_1
+      - officer_alt_resistances_2
+      - officer_alt_resistances_3
+      required: false
+    - id: 24
+      name: suspect_involves
+      label: suspect involves
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_involves_1
+      - suspect_involves_2
+      - suspect_involves_3
+      required: false
+    - id: 25
+      name: suspect_alt_involves
+      label: suspect other involves
+      hint: <text or null>
+      type: select_one
+      options:
+      - suspect_alt_involves_1
+      - suspect_alt_involves_2
+      - suspect_alt_involves_3
+      required: false

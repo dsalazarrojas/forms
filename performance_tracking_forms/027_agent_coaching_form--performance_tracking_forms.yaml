@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Coaching Form
+    pages:
+    - id: 1
+      name: session_header
+      label: -- Coaching Session --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Name of agent being coached
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach name
+      hint: Supervisor or coach conducting session
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Session date
+      hint: Date of coaching session
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: performance_focus
+      label: Performance focus areas
+      hint: Topics addressed during coaching
+      type: select_multiple
+      options:
+      - Communication
+      - Time management
+      - Product knowledge
+      - Customer handling
+      - Sales technique
+      required: true
+    - id: 6
+      name: observed_issues
+      label: Observed issues
+      hint: Specific behaviors or outcomes needing improvement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: action_plan
+      label: Action plan and goals
+      hint: Measurable objectives agreed upon
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_date
+      label: Follow up date
+      hint: Date to review progress
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: coach_comments
+      label: Coach comments
+      hint: Additional coaching notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agent_acknowledgment
+      label: Agent acknowledgment
+      hint: Agent confirms understanding of the plan
+      type: select_one
+      options:
+      - Acknowledged
+      - Other
+      required: true

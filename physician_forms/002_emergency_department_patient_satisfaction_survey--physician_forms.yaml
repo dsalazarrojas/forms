@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Department Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: emergency_department_patient_satisfaction_survey_page_1
+      label: How would you rate the overall quality of care you received?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_nature_of_encounter
+      label: staff nature of encounter
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: staff_friendly_nature
+      label: staff friendly nature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: wait_time
+      label: wait time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: doctor_communication
+      label: doctor communication
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 6
+      name: nurse_communication
+      label: nurse communication
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: nurse_professionalism
+      label: nurse professionalism
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: doctor_professionalism
+      label: doctor professionalism
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: emergency_department_visit
+      label: emergency department visit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: would_visit
+      label: would visit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: emergency_department_patient_satisfaction_survey_comments
+      label: emergency department patient satisfaction survey comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_department_patient_satisfaction_survey_comments
+      label: emergency department patient satisfaction survey comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_department_patient_satisfaction_survey_comments
+      label: emergency department patient satisfaction survey comments
+      hint: null
+      type: note
+      options: []
+      required: false

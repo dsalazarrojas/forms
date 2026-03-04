@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Server Rule Voting Form
+    pages:
+    - id: 1
+      name: server_name
+      label: Server Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rule_description
+      label: Rule Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rule_type
+      label: Rule Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rule_frequency
+      label: Rule Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vote_option_a
+      label: Vote Option A
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vote_option_b
+      label: Vote Option B
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vote_option_c
+      label: Vote Option C
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit_vote
+      label: Submit Vote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit_feedback
+      label: Submit Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_feedback_text
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

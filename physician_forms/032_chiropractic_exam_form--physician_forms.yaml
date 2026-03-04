@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Exam Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: exam_date
+      label: Examination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: chief_complaint
+      label: -- Chief Complaint and History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: complaint_area
+      label: Chief Complaint Area
+      hint: Where is the pain or discomfort
+      type: select_one
+      options:
+      - Neck
+      - Upper back
+      - Mid-back
+      - Lower back
+      - Shoulder
+      - Arm
+      - Leg
+      - Other
+      required: true
+    - id: 9
+      name: complaint_description
+      label: Describe the Complaint
+      hint: Symptoms and location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: symptom_duration
+      label: How long have you had this symptom
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      required: true
+    - id: 11
+      name: pain_severity
+      label: Pain Severity
+      hint: Rate 1 (minimal) to 10 (severe)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: previous_injuries
+      label: Previous injuries or accidents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: prior_treatments
+      label: Prior treatments for this condition
+      hint: Medications, therapy, surgery
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List all medications taken
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: occupational_factors
+      label: -- Occupational and Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: occupation
+      label: Current Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: daily_activities
+      label: What daily activities aggravate the pain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: exercise_level
+      label: Exercise or Physical Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Light activity
+      - Moderate activity
+      - Vigorous activity
+      required: false
+    - id: 21
+      name: physical_examination
+      label: -- Physical Examination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: posture_assessment
+      label: Posture Assessment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Significant deviations
+      required: true
+    - id: 23
+      name: range_of_motion
+      label: Range of Motion
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Limited on one side
+      - Limited bilaterally
+      - Severely restricted
+      required: true
+    - id: 24
+      name: palpation_findings
+      label: Palpation Findings
+      hint: Tender points, misalignment, muscle tension
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: treatment_plan
+      label: Recommended Treatment Plan
+      hint: Adjustments, therapy, stretches, etc.
+      type: text
+      options: []
+      required: true

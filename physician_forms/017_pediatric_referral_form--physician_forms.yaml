@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Referral Form
+    pages:
+    - id: 1
+      name: pediatric_referral_form
+      label: Pediatric Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referring_provider
+      label: Referring Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_last_visit
+      label: Date Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Neurology
+      - Dermatology
+      - Gastroenterology
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

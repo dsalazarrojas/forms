@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Portrait Registration
+    pages:
+    - id: 1
+      name: athlete_details
+      label: Athlete Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_contacts
+      label: Parent Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_package_choices
+      label: Photo Package Choices
+      hint: null
+      type: select_multiple
+      options:
+      - Package 1
+      - Package 2
+      - Package 3
+      required: false
+    - id: 4
+      name: photo_package_choice_1
+      label: Package Choice 1
+      hint: null
+      type: select_one
+      options:
+      - Package 1
+      - Package 2
+      - Package 3
+      required: false
+    - id: 5
+      name: athlete_consent
+      label: Athlete Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: athlete_photo_preferences
+      label: Athlete Photo Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sport
+      label: Sport
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Soccer
+      - Football
+      required: false
+    - id: 10
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rem Sleep Behavior Disorder Screening Questionnaire
+    pages:
+    - id: 1
+      name: rem_sleep_behavior_disorder_screening_questionnaire
+      label: rem_sleep_behavior_disorder_screening_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_behavior_disorder_symptoms
+      label: Sleep Behavior Disorder Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - REM behavior disorder symptoms
+      - Other ( specify )
+      required: false
+    - id: 3
+      name: sleep_latency
+      label: Sleep Latency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sleep_efficiency
+      label: Sleep Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_disorder_frequency
+      label: Sleep Disorder Frequency
+      hint: null
+      type: select_one
+      options:
+      - 0-1 times per month
+      - 1-2 times per month
+      - 2-3 times per month
+      - 3-4 times per month
+      - 4-5 times per month
+      - 5-6 times per month
+      - 7 or more times per month
+      required: false
+    - id: 6
+      name: rem_sla
+      label: REM Sla
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: nrem_sla
+      label: NREM Sla
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: rem_sleep_stages
+      label: REM Sleep Stages
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rem_sleep_stages_details
+      label: REM Sleep Stages Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nrem_sleep_stages
+      label: NREM Sleep Stages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sleep_stages_percentage
+      label: Sleep Stages Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rem_disorder_symptoms_frequency
+      label: REM Disorder Symptoms Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 times per week
+      - 1-2 times per week
+      - 2-3 times per week
+      - 3-4 times per week
+      - 4 or more times per week
+      required: false
+    - id: 14
+      name: rem_disorder_symptoms_duration
+      label: REM Disorder Symptoms Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - 2-4 hours
+      - 4 or more hours
+      required: false
+    - id: 15
+      name: rem_disorder_symptoms_severity
+      label: REM Disorder Symptoms Severity
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 16
+      name: rem_disorder_symptoms_type
+      label: REM Disorder Symptoms Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hallucinations
+      - Night terrors
+      - Sleep paralysis
+      - Other
+      required: false
+    - id: 17
+      name: rem_disorder_symptoms_description
+      label: REM Disorder Symptoms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rem_sla_duration
+      label: REM Sla
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: nrem_sla_duration
+      label: NREM Sla
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: rem_disorder_frequency_details
+      label: REM Disorder Frequency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rem_disorder_symptoms_details
+      label: REM Disorder Symptoms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rem_disorder_diagnosis
+      label: REM Disorder Diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undetermined
+      required: false
+    - id: 23
+      name: rem_disorder_diagnosis_details
+      label: REM Disorder Diagnosis Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rem_sleep_disorder_treatments
+      label: REM Sleep Disorder Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Medication
+      - Therapy
+      - Both
+      required: false
+    - id: 25
+      name: rem_disorder_treatments_details
+      label: REM Disorder Treatments Details
+      hint: null
+      type: text
+      options: []
+      required: false

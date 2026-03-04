@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Payment Not Received Dispute Form
+    pages:
+    - id: 1
+      name: mobile_payment_not_received_dispute_form_1
+      label: mobile_payment_details
+      hint: null
+      type: select_multiple
+      options:
+      - Payment method not received
+      - Payment method wrong
+      - Payment method not recognized
+      required: true
+    - id: 2
+      name: mobile_payment_not_received_dispute_form_2
+      label: order_details
+      hint: null
+      type: select_multiple
+      options:
+      - Order amount
+      - Order date
+      - Order time
+      - Order status
+      required: true
+    - id: 3
+      name: mobile_payment_not_received_dispute_form_3
+      label: user_info
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Merchant
+      - Support
+      - Other
+      required: true
+    - id: 4
+      name: mobile_payment_not_received_dispute_form_4
+      label: reason_for_dispute
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mobile_payment_not_received_dispute_form_5
+      label: attachment_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mobile_payment_not_received_dispute_form_6
+      label: attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mobile_payment_not_received_dispute_form_7
+      label: attachment_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mobile_payment_not_received_dispute_form_8
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: merchant_message
+      label: merchant_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: support_message
+      label: support_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dispute_date
+      label: dispute_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: dispute_time
+      label: dispute_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: dispute_status
+      label: dispute_status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Processing
+      - Closed
+      - On-hold
+      - Waiting for payment
+      - Waiting for user update
+      - Reopened
+      - Cancelled
+      required: true
+    - id: 15
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - No follow-up
+      - Follow-up sent
+      - Follow-up pending
+      - Follow-up completed
+      required: true

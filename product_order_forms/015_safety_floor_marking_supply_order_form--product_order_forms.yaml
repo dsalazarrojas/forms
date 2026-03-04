@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Floor Marking Supply Order Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_contact_email
+      label: facility_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: facility_phone_number
+      label: facility_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_order_date
+      label: facility_order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facility_order_time
+      label: facility_order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility_order_quantity
+      label: facility_order_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: facility_order_notes
+      label: facility_order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: supplier_contact_name
+      label: supplier_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supplier_contact_phone
+      label: supplier_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supplier_contact_email
+      label: supplier_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: supplier_notes
+      label: supplier_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - in-person
+      - ship
+      - pickup
+      required: false
+    - id: 17
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Completed
+      required: false
+    - id: 18
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: true
+    - id: 19
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Online Payment
+      required: true
+    - id: 20
+      name: supplier_price
+      label: supplier_price
+      hint: null
+      type: number
+      options: []
+      required: false

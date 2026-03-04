@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_activity_log_form
+    pages:
+    - id: 1
+      name: activity_log_form
+      label: Daily Activity Log Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_date
+      label: activity_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: activity_time
+      label: activity_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: activity_description
+      label: activity_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: activity_category
+      label: activity_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: false
+    - id: 6
+      name: activity_outcome
+      label: activity_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Outcome 1''}'
+      - '{''id'': 2, ''label'': ''Outcome 2''}'
+      - '{''id'': 3, ''label'': ''Outcome 3''}'
+      required: false
+    - id: 7
+      name: activity_notes
+      label: activity_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activity_email
+      label: activity_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: activity_phone
+      label: activity_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: activity_location
+      label: activity_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: activity_outcome_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: activity_outcome_other_other
+      label: activity_outcome_other_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: activity_outcome_other_other_other
+      label: activity_outcome_other_other_other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: print_order
+      label: print_order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: subscription_plan
+      label: subscription_plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: print_size
+      label: print_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: print_material
+      label: print_material
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: billing_cycle
+      label: billing_cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: billing_frequency
+      label: billing_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: order_frequency
+      label: order_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

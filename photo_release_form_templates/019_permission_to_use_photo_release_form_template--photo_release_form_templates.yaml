@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission To Use Photo Release Form Template
+    pages:
+    - id: 1
+      name: form_title
+      label: Permission to use photo release form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_title
+      label: Photo Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_description
+      label: Photo description
+      hint: Description of the photo
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_credit
+      label: Photo credit
+      hint: Name of the photographer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client name
+      hint: Name of the client or company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_shot_taken
+      label: Date shot taken
+      hint: Date the photo was taken
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: releasee_title
+      label: Releasee title
+      hint: Name of the company or person using the photo
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_client
+      label: Email address
+      hint: Email address of the client or company
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: Contact phone number of the client or company
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: Address of the client or company
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: releasee_agreed
+      label: Releasee agreed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': ''Yes''}'
+      - '{''id'': 2, ''name'': False, ''label'': ''No''}'
+      required: false

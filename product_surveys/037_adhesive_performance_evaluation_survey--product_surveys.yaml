@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adhesive Performance Evaluation Survey
+    pages:
+    - id: 1
+      name: tester_information
+      label: Tester information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tester_name
+      label: Tester name
+      hint: For internal tracking only
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: adhesive_sample_id
+      label: Adhesive sample id
+      hint: Identifier for test sample
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: substrate_material
+      label: Substrate material
+      hint: Material bonded during test
+      type: select_one
+      options:
+      - Aluminum
+      - Plastic
+      - Wood
+      - Composite
+      required: true
+    - id: 5
+      name: bond_strength
+      label: Bond strength measured newtons
+      hint: Enter measured force value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: peel_performance
+      label: Peel performance rating
+      hint: Rate from 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: environmental_conditions
+      label: Environmental conditions during test
+      hint: Temperature humidity exposure
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: failure_mode
+      label: Failure mode observed
+      hint: Adhesive cohesive adhesive failure substrate
+      type: select_one
+      options:
+      - Cohesive failure
+      - Adhesive failure
+      - Substrate failure
+      - Mixed
+      required: true
+    - id: 9
+      name: recommended_improvements
+      label: Recommended improvements
+      hint: Suggestions for formulation or process
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

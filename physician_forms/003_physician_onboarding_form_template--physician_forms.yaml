@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Onboarding Form Template
+    pages:
+    - id: 1
+      name: physician_onboarding_form_template
+      label: Physician Onboarding Form Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Physician Forms''}'
+      - '{''label'': ''Other Forms''}'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe this form template
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: The tool assigned to this form template
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''Other Tool''}'
+      required: true
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: Name of the output file
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_ids
+      label: Form ID
+      hint: Unique identifier of this form template
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_id
+      label: Form ID
+      hint: Unique identifier of this form template
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_ids_2
+      label: Form ID 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: output_file_2
+      label: Output File 2
+      hint: null
+      type: text
+      options: []
+      required: false

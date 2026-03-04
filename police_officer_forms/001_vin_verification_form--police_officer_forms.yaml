@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: vin_verification_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vin
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: make
+      label: make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vin_check
+      label: check_vin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: vin_check_result
+      label: vin_check_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: officer_name
+      label: officer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: officer_notes
+      label: officer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: license_plate
+      label: license_plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vin_status
+      label: vin_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: vehicle_owner
+      label: vehicle_owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: vehicle_driver
+      label: vehicle_driver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: vehicle_passenger
+      label: vehicle_passenger
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: vehicle_year_manufactured
+      label: year_manufactured
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

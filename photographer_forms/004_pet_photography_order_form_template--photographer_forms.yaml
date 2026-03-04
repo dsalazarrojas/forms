@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Photography Order Form Template
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_multiple
+      options:
+      - standard_session
+      - premium_session
+      - deluxe_session
+      required: false
+    - id: 8
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - photo_session
+      - video_session
+      - album_creation
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: false

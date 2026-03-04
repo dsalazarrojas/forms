@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Informed Consent Form
+    pages:
+    - id: 1
+      name: physician_form
+      label: Telehealth Informed Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Physician Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_multiple
+      options:
+      - 006_telehealth_informed_consent_form--physician_forms.docx
+      - 006_telehealth_informed_consent_form--patient_forms.docx
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - jotform
+      required: false
+    - id: 6
+      name: form_ids
+      label: Form ID
+      hint: '12345'
+      type: number
+      options: []
+      required: false

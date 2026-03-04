@@ -1,0 +1,307 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Surrender Intake Request
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_intake_date
+      label: Preferred Intake Date
+      hint: When can you bring the animal
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: animal_name
+      label: Animal Name
+      hint: Name of pet
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: animal_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Livestock
+      - Other
+      required: true
+    - id: 12
+      name: animal_breed
+      label: Breed
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: animal_age
+      label: Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: animal_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 15
+      name: animal_weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: animal_color
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: microchip_status
+      label: Microchip Status
+      hint: null
+      type: select_one
+      options:
+      - Yes - Have Number
+      - Yes - Unknown Number
+      - false
+      - Unknown
+      required: true
+    - id: 18
+      name: microchip_number
+      label: Microchip Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: spay_neuter_status
+      label: Spay or Neuter Status
+      hint: null
+      type: select_one
+      options:
+      - Yes - Altered
+      - No - Not Altered
+      - Too Young
+      - Medical Exception
+      required: true
+    - id: 20
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Current - Up to Date
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Unknown
+      required: true
+    - id: 21
+      name: health_status
+      label: Current Health Status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Minor Issues
+      - Needs Medical Attention
+      - Chronic Condition
+      - Emergency Situation
+      required: true
+    - id: 22
+      name: health_details
+      label: Health Details
+      hint: Describe any conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: behavior_temperament
+      label: Temperament and Behavior
+      hint: Describe personality and behavior
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: good_with_children
+      label: Good with Children
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      - Not Applicable
+      required: true
+    - id: 25
+      name: good_with_dogs
+      label: Good with Dogs
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      - Not Applicable
+      required: true
+    - id: 26
+      name: good_with_cats
+      label: Good with Cats
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      - Not Applicable
+      required: true
+    - id: 27
+      name: surrender_reason
+      label: Reason for Surrender
+      hint: Please explain
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: daily_care
+      label: Daily Care Routine
+      hint: Feeding exercise and care
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: diet_information
+      label: Diet Information
+      hint: Food type and schedule
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: special_needs
+      label: Special Needs or Requirements
+      hint: Any special care needed
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: veterinarian_info
+      label: Veterinarian Name and Contact
+      hint: Current or previous vet
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: medical_records
+      label: Do You Have Medical Records
+      hint: null
+      type: select_one
+      options:
+      - Yes - Will Provide
+      - false
+      - Some Records
+      required: true
+    - id: 33
+      name: photos_available
+      label: Do You Have Photos to Share
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon is intake needed
+      type: select_one
+      options:
+      - Immediate - Emergency
+      - Within 1 Week
+      - Within 2 Weeks
+      - Flexible
+      required: true
+    - id: 35
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: ownership_transfer
+      label: I Understand This Is a Request Only
+      hint: Intake is subject to approval and availability
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true

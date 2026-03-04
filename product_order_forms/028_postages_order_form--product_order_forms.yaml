@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postages Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_en
+      label: name_en
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_zh
+      label: name_zh
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_en
+      label: phone_en
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_zh
+      label: phone_zh
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: country_en
+      label: country_en
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''USA''}'
+      - '{''id'': 2, ''name'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''China''}'
+      required: false
+    - id: 8
+      name: country_zh
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': None}'
+      - '{''id'': 2, ''name'': None}'
+      required: false
+    - id: 9
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''English''}'
+      - '{''id'': 2, ''name'': ''Chinese''}'
+      - '{''id'': 3, ''name'': ''French''}'
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: address_en
+      label: address_en
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_zh
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: remarks
+      label: remarks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: delivery_status_en
+      label: delivery_status_en
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In stock''}'
+      - '{''id'': 2, ''name'': None}'
+      - '{''id'': 3, ''name'': None}'
+      required: false
+    - id: 22
+      name: delivery_status_zh
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': None}'
+      - '{''id'': 2, ''name'': None}'
+      required: false
+    - id: 23
+      name: remarks_en
+      label: remarks_en
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: remarks_zh
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: order_no
+      label: order_no
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: order_id
+      label: order_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 30
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

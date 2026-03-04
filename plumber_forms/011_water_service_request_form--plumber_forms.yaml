@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Service Request Form
+    pages:
+    - id: 1
+      name: water_service_request_form
+      label: What's The Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Which Service
+      hint: null
+      type: select_one
+      options:
+      - Water Shut-off
+      - Leaking Water Heater
+      - Leaking Water Pipe
+      - Leaking Faucet
+      - Other
+      required: false
+    - id: 3
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_service_request
+      label: Confirm Service Request
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Confirm
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Other
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall 2020 Color Street
+    pages:
+    - id: 1
+      name: fall_2020_color_street
+      label: Fall 2020 Color Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preorder_form
+      label: Preorder Form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product A''}'
+      - '{''id'': 2, ''name'': ''Product B''}'
+      - '{''id'': 3, ''name'': ''Product C''}'
+      required: false
+    - id: 3
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Red''}'
+      - '{''id'': 2, ''name'': ''Blue''}'
+      - '{''id'': 3, ''name'': ''Green''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

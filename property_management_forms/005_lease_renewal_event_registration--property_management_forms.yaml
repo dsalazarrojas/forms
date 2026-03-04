@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_renewal_event_registration
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_names
+      label: Guest Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_questions
+      label: Guest Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: questions_1
+      label: Questions 1
+      hint: null
+      type: select_one
+      options:
+      - Yes, I'm coming
+      - No, I'm not coming
+      - Maybe
+      required: false
+    - id: 10
+      name: comments_1
+      label: Comments 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: questions_2
+      label: Questions 2
+      hint: null
+      type: select_multiple
+      options:
+      - What time is the event?
+      - What date is the event?
+      - How many guests will be attending?
+      required: false

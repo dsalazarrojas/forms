@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Air Duct System Order Form
+    pages:
+    - id: 1
+      name: factory_air_duct_system_order_form_fields
+      label: Factory Air Duct System Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_order_details
+      label: Customer Order Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: customer_order_details_2
+      label: Customer Order Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_specifications
+      label: Product Specifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: date_of_installation
+      label: Date of Installation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_installation
+      label: Time of Installation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: installation_notes
+      label: Installation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

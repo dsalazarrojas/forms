@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referral Request Form
+    pages:
+    - id: 1
+      name: referral_request_form_name
+      label: Referral Request Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Enter patient's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referring_physician
+      label: Referring Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_type
+      label: Referral Type
+      hint: Please specify whether this is a new or follow-up referral
+      type: select_one
+      options:
+      - new
+      - follow-up
+      required: false
+    - id: 6
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Patient's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referring_physician_name
+      label: Referring Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient's Phone Number
+      hint: Please include the 3 digit area code (e.g. 201 123-1234)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: physician_signature
+      label: Physician's Signature
+      hint: null
+      type: note
+      options: []
+      required: false

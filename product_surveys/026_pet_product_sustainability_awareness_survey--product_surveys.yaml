@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Sustainability Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: true
+    - id: 3
+      name: pet_ownership
+      label: pet_ownership
+      hint: Please select your current pet ownership status
+      type: select_one
+      options:
+      - Own a Pet
+      - Renting a Pet
+      - Other
+      required: true
+    - id: 4
+      name: product_sustainability_purpose
+      label: What motivates you to choose eco-friendly pet products?
+      hint: None
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: sustainability_goals
+      label: Sustainability Goals
+      hint: null
+      type: select_one
+      options:
+      - Reducing plastic
+      - Reducing carbon footprint
+      - Cost savings
+      required: true
+    - id: 6
+      name: sustainability_importance
+      label: How important is sustainability to you when choosing pet products?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not important at all
+      required: true
+    - id: 7
+      name: product_purchase_frequency
+      label: How often do you purchase pet products?
+      hint: Please select from the options below
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: true
+    - id: 8
+      name: sustainability_products
+      label: Which of the following features are you looking for when purchasing pet
+        products?
+      hint: null
+      type: select_multiple
+      options:
+      - Biodegradable
+      - Eco-friendly packaging
+      - Cruelty-free
+      - Non-GMO
+      required: true
+    - id: 9
+      name: eco_friendly_product_purchases
+      label: How often do you purchase eco-friendly pet products?
+      hint: None
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 10
+      name: sustainability_awareness
+      label: How much do you think pet owners should care about pet sustainability?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 11
+      name: open_ended_question_1
+      label: What else is there to say about pet sustainability that you'd like to
+        share?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: demographics_awareness
+      label: How would you rate your level of awareness about pet sustainability?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_complete
+      label: Thank you for participating in this survey!
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission
+      label: submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: demographics_awareness_2
+      label: How much do you think the pet industry is doing to promote pet sustainability?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - Somewhat
+      - Not at all
+      required: false
+    - id: 21
+      name: pet_sustainability_importance
+      label: How much do you think pet sustainability is important?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not at all important
+      required: false
+    - id: 22
+      name: product_label
+      label: product_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: product_url
+      label: product_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

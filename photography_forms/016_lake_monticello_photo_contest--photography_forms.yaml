@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: lake_monticello_photo_contest
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_image
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_details
+      label: Photo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Nature
+      - City
+      - People
+      - Landmarks
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone_ext
+      label: Contact Phone Ext
+      hint: null
+      type: text
+      options: []
+      required: false

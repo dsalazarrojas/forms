@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photo Order Form
+    pages:
+    - id: 1
+      name: photo_packages
+      label: Photo Packages
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photo_types
+      label: Photo Types
+      hint: null
+      type: select_multiple
+      options:
+      - Family Photo
+      - Senior Photo
+      - Wedding Photo
+      required: false
+    - id: 3
+      name: number_photos
+      label: Number Photos
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: package_price
+      label: Package Price
+      hint: null
+      type: select_one
+      options:
+      - '50'
+      - '75'
+      - '100'
+      required: false
+    - id: 7
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: photo_type_id
+      label: Photo Type
+      hint: null
+      type: select_one
+      options:
+      - Family Photo
+      - Senior Photo
+      - Wedding Photo
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      required: false

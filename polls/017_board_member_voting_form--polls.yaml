@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Member Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Voter Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Voter Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: voting_date
+        label: Voting Date
+        hint: Date of this vote
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: vote_type
+        label: Type of Vote
+        hint: What is being voted on?
+        type: select_one
+        options:
+          - Board Election
+          - Policy Approval
+          - Budget Approval
+          - Motion Vote
+          - Resolution Vote
+          - Other
+        required: true
+      - id: 5
+        name: election_position
+        label: Position Being Voted On
+        hint: Select if this is an election
+        type: select_one
+        options:
+          - Board Chair
+          - Vice Chair
+          - Secretary
+          - Treasurer
+          - Board Member At-Large
+          - Committee Chair
+          - Not Applicable
+        required: false
+      - id: 6
+        name: candidate_selection
+        label: Candidate Selection
+        hint: Select your preferred candidate
+        type: select_one
+        options:
+          - Candidate A
+          - Candidate B
+          - Candidate C
+          - Write-In
+          - Abstain
+        required: false
+      - id: 7
+        name: write_in_candidate
+        label: Write-In Candidate Name
+        hint: If selecting write-in
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: motion_title
+        label: Motion or Resolution Title
+        hint: Title of the motion being voted on
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: motion_vote
+        label: Your Vote on Motion
+        hint: Select your vote
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Abstain
+        required: false
+      - id: 10
+        name: vote_reasoning
+        label: Vote Reasoning
+        hint: Optional explanation for your vote
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: conflict_of_interest
+        label: Conflict of Interest
+        hint: Do you have any conflict of interest?
+        type: select_one
+        options:
+          - No conflict
+          - Potential conflict - disclosed
+          - Actual conflict - recusing
+        required: true
+      - id: 12
+        name: recusal_required
+        label: Recusal Required
+        hint: Must you recuse yourself from this vote?
+        type: select_one
+        options:
+          - Yes, recusing
+          - No, participating
+        required: true
+      - id: 13
+        name: proxy_vote
+        label: Proxy Vote
+        hint: Are you voting by proxy?
+        type: select_one
+        options:
+          - No, voting directly
+          - Yes, voting by proxy
+          - Yes, casting proxy vote for another
+        required: true
+      - id: 14
+        name: proxy_holder_name
+        label: Proxy Holder Name
+        hint: If someone else is voting for you
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: proxy_recipient_name
+        label: Proxy Recipient Name
+        hint: If you are voting for someone else
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: vote_confidentiality
+        label: Vote Confidentiality
+        hint: Should your vote remain confidential?
+        type: select_one
+        options:
+          - Yes, keep confidential
+          - No, can be recorded in minutes
+        required: true
+      - id: 17
+        name: terms_attestation
+        label: Attestation
+        hint: I attest that I am eligible to vote
+        type: select_one
+        options:
+          - Yes, I Attest
+          - No
+        required: true

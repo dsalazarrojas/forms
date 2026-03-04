@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Portrait Session Booking Form
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_one
+      options:
+      - '{''Session Type'': ''Indoor''}'
+      - '{''Session Type'': ''Outdoor''}'
+      - '{''Session Type'': ''Mix''}'
+      required: false
+    - id: 4
+      name: session_dates
+      label: Session Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 5
+      name: extra_choices
+      label: Extra Choices
+      hint: null
+      type: select_multiple
+      options:
+      - Extra Option 1
+      - Extra Option 2
+      - Extra Option 3
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: paypal_token
+      label: PayPal Token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      required: false
+    - id: 9
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_phone_type
+      label: Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Landline
+      required: false
+    - id: 12
+      name: confirm_location
+      label: Confirm Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 13
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: confirm_notes
+      label: Confirm Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: confirm_submit
+      label: Confirm Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

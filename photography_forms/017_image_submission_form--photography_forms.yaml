@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Submission Form
+    pages:
+    - id: 1
+      name: submission_form
+      label: Submit Your Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: image_description
+      label: image description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photographer_name
+      label: photographer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photographer_email
+      label: photographer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: photographer_phone
+      label: photographer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photographer_website
+      label: photographer website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: image_title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: image_url
+      label: url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image_tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: image_license
+      label: license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

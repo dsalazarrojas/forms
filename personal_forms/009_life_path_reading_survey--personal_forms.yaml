@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Path Reading Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reading_details
+      label: Reading Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reading_preferences
+      label: Reading Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reading_insights
+      label: Reading Insights
+      hint: null
+      type: text
+      options: []
+      required: false

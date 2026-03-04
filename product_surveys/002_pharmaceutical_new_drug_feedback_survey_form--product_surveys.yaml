@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical New Drug Feedback Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: new_medicine_name
+      label: new-medicine-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dosage_and_frequency
+      label: Dosage And Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 4
+      name: new_medicine_name_2
+      label: New medicine name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_professional_name
+      label: Healthcare Professional Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions_2
+      label: Medical Conditions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: side_effects
+      label: Side Effects
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

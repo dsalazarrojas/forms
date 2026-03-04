@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audience Favorite Actor Voting Form
+    pages:
+      - id: 1
+        name: voting_header
+        label: -- Cast Your Vote --
+        hint: Please select your favorite performer for this production
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: production_title
+        label: Production Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: performance_date
+        label: Performance Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: award_category
+        label: Voting Category
+        hint: null
+        type: select_one
+        options:
+          - Best Leading Actor
+          - Best Leading Actress
+          - Best Supporting Performer
+          - Best Ensemble Member
+          - Best Breakthrough Performance
+        required: true
+      - id: 5
+        name: nominee_name
+        label: Name of Nominee
+        hint: Enter the name of the actor you are voting for
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: voting_reason
+        label: Why are you choosing this performer?
+        hint: Share what you loved about their performance
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_voter
+        label: -- Voter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: voter_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: voter_email
+        label: Your Email
+        hint: To receive a confirmation of your vote
+        type: email
+        options: []
+        required: false
+      - id: 10
+        name: contact_consent
+        label: Would you like to receive updates about future shows?
+        hint: null
+        type: select_one
+        options:
+          - Yes, please
+          - No, thank you
+        required: true

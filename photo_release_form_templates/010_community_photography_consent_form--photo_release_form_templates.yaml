@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Photography Consent Form
+    pages:
+    - id: 1
+      name: consent_intro_note
+      label: -- Photography and Media Consent --
+      hint: We value your privacy while celebrating our community.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_subject_name
+      label: Name of Participant or Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: is_minor_check
+      label: Is the participant a minor - under 18?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if participant is a minor.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Date of Event or Shoot
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_location_info
+      label: Location of the Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photo_permission_check
+      label: Permission for Still Photography
+      hint: null
+      type: select_one
+      options:
+      - I grant full permission
+      - I do not grant permission
+      required: true
+    - id: 10
+      name: video_permission_check
+      label: Permission for Video Recording
+      hint: null
+      type: select_one
+      options:
+      - I grant full permission
+      - I do not grant permission
+      required: true
+    - id: 11
+      name: audio_permission_check
+      label: Permission for Audio Recording
+      hint: null
+      type: select_one
+      options:
+      - I grant full permission
+      - I do not grant permission
+      required: true
+    - id: 12
+      name: web_social_consent_check
+      label: Consent for Website and Social Media Use?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: print_media_consent_check
+      label: Consent for Print Media and Promotional Use?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: revocation_policy_note
+      label: -- Revocation Policy --
+      hint: You may revoke this consent at any time by contacting us in writing.
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: consent_digital_signature
+      label: Digital Signature
+      hint: Type full name of participant or guardian.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: today_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

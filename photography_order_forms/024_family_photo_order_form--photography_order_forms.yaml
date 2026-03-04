@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photo Order Form
+    pages:
+    - id: 1
+      name: family_photo_order_form
+      label: family_photo_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_package_choice
+      label: Photo Package Choice
+      hint: null
+      type: select_one
+      options:
+      - Apple iPhone
+      - Android Phone
+      - DSLR Camera
+      required: false
+    - id: 3
+      name: photo_package_details
+      label: Photo Package Details
+      hint: Select a package from above
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_package_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: photo_package_size
+      label: Photo Package Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: photo_package_price
+      label: Photo Package Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_notes_hint
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 13
+      name: payment_method_description
+      label: Payment Method Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_price
+      label: Payment Method Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: order_form_submitter
+      label: Order Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Editor
+      - User
+      required: false
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: true
+    - id: 23
+      name: status_description
+      label: Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_status_description
+      label: Order Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_status_update
+      label: Order Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

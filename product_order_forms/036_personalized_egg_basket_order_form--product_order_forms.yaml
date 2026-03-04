@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Egg Basket Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Personalized Egg Basket Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: egg_type
+      label: egg type
+      hint: null
+      type: select_one
+      options:
+      - Eggs
+      - Egg whites
+      - Egg whites with yolk
+      - Egg yolk
+      - Eggs with yolk
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - Brown
+      - White
+      - Gray
+      - Black
+      - Green
+      - Blue
+      - Red
+      - Yellow
+      required: false
+    - id: 6
+      name: egg_size
+      label: egg size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 7
+      name: basket_type
+      label: basket type
+      hint: null
+      type: select_one
+      options:
+      - Plastic
+      - Wood
+      - Paper
+      - Bamboo
+      required: true
+    - id: 8
+      name: special_requests
+      label: special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: select_multiple
+      options:
+      - Street
+      - City
+      - State
+      - Zip
+      required: true
+    - id: 10
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_one
+      options:
+      - Shipping via USPS
+      - Shipping via FedEx
+      - Shipping via UPS
+      required: true
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: true
+    - id: 12
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: special_requests_2
+      label: special requests 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: delivery_time_2
+      label: delivery time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: notes_2
+      label: notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      - Pending
+      required: true
+    - id: 21
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Unpaid
+      required: true
+    - id: 22
+      name: payment_method_2
+      label: payment method 2
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 23
+      name: notes_3
+      label: notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_id
+      label: order id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false

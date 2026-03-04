@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

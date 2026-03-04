@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Point Of Care Testing POCT For Covid 19
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: symptoms_present
+      label: Are You Experiencing Symptoms
+      hint: Do you have COVID-19 symptoms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: symptoms_list
+      label: List Your Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or Chills
+      - Cough
+      - Shortness of Breath
+      - Fatigue
+      - Muscle or Body Aches
+      - Headache
+      - Loss of Taste or Smell
+      - Sore Throat
+      - Congestion
+      - Nausea or Vomiting
+      - Diarrhea
+      - None
+      required: false
+    - id: 12
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did symptoms start
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: known_exposure
+      label: Known Exposure to COVID-19
+      hint: Have you been exposed to someone with COVID-19
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: exposure_date
+      label: Exposure Date
+      hint: When did exposure occur
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: recent_travel
+      label: Recent Travel History
+      hint: Have you traveled recently
+      type: select_one
+      options:
+      - Yes - Domestic
+      - Yes - International
+      - false
+      required: true
+    - id: 16
+      name: travel_locations
+      label: Travel Locations
+      hint: List places you traveled
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: test_type
+      label: Type of Test
+      hint: Which test will be performed
+      type: select_one
+      options:
+      - Rapid Antigen Test
+      - Rapid Molecular Test
+      - PCR Test
+      - Antibody Test
+      required: true
+    - id: 18
+      name: test_location
+      label: Test Location
+      hint: Where will test be performed
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: test_provider
+      label: Test Provider Name
+      hint: Name of healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: test_purpose
+      label: Purpose of Testing
+      hint: Why are you being tested
+      type: select_one
+      options:
+      - Diagnostic - Symptoms Present
+      - Screening - No Symptoms
+      - Contact Tracing
+      - Pre-Procedure
+      - Travel Requirement
+      - Work Requirement
+      - Other
+      required: true
+    - id: 21
+      name: results_delivery
+      label: How Should Results Be Delivered
+      hint: Preferred method for receiving results
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Text Message
+      - Patient Portal
+      - Mail
+      - Pick Up In Person
+      required: true
+    - id: 22
+      name: results_timeline
+      label: Results Timeline Understood
+      hint: Do you understand when to expect results
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: test_risks_understood
+      label: Test Risks Understood
+      hint: Do you understand any risks or discomfort
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: isolation_understood
+      label: Isolation Guidelines Understood
+      hint: Do you understand isolation requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: contact_tracing_consent
+      label: Consent to Contact Tracing
+      hint: Do you consent to contact tracing if positive
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: data_sharing_consent
+      label: Consent to Share Results with Health Department
+      hint: Do you consent to reporting results
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: financial_responsibility
+      label: Financial Responsibility Understood
+      hint: Do you understand you may be responsible for cost
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: consent_decision
+      label: Your Consent Decision
+      hint: Do you consent to testing
+      type: select_one
+      options:
+      - Yes - I Consent to Testing
+      - No - I Do Not Consent
+      required: true
+    - id: 29
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if patient is minor
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: provider_signature
+      label: Provider Signature
+      hint: Name of healthcare provider
+      type: text
+      options: []
+      required: true

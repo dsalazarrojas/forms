@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Change Notification
+    pages:
+    - id: 1
+      name: relationship_change_notification_form
+      label: Relationship Status Changes
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: relationship_change_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: documents_attached
+      label: Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reason_for_change
+      label: Reason For Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: relationship_change_effective_date
+      label: Relationship Change Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - HR Team Member
+      - Membership Organization
+      - Insurer
+      required: true
+    - id: 8
+      name: updated_by_email
+      label: Updated By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: updated_by_phone
+      label: Updated By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_by_document
+      label: Updated By Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Partnered
+      - Divorced
+      - Widowed
+      required: true
+    - id: 12
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: relationship_type_option
+      label: Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: relationship_id
+      label: Relationship ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: relationship_change_document
+      label: Relationship Change Document
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plastic Surgery Patient Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_address
+      label: Address
+      hint: Street address, city, and state where patient resides
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_devices
+      label: Medical Devices
+      hint: null
+      type: select_multiple
+      options:
+      - Pacemaker
+      - Wheelchair
+      - Hearing aid
+      - Contact lenses
+      - Artificial limb
+      - Portable oxygen tank
+      - Hearing aid
+      - Walker or cane
+      - Other
+      required: true
+    - id: 10
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - None of the above
+      - None of the above
+      - Cardiac arrest
+      - Stroke
+      - Brain hemorrhage
+      - Brain tumor
+      - Cardiac pacemaker
+      - Cancer
+      - Other
+      required: false

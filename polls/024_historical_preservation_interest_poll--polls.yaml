@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Preservation Interest Poll
+    pages:
+    - id: 1
+      name: preservation_priority
+      label: What is your interest in historical preservation?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participate_interest
+      label: What is your interest in participating in historical preservation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preservation_method
+      label: Which preservation method do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preservation_location
+      label: Which historical preservation location do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

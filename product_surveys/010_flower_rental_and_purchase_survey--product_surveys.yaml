@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flower Rental And Purchase Survey
+    pages:
+    - id: 1
+      name: rental_or_purchase
+      label: Rent or Buy
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Buy
+      required: false
+    - id: 2
+      name: occasions
+      label: Occasions
+      hint: null
+      type: select_multiple
+      options:
+      - wedding
+      - anniversary
+      - birthday
+      - graduation
+      - sympathy
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: flowers_type
+      label: Flowers Type
+      hint: null
+      type: select_multiple
+      options:
+      - roses
+      - lilies
+      - orchids
+      - carnations
+      - other
+      required: false
+    - id: 6
+      name: delivery
+      label: Delivery
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: pick_up
+      label: Pick-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_planners
+      label: Event Planners
+      hint: null
+      type: select_one
+      options:
+      - event planners
+      - Other
+      required: false
+    - id: 14
+      name: events
+      label: Events
+      hint: null
+      type: select_multiple
+      options:
+      - wedding
+      - corporate
+      - social
+      - private
+      required: false
+    - id: 15
+      name: other_events
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - wedding
+      - graduation
+      - birthday
+      - anniversary
+      - sympathy
+      required: false
+    - id: 16
+      name: flower_type
+      label: Flower Type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - multiple
+      - bouquet
+      - arrangement
+      required: false
+    - id: 17
+      name: flower_size
+      label: Flower Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: flower_size2
+      label: Flowers Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: flower_color
+      label: Flowers Color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - yellow
+      - pink
+      - white
+      required: false
+    - id: 20
+      name: flower_color2
+      label: Flower Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: other_colors
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - yellow
+      - green
+      - purple
+      required: false
+    - id: 22
+      name: flower_price
+      label: Flower Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: flower_price2
+      label: Flowers Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: flower_price3
+      label: Flower Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

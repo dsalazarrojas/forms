@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Powdered Juice Consumption Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_product
+      label: Preferred Powdered Juice Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''powdered_juice_a''}'
+      - '{''id'': 2, ''name'': ''powdered_juice_b''}'
+      - '{''id'': 3, ''name'': ''powdered_juice_c''}'
+      required: false
+    - id: 5
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''somewhat_dissatisfied''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false
+    - id: 7
+      name: recommended
+      label: Recommended to Friends
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 8
+      name: purchase_intent
+      label: Purchase Intent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''purchase''}'
+      - '{''id'': 2, ''name'': ''not_purchase''}'
+      required: false
+    - id: 9
+      name: purchase_channel
+      label: Purchase Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: survey_footer
+      label: Survey Footer
+      hint: null
+      type: note
+      options: []
+      required: false

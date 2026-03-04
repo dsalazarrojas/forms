@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order And Pickup Form
+    pages:
+    - id: 1
+      name: order_and_pickup_form
+      label: Order and Pick Up Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''8am-12pm'', ''value'': ''8am-12pm''}'
+      - '{''id'': 2, ''label'': ''12pm-4pm'', ''value'': ''12pm-4pm''}'
+      - '{''id'': 3, ''label'': ''4pm-8pm'', ''value'': ''4pm-8pm''}'
+      required: false
+    - id: 3
+      name: products
+      label: Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Product 1'', ''value'': ''product_1''}'
+      - '{''id'': 2, ''label'': ''Product 2'', ''value'': ''product_2''}'
+      - '{''id'': 3, ''label'': ''Product 3'', ''value'': ''product_3''}'
+      required: false
+    - id: 4
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

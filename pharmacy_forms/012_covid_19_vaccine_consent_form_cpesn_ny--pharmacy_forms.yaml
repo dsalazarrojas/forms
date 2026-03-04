@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Consent Form CPESN NY
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Demographics --
+      hint: Please provide your personal information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 6
+      name: patient_phone_ny
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_email_ny
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pharmacy_header
+      label: -- Pharmacy Information --
+      hint: Details of administering pharmacy
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pharmacy_name
+      label: Pharmacy Name
+      hint: Name of the pharmacy administering vaccine
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pharmacy_license
+      label: Pharmacy License Number
+      hint: NYS pharmacy license number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: Name of administering pharmacist
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vaccination_header
+      label: -- Vaccination Details --
+      hint: Information about your vaccine
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vaccine_product_ny
+      label: Vaccine Product Administered
+      hint: Type of COVID-19 vaccine
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      required: true
+    - id: 14
+      name: dose_number_ny
+      label: Dose Number
+      hint: First, second, or booster dose
+      type: select_one
+      options:
+      - First Dose
+      - Second Dose
+      - Booster Dose
+      - Additional Dose
+      required: true
+    - id: 15
+      name: vaccine_date_ny
+      label: Date of Vaccination
+      hint: Date vaccine is administered
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: lot_number
+      label: Vaccine Lot Number
+      hint: Lot number from vaccine vial
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consent_header
+      label: -- Consent and Authorization --
+      hint: Please review and acknowledge
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: receipt_vaccine_info
+      label: I Have Received and Reviewed Vaccine Information
+      hint: Acknowledgment of vaccine information
+      type: select_one
+      options:
+      - I have reviewed
+      - I have not reviewed
+      required: true
+    - id: 19
+      name: understand_benefits_risks
+      label: I Understand the Benefits and Risks
+      hint: Understood benefits and risks
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 20
+      name: authorize_administration
+      label: I Authorize Administration of the COVID-19 Vaccine
+      hint: You authorize the pharmacist to administer vaccine
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 21
+      name: medical_info_header
+      label: -- Medical Information --
+      hint: Important health background
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: known_allergies_ny
+      label: Known Allergies to Vaccine Components
+      hint: Allergies to vaccine ingredients
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_medications_ny
+      label: Current Medications
+      hint: List medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recent_vaccination_history
+      label: Recent Vaccination History
+      hint: Other vaccines received in last 14 days
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: acknowledgment_ny
+      label: I Acknowledge the Information is Accurate
+      hint: All provided information is correct
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true

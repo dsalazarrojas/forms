@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mulch Sale Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: mulch_type
+      label: Mulch Type
+      hint: null
+      type: select_one
+      options:
+      - Oak Mulch
+      - Pine Mulch
+      - Cedar Mulch
+      - Redwood Mulch
+      - Cypress Mulch
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true

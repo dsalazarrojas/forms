@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Walking And Play Session Guide
+    pages:
+    - id: 1
+      name: pet_walker_name
+      label: pet walker name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_preferences
+      label: session preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: owner_details
+      label: owner details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: session_time
+      label: session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pet_details
+      label: pet details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: owner_contact
+      label: owner contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: pet_walker_service
+      label: pet walker service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_sitter_phone
+      label: pet sitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_owner_agreement
+      label: pet owner agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: pet_walker_phone
+      label: pet walker phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pet_insurance
+      label: pet insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: vet_contact
+      label: vet contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pet_medical_history
+      label: pet medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_notes
+      label: owner notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_walker_notes
+      label: pet walker notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_address
+      label: owner address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pet_walker_address
+      label: pet walker address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pet_walker_service_area
+      label: pet walker service area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: session_location
+      label: session location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_start_time
+      label: session start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: session_end_time
+      label: session end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: session_duration
+      label: session duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: owner_signature
+      label: owner signature
+      hint: null
+      type: note
+      options: []
+      required: false

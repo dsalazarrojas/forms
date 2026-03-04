@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Necessity Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: main_page_service_type_other
+      label: Other Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main_page_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: main_page_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: main_page_doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: main_page_reasons
+      label: Reasons
+      hint: null
+      type: text
+      options: []
+      required: false

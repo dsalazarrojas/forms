@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Working Space Photo Release Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: What type of membership do you have
+      type: select_one
+      options:
+      - Day Pass
+      - Hot Desk Member
+      - Dedicated Desk Member
+      - Private Office Member
+      - Virtual Member
+      - Guest
+      required: true
+    - id: 6
+      name: event_name
+      label: Event or Occasion Name
+      hint: Name of event where photos will be taken
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: photo_purpose
+      label: Intended Photo Purpose
+      hint: How will photos be used
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Marketing Materials
+      - Press Releases
+      - Internal Communications
+      - Event Recaps
+      - Testimonials
+      - Advertising
+      required: true
+    - id: 9
+      name: release_scope
+      label: Release Scope
+      hint: What are you authorizing
+      type: select_one
+      options:
+      - Full Release for All Uses
+      - Website and Social Media Only
+      - Internal Use Only
+      - Event Photos Only
+      - No Group Photos
+      required: true
+    - id: 10
+      name: identifiable_use
+      label: Allow Use With Name or Identification
+      hint: Can we identify you in photos
+      type: select_one
+      options:
+      - Yes Use My Name
+      - No Keep Anonymous
+      - Only With Approval
+      required: true
+    - id: 11
+      name: testimonial_use
+      label: Allow Photo With Testimonial
+      hint: Can photos be used with your quotes
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: commercial_use
+      label: Allow Commercial Use
+      hint: Can photos be used in paid advertising
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: duration_of_release
+      label: Duration of Release
+      hint: How long does this authorization last
+      type: select_one
+      options:
+      - One Year
+      - Three Years
+      - Five Years
+      - Perpetual
+      - Until I Revoke
+      required: true
+    - id: 14
+      name: minor_involved
+      label: Is a Minor Involved
+      hint: Are you under 18 or photographing a minor
+      type: select_one
+      options:
+      - No I Am an Adult
+      - Yes I Am a Minor
+      - Yes Photographing a Minor
+      required: true
+    - id: 15
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Name of parent or guardian if minor
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parent_guardian_signature
+      label: Parent or Guardian Consent
+      hint: Guardian agrees to photo release
+      type: select_one
+      options:
+      - Yes I Consent
+      - Not Applicable
+      required: false
+    - id: 17
+      name: opt_out_areas
+      label: Areas to Opt Out Of
+      hint: Any specific uses you do not allow
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compensation
+      label: Do You Expect Compensation
+      hint: Are you receiving payment for photos
+      type: select_one
+      options:
+      - No Compensation Expected
+      - Yes Receiving Payment
+      - Receiving Other Benefits
+      required: true
+    - id: 19
+      name: photo_review_request
+      label: Want to Review Photos Before Use
+      hint: Would you like to approve photos first
+      type: select_one
+      options:
+      - Yes Please
+      - No Not Necessary
+      required: false
+    - id: 20
+      name: revocation_understanding
+      label: Understand Revocation Rights
+      hint: You know you can revoke this later
+      type: select_one
+      options:
+      - Yes I Understand
+      - No Please Explain
+      required: true
+    - id: 21
+      name: liability_release
+      label: Liability Release
+      hint: You release the space from photo-related claims
+      type: select_one
+      options:
+      - Yes I Release
+      - false
+      required: true
+    - id: 22
+      name: agreement_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Restrictions
+      hint: Any specific conditions or concerns
+      type: text
+      options: []
+      required: false

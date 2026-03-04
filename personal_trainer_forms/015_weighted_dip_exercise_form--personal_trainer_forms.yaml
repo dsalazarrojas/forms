@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weighted Dip Exercise Form
+    pages:
+    - id: 1
+      name: exercise_form
+      label: Exercise Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_exercise
+      label: Date of Exercise
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: weight_used
+      label: Weight Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: repetitions
+      label: Repetitions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exercise_type
+      label: Exercise Type
+      hint: null
+      type: select_one
+      options:
+      - Weighted Dip
+      - Weighted Bench Press
+      - Weighted Incline Press
+      - Weighted Decline Press
+      - Weighted Pull-Up
+      - Weighted Pull-Down
+      required: false
+    - id: 7
+      name: weight_machine_used
+      label: Weight Machine Used
+      hint: null
+      type: select_multiple
+      options:
+      - Machine A
+      - Machine B
+      - Machine C
+      required: false
+    - id: 8
+      name: weight_machine_setting
+      label: Weight Machine Setting
+      hint: null
+      type: select_multiple
+      options:
+      - Setting 1
+      - Setting 2
+      - Setting 3
+      required: false
+    - id: 9
+      name: weight_used_weight_machine
+      label: Weight Used (Machine)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes_weight_machine
+      label: Notes (Machine)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coach_notes
+      label: Coach Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gym_location
+      label: Gym Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: athlete_id
+      label: Athlete ID
+      hint: null
+      type: select_one
+      options:
+      - id1
+      - id2
+      - id3
+      required: false

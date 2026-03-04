@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Data Event Photography Contract
+    pages:
+    - id: 1
+      name: photographer_form
+      label: Event Photography Contract Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photographer_email
+      label: Photographer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: photographer_phone
+      label: Photographer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: service_details
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_info
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

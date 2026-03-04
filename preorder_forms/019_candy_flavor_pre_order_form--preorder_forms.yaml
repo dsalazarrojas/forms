@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Flavor Pre Order Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Delivery Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flavor_selection_1
+      label: First Flavor Choice
+      hint: Primary flavor
+      type: select_one
+      options:
+      - Strawberry delight
+      - Chocolate fudge
+      - Vanilla bean
+      - Lemon zest
+      - Raspberry swirl
+      - Mint chocolate
+      - Caramel sea salt
+      - Blueberry burst
+      required: true
+    - id: 9
+      name: quantity_flavor_1
+      label: Quantity for First Flavor
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: flavor_selection_2
+      label: Second Flavor Choice
+      hint: Secondary flavor
+      type: select_one
+      options:
+      - Strawberry delight
+      - Chocolate fudge
+      - Vanilla bean
+      - Lemon zest
+      - Raspberry swirl
+      - Mint chocolate
+      - Caramel sea salt
+      - Blueberry burst
+      - None
+      required: false
+    - id: 11
+      name: quantity_flavor_2
+      label: Quantity for Second Flavor
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: flavor_selection_3
+      label: Third Flavor Choice
+      hint: Third flavor
+      type: select_one
+      options:
+      - Strawberry delight
+      - Chocolate fudge
+      - Vanilla bean
+      - Lemon zest
+      - Raspberry swirl
+      - Mint chocolate
+      - Caramel sea salt
+      - Blueberry burst
+      - None
+      required: false
+    - id: 13
+      name: quantity_flavor_3
+      label: Quantity for Third Flavor
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: candy_size
+      label: Candy Size
+      hint: Size preference
+      type: select_one
+      options:
+      - Small - 4 oz
+      - Medium - 8 oz
+      - Large - 12 oz
+      - Extra large - 16 oz
+      - Variety pack
+      required: true
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: select_multiple
+      options:
+      - Vegan
+      - Gluten-free
+      - Sugar-free
+      - Dairy-free
+      - Nut-free
+      - Organic
+      - None
+      required: true
+    - id: 16
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How should it be packaged
+      type: select_one
+      options:
+      - Standard bag
+      - Gift box
+      - Eco-friendly packaging
+      - Bulk packaging
+      required: true
+    - id: 17
+      name: fulfillment_method
+      label: Fulfillment Method
+      hint: Pickup or delivery
+      type: select_one
+      options:
+      - Store pickup
+      - Curbside pickup
+      - Home delivery
+      - Mail shipping
+      required: true
+    - id: 18
+      name: pickup_date
+      label: Preferred Pickup Date
+      hint: When to pickup
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When to deliver
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: gift_message
+      label: Gift Message
+      hint: Include a message
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash on pickup
+      - Venmo
+      - PayPal
+      required: true
+    - id: 23
+      name: total_quantity
+      label: Total Quantity
+      hint: Total items ordered
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: order_notes
+      label: Order Notes
+      hint: Additional details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 26
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true

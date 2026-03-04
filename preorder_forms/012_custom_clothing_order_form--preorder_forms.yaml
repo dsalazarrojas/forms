@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Clothing Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: custom_item_name
+      label: Custom item name
+      hint: The name of the custom item ordered, e.g. "T-shirt with red sleeves and
+        custom text"
+      type: text
+      options: []
+      required: false

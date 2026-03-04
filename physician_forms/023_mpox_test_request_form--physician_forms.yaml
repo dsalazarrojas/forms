@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Test Request Form
+    pages:
+    - id: 1
+      name: physician_first_name
+      label: Physician First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physician_last_name
+      label: Physician Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false

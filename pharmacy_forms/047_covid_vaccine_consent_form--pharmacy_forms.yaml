@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Vaccine Consent Form
+    pages:
+    - id: 1
+      name: pharm_patient_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pharm_patient_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pharm_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pharm_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: pharm_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: pharm_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pharm_pharmacy_header
+      Label: -- Pharmacy Information --
+      hint: Details of administering pharmacy
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pharm_pharmacy_name
+      label: Pharmacy Name
+      hint: Name of the pharmacy
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pharm_pharmacist_name
+      Label: Administering Pharmacist Name
+      hint: Name of the pharmacist
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pharm_vaccination_date
+      label: Vaccination Date
+      hint: Date you will receive vaccine
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: pharm_vaccine_info_header
+      Label: -- Vaccine Information and Consent --
+      hint: Your acknowledgment of vaccine information
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pharm_received_vaccine_info
+      label: I Have Received COVID-19 Vaccine Information
+      hint: I received vaccine information materials
+      type: select_one
+      options:
+        - Yes, received information
+        - No information provided
+        - Refused information
+      required: true
+    - id: 13
+      name: pharm_understand_benefits
+      Label: I Understand the Benefits of Vaccination
+      hint: Protection against COVID-19 infection
+      type: select_one
+      options:
+        - Yes, understand
+        - Have questions
+        - No
+      required: true
+    - id: 14
+      name: pharm_understand_risks
+      label: I Understand Possible Side Effects and Risks
+      hint: Understood vaccine risks and side effects
+      type: select_one
+      options:
+        - Yes, understand
+        - Have questions
+        - No
+      required: true
+    - id: 15
+      name: pharm_medical_header
+      Label: -- Medical History --
+      hint: Your relevant health information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pharm_allergies
+      label: Known Allergies
+      hint: Allergies to vaccine components or medications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pharm_current_medications
+      Label: Current Medications
+      hint: Medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pharm_chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pharm_immunocompromised
+      Label: Are You Immunocompromised
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 20
+      name: pharm_pregnancy_nursing
+      label: Pregnant or Breastfeeding
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+        - Pregnant
+        - Breastfeeding
+        - Neither
+        - Prefer Not to Say
+      required: false
+    - id: 21
+      name: pharm_consent_statement_header
+      Label: -- Consent Statement --
+      hint: Your final consent
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: pharm_authorize_vaccination
+      label: I Authorize COVID-19 Vaccination
+      hint: I authorize the pharmacist to administer vaccine
+      type: select_one
+      options:
+        - I authorize
+        - I do not authorize
+      required: true
+    - id: 23
+      name: pharm_voluntary_consent
+      Label: This Consent is Voluntary
+      hint: I am freely choosing this vaccination
+      type: select_one
+      options:
+        - Voluntary, not coerced
+        - Under pressure
+      required: true
+    - id: 24
+      name: pharm_truthful_information
+      label: All Information Provided is Truthful
+      hint: I confirm all information is accurate
+      type: select_one
+      options:
+        - Information is truthful
+        - Some inaccuracies may exist
+      required: true
+    - id: 25
+      name: pharm_consent_date
+      Label: Date of Consent
+      hint: Date you are providing consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Permission Acknowledgement Form
+    pages:
+    - id: 1
+      name: personal_action_planned
+      label: Personal Action Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_action_type
+      label: Personal Action Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: personal_action_date
+      label: Personal Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: personal_action_time
+      label: Personal Action Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: personal_action_location
+      label: Personal Action Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: personal_action_details
+      label: Personal Action Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: personal_signature
+      label: Personal Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the above document.
+      - I have not read and understand the above document.
+      required: false

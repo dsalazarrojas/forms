@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Tracking Form Template
+    pages:
+    - id: 1
+      name: tracking_info_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tracked_candidate_name
+      label: Candidate Name
+      hint: As entered in the ATS
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: application_id_tracking
+      label: Application ID
+      hint: Internal unique code for the applicant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title_tracking
+      label: Position Title
+      hint: The role they are being tracked for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tracking_hiring_manager
+      label: Hiring Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date_val
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: stage_tracking_section
+      label: -- Recruitment Stage Tracking --
+      hint: Monitoring the progress through the funnel
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recruitment_current_status
+      label: Current Status
+      hint: Where is the candidate now
+      type: select_one
+      options:
+      - Screened
+      - 1st Interview
+      - 2nd Interview
+      - Case Study
+      - Final Stage
+      - Offer Extended
+      - Hired
+      - Declined
+      - Withdrawn
+      required: true
+    - id: 9
+      name: last_action_taken_desc
+      label: Last Action Taken
+      hint: Briefly describe the most recent step completed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scheduled_next_step_name
+      label: Scheduled Next Step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scheduled_next_step_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: performance_assessment_section
+      label: -- Performance Assessment --
+      hint: Average ratings from all interviewers
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: aggregate_technical_score
+      label: Technical Score
+      hint: 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: aggregate_behavioral_score
+      label: Behavioral Score
+      hint: 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: aggregate_overall_score
+      label: Overall Score
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: logistics_admin_section
+      label: -- Logistics and Admin --
+      hint: Internal verification statuses
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reference_check_status_val
+      label: Reference Check Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In-Progress
+      - Completed - Positive
+      - Completed - Negative
+      - N/A
+      required: true
+    - id: 18
+      name: background_check_status_val
+      label: Background Check Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In-Progress
+      - Cleared
+      - Issues Found
+      - N/A
+      required: true
+    - id: 19
+      name: recruiter_in_charge_name
+      label: Recruiter in Charge
+      hint: The person managing this process
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: internal_tracking_notes
+      label: Internal Feedback and Notes
+      hint: Private recruiter comments
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tracking_update_date_val
+      label: Tracking Update Date
+      hint: When was this record last updated
+      type: date
+      options: []
+      required: true

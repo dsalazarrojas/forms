@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Nail Polish Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_polish
+      label: nail-polish
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Pink
+      - Blue
+      - Yellow
+      - Green
+      - Purple
+      - Orange
+      - Brown
+      required: false
+    - id: 3
+      name: nail_size
+      label: nail-size
+      hint: null
+      type: select_one
+      options:
+      - 14ml
+      - 17ml
+      - 20ml
+      - 22ml
+      required: false
+    - id: 4
+      name: nail_color
+      label: nail-color
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Gloss
+      - Matte
+      required: false
+    - id: 5
+      name: nail_shape
+      label: nail-shape
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Round
+      - Square
+      required: false
+    - id: 6
+      name: nail_tip
+      label: nail-tip
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Oval
+      required: false
+    - id: 7
+      name: polish_quantity
+      label: polish-quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: polish_quantity_2
+      label: polish-quantity-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false

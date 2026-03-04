@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Notification Sign Up Form
+    pages:
+    - id: 1
+      name: notification_header
+      label: -- Personal Information --
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: notification_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: notification_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: notification_email
+      label: Email Address
+      hint: Your primary email for notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: notification_phone
+      label: Phone Number
+      hint: Your phone number for SMS notifications
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: notification_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY to verify eligibility
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notification_zip_code
+      label: ZIP Code
+      hint: Your residential ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notification_preference_header
+      label: -- Notification Preferences --
+      hint: How you would like to be notified
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notification_methods
+      label: Select Your Preferred Notification Methods
+      hint: Check all methods you prefer
+      type: select_multiple
+      options:
+        - Email
+        - Text Message
+        - Phone Call
+        - Mail
+      required: true
+    - id: 10
+      name: availability_header
+      label: -- Vaccine Availability --
+      hint: When would you like vaccination available
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vaccine_type_notification
+      Label: Vaccine Type Preference
+      hint: Which vaccine would you prefer
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - AstraZeneca
+        - Novavax
+        - No Preference
+      required: false
+    - id: 12
+      name: willing_to_travel
+      label: Are You Willing to Travel for Vaccination
+      hint: Will you travel to get vaccinated
+      type: select_one
+      options:
+        - Yes, within 5 miles
+        - Yes, within 10 miles
+        - Yes, any distance
+        - No, must be local
+      required: true
+    - id: 13
+      name: preferred_facility_type
+      label: Preferred Vaccination Location Type
+      hint: Where you would prefer to be vaccinated
+      type: select_one
+      options:
+        - Medical clinic
+        - Hospital
+        - Pharmacy
+        - Community center
+        - Mobile clinic
+        - No preference
+      required: false
+    - id: 14
+      name: appointment_availability_header
+      label: -- Appointment Availability --
+      hint: When can you get vaccinated
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: available_weekdays
+      label: Are You Available on Weekdays
+      hint: Monday through Friday availability
+      type: select_one
+      options:
+        - Yes, anytime
+        - Yes, mornings only
+        - Yes, afternoons only
+        - Yes, evenings only
+        - No
+      required: true
+    - id: 16
+      name: available_weekends
+      label: Are You Available on Weekends
+      hint: Saturday and Sunday availability
+      type: select_one
+      options:
+        - Yes, anytime
+        - Yes, mornings only
+        - Yes, afternoons only
+        - Yes, evenings only
+        - No
+      required: true
+    - id: 17
+      name: health_info_header
+      label: -- Health Information --
+      hint: Relevant health background
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: health_conditions
+      label: Do You Have Any Health Conditions That May Affect Vaccination
+      hint: Any relevant health issues
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Prefer Not to Say
+      required: false
+    - id: 19
+      name: conditions_details
+      label: If Yes, Please Describe Your Conditions
+      hint: Details about your health conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies_notification
+      Label: Do You Have Allergies to Vaccine Components
+      hint: Any vaccine component allergies
+      type: select_one
+      options:
+        - No allergies
+        - Have allergies
+        - Unsure
+      required: true
+    - id: 21
+      name: previous_covid_notification
+      label: Have You Had COVID-19 Previously
+      hint: Any previous COVID-19 infection
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: false
+    - id: 22
+      name: household_members_at_risk
+      label: Do You Have Vulnerable Household Members
+      hint: Elderly or immunocompromised family members
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 23
+      name: consent_header
+      label: -- Consent and Agreement --
+      hint: Please acknowledge the following
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: privacy_consent
+      Label: I Agree to Receive Notifications
+      hint: I consent to vaccination notification communications
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true
+    - id: 25
+      name: contact_verification
+      label: I Confirm My Contact Information is Accurate
+      hint: All contact details are current and correct
+      type: select_one
+      options:
+        - Confirmed accurate
+        - Needs updating
+      required: true

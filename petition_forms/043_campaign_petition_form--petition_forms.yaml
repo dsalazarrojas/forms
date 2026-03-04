@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Petition Form
+    pages:
+    - id: 1
+      name: signer_name
+      label: Signer Name
+      hint: Full name of person signing the petition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: City or postal area for verification
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Optional contact email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: statement_of_support
+      label: Statement of Support
+      hint: Short statement explaining support for the petition
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: signature_date
+      label: Date of Signature
+      hint: When the petition was signed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consent_public_name
+      label: Consent to Publish Name
+      hint: Permission to publish signer name publicly
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: affiliation
+      label: Affiliation
+      hint: Organization or group if relevant
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: verification_code
+      label: Verification Code
+      hint: For validating the signer if provided
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other message for petition organizers
+      type: text
+      options: []
+      required: false

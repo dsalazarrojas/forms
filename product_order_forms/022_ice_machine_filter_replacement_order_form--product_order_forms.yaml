@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ice Machine Filter Replacement Order Form
+    pages:
+    - id: 1
+      name: machine_type
+      label: Ice Machine Type
+      hint: null
+      type: select_one
+      options:
+      - Ice Machine 1
+      - Ice Machine 2
+      - Ice Machine 3
+      required: false
+    - id: 2
+      name: filter_type
+      label: Filter Type
+      hint: null
+      type: select_one
+      options:
+      - Ice Filter 1
+      - Ice Filter 2
+      - Ice Filter 3
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: machine_id
+      label: Machine ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: filter_id
+      label: Filter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetic Product Reorder Form
+    pages:
+    - id: 1
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reorder_request_date
+      label: reorder_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product_category
+      label: product_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reorder_request_frequency
+      label: reorder_request_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reorder_request_quantity
+      label: reorder_request_quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reorder_request_reason
+      label: reorder_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reorder_request_frequency_type
+      label: reorder_frequency_type
+      hint: null
+      type: select_multiple
+      options:
+      - reorder_daily
+      - reorder_weekly
+      - reorder_bi_weekly
+      required: false
+    - id: 9
+      name: reorder_status
+      label: reorder_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handbag Exclusive Release Pre Order Form
+    pages:
+    - id: 1
+      name: pre_order_info
+      label: pre_order_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_rate
+      label: Shipping Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank transfer
+      required: false
+    - id: 12
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: confirm_order
+      label: Confirm Order
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

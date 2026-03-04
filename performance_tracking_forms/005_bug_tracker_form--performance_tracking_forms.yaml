@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracker Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional for immediate contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bug_details
+      label: -- Bug Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bug_title
+      label: Bug title
+      hint: Brief summary of the issue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: bug_description
+      label: Detailed description
+      hint: What exactly is not working as expected
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reproduce_steps
+      label: Steps to reproduce the bug
+      hint: List each step clearly
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_behavior
+      label: Expected behavior
+      hint: How should the system behave
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_behavior
+      label: Current behavior
+      hint: What is actually happening
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: urgency_level
+      label: Urgency level
+      hint: How quickly does this need to be fixed
+      type: select_one
+      options:
+      - Critical - System down
+      - High - Major feature broken
+      - Medium - Feature partially working
+      - Low - Minor issue
+      required: true
+    - id: 12
+      name: system_info
+      label: -- System Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: operating_system
+      label: Operating system
+      hint: null
+      type: select_one
+      options:
+      - Windows 10
+      - Windows 11
+      - macOS
+      - Linux
+      - iOS
+      - Android
+      - Other
+      required: true
+    - id: 14
+      name: os_version
+      label: Operating system version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: browser_name
+      label: Browser being used
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Opera
+      - Other
+      required: true
+    - id: 16
+      name: browser_version
+      label: Browser version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: device_type
+      label: Device type
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Tablet
+      - Mobile phone
+      required: true
+    - id: 18
+      name: software_version
+      label: Application version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: network_connection
+      label: Network connection type
+      hint: null
+      type: select_one
+      options:
+      - WiFi
+      - Wired
+      - Mobile data
+      - Other
+      required: false
+    - id: 20
+      name: frequency_occurrence
+      label: How often does this occur?
+      hint: null
+      type: select_one
+      options:
+      - Every time
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Could not reproduce
+      required: true
+    - id: 21
+      name: error_message
+      label: Any error message or code?
+      hint: Copy and paste if available
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: workaround_available
+      label: Is there a workaround?
+      hint: null
+      type: select_one
+      options:
+      - Yes, describe below
+      - No workaround found
+      - Unknown
+      required: false
+    - id: 23
+      name: workaround_details
+      label: Workaround description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: impact_scope
+      label: How many users are affected?
+      hint: null
+      type: select_one
+      options:
+      - Just me
+      - A few users
+      - Multiple departments
+      - All users
+      required: true

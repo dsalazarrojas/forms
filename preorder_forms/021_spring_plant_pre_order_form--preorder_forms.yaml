@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: spring_plant_pre_order_form
+    pages:
+    - id: 1
+      name: spring_plant_pre_order_form
+      label: Spring Plant Pre Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spring Flowers''}'
+      - '{''value'': ''Summer Blooms''}'
+      - '{''value'': ''Fall Foliage''}'
+      - '{''value'': ''Winter Greens''}'
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery_time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

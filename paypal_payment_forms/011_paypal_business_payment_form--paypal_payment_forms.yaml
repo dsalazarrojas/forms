@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Business Payment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - PayPal Payment Forms
+      - Other Forms
+      required: false
+    - id: 4
+      name: form_category_hint
+      label: form_category_hint
+      hint: Optional. Select a category for your form.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_description_short
+      label: form_description_short
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_description_long
+      label: form_description_long
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_price
+      label: form_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_price_currency
+      label: form_price_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 9
+      name: form_currency_symbol
+      label: form_currency_symbol
+      hint: null
+      type: select_one
+      options:
+      - $
+      - €
+      - ¥
+      required: false
+    - id: 10
+      name: form_buttons
+      label: form_buttons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_buttons_hint
+      label: form_buttons_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_terms
+      label: form_terms
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Association Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Cash
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

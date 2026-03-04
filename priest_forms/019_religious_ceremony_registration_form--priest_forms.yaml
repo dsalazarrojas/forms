@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: religious_ceremony_registration_form
+    pages:
+    - id: 1
+      name: ceremony_title
+      label: Ceremony Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ceremony_date
+      label: Ceremony Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: ceremony_time
+      label: Ceremony Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: officiant
+      label: Officiant
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: ceremony_type
+      label: Ceremony Type
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: ceremony_description
+      label: Ceremony Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

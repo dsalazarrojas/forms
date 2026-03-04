@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symptom Screening Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: symptom_name
+      label: Symptom Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptom_category
+      label: Symptom Category
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Abdominal Pain
+      - Chest Pain
+      required: false
+    - id: 5
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_id
+      label: Doctor Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: doctor_email
+      label: Doctor E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: patient_race
+      label: Patient Race
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Asian
+      required: false
+    - id: 16
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: blood_sugar
+      label: Blood Sugar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_medications
+      label: Patient Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_medical_conditions
+      label: Patient Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_tests
+      label: Patient Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_surgeries
+      label: Patient Surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

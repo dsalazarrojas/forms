@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Survey
+    pages:
+    - id: 1
+      name: public_awareness
+      label: Public Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 4
+      name: healthcare_access
+      label: Healthcare Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prevention_measures
+      label: Prevention Measures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: public_health_measures
+      label: Public Health Measures
+      hint: null
+      type: select_one
+      options:
+      - Option 7
+      - Option 8
+      required: false
+    - id: 7
+      name: control_measures
+      label: Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Option 9
+      - Option 10
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

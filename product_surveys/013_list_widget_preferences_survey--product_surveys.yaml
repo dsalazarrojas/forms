@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: list_widget_preferences_survey
+    pages:
+    - id: 1
+      name: user_preferences
+      label: User Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: usage_across_platforms
+      label: How do you use the list widget across platforms?
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Web
+      - Other
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: What is your satisfaction rating for the list widget?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: feature_priorities
+      label: What features are a priority for you?
+      hint: null
+      type: select_multiple
+      options:
+      - Feature A
+      - Feature B
+      - Feature C
+      - Feature D
+      required: false
+    - id: 5
+      name: list_widget_experience
+      label: How would you describe your experience with the list widget?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: list_widget_satisfaction
+      label: How satisfied are you with the list widget?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false

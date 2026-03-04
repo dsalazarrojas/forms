@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: April Matilda Jane Pre Order
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
+      required: true
+    - id: 9
+      name: color
+      label: Color Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: expected_ship_date
+      label: Expected Ship Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: total_amount
+      label: Total Order Amount
+      hint: null
+      type: number
+      options: []
+      required: true

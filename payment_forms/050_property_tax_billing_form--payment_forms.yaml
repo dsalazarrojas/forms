@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Tax Billing Form
+    pages:
+    - id: 1
+      name: property_tax_billing_form
+      label: Property Tax Billing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: municipality
+      label: municipality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 3
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tax_amount
+      label: tax_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 6
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_received
+      label: time_received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Unpaid''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

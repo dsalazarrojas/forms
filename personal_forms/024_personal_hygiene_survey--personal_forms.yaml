@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Hygiene Survey
+    pages:
+    - id: 1
+      name: personal_hygiene_practices
+      label: Personal Hygiene Practices
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hand_washing_frequency
+      label: Hand Washing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shower_frequency
+      label: Shower Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: toothbrush_use
+      label: Toothbrush Use
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: toothpaste_use
+      label: Toothpaste Use
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: flossing_frequency
+      label: Flossing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: diet_quality
+      label: Diet Quality
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: social_connections
+      label: Social Connections
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: stress_level
+      label: Stress Level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

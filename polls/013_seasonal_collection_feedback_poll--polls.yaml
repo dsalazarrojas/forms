@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Collection Feedback Poll
+    pages:
+    - id: 1
+      name: intro
+      label: How did we do?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seasonal_collection
+      label: What was the most interesting item in the latest collection?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: season
+      label: What season is the collection from?
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
+      required: true
+    - id: 4
+      name: agree
+      label: Would you consider purchasing a seasonal collection like this again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: price
+      label: What price would be too high for this collection?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Any additional feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: When did you visit?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: At what time did you visit?
+      hint: null
+      type: time
+      options: []
+      required: true

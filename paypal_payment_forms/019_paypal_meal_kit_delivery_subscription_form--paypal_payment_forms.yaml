@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Meal Kit Delivery Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: password
+      label: Password
+      hint: Your password
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Your subscription plan
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Monthly
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: Your payment method
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: Your payment amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: Your zip code
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Photographer
+    pages:
+    - id: 1
+      name: request_a_photographer
+      label: Request A Photographer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: photographer_name
+      label: photographer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_details
+      label: session_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment
+      label: equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: photographer_equipment
+      label: photographer_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: client_requirements
+      label: client_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: studio_phone
+      label: studio_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: studio_email
+      label: studio_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: photographer_phone
+      label: photographer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

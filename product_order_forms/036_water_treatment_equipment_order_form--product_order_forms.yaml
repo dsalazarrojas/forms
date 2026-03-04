@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_treatment_equipment_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - equipment_a
+      - equipment_b
+      - equipment_c
+      required: true
+    - id: 5
+      name: product_details
+      label: product_details
+      hint: null
+      type: text
+      options: []
+      required: true

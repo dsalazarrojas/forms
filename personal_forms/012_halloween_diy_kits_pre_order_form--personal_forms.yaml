@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween DIY Kits Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 10
+      name: kits
+      label: Kits
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Kit
+      - Advanced Kit
+      - Deluxe Kit
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 12
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

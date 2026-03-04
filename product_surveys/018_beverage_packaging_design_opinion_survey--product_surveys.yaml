@@ -1,0 +1,299 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Packaging Design Opinion Survey
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- Respondent Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 5
+        name: shopping_frequency
+        label: How Often Do You Purchase Beverages
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - 3-4 times per week
+          - 1-2 times per week
+          - 2-4 times per month
+          - Once a month or less
+        required: true
+      - id: 6
+        name: section_header_current_packaging
+        label: -- Current Packaging Opinion --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: current_design_appeal
+        label: How Much Do You Like Current Beverage Packaging Designs
+        hint: null
+        type: select_one
+        options:
+          - Very much
+          - Somewhat
+          - Neutral
+          - Not very much
+          - Not at all
+        required: true
+      - id: 8
+        name: current_packaging_elements
+        label: What Elements Make Packaging Appealing (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - Color
+          - Shape/design
+          - Typography/font
+          - Sustainability messaging
+          - Brand logo
+          - Product information clarity
+          - Uniqueness
+          - Premium feel
+        required: true
+      - id: 9
+        name: current_brand_preference
+        label: Which Beverage Packaging Design Do You Find Most Appealing
+        hint: Favorite brands or designs
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_header_new_concept
+        label: -- New Packaging Concept Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: concept_description
+        label: First Impressions of New Design
+        hint: Initial thoughts on the new packaging concept?
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: visual_appeal
+        label: Visual Appeal of New Design
+        hint: How appealing is the new packaging visually?
+        type: select_one
+        options:
+          - Very appealing
+          - Appealing
+          - Neutral
+          - Not very appealing
+          - Not appealing at all
+        required: true
+      - id: 13
+        name: color_scheme
+        label: Opinion on Color Scheme
+        hint: null
+        type: select_one
+        options:
+          - Excellent choice
+          - Good choice
+          - Acceptable
+          - Could be better
+          - Poor choice
+        required: true
+      - id: 14
+        name: typography
+        label: Typography and Text Readability
+        hint: Is the text easy to read?
+        type: select_one
+        options:
+          - Very readable
+          - Readable
+          - Adequate
+          - Difficult to read
+          - Very difficult to read
+        required: true
+      - id: 15
+        name: uniqueness
+        label: Does This Design Stand Out From Competitors
+        hint: null
+        type: select_one
+        options:
+          - Yes, very distinctive
+          - Yes, somewhat distinctive
+          - Similar to others
+          - Less distinctive
+          - Not distinctive
+        required: true
+      - id: 16
+        name: modern_perception
+        label: Does the Design Feel Modern or Updated
+        hint: null
+        type: select_one
+        options:
+          - Very modern
+          - Modern
+          - Neutral
+          - Outdated
+          - Very outdated
+        required: true
+      - id: 17
+        name: section_header_materials
+        label: -- Packaging Materials --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: material_preference
+        label: Preferred Packaging Material
+        hint: What material do you prefer?
+        type: select_one
+        options:
+          - Plastic bottle
+          - Glass bottle
+          - Aluminum can
+          - Carton/box
+          - Sustainable/eco-friendly
+          - No preference
+        required: true
+      - id: 19
+        name: sustainability_important
+        label: How Important is Eco-Friendly Packaging
+        hint: null
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Somewhat important
+          - Not very important
+          - Not important
+        required: true
+      - id: 20
+        name: recyclable_perception
+        label: Is the Packaging Perceived as Recyclable
+        hint: null
+        type: select_one
+        options:
+          - Yes, very much
+          - Yes, probably
+          - Uncertain
+          - Probably not
+          - No
+        required: true
+      - id: 21
+        name: section_header_purchase
+        label: -- Purchase Intent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: purchase_likelihood
+        label: Would This Packaging Influence Your Purchase Decision
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 23
+        name: price_perception
+        label: Does This Packaging Suggest Premium Quality
+        hint: null
+        type: select_one
+        options:
+          - Very much
+          - Somewhat
+          - Neutral
+          - Not really
+          - Not at all
+        required: true
+      - id: 24
+        name: value_perception
+        label: Does Packaging Represent Good Value for Money
+        hint: null
+        type: select_one
+        options:
+          - Yes, great value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 25
+        name: section_header_specific_feedback
+        label: -- Specific Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: strengths
+        label: What Are the Strengths of This Design
+        hint: What works well?
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: weaknesses
+        label: What Could Be Improved
+        hint: Areas for improvement?
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: specific_changes
+        label: What Specific Changes Would You Recommend
+        hint: Concrete suggestions
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: additional_comments
+        label: Additional Comments or Observations
+        hint: Any other thoughts?
+        type: text
+        options: []
+        required: false

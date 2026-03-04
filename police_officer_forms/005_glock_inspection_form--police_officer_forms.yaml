@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: glock_inspection_form
+    pages:
+    - id: 1
+      name: glock_inspection_form
+      label: glock_inspection_form
+      hint: null
+      type: select_one
+      options:
+      - Glock 17
+      - Glock 19
+      - Glock 20
+      - Glock 21
+      - Glock 22
+      - Glock 23
+      - Glock 24
+      - Glock 25
+      - Glock 26
+      - Glock 27
+      - Glock 28
+      - Glock 29
+      - Glock 30
+      - Glock 31
+      - Glock 32
+      required: false
+    - id: 2
+      name: glock_condition_form
+      label: glock_condition_form
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: glock_mechanical_functioning_form
+      label: glock_mechanical_functioning_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 4
+      name: glock_safety_features_form
+      label: glock_safety_features_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: glock_magazine_capacity_form
+      label: glock_magazine_capacity_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: glock_barrel_condition_form
+      label: glock_barrel_condition_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: glock_slide_spring_tension_form
+      label: glock_slide_spring_tension_form
+      hint: null
+      type: select_one
+      options:
+      - Tight
+      - Loose
+      - Not Present
+      required: false
+    - id: 8
+      name: glock_trigger_safety_form
+      label: glock_trigger_safety_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: glock_gun_weight_form
+      label: glock_gun_weight_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: glock_length_form
+      label: glock_length_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: glock_width_form
+      label: glock_width_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: glock_height_form
+      label: glock_height_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: glock_comments_form
+      label: glock_comments_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: glock_inspection_date_form
+      label: glock_inspection_date_form
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: glock_inspector_name_form
+      label: glock_inspector_name_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: glock_inspector_title_form
+      label: glock_inspector_title_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: glock_organization_form
+      label: glock_organization_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: glock_comments_form
+      label: glock_comments_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: glock_inspection_number_form
+      label: glock_inspection_number_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: glock_serial_number_form
+      label: glock_serial_number_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: glock_model_number_form
+      label: glock_model_number_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: glock_barrel_length_form
+      label: glock_barrel_length_form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: glock_barrel_gauge_form
+      label: glock_barrel_gauge_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: glock_barrel_condition_form
+      label: glock_barrel_condition_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: glock_other_notes_form
+      label: glock_other_notes_form
+      hint: null
+      type: text
+      options: []
+      required: false

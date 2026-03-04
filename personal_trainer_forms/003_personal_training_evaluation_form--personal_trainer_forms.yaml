@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Evaluation Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: progress_level
+      label: progress_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: goals_and_objectives
+      label: goals_and_objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: trainer_comments
+      label: trainer_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Screening And Consent Form
+    pages:
+    - id: 1
+      name: screening_information
+      label: Screening Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_details
+      label: Vaccine Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: screening_results
+      label: Screening Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''Mpox Vaccination Status'': True}'
+      - '{''Mpox Vaccination Status'': False}'
+      - '{''Mpox Vaccination Status'': ''Unknown''}'
+      required: false
+    - id: 5
+      name: vaccination_history
+      label: Vaccination History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - '{''Consent Status'': True}'
+      - '{''Consent Status'': False}'
+      - '{''Consent Status'': ''Declined''}'
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false

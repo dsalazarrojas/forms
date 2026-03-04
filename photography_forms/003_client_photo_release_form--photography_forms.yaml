@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Photo Release Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name of Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photography_date
+      label: Date of Photography Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_location
+      label: Location of Photography Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_scope
+      label: Scope of Photo Release
+      hint: Select how the photos may be used
+      type: select_one
+      options:
+      - Personal use only
+      - Social media and website
+      - Print advertisements
+      - Digital marketing
+      - All promotional purposes
+      required: true
+    - id: 8
+      name: usage_duration
+      label: Duration of Usage Rights
+      hint: How long will the photos be used?
+      type: select_one
+      options:
+      - One year
+      - Two years
+      - Five years
+      - Indefinite
+      - Specific event only
+      required: true
+    - id: 9
+      name: name_attribution_required
+      label: Do you require credit/attribution for photos used?
+      hint: null
+      type: select_one
+      options:
+      - Yes, always required
+      - Yes, preferred
+      - No attribution needed
+      required: false
+    - id: 10
+      name: right_to_refuse
+      label: Do you retain the right to request removal of specific photos?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: commercial_use_allowed
+      label: Are you authorizing commercial use of the photos?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully authorized
+      - Limited commercial use only
+      - No commercial use
+      required: true
+    - id: 12
+      name: minor_in_photos
+      label: Are there minors in the photos?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: parent_consent
+      label: If minors are included, is parental consent obtained?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 14
+      name: release_agreement
+      label: I agree that the photographer may use these photos as described above
+      hint: By checking this box, you confirm your understanding and agreement
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

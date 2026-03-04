@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: LED Mode Selection Survey
+    pages:
+    - id: 1
+      name: home_owner
+      label: Home Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: smart_lighting_users
+      label: Smart Lighting Users
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: led_usage
+      label: LED Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lighting_satisfaction
+      label: Lighting Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

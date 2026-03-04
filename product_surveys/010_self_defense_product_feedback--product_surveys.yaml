@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Defense Product Feedback
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: Please fill out customer details below
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_experience
+      label: Product Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_satisfaction
+      label: How Satisfied Are You
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recommendation
+      label: Would You Recommend
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Very Likely
+      - Not At All Likely
+      required: false
+    - id: 5
+      name: feedback
+      label: Additional Feedback
+      hint: Please describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_insight
+      label: Safety Insight
+      hint: Any safety insights you want to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: mask_request_form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Product Order Forms
+      - Request Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_group
+      label: user_group
+      hint: null
+      type: select_one
+      options:
+      - Physicians
+      - Nurses
+      - First Responders
+      - Hospitals
+      - Healthcare Organizations
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_note
+      label: submitted_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

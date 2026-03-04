@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Action Figure Pre Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for order confirmation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for order and shipping updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: Full shipping address including postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional phone for delivery issues
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: figure_variant
+      label: Figure variant
+      hint: Select the variant you want to pre order
+      type: select_one
+      options:
+      - Standard edition
+      - Deluxe edition
+      - Limited edition
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of units to pre order
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: expected_release_date
+      label: Expected release date
+      hint: Estimated release or shipping date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay for pre order
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 10
+      name: preorder_terms_acceptance
+      label: Pre order terms acceptance
+      hint: Confirm you accept pre order terms and refund policy
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 11
+      name: promotional_code
+      label: Promotional code
+      hint: Enter promo code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any shipping or order notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: yonni_red_brand_products
+    pages:
+    - id: 1
+      name: product_order_form
+      label: Product Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: total_price
+      label: total price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: send_total
+      label: Send Total
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Cash App
+      - Other
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_complete
+      label: Payment Complete
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash App
+      - Bank Transfer
+      - Other
+      required: false

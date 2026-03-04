@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Inventory Clearance Sale Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Name of the person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business or organization name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing purposes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Delivery address if different from billing
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_1_description
+      label: Item 1 - Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_1_sku
+      label: Item 1 - SKU or Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: item_1_regular_price
+      label: Item 1 - Regular Price per Unit
+      hint: Original price before discount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: item_1_sale_price
+      label: Item 1 - Clearance Sale Price
+      hint: Discounted price per unit
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: item_2_description
+      label: Item 2 - Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: item_2_sale_price
+      label: Item 2 - Clearance Price per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: item_3_description
+      label: Item 3 - Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_3_quantity
+      label: Item 3 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: item_3_sale_price
+      label: Item 3 - Clearance Price per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping - 5-7 business days
+      - Expedited Shipping - 2-3 business days
+      - Overnight Shipping
+      - Local Pickup
+      - Will Call
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When would you like items delivered
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions or Packaging Requests
+      hint: Any special handling or requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 22
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

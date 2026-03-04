@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency-medical-consent-form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical-history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: select_multiple
+      options:
+      - mother
+      - father
+      - sister
+      - brother
+      - spouse
+      - child
+      - other
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_team
+      label: medical-team
+      hint: null
+      type: select_multiple
+      options:
+      - primary-care-physician
+      - primary-care-nurse
+      - emergency-department-doctor
+      - other
+      required: false
+    - id: 12
+      name: emergency_services
+      label: emergency-services
+      hint: null
+      type: select_one
+      options:
+      - hospital
+      - emergency-department
+      - emergency-ambulance
+      - other
+      required: false
+    - id: 13
+      name: emergency_department_doctor
+      label: emergency-department-doctor
+      hint: null
+      type: select_multiple
+      options:
+      - attending-physician
+      - emergency-department-physician
+      - primary-care-physician
+      - other
+      required: false
+    - id: 14
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: patient_acknowledgement
+      label: patient-acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - i-agree
+      - i-disagree
+      - i-understand-but-dont-know
+      required: false

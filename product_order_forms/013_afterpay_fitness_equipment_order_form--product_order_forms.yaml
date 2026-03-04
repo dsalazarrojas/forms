@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Fitness Equipment Order Form
+    pages:
+    - id: 1
+      name: client
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name for delivery
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: equipment_model
+      label: Equipment model
+      hint: Model or SKU
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: delivery_option
+      label: Delivery option
+      hint: Select delivery arrangement
+      type: select_one
+      options:
+      - Standard
+      - White glove
+      - Pickup
+      required: true
+    - id: 7
+      name: assembly_required
+      label: Assembly required
+      hint: Does the equipment require assembly
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: afterpay
+      label: Use Afterpay
+      hint: Choose payment with Afterpay
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: installation_notes
+      label: Installation notes
+      hint: Notes for installation crew
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Daytime contact number
+      type: text
+      options: []
+      required: false

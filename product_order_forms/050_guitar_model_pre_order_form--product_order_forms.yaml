@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: guitar_model_pre_order_form
+    pages:
+    - id: 1
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: builder
+      label: Builder
+      hint: null
+      type: select_one
+      options:
+      - Gibson
+      - Fender
+      - Taylor
+      required: false
+    - id: 3
+      name: finish
+      label: Finish
+      hint: null
+      type: select_multiple
+      options:
+      - Gloss
+      - Satin
+      - Semi-gloss
+      required: false
+    - id: 4
+      name: neck_width
+      label: Neck Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: string_length
+      label: String Length
+      hint: null
+      type: select_one
+      options:
+      - '24.75'
+      - '25.5'
+      - '27'
+      required: false
+    - id: 6
+      name: pickup_selection
+      label: Pickup Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Bridge
+      - Humbucker
+      - Singlecoil
+      required: false
+    - id: 7
+      name: pickup_selection_note
+      label: Pickup Selection Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pickup_selection_note_2
+      label: Pickup Selection Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

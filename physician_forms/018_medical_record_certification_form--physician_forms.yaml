@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_record_certification_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: healthcare_professional
+      label: Healthcare Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: authenticity_certification
+      label: Authenti
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_time
+      label: Medical Record Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_location
+      label: Medical Record Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_note
+      label: Medical Record Note
+      hint: null
+      type: note
+      options: []
+      required: true

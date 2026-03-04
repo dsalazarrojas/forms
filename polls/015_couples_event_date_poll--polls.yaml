@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Event Date Poll
+    pages:
+    - id: 1
+      name: couples_event_date_poll_form
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_email
+      label: partner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: partner_phone
+      label: partner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: partner_preferred_date
+      label: partner_preferred_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: available_dates
+      label: available_dates
+      hint: null
+      type: select_multiple
+      options:
+      - 01/01/2024
+      - 01/02/2024
+      required: false
+    - id: 8
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: partner_preferred_time
+      label: partner_preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: preferred_date_format
+      label: preferred_date_format
+      hint: null
+      type: select_one
+      options:
+      - dd-mm-yyyy
+      - dd/mm/yyyy
+      required: false
+    - id: 11
+      name: partner_preferred_date_format
+      label: partner_preferred_date_format
+      hint: null
+      type: select_one
+      options:
+      - dd-mm-yyyy
+      - dd/mm/yyyy
+      required: false
+    - id: 12
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: partner_event_date
+      label: partner_event_date
+      hint: null
+      type: date
+      options: []
+      required: false

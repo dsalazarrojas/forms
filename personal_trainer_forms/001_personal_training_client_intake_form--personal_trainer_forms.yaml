@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Client Intake Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone_number
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone_permission
+      label: Emergency Contact Phone Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Contact
+      - None
+      required: false
+    - id: 12
+      name: emergency_contact_email_permission
+      label: Emergency Contact Email Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Contact
+      - None
+      - Both
+      required: false
+    - id: 13
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_date_of_birth
+      label: Emergency Contact Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship_type
+      label: Emergency Contact Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Sibling
+      - Child
+      - Other
+      required: false
+    - id: 20
+      name: emergency_contact_relationship_since
+      label: Relationship Type Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: client_notes_for_staff
+      label: Client Notes for Staff
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: client_medical_history
+      label: Client Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_medical_info
+      label: Other Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false

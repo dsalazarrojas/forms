@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Print Release Form
+    pages:
+    - id: 1
+      name: print_release_form
+      label: Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: print_release_form_client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: print_release_form_release_prints
+      label: Release Prints
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: print_release_form_distribute
+      label: Distribute
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: print_release_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: print_release_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: print_release_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

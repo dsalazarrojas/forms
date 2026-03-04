@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Solutions Feedback Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: storage_product_used
+      label: Storage Product Used
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: true
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 5
+      name: feedback_text
+      label: Feedback
+      hint: Write your thoughts about your experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: time_waste
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_use
+      label: Date Of Last Use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_first_use
+      label: Date Of First Use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      required: true
+    - id: 12
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Late Afternoon
+      - Evenings
+      required: true
+    - id: 13
+      name: additional_comments2
+      label: Additional Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

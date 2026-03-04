@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Survey
+    pages:
+    - id: 1
+      name: performance_rating
+      label: What is your rating of the device's performance?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: usability_rating
+      label: How easy is the device to use?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neither easy nor difficult
+      - Somewhat difficult
+      - Very difficult
+      - Not at all
+      required: false
+    - id: 3
+      name: safety_rating
+      label: How safe do you consider this device?
+      hint: null
+      type: select_one
+      options:
+      - Very safe
+      - Somewhat safe
+      - Neither safe nor unsafe
+      - Somewhat unsafe
+      - Very unsafe
+      required: false
+    - id: 4
+      name: regulatory_compliance
+      label: Is the device compliant with regulatory standards?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 5
+      name: device_name
+      label: What is the name of the device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manufacturer
+      label: Who is the manufacturer of the device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact information for the manufacturer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_used
+      label: Date the device was used?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_used
+      label: Time the device was used?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rating_comments
+      label: Any additional comments about the device?
+      hint: null
+      type: note
+      options: []
+      required: false

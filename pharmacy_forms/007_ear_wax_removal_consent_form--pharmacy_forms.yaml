@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ear Wax Removal Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_procedure
+      label: Consent To Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_concerns
+      label: Medical Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

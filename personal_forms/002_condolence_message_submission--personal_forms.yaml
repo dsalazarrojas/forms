@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Condolence Message Submission
+    pages:
+    - id: 1
+      name: submission_header
+      label: -- Condolence and Memory Submission --
+      hint: Thank you for sharing your thoughts during this difficult time.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sender_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_to_deceased
+      label: Relationship to the Deceased
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Colleague
+      - Acquaintance
+      - Other
+      required: true
+    - id: 4
+      name: email_address
+      label: Your Email Address
+      hint: For administrative use only - will not be published
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: condolence_message
+      label: Your Message of Condolence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shared_memory
+      label: Shared Memory or Story
+      hint: Feel free to share a special moment or anecdote
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prayer_or_verse
+      label: Prayer, Poem, or Verse
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: permission_to_share
+      label: Permission to share this message publicly on the memorial page
+      hint: null
+      type: select_one
+      options:
+      - Yes, publish my message
+      - No, keep this message private for the family
+      required: true
+    - id: 9
+      name: donation_made
+      label: Would you like to mention a donation made in memory?
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_request
+      label: Would you like the family to be able to contact you?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: phone_number
+      label: Contact Phone Number
+      hint: Only if you requested contact
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Emergency Contact Form
+    pages:
+    - id: 1
+      name: patient
+      label: Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency contact
+      hint: Please enter contact information for your emergency contact
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Partner''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Partner''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship with Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Partner''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician
+      label: Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: hospital
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: clinic
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: false

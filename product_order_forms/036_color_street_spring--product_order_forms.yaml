@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Spring
+    pages:
+    - id: 1
+      name: header
+      label: -- Spring Product Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For order communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_selection
+      label: Product selection
+      hint: Choose product
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: color_choice
+      label: Color choice
+      hint: Specific color or pattern
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: shipping_method
+      label: Shipping method
+      hint: Select shipping option
+      type: select_one
+      options:
+      - Standard
+      - Express
+      - Local pickup
+      required: true
+    - id: 8
+      name: delivery_address
+      label: Delivery address
+      hint: Full address if shipping
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: promo_code
+      label: Promo code
+      hint: Enter code if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order notes
+      hint: Additional instructions
+      type: text
+      options: []
+      required: false

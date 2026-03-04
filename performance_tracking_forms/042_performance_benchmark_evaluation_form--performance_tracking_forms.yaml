@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Benchmark Evaluation Form
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: Select a rating between 1 and 5
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: None
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: performance_metric
+      label: Performance Metric
+      hint: Select a metric
+      type: select_one
+      options:
+      - Productivity
+      - Quality
+      - Efficiency
+      - Effectiveness
+      required: false
+    - id: 4
+      name: development_opportunity
+      label: Development Opportunity
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_plan
+      label: Action Plan
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 1 month
+      - 2 months
+      - 3 months
+      required: false

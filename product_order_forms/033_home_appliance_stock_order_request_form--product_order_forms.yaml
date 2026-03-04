@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Appliance Stock Order Request Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stock_items
+      label: stock_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stock_item_count
+      label: stock_item_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_order_number
+      label: customer_order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

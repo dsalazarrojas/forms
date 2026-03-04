@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: single_product_w_single_choice_orders
+    pages:
+    - id: 1
+      name: single_product
+      label: Single Product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: single_choice
+      label: Single Choice
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Unpaid
+      - Paid
+      - Void
+      required: false

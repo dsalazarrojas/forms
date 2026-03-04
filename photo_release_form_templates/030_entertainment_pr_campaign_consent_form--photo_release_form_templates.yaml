@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment PR Campaign Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: publicity_use
+      label: publicity_use
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: publicity_method
+      label: publicity_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: participant_permission
+      label: participant_permission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone_number
+      label: participant_phone_number
+      hint: null
+      type: number
+      options: []
+      required: false

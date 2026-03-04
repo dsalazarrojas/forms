@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Wellness Product Innovation Survey
+    pages:
+    - id: 1
+      name: pet_owner_info
+      label: pet_owner_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_product_features
+      label: current_product_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: desired_features
+      label: desired_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: innovation_interest
+      label: innovation_interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: openended
+      label: open_ended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_rating
+      label: product_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: veterinarian_involvement
+      label: veterinarian_involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

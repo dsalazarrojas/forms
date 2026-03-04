@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Fragrance Free Preference Survey
+    pages:
+    - id: 1
+      name: skincare_fragrance_free_preference_survey_page_1
+      label: Skincare Fragrance Free Preference Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_category
+      label: product category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Skincare''}'
+      - '{''label'': ''Fragrance''}'
+      - '{''label'': ''Haircare''}'
+      - '{''label'': ''Makeup''}'
+      - '{''label'': ''Bodycare''}'
+      required: true
+    - id: 3
+      name: skin_type
+      label: skin type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Sensitive''}'
+      - '{''label'': ''Oily''}'
+      - '{''label'': ''Dry''}'
+      - '{''label'': ''Combination''}'
+      required: true
+    - id: 4
+      name: fragrance_preferred
+      label: fragrance preferred
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not sure''}'
+      required: false
+    - id: 5
+      name: skin_condition
+      label: skin condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skincare_concerns
+      label: skincare concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skincare_products_used
+      label: skincare products used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skincare_goals
+      label: skincare goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_fragrance_use
+      label: current fragrance use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not sure''}'
+      - '{''label'': ''Never''}'
+      required: true
+    - id: 10
+      name: fragrance_preferred
+      label: fragrance preferred
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fragrance free''}'
+      - '{''label'': ''Fragrance''}'
+      required: true
+    - id: 11
+      name: natural_ingredients
+      label: natural ingredients
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not sure''}'
+      required: false
+    - id: 12
+      name: skin_sensitivities
+      label: skin sensitivities
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not sure''}'
+      required: false
+    - id: 13
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fragrance''}'
+      - '{''label'': ''Dye''}'
+      - '{''label'': ''Sulfite''}'
+      required: false
+    - id: 14
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

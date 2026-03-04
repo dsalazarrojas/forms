@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Portrait Order Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_one
+      options:
+      - Golden Retriever
+      - Poodle
+      - Bulldog
+      required: true
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_of_visit
+      label: Location of Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_session
+      label: Photo Session
+      hint: null
+      type: select_one
+      options:
+      - Outdoor
+      - Indoor
+      required: true
+    - id: 9
+      name: package_option
+      label: Package Option
+      hint: null
+      type: select_multiple
+      options:
+      - Deluxe
+      - Standard
+      - Basic
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

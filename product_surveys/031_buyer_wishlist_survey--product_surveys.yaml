@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Wishlist Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_status
+      label: Customer Status
+      hint: Are you a current customer
+      type: select_one
+      options:
+      - Current Customer
+      - Past Customer
+      - Prospective Customer
+      - Other
+      required: true
+    - id: 5
+      name: product_interests
+      label: Product Categories of Interest
+      hint: Select what interests you
+      type: select_multiple
+      options:
+      - Electronics
+      - Home and Garden
+      - Clothing and Fashion
+      - Sports and Outdoors
+      - Health and Beauty
+      - Tools and Hardware
+      - Books and Media
+      - Other
+      required: true
+    - id: 6
+      name: top_wishlist_items
+      label: Top Wishlist Items
+      hint: What products would you like to see
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ideal_price_range
+      label: Ideal Price Range for Products
+      hint: Budget for new products
+      type: select_one
+      options:
+      - Under 25
+      - 25 - 50
+      - 50 - 100
+      - 100 - 250
+      - Over 250
+      required: true
+    - id: 8
+      name: preferred_features
+      label: Preferred Features or Qualities
+      hint: What matters most to you
+      type: select_multiple
+      options:
+      - Eco-friendly
+      - Affordable
+      - Premium Quality
+      - Durable
+      - Easy to Use
+      - Innovative
+      - Sustainable
+      - Other
+      required: false
+    - id: 9
+      name: shopping_frequency
+      label: How Often Do You Shop
+      hint: Your purchasing frequency
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - As needed
+      required: true
+    - id: 10
+      name: brand_loyalty
+      label: Are You Brand Loyal
+      hint: Do you prefer specific brands
+      type: select_one
+      options:
+      - Very Loyal
+      - Somewhat Loyal
+      - Not Loyal
+      - Depends on Product
+      required: true
+    - id: 11
+      name: influencing_factors
+      label: Factors That Influence Your Purchase
+      hint: What matters in your decision
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Brand Reputation
+      - Recommendations
+      - Online Reviews
+      - Availability
+      - Sustainability
+      required: true
+    - id: 12
+      name: product_improvements
+      label: How Can We Improve Our Products
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: new_product_suggestions
+      label: Suggestions for New Products
+      hint: What would you like us to offer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: feedback_comments
+      label: Additional Comments or Feedback
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

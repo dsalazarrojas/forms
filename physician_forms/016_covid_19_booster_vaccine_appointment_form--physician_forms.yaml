@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: appointment_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_date_1
+      label: First Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time_1
+      label: First Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: preferred_date_2
+      label: Second Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_time_2
+      label: Second Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: appointment_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - Main clinic
+      - Satellite location
+      - Mobile clinic
+      - Home visit
+      - Other
+      required: true
+    - id: 12
+      name: vaccine_type_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      required: true
+    - id: 13
+      name: initial_vaccine_type
+      label: Initial COVID-19 Vaccine Received
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Unknown
+      required: true
+    - id: 14
+      name: initial_vaccine_date
+      label: Date of Initial Vaccination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_appointment
+      label: Reason for Appointment
+      hint: null
+      type: select_one
+      options:
+      - Booster shot
+      - Follow-up
+      - Side effect concern
+      - Information only
+      - Other
+      required: true
+    - id: 16
+      name: previous_side_effects
+      label: Any side effects from previous doses?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: side_effect_details
+      label: Describe side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: health_concerns
+      label: Any health concerns or questions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: requires_assistance
+      label: Require accommodation or assistance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: assistance_needed
+      label: Type of assistance needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_received
+      label: I confirm this appointment request information is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

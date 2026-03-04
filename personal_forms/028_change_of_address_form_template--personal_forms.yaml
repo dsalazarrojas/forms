@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Address Form Template
+    pages:
+    - id: 1
+      name: form_submission_date
+      label: Form Submission Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: personal_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account or Reference Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_id
+      label: Customer ID
+      hint: Your customer identification
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Current contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: former_address_street
+      label: Former Address - Street
+      hint: Street address you're moving from
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: former_address_city
+      label: Former Address - City
+      hint: City of previous address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: former_address_state
+      label: Former Address - State or Province
+      hint: State/province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: former_address_zip
+      label: Former Address - Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: former_address_country
+      label: Former Address - Country
+      hint: Country of previous address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: move_from_date
+      label: Date Moving From Former Address
+      hint: When are you leaving
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: new_address_street
+      label: New Address - Street
+      hint: Your new street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_address_city
+      label: New Address - City
+      hint: City of new address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: new_address_state
+      label: New Address - State or Province
+      hint: State/province
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: new_address_zip
+      label: New Address - Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: new_address_country
+      label: New Address - Country
+      hint: Country of new address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: move_in_date
+      label: Date Moving to New Address
+      hint: When the move is effective
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: address_type
+      label: Type of Move
+      hint: What type of move is this
+      type: select_one
+      options:
+      - Residential
+      - Business
+      - Both
+      required: true
+    - id: 20
+      name: service_continuation
+      label: Service Continuation Requested
+      hint: Continue service at new address
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: address_change_confirmation
+      label: I Confirm the Above Information is Accurate
+      hint: Verify information accuracy
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - 'No'
+      required: true

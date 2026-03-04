@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent And Release Form
+    pages:
+    - id: 1
+      name: parental_consent
+      label: Parental Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release
+      label: Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false

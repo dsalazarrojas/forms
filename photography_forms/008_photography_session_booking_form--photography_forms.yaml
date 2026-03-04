@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Session Booking Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: type_of_session
+      label: Type of Session
+      hint: null
+      type: select_multiple
+      options:
+      - Indoor
+      - Outdoor
+      required: true
+    - id: 7
+      name: contact_agreement
+      label: Contact Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to be contacted
+      - I do not agree to be contacted
+      required: true
+    - id: 8
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: copyright_agreement
+      label: Copyright Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the copyright agreement
+      - I do not agree to the copyright agreement
+      required: true
+    - id: 10
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Bank transfer
+      - Credit card
+      - Payoneer
+      required: true

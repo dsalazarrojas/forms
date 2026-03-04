@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Intubation Checklist Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: anesthetist_name
+      label: Anesthetist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: procedure_type
+      label: Procedure Type
+      hint: null
+      type: select_one
+      options:
+      - Anesthesia
+      - Surgery
+      - Other
+      required: true
+    - id: 6
+      name: anesthetic_used
+      label: Anesthetic Used
+      hint: null
+      type: select_multiple
+      options:
+      - General Anesthesia
+      - Regional Anesthesia
+      required: false
+    - id: 7
+      name: oxygen_saturation
+      label: O2 Saturation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: heart_rate
+      label: Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: medications_administered
+      label: Medications Administered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Latex
+      - Penicillin
+      - Other
+      required: false
+    - id: 12
+      name: breathing_rate
+      label: Breathing Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: respiratory_rate_quality
+      label: Respiratory Rate Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: neurological_status_description
+      label: Neurological Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: neurological_signs
+      label: Neurological Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cardiac_status
+      label: Cardiac Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: circulatory_status
+      label: Circulatory Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_medical_conditions
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

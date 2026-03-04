@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Patient Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient-name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

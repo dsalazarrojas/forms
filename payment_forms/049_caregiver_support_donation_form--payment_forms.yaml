@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Support Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: We'll send donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_type
+      label: Type of Donation
+      hint: How would you like to contribute?
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring donation
+      - Sponsor a caregiver
+      - Corporate sponsorship
+      - In-kind donation
+      - Volunteer time
+      - Other
+      required: true
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate?
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1,000
+      - Other amount
+      required: true
+    - id: 7
+      name: donation_amount_other
+      label: Other Donation Amount
+      hint: If you selected Other, enter amount
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: monthly_recurring
+      label: Monthly Recurring Donation Amount
+      hint: If recurring donation selected
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_focus
+      label: What Should Donation Support?
+      hint: Select your priority
+      type: select_one
+      options:
+      - Direct caregiver assistance
+      - Mental health support
+      - Respite care services
+      - Training and education
+      - Equipment or supplies
+      - Emergency assistance
+      - General operations
+      - Let organization decide
+      required: true
+    - id: 10
+      name: caregiver_recognition
+      label: Public Recognition Preference
+      hint: How should we acknowledge your gift?
+      type: select_one
+      options:
+      - Public recognition - use my name
+      - Private donation - anonymous
+      - Recognition with organization name only
+      - No preference
+      required: false
+    - id: 11
+      name: anonymous_donation
+      label: Make This an Anonymous Donation
+      hint: Donor information kept private
+      type: select_one
+      options:
+      - Yes - keep anonymous
+      - No - use my name
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - PayPal or digital wallet
+      - Check by mail
+      - Wire transfer
+      required: true
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: Street address for payment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: monthly_commitment
+      label: Monthly Commitment Duration
+      hint: How long for monthly donations?
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - Ongoing
+      - Until further notice
+      required: false
+    - id: 19
+      name: tax_deductible
+      label: Tax Deductible Donation Requested
+      hint: If applicable to your tax situation
+      type: select_one
+      options:
+      - Yes - provide tax receipt
+      - No - not needed
+      required: false
+    - id: 20
+      name: newsletter_signup
+      label: Subscribe to Updates
+      hint: Receive news about caregiver programs
+      type: select_one
+      options:
+      - Yes - send updates
+      - No - do not contact
+      - Maybe later
+      required: true
+    - id: 21
+      name: matching_gift
+      label: Employer Matching Gift Information
+      hint: Does your employer match donations?
+      type: select_one
+      options:
+      - Yes - will submit matching gift
+      - Unsure - will check
+      - No - no matching program
+      required: false
+    - id: 22
+      name: donation_frequency
+      label: Donation Frequency Notes
+      hint: Any special instructions?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_support
+      label: Other Ways to Support
+      hint: Interested in volunteering or sponsoring?
+      type: select_multiple
+      options:
+      - Volunteer time
+      - Donate supplies or equipment
+      - Sponsor a caregiver
+      - Corporate partnership
+      - In-kind services
+      - Event sponsorship
+      - None - donation only
+      required: false
+    - id: 24
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Any special requests or information?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I Accept the Terms and Conditions
+      hint: Required to process donation
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

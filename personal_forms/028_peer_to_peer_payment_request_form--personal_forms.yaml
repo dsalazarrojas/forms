@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Payment Request Form
+    pages:
+    - id: 1
+      name: payment_requester
+      label: payment_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: payment_amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      - Other
+      required: true
+    - id: 5
+      name: payment_recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: payment_recipient_phone
+      label: recipient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_request_message
+      label: request_message
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: mpox_consent_form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: patient_name
+      hint: Patient name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: Patient contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Patient Signature
+      hint: Patient signature
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Healthcare provider name
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_info
+      label: Vaccine Information
+      hint: Vaccine information
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_info
+      label: Treatment Information
+      hint: Treatment information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_status
+      label: Consent Status
+      hint: Consent status
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review
+      label: Review
+      hint: Review
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: patient_gender
+      label: Gender
+      hint: Gender
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: patient_race
+      label: Race
+      hint: Race
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

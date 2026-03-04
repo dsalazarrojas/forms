@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Shoot Checklist Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name of client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shoot_date
+      label: Shoot Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shoot_location
+      label: Shoot Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assistant
+      label: Assistant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assistant_role
+      label: Assistant Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assistant_email
+      label: Assistant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: assistant_phone
+      label: Assistant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shoot_type
+      label: Shoot Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shoot_location_details
+      label: Shoot Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shoot_equipment
+      label: Shoot Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: shoot_notes
+      label: Shoot Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assistant_address
+      label: Assistant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assistant_city
+      label: Assistant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assistant_state
+      label: Assistant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assistant_zip
+      label: Assistant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assistant_phone
+      label: Assistant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_phone2
+      label: Client Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shoot_time
+      label: Shoot Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: shoot_duration
+      label: Shoot Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shoot_additional_comments
+      label: Additional Shoot Comments
+      hint: null
+      type: text
+      options: []
+      required: false

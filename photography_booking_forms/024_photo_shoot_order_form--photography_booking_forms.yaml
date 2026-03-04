@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Shoot Order Form
+    pages:
+    - id: 1
+      name: photo_shoot_date
+      label: photo shoot date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_shoot_type
+      label: photo shoot type
+      hint: null
+      type: select_one
+      options:
+      - landscape
+      - portrait
+      - wedding
+      - event
+      required: false
+    - id: 6
+      name: photo_shoot_details
+      label: photo shoot details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: package_option
+      label: package option
+      hint: null
+      type: select_one
+      options:
+      - package1
+      - package2
+      - package3
+      - package4
+      required: false
+    - id: 10
+      name: package_details
+      label: package details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - bank transfer
+      - paypal
+      required: false
+    - id: 12
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - unpaid
+      required: false
+    - id: 14
+      name: payment_method_details
+      label: payment method details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: order_number
+      label: order number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_signature
+      label: client signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photographer_signature
+      label: photographer signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_notes
+      label: client notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: photographer_notes
+      label: photographer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: date_of_submission
+      label: date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_of_submission
+      label: time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: photo_shoot_status
+      label: photo shoot status
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - pending
+      - cancelled
+      required: false
+    - id: 23
+      name: submission_status
+      label: submission status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - not submitted
+      - pending
+      required: false
+    - id: 24
+      name: submission_details
+      label: submission details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false

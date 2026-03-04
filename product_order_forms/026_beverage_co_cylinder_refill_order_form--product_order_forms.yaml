@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage CO₂ Cylinder Refill Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your business if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for cylinder delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: ZIP or Postal Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cylinder_size
+      label: Cylinder Size
+      hint: What size cylinder do you need refilled
+      type: select_one
+      options:
+      - 5 lb Cylinder
+      - 10 lb Cylinder
+      - 20 lb Cylinder
+      - 50 lb Cylinder
+      - 75 lb Cylinder
+      - Exchange Program
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: How many cylinders need refilling
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: refill_type
+      label: Refill Type
+      hint: What type of service do you need
+      type: select_one
+      options:
+      - Refill Only
+      - Exchange and Refill
+      - New Cylinder Purchase
+      - Inspection and Refill
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive your cylinder
+      type: select_one
+      options:
+      - Home Delivery
+      - Business Delivery
+      - Pickup at Location
+      - Drop-off and Exchange
+      required: true
+    - id: 13
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When would you like delivery
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: What time works best for you
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: access_instructions
+      label: Access Instructions
+      hint: Any special instructions for delivery access
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Delivery
+      - Invoice Account
+      - Digital Wallet
+      required: true
+    - id: 17
+      name: rush_order
+      label: Is This a Rush Order
+      hint: Do you need expedited service
+      type: select_one
+      options:
+      - Yes, Rush Order
+      - No, Standard Service
+      required: true
+    - id: 18
+      name: cylinder_condition
+      label: Current Cylinder Condition
+      hint: What is the condition of your cylinder
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor - Needs Inspection
+      - New - First Fill
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your order
+      type: text
+      options: []
+      required: false

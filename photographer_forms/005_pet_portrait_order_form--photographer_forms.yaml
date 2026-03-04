@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Portrait Order Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pet_photo_type
+      label: pet_photo_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: photo_date
+      label: photo_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: photo_time
+      label: photo_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: pet_photo_size
+      label: pet_photo_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

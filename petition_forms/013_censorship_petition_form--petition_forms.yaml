@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Censorship Petition Form
+    pages:
+    - id: 1
+      name: petition_statement_header
+      label: -- Petition Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: statement_of_purpose
+      label: Statement of Purpose
+      hint: We, the undersigned, call for the protection of diverse voices and freedom
+        of expression.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: supporter_info_header
+      label: -- Supporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: supporter_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supporter_email
+      label: Email Address
+      hint: Required for signature verification
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: supporter_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporter_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supporter_country
+      label: Country
+      hint: Select your country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 9
+      name: motivation_header
+      label: -- Personal Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: areas_of_concern
+      label: Areas of Concern
+      hint: Which areas of censorship worry you most
+      type: select_multiple
+      options:
+      - Internet and Social Media
+      - Literature and Books
+      - Art and Creative Expression
+      - Journalism and Media
+      - Academic and Research Freedom
+      required: true
+    - id: 11
+      name: signing_reason_comment
+      label: Why are you signing this petition
+      hint: Share your personal thoughts or experiences
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: privacy_comm_header
+      label: -- Privacy and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: display_name_permission
+      label: Allow name to be displayed publicly
+      hint: Your email and phone will never be shown
+      type: select_one
+      options:
+      - Yes - I want to show my support publicly
+      - No - Keep my signature private
+      required: true
+    - id: 14
+      name: receive_updates_optin
+      label: Receive updates on this petition
+      hint: We will email you with news and progress
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: signing_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

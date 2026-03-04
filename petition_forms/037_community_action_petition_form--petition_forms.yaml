@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Action Petition Form
+    pages:
+    - id: 1
+      name: petition_information
+      label: Petition Information
+      hint: Details about the community action petition
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petition_title
+      label: Petition Title
+      hint: Title or name of the petition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: petition_id
+      label: Petition ID
+      hint: Unique petition reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: petition_date
+      label: Petition Date
+      hint: Date this petition was started
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: organizer_information
+      label: Organizer Information
+      hint: Details about the petition organizer
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organizer_name
+      label: Organizer Name
+      hint: Full name of the organizer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: organizer_phone
+      label: Organizer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_name
+      label: Organization Name
+      hint: Name of organizing group or organization
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: petition_details
+      label: Petition Details
+      hint: Information about the petition cause
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: petition_purpose
+      label: Petition Purpose
+      hint: What is the purpose of this petition
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: petition_description
+      label: Petition Description
+      hint: Detailed description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_audience
+      label: Target Audience
+      hint: Who is this petition directed to
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: action_requested
+      label: Action Requested
+      hint: What specific action is being requested
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: petition_category
+      label: Petition Category
+      hint: What category does this petition fall under
+      type: select_one
+      options:
+      - Environmental
+      - Social Justice
+      - Education
+      - Healthcare
+      - Housing
+      - Transportation
+      - Public Safety
+      - Community Development
+      - Government Policy
+      - Other
+      required: true
+    - id: 16
+      name: goal_signature_count
+      label: Goal Signature Count
+      hint: Target number of signatures
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deadline_date
+      label: Deadline Date
+      hint: When will the petition be delivered
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: supporter_information
+      label: Supporter Information
+      hint: Details about the person signing
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: supporter_name
+      label: Supporter Name
+      hint: Full name of the supporter
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: supporter_email
+      label: Supporter Email
+      hint: Email address of supporter
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: supporter_address
+      label: Supporter Address
+      hint: Street address of supporter
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supporter_city
+      label: Supporter City
+      hint: City of supporter
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporter_state
+      label: Supporter State
+      hint: State or province of supporter
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporter_zip
+      label: Supporter ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporter_country
+      label: Supporter Country
+      hint: Country of supporter
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: signature_declaration
+      label: Signature Declaration
+      hint: By signing I support this petition
+      type: select_one
+      options:
+      - Yes - I Support This Petition
+      - 'No'
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: willing_to_volunteer
+      label: Willing to Volunteer
+      hint: Would you like to help promote this petition
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any comments about why you support this petition
+      type: text
+      options: []
+      required: false

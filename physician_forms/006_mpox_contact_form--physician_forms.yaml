@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Contact Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exposure_date
+      label: Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exposure_details
+      label: Exposure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: note
+      options: []
+      required: false

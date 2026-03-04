@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Budget Tracking Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: select_one
+      options:
+      - '{''Monthly Income'': ''1000-5000''}'
+      - '{''Monthly Income'': ''5001-10000''}'
+      required: false
+    - id: 3
+      name: expenses
+      label: Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Utilities'': ''0-500''}'
+      - '{''Groceries'': ''0-1000''}'
+      - '{''Transportation'': ''0-1000''}'
+      required: false
+    - id: 4
+      name: financial_goals
+      label: Financial Goals
+      hint: Set a financial goal (e.g., saving for a down payment on a house, paying
+        off debt)
+      type: select_one
+      options:
+      - Saving for a down payment on a house
+      - Paying off debt
+      - Emergency fund
+      required: false
+    - id: 5
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: budget_progress
+      label: Budget Progress
+      hint: Track your progress
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: financial_progress
+      label: Financial Progress
+      hint: See how you're doing
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 9
+      name: expense_frequency
+      label: Expense Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: Add any additional notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_input_2
+      label: Another Input
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: financial_objectives
+      label: Financial Objectives
+      hint: Set specific financial objectives
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: budget_category
+      label: Budget Category
+      hint: Budget category (e.g., food, transportation, clothing)
+      type: select_multiple
+      options:
+      - Food
+      - Transportation
+      - Clothing
+      required: false
+    - id: 14
+      name: budget_target
+      label: Budget Target
+      hint: Target income or expenses amount
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: actual_income
+      label: Actual Income
+      hint: Enter actual income amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: financial_goal_amount
+      label: Financial Goal Amount
+      hint: Financial goal amount
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: financial_goal_status
+      label: Financial Goal Status
+      hint: Status of financial goal
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed
+      - Variable
+      required: false
+    - id: 20
+      name: income_type
+      label: Income Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed
+      - Variable
+      required: false
+    - id: 21
+      name: expense_category
+      label: Expense Category
+      hint: Expense category (e.g., food, transportation, clothing)
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: financial_goal_frequency
+      label: Financial Goal Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 23
+      name: user_input_3
+      label: Another Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: expense_frequency
+      label: Expense Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 25
+      name: budget_frequency
+      label: Budget Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false

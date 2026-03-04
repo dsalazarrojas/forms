@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Tablet Display Stand Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stand_selection
+      label: Stand Selection
+      hint: null
+      type: select_one
+      options:
+      - Tablet Display Stand 10"
+      - Tablet Display Stand 20"
+      - Tablet Display Stand 30"
+      required: true
+    - id: 4
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_postcode
+      label: Postcode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

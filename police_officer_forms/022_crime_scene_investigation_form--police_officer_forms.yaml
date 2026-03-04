@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: crime_scene_investigation_form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: case_date
+      label: Case Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: case_time
+      label: Case Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: investigator_name
+      label: Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Assault/Aggression
+      - Disorder/ Disturbance
+      - Theft
+      - Vandalism
+      - Other
+      required: false
+    - id: 7
+      name: suspect_description
+      label: Suspect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspect_gender
+      label: Suspect Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 9
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suspect_distinguishing_features
+      label: Suspect Distinguishing Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: victim_name
+      label: Victim Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: victim_age
+      label: Victim Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: victim_gender
+      label: Victim Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 14
+      name: victim_injuries
+      label: Victim Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: weapon
+      label: Weapon Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness_age
+      label: Witness Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: witness_gender
+      label: Witness Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 22
+      name: witness_description
+      label: Witness Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: officer_position
+      label: Officer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

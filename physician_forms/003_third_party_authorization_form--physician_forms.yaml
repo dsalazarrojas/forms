@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: third_party_authorization_form
+    pages:
+    - id: 1
+      name: third_party_authorization_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: third_party_authorized_name
+      label: third_party_authorized_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: third_party_authorized_address_1
+      label: third_party_authorized_address_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: third_party_authorized_city
+      label: third_party_authorized_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: third_party_authorized_state
+      label: third_party_authorized_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: third_party_authorized_postal_code
+      label: third_party_authorized_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Spouse
+      - Domestic Partner
+      - Other
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: date_of.reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_authorized
+      label: date_authorized
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: authorization_type
+      label: authorization_type
+      hint: null
+      type: select_multiple
+      options:
+      - Power of Attorney
+      - Consent to Access Medical Information
+      - Both
+      required: false
+    - id: 14
+      name: end_date_of_authorization
+      label: end_date_of_authorization
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: authorization_note
+      label: authorization_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_of_signature
+      label: date_of_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: physician_name
+      label: physician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physician_license_number
+      label: physician_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: physician_facility
+      label: physician_facility
+      hint: null
+      type: text
+      options: []
+      required: false

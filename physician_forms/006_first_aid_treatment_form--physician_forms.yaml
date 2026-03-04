@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Treatment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - AIDS
+      - Anemia
+      - Anorexia Nervosa
+      - Arthritis
+      - Asthma
+      - Backache
+      - Blood Clot
+      - Cancer
+      - Cholecystitis
+      - Colitis
+      - Constipation
+      - Cough
+      - Dehydration
+      - Diabetes
+      - Dystonia
+      - Ear infection
+      - Epilepsy
+      - Flatulence
+      - Follicular Tinea
+      - Fracture
+      - Gastroenteritis
+      - Hemiplegia
+      - Hemorrhoid
+      - Hives
+      - Hypertension
+      - Hypothyroidism
+      - Infarction
+      - Influenza
+      - Insomnia
+      - Keratosis
+      - Kleptomania
+      - Knee pain
+      - Migraine
+      - Migraine Aura
+      - Multiple Sclerosis
+      - Muscle strain
+      - Nephrotic
+      - Neuritis
+      - Pneumonitis
+      - Pulmonary edema
+      - Rash
+      - Reflux
+      - Scoliosis
+      - Seizures
+      - Splenectomy
+      - Spondylitis
+      - Stomach pain
+      - Splenomegaly
+      - Tetany
+      - Thyroiditis
+      - Ulcerative colitis
+      - Urotheliosis
+      - Viral infection
+      - Wet skin
+      - Wound infection
+      - '{''id'': 5, ''name'': ''treatment_date'', ''label'': ''Treatment Date'',
+        ''type'': ''date'', ''options'': [], ''required'': True}'
+      - '{''id'': 6, ''name'': ''treatment_location'', ''label'': ''Treatment Location'',
+        ''type'': ''text'', ''options'': [], ''required'': True}'
+      - '{''id'': 7, ''name'': ''symptoms'', ''label'': ''Symptoms'', ''type'': ''text'',
+        ''options'': [], ''required'': True}'
+      - '{''id'': 8, ''name'': ''patient_notes'', ''label'': ''Patient Notes'', ''type'':
+        ''text'', ''options'': [], ''required'': False}'
+      - '{''id'': 9, ''name'': ''physician_name'', ''label'': ''Physician Name'',
+        ''type'': ''text'', ''options'': [], ''required'': True}'
+      - '{''id'': 10, ''name'': ''physician_phone'', ''label'': ''Physician Phone'',
+        ''type'': ''phone'', ''options'': [], ''required'': True}'
+      - '{''id'': 11, ''name'': ''physician_email'', ''label'': ''Physician Email'',
+        ''type'': ''email'', ''options'': [], ''required'': True}'
+      - '{''id'': 12, ''name'': ''physician_notes'', ''label'': ''Physician Notes'',
+        ''type'': ''text'', ''options'': [], ''required'': False}'
+      - '{''id'': 13, ''name'': ''medical_record_number'', ''label'': ''Medical Record
+        Number'', ''type'': ''text'', ''options'': [], ''required'': True}'
+      - '{''id'': 14, ''name'': ''medical_provider'', ''label'': ''Medical Provider'',
+        ''type'': ''select_one'', ''options'': [''Emergency Room'', ''Nurse'', ''Physician
+        Assistant'', ''Physician'', ''Surgeon''], ''required'': True}'
+      - '{''id'': 15, ''name'': ''patient_medical_history'', ''label'': ''Patient
+        Medical History'', ''type'': ''date'', ''options'': [], ''required'': True}'
+      required: false

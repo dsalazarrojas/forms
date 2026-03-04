@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Advisory Council Petition Form
+    pages:
+    - id: 1
+      name: petitioner_info_header
+      label: -- Petitioner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_name
+      label: Petitioner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_farm_name
+      label: Organization or Farm Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: petition_details_header
+      label: -- Petition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: petition_topic
+      label: Petition Topic
+      hint: Select the primary subject
+      type: select_one
+      options:
+      - Land Use
+      - Water Rights
+      - Crop Regulations
+      - Livestock Management
+      - Subsidies
+      - Infrastructure
+      - Other
+      required: true
+    - id: 9
+      name: petition_details
+      label: Petition Details
+      hint: Explain the issue clearly
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: proposed_solution
+      label: Proposed Solution
+      hint: What action do you want the council to take?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: number_of_supporters
+      label: Number of Supporters
+      hint: Estimated count
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: impact_assessment
+      label: Impact Assessment
+      hint: How significant is this issue?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: When is action needed?
+      type: select_one
+      options:
+      - Immediate
+      - Short-term
+      - Long-term
+      required: true
+    - id: 14
+      name: attachments_note
+      label: Attachments
+      hint: Please email any supporting documents to council@example.com
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: agreement
+      label: Agreement to Terms
+      hint: I certify that the information provided is accurate
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

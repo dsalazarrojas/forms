@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Of The Year Voting
+    pages:
+    - id: 1
+      name: voting_date
+      label: Voting Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: voter_name
+      label: Your Full Name
+      hint: Complete name of voter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email Address
+      hint: For verification and results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: voter_organization
+      label: Organization or Company
+      hint: Where you work or represent
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: voter_role
+      label: Your Role
+      hint: Architect, developer, designer, etc
+      type: select_one
+      options:
+        - Architect
+        - Designer
+        - Developer
+        - Client
+        - Contractor
+        - Educator
+        - Student
+        - Industry Professional
+        - Other
+      required: true
+    - id: 6
+      name: voter_qualification
+      label: Years of Professional Experience
+      hint: Experience level
+      type: select_one
+      options:
+        - Less than 2 years
+        - 2-5 years
+        - 5-10 years
+        - 10-15 years
+        - Over 15 years
+      required: true
+    - id: 7
+      name: voting_category
+      label: Voting Category
+      hint: Which category are you voting in
+      type: select_one
+      options:
+        - Commercial Building
+        - Residential Building
+        - Public Building
+        - Cultural Building
+        - Healthcare Building
+        - Educational Building
+        - Sustainable Design
+        - Innovation
+      required: true
+    - id: 8
+      name: first_choice
+      label: First Choice - Building of the Year
+      hint: Your top choice
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: first_choice_reason
+      label: Why You Selected First Choice
+      hint: Reasons for your selection
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: second_choice
+      label: Second Choice
+      hint: Your second favorite
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: third_choice
+      label: Third Choice
+      hint: Your third selection
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: design_excellence
+      label: Design Excellence Criteria
+      hint: Rate importance
+      type: select_one
+      options:
+        - Critical
+        - Very Important
+        - Important
+        - Somewhat Important
+        - Not Important
+      required: true
+    - id: 13
+      name: sustainability_importance
+      label: Importance of Sustainability
+      hint: Environmental responsibility
+      type: select_one
+      options:
+        - Critical
+        - Very Important
+        - Important
+        - Somewhat Important
+        - Not Important
+      required: true
+    - id: 14
+      name: innovation_importance
+      label: Importance of Innovation
+      hint: Forward-thinking design
+      type: select_one
+      options:
+        - Critical
+        - Very Important
+        - Important
+        - Somewhat Important
+        - Not Important
+      required: true
+    - id: 15
+      name: community_impact
+      label: Importance of Community Impact
+      hint: Social responsibility
+      type: select_one
+      options:
+        - Critical
+        - Very Important
+        - Important
+        - Somewhat Important
+        - Not Important
+      required: true
+    - id: 16
+      name: overall_quality
+      label: Importance of Overall Quality
+      hint: Craftsmanship and execution
+      type: select_one
+      options:
+        - Critical
+        - Very Important
+        - Important
+        - Somewhat Important
+        - Not Important
+      required: true
+    - id: 17
+      name: general_feedback
+      label: General Feedback on the Competition
+      hint: Any comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: voter_demographics
+      label: Optional - Voter Demographics
+      hint: Help us understand our voters
+      type: select_one
+      options:
+        - Yes, I Will Answer
+        - No, I Prefer Not To
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: Where you are based
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: region
+      label: Region or State
+      hint: Your region
+      type: text
+      options: []
+      required: false

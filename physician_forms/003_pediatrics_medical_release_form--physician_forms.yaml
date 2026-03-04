@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatrics Medical Release Form
+    pages:
+    - id: 1
+      name: parent_information
+      label: Parent Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: parent_1_name
+      label: parent1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_1_relationship
+      label: parent1_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: parent_2_name
+      label: parent2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_2_relationship
+      label: parent2_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: guardian_phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

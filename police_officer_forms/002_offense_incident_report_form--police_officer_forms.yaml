@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offense Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offense_date
+      label: offense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_name
+      label: Suspect Name
+      hint: Enter the name of the suspect
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_id
+      label: Suspect ID
+      hint: Enter the suspect's ID number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: officer_name
+      label: Officer Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: officer_id
+      label: Officer ID
+      hint: Enter your ID number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_details
+      label: Incident Details
+      hint: Provide a detailed description of the incident
+      type: text
+      options: []
+      required: false

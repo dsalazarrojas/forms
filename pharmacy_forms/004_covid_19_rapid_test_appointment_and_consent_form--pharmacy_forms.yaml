@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid Test Appointment And Consent Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: Select your preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Member or policy ID
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_testing
+      label: Reason for Testing
+      hint: Why are you getting tested
+      type: select_one
+      options:
+      - Experiencing symptoms
+      - Close contact with positive case
+      - Work requirement
+      - School requirement
+      - Travel requirement
+      - Event requirement
+      - Personal peace of mind
+      - Other
+      required: true
+    - id: 16
+      name: current_symptoms
+      label: Are you currently experiencing any COVID-19 symptoms
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: symptom_list
+      label: Which symptoms are you experiencing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 18
+      name: consent_for_testing
+      label: I consent to receive a COVID-19 rapid test
+      hint: By selecting yes you agree to the test
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 19
+      name: consent_for_data_sharing
+      label: I consent to my test results being shared with relevant health authorities
+      hint: Required by law for reporting
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 20
+      name: hipaa_acknowledgment
+      label: I acknowledge that I have received the HIPAA Privacy Notice
+      hint: Your health information privacy rights
+      type: select_one
+      options:
+      - Yes acknowledged
+      - No not received
+      required: true
+    - id: 21
+      name: financial_responsibility
+      label: I understand I am financially responsible for any charges not covered
+        by insurance
+      hint: Billing agreement
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not agree
+      required: true
+    - id: 22
+      name: test_result_delivery_method
+      label: How would you like to receive your test results
+      hint: Select preferred method
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Patient portal
+      - Mail
+      required: true
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: patient_signature_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true

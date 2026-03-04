@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Volunteer Registration Form
+    pages:
+    - id: 1
+      name: pharma_vol_header
+      label: -- Volunteer Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pharma_vol_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pharma_vol_dob
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pharma_vol_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: pharma_vol_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: pharma_vol_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pharma_vol_city_state_zip
+      Label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pharma_vol_experience_header
+      label: -- Volunteer Experience --
+      hint: Your background and experience
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pharma_vol_healthcare_background
+      Label: Do You Have Healthcare Background
+      hint: Medical training or experience
+      type: select_one
+      options:
+        - No medical background
+        - Medical student
+        - Healthcare professional
+        - Previous healthcare experience
+        - Other training
+      required: true
+    - id: 10
+      name: pharma_vol_relevant_skills
+      label: Relevant Skills or Certifications
+      hint: CPR, first aid, pharmacology, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pharma_vol_volunteer_interest
+      Label: Type of Volunteer Work You Are Interested In
+      hint: Your preferred role
+      type: select_one
+      options:
+        - Patient interaction
+        - Administrative support
+        - Data entry
+        - Inventory management
+        - Outreach activities
+        - Other
+      required: true
+    - id: 12
+      name: pharma_vol_availability_header
+      label: -- Availability --
+      hint: When you can volunteer
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: pharma_vol_hours_per_week
+      Label: Hours per Week Available
+      hint: How much time can you dedicate
+      type: select_one
+      options:
+        - Under 5 hours
+        - 5-10 hours
+        - 10-20 hours
+        - 20-30 hours
+        - 30+ hours
+      required: true
+    - id: 14
+      name: pharma_vol_start_date
+      label: Preferred Start Date
+      hint: When can you begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: pharma_vol_commitment_length
+      Label: Commitment Duration
+      hint: How long can you volunteer
+      type: select_one
+      options:
+        - 1 month
+        - 3 months
+        - 6 months
+        - 1 year
+        - Ongoing
+      required: true
+    - id: 16
+      name: pharma_vol_health_header
+      label: -- Health and Safety Status --
+      hint: Your health information
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: pharma_vol_vaccination_status
+      Label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated and boosted
+        - Fully vaccinated, not boosted
+        - Partially vaccinated
+        - Not vaccinated
+        - Prefer not to disclose
+      required: true
+    - id: 18
+      name: pharma_vol_current_symptoms
+      label: Currently Have COVID-19 Symptoms
+      hint: Any fever, cough, or symptoms
+      type: select_one
+      options:
+        - No symptoms
+        - Have symptoms
+        - Unsure
+      required: true
+    - id: 19
+      name: pharma_vol_recent_exposure
+      Label: Recent Exposure to COVID-19
+      hint: Contact with positive case recently
+      type: select_one
+      options:
+        - No exposure
+        - Possible exposure
+        - Confirmed exposure
+      required: true
+    - id: 20
+      name: pharma_vol_health_conditions
+      label: Any Health Conditions Affecting Volunteering
+      hint: Conditions that may impact your ability
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pharma_vol_agreement_header
+      Label: -- Volunteer Agreement --
+      hint: Your agreement to volunteer terms
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: pharma_vol_safety_commitment
+      label: I Commit to Following All Safety Protocols
+      hint: Agreement to follow organization rules
+      type: select_one
+      options:
+        - I commit
+        - I cannot fully commit
+      required: true
+    - id: 23
+      name: pharma_vol_conduct_agreement
+      Label: I Agree to the Volunteer Code of Conduct
+      hint: Agreement to professional standards
+      type: select_one
+      options:
+        - I agree
+        - I have concerns
+      required: true
+    - id: 24
+      name: pharma_vol_truthfulness
+      label: Information Provided is Truthful
+      hint: I confirm all information is accurate
+      type: select_one
+      options:
+        - Information is truthful
+        - Some inaccuracies may exist
+      required: true
+    - id: 25
+      name: pharma_vol_registration_date
+      Label: Date of Registration
+      hint: Date you are completing this form
+      type: date
+      options: []
+      required: true

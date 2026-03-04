@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cart Modification Feedback
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_type
+      label: Your Role
+      hint: identify your perspective
+      type: select_one
+      options:
+      - Individual Shopper
+      - Fleet Manager
+      - Event Coordinator
+      - Other
+      required: true
+    - id: 3
+      name: frequency_of_modification
+      label: How often do you modify your cart?
+      hint: during a typical shopping session
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: device_used
+      label: Primary device used for modification
+      hint: which platform are you evaluating today?
+      type: select_one
+      options:
+      - Desktop
+      - Tablet
+      - Mobile App
+      - Mobile Browser
+      required: true
+    - id: 5
+      name: section_editing
+      label: -- Editing Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ease_of_navigation
+      label: How easy was it to navigate the cart modification menu?
+      hint: 1 being difficult, 5 being very easy
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: speed_of_update
+      label: How fast did the cart update after changes?
+      hint: performance and responsiveness
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: item_addition_removal
+      label: Rate the ease of adding and removing items
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quantity_edit_ease
+      label: Rate the ease of editing item quantities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_features
+      label: -- Feature Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: save_for_later
+      label: Rate the Save for Later feature (if used)
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: coupon_application
+      label: Rate the ease of applying promo codes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: shipping_calc_accuracy
+      label: Rate the accuracy of shipping estimates in the cart
+      hint: based on your previous orders
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: product_summary_clarity
+      label: How clear was the itemized summary in your cart?
+      hint: description, price, and options
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_issues
+      label: -- Issues and Errors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: error_encountered
+      label: Did you encounter any errors or bugs?
+      hint: freezes, broken links, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: error_description
+      label: If yes, please describe the error
+      hint: explain what happened
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unexpected_behavior
+      label: Was there anything that behaved unexpectedly?
+      hint: describe UI elements that were confusing
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_suggestions
+      label: -- Suggestions and Future Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: missing_feature
+      label: What feature is currently missing from the cart editing experience?
+      hint: your top request for improvement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: preference_selection
+      label: Which modification method do you prefer?
+      hint: how do you like to interact with the cart?
+      type: select_one
+      options:
+      - Inline editing
+      - Modal or Popup window
+      - Separate edit page
+      required: true
+    - id: 22
+      name: section_final
+      label: -- Final Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_rating
+      label: Overall satisfaction with the cart modification experience
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: recommendation_likelihood
+      label: How likely are you to recommend our platform based on the shopping experience?
+      hint: 1 being not likely, 10 being very likely
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: feedback_confirmation
+      label: Thank you for your feedback
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

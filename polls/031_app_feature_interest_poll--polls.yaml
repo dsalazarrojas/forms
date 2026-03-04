@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Feature Interest Poll
+    pages:
+    - id: 1
+      name: current_user_status
+      label: Are you a current user of our app?
+      hint: null
+      type: select_one
+      options:
+      - Yes, daily user
+      - Yes, occasional user
+      - No, but I - m interested
+      - No, former user
+      required: true
+    - id: 2
+      name: feature_options_header
+      label: -- Potential New Features --
+      hint: Which of these would you like to see most?
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: dark_mode_interest
+      label: Interest in Native Dark Mode
+      hint: null
+      type: select_one
+      options:
+      - High Interest
+      - Low Interest
+      - No Interest
+      required: true
+    - id: 4
+      name: offline_access_interest
+      label: Interest in Full Offline Access
+      hint: Ability to use the app without internet
+      type: select_one
+      options:
+      - High Interest
+      - Low Interest
+      - No Interest
+      required: true
+    - id: 5
+      name: social_integration_interest
+      label: Interest in Social Media Sharing and Integration
+      hint: null
+      type: select_one
+      options:
+      - High Interest
+      - Low Interest
+      - No Interest
+      required: true
+    - id: 6
+      name: advanced_analytics_interest
+      label: Interest in Personal Advanced Analytics Dashboard
+      hint: null
+      type: select_one
+      options:
+      - High Interest
+      - Low Interest
+      - No Interest
+      required: true
+    - id: 7
+      name: top_priority_feature
+      label: Which single feature is your top priority?
+      hint: null
+      type: select_one
+      options:
+      - Dark Mode
+      - Offline Access
+      - Social Integration
+      - Advanced Analytics
+      - Other
+      required: true
+    - id: 8
+      name: premium_willingness
+      label: Would you be willing to pay for a premium version with these features?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Possibly, depending on price
+      - No
+      required: true
+    - id: 9
+      name: app_usage_frequency
+      label: How often do you use similar apps?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 10
+      name: missing_feature_suggestion
+      label: Any other feature you think is missing?
+      hint: null
+      type: text
+      options: []
+      required: false

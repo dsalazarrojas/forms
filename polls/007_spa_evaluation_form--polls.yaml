@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: SPA Evaluation Form
+    pages:
+    - id: 1
+      name: product_evaluation
+      label: Product Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_rating_comment
+      label: Product Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skin_care_services
+      label: Skin Care Services
+      hint: null
+      type: select_multiple
+      options:
+      - Facial
+      - Massage
+      - Waxing
+      - Hair Removal
+      - Microderm
+      - Other
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Hypersensitivity
+      - Allergy
+      - Skin Cancer
+      - Fungal Infection
+      - Other
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

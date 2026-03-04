@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Challenge Coin Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of order submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of customer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization or unit
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: coin_type
+      label: Coin Type
+      hint: Type of challenge coin
+      type: select_one
+      options:
+      - Custom design coin
+      - Stock design coin
+      - Military unit coin
+      - Corporate coin
+      - Commemorative coin
+      - Challenge coin set
+      required: true
+    - id: 8
+      name: coin_size
+      label: Coin Size
+      hint: Diameter of coin
+      type: select_one
+      options:
+      - 1.5 inches
+      - 1.75 inches
+      - 2 inches
+      - 2.5 inches
+      - 3 inches
+      - Custom size
+      required: true
+    - id: 9
+      name: coin_shape
+      label: Coin Shape
+      hint: Shape of coin
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Rectangle
+      - Oval
+      - Custom shape
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Number of coins to order
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: metal_type
+      label: Metal Type
+      hint: Type of metal for coin
+      type: select_one
+      options:
+      - Brass
+      - Copper
+      - Nickel
+      - Zinc alloy
+      - Silver plated
+      - Gold plated
+      - Antique finish
+      required: true
+    - id: 12
+      name: enamel_type
+      label: Enamel Type
+      hint: Type of enamel coloring
+      type: select_one
+      options:
+      - Soft enamel
+      - Hard enamel
+      - Printed epoxy
+      - No enamel
+      required: true
+    - id: 13
+      name: edge_type
+      label: Edge Type
+      hint: Type of coin edge
+      type: select_one
+      options:
+      - Smooth edge
+      - Rope edge
+      - Diamond cut edge
+      - Numbered edge
+      - Custom edge
+      required: true
+    - id: 14
+      name: design_file_uploaded
+      label: Design File Uploaded
+      hint: Have you uploaded your design file
+      type: select_one
+      options:
+      - Yes - File uploaded
+      - No - Need design services
+      - Will send later
+      required: true
+    - id: 15
+      name: design_notes
+      label: Design Notes
+      hint: Describe your design requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: proof_required
+      label: Proof Required
+      hint: Do you need a design proof before production
+      type: select_one
+      options:
+      - Yes - Send digital proof
+      - Yes - Send physical proof
+      - No - Proceed to production
+      required: true
+    - id: 17
+      name: packaging_option
+      label: Packaging Option
+      hint: Type of packaging
+      type: select_one
+      options:
+      - Bulk packaging
+      - Individual velvet pouches
+      - Individual display boxes
+      - Presentation case
+      - Custom packaging
+      required: true
+    - id: 18
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - No - Standard production
+      - Yes - Rush production
+      required: true
+    - id: 19
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Wire transfer
+      - Check
+      - Purchase order
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_signature
+      label: Customer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

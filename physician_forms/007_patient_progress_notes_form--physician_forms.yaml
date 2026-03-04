@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Progress Notes Form
+    pages:
+    - id: 1
+      name: patient_health_status
+      label: Patient Health Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_multiple
+      options:
+      - Temperature (F)
+      - Blood Pressure
+      - Pulse
+      - Respiratory Rate
+      required: true
+    - id: 3
+      name: medication_allergies
+      label: Medication Allergies
+      hint: List of medication allergies
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_sensitivities
+      label: Medication Sensitivities
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillins
+      - NSAIDs
+      - Cephalosporins
+      - Other
+      required: false
+    - id: 5
+      name: patient_medications
+      label: Patient Medications
+      hint: List of patient medications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: surgical_history
+      label: Surgical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_medical_history
+      label: Family Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Stable
+      - Stable but with concerns
+      - Stable with concerns
+      - Stable with some concerns
+      - Stable but not well
+      - Stable but unstable
+      - Unstable
+      - Stable
+      - Stable but not well
+      required: true
+    - id: 10
+      name: provider_comments
+      label: Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false

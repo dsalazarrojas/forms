@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bug Tracking Form
+    pages:
+      - id: 1
+        name: reporter_section
+        label: -- Reporter Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Reporter name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department or team
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: bug_summary
+        label: -- Bug Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: bug_title
+        label: Bug title
+        hint: One-line summary
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: severity
+        label: Severity level
+        hint: null
+        type: select_one
+        options:
+          - Critical
+          - High
+          - Medium
+          - Low
+          - Trivial
+        required: true
+      - id: 8
+        name: status
+        label: Bug status
+        hint: Current status of the bug
+        type: select_one
+        options:
+          - New
+          - Assigned
+          - In Progress
+          - Testing
+          - Resolved
+          - Closed
+        required: true
+      - id: 9
+        name: category
+        label: Bug category
+        hint: null
+        type: select_one
+        options:
+          - Functional
+          - Performance
+          - Security
+          - UI/UX
+          - Documentation
+          - Other
+        required: true
+      - id: 10
+        name: detailed_description
+        label: -- Detailed Description --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: description
+        label: Bug description
+        hint: Complete details of the issue
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: expected_behavior
+        label: Expected behavior
+        hint: What should happen
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: actual_behavior
+        label: Actual behavior
+        hint: What is actually happening
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: steps_to_reproduce
+        label: Steps to reproduce
+        hint: Numbered list for developers
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: environment_section
+        label: -- Environment Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: app_version
+        label: Application version
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: build_number
+        label: Build number
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: os
+        label: Operating system
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: browser
+        label: Browser and version
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: database
+        label: Database version
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: attachments_section
+        label: -- Attachments and Additional Info --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: error_logs
+        label: Error logs or stack trace
+        hint: Paste relevant error information
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: screenshot_available
+        label: Screenshot attached
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 24
+        name: workaround_notes
+        label: Workaround or notes
+        hint: Any temporary fixes or observations
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: priority
+        label: Priority
+        hint: null
+        type: select_one
+        options:
+          - Blocker
+          - High
+          - Medium
+          - Low
+        required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Fragrance Diffuser Feedback Survey
+    pages:
+    - id: 1
+      name: product_type
+      label: Which type of product is this?
+      hint: null
+      type: select_one
+      options:
+      - AirPurifier
+      - Fan
+      - Light
+      required: false
+    - id: 2
+      name: usage_frequency
+      label: How often do you use this product?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: satisfaction
+      label: What is your satisfaction with this product?
+      hint: null
+      type: select_one
+      options:
+      - Very_Satisfied
+      - Somewhat_Satisfied
+      - Not_Satisfied
+      required: false
+    - id: 4
+      name: product_name
+      label: What is the name of the product you own?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_ideas
+      label: What features or improvements would you suggest?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_request
+      label: Is there something we can contact you about?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: product_id
+      label: Product ID?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Flower Consultation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flower_type
+      label: What type of flowers
+      hint: null
+      type: select_one
+      options:
+      - Rose
+      - Carnation
+      - Orchid
+      - Lillies
+      - Sunflower
+      required: false
+    - id: 3
+      name: flower_colour
+      label: What flower colour
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Pink
+      - Purple
+      - White
+      - Yellow
+      - Green
+      required: false
+    - id: 4
+      name: number_guests
+      label: Number of guests attending wedding
+      hint: null
+      type: select_one
+      options:
+      - '20'
+      - '40'
+      - '50'
+      - '60'
+      - '70'
+      required: false
+    - id: 5
+      name: wedding_date
+      label: Date of wedding
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: special_request
+      label: Any special requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Tracker
+    pages:
+    - id: 1
+      name: quality_control_form
+      label: Quality Control Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_outcome
+      label: Inspection Outcome
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 4
+      name: quality_issues
+      label: Quality Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Issue 1
+      - Issue 2
+      - Issue 3
+      required: false
+    - id: 5
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence
+      label: Evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

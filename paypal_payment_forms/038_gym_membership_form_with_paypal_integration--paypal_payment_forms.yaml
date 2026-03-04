@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Form With PayPal Integration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: membership_terms
+      label: Membership Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit_and_pay
+      label: Submit and Pay
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Applicant date of birth
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: certification_sought
+      label: Certification Sought
+      hint: Which certification are you applying for
+      type: select_one
+      options:
+      - Certified Personal Trainer
+      - Certified Strength Coach
+      - Certified Nutrition Coach
+      - Certified Group Fitness Instructor
+      - Certified Yoga Instructor
+      - Certified Pilates Instructor
+      - Other
+      required: true
+    - id: 8
+      name: education_level
+      label: Highest Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 9
+      name: education_field
+      label: Field of Study
+      hint: Major or field of study
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: institution_name
+      label: Institution Name
+      hint: Name of educational institution
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cpr_certified
+      label: CPR AED Certification
+      hint: Do you have current CPR AED certification
+      type: select_one
+      options:
+      - Yes - Current certification
+      - No - Need to obtain
+      - Expired - Need renewal
+      required: true
+    - id: 13
+      name: cpr_expiration
+      label: CPR AED Expiration Date
+      hint: When does your CPR certification expire
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: relevant_experience
+      label: Years of Relevant Experience
+      hint: How many years of fitness training experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 15
+      name: specialization_area
+      label: Area of Specialization
+      hint: Select your area of focus
+      type: select_one
+      options:
+      - General fitness
+      - Weight loss
+      - Strength training
+      - Sports performance
+      - Senior fitness
+      - Youth fitness
+      - Pre-postnatal
+      - Corrective exercise
+      - Other
+      required: true
+    - id: 16
+      name: previous_certifications
+      label: Previous Certifications Held
+      hint: List any current or previous fitness certifications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: liability_insurance
+      label: Liability Insurance
+      hint: Do you have professional liability insurance
+      type: select_one
+      options:
+      - Yes - Currently insured
+      - No - Need information
+      - Planning to obtain
+      required: true
+    - id: 18
+      name: background_check
+      label: Background Check Consent
+      hint: I consent to a criminal background check
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 19
+      name: exam_preference
+      label: Exam Delivery Preference
+      hint: How would you like to take the certification exam
+      type: select_one
+      options:
+      - Online proctored
+      - Testing center
+      - Live workshop exam
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: Method of payment for application fee
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Check
+      - Payment plan
+      required: true
+    - id: 21
+      name: application_fee
+      label: Application Fee Acknowledgment
+      hint: I understand the application fee is non-refundable
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I do not understand
+      required: true
+    - id: 22
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: I have read and agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 23
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

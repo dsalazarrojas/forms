@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Themed Photography Session Booking Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Family
+      - Wedding
+      - Event
+      - Other
+      required: false
+    - id: 10
+      name: num_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Morbidity Report Form
+    pages:
+    - id: 1
+      name: physician_name
+      label: Physician Full Name
+      hint: Reporting physician
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: physician_license
+      label: Medical License Number
+      hint: License ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specialty
+      label: Medical Specialty
+      hint: Your specialty
+      type: select_one
+      options:
+      - Internal Medicine
+      - Family Medicine
+      - Pediatrics
+      - Surgery
+      - Cardiology
+      - Oncology
+      - Infectious Disease
+      - Pulmonology
+      - Neurology
+      - Other
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: Hospital or clinic
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_phone
+      label: Facility Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: patient_initials
+      label: Patient Initials
+      hint: First and last initial only
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_gender
+      label: Patient Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Other
+      required: true
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_phone
+      label: Patient Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: When diagnosed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: diagnosis_code
+      label: ICD-10 Diagnosis Code
+      hint: Primary diagnosis code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: diagnosis_description
+      label: Diagnosis Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: disease_category
+      label: Disease Category
+      hint: Select category
+      type: select_one
+      options:
+      - Infectious Disease
+      - Chronic Disease
+      - Acute Condition
+      - Occupational Disease
+      - Environmental Exposure
+      - Congenital Condition
+      - Other
+      required: true
+    - id: 17
+      name: reportable_condition
+      label: Is This a Reportable Condition
+      hint: Per health department
+      type: select_one
+      options:
+      - Yes Required Report
+      - No Not Reportable
+      - Unsure
+      required: true
+    - id: 18
+      name: onset_date
+      label: Symptom Onset Date
+      hint: When symptoms began
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: hospitalization_required
+      label: Hospitalization Required
+      hint: Was patient admitted
+      type: select_one
+      options:
+      - Yes Currently Admitted
+      - Yes Previously Admitted
+      - No Outpatient Only
+      - No Not Required
+      required: true
+    - id: 20
+      name: admission_date
+      label: Admission Date
+      hint: If hospitalized
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: discharge_date
+      label: Discharge Date
+      hint: If discharged
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: outcome
+      label: Patient Outcome
+      hint: Current status
+      type: select_one
+      options:
+      - Recovered
+      - Recovering
+      - Condition Stable
+      - Condition Critical
+      - Deceased
+      - Unknown
+      required: true
+    - id: 23
+      name: complications
+      label: Complications
+      hint: Any complications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: treatment_provided
+      label: Treatment Provided
+      hint: Describe treatment
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medications_prescribed
+      label: Medications Prescribed
+      hint: List medications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: lab_results
+      label: Laboratory Results
+      hint: Key findings
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: imaging_results
+      label: Imaging Results
+      hint: X-ray CT MRI etc
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: risk_factors
+      label: Risk Factors
+      hint: Patient risk factors
+      type: select_multiple
+      options:
+      - Smoking
+      - Alcohol Use
+      - Substance Use
+      - Obesity
+      - Diabetes
+      - Hypertension
+      - Immunocompromised
+      - Travel History
+      - Occupational Exposure
+      - None Known
+      required: false
+    - id: 29
+      name: contact_tracing
+      label: Contact Tracing Required
+      hint: Are contacts traceable
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Required
+      - Unknown
+      required: true
+    - id: 30
+      name: public_health_concern
+      label: Public Health Concern
+      hint: Is there broader concern
+      type: select_one
+      options:
+      - Yes Outbreak Potential
+      - Yes Community Spread
+      - No Isolated Case
+      required: true
+    - id: 31
+      name: additional_notes
+      label: Additional Clinical Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: physician_signature
+      label: Physician Certification
+      hint: I certify this report
+      type: select_one
+      options:
+      - I Certify This Report
+      - Unable to Certify
+      required: true
+    - id: 33
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

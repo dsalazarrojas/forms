@@ -1,0 +1,343 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Auto Mode Configuration Survey
+    pages:
+      - id: 1
+        name: introduction
+        label: Auto Mode Configuration Survey
+        hint: Help us improve our auto mode feature
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_info
+        label: Respondent Information
+        hint: Tell us about yourself
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: user_type
+        label: User Type
+        hint: What best describes you
+        type: select_one
+        options:
+          - Individual Consumer
+          - Business User
+          - Developer
+          - IT Professional
+          - Other
+        required: true
+      - id: 7
+        name: usage_frequency
+        label: How Often Do You Use Auto Mode
+        hint: Your usage pattern
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never used
+        required: true
+      - id: 8
+        name: auto_mode_experience
+        label: Auto Mode Experience
+        hint: Your experience with auto mode features
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you with auto mode
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 10
+        name: ease_of_setup
+        label: Ease of Initial Setup
+        hint: How easy was it to set up
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 11
+        name: configuration_clarity
+        label: Configuration Options Clarity
+        hint: Are the options clear
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Confusing
+          - Very Confusing
+        required: true
+      - id: 12
+        name: most_used_features
+        label: Most Used Features
+        hint: Which auto mode features do you use
+        type: select_multiple
+        options:
+          - Auto-Save
+          - Auto-Update
+          - Auto-Sync
+          - Auto-Backup
+          - Auto-Detect
+          - Auto-Configure
+          - Auto-Optimize
+          - None
+        required: false
+      - id: 13
+        name: least_used_features
+        label: Least Used Features
+        hint: Which features do you rarely use
+        type: select_multiple
+        options:
+          - Auto-Save
+          - Auto-Update
+          - Auto-Sync
+          - Auto-Backup
+          - Auto-Detect
+          - Auto-Configure
+          - Auto-Optimize
+        required: false
+      - id: 14
+        name: configuration_preferences
+        label: Configuration Preferences
+        hint: How do you prefer to configure
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: default_settings
+        label: Default Settings Satisfaction
+        hint: Are defaults adequate
+        type: select_one
+        options:
+          - Very Adequate
+          - Adequate
+          - Somewhat Adequate
+          - Inadequate
+          - Very Inadequate
+        required: true
+      - id: 16
+        name: customization_level
+        label: Desired Customization Level
+        hint: How much control do you want
+        type: select_one
+        options:
+          - Fully Automatic
+          - Mostly Automatic with Some Control
+          - Balanced
+          - Mostly Manual Control
+          - Fully Manual Control
+        required: true
+      - id: 17
+        name: advanced_options
+        label: Advanced Options Usage
+        hint: Do you use advanced settings
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 18
+        name: performance_feedback
+        label: Performance Feedback
+        hint: How does auto mode perform
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: reliability
+        label: Reliability Rating
+        hint: How reliable is auto mode
+        type: select_one
+        options:
+          - Very Reliable
+          - Reliable
+          - Somewhat Reliable
+          - Unreliable
+          - Very Unreliable
+        required: true
+      - id: 20
+        name: speed
+        label: Speed of Auto Mode
+        hint: How fast does it respond
+        type: select_one
+        options:
+          - Very Fast
+          - Fast
+          - Acceptable
+          - Slow
+          - Very Slow
+        required: true
+      - id: 21
+        name: accuracy
+        label: Accuracy of Auto Mode
+        hint: How accurate are the decisions
+        type: select_one
+        options:
+          - Very Accurate
+          - Accurate
+          - Somewhat Accurate
+          - Inaccurate
+          - Very Inaccurate
+        required: true
+      - id: 22
+        name: issues_encountered
+        label: Issues Encountered
+        hint: What problems have you experienced
+        type: select_multiple
+        options:
+          - Configuration Lost
+          - Settings Reset Unexpectedly
+          - Slow Performance
+          - Conflicts with Other Features
+          - Unclear Error Messages
+          - Crashes or Freezes
+          - None
+        required: false
+      - id: 23
+        name: issue_frequency
+        label: Issue Frequency
+        hint: How often do issues occur
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: false
+      - id: 24
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What would you like to see improved
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: missing_features
+        label: Missing Features
+        hint: What features are missing
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: documentation_feedback
+        label: Documentation Feedback
+        hint: Quality of help and documentation
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: documentation_clarity
+        label: Documentation Clarity
+        hint: Is the documentation helpful
+        type: select_one
+        options:
+          - Very Helpful
+          - Helpful
+          - Somewhat Helpful
+          - Not Helpful
+          - Did Not Use
+        required: true
+      - id: 28
+        name: tutorial_usage
+        label: Tutorial Usage
+        hint: Did you use tutorials
+        type: select_one
+        options:
+          - Yes Very Helpful
+          - Yes Somewhat Helpful
+          - Yes Not Helpful
+          - No Did Not Need
+          - No Did Not Know
+        required: true
+      - id: 29
+        name: final_questions
+        label: Final Questions
+        hint: Additional feedback
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: recommend_auto_mode
+        label: Would You Recommend Auto Mode
+        hint: To colleagues or friends
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 31
+        name: future_usage
+        label: Future Usage Intent
+        hint: Will you continue using auto mode
+        type: select_one
+        options:
+          - Yes Increased Usage
+          - Yes Same Usage
+          - Yes Reduced Usage
+          - No Will Stop Using
+          - Unsure
+        required: true
+      - id: 32
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

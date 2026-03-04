@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Satisfaction Survey
+    pages:
+    - id: 1
+      name: relationship_length
+      label: Relationship_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: communication_style
+      label: Communication_style
+      hint: How do you usually communicate with your partner?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: conflict_resolution
+      label: Conflict_resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Somewhat good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat bad''}'
+      - '{''label'': ''Very bad''}'
+      required: false
+    - id: 4
+      name: intimacy_level
+      label: Intimacy_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Extremely high''}'
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 5
+      name: emotional_intelligence
+      label: Emotional_intelligence
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Somewhat good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat bad''}'
+      - '{''label'': ''Very bad''}'
+      required: false
+    - id: 6
+      name: conflict_resolution
+      label: Conflict_resolution
+      hint: What do you usually do when you have a conflict?
+      type: select_multiple
+      options:
+      - '{''label'': ''Talk it out''}'
+      - '{''label'': ''Avoid talking''}'
+      - '{''label'': ''Try to find compromise''}'
+      - '{''label'': ''Seek outside help''}'
+      required: false
+    - id: 7
+      name: trust_level
+      label: Trust_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Extremely high''}'
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 8
+      name: commitment_level
+      label: Commitment_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Extremely high''}'
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 9
+      name: decision_making
+      label: Decision_making
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Both partners agree''}'
+      - '{''label'': ''One partner makes decision''}'
+      - '{''label'': ''Both partners make decision but not in agreement''}'
+      required: false
+    - id: 10
+      name: emotional_support
+      label: Emotional_support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Most of the time''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 11
+      name: relationship_status
+      label: Relationship_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Living together''}'
+      - '{''label'': ''Separated''}'
+      - '{''label'': ''Divorced''}'
+      - '{''label'': ''Engaged''}'
+      - '{''label'': ''Married but living apart''}'
+      required: false
+    - id: 12
+      name: partner_satisfaction
+      label: Partner_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 13
+      name: communication_frequency
+      label: Communication_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: conflict_resolution_frequency
+      label: Conflict_resolution_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: intimacy_frequency
+      label: Intimacy_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: emotional_intelligence_frequency
+      label: Emotional_intelligence_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: emotional_support_frequency
+      label: Emotional_support_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: relationship_status_ever
+      label: Relationship_status_ever
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Living together''}'
+      - '{''label'': ''Separated''}'
+      - '{''label'': ''Divorced''}'
+      - '{''label'': ''Engaged''}'
+      - '{''label'': ''Married but living apart''}'
+      required: false
+    - id: 19
+      name: partner_satisfaction_ever
+      label: Partner_satisfaction_ever
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 20
+      name: communication_frequency_ever
+      label: Communication_frequency_ever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: conflict_resolution_frequency_ever
+      label: Conflict_resolution_frequency_ever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: intimacy_frequency_ever
+      label: Intimacy_frequency_ever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: emotional_intelligence_frequency_ever
+      label: Emotional_intelligence_frequency_ever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: emotional_support_frequency_ever
+      label: Emotional_support_frequency_ever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: overall_satisfaction_ever
+      label: Overall_satisfaction_ever
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false

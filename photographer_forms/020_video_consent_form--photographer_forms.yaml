@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Consent Form
+    pages:
+    - id: 1
+      name: video_consent_form
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: producer
+      label: Producer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: owner_video
+      label: Video Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: use_video
+      label: Use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: use_video_for
+      label: For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: video_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_signed_on
+      label: Signed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

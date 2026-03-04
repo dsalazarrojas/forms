@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding DVD Application Form
+    pages:
+    - id: 1
+      name: wedding_dvd_application_form
+      label: wedding_dvd_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: wedding_dvd
+      label: wedding_dvd
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - wedding
+      - rehearsal
+      - ceremony
+      - reception
+      - post_wedding
+      required: true
+    - id: 10
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - online_order
+      - in_person
+      required: true
+    - id: 11
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_address_street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_address_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_address_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_address_postal
+      label: postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_address_country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 17
+      name: billing_address_note
+      label: billing_address_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_address_street
+      label: shipping_street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_address_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_address_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_address_postal
+      label: shipping_postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_address_country
+      label: shipping_country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 24
+      name: shipping_address_note
+      label: shipping_address_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

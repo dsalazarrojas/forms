@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Branded Face Mask Order Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mask_selection
+      label: Branded Mask
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

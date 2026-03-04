@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Plan Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Vaccination Plan Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vaccination_date
+      label: vaccination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_time
+      label: vaccination_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_type
+      label: vaccination_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vaccination_type
+      label: vaccination_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false

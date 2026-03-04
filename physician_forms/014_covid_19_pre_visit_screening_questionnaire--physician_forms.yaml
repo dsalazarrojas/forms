@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pre Visit Screening Questionnaire
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appt_date
+      label: Scheduled Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: appt_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: medical_provider
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: symptoms_7days
+      label: Have you had any COVID-19 symptoms in the last 7 days?
+      hint: e.g. Fever, cough, sore throat
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: household_symptoms
+      label: Is anyone in your household currently experiencing symptoms?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: waiting_test
+      label: Are you currently waiting for the results of a COVID-19 test?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: vaccination_status
+      label: Are you fully vaccinated against COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 9
+      name: protocol_ack
+      label: I agree to wear a mask and follow all clinic safety protocols
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 10
+      name: contact_method
+      label: Best way to contact you for pre-visit updates
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      required: true
+    - id: 11
+      name: verification_cert
+      label: I certify that my answers are honest and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

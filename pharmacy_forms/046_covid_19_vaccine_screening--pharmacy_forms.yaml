@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Screening
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: screening_section
+      label: -- Health Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feeling_well
+      label: Are you feeling well today
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: fever
+      label: Do you have a fever
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: temperature
+      label: Current Temperature
+      hint: Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cough
+      label: Do you have a cough
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: shortness_breath
+      label: Difficulty breathing or shortness of breath
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: sore_throat
+      label: Do you have a sore throat
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: loss_taste_smell
+      label: Loss of taste or smell
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: fatigue
+      label: Unusual fatigue or weakness
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: allergies_section
+      label: -- Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vaccine_allergies
+      label: Allergies to any vaccine components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: allergy_description
+      label: If yes, which components
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: severe_reactions
+      label: History of severe allergic reactions
+      hint: Anaphylaxis to medications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: medications_section
+      label: -- Current Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Currently taking any medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: medication_list
+      label: List medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: blood_thinners
+      label: Taking blood thinners or anticoagulants
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: health_conditions_section
+      label: -- Health Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: chronic_conditions
+      label: Chronic health conditions
+      hint: Heart disease, diabetes, lung disease
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: condition_list
+      label: If yes, which conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: immunocompromised
+      label: Immunocompromised or immunosuppressed
+      hint: HIV, cancer treatment, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: blood_clotting_disorder
+      label: History of blood clotting disorders
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: pregnancy_section
+      label: -- Pregnancy Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: pregnant
+      label: Are you pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 29
+      name: breastfeeding
+      label: Are you breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 30
+      name: covid_section
+      label: -- COVID-19 History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: covid_positive
+      label: Ever tested positive for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 32
+      name: covid_positive_date
+      label: If yes, when
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: fully_recovered
+      label: Have you fully recovered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 34
+      name: vaccination_section
+      label: -- COVID-19 Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: prior_vaccine
+      label: Prior COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: vaccine_doses
+      label: Number of doses received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: approval_section
+      label: -- Screening Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: screening_approved
+      label: Approved for vaccination today
+      hint: Pharmacist to complete
+      type: select_one
+      options:
+      - Approved
+      - Defer to physician
+      - Not approved
+      required: false
+    - id: 39
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: null
+      type: text
+      options: []
+      required: false

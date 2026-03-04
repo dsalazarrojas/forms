@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Photography Release Consent Form
+    pages:
+    - id: 1
+      name: photography_release_consent_form_page_1
+      label: Consent Form
+      hint: Please fill out this form to give or deny photography release consent.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_information_page_1
+      label: Client Information
+      hint: null
+      type: select_multiple
+      options:
+      - Client 1
+      - Client 2
+      required: false
+    - id: 3
+      name: photography_release_consent_page_3
+      label: Release Consent
+      hint: null
+      type: select_one
+      options:
+      - Grant
+      - Deny
+      required: true
+    - id: 4
+      name: photography_release_consent_date_page_4
+      label: Release Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: photography_release_consent_time_page_5
+      label: Release Consent Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: notes_page_6
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photography_release_consent_form_agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photography_release_consent_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent And Release Form For Interviewing Photographing And Videotaping
+      (United States)
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_city_state_zip
+      label: City, State, and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_consent_scope
+      label: -- Consent and Release Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Name of Project or Production
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: media_types_consented
+      label: I consent to being
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Interviewed
+      - Photographed
+      - Videotaped
+      - Audio Recorded
+      required: true
+    - id: 9
+      name: usage_rights_grant
+      label: I grant the right to use the recorded material for
+      hint: null
+      type: select_multiple
+      options:
+      - Educational Purposes
+      - Commercial/Marketing
+      - Social Media
+      - Internal Training
+      - Public Broadcast
+      required: true
+    - id: 10
+      name: section_legal_release
+      label: -- Legal Release and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: release_of_liability
+      label: I release the organization from any and all liability arising from the
+        use of my image or voice
+      hint: null
+      type: select_one
+      options:
+      - I agree to the release
+      - Other
+      required: true
+    - id: 12
+      name: compensation_acknowledgment
+      label: I understand that I will not receive financial compensation for this
+        release
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 13
+      name: age_verification
+      label: Participant Age Status
+      hint: null
+      type: select_one
+      options:
+      - I am 18 years of age or older
+      - I am under 18 (Parent/Guardian signature required)
+      required: true
+    - id: 14
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_signature
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signature_confirmation
+      label: Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_signed
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

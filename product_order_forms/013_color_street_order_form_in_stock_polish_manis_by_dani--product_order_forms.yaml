@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Form - In Stock Polish Manis By Dani
+    pages:
+    - id: 1
+      name: section_dani_stock
+      label: -- In Stock Polish - Manis By Dani --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name_dani
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_dani
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: address_dani
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_availability
+      label: -- Select from Current In-Stock --
+      hint: Please note items are first come, first served
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: instock_glitters
+      label: In-Stock Glitters
+      hint: null
+      type: select_multiple
+      options:
+      - Glittersweet
+      - Fort Worth It
+      - At the Plaza
+      - Chelsea Ya Later
+      required: false
+    - id: 7
+      name: instock_solids
+      label: In-Stock Solids
+      hint: null
+      type: select_multiple
+      options:
+      - Aspen Sky
+      - Giza Sands
+      - Key West Is Best
+      - Maine-ly Mums
+      required: false
+    - id: 8
+      name: instock_designs
+      label: In-Stock Designs
+      hint: null
+      type: select_multiple
+      options:
+      - Spotted in NYC
+      - Floral Distraction
+      - Polka Dot-com
+      required: false
+    - id: 9
+      name: sets_count_dani
+      label: Total number of sets selected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_dani_delivery
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dani_payment_choice
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Cash (Local Pick-up Only)
+      required: true
+    - id: 12
+      name: dani_venmo_user
+      label: Venmo/PayPal Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pickup_or_ship
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - Shipping ($4.00)
+      - Local Pick-up (Free)
+      required: true
+    - id: 14
+      name: party_hostess
+      label: Are you ordering for a specific party?
+      hint: If so, please name the hostess
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dani_message
+      label: Message for Dani
+      hint: null
+      type: text
+      options: []
+      required: false

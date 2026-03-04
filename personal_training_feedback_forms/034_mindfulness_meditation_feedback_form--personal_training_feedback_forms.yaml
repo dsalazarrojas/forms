@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mindfulness Meditation Feedback Form
+    pages:
+    - id: 1
+      name: session_id
+      label: Session Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: Please enter date as YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_would_you_like_to_focus_on
+      label: What would you like to focus on
+      hint: null
+      type: select_one
+      options:
+      - Mindfulness
+      - Relaxation
+      - Stress Management
+      - Concentration
+      - Other
+      required: false
+    - id: 5
+      name: what_did_you_find_most_challenging
+      label: What did you find most challenging?
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness
+      - Concentration
+      - Stress Management
+      - Relaxation
+      - Other
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: would_you_return
+      label: Would you return
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: would_like_to_schedule_next_session
+      label: Would you like to schedule next session
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

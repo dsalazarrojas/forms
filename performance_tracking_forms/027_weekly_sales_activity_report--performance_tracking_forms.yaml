@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Sales Activity Report
+    pages:
+    - id: 1
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: territory
+      label: Territory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: target_amount
+      label: Target Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: challenge
+      label: Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress
+      label: Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: key_challenges
+      label: Key Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: weekly_sales_activity_report
+      label: Weekly Sales Activity Report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

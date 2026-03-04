@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Self Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Cough
+      - Chest pain
+      - Fever
+      - Difficulty breathing
+      - Muscle aches
+      required: true
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Europe
+      - Asia
+      - Africa
+      - Oceania
+      - None of the above
+      required: true
+    - id: 4
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: select_one
+      options:
+      - Close contact
+      - Casual contact
+      - No contact
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - Lung disease
+      - Cancer
+      - Other (please describe)
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - ACE inhibitor
+      - Anti-inflammatory
+      - Blood thinner
+      - Insulin
+      - Other (please describe)
+      required: false
+    - id: 7
+      name: previous_tests
+      label: Previous Tests
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: true
+    - id: 8
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: true
+    - id: 9
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: travel_last_7days
+      label: Travel Last 7 Days
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: symptoms_last_7days
+      label: Symptoms Last 7 Days
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Chest pain
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Sore Throat
+      - Other (please describe)
+      required: false
+    - id: 13
+      name: contact_last_7days
+      label: Contact Last 7 Days
+      hint: null
+      type: select_multiple
+      options:
+      - Close contact
+      - Casual contact
+      - No contact
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - Lung disease
+      - Cancer
+      - Other (please describe)
+      required: false
+    - id: 15
+      name: medications_last_7days
+      label: Medications Last 7 Days
+      hint: null
+      type: select_multiple
+      options:
+      - ACE inhibitor
+      - Anti-inflammatory
+      - Blood thinner
+      - Insulin
+      - Other (please describe)
+      required: false
+    - id: 16
+      name: previous_tests_last_7days
+      label: Previous Tests Last 7 Days
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: false
+    - id: 17
+      name: test_results_last_7days
+      label: Test Results Last 7 Days
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: false
+    - id: 18
+      name: test_date_last_7days
+      label: Test Date Last 7 Days
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: test_time_last_7days
+      label: Test Time Last 7 Days
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: contact_trace
+      label: Contact Trace
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: self_isolation
+      label: Self-Isolation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: travel_restrictions
+      label: Travel Restrictions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: healthcare_worker
+      label: Healthcare Worker
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: test_results_awaiting
+      label: Test Results Awaiting
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: Complete this form to submit your self-assessment
+      type: text
+      options: []
+      required: true

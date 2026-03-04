@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: fashion_brand_footage_release_form
+    pages:
+    - id: 1
+      name: consent
+      label: Fashion Brand Footage Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_to_use_recorded_footage
+      label: Consent to use recorded footage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_to_use_footage_for_campaigns
+      label: For campaigns
+      hint: null
+      type: select_multiple
+      options:
+      - Fashion Show
+      - Print Ad
+      - Social Media
+      - TV Commercial
+      - Web Series
+      - Event
+      - Digital Ad
+      - Other
+      required: true
+    - id: 8
+      name: consent_to_use_footage_for_social_content
+      label: For social content
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - TikTok
+      - Twitter
+      - YouTube
+      - LinkedIn
+      - Pinterest
+      - Reddit
+      - Other
+      required: true
+    - id: 9
+      name: consent_to_use_footage_for_brand_promotions
+      label: For brand promotions
+      hint: null
+      type: select_multiple
+      options:
+      - Product Launch
+      - Event Promotion
+      - Fashion Show Promotion
+      - Fashion Magazine
+      - Other
+      required: true
+    - id: 10
+      name: additional_terms_and_conditions
+      label: Additional terms and conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

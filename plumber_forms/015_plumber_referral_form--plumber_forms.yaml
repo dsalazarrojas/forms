@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plumber Referral Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: How did you meet the customer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      - Lost
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: lead_status_change_date
+      label: Lead Status Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_note
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false

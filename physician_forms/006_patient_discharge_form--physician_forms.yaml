@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Discharge Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: laboratory_values
+      label: Laboratory Values
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_meds
+      label: Additional Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_device
+      label: Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_info
+      label: Physician Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_provider
+      label: Next Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: discharge_info
+      label: Discharge Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

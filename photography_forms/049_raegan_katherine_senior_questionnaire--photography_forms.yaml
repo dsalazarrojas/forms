@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: raegan_katherine_senior_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: How Do You Know Me
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: What Is Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: what_is_your_favorite_color
+      label: what_is_your_favorite_color
+      hint: What is your favorite color?
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      required: false
+    - id: 7
+      name: what_is_your_favorite_food
+      label: what_is_your_favorite_food
+      hint: What is your favorite food?
+      type: select_one
+      options:
+      - Pizza
+      - Sushi
+      - Tacos
+      - Burgers
+      - Salad
+      required: false
+    - id: 8
+      name: what_is_your_favorite_hobby
+      label: what_is_your_favorite_hobby
+      hint: What is your favorite hobby?
+      type: select_multiple
+      options:
+      - Hiking
+      - Reading
+      - Playing Music
+      - Sports
+      - Traveling
+      required: false
+    - id: 9
+      name: what_is_your_favorite_place
+      label: what_is_your_favorite_place
+      hint: What is your favorite place?
+      type: select_multiple
+      options:
+      - Beach
+      - City
+      - Park
+      - Mountain
+      - Lake
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Reset And Realignment Survey
+    pages:
+    - id: 1
+      name: personal_reset_and_realignment_survey_page_1
+      label: Personal Reset And Realignment Survey Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_reset_and_realignment_survey_page_2
+      label: Coaching
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: coaching_goals
+      label: coaching_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reflection_insights
+      label: reflection_insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_priorities
+      label: coaching_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

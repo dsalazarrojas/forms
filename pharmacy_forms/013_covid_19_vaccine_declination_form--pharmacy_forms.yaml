@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Declination Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: declination_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: declination_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: declination_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: declination_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: declination_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: declination_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: declination_header
+      label: -- Declination of COVID-19 Vaccine --
+      hint: Formal declaration declining the vaccine
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: declination_statement
+      label: I Decline the COVID-19 Vaccine at This Time
+      hint: I am choosing to decline the vaccine
+      type: select_one
+      options:
+      - I decline the vaccine
+      - I decline and do not want information
+      - I decline pending future information
+      required: true
+    - id: 10
+      name: reason_for_declination
+      label: Reason for Declining the COVID-19 Vaccine
+      hint: Please select your primary reason
+      type: select_one
+      options:
+      - Medical Contraindication
+      - Allergic Reaction Concern
+      - Personal Choice
+      - Religious or Philosophical Beliefs
+      - Pregnancy or Breastfeeding Concerns
+      - Previous Adverse Reaction
+      - Waiting for More Information
+      - Other Reason
+      required: true
+    - id: 11
+      name: detailed_reason
+      label: Please Explain Your Reason in Detail
+      hint: Provide more information about your decision
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: informed_header
+      label: -- Informed Declination --
+      hint: Acknowledge your understanding
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: understand_risks
+      label: I Understand the Risks of Not Vaccinating
+      hint: You understand potential health risks
+      type: select_one
+      options:
+      - Yes, I understand the risks
+      - I have questions
+      - I do not understand
+      required: true
+    - id: 14
+      name: received_information
+      label: I Have Received COVID-19 Vaccine Information
+      hint: Healthcare provider gave you information
+      type: select_one
+      options:
+      - Yes, I received information
+      - No information provided
+      - Refused information
+      required: true
+    - id: 15
+      name: understand_benefits
+      label: I Understand the Benefits of Vaccination
+      hint: You are aware of vaccination benefits
+      type: select_one
+      options:
+      - Yes, I understand benefits
+      - I have questions
+      - false
+      required: true
+    - id: 16
+      name: future_vaccination
+      label: Would You Reconsider Vaccination in the Future
+      hint: Possibility of vaccination later
+      type: select_one
+      options:
+      - Yes, possibly
+      - Unlikely
+      - Definitely not
+      - Unsure
+      required: false
+    - id: 17
+      name: medical_info_header
+      label: -- Medical Information --
+      hint: Background relevant to declination
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: known_contraindications
+      label: Known Medical Contraindications
+      hint: Medical reasons for not vaccinating
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_adverse_reactions
+      label: Previous Adverse Vaccine Reactions
+      hint: History of vaccine reactions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_health_conditions
+      label: Current Health Conditions
+      hint: Relevant medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: acknowledgment_header
+      label: -- Acknowledgment of Declination --
+      hint: Final acknowledgment of your decision
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: acknowledge_declination
+      label: I Acknowledge I am Declining the COVID-19 Vaccine
+      hint: Final confirmation of your choice
+      type: select_one
+      options:
+      - I acknowledge and accept full responsibility
+      - I acknowledge with reservations
+      required: true
+    - id: 23
+      name: healthcare_provider_signature_required
+      label: Healthcare Provider Signature on File
+      hint: Provider acknowledges you received counseling
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: declination_date
+      label: Date of Declination
+      hint: Date you are signing this form
+      type: date
+      options: []
+      required: true

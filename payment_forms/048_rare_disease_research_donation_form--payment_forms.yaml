@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rare Disease Research Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_donation_method
+      label: Donor Donation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Check''}'
+      - '{''id'': 3, ''name'': ''Credit Card''}'
+      - '{''id'': 4, ''name'': ''Bank Transfer''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: donor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_description
+      label: Research Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_purpose
+      label: Research Purpose
+      hint: null
+      type: text
+      options: []
+      required: false

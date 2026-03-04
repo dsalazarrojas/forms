@@ -1,0 +1,140 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Personal Aspirations Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goal_description
+      label: What is your main goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goal_type
+      label: What kind of goal is this
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Financial''}'
+      - '{''id'': 2, ''label'': ''Career''}'
+      - '{''id'': 3, ''label'': ''Personal''}'
+      - '{''id'': 4, ''label'': ''Health''}'
+      - '{''id'': 5, ''label'': ''Education''}'
+      required: true
+    - id: 4
+      name: goal_urgency
+      label: When do you want to achieve this goal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: goal_frequency
+      label: How often do you plan to work on this goal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''Annually''}'
+      required: true
+    - id: 6
+      name: goal_importance
+      label: How important is this goal to you
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Important''}'
+      - '{''id'': 2, ''label'': ''Somewhat Important''}'
+      - '{''id'': 3, ''label'': ''Not Very Important''}'
+      - '{''id'': 4, ''label'': ''Not at All Important''}'
+      required: true
+    - id: 7
+      name: personal_aspiration
+      label: What is your personal aspiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: goal_support
+      label: Who supports you in achieving this goal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Family''}'
+      - '{''id'': 2, ''label'': ''Friends''}'
+      - '{''id'': 3, ''label'': ''Colleagues''}'
+      - '{''id'': 4, ''label'': ''Mentor''}'
+      - '{''id'': 5, ''label'': ''Self''}'
+      required: true
+    - id: 9
+      name: goal_challenges
+      label: What challenges do you face while achieving this goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: goal_barriers
+      label: What barriers do you face while achieving this goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: goal_resources
+      label: What resources do you need to achieve this goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: goal_planner
+      label: How do you plan to achieve this goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: goal_tracker
+      label: How do you track progress on this goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: goal_reflection
+      label: What reflection do you have about this goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: goal_review
+      label: What kind of review do you have about this goal
+      hint: null
+      type: text
+      options: []
+      required: false

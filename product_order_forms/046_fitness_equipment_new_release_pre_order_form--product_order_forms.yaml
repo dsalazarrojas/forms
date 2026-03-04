@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_equipment_new_release_pre_order_form
+    pages:
+    - id: 1
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: retailer_preferences
+      label: Retailer Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Retailer'', ''value'': ''Retailer''}'
+      - '{''id'': 2, ''label'': ''Online Store'', ''value'': ''Online Store''}'
+      - '{''id'': 3, ''label'': ''Gym'', ''value'': ''Gym''}'
+      required: false
+    - id: 9
+      name: gym_info
+      label: Gym Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_info
+      label: Store Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false

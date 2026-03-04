@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Warmer Preorder Form
+    pages:
+    - id: 1
+      name: section_product_selection
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: warmer_model
+      label: Child Warmer Model
+      hint: Select the model you wish to reserve
+      type: select_one
+      options:
+      - label: Model A - Standard Edition
+        value: standard
+      - label: Model B - Deluxe Comfort
+        value: deluxe
+      - label: Model C - Portable Travel
+        value: portable
+      required: true
+    - id: 3
+      name: preorder_quantity
+      label: Quantity to Preorder
+      hint: Maximum of 5 per customer
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: section_personalization
+      label: -- Personalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: color_choice
+      label: Color Choice
+      hint: Select your preferred aesthetic
+      type: select_one
+      options:
+      - label: Soft Blue
+        value: blue
+      - label: Rose Pink
+        value: pink
+      - label: Cloud Grey
+        value: grey
+      - label: Sage Green
+        value: green
+      required: true
+    - id: 6
+      name: custom_engraving_text
+      label: Custom Engraving - if any
+      hint: Up to 15 characters
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Full Name
+      hint: Name for the order
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_email
+      label: Customer Email Address
+      hint: For preorder confirmation
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone Number
+      hint: For shipping updates
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_shipping_details
+      label: -- Shipping Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_address
+      label: Delivery Address for Preorder Shipment
+      hint: Include Street, City, State, and Zip
+      type: text
+      options: []
+      required: true

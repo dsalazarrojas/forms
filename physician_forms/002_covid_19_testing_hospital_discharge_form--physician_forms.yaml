@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Hospital Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: As shown in hospital records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Hospital Medical Record Number
+      hint: Unique patient identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: admission_date
+      label: Hospital Admission Date
+      hint: When patient was admitted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: When patient is being released
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: covid_status
+      label: COVID-19 Test Status
+      hint: Current test result
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: true
+    - id: 7
+      name: covid_test_date
+      label: Most Recent COVID-19 Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: quarantine_period
+      label: Recommended Quarantine Period
+      hint: Length of quarantine upon discharge
+      type: select_one
+      options:
+      - 5 days
+      - 10 days
+      - 14 days
+      - No quarantine required
+      required: true
+    - id: 9
+      name: isolation_clearance
+      label: Isolation Clearance Criteria Met
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Results
+      required: true
+    - id: 10
+      name: vaccination_status
+      label: Vaccination Status at Discharge
+      hint: COVID-19 vaccination completion
+      type: select_one
+      options:
+      - Unvaccinated
+      - Partially Vaccinated
+      - Fully Vaccinated
+      - Boosted
+      required: false
+    - id: 11
+      name: discharge_location
+      label: Discharge Destination
+      hint: Where patient will recover
+      type: select_one
+      options:
+      - Home
+      - Skilled Nursing Facility
+      - Rehabilitation Center
+      - Long-term Care Facility
+      - Other
+      required: true
+    - id: 12
+      name: contact_precautions
+      label: Contact Precautions Needed
+      hint: During recovery at home
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: symptoms_at_discharge
+      label: Patient Symptoms at Discharge
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of Breath
+      - Fatigue
+      - Loss of Taste or Smell
+      - None
+      required: false
+    - id: 14
+      name: discharge_instructions
+      label: Discharge Instructions Provided
+      hint: Written instructions given to patient
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Appointment Date
+      hint: When patient should see physician
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medications_prescribed
+      label: Medications Prescribed
+      hint: List any discharge medications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attending_physician
+      label: Attending Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: hospital_name
+      label: Hospital Name
+      hint: Discharging facility
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patient_contact_phone
+      label: Patient Contact Phone
+      hint: For follow-up calls
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_contact_email
+      label: Patient Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

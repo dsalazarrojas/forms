@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Clothing Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Apparel Order Form --
+      hint: Online shopping made easy with Afterpay
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, Apartment, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: selection_header
+      label: -- Item Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_description
+      label: Item Description or SKU
+      hint: Enter the product name or stock code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_size
+      label: Size - S, M, L, XL, etc.
+      hint: null
+      type: select_one
+      options:
+      - Extra Small (XS)
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra Large (XL)
+      - XXL
+      required: true
+    - id: 7
+      name: item_color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Charcoal
+      - Olive Green
+      - Burgundy
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Number of items for this SKU
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit Price
+      hint: price per individual item
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: accessories
+      label: Accessories to add
+      hint: Optional add-ons
+      type: select_multiple
+      options:
+      - Gift Wrap
+      - Matching Belt
+      - Spare Buttons
+      - Garment Bag
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: Choose Afterpay for 4 easy payments
+      type: select_one
+      options:
+      - Afterpay
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 12
+      name: shipping_instructions
+      label: Special Shipping Instructions
+      hint: e.g., Leave at the back door
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Care Recommendation Form
+    pages:
+    - id: 1
+      name: hair_care_recommendation_form
+      label: hair_care_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_type
+      label: hair_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: skin_type
+      label: skin_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hair_length
+      label: hair_length
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: color_type
+      label: color_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_use
+      label: product_use
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: hair_problem
+      label: hair_problem
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: hair_problem_2
+      label: hair_problem_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: skin_problem
+      label: skin_problem
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Transaction Consent Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Other
+      required: false
+    - id: 5
+      name: prophet_name
+      label: Prophet Name
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Event Souvenir Production Order Form
+    pages:
+    - id: 1
+      name: section_organizer
+      label: -- Event Organizer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Person placing order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of event these souvenirs are for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_souvenir
+      label: -- Souvenir Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: souvenir_type
+      label: Souvenir Item Type
+      hint: null
+      type: select_one
+      options:
+      - T-shirt
+      - Mug
+      - Hat or cap
+      - Tote bag
+      - Keychain
+      - Badge or pin
+      - Water bottle
+      - Other
+      required: true
+    - id: 9
+      name: item_description
+      label: Item Description
+      hint: Style, material, specific details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: design_description
+      label: Design or Logo Description
+      hint: What will be printed or embroidered?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: color_choice
+      label: Item Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_specs
+      label: -- Size and Quantity Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: size_range
+      label: Size Range Available
+      hint: S, M, L, XL, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quantity_total
+      label: Total Quantity Needed
+      hint: Total number of items
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: size_breakdown
+      label: Size Breakdown
+      hint: How many of each size?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: unit_price
+      label: Unit Price - USD
+      hint: Cost per souvenir
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_cost
+      label: Total Cost - USD
+      hint: Quantity x Unit Price
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_production
+      label: -- Production Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: personalization
+      label: Personalization Required
+      hint: Names, numbers, etc on items
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: personalization_details
+      label: Personalization Details
+      hint: What text or design per item?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: printing_method
+      label: Printing or Embroidery Method
+      hint: Screen print, embroidered, heat transfer, etc
+      type: select_one
+      options:
+      - Screen print
+      - Embroidered
+      - Heat transfer
+      - Direct print
+      - Other
+      required: true
+    - id: 22
+      name: section_timeline
+      label: -- Timeline and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: event_date
+      label: Event Date
+      hint: When are souvenirs needed?
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When must they be ready?
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

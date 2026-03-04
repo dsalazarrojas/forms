@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Transfer Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_info
+      label: Transfer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pharmacist_info
+      label: Pharmacist Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_transfer_prophets
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_transfer
+      label: Time of Transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

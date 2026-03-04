@@ -1,0 +1,328 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Foster Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_intro
+      label: Animal Foster Application Form
+      hint: Thank you for your interest in fostering animals
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: housing_type
+      label: What Type of Housing Do You Live In
+      hint: Housing
+      type: select_one
+      options:
+      - House with yard
+      - House without yard
+      - Apartment
+      - Condo or townhouse
+      - Farm or rural
+      - Other
+      required: true
+    - id: 7
+      name: ownership_status
+      label: Do You Own or Rent
+      hint: Housing status
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with family
+      - Military housing
+      required: true
+    - id: 8
+      name: landlord_approval
+      label: If Renting, Do You Have Landlord Approval
+      hint: Permission
+      type: select_one
+      options:
+      - Yes - written approval
+      - Yes - verbal approval
+      - No - not yet
+      - Not applicable
+      required: false
+    - id: 9
+      name: yard_info
+      label: Do You Have a Fenced Yard
+      hint: Yard details
+      type: select_one
+      options:
+      - Yes - fully fenced
+      - Yes - partially fenced
+      - No fence
+      - Not applicable
+      required: false
+    - id: 10
+      name: household_members
+      label: How Many People Live in Your Home
+      hint: Household size
+      type: select_one
+      options:
+      - 1 - just me
+      - 2
+      - 3-4
+      - 5 or more
+      required: true
+    - id: 11
+      name: children_ages
+      label: Ages of Children in Home
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_pets
+      label: Do You Currently Have Pets
+      hint: Pet ownership
+      type: select_one
+      options:
+      - No - no pets
+      - Yes - 1 pet
+      - Yes - 2 pets
+      - Yes - 3 or more pets
+      required: true
+    - id: 13
+      name: pet_details
+      label: Please Describe Your Current Pets
+      hint: Type, breed, age
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pet_vaccinations
+      label: Are Your Pets Current on Vaccinations
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Yes - all current
+      - Some due soon
+      - false
+      - Not applicable
+      required: false
+    - id: 15
+      name: fostering_experience
+      label: Have You Fostered Animals Before
+      hint: Experience
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once or twice
+      - No - first time
+      required: true
+    - id: 16
+      name: experience_details
+      label: Describe Your Fostering Experience
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: species_interest
+      label: Which Species Are You Interested in Fostering
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Puppies
+      - Adult dogs
+      - Senior dogs
+      - Kittens
+      - Adult cats
+      - Senior cats
+      - Rabbits
+      - Birds
+      - Small animals
+      - Any where needed
+      required: true
+    - id: 18
+      name: special_needs
+      label: Are You Willing to Foster Special Needs Animals
+      hint: Special needs
+      type: select_one
+      options:
+      - Yes - any special needs
+      - Yes - some conditions
+      - No - healthy animals only
+      required: true
+    - id: 19
+      name: special_needs_types
+      label: Which Special Needs Would You Consider
+      hint: If applicable
+      type: select_multiple
+      options:
+      - Medical conditions
+      - Behavioral issues
+      - Senior animals
+      - Mother with litter
+      - Injured animals
+      - None
+      required: false
+    - id: 20
+      name: foster_duration
+      label: How Long Can You Typically Foster
+      hint: Duration
+      type: select_one
+      options:
+      - Short-term - 2 weeks or less
+      - Medium-term - 2-8 weeks
+      - Long-term - 2-6 months
+      - Extended - 6 months or more
+      - Until adoption
+      required: true
+    - id: 21
+      name: capacity
+      label: How Many Animals Can You Foster
+      hint: Capacity
+      type: select_one
+      options:
+      - 1 animal
+      - 2 animals
+      - 3-5 animals
+      - 6 or more animals
+      - Litter only
+      required: true
+    - id: 22
+      name: work_schedule
+      label: What Is Your Work Schedule
+      hint: Availability
+      type: select_one
+      options:
+      - Home most of the day
+      - Away 4-8 hours
+      - Away 8+ hours
+      - Variable schedule
+      - Work from home
+      required: true
+    - id: 23
+      name: travel_plans
+      label: Do You Travel Frequently
+      hint: Travel habits
+      type: select_one
+      options:
+      - No - rarely travel
+      - Occasionally - can plan around fosters
+      - Yes - frequently
+      required: true
+    - id: 24
+      name: veterinarian_name
+      label: Do You Have a Veterinarian
+      hint: Vet info
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financial_responsibility
+      label: Do You Understand the Shelter Covers Medical Costs
+      hint: Financial understanding
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - need clarification
+      required: true
+    - id: 26
+      name: training_attendance
+      label: Are You Willing to Attend Foster Training
+      hint: Training
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - if required
+      - false
+      required: true
+    - id: 27
+      name: home_visit
+      label: Are You Willing to Have a Home Visit
+      hint: Home check
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 28
+      name: background_check
+      label: Are You Willing to Undergo Background Check
+      hint: Screening
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 29
+      name: motivation
+      label: Why Do You Want to Foster Animals
+      hint: Motivation
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: support_system
+      label: Who Can Help You with Foster Care
+      hint: Support network
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: questions
+      label: Do You Have Any Questions
+      hint: Ask here
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Previous adopter
+      - Community event
+      - Other
+      required: false
+    - id: 33
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

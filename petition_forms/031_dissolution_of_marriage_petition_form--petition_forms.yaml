@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dissolution Of Marriage Petition Form
+    pages:
+    - id: 1
+      name: petition_form_details
+      label: Petition Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_info
+      label: Petitioner Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: respondent_info
+      label: Respondent Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: divorce_info
+      label: Divorce Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Separated
+      - Divorced
+      - Single
+      required: false
+    - id: 6
+      name: date_of_marriage
+      label: Date of Marriage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_separation
+      label: Date of Separation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_divorce
+      label: Reason for Divorce
+      hint: null
+      type: select_multiple
+      options:
+      - Irreconcilable Differences
+      - Incompatibility
+      - Abuse
+      - Addiction
+      - Desertion
+      - Other
+      required: false
+    - id: 9
+      name: grounds_for_divorce
+      label: Grounds for Divorce
+      hint: null
+      type: select_multiple
+      options:
+      - Irreconcilable Differences
+      - Incompatibility
+      - Abuse
+      - Addiction
+      - Desertion
+      - Other
+      required: false
+    - id: 10
+      name: divorce_payout
+      label: Divorce Payout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: child_support
+      label: Child Support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 12
+      name: property_division
+      label: Property Division
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 13
+      name: debt_burden
+      label: Debt Burden
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 14
+      name: financial_info
+      label: Financial Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 15
+      name: other_expenses
+      label: Other Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 16
+      name: property_info
+      label: Property Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 17
+      name: financial_assets
+      label: Financial Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 18
+      name: financial_liabilities
+      label: Financial Liabilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: notarized_by
+      label: Notarized By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: notarized_date
+      label: Notarized Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: notarized_by_title
+      label: Notarized By Title
+      hint: null
+      type: select_one
+      options:
+      - Attorney
+      - Notary
+      - Both
+      required: false
+    - id: 25
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false

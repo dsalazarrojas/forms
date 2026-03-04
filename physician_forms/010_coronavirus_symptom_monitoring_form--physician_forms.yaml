@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Symptom Monitoring Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: respiratory_rate
+      label: respiratory_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cough
+      label: cough
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Runny nose
+      - Sore Throat
+      required: false
+    - id: 8
+      name: chest_pain
+      label: chest_pain
+      hint: null
+      type: select_multiple
+      options:
+      - Chest tightness
+      - Difficulty breathing
+      - Shortness of breath
+      - Other
+      required: false
+    - id: 9
+      name: headache
+      label: headache
+      hint: null
+      type: select_one
+      options:
+      - Migraine
+      - Tension headache
+      - No Headache
+      - Other
+      required: false
+    - id: 10
+      name: nausea
+      label: nausea
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Vomiting
+      - Diarrhea
+      - Other
+      required: false
+    - id: 11
+      name: muscle_pain
+      label: muscle_pain
+      hint: null
+      type: select_one
+      options:
+      - Muscle weakness
+      - Muscle aches
+      - Other
+      required: false
+    - id: 12
+      name: fatigue
+      label: fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - Feeling tired
+      - Fatigue
+      - Weakness
+      - Other
+      required: false
+    - id: 13
+      name: diarrhea
+      label: diarrhea
+      hint: null
+      type: select_one
+      options:
+      - Diarrhea
+      - Abdominal pain
+      - Nausea
+      - Other
+      required: false
+    - id: 14
+      name: loss_of_appetite
+      label: loss_of_appetite
+      hint: null
+      type: select_multiple
+      options:
+      - Loss of appetite
+      - Decrease in appetite
+      - Other
+      required: false
+    - id: 15
+      name: loss_of_smell
+      label: loss_of_smell
+      hint: null
+      type: select_multiple
+      options:
+      - Loss of smell and taste
+      - Loss of smell
+      - Other
+      required: false
+    - id: 16
+      name: loss_of_taste
+      label: loss_of_taste
+      hint: null
+      type: select_multiple
+      options:
+      - Loss of smell and taste
+      - Loss of taste
+      - Other
+      required: false
+    - id: 17
+      name: sore_throat
+      label: sore_throat
+      hint: null
+      type: select_one
+      options:
+      - Sore Throat
+      - Sore Throat
+      - Other
+      required: false
+    - id: 18
+      name: muscle_fatigue
+      label: muscle_fatigue
+      hint: null
+      type: select_multiple
+      options:
+      - Muscle weakness
+      - Muscle aches
+      - Other
+      required: false
+    - id: 19
+      name: shortness_breath
+      label: shortness_breath
+      hint: null
+      type: select_one
+      options:
+      - Difficulty breathing
+      - Shortness of breath
+      - Chest tightness
+      - Other
+      required: false
+    - id: 20
+      name: confusion
+      label: confusion
+      hint: null
+      type: select_multiple
+      options:
+      - Confusion
+      - Disorientation
+      - Other
+      required: false
+    - id: 21
+      name: chest_tightness
+      label: chest_tightness
+      hint: null
+      type: select_multiple
+      options:
+      - Chest tightness
+      - Difficulty breathing
+      - Other
+      required: false
+    - id: 22
+      name: loss_of_concentration
+      label: loss_of_concentration
+      hint: null
+      type: select_multiple
+      options:
+      - Loss of concentration
+      - Confusion
+      - Other
+      required: false
+    - id: 23
+      name: memory_loss
+      label: memory_loss
+      hint: null
+      type: select_one
+      options:
+      - Difficulty concentrating
+      - Memory Loss
+      - Other
+      required: false
+    - id: 24
+      name: irritability
+      label: irritability
+      hint: null
+      type: select_multiple
+      options:
+      - Irritability
+      - Anger
+      - Other
+      required: false
+    - id: 25
+      name: other_symptoms
+      label: other_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Other symptoms
+      - Other
+      required: false

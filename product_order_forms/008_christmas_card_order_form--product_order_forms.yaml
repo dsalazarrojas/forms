@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Card Order Form
+    pages:
+    - id: 1
+      name: order_info
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_selection
+      label: -- Card Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: card_design
+      label: Card Design
+      hint: null
+      type: select_one
+      options:
+      - Classic Red and Green
+      - Modern Minimalist
+      - Religious Theme
+      - Corporate Elegance
+      - Festive Family
+      - Rustic Charm
+      - Winter Wonderland
+      required: true
+    - id: 10
+      name: card_size
+      label: Card Size
+      hint: null
+      type: select_one
+      options:
+      - 4x6 inches
+      - 5x7 inches
+      - Folded 5x7
+      - Square 6x6
+      - Custom
+      required: true
+    - id: 11
+      name: personalization
+      label: Personalization Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Custom names
+      - Custom message
+      - Family photo
+      - Company logo
+      - Custom colors
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity to Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: printing_section
+      label: -- Printing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: paper_quality
+      label: Paper Quality
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Premium cardstock
+      - Matte finish
+      - Glossy finish
+      - Recycled paper
+      required: true
+    - id: 15
+      name: envelope_option
+      label: Include Envelopes
+      hint: null
+      type: select_one
+      options:
+      - Yes, standard white
+      - Yes, kraft paper
+      - Yes, colored envelopes
+      - No envelopes
+      required: true
+    - id: 16
+      name: custom_message
+      label: Custom Message or Greeting
+      hint: Max 100 characters
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_section
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Overnight
+      - Local pickup
+      required: true
+    - id: 23
+      name: delivery_date
+      label: Needed by Date
+      hint: null
+      type: date
+      options: []
+      required: true

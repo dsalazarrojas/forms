@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Personal Planner
+    pages:
+    - id: 1
+      name: main_page
+      label: personal-planner
+      hint: Plan your day in a structured and efficient way.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tasks
+      label: daily-tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Work
+      - Personal
+      - Errands
+      required: false
+    - id: 3
+      name: appointments
+      label: scheduled-appointments
+      hint: null
+      type: select_one
+      options:
+      - 8:00 am - 9:00 am
+      - 10:00 am - 11:00 am
+      - 12:00 pm - 1:00 pm
+      - 2:00 pm - 3:00 pm
+      - 4:00 pm - 5:00 pm
+      - 6:00 pm - 7:00 pm
+      - 7:00 pm - 8:00 pm
+      - 8:00 pm - 9:00 pm
+      - 9:00 pm - 10:00 pm
+      required: false
+    - id: 4
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit-button
+      hint: null
+      type: text
+      options: []
+      required: false

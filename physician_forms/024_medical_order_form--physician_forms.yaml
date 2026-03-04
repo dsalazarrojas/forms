@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Order Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_order
+      label: Medication Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dosage_instructions
+      label: Dosage Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medication_frequency
+      label: Medication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false

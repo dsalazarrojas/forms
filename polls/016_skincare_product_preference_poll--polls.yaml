@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Preference Poll
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_products
+      label: What skincare products do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: routine
+      label: What is your daily skincare routine?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: purchase_habits
+      label: How often do you purchase skincare products?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: purchase_factors
+      label: What factors do you consider when purchasing skincare products?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_preferences
+      label: What are your preferences for specific skincare product types?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: skincare_budget
+      label: How much do you typically spend on skincare?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: skincare_clinics
+      label: Have you visited a skincare clinic recently?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_decision_factors
+      label: What factors influence your skincare product decisions?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: skincare_product_purchases
+      label: Which of the following skincare products do you own?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

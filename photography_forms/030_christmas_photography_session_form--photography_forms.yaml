@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Photography Session Form
+    pages:
+    - id: 1
+      name: client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Preferred Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      required: true
+    - id: 10
+      name: session_type
+      label: Type of Session
+      hint: null
+      type: select_one
+      options:
+      - Family portrait
+      - Individual portrait
+      - Couple session
+      - Group photo
+      - Children only
+      - Holiday card photos
+      - Themed session
+      required: true
+    - id: 11
+      name: participants
+      label: -- Participants --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: number_of_people
+      label: Total Number of People in Photo
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: children_ages
+      label: Ages of Children (if applicable)
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: -- Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: session_location
+      label: Session Location
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - Outdoor location
+      - Home
+      - Other location
+      required: true
+    - id: 16
+      name: location_details
+      label: Location Details
+      hint: Address or description
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: backup_location
+      label: Backup Location (if outdoor)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: styling
+      label: -- Styling & Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: outfit_theme
+      label: Outfit Theme or Dress Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: color_palette
+      label: Preferred Color Palette
+      hint: null
+      type: select_one
+      options:
+      - Traditional red and green
+      - Warm tones
+      - Cool tones
+      - Metallic accents
+      - Neutral tones
+      - Mixed
+      - No preference
+      required: false
+    - id: 21
+      name: props_available
+      label: Props or Decorations Provided
+      hint: null
+      type: select_one
+      options:
+      - Yes, by photographer
+      - Yes, by client
+      - No props needed
+      - Client will bring some
+      required: false
+    - id: 22
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: specific_shots
+      label: Specific Shots You Want
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: image_usage
+      label: Image Usage Consent
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent to portfolio use
+      - Yes, with watermark only
+      - No, personal use only
+      required: true

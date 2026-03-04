@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Harvest Equipment Order Form
+    pages:
+    - id: 1
+      name: farm_harvest_equipment_order_form_page
+      label: farm_harvest_equipment_order_form_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machinery_selection
+      label: select_machinery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: machinery_details
+      label: machinery_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_details
+      label: delivery_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_total
+      label: order_total_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: payment_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirmation
+      label: confirmation_label
+      hint: null
+      type: text
+      options: []
+      required: false

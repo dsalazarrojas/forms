@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bible Study Registration Form
+    pages:
+    - id: 1
+      name: section_header_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For course communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Month - Day - Year
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: parish_affiliation
+      label: Parish or Church Affiliation
+      hint: Your church community
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - College degree
+      - Advanced degree
+      - Other
+      required: true
+    - id: 9
+      name: bible_literacy
+      label: Current Bible Literacy Level
+      hint: How well do you know the Bible?
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Limited familiarity
+      - Very little
+      - No knowledge
+      required: true
+    - id: 10
+      name: prior_study
+      label: Prior Bible Study Experience
+      hint: Have you studied Scripture before?
+      type: select_one
+      options:
+      - Extensive study
+      - Regular participation
+      - Some experience
+      - Little experience
+      - No prior study
+      required: true
+    - id: 11
+      name: section_header_course
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: course_name
+      label: Course or Class Name
+      hint: Which course are you registering for?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Introductory
+      - Intermediate
+      - Advanced
+      - Professional certification
+      - Other
+      required: true
+    - id: 14
+      name: course_format
+      label: Preferred Course Format
+      hint: How do you want to study?
+      type: select_one
+      options:
+      - In-person classroom
+      - Online/distance learning
+      - Hybrid (mix of both)
+      - Self-paced
+      - No preference
+      required: true
+    - id: 15
+      name: course_duration
+      label: Course Duration Preference
+      hint: How long should the course be?
+      type: select_one
+      options:
+      - Short-term (4-6 weeks)
+      - One semester
+      - Full year
+      - Multi-year program
+      - No preference
+      required: false
+    - id: 16
+      name: section_header_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: study_motivation
+      label: What Motivates Your Interest in This Course
+      hint: Why are you taking this course?
+      type: select_multiple
+      options:
+      - Personal spiritual growth
+      - Deepen faith understanding
+      - Better know Scripture
+      - Prepare for ministry
+      - Fulfill educational requirement
+      - Community engagement
+      - Intellectual interest
+      required: true
+    - id: 18
+      name: learning_objectives
+      label: Your Learning Objectives
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: specific_topics
+      label: Specific Topics of Interest
+      hint: Any areas you want to focus on?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_commitment
+      label: -- Commitment and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: time_commitment
+      label: Hours Per Week You Can Dedicate
+      hint: Time available for study
+      type: select_one
+      options:
+      - Less than 3 hours
+      - 3-5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - More than 15 hours
+      - Flexible
+      required: true
+    - id: 22
+      name: attendance_expectation
+      label: Expected Attendance Rate
+      hint: How often can you attend?
+      type: select_one
+      options:
+      - Every session
+      - Most sessions
+      - Regular attendance
+      - Occasional attendance
+      - Undecided
+      required: true
+    - id: 23
+      name: learning_environment
+      label: Preferred Learning Environment
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - Quiet individual study
+      - Group discussion
+      - Lecture and notes
+      - Interactive activities
+      - Mix of methods
+      required: true
+    - id: 24
+      name: section_header_logistics
+      label: -- Logistics and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: location_preference
+      label: Location Preference (if applicable)
+      hint: Preferred study location
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: technology_access
+      label: Technology Access Available
+      hint: Do you have internet and device access?
+      type: select_one
+      options:
+      - Full access
+      - Limited access
+      - No access
+      - Will arrange
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you'd like to share?
+      type: text
+      options: []
+      required: false

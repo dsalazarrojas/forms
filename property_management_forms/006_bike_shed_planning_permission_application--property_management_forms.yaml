@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bike Shed Planning Permission Application
+    pages:
+      - id: 1
+        name: applicant_details_header
+        label: -- Applicant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Full Name of Applicant
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: property_address
+        label: Property Address
+        hint: Where the bike shed will be installed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: shed_specifications_header
+        label: -- Bike Shed Specifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: shed_dimensions
+        label: Proposed Dimensions (Length x Width x Height)
+        hint: e.g., 6ft x 4ft x 5ft
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: material_type
+        label: Primary Material
+        hint: null
+        type: select_one
+        options:
+          - Wood
+          - Metal
+          - Plastic/Resin
+          - Brick/Masonry
+        required: true
+      - id: 8
+        name: shed_color
+        label: Proposed Color/Finish
+        hint: Must comply with HOA guidelines
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: location_description
+        label: Proposed Location on Property
+        hint: e.g., Rear garden, side of house
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: foundation_type
+        label: Type of Foundation/Base
+        hint: null
+        type: select_one
+        options:
+          - Concrete Slab
+          - Paving Stones
+          - Wooden Decking
+          - Directly on Grass/Soil
+        required: true
+      - id: 11
+        name: impact_assessment_header
+        label: -- Impact and Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: visible_from_street
+        label: Will the shed be visible from the street?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: neighbor_consultation
+        label: Have you consulted with adjacent neighbors?
+        hint: null
+        type: select_one
+        options:
+          - Yes, they are supportive
+          - Yes, they have concerns
+          - No, not yet
+        required: true
+      - id: 14
+        name: planning_drawings_attached
+        label: Will you provide a site plan or drawings?
+        hint: Required for final approval
+        type: select_one
+        options:
+          - Yes, will email separately
+          - Yes, will drop off at office
+          - I need assistance with this
+        required: true
+      - id: 15
+        name: additional_notes
+        label: Additional Project Notes
+        hint: null
+        type: text
+        options: []
+        required: false

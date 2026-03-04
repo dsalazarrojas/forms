@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Verification Form
+    pages:
+    - id: 1
+      name: physician_verification_form
+      label: Physician Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_board_certification
+      label: Medical Board Certification
+      hint: null
+      type: select_multiple
+      options:
+      - American Board of Surgery
+      - American Board of Orthopedic Surgery
+      required: true
+    - id: 4
+      name: date_of_last_examination
+      label: Date of Last Examination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: procedure
+      label: Procedure
+      hint: null
+      type: text
+      options: []
+      required: false

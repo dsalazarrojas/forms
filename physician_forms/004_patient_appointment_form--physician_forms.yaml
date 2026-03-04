@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Appointment Form
+    pages:
+    - id: 1
+      name: patient_appointment_form_fields
+      label: Patient Appointment Form Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_appointment_form_fields_1
+      label: Patient Appointment Form 1
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_appointment_form_fields_2
+      label: Patient Appointment Form 2
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_type
+      label: Appointment Type
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: appointment_status
+      label: Appointment Status
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

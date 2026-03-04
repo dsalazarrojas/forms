@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Contract Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Influencer Contract Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: influencer_name
+      label: Influencer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: advertiser_name
+      label: Advertiser Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: advertiser_email
+      label: Advertiser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: social_media_accounts
+      label: Social Media Accounts
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - TikTok
+      - Twitter
+      - Facebook
+      required: false
+    - id: 6
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_fees
+      label: Payment Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - PayPal
+      required: false
+    - id: 10
+      name: e_signature
+      label: E Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_e_signature_influencer
+      label: Influencer E Signature
+      hint: Enter your E-signature
+      type: select_one
+      options:
+      - E Signature
+      - Not E-Signed
+      required: false
+    - id: 12
+      name: form_e_signature_advertiser
+      label: Advertiser E Signature
+      hint: Enter your E-signature
+      type: select_one
+      options:
+      - E Signature
+      - Not E-Signed
+      required: false

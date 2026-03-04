@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventures Hiking Trip Pre Order Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Legal full name of the primary customer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: group_size
+      label: Group Size
+      hint: How many people are in your hiking group
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: hiking_trip_details_section
+      label: -- Hiking Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trail_name
+      label: Trail Name
+      hint: Which hiking trail are you interested in
+      type: select_one
+      options:
+      - Appalachian Trail
+      - Pacific Crest Trail
+      - Continental Divide Trail
+      - Grand Canyon Rim Trail
+      - Mt. Whitney Trail
+      - Half Dome Trail
+      - Other
+      required: true
+    - id: 8
+      name: trip_date
+      label: Planned Trip Date
+      hint: When do you plan to take this hiking trip
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: trip_duration
+      label: Trip Duration
+      hint: How long will your hiking trip be
+      type: select_one
+      options:
+      - Day hike
+      - Weekend trip (2-3 days)
+      - Week-long trip (4-7 days)
+      - Extended trip (1-2 weeks)
+      - Month-long expedition
+      required: true
+    - id: 10
+      name: difficulty_level
+      label: Difficulty Level
+      hint: What difficulty level are you looking for
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Challenging
+      - Strenuous
+      - Extreme
+      required: true
+    - id: 11
+      name: group_member_details_section
+      label: -- Group Member Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: group_members_ages
+      label: Group Members Ages
+      hint: Ages of all group members (separated by commas)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: group_experience_level
+      label: Group Experience Level
+      hint: What is the overall experience level of your group
+      type: select_one
+      options:
+      - Beginners
+      - Some experience
+      - Experienced hikers
+      - Expert hikers
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Special Requirements
+      hint: Do you have any special requirements for your hiking trip
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_needs_section
+      label: -- Equipment Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: equipment_rental_needed
+      label: Equipment Rental Needed
+      hint: Do you need to rent any hiking equipment
+      type: select_multiple
+      options:
+      - Backpacks
+      - Tents
+      - Sleeping bags
+      - Hiking boots
+      - Poles
+      - Cooking gear
+      - Navigation tools
+      - None
+      required: true
+    - id: 17
+      name: guide_services
+      label: Guide Services
+      hint: Do you want to hire a professional hiking guide
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 18
+      name: payment_information_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: estimated_budget
+      label: Estimated Budget
+      hint: What is your estimated budget for this hiking trip
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: pre_order_commitment
+      label: Pre-Order Commitment
+      hint: I am interested in pre-ordering this hiking trip and will follow up for
+        booking
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

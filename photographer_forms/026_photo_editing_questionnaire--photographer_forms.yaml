@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: photo_editing_questionnaire
+    pages:
+    - id: 1
+      name: photo_editing_questionnaire
+      label: Photo Editing Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Portrait''}'
+      - '{''id'': 20, ''label'': ''Landscape''}'
+      - '{''id'': 30, ''label'': ''Event''}'
+      required: false
+    - id: 4
+      name: image_editing_software
+      label: Image Editing Software
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''Adobe Photoshop''}'
+      - '{''id'': 20, ''label'': ''GIMP''}'
+      - '{''id'': 30, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: editing_level
+      label: Editing Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Basic''}'
+      - '{''id'': 20, ''label'': ''Intermediate''}'
+      - '{''id'': 30, ''label'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: editing_techniques
+      label: Editing Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''Crop''}'
+      - '{''id'': 20, ''label'': ''Resize''}'
+      - '{''id'': 30, ''label'': ''Contrast''}'
+      required: false
+    - id: 7
+      name: color_adjustment
+      label: Color Adjustment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Color Balance''}'
+      - '{''id'': 20, ''label'': ''White Balance''}'
+      - '{''id'': 30, ''label'': ''Hue Adjustment''}'
+      required: false
+    - id: 8
+      name: save_as
+      label: Save As
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''JPEG''}'
+      - '{''id'': 20, ''label'': ''PNG''}'
+      - '{''id'': 30, ''label'': ''TIFF''}'
+      required: false
+    - id: 9
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''JPEG''}'
+      - '{''id'': 20, ''label'': ''PNG''}'
+      - '{''id'': 30, ''label'': ''TIFF''}'
+      required: false
+    - id: 10
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_orientation
+      label: Photo Orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Portrait''}'
+      - '{''id'': 20, ''label'': ''Landscape''}'
+      - '{''id'': 30, ''label'': ''Square''}'
+      required: false
+    - id: 12
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_resolution
+      label: Photo Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: color_profiles
+      label: Color Profiles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''sRGB''}'
+      - '{''id'': 20, ''label'': ''Adobe RGB''}'
+      - '{''id'': 30, ''label'': ''DCI-P3''}'
+      required: false
+    - id: 15
+      name: color_space
+      label: Color Space
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''RGB''}'
+      - '{''id'': 20, ''label'': ''CMYK''}'
+      - '{''id'': 30, ''label'': ''LAB''}'
+      required: false
+    - id: 16
+      name: color_mode
+      label: Color Mode
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''RGB''}'
+      - '{''id'': 20, ''label'': ''CMYK''}'
+      - '{''id'': 30, ''label'': ''Lab''}'
+      required: false
+    - id: 17
+      name: bit_depth
+      label: Bit Depth
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''8-bit''}'
+      - '{''id'': 20, ''label'': ''16-bit''}'
+      - '{''id'': 30, ''label'': ''32-bit''}'
+      required: false
+    - id: 18
+      name: file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: image_orientation
+      label: Image Orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Horizontal''}'
+      - '{''id'': 20, ''label'': ''Vertical''}'
+      - '{''id'': 30, ''label'': ''Square''}'
+      required: false
+    - id: 20
+      name: save_file
+      label: Save File
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': True}'
+      - '{''id'': 20, ''label'': False}'
+      - '{''id'': 30, ''label'': ''Ask Later''}'
+      required: false
+    - id: 21
+      name: file_encoding
+      label: File Encoding
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Lossless''}'
+      - '{''id'': 20, ''label'': ''Lossy''}'
+      - '{''id'': 30, ''label'': ''None''}'
+      required: false
+    - id: 22
+      name: save_copy
+      label: Save Copy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''sRGB''}'
+      - '{''id'': 20, ''label'': ''Adobe RGB''}'
+      - '{''id'': 30, ''label'': ''None''}'
+      required: false
+    - id: 23
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false

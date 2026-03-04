@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kink Lifestyle Submission Form
+    pages:
+    - id: 1
+      name: community_interests
+      label: Community Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_details
+      label: User Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: boundaries
+      label: Boundaries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false

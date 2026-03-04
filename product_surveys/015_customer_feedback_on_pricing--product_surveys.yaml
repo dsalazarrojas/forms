@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback On Pricing
+    pages:
+    - id: 1
+      name: customer_feedback_on_pricing
+      label: customer_feedback_on_pricing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_feedback_on_pricing_pricing_clarity
+      label: price_clarity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''clear''}'
+      - '{''value'': ''not_clear''}'
+      - '{''value'': ''unclear''}'
+      required: false
+    - id: 3
+      name: customer_feedback_on_pricing_value_for_money
+      label: value_for_money
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''good''}'
+      - '{''value'': ''bad''}'
+      - '{''value'': ''neutral''}'
+      required: false
+    - id: 4
+      name: customer_feedback_on_pricing_recommendations
+      label: customer_feedback_on_pricing_recommendations
+      hint: Provide specific suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_feedback_on_pricing_loyalty
+      label: customer_feedback_on_pricing_loyalty
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_feedback_on_pricing_pricing_clarity_important
+      label: customer_feedback_on_pricing_pricing_clarity_important
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_important''}'
+      - '{''value'': ''somewhat_important''}'
+      - '{''value'': ''not_important''}'
+      required: false
+    - id: 7
+      name: customer_feedback_on_pricing_price_range
+      label: customer_feedback_on_pricing_price_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_feedback_on_pricing_price_comparisons
+      label: customer_feedback_on_pricing_price_comparisons
+      hint: Provide price comparisons or alternatives
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''maybe''}'
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Patient Appointment Form
+    pages:
+    - id: 1
+      name: new_patient_appointment_form_new_patient
+      label: New Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_patient_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: new_patient_appointment_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: new_patient_appointment_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: new_patient_appointment_form_physician
+      label: Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_patient_appointment_form_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_patient_appointment_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: new_patient_appointment_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Automation System Features Feedback Poll
+    pages:
+    - id: 1
+      name: feedback_title
+      label: feedback_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: How would you rate the overall quality of your current smart home system?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: How would you rate the responsiveness of your current smart home system?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_3
+      label: What feature would you like to see improved or added first?
+      hint: Please choose one
+      type: select_one
+      options:
+      - Improved smart home system UI/UX
+      - Enhanced smart home system security
+      - More home automation features
+      - Other
+      required: false
+    - id: 5
+      name: feedback_question_4
+      label: feedback_question_4
+      hint: null
+      type: time
+      options: []
+      required: false

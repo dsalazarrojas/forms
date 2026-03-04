@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Service Registration
+    pages:
+    - id: 1
+      name: storage_service_registration
+      label: storage_service_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: unit_type
+      label: unit_type
+      hint: null
+      type: select_one
+      options:
+      - Unit
+      - Room
+      - Locker
+      - Other
+      required: false
+    - id: 6
+      name: move_in_time
+      label: move_in_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_time
+      label: move_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

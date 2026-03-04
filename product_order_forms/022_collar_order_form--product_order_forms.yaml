@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collar Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Country name
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 9
+      name: collar_type
+      label: Collar Type
+      hint: Select collar style
+      type: select_one
+      options:
+      - Point Collar
+      - Spread Collar
+      - Button-Down Collar
+      - Band Collar
+      - Wingtip Collar
+      - Club Collar
+      - Cutaway Collar
+      - Custom Style
+      required: true
+    - id: 10
+      name: collar_size
+      label: Collar Size
+      hint: Neck size in inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shirt_size
+      label: Shirt Size
+      hint: Overall shirt size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      - Custom
+      required: true
+    - id: 12
+      name: sleeve_length
+      label: Sleeve Length
+      hint: Sleeve measurement
+      type: select_one
+      options:
+      - Short Sleeve
+      - Long Sleeve
+      - 3/4 Sleeve
+      - Custom Length
+      required: true
+    - id: 13
+      name: fabric_type
+      label: Fabric Type
+      hint: Material preference
+      type: select_one
+      options:
+      - 100% Cotton
+      - Cotton Blend
+      - Linen
+      - Silk
+      - Polyester
+      - Wool
+      - Bamboo
+      - Other
+      required: true
+    - id: 14
+      name: fabric_pattern
+      label: Fabric Pattern
+      hint: Pattern preference
+      type: select_one
+      options:
+      - Solid
+      - Striped
+      - Checkered
+      - Plaid
+      - Floral
+      - Geometric
+      - Printed
+      - Custom
+      required: true
+    - id: 15
+      name: color
+      label: Color
+      hint: Primary color
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: Number of collars
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: monogram
+      label: Monogram or Embroidery
+      hint: Custom text if desired
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: monogram_position
+      label: Monogram Position
+      hint: Where to place monogram
+      type: select_one
+      options:
+      - Left Chest
+      - Right Chest
+      - Collar Point
+      - Cuff
+      - No Monogram
+      required: false
+    - id: 19
+      name: thread_color
+      label: Thread Color for Monogram
+      hint: Embroidery thread color
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any custom requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: gift_wrapping
+      label: Gift Wrapping
+      hint: Is this a gift
+      type: select_one
+      options:
+      - Yes Please Wrap
+      - No Thank You
+      required: true
+    - id: 22
+      name: gift_message
+      label: Gift Message
+      hint: Message to include
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery speed
+      type: select_one
+      options:
+      - Standard 5-7 Days
+      - Express 2-3 Days
+      - Overnight
+      - International Standard
+      - International Express
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank Transfer
+      required: true
+    - id: 26
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: card_expiry
+      label: Expiry Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: card_cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true

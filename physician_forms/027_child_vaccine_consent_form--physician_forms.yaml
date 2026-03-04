@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Vaccine Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of vaccine consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: child_weight
+      label: Child Weight
+      hint: Current weight in pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 12
+      name: vaccine_type
+      label: Vaccine Type
+      hint: Which vaccine is being administered?
+      type: select_one
+      options:
+      - DTaP (Diphtheria, Tetanus, Pertussis)
+      - MMR (Measles, Mumps, Rubella)
+      - Polio (IPV)
+      - Hepatitis A
+      - Hepatitis B
+      - Varicella (Chickenpox)
+      - Influenza (Flu)
+      - COVID-19
+      - HPV
+      - Meningococcal
+      - Pneumococcal
+      - Other
+      required: true
+    - id: 13
+      name: vaccine_dose_number
+      label: Vaccine Dose Number
+      hint: Which dose is this in the series?
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Third dose
+      - Fourth dose
+      - Booster dose
+      - Annual dose
+      - Single dose vaccine
+      required: true
+    - id: 14
+      name: previous_vaccine_reaction
+      label: Previous Vaccine Reaction
+      hint: Has the child had a reaction to any vaccine before?
+      type: select_one
+      options:
+      - Yes, severe reaction
+      - Yes, mild reaction
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: reaction_description
+      label: Reaction Description
+      hint: Describe the previous reaction
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_illness
+      label: Current Illness
+      hint: Is the child currently ill?
+      type: select_one
+      options:
+      - Yes, moderate or severe illness
+      - Yes, mild illness
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: List all known allergies including vaccine components
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: immune_system_conditions
+      label: Immune System Conditions
+      hint: Does the child have any immune system conditions?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: List any current medications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bleeding_disorders
+      label: Bleeding Disorders
+      hint: Does the child have any bleeding disorders?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: recent_blood_transfusion
+      label: Recent Blood Transfusion
+      hint: Has the child received a blood transfusion in the past 3 months?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: vaccine_information_reviewed
+      label: Vaccine Information Reviewed
+      hint: Have you reviewed the vaccine information statement?
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly
+      - No, please provide
+      required: true
+    - id: 23
+      name: vaccine_benefits_understood
+      label: Vaccine Benefits Understood
+      hint: Do you understand the benefits of this vaccine?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 24
+      name: vaccine_risks_understood
+      label: Vaccine Risks Understood
+      hint: Do you understand the potential risks and side effects?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 25
+      name: questions_addressed
+      label: Questions Addressed
+      hint: Have all your questions been answered?
+      type: select_one
+      options:
+      - Yes, all questions answered
+      - Most questions answered
+      - No, I still have questions
+      required: true
+    - id: 26
+      name: consent_granted
+      label: Consent Granted
+      hint: Do you consent to your child receiving this vaccine?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 27
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: administering_provider
+      label: Administering Healthcare Provider
+      hint: Name of healthcare provider administering vaccine
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: provider_signature
+      label: Provider Signature
+      hint: Healthcare provider electronic signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Performance Modeling Request Form
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      type: note
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Full legal business name
+      type: text
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary business industry
+      type: text
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: number
+      required: false
+    - id: 5
+      name: years_established
+      label: Years Established
+      hint: How long has the company been operating
+      type: number
+      required: true
+    - id: 6
+      name: section_contact
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for the project
+      type: text
+      required: true
+    - id: 8
+      name: contact_title
+      label: Title or Position
+      hint: Role of contact person
+      type: text
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Business email
+      type: email
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      required: true
+    - id: 11
+      name: section_objectives
+      label: -- Project Objectives --
+      type: note
+      required: false
+    - id: 12
+      name: modeling_objectives
+      label: Modeling Objectives
+      hint: What do you want to analyze or model
+      type: select_multiple
+      options:
+      - Revenue Forecasting
+      - Cost Optimization
+      - Market Analysis
+      - Profitability Analysis
+      - Growth Projection
+      - Scenario Planning
+      required: true
+    - id: 13
+      name: business_goals
+      label: Business Goals for Next 12 Months
+      hint: Specific targets or outcomes
+      type: text
+      required: false
+    - id: 14
+      name: section_metrics
+      label: -- Available Metrics --
+      type: note
+      required: false
+    - id: 15
+      name: available_data
+      label: Types of Data Available
+      hint: What metrics do you have on file
+      type: select_multiple
+      options:
+      - Financial Statements
+      - Sales Data
+      - Customer Demographics
+      - Operational Metrics
+      - Market Data
+      - Employee Data
+      required: true
+    - id: 16
+      name: data_time_period
+      label: Data Time Period Available
+      hint: How far back do your records go
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2-3 years
+      - 5 years
+      - 5+ years
+      required: false
+    - id: 17
+      name: section_documents
+      label: -- Documentation --
+      type: note
+      required: false
+    - id: 18
+      name: documents_available
+      label: Documents Available for Review
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Statements
+      - Tax Returns
+      - Business Plan
+      - Market Research
+      - Customer List
+      - Competitor Analysis
+      required: false
+    - id: 19
+      name: section_timeline
+      label: -- Project Timeline --
+      type: note
+      required: false
+    - id: 20
+      name: project_start_date
+      label: Desired Project Start Date
+      hint: When would you like to begin
+      type: date
+      required: false
+    - id: 21
+      name: completion_timeline
+      label: Desired Completion Timeline
+      hint: When do you need results
+      type: select_one
+      options:
+      - 2 weeks
+      - 1 month
+      - 6 weeks
+      - 2 months
+      - 3+ months
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: Any special considerations
+      type: text
+      required: false

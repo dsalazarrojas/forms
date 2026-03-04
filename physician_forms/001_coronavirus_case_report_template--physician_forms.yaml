@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Case Report Template
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_symptoms_onset
+      label: Date of Symptoms Onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: number_of_days_since_onset
+      label: Number of Days Since Onset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: symptoms_reported
+      label: Symptoms Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': 1}'
+      - '{''label'': ''Recovered'', ''value'': 2}'
+      - '{''label'': ''No Longer Active'', ''value'': 3}'
+      required: true
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false

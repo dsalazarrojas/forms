@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paypal Coffee Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: coffee_type
+      label: Coffee Type
+      hint: null
+      type: select_one
+      options:
+      - Latte
+      - Cappuccino
+      - Mocha
+      - Drip
+      - Americano
+      - Espresso
+      - Cappuccino
+      - Cold Brew
+      required: true
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Large
+      - Extra Large
+      required: true
+    - id: 8
+      name: milk
+      label: Milk
+      hint: null
+      type: select_multiple
+      options:
+      - Half-and-half
+      - Whole
+      - Skim
+      required: false
+    - id: 9
+      name: sugar
+      label: Sugar
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Half
+      - Three-quarters
+      - Full
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

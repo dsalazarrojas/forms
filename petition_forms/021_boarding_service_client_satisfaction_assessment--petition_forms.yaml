@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boarding Service Client Satisfaction Assessment
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Pet owner's full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pet_name
+      label: Pet Name
+      hint: Name of your pet
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pet_type
+      label: Pet Type
+      hint: What type of pet?
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Other
+      required: true
+    - id: 6
+      name: service_dates
+      label: Service Dates
+      hint: Dates of boarding service
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: Type of boarding service
+      type: select_one
+      options:
+      - Standard Boarding
+      - Premium Boarding
+      - Luxury Suite
+      - Daycare
+      - Overnight Stay
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 9
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness of facilities
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 10
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate staff courtesy and friendliness
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 11
+      name: staff_knowledge
+      label: Staff Knowledge and Care
+      hint: Rate staff expertise with pets
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 12
+      name: communication_quality
+      label: Communication Quality
+      hint: Rate updates and communication
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 13
+      name: pet_comfort_level
+      label: Pet Comfort Level
+      hint: How comfortable did your pet seem?
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 14
+      name: pet_health_upon_return
+      label: Pet Health Upon Return
+      hint: How was your pet's health after service?
+      type: select_one
+      options:
+      - Excellent - No issues
+      - Good - Minor issues
+      - Fair - Some concerns
+      - Poor - Significant issues
+      required: true
+    - id: 15
+      name: value_for_money
+      label: Value for Money
+      hint: Rate the value received
+      type: select_one
+      options:
+      - 5 - Excellent Value
+      - 4 - Good Value
+      - 3 - Fair Value
+      - 2 - Poor Value
+      - 1 - Very Poor Value
+      required: true
+    - id: 16
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend us?
+      type: select_one
+      options:
+      - 10 - Extremely Likely
+      - 9 - Very Likely
+      - 8 - Likely
+      - 7 - Somewhat Likely
+      - 6 or below - Not Likely
+      required: true
+    - id: 17
+      name: will_return
+      label: Will You Return?
+      hint: Will you use our services again?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 18
+      name: best_aspect
+      label: Best Aspect of Service
+      hint: What did you like most?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we improve?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

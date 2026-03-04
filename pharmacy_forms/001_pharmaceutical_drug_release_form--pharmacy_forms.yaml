@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Drug Release Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: release_info
+      label: Release Information
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: medication_info
+      label: Medication Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pharmacy_info
+      label: Pharmacy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: clinic_info
+      label: Clinic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lab_info
+      label: Lab Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: distributor_info
+      label: Distributor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Your signature is required
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: clinic_phone
+      label: Clinic Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: release_by
+      label: Release By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: release_to
+      label: Release To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pharmacist_phone
+      label: Pharmacist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pharmacist_email
+      label: Pharmacist Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: prescriber_phone
+      label: Prescriber Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prescriber_email
+      label: Prescriber Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prescriber_address
+      label: Prescriber Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

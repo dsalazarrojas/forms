@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Map Order Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: map_selection_section
+      label: -- Map Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: map_region
+      label: Map Region
+      hint: Which region are you interested in
+      type: select_one
+      options:
+      - National Parks
+      - Mountain Ranges
+      - Coastal Areas
+      - Deserts
+      - Forests
+      - International
+      - Custom Region
+      required: true
+    - id: 9
+      name: map_scale
+      label: Map Scale
+      hint: What scale of map do you need
+      type: select_one
+      options:
+      - 1:24,000 (Topographic)
+      - 1:62,500 (Regional)
+      - 1:250,000 (State)
+      - 1:1,000,000 (Country)
+      - Custom Scale
+      required: true
+    - id: 10
+      name: map_format
+      label: Map Format
+      hint: In what format would you like the map
+      type: select_one
+      options:
+      - Paper Map
+      - Waterproof Map
+      - Digital Download
+      - GPS Compatible File
+      - Mobile App Access
+      - Bundle Package
+      required: true
+    - id: 11
+      name: map_features
+      label: Map Features
+      hint: Which features are important for your adventure
+      type: select_multiple
+      options:
+      - Trail Markings
+      - Elevation Contours
+      - Water Sources
+      - Campgrounds
+      - Emergency Points
+      - Geological Info
+      - Wildlife Areas
+      required: true
+    - id: 12
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: How many copies of the map do you want
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: special_requirements_section
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: custom_annotations
+      label: Custom Annotations
+      hint: Do you need any custom markings or annotations on the map
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: annotation_details
+      label: Annotation Details
+      hint: Specify what custom markings or annotations you need
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_timeline
+      label: Delivery Timeline
+      hint: When do you need the map delivered
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Rush (1 day)
+      - 'Date specific:'
+      - Flexible
+      required: true
+    - id: 17
+      name: payment_information_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay for your order
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 19
+      name: order_total
+      label: Order Total
+      hint: Estimated total cost of the order
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: order_confirmation
+      label: Order Confirmation
+      hint: I confirm that the information provided is accurate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

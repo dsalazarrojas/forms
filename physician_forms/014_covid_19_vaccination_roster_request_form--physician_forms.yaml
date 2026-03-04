@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Roster Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Organization or individual submitting roster
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_organization
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_type
+      label: Type of Organization
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Business
+      - Healthcare facility
+      - Government agency
+      - Non-profit
+      - Community organization
+      - Other
+      required: true
+    - id: 7
+      name: address_street
+      label: Organization Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: roster_section
+      label: -- Roster Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: roster_purpose
+      label: Purpose of Vaccination Roster
+      hint: null
+      type: select_one
+      options:
+      - Employee vaccination
+      - Student vaccination
+      - Community vaccination
+      - Vulnerable population vaccination
+      - Staff vaccination
+      - Other
+      required: true
+    - id: 13
+      name: estimated_individuals
+      label: Estimated Number of Individuals on Roster
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: roster_format
+      label: Preferred Roster Format
+      hint: null
+      type: select_one
+      options:
+      - Individual submissions
+      - Batch upload
+      - CSV file
+      - Email list
+      - Other
+      required: true
+    - id: 15
+      name: submission_section
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_deadline
+      label: Requested Submission Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High - urgent
+      - Medium - standard
+      - Low - flexible timeline
+      required: true
+    - id: 18
+      name: vaccine_preference
+      label: Vaccine Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      - Multiple types needed
+      required: true
+    - id: 19
+      name: demographics_section
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: priority_groups
+      label: Priority populations to vaccinate
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Healthcare workers
+      - Essential workers
+      - Seniors
+      - High-risk individuals
+      - General population
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility or special accommodation needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: language_needs
+      label: Languages needed for materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: logistics_section
+      label: -- Logistics and Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: venue_available
+      label: Vaccination venue available
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - To be determined
+      required: true
+    - id: 25
+      name: venue_address
+      label: Venue Address
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: anticipated_sessions
+      label: Anticipated number of vaccination sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flawless Nails Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_services
+      label: nail_services
+      hint: null
+      type: select_one
+      options:
+      - Nail Polish
+      - Nail Acrylic
+      - Nail Art
+      - Nail Gel
+      - Nail Shape
+      - Nail Repair
+      - Nail Extensions
+      - Nail Fill
+      required: true
+    - id: 3
+      name: nail_services_details
+      label: nail_services_details
+      hint: null
+      type: select_multiple
+      options:
+      - Nail Polish
+      - Nail Acrylic
+      - Nail Art
+      - Nail Gel
+      - Nail Shape
+      - Nail Repair
+      - Nail Extensions
+      - Nail Fill
+      required: true
+    - id: 4
+      name: nail_service_price
+      label: nail_service_price
+      hint: Please enter a price
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: nail_service_price_usd
+      label: nail_service_price_usd
+      hint: Enter price in USD
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: nail_service_tax
+      label: nail_service_tax
+      hint: Please select a tax rate
+      type: select_one
+      options:
+      - '8'
+      - '10'
+      required: true
+    - id: 7
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: order_notes
+      label: order_notes
+      hint: Any additional notes about this order
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artist_details
+      label: artist_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artist_name
+      label: artist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: artist_email
+      label: artist_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: artist_phone
+      label: artist_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: artist_address
+      label: artist_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: artist_hours
+      label: artist_hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: order_notes
+      label: order_notes
+      hint: Any additional notes about this order
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: total_price
+      label: total_price
+      hint: Total price of the order
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: payment_method
+      hint: How will you be paying?
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      required: true
+    - id: 24
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: payment_confirmation
+      label: payment_confirmation
+      hint: A confirmation of payment
+      type: text
+      options: []
+      required: false

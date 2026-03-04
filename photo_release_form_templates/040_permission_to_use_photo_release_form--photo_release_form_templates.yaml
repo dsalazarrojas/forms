@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission To Use Photo Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_credit
+      label: Photo Credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: use_purpose
+      label: Use Purpose
+      hint: null
+      type: select_one
+      options:
+      - I'd like to be contacted for marketing
+      - I'd like to be contacted for educational purposes
+      - I'd like to be contacted for social media
+      - I'd like to be contacted for fundraising
+      - I'd like to be contacted for other
+      required: false
+    - id: 12
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - Model/Agency Release
+      - Property Release
+      - Exclusive Use
+      - Non-Exclusive Use
+      - Rights Management
+      required: false
+    - id: 13
+      name: signed
+      label: Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

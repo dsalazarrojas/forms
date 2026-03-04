@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphics Configuration Survey
+    pages:
+    - id: 1
+      name: gpu_usage
+      label: How much GPU power do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: display_needs
+      label: What kind of display needs do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: Overall satisfaction with your current GPU configuration
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: comments
+      label: Any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gpu_type
+      label: What type of GPU do you use?
+      hint: null
+      type: select_one
+      options:
+      - Nvidia
+      - AMD
+      - Intel
+      - Other
+      - Not specified
+      required: false
+    - id: 8
+      name: gpu_model
+      label: What model of GPU do you use?
+      hint: null
+      type: select_one
+      options:
+      - GeForce
+      - Radeon
+      - Core
+      - Other
+      - Not specified
+      required: false
+    - id: 9
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - 4K
+      - Full HD
+      - Quad HD
+      - Other
+      - Not specified
+      required: false
+    - id: 10
+      name: refresh_rate
+      label: Refresh rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: gpu_memory
+      label: How much RAM do you have on your GPU?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: gpu_cores
+      label: Number of GPU cores used?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: graphics_card
+      label: What type of graphics card do you use?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: graphics_card_model
+      label: What model of graphics card do you use?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: graphics_card_manufacturer
+      label: What manufacturer of graphics card do you use?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: operating_system
+      label: What operating system do you use?
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - Other
+      - Not specified
+      required: false
+    - id: 17
+      name: gpu_driver
+      label: What is your current GPU driver version?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

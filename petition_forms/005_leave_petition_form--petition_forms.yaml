@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: leave_petition_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

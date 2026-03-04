@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Questionnaire
+    pages:
+    - id: 1
+      name: wedding_day_questions
+      label: Wedding Day Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ceremony_details
+      label: Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_addons
+      label: Special Add-ons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: major_sponsors
+      label: Major Sponsors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: ceremony_time
+      label: Ceremony Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: ceremony_location
+      label: Ceremony Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

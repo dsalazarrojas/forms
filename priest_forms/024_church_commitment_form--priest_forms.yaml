@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Commitment Form
+    pages:
+    - id: 1
+      name: header_identity
+      label: -- Member Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: For year-end giving statements
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_financial_pledge
+      label: -- Financial Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: commitment_period
+      label: Commitment Period
+      hint: null
+      type: select_one
+      options:
+      - Calendar Year 2026
+      - Mid-Year Campaign
+      - Capital Campaign
+      required: true
+    - id: 7
+      name: total_annual_pledge
+      label: Total Annual Pledge Amount ($)
+      hint: Total amount for the year
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: giving_frequency
+      label: Intended Giving Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - One-time Gift
+      required: true
+    - id: 9
+      name: payment_method_preference
+      label: Preferred Method of Giving
+      hint: null
+      type: select_one
+      options:
+      - Online/App
+      - Personal Check
+      - Bank Bill-Pay
+      - Cash Envelopes
+      required: true
+    - id: 10
+      name: header_service_pledge
+      label: -- Commitment of Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_commitment
+      label: I commit to serve in the following area(s)
+      hint: null
+      type: select_multiple
+      options:
+      - Greeters/Hospitality
+      - Children's Ministry
+      - Audio/Visual Tech
+      - Coffee Service
+      - Garden/Maintenance
+      - Outreach Team
+      required: false
+    - id: 12
+      name: spiritual_growth_pledge
+      label: I commit to regular attendance and spiritual growth
+      hint: Participation in worship and community
+      type: select_one
+      options:
+      - I Commit
+      - Other
+      required: true
+    - id: 13
+      name: prayer_support
+      label: I commit to praying for the church leadership and mission
+      hint: null
+      type: select_one
+      options:
+      - I Commit
+      - Other
+      required: true
+    - id: 14
+      name: additional_goals
+      label: Personal Spiritual Goals for the Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: request_giving_envelopes
+      label: Would you like a set of giving envelopes mailed to you?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - I use online giving
+      required: true
+    - id: 16
+      name: date_of_commitment
+      label: Date of Commitment
+      hint: null
+      type: date
+      options: []
+      required: true

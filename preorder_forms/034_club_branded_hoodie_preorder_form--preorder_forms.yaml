@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Branded Hoodie Preorder Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Order confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: Student ID - Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_hoodie
+      label: -- Hoodie Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hoodie_size
+      label: Hoodie Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 8
+      name: color_choice
+      label: Color Preference
+      hint: Available colors for this season
+      type: select_one
+      options:
+      - Navy blue
+      - Black
+      - Heather gray
+      - White
+      - Red
+      - School colors
+      required: true
+    - id: 9
+      name: fit_style
+      label: Fit Style
+      hint: null
+      type: select_one
+      options:
+      - Unisex
+      - Mens fitted
+      - Womens fitted
+      required: true
+    - id: 10
+      name: logo_placement
+      label: Logo Placement
+      hint: null
+      type: select_one
+      options:
+      - Front chest
+      - Back full size
+      - Sleeve embroidered
+      - Custom placement
+      required: false
+    - id: 11
+      name: section_customization
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: custom_name
+      label: Add Custom Name or Text
+      hint: Optional - for additional cost
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: name_placement
+      label: Name Placement Location
+      hint: If custom name added
+      type: select_one
+      options:
+      - Back neck
+      - Back lower
+      - Sleeve
+      - Not applicable
+      required: false
+    - id: 14
+      name: additional_personalization
+      label: Additional Personalization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: personalization_details
+      label: Personalization Details
+      hint: Describe what you want added
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: quantity
+      label: Quantity
+      hint: Number of hoodies to preorder
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: unit_price
+      label: Unit Price - USD
+      hint: Standard price per hoodie
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_price
+      label: Total Price - USD
+      hint: Quantity x Unit Price
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_delivery
+      label: -- Delivery Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: delivery_option
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Club event pickup
+      - Mailed to address
+      - Campus mailroom
+      - Other location
+      required: true
+    - id: 22
+      name: estimated_delivery
+      label: Estimated Delivery Date
+      hint: When hoodies will be ready
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Full payment enclosed
+      - Deposit due
+      - Payment plan
+      - TBD
+      required: true

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Authorization Form
+    pages:
+    - id: 1
+      name: medical_treatment_authorization_form
+      label: Medical Treatment Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_1
+      label: Medical Category
+      hint: null
+      type: select_one
+      options:
+      - Acute
+      - Chronic
+      - Emergency
+      required: false
+    - id: 3
+      name: subject_name
+      label: Subject Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject_email
+      label: Subject Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: subject_phone
+      label: Subject Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_treatment_details
+      label: Medical Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: treatment_start_date
+      label: Treatment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: treatment_end_date
+      label: Treatment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: medical_treatment_provider
+      label: Medical Treatment Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_treatment_facility
+      label: Medical Treatment Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_treatment_status
+      label: Medical Treatment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: false
+    - id: 14
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_treatment_note
+      label: Medical Treatment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: subject_agreement
+      label: Subject Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: signature_ip_address
+      label: Signature IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ip_location
+      label: IP Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_record_facility
+      label: Medical Record Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: subject_consent
+      label: Subject Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

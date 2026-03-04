@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Poll
+    pages:
+    - id: 1
+      name: poll_question_header
+      label: -- Today - s Poll --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_vote
+      label: Which of the following best represents your opinion?
+      hint: Select one option
+      type: select_one
+      options:
+      - Option A - Strongly Agree
+      - Option B - Somewhat Agree
+      - Option C - Neutral
+      - Option D - Somewhat Disagree
+      - Option E - Strongly Disagree
+      required: true
+    - id: 3
+      name: vote_reason
+      label: Why did you choose this option?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: respondent_age
+      label: Your Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 20
+      - 21-35
+      - 36-50
+      - 51-65
+      - 65+
+      required: false
+    - id: 5
+      name: impact_level
+      label: How much does this topic impact your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      - Extremely
+      required: true
+    - id: 6
+      name: knowledge_level
+      label: How familiar are you with this topic?
+      hint: null
+      type: select_one
+      options:
+      - Not at all familiar
+      - Somewhat familiar
+      - Very familiar
+      - Expert
+      required: true
+    - id: 7
+      name: future_participation
+      label: Would you participate in more polls like this?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Maybe
+      required: false
+    - id: 8
+      name: suggested_topics
+      label: Suggested topics for future polls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: poll_feedback
+      label: Any feedback on this poll?
+      hint: null
+      type: text
+      options: []
+      required: false

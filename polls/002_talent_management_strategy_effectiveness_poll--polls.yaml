@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Management Strategy Effectiveness Poll
+    pages:
+    - id: 1
+      name: talent_management_recruiting
+      label: Recruiting
+      hint: null
+      type: select_one
+      options:
+      - Recruitment
+      - Retention
+      - Development
+      - Other
+      required: false
+    - id: 2
+      name: onboarding
+      label: Onboarding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: development
+      label: Development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_practices
+      label: Performance Practices
+      hint: null
+      type: select_one
+      options:
+      - Performance
+      - Engagement
+      - Development
+      - Other
+      required: false
+    - id: 5
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_spent_learning
+      label: Time Spent Learning
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Please provide your company email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Please provide your work phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Development
+      - Other
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Development
+      - Other
+      required: false
+    - id: 15
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: performance_metrics
+      label: Performance Metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_experience
+      label: Employee Experience
+      hint: null
+      type: select_one
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - Other
+      required: false
+    - id: 18
+      name: feedback_on_strategies
+      label: Feedback on Strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Recruitment
+      - Retention
+      - Development
+      - Other
+      required: false
+    - id: 19
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: false
+    - id: 21
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Financial
+      - Healthcare
+      - Other
+      required: false

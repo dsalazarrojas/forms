@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Monitoring Checklist
+    pages:
+    - id: 1
+      name: pet_monitoring_checklist_form
+      label: Pet Monitoring Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''dog'', ''value'': ''1''}'
+      - '{''id'': 2, ''name'': ''cat'', ''value'': ''2''}'
+      required: false
+    - id: 4
+      name: pet_weight
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pet_condition
+      label: pet_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''good'', ''value'': ''1''}'
+      - '{''id'': 2, ''name'': ''bad'', ''value'': ''2''}'
+      required: false
+    - id: 6
+      name: pet_monitoring_time
+      label: pet_monitoring_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pet_monitoring_notes
+      label: pet_monitoring_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_monitoring_frequency
+      label: pet_monitoring_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''daily'', ''value'': ''1''}'
+      - '{''id'': 2, ''name'': ''weekly'', ''value'': ''2''}'
+      - '{''id'': 3, ''name'': ''monthly'', ''value'': ''3''}'
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

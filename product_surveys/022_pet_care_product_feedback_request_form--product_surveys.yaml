@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_care_product_feedback_request_form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pet Food''}'
+      - '{''id'': 2, ''name'': ''Pet Accessories''}'
+      - '{''id'': 3, ''name'': ''Pet Toys''}'
+      - '{''id'': 4, ''name'': ''Pet Treats''}'
+      required: false
+    - id: 3
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_message
+      label: Feedback Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Visit Planning Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_note
+      label: Physician Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: patient_medical_id
+      label: Medical ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - New Patient Visit
+      - Followup Visit
+      - Return Visit
+      - Discharge
+      required: false

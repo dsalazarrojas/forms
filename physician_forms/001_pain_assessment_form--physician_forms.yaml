@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pain Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: body_parts_affected
+      label: Body Parts Affected
+      hint: null
+      type: select_one
+      options:
+      - Head
+      - Back
+      - Neck
+      - Shoulders
+      - Hips
+      - Knees
+      - Ankles
+      - Toes
+      - Abdomen
+      - Chest
+      - Upper Extremities
+      - Lower Extremities
+      - Other
+      required: true
+    - id: 3
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pain_frequency
+      label: Pain Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: treatment_needed
+      label: Treatment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 7
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Headache
+      - Dizziness
+      - Nausea
+      - Fatigue
+      - Insomnia
+      - Anxiety
+      - Confusion
+      - Other
+      required: false
+    - id: 8
+      name: other_medication_side_effects
+      label: Other Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_body_parts_affected
+      label: Other Body Parts Affected
+      hint: null
+      type: text
+      options: []
+      required: false

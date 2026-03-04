@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Stock Product List
+    pages:
+    - id: 1
+      name: header
+      label: -- Product List --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_code
+      label: Product code
+      hint: SKU or identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: Product name
+      hint: Name and brief description
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Category
+      hint: Product category
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Unit price
+      hint: Decimal currency value
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: available_stock
+      label: Available stock
+      hint: Integer units available
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reorder_point
+      label: Reorder point
+      hint: Threshold to reorder
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supplier_name
+      label: Supplier name
+      hint: Primary vendor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lead_time_days
+      label: Lead time in days
+      hint: Supplier lead time
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional details
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote For Your Preferred Candidate
+    pages:
+    - id: 1
+      name: vote_for_your_preferred_candidate
+      label: vote_for_your_preferred_candidate_label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: candidate
+      label: enter_candidate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vote_for_candidate
+      label: vote_for_candidate_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participation_source
+      label: participation_source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: key_issues
+      label: key_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: sentiment
+      label: sentiment_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_submit
+      label: confirm_submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

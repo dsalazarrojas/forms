@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Booking Form
+    pages:
+    - id: 1
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: wedding_location
+      label: Wedding Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wedding_details
+      label: Wedding Details
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 9
+      name: photographer_details
+      label: Photographer Details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

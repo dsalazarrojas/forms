@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Sports Car Pre Order Form
+    pages:
+    - id: 1
+      name: mainpage
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contactinfo
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: deliveryinfo
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: carinfo
+      label: Car Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: orderinfo
+      label: Order Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: paymentinfo
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reviewinfo
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: contactusinfo
+      label: Contact Us
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phoneinfo
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: depositinfo
+      label: Deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: confirminfo
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

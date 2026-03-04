@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Assessment Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessment_score
+      label: assessment_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: productivity_level
+      label: productivity_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - IT
+      - Operations
+      required: true
+    - id: 7
+      name: manager_review
+      label: manager_review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false

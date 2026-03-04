@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: police_report_template
+    pages:
+    - id: 1
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 4
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_address
+      label: Witness Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: officer_signature
+      label: Officer Signature
+      hint: null
+      type: date
+      options: []
+      required: false

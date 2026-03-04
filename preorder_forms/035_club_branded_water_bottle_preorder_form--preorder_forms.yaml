@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Branded Water Bottle Preorder Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Confirmation and delivery info will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: Student ID - Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_bottle
+      label: -- Water Bottle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bottle_size
+      label: Bottle Size - Capacity
+      hint: null
+      type: select_one
+      options:
+      - 16 oz
+      - 20 oz
+      - 24 oz
+      - 32 oz
+      - 40 oz
+      required: true
+    - id: 8
+      name: bottle_color
+      label: Color Preference
+      hint: Available colors for this season
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy blue
+      - School colors
+      - Metallic silver
+      - Transparent
+      required: true
+    - id: 9
+      name: bottle_style
+      label: Bottle Style
+      hint: null
+      type: select_one
+      options:
+      - Standard cap
+      - Straw lid
+      - Flip cap
+      - Wide mouth
+      required: true
+    - id: 10
+      name: material_preference
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Stainless steel
+      - Plastic
+      - BPA-free plastic
+      - Insulated
+      - Other
+      required: false
+    - id: 11
+      name: section_customization
+      label: -- Club Branding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: logo_option
+      label: Logo Placement
+      hint: How club name or logo will appear
+      type: select_one
+      options:
+      - Front logo
+      - Wraparound design
+      - Back only
+      - Bottom imprint
+      - Full color wrap
+      required: true
+    - id: 13
+      name: custom_text
+      label: Add Custom Text or Name
+      hint: Optional - your name or personal message
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: text_placement
+      label: Custom Text Placement
+      hint: Where text will go if added
+      type: select_one
+      options:
+      - Same as logo
+      - Opposite side
+      - Bottom area
+      - Not applicable
+      required: false
+    - id: 15
+      name: section_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: Number of bottles to preorder
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: unit_price
+      label: Unit Price - USD
+      hint: Standard price per bottle
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_price
+      label: Total Price - USD
+      hint: Quantity x Unit Price
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_delivery
+      label: -- Pickup and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: pickup_method
+      label: Pickup or Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Club meeting pickup
+      - Campus mailroom
+      - Mailed to address
+      - Campus event
+      - Other location
+      required: true
+    - id: 21
+      name: pickup_date
+      label: Preferred Pickup Date
+      hint: When you want to collect your bottles
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any delivery preferences or notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid in full
+      - Deposit paid - balance due
+      - Payment required at pickup
+      - Fundraiser - free
+      required: true

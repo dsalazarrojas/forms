@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Update Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will notify you when the update is ready
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: current_version
+      label: Which version are you currently using?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_platform
+      label: Operating System / Platform
+      hint: null
+      type: select_one
+      options:
+      - iOS
+      - Android
+      - Windows
+      - MacOS
+      - Linux
+      required: true
+    - id: 5
+      name: beta_interest
+      label: Are you interested in participating in the Beta test?
+      hint: Early access to new features
+      type: select_one
+      options:
+      - Yes, I - d love to
+      - No, I prefer the stable release
+      required: true
+    - id: 6
+      name: usage_type
+      label: Primary Use Case
+      hint: null
+      type: select_one
+      options:
+      - Personal Use
+      - Professional / Business Use
+      - Educational Use
+      required: true
+    - id: 7
+      name: anticipated_feature
+      label: Most anticipated feature in this upcoming update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_quantity
+      label: Number of licenses needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_preference
+      label: Preferred Payment Method
+      hint: If this is a paid update
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Apple Pay / Google Pay
+      - Already covered by subscription
+      required: true
+    - id: 10
+      name: notification_method
+      label: How should we notify you of the release?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - In-App Notification
+      required: true
+    - id: 11
+      name: feedback_current
+      label: Any feedback on the current version you - d like us to address?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Branded Water Bottle Preorder Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: club_name
+      label: Club or Organization
+      hint: Which club you are with
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_bottle
+      label: -- Water Bottle Selection --
+      hint: Choose your bottle preferences
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bottle_color
+      label: Bottle Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Navy blue
+      - White
+      - Stainless steel
+      - Green
+      - Red
+      - Purple
+      - Other
+      required: true
+    - id: 7
+      name: bottle_size
+      label: Bottle Size
+      hint: null
+      type: select_one
+      options:
+      - 16 oz (small)
+      - 24 oz (medium)
+      - 32 oz (large)
+      - 40 oz (extra large)
+      required: true
+    - id: 8
+      name: bottle_material
+      label: Bottle Material
+      hint: null
+      type: select_one
+      options:
+      - Plastic
+      - Stainless steel
+      - Aluminum
+      - BPA-free plastic
+      required: true
+    - id: 9
+      name: quantity
+      label: Number of Bottles
+      hint: How many bottles to preorder
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_customization
+      label: -- Custom Branding --
+      hint: Personalization options
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: custom_name
+      label: Personalize with Your Name
+      hint: Optional - add your name to bottle
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: custom_text
+      label: Custom Text or Logo
+      hint: Special text to add
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_pickup
+      label: -- Pickup and Delivery --
+      hint: How you will receive the bottles
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: pickup_method
+      label: Pickup or Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup at club event
+      - Pickup at designated location
+      - Ship to address
+      - Local delivery
+      required: true
+    - id: 15
+      name: pickup_location
+      label: Preferred Pickup Location
+      hint: If picking up - where and when
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_address
+      label: Shipping Address if Needed
+      hint: Where to ship bottles
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pickup_date
+      label: Expected Pickup or Delivery Date
+      hint: When do you need them
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: section_pricing
+      label: -- Pricing and Payment --
+      hint: Cost information
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: unit_price
+      label: Price Per Bottle
+      hint: Cost per unit
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: subtotal
+      label: Subtotal
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit card
+      - Venmo
+      - PayPal
+      - Other
+      required: true
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Will pay on pickup
+      - Payment enclosed
+      - Will pay online
+      - Other arrangement
+      required: true
+    - id: 23
+      name: special_notes
+      label: Special Notes or Requests
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preorder_confirmation
+      label: I confirm this water bottle preorder
+      hint: null
+      type: select_one
+      options:
+      - Yes, confirmed
+      - false
+      required: true
+    - id: 25
+      name: club_officer_signature
+      label: Club Officer Name (for records)
+      hint: Officer approving order
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Schedule
+    pages:
+    - id: 1
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer_experience
+      label: Photographer Experience
+      hint: years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: package_name
+      label: Package Name
+      hint: null
+      type: select_one
+      options:
+      - Wedding Package
+      - Elopement Package
+      - Family Package
+      - Wedding Package with Videography
+      - Basic Wedding Package
+      - Full Day Wedding Package
+      required: false
+    - id: 7
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: couple_name
+      label: Couple Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_request_2
+      label: Special Request 2
+      hint: null
+      type: text
+      options: []
+      required: false

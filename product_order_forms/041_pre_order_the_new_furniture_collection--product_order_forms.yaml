@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Order The New Furniture Collection
+    pages:
+    - id: 1
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_price
+      label: Product Price
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Pending
+      - Refunded
+      required: false
+    - id: 12
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Invoiced
+      - Pending
+      - Shipped
+      - Cancelled
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

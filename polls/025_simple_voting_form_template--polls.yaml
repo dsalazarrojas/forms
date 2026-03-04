@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Voting Form Template
+    pages:
+    - id: 1
+      name: form_control
+      label: simple-voting-form-template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vote_category
+      label: select-category
+      hint: null
+      type: select_one
+      options:
+      - Polls
+      - Events
+      - Contests
+      required: false
+    - id: 3
+      name: vote_question
+      label: select-question
+      hint: null
+      type: select_multiple
+      options:
+      - Vote for a category
+      - Vote for an event
+      - Vote for a contest
+      required: false
+    - id: 4
+      name: vote_choice_1
+      label: select-choice-1
+      hint: null
+      type: select_multiple
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      required: false
+    - id: 5
+      name: vote_choice_2
+      label: select-choice-2
+      hint: null
+      type: select_multiple
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      required: false
+    - id: 6
+      name: select_choice_3
+      label: select-choice-3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: select_choice_4
+      label: select-choice-4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_controls
+      label: form-controls
+      hint: null
+      type: text
+      options: []
+      required: false

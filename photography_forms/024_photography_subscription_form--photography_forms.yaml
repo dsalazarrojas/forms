@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Subscription Form
+    pages:
+    - id: 1
+      name: photographer_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_preferences
+      label: Photo Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - color
+      - landscape
+      - portrait
+      - still_life
+      - action
+      required: false
+    - id: 6
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - yearly
+      - one_time
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

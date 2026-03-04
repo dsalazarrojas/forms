@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audience Favorite Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous voting
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: Optional - for prize notifications if applicable
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: event_name
+        label: Event Name
+        hint: Name of the performance or event
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: event_date
+        label: Event Date
+        hint: Date of the performance
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: event_location
+        label: Event Location
+        hint: Venue or theater name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: voter_category
+        label: Voter Category
+        hint: What best describes you?
+        type: select_one
+        options:
+          - General Audience
+          - Industry Professional
+          - Press or Media
+          - Student
+          - Performer or Cast Member
+          - Event Staff
+        required: true
+      - id: 7
+        name: favorite_performance
+        label: Favorite Performance
+        hint: Select your favorite performance of the event
+        type: select_one
+        options:
+          - Opening Number
+          - Act One Finale
+          - Act Two Opening
+          - Closing Number
+          - Special Guest Performance
+          - Ensemble Piece
+        required: true
+      - id: 8
+        name: favorite_actor
+        label: Favorite Actor or Performer
+        hint: Name of your favorite performer
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: favorite_actress
+        label: Favorite Actress or Performer
+        hint: Name of your favorite performer
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: best_supporting_performance
+        label: Best Supporting Performance
+        hint: Name of standout supporting performer
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: best_costume_design
+        label: Best Costume Design
+        hint: Rate the costume design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: best_lighting_design
+        label: Best Lighting Design
+        hint: Rate the lighting design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: best_sound_design
+        label: Best Sound Design
+        hint: Rate the sound design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: best_set_design
+        label: Best Set Design
+        hint: Rate the set design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: overall_rating
+        label: Overall Rating
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - 5 Stars - Excellent
+          - 4 Stars - Very Good
+          - 3 Stars - Good
+          - 2 Stars - Fair
+          - 1 Star - Poor
+        required: true
+      - id: 16
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this event to others?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or suggestions
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: prize_draw_entry
+        label: Prize Draw Entry
+        hint: Would you like to enter the prize draw?
+        type: select_one
+        options:
+          - Yes, enter me in the draw
+          - No, thanks
+        required: true

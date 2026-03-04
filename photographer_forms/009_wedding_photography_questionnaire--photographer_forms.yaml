@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Questionnaire
+    pages:
+    - id: 1
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: photographer_info
+      label: photographer_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: couple_info
+      label: couple_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wedding_details
+      label: wedding_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferences
+      label: preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: couple_expectations
+      label: couple_expectations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photographer_expectations
+      label: photographer_expectations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_deliverables
+      label: photo_deliverables
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

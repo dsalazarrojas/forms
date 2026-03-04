@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: strength_training_workout_plan_questionnaire
+    pages:
+    - id: 1
+      name: personal_trainer
+      label: Personal Trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_experience
+      label: Training Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_multiple
+      options:
+      - In-Studio
+      - Online
+      - Both
+      required: false
+    - id: 10
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Weight Loss
+      - Increased Strength
+      - Flexibility and Mobility
+      - Endurance
+      - Injury Recovery
+      - Weight Gain
+      - Improved Posture
+      - Improved Body Composition
+      - Improved Body Fat
+      required: false
+    - id: 11
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 times/week
+      - 3-4 times/week
+      - 5-6 times/week
+      - 7+ times/week
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      required: false

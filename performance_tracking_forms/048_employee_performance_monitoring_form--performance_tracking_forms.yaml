@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Performance Monitoring Form
+    pages:
+    - id: 1
+      name: manager_rating
+      label: manager_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_criteria
+      label: evaluation_criteria
+      hint: null
+      type: select_multiple
+      options:
+      - Criteria 1
+      - Criteria 2
+      - Criteria 3
+      required: true
+    - id: 4
+      name: performance_level
+      label: performance_level
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 5
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: true
+    - id: 6
+      name: action_items
+      label: action_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_review_date
+      label: next_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_notes
+      label: evaluation_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false

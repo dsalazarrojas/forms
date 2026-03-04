@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Photography Order Form
+    pages:
+    - id: 1
+      name: youth_photography_reservation
+      label: Youth Photography Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: print_order
+      label: Print Order
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

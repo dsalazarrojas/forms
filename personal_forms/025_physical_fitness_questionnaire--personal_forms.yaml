@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Fitness Questionnaire
+    pages:
+    - id: 1
+      name: physical_fitness_survey
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: height
+      label: Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age (years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: activity_level
+      label: Activity level
+      hint: null
+      type: select_multiple
+      options:
+      - Inactive
+      - Moderately active
+      - Very active
+      - Extremely active
+      required: true
+    - id: 6
+      name: smoking_status
+      label: Smoking status
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Past smoker
+      - Current smoker
+      required: false
+    - id: 7
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - No medication
+      - Diabetes medication
+      - Cholesterol medication
+      - Hypertension medication
+      - Other
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Arthritis
+      - Chronic pain
+      - Heart disease
+      - Respiratory disease
+      - Other
+      required: false
+    - id: 9
+      name: injury_history
+      label: Injury history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workout_days
+      label: Workout days per week
+      hint: null
+      type: select_one
+      options:
+      - 0 days
+      - 1-2 days
+      - 3-4 days
+      - 5-6 days
+      - 7 days
+      required: true
+    - id: 11
+      name: workout_duration
+      label: Workout duration (min)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: workout_intensity
+      label: Workout intensity
+      hint: null
+      type: select_multiple
+      options:
+      - Gentle
+      - Moderate
+      - High
+      required: false
+    - id: 13
+      name: diet
+      label: Diet type
+      hint: null
+      type: select_multiple
+      options:
+      - Low fat
+      - Moderate
+      - Balanced
+      - Other
+      required: false

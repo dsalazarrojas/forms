@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women Golf Shorts Shopping Survey
+    pages:
+    - id: 1
+      name: women_golf_shorts_shopping_survey_page1
+      label: women_golf_shorts_shopping_survey_page1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Golf
+      - Fitness
+      - Lifestyle
+      required: false
+    - id: 3
+      name: shopping_channel
+      label: shopping_channel
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon
+      - Walmart
+      - eBay
+      - Other
+      required: false
+    - id: 4
+      name: price_range
+      label: price_range
+      hint: null
+      type: select_multiple
+      options:
+      - Under 50
+      - 50-100
+      - 101-200
+      - More than 200
+      required: false
+    - id: 5
+      name: length
+      label: length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: waist_size
+      label: waist_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_multiple
+      options:
+      - Polyester
+      - Cotton
+      - Nylon
+      - Others
+      required: false
+    - id: 8
+      name: sleeve_length
+      label: sleeve_length
+      hint: null
+      type: select_multiple
+      options:
+      - Shorts
+      - Capris
+      - Pants
+      - Leggings
+      required: false
+    - id: 9
+      name: pocket_type
+      label: pocket_type
+      hint: null
+      type: select_multiple
+      options:
+      - Pocket
+      - No pocket
+      - Multiple pockets
+      required: false
+    - id: 10
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 11
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 13
+      name: would_buy_again
+      label: would_buy_again
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: would_recommend
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: purchase_location
+      label: purchase_location
+      hint: null
+      type: select_one
+      options:
+      - Amazon
+      - Walmart
+      - eBay
+      - Online Store
+      - Offline Store
+      required: false
+    - id: 16
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false

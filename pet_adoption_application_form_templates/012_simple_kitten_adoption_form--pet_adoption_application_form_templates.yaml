@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: simple_kitten_adoption_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: breed
+      label: Breed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: name_of_kitten
+      label: Name Of Kitten
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age_of_kitten
+      label: Age Of Kitten
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sex_of_kitten
+      label: Sex Of Kitten
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: color_of_kitten
+      label: Color Of Kitten
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Ministry Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_period
+      label: Evaluation period
+      hint: Enter month and year or range
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ministry_role
+      label: Ministry role being evaluated
+      hint: Select the role
+      type: select_one
+      options:
+      - Pastor
+      - Youth leader
+      - Worship leader
+      - Administrator
+      - Volunteer coordinator
+      required: true
+    - id: 4
+      name: leadership_effectiveness_rating
+      label: Leadership effectiveness rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: communication_quality_rating
+      label: Communication quality rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: teamwork_and_collaboration
+      label: Teamwork and collaboration feedback
+      hint: Describe strengths and improvement areas
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_impact
+      label: Program impact assessment
+      hint: Rate the impact on congregation
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 8
+      name: training_needs
+      label: Recommended training or support
+      hint: Optional suggestions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_comments
+      label: Overall comments and recommendations
+      hint: Additional notes for leadership
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Planning Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: priority1
+      label: Priority 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      - '{''id'': 3, ''name'': ''Medium''}'
+      required: true
+    - id: 7
+      name: priority2
+      label: Priority 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      - '{''id'': 3, ''name'': ''Medium''}'
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Student''}'
+      - '{''id'': 2, ''name'': ''Business''}'
+      - '{''id'': 3, ''name'': ''Developer''}'
+      required: true
+    - id: 12
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Male''}'
+      - '{''id'': 2, ''name'': ''Female''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 13
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Caucasian''}'
+      - '{''id'': 2, ''name'': ''African American''}'
+      - '{''id'': 3, ''name'': ''Asian''}'
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: goals2
+      label: Goals 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: priority4
+      label: Priority 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      required: true
+    - id: 19
+      name: priority5
+      label: Priority 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      required: true
+    - id: 20
+      name: date_of_entry
+      label: Date Of Entry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: age_of_entry
+      label: Age Of Entry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: ethnicity2
+      label: Ethnicity 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Caucasian''}'
+      - '{''id'': 2, ''name'': ''African American''}'
+      required: true
+    - id: 23
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: priority6
+      label: Priority 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      required: true
+    - id: 25
+      name: priority7
+      label: Priority 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      required: false

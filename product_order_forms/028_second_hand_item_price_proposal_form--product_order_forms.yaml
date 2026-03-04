@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Second Hand Item Price Proposal Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Item Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_page_item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_condition
+      label: item condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      required: false
+    - id: 5
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: buyer_message
+      label: Buyer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_photo
+      label: Item Photo
+      hint: null
+      type: text
+      options: []
+      required: false

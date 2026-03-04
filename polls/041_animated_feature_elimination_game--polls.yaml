@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animated Feature Elimination Game
+    pages:
+    - id: 1
+      name: participant_name_alias
+      label: Participant Name or Alias
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: favorite_studio_choice
+      label: Favorite Animation Studio
+      hint: null
+      type: select_one
+      options:
+      - Disney Animation
+      - Pixar
+      - Studio Ghibli
+      - DreamWorks
+      - Sony Pictures Animation
+      - Other
+      required: true
+    - id: 3
+      name: current_round_number
+      label: Current Round Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: elimination_vote_choice
+      label: Vote to Eliminate - Choose 1
+      hint: Which movie should leave the game?
+      type: select_one
+      options:
+      - Movie A - The Great Quest
+      - Movie B - Ocean Wonders
+      - Movie C - Sky High Adventure
+      - Movie D - Robot Friends
+      - Movie E - Forest Spirits
+      required: true
+    - id: 5
+      name: elimination_reason_desc
+      label: Reason for Elimination Vote
+      hint: Why did you pick this movie?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: winner_prediction_text
+      label: Prediction for Overall Game Winner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: missed_character_name
+      label: Character from the eliminated movie you will miss most
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: round_excitement_rating
+      label: Rating of the Current Round Excitement
+      hint: Scale of 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: notification_opt_in
+      label: Notify me of next round results
+      hint: null
+      type: select_one
+      options:
+      - Yes - Send me an update
+      - No - I will check manually
+      required: true

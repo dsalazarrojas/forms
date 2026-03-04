@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Screening Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: previous_covid
+      label: Previous COVID-19 Infection
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 9
+      name: covid_infection_date
+      label: Date of Infection
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: current_illness
+      label: Currently Experiencing Illness
+      hint: Fever, cough, or other symptoms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: severe_allergies
+      label: Severe Allergies
+      hint: Especially to vaccine components
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: allergy_details
+      label: Allergy Details
+      hint: What are you allergic to
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: immune_compromised
+      label: Immunocompromised
+      hint: Weakened immune system
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Serious health conditions
+      type: select_multiple
+      options:
+      - Heart disease
+      - Diabetes
+      - Lung disease
+      - Cancer
+      - Liver disease
+      - Kidney disease
+      - None
+      required: false
+    - id: 15
+      name: medications
+      label: Current Medications
+      hint: Especially immunosuppressants
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pregnant
+      label: Pregnant or Breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, breastfeeding
+      - false
+      - Not applicable
+      required: false
+    - id: 17
+      name: previous_vaccine_reaction
+      label: Previous Adverse Vaccine Reaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 18
+      name: reaction_details
+      label: Reaction Details
+      hint: Describe the previous reaction
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cleared_for_vaccine
+      label: Cleared for COVID-19 Vaccination
+      hint: Physician determination
+      type: select_one
+      options:
+      - Yes, cleared
+      - No, contraindicated
+      - Conditional clearance
+      required: true
+    - id: 20
+      name: physician_notes
+      label: Physician Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

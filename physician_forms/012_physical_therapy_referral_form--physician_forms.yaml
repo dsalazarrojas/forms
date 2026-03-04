@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment
+      label: Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1.0 - Shoulder''}'
+      - '{''value'': ''2.0 - Back''}'
+      - '{''value'': ''3.0 - Knee''}'
+      - '{''value'': ''4.0 - Other''}'
+      required: false
+    - id: 5
+      name: physical_therapist
+      label: Physical Therapist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false

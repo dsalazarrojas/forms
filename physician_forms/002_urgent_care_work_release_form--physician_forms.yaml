@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: urgent_care_work_release_form
+    pages:
+    - id: 1
+      name: work_release_date
+      label: work_release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: false
+    - id: 3
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attending_physician_name
+      label: attending_physician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hospital_name
+      label: hospital_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 12
+      name: patient_race
+      label: patient_race
+      hint: null
+      type: select_one
+      options:
+      - Caucasian
+      - African American
+      - Asian
+      - Other
+      required: false
+    - id: 13
+      name: patient_height
+      label: patient_height
+      hint: null
+      type: text
+      options: []
+      required: false

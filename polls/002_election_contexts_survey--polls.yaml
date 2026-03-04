@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Election Contexts Survey
+    pages:
+    - id: 1
+      name: election_contexts_survey_form
+      label: election_contexts_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: voter_participation
+      label: voter_participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: information_sources
+      label: information_sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: election_fairness
+      label: election_fairness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: researcher_interest
+      label: researcher_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ngo_organization
+      label: ngo_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: civic_group
+      label: civic_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_analysis
+      label: data_analysis
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

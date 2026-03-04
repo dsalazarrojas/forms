@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Friendly Product Preference Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: welcome_to_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pricing_sensitivity
+      label: how_dont_you_like_paying
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sustainable_shopping_habits
+      label: what_do_you_do_to_reduce_your_eco_footprint
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 4
+      name: decision_drivers
+      label: what_drives_your_pricing_decisions
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: page_5
+      label: thank_you_for_completing_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_preference
+      label: what_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 7
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Chapter Reactivation Petition
+    pages:
+    - id: 1
+      name: chapter_location
+      label: Chapter Location
+      hint: City and state of chapter
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: section_petition_reason
+      label: -- Petition Purpose and Rationale --
+      hint: Why the chapter should be reactivated
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: reactivation_reason
+      label: Reason for Reactivation Request
+      hint: Explain why this chapter is needed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: alumni_population
+      label: Estimated Alumni Population in Area
+      hint: How many alumni live in this region
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: chapter_history
+      label: Brief Chapter History
+      hint: When was it last active, why closed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposed_activities
+      label: Proposed Activities and Events
+      hint: What events would the chapter organize
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: leadership_team
+      label: Leadership Team Available
+      hint: Names and roles of core leaders
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_primary_contact
+      label: -- Primary Contact Information --
+      hint: Information for the petition initiator
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_first_name
+      label: First Name
+      hint: Petition organizer's first name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_last_name
+      label: Last Name
+      hint: Petition organizer's last name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: class_year
+      label: Class Year
+      hint: Your graduation year
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_supporting_signatories
+      label: -- Supporting Signatories --
+      hint: Names of alumni who support reactivation
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: minimum_signatures_required
+      label: Minimum Signatures Required
+      hint: How many supporters are needed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: current_signatures
+      label: Current Number of Signatures
+      hint: How many have signed so far
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_budget_planning
+      label: -- Budget and Resources --
+      hint: Financial planning for reactivation
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: anticipated_budget
+      label: Anticipated Annual Budget
+      hint: Estimated funding needed
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: funding_sources
+      label: Proposed Funding Sources
+      hint: Where funding will come from
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resources_needed
+      label: Resources Needed from National
+      hint: Support requested from main organization
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: Other relevant details
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supporting_documentation
+      label: Supporting Documentation Available
+      hint: Contact list, meeting minutes, etc
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: timeline_expectations
+      label: Expected Timeline for Reactivation
+      hint: When should the chapter be active
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agree_commitment
+      label: Commitment to Sustained Activity
+      hint: Will maintain chapter operations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

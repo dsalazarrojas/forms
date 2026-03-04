@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Molecular Testing Request Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_symptom_onset
+      label: Date of Symptom Onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_sample_collection
+      label: Date of Sample Collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 8
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: sample_collection_method
+      label: Sample Collection Method
+      hint: null
+      type: select_multiple
+      options:
+      - method1
+      - method2
+      - method3
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false

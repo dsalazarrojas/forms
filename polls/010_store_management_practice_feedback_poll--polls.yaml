@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Store Management Practice Feedback Poll
+    pages:
+    - id: 1
+      name: store_management_practice_feedback_poll
+      label: Store Management Practice Feedback Poll
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Polls
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Sales
+      - Management
+      required: true
+    - id: 3
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Operations
+      - Finance
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: store_location
+      label: Store Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feedback_response
+      label: Feedback Response
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: satisfaction_trend
+      label: Satisfaction Trend
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_username
+      label: Manager Username
+      hint: null
+      type: text
+      options: []
+      required: false

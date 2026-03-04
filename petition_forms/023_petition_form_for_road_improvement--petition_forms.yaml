@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition Form for Road Improvement
+    pages:
+    - id: 1
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: signature_count
+      label: signature_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Petition
+      - Road
+      - Improvement
+      required: false
+    - id: 8
+      name: category_other
+      label: category_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

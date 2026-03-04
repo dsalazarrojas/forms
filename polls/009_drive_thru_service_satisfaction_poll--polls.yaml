@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drive Thru Service Satisfaction Poll
+    pages:
+    - id: 1
+      name: speed
+      label: Drive Thru Speed
+      hint: null
+      type: select_one
+      options:
+      - Very Fast
+      - Fast
+      - Average
+      - Slow
+      - Very Slow
+      required: false
+    - id: 2
+      name: accuracy
+      label: Order Accuracy
+      hint: null
+      type: select_multiple
+      options:
+      - All Items Were Correct
+      - Some Items Were Incorrect
+      - Most Items Were Incorrect
+      required: false
+    - id: 3
+      name: staff
+      label: Staff Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 4
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Very Clean
+      - Clean
+      - Somewhat Clean
+      - Not Very Clean
+      - Not Clean At All
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Nearby
+      - Across the Street
+      - A Few Blocks Away
+      - More Than 5 Miles Away
+      required: false
+    - id: 6
+      name: contact
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false

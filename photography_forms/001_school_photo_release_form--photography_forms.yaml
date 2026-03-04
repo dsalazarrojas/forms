@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Photo Release Form
+    pages:
+    - id: 1
+      name: school_photo_release_form
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_date
+      label: Photo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photo_usage
+      label: Photo Usage
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Marketing
+      - Online
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Update Sign Up Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For vaccine update notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Alternative contact method
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Either email or phone
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For vaccine eligibility verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vaccination_status
+      label: Current Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - One dose received
+      - Two doses received
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 7
+      name: vaccine_interest
+      label: Interest in COVID-19 Vaccine
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Unsure
+      - Not interested
+      required: true
+    - id: 8
+      name: vaccine_type_preference
+      label: Vaccine Type Preference
+      hint: If applicable
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No preference
+      required: false
+    - id: 9
+      name: age_group
+      label: Age Group
+      hint: For accessibility planning
+      type: select_one
+      options:
+      - 18-29
+      - 30-44
+      - 45-59
+      - 60-74
+      - 75 or older
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Priority Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Heart disease
+      - Diabetes
+      - Respiratory disease
+      - Immunocompromised
+      - Healthcare worker
+      - Other essential worker
+      - None
+      required: false
+    - id: 11
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Transportation assistance
+      - Interpreter services
+      - Physical accessibility
+      - Large print materials
+      - No special needs
+      required: false
+    - id: 12
+      name: language_preference
+      label: Preferred Language
+      hint: For communication purposes
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Tagalog
+      - Other
+      required: false
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: For location-based updates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: update_frequency
+      label: Preferred Update Frequency
+      hint: How often should we contact you
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - As updates become available
+      - Only when vaccine is available
+      required: true
+    - id: 15
+      name: consent_communication
+      label: I consent to receive vaccine updates
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

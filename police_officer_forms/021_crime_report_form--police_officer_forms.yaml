@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: crime_report_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: suspect_info
+      label: Suspect Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evidence_collected
+      label: Evidence Collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witness_statement
+      label: Witness Statement
+      hint: Provide a description of what the witness saw.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: crime_type
+      label: Crime Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: crime_category
+      label: Crime Category
+      hint: null
+      type: select_one
+      options:
+      - Burglary
+      - Theft
+      - Assault
+      - Vandalism
+      - Robbery
+      - Murder
+      - Rape
+      - Other
+      required: true
+    - id: 8
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: suspect_gender
+      label: Suspect Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: witness_age
+      label: Witness Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: witness_gender
+      label: Witness Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: suspect_relevant_info
+      label: Relevant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_statement_2
+      label: Witness Statement 2
+      hint: Provide another description of what the witness saw.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_statement
+      label: Suspect Statement
+      hint: Provide a description of what the suspect said.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Suspense
+      - Closed
+      - Dismissed
+      - Arrested
+      - Convicted
+      - Unknown
+      required: false
+    - id: 16
+      name: police_id
+      label: Police ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: crime_details
+      label: Crime Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: officer_signature
+      label: Officer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: police_agency
+      label: Police Agency
+      hint: null
+      type: select_one
+      options:
+      - Police Department
+      - Other
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pastors Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_rating
+      label: Form Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pastor_rating
+      label: Pastor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pastor_comments
+      label: Pastor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Assigned
+      - Other
+      required: false

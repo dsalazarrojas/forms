@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Manual Printing Order Form
+    pages:
+    - id: 1
+      name: order_information
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of this printing order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: Reference number for tracking
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: When do you need the manuals?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization/School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of authorized contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manual_specifications
+      label: -- Manual Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: manual_title
+      label: Manual Title
+      hint: What is the manual title or topic?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: Number of manuals to print
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: page_count
+      label: Page Count
+      hint: Approximate number of pages
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: binding_type
+      label: Binding Type
+      hint: How should manuals be bound?
+      type: select_one
+      options:
+      - Perfect Binding
+      - Spiral Binding
+      - Saddle Stitch
+      - Comb Binding
+      - Loose Pages
+      required: true
+    - id: 19
+      name: paper_type
+      label: Paper Type
+      hint: Quality and weight of paper
+      type: select_one
+      options:
+      - Standard 20lb
+      - Heavy 28lb
+      - Premium Gloss
+      - Matte Finish
+      - Recycled
+      required: true
+    - id: 20
+      name: color_printing
+      label: Color Printing
+      hint: Full color or black and white?
+      type: select_one
+      options:
+      - Black and White
+      - Color
+      - Color Cover Only
+      required: true
+    - id: 21
+      name: cover_material
+      label: Cover Material
+      hint: Type of cover stock
+      type: select_one
+      options:
+      - Same as Pages
+      - Cardstock
+      - Heavier Stock
+      - Laminated
+      required: true
+    - id: 22
+      name: special_finishes
+      label: Special Finishes
+      hint: Any additional finishes?
+      type: select_multiple
+      options:
+      - Lamination
+      - Embossing
+      - Foil Stamping
+      - UV Coating
+      - None
+      required: false
+    - id: 23
+      name: file_submission
+      label: How will the file be submitted?
+      hint: PDF, file attachment method, etc.
+      type: select_one
+      options:
+      - Email PDF
+      - Online Upload
+      - Will Provide Soon
+      - Design Service Included
+      required: true
+    - id: 24
+      name: rush_delivery
+      label: Rush Delivery
+      hint: Do you need expedited service?
+      type: select_one
+      options:
+      - Standard
+      - Rush - 5 days
+      - Express - 3 days
+      - Emergency - 1 day
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Special instructions or requests
+      type: text
+      options: []
+      required: false

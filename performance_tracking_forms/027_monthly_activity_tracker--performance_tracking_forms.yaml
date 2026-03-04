@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Activity Tracker
+    pages:
+    - id: 1
+      name: month
+      label: Select a month
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''January''}'
+      - '{''id'': 2, ''label'': ''February''}'
+      - '{''id'': 3, ''label'': ''March''}'
+      - '{''id'': 4, ''label'': ''April''}'
+      - '{''id'': 5, ''label'': ''May''}'
+      - '{''id'': 6, ''label'': ''June''}'
+      - '{''id'': 7, ''label'': ''July''}'
+      - '{''id'': 8, ''label'': ''August''}'
+      - '{''id'': 9, ''label'': ''September''}'
+      - '{''id'': 10, ''label'': ''October''}'
+      - '{''id'': 11, ''label'': ''November''}'
+      - '{''id'': 12, ''label'': ''December''}'
+      required: true
+    - id: 2
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      required: true
+    - id: 3
+      name: activity_level
+      label: Activity Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''Low''}'
+      required: true
+    - id: 4
+      name: goal_achieved
+      label: Goal Achieved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reflection
+      label: Reflection
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      required: false
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submitted_by_time
+      label: Submitted by Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: activity_id
+      label: Activity ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: created_on
+      label: Created on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_on
+      label: Updated on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: deleted_by
+      label: Deleted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: deleted_on
+      label: Deleted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: deleted_at
+      label: Deleted at
+      hint: null
+      type: time
+      options: []
+      required: false

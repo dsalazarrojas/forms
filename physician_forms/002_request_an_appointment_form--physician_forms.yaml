@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: request_an_appointment_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: Contact information
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - '{''phone'': ''Phone''}'
+      - '{''email'': ''Email''}'
+      - '{''chat'': ''Chat''}'
+      - '{''other'': ''Other''}'
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: medical_practice_name
+      label: Medical practice name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_professional_name
+      label: Medical professional name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: appointment_type
+      label: Appointment type
+      hint: null
+      type: select_one
+      options:
+      - '{''routine'': ''Routine''}'
+      - '{''urgent'': ''Urgent''}'
+      - '{''emergency'': ''Emergency''}'
+      required: true
+    - id: 10
+      name: appointment_date
+      label: Appointment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: appointment_time
+      label: Appointment time
+      hint: null
+      type: time
+      options: []
+      required: true

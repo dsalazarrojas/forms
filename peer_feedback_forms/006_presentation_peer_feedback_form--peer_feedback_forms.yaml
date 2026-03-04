@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Peer Feedback Form
+    pages:
+    - id: 1
+      name: presenter_id
+      label: Presenter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 7
+      name: comments_on_content
+      label: Comments On Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments_on_delivery
+      label: Comments On Delivery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_on_participation
+      label: Comments On Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_on_time_management
+      label: Comments On Time Management
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_park_renovation_poll
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: park_location
+      label: Park Location
+      hint: null
+      type: select_one
+      options:
+      - Park 1
+      - Park 2
+      - Park 3
+      required: false
+    - id: 3
+      name: favorite_facilities
+      label: Favorite Park Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Park Bench
+      - Public Restroom
+      - Playground
+      - Park Bench
+      - Picnic Table
+      - Public Restroom
+      - Playground
+      required: false
+    - id: 4
+      name: renovation_budget
+      label: Renovation Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: park_upgrades
+      label: Park Upgrades
+      hint: Which upgrades would you prioritize for this park?
+      type: select_multiple
+      options:
+      - Park Benches
+      - Playground
+      - Public Restrooms
+      - Park Benches
+      - Public Restrooms
+      - Playground
+      - Park Lighting
+      - Public Restrooms
+      required: false
+    - id: 6
+      name: community_input
+      label: Community Input
+      hint: null
+      type: note
+      options: []
+      required: false

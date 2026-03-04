@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing Waiver Form Template
+    pages:
+    - id: 1
+      name: section_header_waiver
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_understanding
+      label: -- Assumption of Risk and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risk_acknowledgment
+      label: I acknowledge the inherent risks of boxing
+      hint: Physical injury possibility
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 8
+      name: serious_injury_risk
+      label: I understand serious injury or death is possible
+      hint: Boxing carries significant risk
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 9
+      name: head_injury_risk
+      label: Head injuries and concussions are possible
+      hint: Particularly relevant to boxing
+      type: select_one
+      options:
+      - I understand this risk
+      - I do not accept this risk
+      required: true
+    - id: 10
+      name: warning_acknowledgment
+      label: I have read all warnings and understand them
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand
+      - I need clarification
+      required: true
+    - id: 11
+      name: section_header_medical
+      label: -- Medical History Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_clearance
+      label: Medical professional has cleared you for boxing
+      hint: Doctor approval for participation
+      type: select_one
+      options:
+      - Yes, I have clearance
+      - No, no clearance
+      - In progress
+      - Not obtained
+      required: true
+    - id: 13
+      name: heart_condition
+      label: History of heart or respiratory condition
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: concussion_history
+      label: Previous concussions or head injuries
+      hint: Important for safety assessment
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: current_medications
+      label: Currently taking medications
+      hint: List relevant medications
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_release
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: liability_release
+      label: I release the facility and trainer from liability
+      hint: For injuries or damages from boxing
+      type: select_one
+      options:
+      - I release them from liability
+      - I do not release from liability
+      required: true
+    - id: 18
+      name: negligence_release
+      label: I understand this includes ordinary negligence
+      hint: This waiver is comprehensive
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: insurance_responsible
+      label: I am responsible for personal insurance
+      hint: Facility does not provide coverage
+      type: select_one
+      options:
+      - I agree and will obtain coverage
+      - I disagree
+      required: true
+    - id: 20
+      name: section_header_consent
+      label: -- Final Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: final_consent
+      label: I voluntarily agree to this waiver
+      hint: Check to complete waiver
+      type: select_one
+      options:
+      - I fully agree and consent
+      - I do not agree
+      required: true

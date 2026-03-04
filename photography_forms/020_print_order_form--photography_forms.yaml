@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Print Order Form
+    pages:
+    - id: 1
+      name: print_order_form
+      label: Print Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: print_type
+      label: Print Type
+      hint: null
+      type: select_one
+      options:
+      - Print Type
+      - Digital
+      - Other
+      required: false
+    - id: 7
+      name: print_size
+      label: Print Size
+      hint: null
+      type: select_multiple
+      options:
+      - 8x10
+      - 11x14
+      - 12x16
+      - Other
+      required: false
+    - id: 8
+      name: print_paper
+      label: Print Paper
+      hint: null
+      type: select_one
+      options:
+      - Luster
+      - Matte
+      - Glossy
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 14
+      name: order_status_comments
+      label: Order Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit/Debit
+      - Other
+      required: false
+    - id: 16
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 18
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: print_date
+      label: Print Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - Shipping
+      - Not Shipped
+      required: false
+    - id: 25
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false

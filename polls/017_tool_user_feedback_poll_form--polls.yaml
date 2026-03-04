@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool User Feedback Poll Form
+    pages:
+    - id: 1
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ChatJ''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false

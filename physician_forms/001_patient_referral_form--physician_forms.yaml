@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_referral_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_s_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: doctor_s_specialty
+      label: Doctor's Specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - etc.
+      required: true
+    - id: 7
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_s_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_s_email
+      label: Doctor's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physician_notes
+      label: Physician's Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_s_address
+      label: Doctor's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_s_phone_type
+      label: Doctor's Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Mobile
+      - Fax
+      required: true
+    - id: 15
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      required: true
+    - id: 18
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_specialty_type
+      label: Doctor's Specialty Type
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - etc.
+      required: true
+    - id: 20
+      name: doctor_phone_number
+      label: Doctor's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: patient_dob_range
+      label: Patient DOB Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: doctor_phone_number_type
+      label: Doctor's Phone Number Type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Mobile
+      - Fax
+      required: true
+    - id: 23
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_address_type
+      label: Doctor's Address Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      required: true
+    - id: 25
+      name: doctor_license_number
+      label: Doctor's License Number
+      hint: null
+      type: text
+      options: []
+      required: true

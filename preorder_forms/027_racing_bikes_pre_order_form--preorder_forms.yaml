@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Racing Bikes Pre Order Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Racing Bikes Pre Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bike_type
+      label: bike_type
+      hint: null
+      type: select_one
+      options:
+      - road
+      - mountain
+      - hybrid
+      required: false
+    - id: 3
+      name: custom_requests
+      label: custom_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: color_scheme
+      label: color_scheme
+      hint: null
+      type: select_multiple
+      options:
+      - black
+      - red
+      - blue
+      required: false
+    - id: 5
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

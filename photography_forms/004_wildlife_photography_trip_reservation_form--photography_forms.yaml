@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_photography_trip_reservation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: trip_length
+      label: Trip Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_of_participants
+      label: Number Of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: participant_types
+      label: Participant Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: additional_participant_information
+      label: Additional Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false

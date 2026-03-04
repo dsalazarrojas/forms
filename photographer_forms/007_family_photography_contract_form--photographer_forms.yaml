@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photography Contract Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photographer_details
+      label: Photographer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing
+      label: Billing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cancellation_refund
+      label: Cancellation Refund
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

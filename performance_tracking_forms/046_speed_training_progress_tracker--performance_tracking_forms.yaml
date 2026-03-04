@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speed Training Progress Tracker
+    pages:
+    - id: 1
+      name: speed_session_id
+      label: Speed Session Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: coach_id
+      label: Coach Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: distance_run
+      label: Distance Run
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pace
+      label: Pace
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speed_training_level
+      label: Speed Training Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      - '{''id'': 4, ''label'': ''Level 4''}'
+      - '{''id'': 5, ''label'': ''Level 5''}'
+      required: true
+    - id: 11
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strength''}'
+      - '{''id'': 2, ''label'': ''Endurance''}'
+      - '{''id'': 3, ''label'': ''Interval''}'
+      - '{''id'': 4, ''label'': ''Tempo''}'
+      required: true

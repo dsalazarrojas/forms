@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plumbing Equipment Calibration Request Form
+    pages:
+    - id: 1
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Water Heater''}'
+      - '{''label'': ''Boiler''}'
+      - '{''label'': ''Pump''}'
+      - '{''label'': ''Faucet''}'
+      - '{''label'': ''Toilet''}'
+      - '{''label'': ''Shower''}'
+      required: false
+    - id: 3
+      name: calibration_date
+      label: Calib Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

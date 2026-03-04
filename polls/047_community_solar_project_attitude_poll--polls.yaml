@@ -1,0 +1,302 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Solar Project Attitude Poll
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For poll results
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: zip_code
+        label: ZIP Code
+        hint: Where you live
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: resident_type
+        label: Are You a Resident
+        hint: null
+        type: select_one
+        options:
+        - Homeowner
+        - Renter
+        - Business Owner
+        - Property Manager
+        - Other
+        required: true
+      - id: 7
+        name: solar_knowledge
+        label: Knowledge About Solar Energy
+        hint: How familiar are you
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: familiarity
+        label: How Familiar Are You with Solar Energy
+        hint: null
+        type: select_one
+        options:
+        - Very Familiar
+        - Somewhat Familiar
+        - Neutral
+        - Not Very Familiar
+        - Not Familiar At All
+        required: true
+      - id: 9
+        name: solar_benefits
+        label: What Do You See as Benefits
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Lower Energy Costs
+        - Environmental Benefits
+        - Energy Independence
+        - Property Value Increase
+        - Job Creation
+        - Grid Stability
+        - Community Pride
+        - Other
+        required: false
+      - id: 10
+        name: solar_concerns
+        label: What Are Your Concerns
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - High Initial Cost
+        - Aesthetic Impact
+        - Maintenance Requirements
+        - Reliability
+        - Property Damage
+        - HOA Restrictions
+        - Lack of Information
+        - None
+        required: false
+      - id: 11
+        name: attitude_section
+        label: Attitude Toward Community Solar
+        hint: Your opinions
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: overall_support
+        label: Do You Support Community Solar Projects
+        hint: null
+        type: select_one
+        options:
+        - Strongly Support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly Oppose
+        required: true
+      - id: 13
+        name: location_support
+        label: Would You Support Solar in Your Area
+        hint: In your neighborhood
+        type: select_one
+        options:
+        - Definitely Yes
+        - Probably Yes
+        - Maybe
+        - Probably No
+        - Definitely No
+        required: true
+      - id: 14
+        name: preferred_location
+        label: Preferred Solar Panel Locations
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Rooftops
+        - Parking Lots
+        - Brownfields
+        - Community Buildings
+        - Open Fields
+        - Noise Barriers
+        - Water Bodies
+        - Other
+        required: false
+      - id: 15
+        name: participation
+        label: Participation Interest
+        hint: Would you participate
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: would_participate
+        label: Would You Participate in Community Solar
+        hint: Subscribe to a shared system
+        type: select_one
+        options:
+        - Definitely Yes
+        - Probably Yes
+        - Maybe
+        - Probably No
+        - Definitely No
+        - Not Eligible
+        required: true
+      - id: 17
+        name: participation_barriers
+        label: What Would Prevent Participation
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Cost
+        - Lack of Information
+        - Renting Home
+        - Moving Soon
+        - Complexity
+        - Trust Issues
+        - No Barriers
+        - Other
+        required: false
+      - id: 18
+        name: subscription_type
+        label: Preferred Subscription Type
+        hint: null
+        type: select_one
+        options:
+        - Full Subscription
+        - Partial Subscription
+        - Pay As You Go
+        - Not Interested
+        required: false
+      - id: 19
+        name: financial_section
+        label: Financial Considerations
+        hint: Your budget
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: monthly_savings
+        label: How Much Would You Pay Monthly
+        hint: For solar subscription
+        type: select_one
+        options:
+        - $0 - Only if Free
+        - $1-$25
+        - $26-$50
+        - $51-$100
+        - $101-$200
+        - Over $200
+        required: false
+      - id: 21
+        name: payback_period
+        label: Acceptable Payback Period
+        hint: null
+        type: select_one
+        options:
+        - Under 5 years
+        - 5-10 years
+        - 10-15 years
+        - 15+ years
+        - Not Sure
+        required: false
+      - id: 22
+        name: incentives
+        label: What Incentives Would Help
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Tax Credits
+        - Rebates
+        - Low-Interest Loans
+        - Reduced Electricity Rates
+        - Property Tax Exemption
+        - Net Metering
+        - Other
+        required: false
+      - id: 23
+        name: information_needs
+        label: Information Needs
+        hint: What do you want to know
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: info_topics
+        label: Topics You Want to Learn About
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Cost and Savings
+        - Environmental Impact
+        - How It Works
+        - Subscription Process
+        - Maintenance
+        - Success Stories
+        - Policy and Regulations
+        - Other
+        required: false
+      - id: 25
+        name: communication
+        label: Preferred Communication Method
+        hint: For updates
+        type: select_one
+        options:
+        - Email
+        - Mail
+        - Social Media
+        - Community Meetings
+        - Website
+        - Phone
+        required: false
+      - id: 26
+        name: meeting_attendance
+        label: Would You Attend an Information Session
+        hint: null
+        type: select_one
+        options:
+        - Yes
+        - No
+        - Maybe
+        required: false
+      - id: 27
+        name: additional_comments
+        label: Additional Comments
+        hint: Share your thoughts
+        type: text
+        options: []
+        required: false

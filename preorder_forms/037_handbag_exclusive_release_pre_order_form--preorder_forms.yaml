@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handbag Exclusive Release Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: shipping_first_name
+      label: Shipping First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_last_name
+      label: Shipping Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_province
+      label: Shipping Province/State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_postal_code
+      label: Shipping Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      - Money Order
+      - Wire Transfer
+      required: true
+    - id: 10
+      name: payment_name
+      label: Name on Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Visa)
+      - Credit Card (Mastercard)
+      - Credit Card (Amex)
+      - Check
+      - Wire Transfer
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: preorder_date
+      label: Preorder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: product_image
+      label: Product Image
+      hint: null
+      type: select_multiple
+      options:
+      - Image1.jpg
+      - Image2.jpg
+      - Image3.jpg
+      required: false
+    - id: 19
+      name: product_color
+      label: Product Color
+      hint: null
+      type: select_one
+      options:
+      - Color 1
+      - Color 2
+      - Color 3
+      required: false
+    - id: 20
+      name: shipping_note
+      label: Shipping Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom
+      label: Custom
+      hint: null
+      type: text
+      options: []
+      required: false

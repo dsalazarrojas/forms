@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Playground Design Voting Form
+    pages:
+    - id: 1
+      name: voting_intro_note
+      label: -- Community Playground Design Vote --
+      hint: Your voice matters in shaping our new public space!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Your Name
+      hint: Optional.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: neighborhood_location
+      label: Your Neighborhood or General Address
+      hint: Helps us ensure a diverse range of responses.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: design_choice
+      label: Which design option is your favorite?
+      hint: null
+      type: select_one
+      options:
+      - Design A - The Natural Woods
+      - Design B - Modern Splash Park
+      - Design C - Sky-High Adventure
+      required: true
+    - id: 5
+      name: accessibility_rating
+      label: Rate the accessibility features of these designs
+      hint: 5 being Very Accessible.
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 6
+      name: priority_features
+      label: Which features are most important to you?
+      hint: Select up to 3.
+      type: select_multiple
+      options:
+      - Swings
+      - Slides
+      - Climbing Structures
+      - Picnic Areas
+      - Shaded Seating
+      - Public Art
+      required: true
+    - id: 7
+      name: top_priority_feature_text
+      label: Is there any one feature that is a must-have for you?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: design_improvements_feedback
+      label: Any suggestions for design improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: have_children_check
+      label: Do you have children who will use this playground?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: household_children_count
+      label: How many children are in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: household_children_ages
+      label: Ages of children who will use the playground
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - 0-2 years
+      - 3-5 years
+      - 6-8 years
+      - 9-12 years
+      - 13+ years
+      required: false
+    - id: 12
+      name: volunteer_intent
+      label: Would you be interested in a community build day?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Sign me up
+      - No - Not at this time
+      required: true
+    - id: 13
+      name: volunteer_email
+      label: Contact Email Address
+      hint: Required only if you are interested in volunteering.
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: next_steps_note
+      label: -- Next Steps --
+      hint: Results will be shared at the next Town Hall meeting on March 15th.
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vote_submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

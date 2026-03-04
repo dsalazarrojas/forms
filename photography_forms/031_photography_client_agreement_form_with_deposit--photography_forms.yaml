@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Client Agreement Form (With Deposit)
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pricing
+      label: Pricing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: deposit
+      label: Deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: cancellation
+      label: Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Client Signature
+      hint: null
+      type: date
+      options: []
+      required: true

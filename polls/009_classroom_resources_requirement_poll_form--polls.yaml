@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Resources Requirement Poll Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: role_position
+        label: Role or Position
+        hint: Your role in the school
+        type: select_one
+        options:
+          - Classroom Teacher
+          - Special Education Teacher
+          - Art Teacher
+          - Music Teacher
+          - Physical Education Teacher
+          - Science Teacher
+          - Librarian
+          - Administrator
+          - Support Staff
+          - Other
+        required: true
+      - id: 3
+        name: grade_level
+        label: Grade Level
+        hint: Which grade level do you work with
+        type: select_multiple
+        options:
+          - Kindergarten
+          - Grade 1-2
+          - Grade 3-5
+          - Grade 6-8
+          - Grade 9-12
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department or subject area
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: classroom_number
+        label: Classroom Number
+        hint: Your primary classroom or room number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: resource_category
+        label: Resource Category Needed
+        hint: What type of resources are you requesting
+        type: select_one
+        options:
+          - Classroom Supplies
+          - Technology Equipment
+          - Furniture
+          - Instructional Materials
+          - Safety Equipment
+          - Art Supplies
+          - Science Lab Equipment
+          - Sports Equipment
+          - Other
+        required: true
+      - id: 7
+        name: specific_items_needed
+        label: Specific Items Needed
+        hint: List the specific items you need
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: quantity_required
+        label: Quantity Required
+        hint: Approximate quantity needed
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: urgency_level
+        label: Urgency Level
+        hint: How urgently do you need these resources
+        type: select_one
+        options:
+          - Critical - Cannot teach effectively without
+          - High - Needed within 2 weeks
+          - Medium - Needed within 1 month
+          - Low - Needed within semester
+          - Optional - Nice to have
+        required: true
+      - id: 10
+        name: estimated_cost
+        label: Estimated Cost
+        hint: Do you know the approximate cost
+        type: select_one
+        options:
+          - Under $50
+          - $50 - $100
+          - $101 - $250
+          - $251 - $500
+          - $501 - $1000
+          - Over $1000
+          - Unknown
+        required: false
+      - id: 11
+        name: current_inventory_status
+        label: Current Inventory Status
+        hint: What is your current supply level
+        type: select_one
+        options:
+          - Depleted - None available
+          - Low - Running out soon
+          - Adequate - Some available
+          - Well-Stocked - Sufficient supply
+        required: true
+      - id: 12
+        name: justification
+        label: Justification
+        hint: Explain why these resources are needed
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: impact_on_learning
+        label: Impact on Learning
+        hint: How will these resources improve student learning
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: alternative_solutions
+        label: Alternative Solutions
+        hint: Have you tried any alternative solutions
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: funding_source_known
+        label: Funding Source Known
+        hint: Do you know which budget this could come from
+        type: select_one
+        options:
+          - Yes - Department budget
+          - Yes - Grant funding
+          - Yes - PTA or parent funds
+          - No - Need administrator approval
+          - Unsure
+        required: false
+      - id: 16
+        name: willing_to_share
+        label: Willing to Share Resources
+        hint: Would you be willing to share these resources with other teachers
+        type: select_one
+        options:
+          - Yes - Happy to share
+          - Maybe - Depending on quantity
+          - No - For exclusive classroom use
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information to support your request
+        type: text
+        options: []
+        required: false

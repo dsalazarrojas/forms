@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness 101 Health Survey
+    pages:
+    - id: 1
+      name: survey_question_1
+      label: What is your current level of stress?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: survey_answer_1
+      label: How often do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 3
+      name: survey_question_2
+      label: How many hours of sleep do you get per night?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: survey_answer_2
+      label: How many times have you exercised this week?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: survey_question_3
+      label: Do you eat breakfast?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: survey_answer_3
+      label: What time do you wake up in the morning?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: survey_question_4
+      label: Do you take any supplements?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: survey_answer_4
+      label: How often do you drink water?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 9
+      name: survey_question_5
+      label: What is your current weight in lbs?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: survey_answer_5
+      label: What is your height in inches?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: survey_question_6
+      label: Do you work in a job that requires you to be on your feet most of the
+        day?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: survey_answer_6
+      label: How many steps do you take per day?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 13
+      name: survey_question_7
+      label: How many times have you traveled this year?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 14
+      name: survey_answer_7
+      label: What is your current blood pressure?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 15
+      name: survey_question_8
+      label: Do you currently take medication?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: survey_answer_8
+      label: How often do you take your medication?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 17
+      name: survey_question_9
+      label: Do you drink any energy drinks?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: survey_answer_9
+      label: How many cups of coffee do you drink per day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: survey_question_10
+      label: Do you smoke?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: survey_answer_10
+      label: How many years have you been smoking?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 21
+      name: survey_question_11
+      label: Do you use a water filter?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: survey_answer_11
+      label: How many bottles of water do you drink per day?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 23
+      name: survey_question_12
+      label: Do you take vitamins?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: survey_answer_12
+      label: How often do you take your vitamins?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 25
+      name: survey_question_13
+      label: Do you have any allergies?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: survey_answer_13
+      label: What is your current allergy medication?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Invitation Form
+    pages:
+    - id: 1
+      name: party_type
+      label: Party Type
+      hint: null
+      type: select_one
+      options:
+      - Dinner Party
+      - Pool Party
+      - Baby Shower
+      - Housewarming Party
+      - Birthday Party
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

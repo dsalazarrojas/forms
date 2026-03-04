@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Care Guide For Busy Individuals
+    pages:
+    - id: 1
+      name: self_care_goal
+      label: Self-Care Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_care_activity
+      label: Self-Care Activity
+      hint: null
+      type: select_multiple
+      options:
+      - Walking
+      - Exercise
+      - Yoga
+      - Meditation
+      - Journaling
+      - Reading
+      required: false
+    - id: 3
+      name: self_care_frequency
+      label: Self-Care Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: self_care_time_of_day
+      label: Self-Care Time of Day
+      hint: null
+      type: date
+      options: []
+      required: false

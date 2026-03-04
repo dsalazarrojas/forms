@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Safety Helmet Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: Enter customer details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping Details
+      hint: Enter shipping details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: Select delivery options
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: order_info
+      label: Order Info
+      hint: Select order details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: helmet_type
+      label: Helmet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Helmet 1''}'
+      - '{''id'': 2, ''label'': ''Helmet 2''}'
+      - '{''id'': 3, ''label'': ''Helmet 3''}'
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter shipping address
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Address 1''}'
+      - '{''id'': 2, ''label'': ''Address 2''}'
+      - '{''id'': 3, ''label'': ''Address 3''}'
+      required: false
+    - id: 7
+      name: shipping_method
+      label: Shipping Method
+      hint: Select shipping option
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Enter shipping cost
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 12
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: shipping_note
+      label: Shipping Note
+      hint: Enter shipping note
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_note
+      label: Order Note
+      hint: Enter order note
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_note
+      label: Payment Note
+      hint: Enter payment note
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_info_update
+      label: Customer Info Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: shipping_status_update
+      label: Shipping Status Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: payment_status_update
+      label: Payment Status Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: order_status_update
+      label: Order Status Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: customer_phone_update
+      label: Customer Phone Update
+      hint: null
+      type: date
+      options: []
+      required: false

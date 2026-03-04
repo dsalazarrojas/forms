@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Co Evaluation Feedback Survey
+    pages:
+      - id: 1
+        name: evaluator_name
+        label: Your Name
+        hint: Name of the person providing feedback
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: evaluator_email
+        label: Your Email
+        hint: Contact email for follow-up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of this evaluation
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: colleague_name
+        label: Colleague Being Evaluated
+        hint: Full name of the peer being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: project_name
+        label: Project or Team Name
+        hint: Name of the project or team context
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: collaboration_duration
+        label: How Long Have You Worked Together
+        hint: Duration of collaboration
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+        required: true
+      - id: 7
+        name: communication_rating
+        label: Communication Skills Rating
+        hint: Rate their communication effectiveness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: communication_feedback
+        label: Communication Feedback
+        hint: Specific comments on communication style
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: teamwork_rating
+        label: Teamwork Rating
+        hint: Rate their ability to work in a team
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: teamwork_feedback
+        label: Teamwork Feedback
+        hint: Specific comments on teamwork contributions
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: reliability_rating
+        label: Reliability Rating
+        hint: Rate their dependability and follow-through
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: problem_solving_rating
+        label: Problem Solving Rating
+        hint: Rate their problem-solving abilities
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: adaptability_rating
+        label: Adaptability Rating
+        hint: Rate their flexibility and adaptability
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: strengths
+        label: Key Strengths
+        hint: What are their main strengths
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What areas could they develop
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: contribution_examples
+        label: Specific Contribution Examples
+        hint: Describe specific contributions they made
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: would_work_again
+        label: Would You Work With Them Again
+        hint: Would you choose to collaborate again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: recommendation_level
+        label: How Would You Recommend Them
+        hint: Level of recommendation for future projects
+        type: select_one
+        options:
+          - Highly Recommend
+          - Recommend
+          - Neutral
+          - Recommend with Reservations
+          - Do Not Recommend
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you want to share
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: feedback_sharing
+        label: Can This Feedback Be Shared
+        hint: Is it okay to share this with the colleague
+        type: select_one
+        options:
+          - Yes Share It
+          - Share Anonymously
+          - No Keep Private
+        required: true

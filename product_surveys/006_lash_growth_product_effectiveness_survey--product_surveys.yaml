@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_growth_product_effectiveness_survey
+    pages:
+    - id: 1
+      name: results_and_satisfaction
+      label: results_and_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 2
+      name: side_effects
+      label: side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_use
+      label: product_use
+      hint: null
+      type: select_one
+      options:
+      - Lash Growth Serum
+      - Lash Growth Lotion
+      - Lash Growth Mascara
+      - Lash Growth Mask
+      - Other
+      required: true
+    - id: 5
+      name: application_instructions
+      label: application_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: results_improvement
+      label: results_improvement
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - Slightly better
+      - No change
+      - Worse
+      required: true
+    - id: 7
+      name: satisfaction_improvement
+      label: satisfaction_improvement
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - Slightly better
+      - No change
+      - Worse
+      required: true
+    - id: 8
+      name: side_effects_frequency
+      label: side_effects_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: side_effects_severity
+      label: side_effects_severity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: other_side_effects
+      label: other_side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: how_long_used_product
+      label: how_long_used_product
+      hint: null
+      type: select_one
+      options:
+      - 1-2 weeks
+      - 2-4 weeks
+      - 4-6 weeks
+      - 2 months
+      - More than 2 months
+      required: true
+    - id: 12
+      name: how_long_used_product_other
+      label: how_long_used_product_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_often_used_product
+      label: how_often_used_product
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - 2-3 times a day
+      - 3-4 times a day
+      - Daily
+      - Multiple times a day
+      required: true
+    - id: 14
+      name: how_often_used_product_other
+      label: how_often_used_product_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommend_product
+      label: recommend_product
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: recommend_to_friends
+      label: recommend_to_friends
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_recommendation
+      label: product_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_liked_features
+      label: product_liked_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_disliked_features
+      label: product_disliked_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: open_ended_comment
+      label: open_ended_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: demographics
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false

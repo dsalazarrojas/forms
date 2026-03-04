@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productive Systems Assessment
+    pages:
+    - id: 1
+      name: main_page
+      label: first-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_1
+      label: tool-usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: main_page_1_1
+      label: tool-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: main_page_2
+      label: team-communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: main_page_2_1
+      label: communication-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: main_page_2_1_1
+      label: team-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: main_page_3
+      label: tool-availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available''}'
+      - '{''id'': 2, ''label'': ''Not Available''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 8
+      name: main_page_3_1
+      label: availability-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: main_page_4
+      label: team-engagement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engaged''}'
+      - '{''id'': 2, ''label'': ''Disengaged''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 10
+      name: main_page_4_1
+      label: engagement-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: main_page_5
+      label: tool-impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 12
+      name: main_page_5_1
+      label: impact-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: main_page_5_1_1
+      label: team-communication-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: main_page_6
+      label: process-clarification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Clear''}'
+      - '{''id'': 2, ''label'': ''Somewhat Clear''}'
+      - '{''id'': 3, ''label'': ''Not Clear''}'
+      required: false
+    - id: 15
+      name: main_page_6_1
+      label: clarification-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: main_page_7
+      label: team-satisfaction-across-departments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Across departments''}'
+      - '{''id'': 2, ''label'': ''Within department''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 17
+      name: main_page_7_1
+      label: satisfaction-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: main_page_8
+      label: data-collection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Jotform''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: main_page_8_1
+      label: collection-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: main_page_9
+      label: form-submission-data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: main_page_10
+      label: submission-data-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: main_page_10_1
+      label: submission-data-accuracy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 23
+      name: main_page_10_1_1
+      label: submission-data-accuracy-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: main_page_11
+      label: next-steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: main_page_11_1
+      label: next-steps-score
+      hint: null
+      type: number
+      options: []
+      required: false

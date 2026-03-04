@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Kit Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: kit_type
+      label: Kit Type
+      hint: null
+      type: select_one
+      options:
+      - Fresh
+      - Organic
+      - Regular
+      - Vegan
+      required: true
+    - id: 8
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frame And Canvas Order Request Form
+    pages:
+    - id: 1
+      name: requester
+      label: Requester name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: item_type
+      label: Item type
+      hint: Frame or canvas
+      type: select_one
+      options:
+      - Frame
+      - Canvas
+      required: true
+    - id: 4
+      name: dimensions
+      label: Dimensions
+      hint: Width x height in cm or inches
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: material_preference
+      label: Material preference
+      hint: Wood metal or synthetic
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Synthetic
+      required: false
+    - id: 7
+      name: finish
+      label: Finish
+      hint: Color or finish details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Desired delivery date
+      hint: Date items are required
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: billing_code
+      label: Billing code
+      hint: Internal account code for charge
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: Custom framing or handling notes
+      type: text
+      options: []
+      required: false

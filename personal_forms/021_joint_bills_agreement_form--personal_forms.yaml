@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Bills Agreement Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roommate_info
+      label: Roommate Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bills_info
+      label: Bills Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: division
+      label: Division
+      hint: null
+      type: select_multiple
+      options:
+      - 50-50
+      - 60-40
+      - 70-30
+      required: false
+    - id: 5
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

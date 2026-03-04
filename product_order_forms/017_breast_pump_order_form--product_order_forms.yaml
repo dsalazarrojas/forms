@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Pump Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: Zip or postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Country of delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pump_type
+      label: Type of Breast Pump
+      hint: Select your pump preference
+      type: select_one
+      options:
+      - Single electric pump
+      - Double electric pump
+      - Hospital-grade pump
+      - Portable pump
+      - Manual pump
+      - Wearable pump
+      required: true
+    - id: 10
+      name: pump_model
+      label: Specific Pump Model
+      hint: Enter the model name or number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pump_brand_preference
+      label: Preferred Pump Brand
+      hint: Do you have a brand preference
+      type: select_one
+      options:
+      - Medela
+      - Spectra
+      - Philips AVENT
+      - Elvie
+      - Willow
+      - Lansinoh
+      - Tommee Tippee
+      - No preference
+      required: false
+    - id: 12
+      name: accessories_wanted
+      label: Accessories Needed
+      hint: Select any accessories
+      type: select_multiple
+      options:
+      - Extra pump collection bottles
+      - Flanges - different sizes
+      - Storage bags
+      - Cooler or insulated bag
+      - Replacement tubing
+      - Cleaning kit
+      - Hands-free bra
+      - Conversion kit
+      required: false
+    - id: 13
+      name: flange_sizes
+      label: Flange Sizes Needed
+      hint: Select if ordering flanges
+      type: select_multiple
+      options:
+      - 21 mm
+      - 24 mm
+      - 27 mm
+      - 30 mm
+      - 36 mm
+      - Multiple sizes
+      required: false
+    - id: 14
+      name: storage_bags
+      label: Storage Bags Quantity
+      hint: If ordering storage bags
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: delivery_timeframe
+      label: Desired Delivery Timeframe
+      hint: When do you need the pump
+      type: select_one
+      options:
+      - ASAP - Within 3 days
+      - 1 week
+      - 2 weeks
+      - 3-4 weeks
+      - Flexible
+      required: true
+    - id: 16
+      name: new_mother
+      label: Are you a new mother
+      hint: First-time breast pumping
+      type: select_one
+      options:
+      - Yes, first time
+      - No, experienced
+      - Not applicable
+      required: false
+    - id: 17
+      name: pumping_frequency
+      label: Expected Pumping Frequency
+      hint: How often will you pump
+      type: select_one
+      options:
+      - Exclusive pumping
+      - Supplemental - few times daily
+      - Occasional - as needed
+      - Donation pumping
+      - Unsure
+      required: false
+    - id: 18
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Will insurance cover the pump
+      type: select_one
+      options:
+      - Yes, fully covered
+      - Partially covered
+      - No coverage
+      - Unsure
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Online banking
+      - PayPal
+      - Insurance billing
+      required: true
+    - id: 20
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

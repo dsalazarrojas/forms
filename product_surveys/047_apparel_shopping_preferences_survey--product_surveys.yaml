@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Shopping Preferences Survey
+    pages:
+    - id: 1
+      name: age_group
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 2
+      name: primary_shopping_channel
+      label: Where do you primarily shop for apparel?
+      hint: null
+      type: select_one
+      options:
+      - Mostly Online
+      - Mostly In-Store
+      - Equal mix of both
+      required: true
+    - id: 3
+      name: shopping_frequency
+      label: How often do you purchase new clothing?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Once every 3 months
+      - Twice a year
+      - Rarely
+      required: true
+    - id: 4
+      name: purchase_drivers
+      label: What factors most influence your purchase decision?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price / Value
+      - Quality of Material
+      - Brand Reputation
+      - Sustainability / Ethics
+      - Style / Trendiness
+      - Fit / Comfort
+      required: true
+    - id: 5
+      name: preferred_style
+      label: Which style best describes you?
+      hint: null
+      type: select_one
+      options:
+      - Casual / Athleisure
+      - Professional / Business
+      - Minimalist
+      - Bohemian
+      - Streetwear
+      - Classic / Formal
+      required: true
+    - id: 6
+      name: color_preferences
+      label: Your favorite colors to wear
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: annual_budget
+      label: Estimated annual clothing budget
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,500
+      - $1,500 - $3,000
+      - Over $3,000
+      required: false
+    - id: 8
+      name: sale_importance
+      label: Importance of sales and discounts in your decision
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fashion_discovery_source
+      label: Where do you discover new fashion trends?
+      hint: null
+      type: select_one
+      options:
+      - Instagram / TikTok
+      - Fashion Magazines
+      - Friends and Family
+      - Store Displays
+      - Influencers
+      required: false
+    - id: 10
+      name: sustainability_priority
+      label: How important is sustainable manufacturing to you?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 11
+      name: feedback_to_brands
+      label: What is one thing brands could do to improve your shopping experience?
+      hint: null
+      type: text
+      options: []
+      required: false

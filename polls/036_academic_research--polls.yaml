@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research
+    pages:
+    - id: 1
+      name: research_poll_intro
+      label: Academic Research Poll - Factors Contributing to HIV/STD Vulnerability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in Research or Healthcare
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - Healthcare professional
+      - Public health researcher
+      - Social worker
+      - Community advocate
+      - Academic researcher
+      - Student
+      - Other
+      required: true
+    - id: 3
+      name: years_experience
+      label: Years of Experience in Field
+      hint: How many years of experience do you have in your field?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: geographic_region
+      label: Geographic Region of Focus
+      hint: What geographic region do you primarily work in?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: socioeconomic_factors_rating
+      label: Socioeconomic Factors Impact Rating
+      hint: How significantly do you believe socioeconomic factors contribute to HIV/STD
+        vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: healthcare_access_rating
+      label: Healthcare Access Impact Rating
+      hint: How significantly do you believe limited healthcare access contributes
+        to HIV/STD vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: education_disparities_rating
+      label: Education Disparities Impact Rating
+      hint: How significantly do you believe educational disparities contribute to
+        HIV/STD vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: structural_racism_rating
+      label: Structural Racism Impact Rating
+      hint: How significantly do you believe structural racism contributes to HIV/STD
+        vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: stigma_discrimination_rating
+      label: Stigma and Discrimination Impact Rating
+      hint: How significantly do you believe stigma and discrimination contribute
+        to HIV/STD vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cultural_factors_rating
+      label: Cultural Factors Impact Rating
+      hint: How significantly do you believe cultural factors contribute to HIV/STD
+        vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: historical_trauma_rating
+      label: Historical Trauma Impact Rating
+      hint: How significantly do you believe historical trauma contributes to HIV/STD
+        vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: healthcare_system_mistrust_rating
+      label: Healthcare System Mistrust Impact Rating
+      hint: How significantly do you believe mistrust of healthcare systems contributes
+        to HIV/STD vulnerability? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: most_significant_factor
+      label: Most Significant Contributing Factor
+      hint: Which factor do you believe is the most significant contributor to HIV/STD
+        vulnerability?
+      type: select_one
+      options:
+      - Socioeconomic factors
+      - Healthcare access
+      - Educational disparities
+      - Structural racism
+      - Stigma and discrimination
+      - Cultural factors
+      - Historical trauma
+      - Healthcare system mistrust
+      required: true
+    - id: 14
+      name: intervention_priority
+      label: Priority Intervention Area
+      hint: Which area should be prioritized for interventions to reduce vulnerability?
+      type: select_one
+      options:
+      - Improving healthcare access
+      - Addressing socioeconomic disparities
+      - Education and prevention programs
+      - Reducing stigma
+      - Policy reform
+      - Community engagement
+      - Other
+      required: true
+    - id: 15
+      name: research_gap_identification
+      label: Identified Research Gap
+      hint: What research gap do you believe needs to be addressed in this area?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts on factors contributing to HIV/STD vulnerability?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: demographic_data_collection_consent
+      label: Demographic Data Collection Consent
+      hint: Do you consent to your responses being used for demographic analysis?
+      type: select_one
+      options:
+      - Yes, I consent
+      - Yes, with anonymity
+      - No, I do not consent
+      required: true

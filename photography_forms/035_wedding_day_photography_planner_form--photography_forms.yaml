@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Photography Planner Form
+    pages:
+    - id: 1
+      name: wedding_day_photography
+      label: wedding day photography
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parents
+      label: parents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: kids
+      label: kids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: photography
+      label: photography
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reception
+      label: reception
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_description
+      label: event description
+      hint: A short description of the event
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: event date
+      hint: Select a date in the format 2023-07-22
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: event time
+      hint: "Select a time in the format 08:30"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_reported_time
+      label: reported time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_venue
+      label: event venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_details
+      label: event details
+      hint: null
+      type: text
+      options: []
+      required: false

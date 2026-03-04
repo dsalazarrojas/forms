@@ -1,0 +1,290 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comic Book Feedback Survey
+    pages:
+      - id: 1
+        name: reader_name
+        label: Reader Name
+        hint: Your name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: reader_email
+        label: Email Address
+        hint: For follow-up if desired
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: comic_title
+        label: Comic Book Title
+        hint: Which comic book are you reviewing
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: issue_number
+        label: Issue Number
+        hint: Issue number if applicable
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: purchase_date
+        label: Purchase Date
+        hint: When did you read this comic
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_story_rating
+        label: -- Story Rating --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: story_quality
+        label: Story Quality
+        hint: Rate the overall story
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 8
+        name: plot_engagement
+        label: Plot Engagement
+        hint: How engaging was the plot
+        type: select_one
+        options:
+          - Very Engaging
+          - Engaging
+          - Neutral
+          - Not Very Engaging
+          - Not Engaging At All
+        required: true
+      - id: 9
+        name: character_development
+        label: Character Development
+        hint: Rate the character development
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: dialogue_quality
+        label: Dialogue Quality
+        hint: Rate the quality of dialogue
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: pacing
+        label: Story Pacing
+        hint: How was the story pacing
+        type: select_one
+        options:
+          - Too Fast
+          - Just Right
+          - Too Slow
+          - Uneven
+        required: true
+      - id: 12
+        name: section_header_art_rating
+        label: -- Art Rating --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: art_quality
+        label: Art Quality
+        hint: Rate the overall artwork
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: cover_art
+        label: Cover Art
+        hint: Rate the cover art
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 15
+        name: color_quality
+        label: Color Quality
+        hint: Rate the coloring
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: panel_layout
+        label: Panel Layout
+        hint: Rate the panel composition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 17
+        name: section_header_overall
+        label: -- Overall Impression --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: overall_rating
+        label: Overall Rating
+        hint: Your overall rating of this comic
+        type: select_one
+        options:
+          - 5 Stars
+          - 4 Stars
+          - 3 Stars
+          - 2 Stars
+          - 1 Star
+        required: true
+      - id: 19
+        name: value_for_money
+        label: Value for Money
+        hint: Was it worth the price
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 20
+        name: would_recommend
+        label: Would You Recommend
+        hint: Would you recommend this to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: repurchase_likelihood
+        label: Likelihood to Buy Next Issue
+        hint: Will you buy the next issue
+        type: select_one
+        options:
+          - Definitely Will
+          - Probably Will
+          - Not Sure
+          - Probably Will Not
+          - Definitely Will Not
+        required: true
+      - id: 22
+        name: section_header_feedback
+        label: -- Detailed Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: favorite_aspect
+        label: Favorite Aspect
+        hint: What did you like most
+        type: select_one
+        options:
+          - Story
+          - Art
+          - Characters
+          - Dialogue
+          - Action Scenes
+          - World Building
+          - Other
+        required: true
+      - id: 24
+        name: least_favorite_aspect
+        label: Least Favorite Aspect
+        hint: What did you like least
+        type: select_one
+        options:
+          - Story
+          - Art
+          - Characters
+          - Dialogue
+          - Pacing
+          - Ending
+          - Other
+        required: false
+      - id: 25
+        name: favorite_character
+        label: Favorite Character
+        hint: Who is your favorite character
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: story_improvements
+        label: Story Improvements
+        hint: What could improve the story
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: art_improvements
+        label: Art Improvements
+        hint: What could improve the art
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

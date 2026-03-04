@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Attendance Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Optional for follow up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Service date
+      hint: Date of attendance
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_time
+      label: Service time
+      hint: Which service time are you attending
+      type: select_one
+      options:
+      - Morning service
+      - Afternoon service
+      - Evening service
+      required: true
+    - id: 6
+      name: number_in_party
+      label: Number in party
+      hint: Include yourself
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: seating_request
+      label: Seating request
+      hint: Any special seating needs such as accessible seating
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visit_purpose
+      label: Purpose of visit
+      hint: For example worship service volunteer program or event
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_time_visitor
+      label: First time visitor
+      hint: Are you visiting for the first time
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: consent_data_use
+      label: Consent to use data
+      hint: Allow church to use registration data for planning
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

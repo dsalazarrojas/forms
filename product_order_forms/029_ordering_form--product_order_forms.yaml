@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ordering Form
+    pages:
+    - id: 1
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_order
+      label: order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_payment_method
+      label: customer payment method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_order_number
+      label: order number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_product_type
+      label: product type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_product_details
+      label: product details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

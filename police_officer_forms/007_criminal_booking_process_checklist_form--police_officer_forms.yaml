@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Criminal Booking Process Checklist Form
+    pages:
+    - id: 1
+      name: form_1
+      label: form 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: criminal_booking_number
+      label: criminal booking number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_arrest
+      label: date of arrest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_arrest
+      label: time of arrest
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: name_of_arrestee
+      label: name of arrestee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: name_of_officer
+      label: name of officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: criminal_offense_description
+      label: criminal offense description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: criminal_charge
+      label: criminal charge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: arrest_status
+      label: arrest status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: reason_for_booking
+      label: reason for booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: time_of_booking
+      label: time of booking
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: location_of_booking
+      label: location of booking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: name_of_booking_officer
+      label: name of booking officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_of_arrestee
+      label: email of arrestee
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_number_of_arrestee
+      label: phone number of arrestee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address_of_arrestee
+      label: address of arrestee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_security_number_of_arrestee
+      label: social security number of arrestee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: place_of_arrest
+      label: place of arrest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: time_of_release
+      label: time of release
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: reason_for_release
+      label: reason for release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_of_booking_officer
+      label: signature of booking officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_of_arrestee
+      label: signature of arrestee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_of_witness
+      label: signature of witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_of_officer_in_charge
+      label: signature of officer in charge
+      hint: null
+      type: text
+      options: []
+      required: false

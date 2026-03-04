@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_recognition_video_consent_form
+    pages:
+    - id: 1
+      name: volunteer_recognition_video_consent_form_1
+      label: volunteer_recognition_video_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_preference
+      label: contact_preference
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Phone
+      - Email
+      - Social Media
+      - Mail
+      required: true
+    - id: 6
+      name: permission_to_publish_video
+      label: permission_to_publish_video
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: photo_release
+      label: photo_release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_media_release
+      label: additional_media_release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: title
+      label: title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: date_of_video_capture
+      label: date_of_video_capture
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_of_release
+      label: date_of_release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_of_video_capture
+      label: time_of_video_capture
+      hint: null
+      type: time
+      options: []
+      required: false

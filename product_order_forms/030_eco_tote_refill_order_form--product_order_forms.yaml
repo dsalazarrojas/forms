@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Tote Refill Order Form
+    pages:
+    - id: 1
+      name: service_name
+      label: serviceName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_address
+      label: serviceAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_details
+      label: deliveryDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_selections
+      label: productSelections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_agreement
+      label: customerAgreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_confirmation
+      label: orderConfirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: order_confirmation_email
+      label: orderConfirmationEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: delivery_window
+      label: deliveryWindow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: delivery_method
+      label: deliveryMethod
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

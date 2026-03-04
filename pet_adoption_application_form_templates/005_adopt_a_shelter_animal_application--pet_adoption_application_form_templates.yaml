@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adopt A Shelter Animal Application
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: occupation
+      label: Occupation
+      hint: Current employer or field of work
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_household
+      label: -- Household Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: home_ownership
+      label: Home Ownership
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      required: true
+    - id: 9
+      name: landlord_permission_if_renting
+      label: Landlord Permission if Renting
+      hint: We may contact your landlord to verify
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 10
+      name: number_of_adults_in_household
+      label: Number of Adults in Household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_children_in_household
+      label: Number of Children in Household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: yard_type
+      label: Yard Type
+      hint: Describe your outdoor space
+      type: select_one
+      options:
+      - Fenced
+      - Unfenced
+      - No yard
+      required: true
+    - id: 13
+      name: section_preferences
+      label: -- Pet Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: animal_type_interest
+      label: Animal Type Interest
+      hint: Which type of pet are you looking for?
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Small mammal
+      - Other
+      required: true
+    - id: 15
+      name: specific_animal_name_if_any
+      label: Specific Animal Name if Any
+      hint: If you have a particular pet in mind from our website
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_pets_in_home
+      label: Current Pets in Home
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Birds
+      - None
+      required: false
+    - id: 17
+      name: experience_with_chosen_species
+      label: Experience with Chosen Species
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Some
+      - None
+      required: true
+    - id: 18
+      name: reason_for_adoption
+      label: Reason for Adoption
+      hint: Why do you want to add a pet to your family?
+      type: text
+      options: []
+      required: true

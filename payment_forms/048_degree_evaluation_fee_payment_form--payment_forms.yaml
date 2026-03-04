@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Degree Evaluation Fee Payment Form
+    pages:
+    - id: 1
+      name: degree_evaluation_request
+      label: Degree Evaluation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: academic_documents
+      label: Academic Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: online_payment
+      label: Online Payment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_team
+      label: Review Team
+      hint: null
+      type: select_one
+      options:
+      - School Review Team
+      - External Review Team
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

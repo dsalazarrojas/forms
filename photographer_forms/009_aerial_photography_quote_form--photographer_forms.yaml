@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aerial Photography Quote Form
+    pages:
+    - id: 1
+      name: client_information_section
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of your company or organization (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: Email for quote delivery and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: Phone number for quick communication
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_details_section
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_type
+      label: Type of Aerial Photography Project
+      hint: What type of aerial photography do you need?
+      type: select_one
+      options:
+      - Real Estate
+      - Construction
+      - Land Surveying
+      - Event Coverage
+      - Commercial Marketing
+      - Film Production
+      - Environmental Assessment
+      - Agriculture
+      - Inspection Services
+      - Wedding Photography
+      required: true
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: Full address or coordinates of the shooting location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_date
+      label: Desired Project Date
+      hint: When would you like the aerial photography to take place?
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_time
+      label: Preferred Time of Day
+      hint: What time of day works best for the shoot?
+      type: select_one
+      options:
+      - Morning (6am-10am)
+      - Mid-day (10am-2pm)
+      - Afternoon (2pm-6pm)
+      - Evening (6pm-8pm)
+      - Any time
+      required: false
+    - id: 11
+      name: project_requirements_section
+      label: Project Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: flight_duration_hours
+      label: Estimated Flight Duration (Hours)
+      hint: How long do you anticipate the drone flights will take?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: specific_shots_needed
+      label: Specific Shots Needed
+      hint: Describe the specific shots or angles you require
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: deliverables_format
+      label: Desired Deliverable Format
+      hint: What format would you like the final deliverables in?
+      type: select_multiple
+      options:
+      - High-resolution photos
+      - 4K video
+      - 1080p video
+      - Edited footage
+      - Raw footage
+      - 360-degree photos
+      - Orthomosaic maps
+      - 3D models
+      - GIS data
+      required: true
+    - id: 15
+      name: special_requirements
+      label: Special Requirements or Restrictions
+      hint: Any special requirements, restrictions, or permissions needed?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: regulatory_considerations
+      label: Regulatory Considerations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: property_permission_obtained
+      label: Property Permission Obtained
+      hint: Have you obtained permission to fly over the property?
+      type: select_one
+      options:
+      - true
+      - false
+      - Need assistance
+      required: true
+    - id: 18
+      name: restricted_air_space
+      label: Restricted Air Space
+      hint: Is the location near airports or in restricted air space?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 19
+      name: weather_contingency
+      label: Weather Contingency Plan
+      hint: How should we handle rescheduling due to weather?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_and_payment_section
+      label: Budget and Payment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: estimated_budget
+      label: Estimated Budget Range
+      hint: What is your estimated budget for this project?
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2000
+      - $2000-$3000
+      - Over $3000
+      - Budget flexible
+      - Will discuss
+      required: false
+    - id: 22
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: How would you prefer to pay for the services?
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - PayPal
+      - Other
+      required: false
+    - id: 23
+      name: timeline_requirements
+      label: Timeline for Delivery
+      hint: When do you need the final deliverables?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your project
+      type: text
+      options: []
+      required: false

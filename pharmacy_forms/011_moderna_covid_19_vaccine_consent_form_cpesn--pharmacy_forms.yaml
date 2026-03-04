@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moderna COVID 19 Vaccine Consent Form CPESN
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccine_screening_1
+      label: Have you traveled recently?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Recently traveled to a high-risk country''}'
+      - '{''option_2'': ''Recently traveled to a moderate-risk country''}'
+      - '{''option_3'': ''No recent travel''}'
+      - '{''option_4'': ''Not sure''}'
+      required: false
+    - id: 5
+      name: vaccine_screening_2
+      label: Are you pregnant?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Yes, but not pregnant''}'
+      - '{''option_2'': ''Currently pregnant''}'
+      - '{''option_3'': ''Currently pregnant and breastfeeding''}'
+      - '{''option_4'': ''Not pregnant''}'
+      required: false
+    - id: 6
+      name: vaccine_screening_3
+      label: Have you been pregnant in the last 30 days?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Yes''}'
+      - '{''option_2'': ''No''}'
+      required: false
+    - id: 7
+      name: vaccine_details
+      label: Vaccine Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_manufacturer
+      label: Vaccine Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Moderna''}'
+      - '{''option_2'': ''Pfizer''}'
+      - '{''option_3'': ''AstraZeneca''}'
+      required: true
+    - id: 9
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Primary care site''}'
+      - '{''option_2'': ''Specialty care site''}'
+      - '{''option_3'': ''Other (please specify)''}'
+      required: true
+    - id: 10
+      name: consent_details
+      label: Consent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

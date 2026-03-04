@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine Appointment Form
+    pages:
+    - id: 1
+      name: telemedicine_appointment_form_page_1
+      label: Request a Virtual Appointment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: appointment_calendar
+      label: Select a Time
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00
+      - '720'
+      - '960'
+      - '1200'
+      required: false
+    - id: 3
+      name: appointment_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: select_multiple
+      options:
+      - signed
+      - unsigned
+      required: false
+    - id: 7
+      name: hipaa_compliance_form_signed
+      label: HIPAA Compliance Form
+      hint: null
+      type: select_one
+      options:
+      - signed
+      - unsigned
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Pre Registration Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to answer
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For appointment confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - One dose received
+      - Two doses received
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 12
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: If available
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No preference
+      required: false
+    - id: 13
+      name: dose_seeking
+      label: Which Dose Are You Seeking
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Third dose (booster)
+      - Fourth dose (booster)
+      required: true
+    - id: 14
+      name: previous_vaccine_date
+      label: Date of Last Vaccine
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: For billing
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_id
+      label: Insurance ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies
+      hint: Especially vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Serious Medical Conditions
+      hint: That might affect vaccination
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pregnant_breastfeeding
+      label: Pregnant or Breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, breastfeeding
+      - false
+      - Not applicable
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Improvement Declaration Form
+    pages:
+    - id: 1
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue
+      label: issue
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophets
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_start
+      label: date_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_end
+      label: date_end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: true
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 13
+      name: category_other
+      label: category_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: improvement_goals
+      label: improvement_goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: improvement_actions
+      label: improvement_actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_other
+      label: follow_up_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up
+      label: next_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_follow_up_frequency
+      label: next_follow_up_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: true
+    - id: 25
+      name: follow_up_other
+      label: follow_up_other
+      hint: null
+      type: text
+      options: []
+      required: false

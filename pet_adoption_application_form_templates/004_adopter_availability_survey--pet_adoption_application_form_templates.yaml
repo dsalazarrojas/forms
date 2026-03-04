@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adopter Availability Survey
+    pages:
+    - id: 1
+      name: adopter_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: adopter_email
+      label: Email Address
+      hint: For communication about your adoption
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: adopter_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: household_size
+      label: Household Size
+      hint: Number of people in your home
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: children_present
+      label: Children in Home
+      hint: Do you have children
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: children_ages
+      label: Ages of Children
+      hint: If applicable, list ages
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_pets
+      label: Other Pets in Home
+      hint: Do you have existing pets
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Rabbits
+      - Birds
+      - Reptiles
+      - None
+      required: false
+    - id: 8
+      name: work_schedule
+      label: Work Schedule
+      hint: Typical work hours during the week
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Flexible
+      - Retired
+      - Self-employed
+      required: true
+    - id: 9
+      name: home_type
+      label: Type of Home
+      hint: Where do you live
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Farm
+      - Other
+      required: true
+    - id: 10
+      name: yard_access
+      label: Outdoor Space Access
+      hint: Do you have a yard or outdoor area
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: yard_fenced
+      label: Yard is Fenced
+      hint: Is your yard fenced
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: false
+    - id: 12
+      name: availability_weekday
+      label: Available Weekday Hours
+      hint: When are you home on weekdays
+      type: select_multiple
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-6pm)
+      - Evening (6pm-midnight)
+      - All day
+      required: true
+    - id: 13
+      name: availability_weekend
+      label: Available Weekend Hours
+      hint: When are you home on weekends
+      type: select_multiple
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-6pm)
+      - Evening (6pm-midnight)
+      - All day
+      required: true
+    - id: 14
+      name: pet_care_plan
+      label: Pet Care During Work
+      hint: Who cares for your pet while you work
+      type: select_one
+      options:
+      - I work from home
+      - Family member
+      - Pet sitter
+      - Dog walker
+      - Daycare
+      - Other
+      required: true
+    - id: 15
+      name: travel_frequency
+      label: Travel Frequency
+      hint: How often do you travel for extended periods
+      type: select_one
+      options:
+      - Rarely
+      - Monthly
+      - Quarterly
+      - Frequently
+      required: true
+    - id: 16
+      name: pet_travel_arrangements
+      label: Pet Arrangements When Traveling
+      hint: How would your pet be cared for
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How you prefer to be contacted
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Either
+      required: true
+    - id: 18
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When you prefer phone calls
+      type: text
+      options: []
+      required: false

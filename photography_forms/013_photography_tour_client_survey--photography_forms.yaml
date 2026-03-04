@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Tour Client Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Welcome to the Photography Tour Client Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_title
+      label: What was the title of the tour you took?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tour_type
+      label: Which type of tour was this?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Landscape''}'
+      - '{''id'': 2, ''name'': ''Wildlife''}'
+      - '{''id'': 3, ''name'': ''City''}'
+      - '{''id'': 4, ''name'': ''Nature''}'
+      required: false
+    - id: 4
+      name: tour_rating
+      label: How would you rate the tour?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tour_satisfaction
+      label: How satisfied were you with the tour?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Satisfied''}'
+      - '{''id'': 2, ''name'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''Neutral''}'
+      - '{''id'': 4, ''name'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 5, ''name'': ''Very Dissatisfied''}'
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any feedback or comments about the tour?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Do you want to hear from us about your feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date of the tour
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: Start time of the tour
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: End time of the tour
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: tour_length
+      label: Length of the tour in hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: guide_rating
+      label: How would you rate the photography guide?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Neutral''}'
+      - '{''id'': 4, ''name'': ''Fair''}'
+      - '{''id'': 5, ''name'': ''Very Bad''}'
+      required: false
+    - id: 15
+      name: guide_name
+      label: What is the name of the photography guide?
+      hint: null
+      type: text
+      options: []
+      required: false

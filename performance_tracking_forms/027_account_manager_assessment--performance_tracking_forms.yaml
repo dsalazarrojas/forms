@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Manager Assessment
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Account Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_period
+      label: Assessment Period
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      - Annual
+      - Probationary
+      required: true
+    - id: 7
+      name: review_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_performance
+      label: -- Performance Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_relationship
+      label: Client Relationship Management
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 10
+      name: revenue_generation
+      label: Revenue Generation and Growth
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 11
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 12
+      name: problem_solving
+      label: Problem Solving and Issue Resolution
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 13
+      name: strategic_thinking
+      label: Strategic Thinking and Planning
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 14
+      name: teamwork
+      label: Teamwork and Collaboration
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 15
+      name: section_metrics
+      label: -- Key Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accounts_managed
+      label: Number of Active Accounts Managed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: retention_rate
+      label: Client Retention Rate (percentage)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: revenue_target_met
+      label: Was Revenue Target Met
+      hint: null
+      type: select_one
+      options:
+      - Exceeded target
+      - Met target
+      - Below target
+      - Significantly below target
+      required: true
+    - id: 19
+      name: section_development
+      label: -- Development and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: key_achievements
+      label: Key Achievements This Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: development_goals
+      label: Goals for Next Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counselor Honorarium Submission Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: honorarium_amount
+      label: Honorarium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Other
+      required: true
+    - id: 5
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: honorarium_reason
+      label: Honorarium Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false

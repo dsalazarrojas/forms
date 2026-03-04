@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Conscious Makeup Brand Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information so we can reach you back
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_purchased
+      label: What type of eco-conscious products have you purchased from
+      hint: null
+      type: select_one
+      options:
+      - Eco-friendly makeup
+      - Non-ecofriendly makeup
+      required: false
+    - id: 4
+      name: eco_conscious_brand
+      label: Which eco-conscious brand do you like most?
+      hint: null
+      type: select_multiple
+      options:
+      - Pat McGrath
+      - Huda Beauty
+      - Fenty Beauty
+      - Other
+      required: false
+    - id: 5
+      name: age_range
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: What area of the world do you live in?
+      hint: null
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia
+      - Africa
+      - South America
+      - Other
+      required: false
+    - id: 7
+      name: how_often_makeup
+      label: How often do you do makeup?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-4 times a week
+      - 1-2 times a week
+      - Less than once a month
+      required: false
+    - id: 8
+      name: social_media
+      label: What's your social media preference?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Other
+      required: false
+    - id: 9
+      name: how_much_money
+      label: How much money do you spend on makeup?
+      hint: null
+      type: select_one
+      options:
+      - Less than $10
+      - $10-20
+      - $21-50
+      - $51 or more
+      required: false
+    - id: 10
+      name: eco_awareness
+      label: How much do you know about eco-friendly products?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - A little
+      - None
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agree_awareness
+      label: Agree with being more eco-friendly?
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Neutral
+      - Strongly disagree
+      required: false
+    - id: 14
+      name: recommend_brand
+      label: Would you recommend this eco-friendly brand?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Informed Consent To Treat Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: guardian_name
+      label: Guardian or Representative Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_header
+      label: -- Treatment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: treatment_type
+      label: Type of Treatment Being Offered
+      hint: null
+      type: select_one
+      options:
+      - Hospitalization
+      - ICU Treatment
+      - Mechanical Ventilation
+      - Medication Therapy
+      - Oxygen Support
+      - Other
+      required: true
+    - id: 10
+      name: treatment_reason
+      label: Reason for Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treatment_benefits
+      label: I understand the potential benefits
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 12
+      name: treatment_risks
+      label: I understand the potential risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 13
+      name: side_effects
+      label: Potential side effects explained
+      hint: null
+      type: select_one
+      options:
+      - Yes, Explained
+      - Partially Explained
+      - Not Explained
+      required: true
+    - id: 14
+      name: alternatives_header
+      label: -- Alternative Treatments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: alternatives_discussed
+      label: Alternative treatment options discussed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: alternatives_list
+      label: Alternatives available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: refusal_consequences
+      label: Consequences of refusing treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: physician_header
+      label: -- Physician Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: physician_name
+      label: Treating Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: physician_specialty
+      label: Physician Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: discussion_section
+      label: -- Patient Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: discussion_occurred
+      label: I have discussed treatment fully with physician
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some Remaining
+      required: true
+    - id: 24
+      name: informed_consent
+      label: I consent to the proposed treatment
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

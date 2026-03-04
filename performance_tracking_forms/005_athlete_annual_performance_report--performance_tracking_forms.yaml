@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Annual Performance Report
+    pages:
+    - id: 1
+      name: section_header
+      label: -- Athlete Performance Summary --
+      hint: Annual evaluation to capture performance metrics and coach feedback
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: athlete name
+      hint: Full name of the athlete being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: season_year
+      label: season year
+      hint: Year or season for this report
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: playing position
+      hint: Primary position or role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coach_name
+      label: coach name
+      hint: Evaluating coach or staff member
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendance_score
+      label: attendance score
+      hint: Percentage or score representing attendance for the season
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: technical_skills
+      label: technical skills
+      hint: Skill evaluation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 8
+      name: tactical_awareness
+      label: tactical awareness
+      hint: Tactical understanding and decision making
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 9
+      name: physical_fitness
+      label: physical fitness
+      hint: Conditioning and endurance assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 10
+      name: mental_attributes
+      label: mental attributes
+      hint: Attitude resilience and teamwork
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 11
+      name: goals_for_next_season
+      label: goals for next season
+      hint: Short term objectives for development
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_comments
+      label: overall comments
+      hint: Additional coach observations and recommendations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluator_name
+      label: evaluator name
+      hint: Name of person completing this report
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: evaluation_date
+      label: evaluation date
+      hint: Date the evaluation was completed
+      type: date
+      options: []
+      required: true

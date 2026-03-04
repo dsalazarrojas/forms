@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree One Time Payment Template
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Address
+      hint: Complete billing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_zip
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 10
+      name: payment_description
+      label: Payment Description
+      hint: What is this payment for
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: Total amount due
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Venmo
+      - Bank account
+      required: true
+    - id: 14
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: false
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name as it appears on card
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: card_expiry_month
+      label: Expiry Month
+      hint: MM
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 08
+      - 09
+      - 10
+      - 11
+      - 12
+      required: false
+    - id: 18
+      name: card_expiry_year
+      label: Expiry Year
+      hint: YY
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - 2028
+      - 2029
+      - 2030
+      - 2031
+      - 2032
+      - 2033
+      - 2034
+      - 2035
+      required: false
+    - id: 19
+      name: card_cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_address_same
+      label: Billing Address
+      hint: Is billing address same as above
+      type: select_one
+      options:
+      - true
+      - No, different address
+      required: false
+    - id: 21
+      name: billing_address
+      label: Billing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: save_payment_info
+      label: Save Payment Information
+      hint: For future purchases
+      type: select_one
+      options:
+      - Yes, save securely
+      - No, do not save
+      required: false
+    - id: 23
+      name: payment_authorization
+      label: Payment Authorization
+      hint: I authorize this payment
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 24
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: refund_policy
+      label: Refund Policy
+      hint: I understand the refund policy
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 26
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How would you like receipt
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Both
+      required: true
+    - id: 27
+      name: promotional_emails
+      label: Promotional Emails
+      hint: Receive promotional communications
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: special_instructions
+      label: Special Instructions
+      hint: Any notes for this payment
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: customer_signature
+      label: Customer Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true

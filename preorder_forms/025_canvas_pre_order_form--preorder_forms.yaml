@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canvas Pre Order Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canvas Pre-Order Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Pre-order your custom canvas print today. Fill out this form with your
+        details and specifications.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of delivery
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: canvas_details_header
+      label: -- Canvas Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: canvas_size
+      label: Canvas Size
+      hint: Select one
+      type: select_one
+      options:
+      - 8 x 10
+      - 11 x 14
+      - 12 x 16
+      - 16 x 20
+      - 18 x 24
+      - 24 x 36
+      - Custom size
+      required: true
+    - id: 15
+      name: custom_size
+      label: Custom Size (if selected)
+      hint: Width x Height in inches
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: canvas_type
+      label: Canvas Type
+      hint: Select one
+      type: select_one
+      options:
+      - Standard Cotton Canvas
+      - Premium Cotton Canvas
+      - Linen Blend
+      - Photo Canvas
+      - Fine Art Canvas
+      required: true
+    - id: 17
+      name: wrap_style
+      label: Wrap Style
+      hint: Select one
+      type: select_one
+      options:
+      - Stretched on frame
+      - Gallery wrapped
+      - Unstretched
+      - Rolled
+      required: true
+    - id: 18
+      name: frame_color
+      label: Frame or Wrap Color
+      hint: Select one (if applicable)
+      type: select_one
+      options:
+      - Natural wood
+      - Black
+      - White
+      - Dark walnut
+      - Custom color
+      - Not applicable
+      required: false
+    - id: 19
+      name: image_details_header
+      label: -- Image Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: image_source
+      label: Image Source
+      hint: Select one
+      type: select_one
+      options:
+      - Personal photo
+      - Artwork upload
+      - Design service (quote needed)
+      - Template selection
+      - Professional photoshoot
+      required: true
+    - id: 21
+      name: image_description
+      label: Describe Your Image or Design
+      hint: Tell us about the image
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: design_preferences_header
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: color_tone
+      label: Color Tone Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Color
+      - Black and white
+      - Sepia
+      - Custom tone
+      required: true
+    - id: 24
+      name: finish_type
+      label: Finish Type
+      hint: Select one
+      type: select_one
+      options:
+      - Matte
+      - Gloss
+      - Satin
+      - Canvas natural
+      required: true
+    - id: 25
+      name: additional_text
+      label: Add Text or Personalization?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, add text
+      - No text
+      required: true
+    - id: 26
+      name: text_details
+      label: Text Details (if yes above)
+      hint: What text to add
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: Select one
+      type: select_one
+      options:
+      - Standard shipping
+      - Expedited shipping
+      - Express shipping
+      - Local pickup
+      required: true
+    - id: 30
+      name: order_total
+      label: Estimated Order Total
+      hint: Will be calculated
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: additional_notes
+      label: Special Requests or Notes
+      hint: Optional additional info
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: agreement
+      label: I understand and agree to the pre-order terms
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true

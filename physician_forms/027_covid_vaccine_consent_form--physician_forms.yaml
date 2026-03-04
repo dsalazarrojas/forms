@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID Vaccine Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vaccine_type
+      label: COVID-19 Vaccine Type
+      hint: Being administered
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Other
+      required: true
+    - id: 7
+      name: dose_number
+      label: Dose Number
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Additional booster
+      required: true
+    - id: 8
+      name: vaccine_benefits_explained
+      label: Benefits of COVID-19 Vaccine Explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: vaccine_risks_explained
+      label: Risks of COVID-19 Vaccine Explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: alternative_options_discussed
+      label: Alternative Options Discussed
+      hint: Declining vaccine, waiting, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: questions_answered
+      label: All Patient Questions Answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: allergies
+      label: Known Drug Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vaccine_component_allergy
+      label: Allergy to Vaccine Components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: previous_vaccine_reaction
+      label: Previous Serious Vaccine Reaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: reaction_details
+      label: Reaction Details
+      hint: If yes, describe reaction
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Serious Medical Conditions
+      hint: That might affect vaccination
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent_signature
+      label: I voluntarily consent to receive the vaccine
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

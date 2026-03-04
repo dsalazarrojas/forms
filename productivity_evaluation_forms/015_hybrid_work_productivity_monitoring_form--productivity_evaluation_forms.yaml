@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Work Productivity Monitoring Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hours_worked_date
+      label: Hours Worked Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: work_schedule_1
+      label: Monday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_schedule_2
+      label: Tuesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_schedule_3
+      label: Wednesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: work_schedule_4
+      label: Thursday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_schedule_5
+      label: Friday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_schedule_6
+      label: Saturday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: work_schedule_7
+      label: Sunday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: work_from_home
+      label: Work From Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_in_office
+      label: Work In Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_in_client_site
+      label: Work In Client Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_remotely
+      label: Work Remotely
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: team_lede
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: direct_report
+      label: Direct Report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

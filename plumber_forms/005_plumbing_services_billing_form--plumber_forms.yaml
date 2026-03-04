@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: plumbing_services_billing_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Drain Cleaning''}'
+      - '{''name'': ''Leaking Valve''}'
+      - '{''name'': ''Leaking Water Heater''}'
+      - '{''name'': ''Leaking Faucet''}'
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Bank Transfer''}'
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''Check''}'
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: total_charges
+      label: Total Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method_other
+      label: Payment Method Other
+      hint: If not listed above, enter method used
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_type_other
+      label: Service Type Other
+      hint: If not listed above, enter type of service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Complete''}'
+      - '{''name'': ''Overdue''}'
+      required: false
+    - id: 22
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: Job or profession
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_phone
+      label: Physician Phone
+      hint: Office number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_request
+      label: Primary Reason for Test Request
+      hint: Why you need testing
+      type: select_one
+      options:
+      - Experiencing COVID-19 symptoms
+      - Close contact with positive case
+      - Required for work
+      - Required for school
+      - Required for travel
+      - Required for medical procedure
+      - Required for event attendance
+      - Personal precaution
+      required: true
+    - id: 20
+      name: symptom_details
+      label: Describe your symptoms
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: symptom_onset_date
+      label: When did symptoms begin
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: exposure_details
+      label: Describe your exposure
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: exposure_date
+      label: Date of exposure
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: previous_tests
+      label: Have you been tested for COVID-19 before
+      hint: Testing history
+      type: select_one
+      options:
+      - No never tested
+      - Yes tested negative
+      - Yes tested positive
+      - Yes multiple times
+      required: true
+    - id: 25
+      name: last_test_date
+      label: Date of most recent test
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: last_test_result
+      label: Result of most recent test
+      hint: If known
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      - Pending
+      - Not sure
+      required: false
+    - id: 27
+      name: vaccination_status
+      label: What is your vaccination status
+      hint: COVID-19 vaccines
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 28
+      name: underlying_conditions
+      label: Do you have any high-risk medical conditions
+      hint: Underlying conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 29
+      name: preferred_testing_method
+      label: Preferred Testing Method
+      hint: How to test
+      type: select_one
+      options:
+      - Nasal swab at clinic
+      - Drive-through testing
+      - Home collection kit
+      - Saliva test
+      required: true
+    - id: 30
+      name: urgency_level
+      label: How urgent is your test request
+      hint: Priority level
+      type: select_one
+      options:
+      - Routine - within 5 days
+      - Soon - within 3 days
+      - Urgent - within 24 hours
+      - STAT - immediate
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

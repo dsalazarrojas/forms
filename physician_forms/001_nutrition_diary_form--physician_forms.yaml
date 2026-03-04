@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Diary Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: portion_size
+      label: Portion Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 time/day
+      - 2 times/day
+      - 3 times/day
+      - 4 times/day
+      - 5 times/day
+      - 6 times/day
+      - 7 times/day
+      - 8 times/day
+      - 9 times/day
+      - 10 times/day
+      - 11 times/day
+      - 12 times/day
+      required: false
+    - id: 6
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_coach_feedback
+      label: Health Coach Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

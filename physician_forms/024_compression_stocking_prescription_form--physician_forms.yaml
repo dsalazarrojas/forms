@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compression Stocking Prescription Form
+    pages:
+    - id: 1
+      name: prescription_id
+      label: Prescription ID
+      hint: Unique prescription identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: prescription_date
+      label: Prescription Date
+      hint: Date of prescription
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: physician_name
+      label: Physician Name
+      hint: Name of prescribing physician
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: physician_npi
+      label: Physician NPI Number
+      hint: National Provider Identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clinic_name
+      label: Clinic Name
+      hint: Name of medical clinic or practice
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: clinic_address
+      label: Clinic Address
+      hint: Complete clinic address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: clinic_phone
+      label: Clinic Phone
+      hint: Clinic phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Patient complete name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_gender
+      label: Patient Gender
+      hint: Select patient gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 11
+      name: patient_height
+      label: Patient Height
+      hint: Height in feet and inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_weight
+      label: Patient Weight
+      hint: Weight in pounds or kilograms
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_condition
+      label: Medical Condition
+      hint: Select the medical condition being treated
+      type: select_one
+      options:
+      - Varicose Veins
+      - Chronic Venous Insufficiency
+      - Deep Vein Thrombosis History
+      - Lymphedema
+      - Post Thrombotic Syndrome
+      - Venous Ulcers
+      - Edema
+      - Other
+      required: true
+    - id: 14
+      name: affected_limbs
+      label: Affected Limbs
+      hint: Which limbs require compression stockings
+      type: select_multiple
+      options:
+      - Right Leg
+      - Left Leg
+      - Both Legs
+      - Right Arm
+      - Left Arm
+      - Both Arms
+      required: true
+    - id: 15
+      name: stocking_type
+      label: Stocking Type
+      hint: Select type of compression stocking
+      type: select_one
+      options:
+      - Knee High
+      - Thigh High
+      - Waist High
+      - Arm Sleeve
+      - Custom Fit
+      required: true
+    - id: 16
+      name: compression_level
+      label: Compression Level
+      hint: Select compression level in mmHg
+      type: select_one
+      options:
+      - 8-15 mmHg (Mild)
+      - 15-20 mmHg (Moderate)
+      - 20-30 mmHg (Firm)
+      - 30-40 mmHg (Extra Firm)
+      - 40-50 mmHg (Maximum)
+      - Custom mmHg
+      required: true
+    - id: 17
+      name: right_leg_measurements
+      label: Right Leg Measurements
+      hint: Provide circumference measurements for right leg
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: left_leg_measurements
+      label: Left Leg Measurements
+      hint: Provide circumference measurements for left leg
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: leg_length_measurement
+      label: Leg Length Measurement
+      hint: Measure from heel to specified point
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ankle_circumference
+      label: Ankle Circumference
+      hint: Measure around narrowest part of ankle
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: calf_circumference
+      label: Calf Circumference
+      hint: Measure around widest part of calf
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: thigh_circumference
+      label: Thigh Circumference
+      hint: Measure around widest part of thigh
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: wearing_schedule
+      label: Wearing Schedule
+      hint: When should patient wear stockings
+      type: select_one
+      options:
+      - All Day Daily
+      - Daytime Only
+      - During Travel Only
+      - During Exercise Only
+      - As Needed
+      - Other
+      required: true
+    - id: 24
+      name: duration_of_therapy
+      label: Duration of Therapy
+      hint: How long should patient use stockings
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - Indefinitely
+      - Until Further Notice
+      required: true
+    - id: 25
+      name: quantity_prescribed
+      label: Quantity Prescribed
+      hint: Number of pairs prescribed
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: replacement_frequency
+      label: Replacement Frequency
+      hint: How often should stockings be replaced
+      type: select_one
+      options:
+      - Every 3 Months
+      - Every 6 Months
+      - Every 12 Months
+      - As Needed
+      - When Worn Out
+      required: true
+    - id: 27
+      name: contraindications
+      label: Contraindications
+      hint: Are there any contraindications
+      type: select_one
+      options:
+      - None Known
+      - Peripheral Artery Disease
+      - Severe Neuropathy
+      - Skin Infection
+      - Uncontrolled Heart Failure
+      - Other
+      required: true
+    - id: 28
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions for patient
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: physician_signature
+      label: Physician Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

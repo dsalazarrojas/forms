@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_prescription_claim_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_prescription
+      label: Doctor Prescriptions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'False'
+      required: true
+    - id: 5
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'False'
+      required: true
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: medicare_beneficiary
+      label: Medicare Beneficiary
+      hint: null
+      type: select_multiple
+      options:
+      - Beneficiary 1
+      - Beneficiary 2
+      - Beneficiary 3
+      required: true
+    - id: 9
+      name: prescription_number
+      label: Prescription Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Pharmacist
+      - Doctor
+      - Other
+      required: false
+    - id: 12
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true

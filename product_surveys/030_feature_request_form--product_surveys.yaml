@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Request Form
+    pages:
+    - id: 1
+      name: feature_request_form_1
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_suggestions
+      label: customer_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_suggestions
+      label: team_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fully_customizable
+      label: fully_customizable
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feature_request_form_5
+      label: suggestions
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''customer''}'
+      - '{''text'': ''team''}'
+      required: false
+    - id: 7
+      name: feature_request_form_6
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Product Surveys''}'
+      - '{''text'': ''Product Feedback''}'
+      required: false
+    - id: 8
+      name: feature_request_form_7
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false

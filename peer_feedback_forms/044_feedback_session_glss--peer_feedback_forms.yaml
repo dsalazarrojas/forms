@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_session_glss
+    pages:
+    - id: 1
+      name: feedback_session_glss
+      label: feedback session glss
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Peer Feedback Forms
+      - Other
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_id
+      label: form id
+      hint: ID for the form
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: user name
+      hint: User name
+      type: text
+      options: []
+      required: false

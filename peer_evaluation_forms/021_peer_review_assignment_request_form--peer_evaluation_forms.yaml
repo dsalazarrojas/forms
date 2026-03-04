@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Review Assignment Request Form
+    pages:
+    - id: 1
+      name: peer_review_assignment_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: peer_reviewer
+      label: Peer Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_form
+      label: Review Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review_form_attachment
+      label: Review Form Attachment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

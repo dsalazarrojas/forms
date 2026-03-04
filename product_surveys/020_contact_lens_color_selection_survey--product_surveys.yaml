@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Color Selection Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Contact Lens Color Selection Survey
+        hint: Help us improve our color offerings
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Optional
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+        required: false
+      - id: 5
+        name: current_lens_user
+        label: Do You Currently Wear Contact Lenses
+        hint: Current usage
+        type: select_one
+        options:
+          - Yes - Daily
+          - Yes - Occasionally
+          - No - But Interested
+          - No - Not Interested
+        required: true
+      - id: 6
+        name: lens_type
+        label: Type of Lenses You Use
+        hint: If applicable
+        type: select_one
+        options:
+          - Daily Disposable
+          - Bi-weekly
+          - Monthly
+          - Yearly
+          - Not Applicable
+        required: false
+      - id: 7
+        name: color_preference
+        label: Preferred Lens Color Category
+        hint: What colors interest you
+        type: select_one
+        options:
+          - Natural Colors
+          - Enhancement Tints
+          - Vibrant Colors
+          - Special Effects
+          - No Preference
+        required: true
+      - id: 8
+        name: specific_colors
+        label: Specific Colors of Interest
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Blue
+          - Green
+          - Hazel
+          - Gray
+          - Brown
+          - Violet
+          - Turquoise
+          - Honey
+        required: true
+      - id: 9
+        name: natural_eye_color
+        label: Your Natural Eye Color
+        hint: Current eye color
+        type: select_one
+        options:
+          - Brown
+          - Blue
+          - Green
+          - Hazel
+          - Gray
+          - Other
+        required: true
+      - id: 10
+        name: color_change_reason
+        label: Reason for Wanting Color Change
+        hint: Why do you want colored lenses
+        type: select_multiple
+        options:
+          - Enhance Natural Color
+          - Dramatic Change
+          - Special Occasions
+          - Fashion Statement
+          - Curiosity
+          - Costume or Cosplay
+        required: true
+      - id: 11
+        name: purchase_frequency
+        label: How Often Would You Purchase
+        hint: Purchase intent
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Twice a Year
+          - Once a Year
+          - Only for Special Occasions
+        required: false
+      - id: 12
+        name: price_sensitivity
+        label: Price Range Willing to Pay
+        hint: Per box of lenses
+        type: select_one
+        options:
+          - Under $30
+          - $30-$50
+          - $51-$75
+          - $76-$100
+          - Over $100
+        required: true
+      - id: 13
+        name: brand_importance
+        label: How Important Is Brand Name
+        hint: Brand loyalty
+        type: select_one
+        options:
+          - Very Important
+          - Somewhat Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 14
+        name: purchase_channel
+        label: Where Would You Purchase
+        hint: Preferred channel
+        type: select_multiple
+        options:
+          - Eye Doctor Office
+          - Online Retailer
+          - Optical Store
+          - Pharmacy
+          - Department Store
+        required: true
+      - id: 15
+        name: concerns
+        label: Any Concerns About Colored Lenses
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Eye Health
+          - Comfort
+          - Natural Appearance
+          - Cost
+          - Maintenance
+          - None
+        required: false
+      - id: 16
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false

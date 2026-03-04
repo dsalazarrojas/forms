@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charger Market Research Survey
+    pages:
+    - id: 1
+      name: intro
+      label: -- Charger Market Research --
+      hint: Short survey to capture consumer preferences for chargers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age_group
+      label: respondent age group
+      hint: helps segment responses
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 34
+      - 35 to 54
+      - 55 and over
+      required: false
+    - id: 3
+      name: current_charger_type
+      label: current charger type
+      hint: primary charger used currently
+      type: select_one
+      options:
+      - Wired
+      - Wireless
+      - Both
+      - None
+      required: true
+    - id: 4
+      name: number_of_chargers
+      label: number of chargers owned
+      hint: approximate count
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_interest
+      label: purchase interest
+      hint: likelihood to purchase a new charger in next 6 months
+      type: select_one
+      options:
+      - Very unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very likely
+      required: true
+    - id: 6
+      name: preferred_features
+      label: preferred features
+      hint: select features important when buying a charger
+      type: select_multiple
+      options:
+      - Fast charging
+      - Portability
+      - Multiple ports
+      - Brand reputation
+      - Price
+      required: false
+    - id: 7
+      name: average_spend
+      label: average spend
+      hint: typical amount willing to pay in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pain_points
+      label: pain points
+      hint: common problems experienced with chargers
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: brand_loyalty
+      label: brand loyalty
+      hint: do you prefer a single brand for chargers
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: any other feedback for product teams
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Trial Adverse Event Incident Report
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: Please provide the following information about the event
+      type: select_multiple
+      options:
+      - Event Date
+      - Event Date (if within the last 3 months)
+      - Event Time
+      - Duration
+      required: false
+    - id: 4
+      name: adverse_event_details
+      label: Adverse Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_administered
+      label: Treatment Administered
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Dosage
+      - Route of Administration
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Action Taken 1
+      - Action Taken 2
+      - Action Taken 3
+      required: false
+    - id: 7
+      name: follow_up_information
+      label: Follow Up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Due
+      - Not Due
+      required: false
+    - id: 11
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Reported
+      - Resolved
+      - Unknown
+      required: false
+    - id: 13
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: select_one
+      options:
+      - Research Site
+      - Study Coordinator
+      - Other
+      required: false
+    - id: 14
+      name: incident_reporter_phone
+      label: Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_email
+      label: Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false

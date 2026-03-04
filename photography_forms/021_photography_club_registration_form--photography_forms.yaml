@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Club Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: photo_license
+      label: Photography License
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 7
+      name: photo_equipment
+      label: Photography Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''DSLR''}'
+      - '{''id'': 2, ''label'': ''Mirrorless''}'
+      - '{''id'': 3, ''label'': ''Point and Shoot''}'
+      required: true
+    - id: 8
+      name: photo_style
+      label: Photography Style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Portrait''}'
+      - '{''id'': 2, ''label'': ''Landscape''}'
+      - '{''id'': 3, ''label'': ''Wildlife''}'
+      required: true
+    - id: 9
+      name: photo_frequency
+      label: How often do you shoot?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 10
+      name: photo_experience
+      label: What's your experience level?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 11
+      name: photo_genre
+      label: What genre do you shoot?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Portrait''}'
+      - '{''id'': 2, ''label'': ''Landscape''}'
+      - '{''id'': 3, ''label'': ''Wildlife''}'
+      required: true
+    - id: 12
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: photo_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Facebook''}'
+      - '{''id'': 2, ''label'': ''Instagram''}'
+      - '{''id'': 3, ''label'': ''Twitter''}'
+      required: false
+    - id: 16
+      name: upload_photo
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: photo_license_terms
+      label: Photo License Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accept''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: true
+    - id: 19
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      required: true
+    - id: 20
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: last_activity_date
+      label: Last Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: last_activity_frequency
+      label: Last Activity Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 23
+      name: last_membership_renewal
+      label: Last Membership Renewal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: photo_license_expiration
+      label: Photo License Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

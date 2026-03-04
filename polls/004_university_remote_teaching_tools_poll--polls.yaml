@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_remote_teaching_tools_poll
+    pages:
+    - id: 1
+      name: platform_usage
+      label: Platform usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: priority_areas
+      label: What are your priority areas for improvement?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: submission_preferences
+      label: Submission preferences
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: teaching_platforms
+      label: Teaching platforms used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

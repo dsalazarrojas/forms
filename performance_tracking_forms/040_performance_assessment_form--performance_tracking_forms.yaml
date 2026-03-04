@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Assessment Form
+    pages:
+    - id: 1
+      name: performance_assessment_form
+      label: Performance Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: performance_goal
+      label: Performance Goal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: development_areas
+      label: Development Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: action_plans
+      label: Action Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_assessment
+      label: Performance Assessment
+      hint: null
+      type: text
+      options: []
+      required: false

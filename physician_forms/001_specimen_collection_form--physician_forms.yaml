@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Specimen Collection Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Please enter patient ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_collection
+      label: Date of Collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_collection
+      label: Time of Collection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: blood_sample_type
+      label: Blood Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Blood
+      - Urine
+      - Stool
+      required: false
+    - id: 7
+      name: specimen_description
+      label: Specimen Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: blood_drawn_by
+      label: Blood Drawn By
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Johnson
+      required: false

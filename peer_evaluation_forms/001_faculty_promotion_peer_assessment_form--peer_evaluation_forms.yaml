@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Promotion Peer Assessment Form
+    pages:
+    - id: 1
+      name: faculty_promotion
+      label: Faculty Promotion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: peer_name
+      label: Peer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prophets
+      label: Prominent Works and Publications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: peers_suggestions
+      label: Peers Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: chair_recommendation
+      label: Chair Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: dean_recommendation
+      label: Dean Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: department_head_recommendation
+      label: Department Head Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: peer_comments
+      label: Peer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Authorization Form
+    pages:
+    - id: 1
+      name: medical_authorization_form_data
+      label: Medical Authorization Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_last_visit
+      label: date_of_last_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_clearance
+      label: medical_clearance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_clearance_reason
+      label: medical_clearance_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_certificate_number
+      label: medical_certificate_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_certification_date
+      label: medical_certification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_facility
+      label: medical_facility
+      hint: null
+      type: select_one
+      options:
+      - Clinic A
+      - Clinic B
+      - Hospital X
+      required: false
+    - id: 15
+      name: medical_facility_name
+      label: medical_facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_facility_address
+      label: medical_facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_facility_city
+      label: medical_facility_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_facility_state
+      label: medical_facility_state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - Texas
+      - New York
+      required: false
+    - id: 19
+      name: medical_facility_zip
+      label: medical_facility_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: medical_facility_phone
+      label: medical_facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_facility_website
+      label: medical_facility_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_facility_fax
+      label: medical_facility_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_facility_hours
+      label: medical_facility_hours
+      hint: null
+      type: select_one
+      options:
+      - Monday-Friday
+      - Monday-Saturday
+      - Sunday-Sunday
+      required: false
+    - id: 24
+      name: medical_facility_hours_details
+      label: medical_facility_hours_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_facility_notes
+      label: medical_facility_notes
+      hint: null
+      type: text
+      options: []
+      required: false

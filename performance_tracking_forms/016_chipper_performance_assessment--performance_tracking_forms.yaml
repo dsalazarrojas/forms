@@ -1,0 +1,406 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chipper Performance Assessment
+    pages:
+      - id: 1
+        name: assessment_information
+        label: Assessment Information
+        hint: Basic details about this assessment
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: assessment_date
+        label: Date of Assessment
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: assessor_name
+        label: Assessor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessor_role
+        label: Assessor Role
+        hint: null
+        type: select_one
+        options:
+          - Operator
+          - Supervisor
+          - Maintenance technician
+          - Safety officer
+          - Manager
+        required: true
+      - id: 5
+        name: equipment_information
+        label: Equipment Information
+        hint: Chipper details
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: equipment_id
+        label: Equipment ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: chipper_model
+        label: Chipper Model
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: location
+        label: Work Location
+        hint: Job site
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: performance_metrics
+        label: Performance Metrics
+        hint: Operational performance
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: processing_capacity
+        label: Processing Capacity Rating
+        hint: Material throughput
+        type: select_one
+        options:
+          - Excellent - above specification
+          - Good - meets specification
+          - Fair - slightly below specification
+          - Poor - significantly below specification
+          - Unable to assess
+        required: true
+      - id: 11
+        name: fuel_efficiency
+        label: Fuel Efficiency
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Not measured
+        required: true
+      - id: 12
+        name: startup_performance
+        label: Engine Start Performance
+        hint: null
+        type: select_one
+        options:
+          - Starts immediately every time
+          - Starts reliably
+          - Sometimes difficult
+          - Often difficult
+          - Unreliable
+        required: true
+      - id: 13
+        name: idle_quality
+        label: Idle Quality
+        hint: null
+        type: select_one
+        options:
+          - Smooth and stable
+          - Generally smooth
+          - Slightly rough
+          - Rough or unstable
+          - Will not idle properly
+        required: true
+      - id: 14
+        name: cutting_performance
+        label: Cutting Performance
+        hint: Material processing
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: cutting_speed
+        label: Cutting Speed
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Slow
+          - Unacceptably slow
+        required: true
+      - id: 16
+        name: material_handling
+        label: Material Handling Capability
+        hint: Branch size capacity
+        type: select_one
+        options:
+          - Handles maximum rated capacity
+          - Handles near maximum
+          - Struggles with large material
+          - Cannot handle rated capacity
+          - Not tested
+        required: true
+      - id: 17
+        name: discharge_quality
+        label: Discharge Quality
+        hint: Chip consistency
+        type: select_one
+        options:
+          - Uniform, well-sized chips
+          - Mostly uniform
+          - Variable chip size
+          - Poor chip quality
+          - Inconsistent discharge
+        required: true
+      - id: 18
+        name: clogging_frequency
+        label: Clogging or Jamming Frequency
+        hint: null
+        type: select_one
+        options:
+          - Never clogs
+          - Rarely clogs
+          - Occasionally clogs
+          - Frequently clogs
+          - Constantly clogs
+        required: true
+      - id: 19
+        name: reliability_metrics
+        label: Reliability Metrics
+        hint: Uptime and dependability
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: uptime_percentage
+        label: Estimated Uptime Percentage
+        hint: Percentage of time operational
+        type: select_one
+        options:
+          - 95-100%
+          - 90-94%
+          - 80-89%
+          - 70-79%
+          - Below 70%
+        required: true
+      - id: 21
+        name: breakdown_frequency
+        label: Breakdown Frequency
+        hint: null
+        type: select_one
+        options:
+          - No breakdowns
+          - Rare breakdowns
+          - Occasional breakdowns
+          - Frequent breakdowns
+          - Constant issues
+        required: true
+      - id: 22
+        name: maintenance_requirements
+        label: Maintenance Requirements
+        hint: Frequency of needed maintenance
+        type: select_one
+        options:
+          - Minimal maintenance needed
+          - Routine maintenance only
+          - Above average maintenance
+          - Frequent maintenance needed
+          - Constant maintenance required
+        required: true
+      - id: 23
+        name: safety_compliance
+        label: Safety Compliance
+        hint: Safety features and operation
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: safety_features
+        label: Safety Features Functional
+        hint: Guards, shutoffs, etc.
+        type: select_one
+        options:
+          - All features functional
+          - Most features functional
+          - Some features not working
+          - Many safety issues
+          - Critical safety concerns
+        required: true
+      - id: 25
+        name: operator_safety
+        label: Operator Safety Rating
+        hint: Confidence in safe operation
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Unsafe to operate
+        required: true
+      - id: 26
+        name: noise_level
+        label: Noise Level
+        hint: Acceptable operating noise
+        type: select_one
+        options:
+          - Within acceptable limits
+          - Slightly elevated
+          - Moderately loud
+          - Excessively loud
+          - Unacceptable noise
+        required: true
+      - id: 27
+        name: vibration_level
+        label: Vibration Level
+        hint: null
+        type: select_one
+        options:
+          - Minimal vibration
+          - Normal vibration
+          - Elevated vibration
+          - Excessive vibration
+          - Dangerous vibration
+        required: true
+      - id: 28
+        name: efficiency_assessment
+        label: Efficiency Assessment
+        hint: Overall efficiency
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: operational_efficiency
+        label: Overall Operational Efficiency
+        hint: null
+        type: select_one
+        options:
+          - Highly efficient
+          - Efficient
+          - Acceptable efficiency
+          - Inefficient
+          - Very inefficient
+        required: true
+      - id: 30
+        name: productivity_rating
+        label: Productivity Rating
+        hint: Work output
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Below expectations
+          - Significantly below expectations
+          - Unacceptable
+        required: true
+      - id: 31
+        name: cost_effectiveness
+        label: Cost Effectiveness
+        hint: Value for operating cost
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Not cost effective
+        required: true
+      - id: 32
+        name: overall_assessment
+        label: Overall Assessment
+        hint: Summary evaluation
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: overall_performance_rating
+        label: Overall Performance Rating
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Unacceptable
+        required: true
+      - id: 34
+        name: recommend_continue_use
+        label: Do you recommend continued use
+        hint: null
+        type: select_one
+        options:
+          - Yes, without reservation
+          - Yes, with minor concerns
+          - Yes, with major concerns
+          - No, recommend replacement
+          - No, unsafe
+        required: true
+      - id: 35
+        name: strengths
+        label: Equipment Strengths
+        hint: What works well
+        type: text
+        options: []
+        required: false
+      - id: 36
+        name: weaknesses
+        label: Equipment Weaknesses
+        hint: Areas needing improvement
+        type: text
+        options: []
+        required: false
+      - id: 37
+        name: recommendations
+        label: Recommendations for Improvement
+        hint: Suggested actions
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: replacement_timeline
+        label: Recommended Replacement Timeline
+        hint: null
+        type: select_one
+        options:
+          - No replacement needed
+          - Plan for future replacement
+          - Replace within 1 year
+          - Replace within 6 months
+          - Replace immediately
+        required: true
+      - id: 39
+        name: assessor_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: assessor_signature
+        label: Assessor Signature
+        hint: null
+        type: text
+        options: []
+        required: true

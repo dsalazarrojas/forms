@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Petition Signing Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree
+      label: Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Finance
+      - HR
+      required: true
+    - id: 11
+      name: faculty_member
+      label: Faculty Member
+      hint: null
+      type: select_multiple
+      options:
+      - Faculty Member
+      - Staff
+      - Student
+      required: false
+    - id: 12
+      name: department_agreed
+      label: Department Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: faculty_agreed
+      label: Faculty Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: agree_2
+      label: Agreed 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: department_2
+      label: Department 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: faculty_2
+      label: Faculty 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: department_3
+      label: Department 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: faculty_3
+      label: Faculty 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: department_4
+      label: Department 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: faculty_4
+      label: Faculty 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: department_5
+      label: Department 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: faculty_5
+      label: Faculty 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

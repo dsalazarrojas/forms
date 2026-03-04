@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Packaging Preference Survey
+    pages:
+    - id: 1
+      name: pet_packaging_materials
+      label: What type of materials do you use in your pet packaging?
+      hint: null
+      type: select_multiple
+      options:
+      - Paper
+      - Cardboard
+      - Plastic
+      required: false
+    - id: 2
+      name: eco_priority
+      label: What matters most when choosing eco-friendly materials?
+      hint: null
+      type: select_one
+      options:
+      - Sustainability
+      - Cost
+      - Brand reputation
+      required: true
+    - id: 3
+      name: satisfaction_score
+      label: How would you rate your satisfaction with our current packaging?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: material_preferences
+      label: Which of the following materials do you prefer in your pet packaging?
+      hint: null
+      type: select_multiple
+      options:
+      - Bioplast
+      - Bioplastic-free
+      - Paper
+      - Cardboard
+      required: false
+    - id: 5
+      name: pet_pain_points
+      label: What are your top 3 pet pain points with our current packaging?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: open_ended_response
+      label: Do you have any open ended comments about our current packaging?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: How likely are you to recommend us to friends and family?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: How likely are you to recommend us to friends and family?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: time_of_day
+      label: Which time of day do you typically shop for pet supplies?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: packaging_size
+      label: What size of packaging do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Compact
+      - Other
+      required: false
+    - id: 11
+      name: packaging_type
+      label: What type of packaging do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Multi
+      required: false
+    - id: 12
+      name: packaging_priority
+      label: What is your priority when choosing a pet product with packaging?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Brand name
+      - Packaging
+      required: false

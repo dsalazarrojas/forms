@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Name Selection Voting Form
+    pages:
+    - id: 1
+      name: voter_details_header
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stakeholder_role
+      label: Your Role in the Project
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Product Development
+      - Executive Team
+      - External Consultant
+      - Beta Tester
+      required: true
+    - id: 4
+      name: name_options_header
+      label: -- App Name Options --
+      hint: Please review the proposed names below before voting
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: primary_choice
+      label: Which name is your first choice?
+      hint: Select the one that best fits our brand
+      type: select_one
+      options:
+      - Option A - NovaStream
+      - Option B - PeakFlow
+      - Option C - ZenithApp
+      - Option D - CoreConnect
+      required: true
+    - id: 6
+      name: choice_reasoning
+      label: Why did you choose this name?
+      hint: What qualities does it convey?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: brand_alignment_rating
+      label: How well does your choice align with our brand identity?
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: memory_score
+      label: How easy is this name to remember?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Moderately Easy
+      - Average
+      - Difficult
+      required: true
+    - id: 9
+      name: target_audience_appeal
+      label: Do you think this name will appeal to our target audience?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Somewhat
+      - false
+      required: true
+    - id: 10
+      name: alternative_suggestions
+      label: Do you have any other naming suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: voting_date
+      label: Date of Vote
+      hint: null
+      type: date
+      options: []
+      required: true

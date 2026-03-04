@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: telemedicine_consent_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: consent
+      hint: Choose one or more options that best suit your needs.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: telemedicine_info
+      label: telemedicine_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: physician_info
+      label: physician_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true

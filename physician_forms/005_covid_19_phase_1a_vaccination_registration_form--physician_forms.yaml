@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 1A Vaccination Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birth_date
+      label: Date of Birth
+      hint: Phase 1A includes specific age groups and high-risk individuals
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: occupation_title
+      label: Job Title / Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employment_category
+      label: Employment Category
+      hint: Select the category that qualifies you for Phase 1A
+      type: select_one
+      options:
+      - Healthcare Worker
+      - First Responder
+      - Long-term Care Resident
+      - Long-term Care Staff
+      - Other Frontline Worker
+      required: true
+    - id: 5
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: healthcare_provider
+      label: Primary Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccine_allergies
+      label: Do you have any known allergies to vaccines or vaccine components?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: pregnancy_status
+      label: Are you currently pregnant or breastfeeding?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 11
+      name: consent_for_vaccination
+      label: I consent to receive the COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I consent
+      - false
+      - I do not consent
+      required: true
+    - id: 12
+      name: signature_confirmation
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

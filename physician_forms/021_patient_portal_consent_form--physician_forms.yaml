@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Portal Consent Form
+    pages:
+    - id: 1
+      name: patient_portal_consent_form_first_page
+      label: patient_portal_consent_form_first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_portal_consent_form_second_page
+      label: patient_portal_consent_form_second_page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_portal_consent_form_third_page
+      label: patient_portal_consent_form_third_page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_portal_consent_form_fourth_page
+      label: patient_portal_consent_form_fourth_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_portal_consent_form_fifth_page
+      label: patient_portal_consent_form_fifth_page
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: patient_portal_consent_form_sixth_page
+      label: patient_portal_consent_form_sixth_page
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_portal_consent_form_seventh_page
+      label: patient_portal_consent_form_seventh_page
+      hint: null
+      type: note
+      options: []
+      required: false

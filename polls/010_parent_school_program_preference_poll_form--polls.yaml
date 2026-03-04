@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_school_program_preference_poll_form
+    pages:
+    - id: 1
+      name: school_program_preferences
+      label: School program preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_prio_1
+      label: Program Priority 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: program_prio_2
+      label: Program Priority 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: program_prio_3
+      label: Program Priority 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_prio_4
+      label: Program Priority 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_prio_5
+      label: Program Priority 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_prio_6
+      label: Program Priority 6
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: other_programs
+      label: Other programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

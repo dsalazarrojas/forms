@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Knife Sharpening Service Order Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_info
+      label: Order Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: drop_off_pick_up
+      label: Drop-Off or Pick-Up
+      hint: Choose how you'd like to handle your order.
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Drop-Off''}'
+      - '{''id'': 2, ''label'': ''Pick-Up''}'
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: Choose how you'd like to pay.
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: What kind of business do you have?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sharpener''}'
+      - '{''id'': 2, ''label'': ''Mobile Sharpening''}'
+      - '{''id'': 3, ''label'': ''Kitchen''}'
+      required: false
+    - id: 9
+      name: knives
+      label: Knives
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sharpening_info
+      label: Sharpening Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm
+      label: Confirm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

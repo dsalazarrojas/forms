@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sheriff Candidate Petition
+    pages:
+    - id: 1
+      name: name
+      label: Support the Candidate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: candidate name
+      hint: Enter candidate name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: party name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: contact info
+      hint: Enter contact information here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Supporting Candidate
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: name
+      label: supporting party
+      hint: Select party supporting candidate
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

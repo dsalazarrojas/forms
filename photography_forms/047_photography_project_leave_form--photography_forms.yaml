@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_project_leave_form
+    pages:
+    - id: 1
+      name: project_title
+      label: Photography Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      required: false
+    - id: 6
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

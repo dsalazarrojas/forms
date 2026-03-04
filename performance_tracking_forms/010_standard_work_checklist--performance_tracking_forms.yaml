@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Work Checklist
+    pages:
+    - id: 1
+      name: start_of_shift_checklist
+      label: Start of Shift Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: end_of_shift_checklist
+      label: End of Shift Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: number
+      options: []
+      required: false

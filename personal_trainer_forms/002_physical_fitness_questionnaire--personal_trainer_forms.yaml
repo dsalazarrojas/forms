@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Fitness Questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: activity_level
+      label: activity_level
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 5
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: exercise_type
+      label: exercise_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: medication
+      label: medication
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: medical_tests
+      label: medical_tests
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 19
+      name: medical_procedures
+      label: medical_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: doctor_visits
+      label: doctor_visits
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hospital_visits
+      label: hospital_visits
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 24
+      name: hospital_name
+      label: hospital_name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

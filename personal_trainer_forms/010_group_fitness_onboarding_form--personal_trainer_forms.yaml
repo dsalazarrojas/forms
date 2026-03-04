@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Fitness Onboarding Form
+    pages:
+    - id: 1
+      name: new_member_info
+      label: New Member Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Partner
+      - Other
+      required: true
+    - id: 4
+      name: emergency_contact_relationship_other
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_line1
+      label: Line 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address_line2
+      label: Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      required: true
+    - id: 10
+      name: address_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: address_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship_other_description
+      label: Other Emergency Contact Relationship Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone_extension
+      label: Emergency Contact Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone_alternate
+      label: Emergency Contact Phone (Alternate)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship_other_details
+      label: Emergency Contact Relationship Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship_other_notes
+      label: Emergency Contact Relationship Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship_other_email
+      label: Emergency Contact Relationship Other Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship_other_phone
+      label: Emergency Contact Relationship Other Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_relationship_other_relationship
+      label: Emergency Contact Relationship Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship_other_name
+      label: Emergency Contact Relationship Other Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship_other_relationship_details
+      label: Emergency Contact Relationship Other Relationship Details
+      hint: null
+      type: text
+      options: []
+      required: false

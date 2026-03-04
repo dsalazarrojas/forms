@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Survey Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_quality
+      label: Service Quality
+      hint: On a scale of 1-5, how satisfied are you with the service provided?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_quality_2
+      label: Service Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pharmacist_availability
+      label: Pharmacist Availability
+      hint: How available was the pharmacist during your visit?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pharmacist_knowledge
+      label: Pharmacist Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication
+      label: Communication
+      hint: How would you rate the communication from the pharmacist?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: prescription_quality
+      label: Prescription Quality
+      hint: How confident are you in the accuracy of the prescription?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up Care
+      hint: How satisfied are you with follow-up care?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: recommendations
+      label: Recommendations
+      hint: Were you offered any recommendations during your visit?
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''No answer provided''}'
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Information
+      hint: Would you like to be contacted for follow-up purposes?
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone number''}'
+      - '{''label'': ''Address''}'
+      - '{''label'': ''No contact information''}'
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

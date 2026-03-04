@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Post Event Feedback Poll
+    pages:
+    - id: 1
+      name: event_id
+      label: Event Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Low
+      - Very Low
+      required: false
+    - id: 8
+      name: vendor_id
+      label: Vendor Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 15
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_action_taken
+      label: Improvement Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: improvement_note
+      label: Improvement Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: improvement_status
+      label: Improvement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 22
+      name: improvement_due_date
+      label: Improvement Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: improvement_follow_up_note
+      label: Improvement Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vendor_comments
+      label: Vendor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Cancelled
+      - Pending
+      required: false
+    - id: 26
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 28
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false

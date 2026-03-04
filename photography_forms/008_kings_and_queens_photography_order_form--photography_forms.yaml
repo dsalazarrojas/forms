@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: kings_and_queens_photography_order_form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: photography_packages
+      label: Photography Packages
+      hint: null
+      type: select_multiple
+      options:
+      - Package 1
+      - Package 2
+      - Package 3
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: 123 456 7890
+      type: text
+      options: []
+      required: true

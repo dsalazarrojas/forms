@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Ideas For Loved Ones
+    pages:
+    - id: 1
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_age
+      label: recipient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: recipient_interests
+      label: recipient_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Gift Ideas
+      - Hobby
+      - Hobby
+      - Hobby
+      - Hobby
+      - Hobby
+      required: true
+    - id: 4
+      name: recipient_budget
+      label: recipient_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recipient_budget_type
+      label: recipient_budget
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Gift
+      - Other
+      required: true
+    - id: 6
+      name: gift_suggestion
+      label: gift_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Update Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: invoice_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Overdue
+      - Pending
+      - Cancelled
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 11
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

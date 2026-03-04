@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Journal Entry Form
+    pages:
+    - id: 1
+      name: personal_journal_entry_form
+      label: personal_jounal_entry_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry_date
+      label: entry_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: entry_time
+      label: entry_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: entry_content
+      label: entry_content_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tags
+      label: tags_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

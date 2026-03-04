@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Authorization Form
+    pages:
+    - id: 1
+      name: employee_header
+      label: -- Employee Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: Your organizational employee number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_email
+      label: Email Address
+      hint: Your work email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: employee_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authorization_header
+      label: -- Vaccination Authorization --
+      hint: Please indicate your choice regarding COVID-19 vaccination
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_election
+      label: I Authorize COVID-19 Vaccination at Workplace
+      hint: Do you authorize company-provided vaccination
+      type: select_one
+      options:
+      - Yes, I authorize vaccination
+      - No, I decline vaccination
+      - I am unsure
+      required: true
+    - id: 10
+      name: preferred_vaccination_date
+      label: Preferred Vaccination Date
+      hint: When would you prefer to be vaccinated
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vaccine_type_preference
+      label: Vaccine Type Preference if Available
+      hint: Your preferred vaccine option
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No Preference
+      - Other
+      required: false
+    - id: 12
+      name: medical_header
+      label: -- Medical Information --
+      hint: Important health information for your safety
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Known Allergies to Vaccine Components
+      hint: List any allergies to vaccine ingredients
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: List any relevant health conditions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: immunocompromised
+      label: Are You Immunocompromised
+      hint: Do you have a compromised immune system
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: pregnancy_status
+      label: Are You Pregnant or Breastfeeding
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+      - Pregnant
+      - Breastfeeding
+      - Neither
+      - Prefer Not to Say
+      required: false
+    - id: 18
+      name: recent_covid
+      label: Have You Had COVID-19 in the Last 90 Days
+      hint: Recent COVID-19 infection status
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: declination_header
+      label: -- Declination Statement --
+      hint: If declining, please provide reason
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: declination_reason
+      label: If Declining, Reason for Declination
+      hint: Why are you declining the vaccine
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_date
+      label: Date of Authorization
+      hint: Date you are signing this form
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: acknowledgment
+      label: I Acknowledge I Have Read and Understand This Form
+      hint: I agree to the terms in this authorization
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - I do not agree
+      required: true

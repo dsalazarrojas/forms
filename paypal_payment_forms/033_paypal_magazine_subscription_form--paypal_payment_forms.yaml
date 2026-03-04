@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_magazine_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_duration
+      label: Subscription duration
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: subscription_frequency
+      label: Subscription frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: time
+      options: []
+      required: false

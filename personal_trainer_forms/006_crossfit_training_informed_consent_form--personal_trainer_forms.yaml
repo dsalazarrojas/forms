@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: crossfit-training-informed-consent-form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: disclaimer_notice
+      label: Disclaimer Notice
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_info
+      label: Participant Information
+      hint: Please provide the following information about yourself.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Email
+      hint: A valid email address.
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Phone
+      hint: A valid phone number.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_address
+      label: Address
+      hint: A valid address.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: true
+    - id: 8
+      name: participant_name
+      label: Participant Name
+      hint: A valid name.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: A valid date of birth.
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participant_date_of_birth_certification
+      label: Date of Birth Certification
+      hint: null
+      type: select_one
+      options:
+      - Birth Certificate
+      - Passport
+      - ID Card
+      required: true
+    - id: 11
+      name: participant_physical_address
+      label: Participant Physical Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trainer_name
+      label: Trainer Name
+      hint: A valid name.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trainer_signature
+      label: Trainer Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Trainer Signature 1
+      - Trainer Signature 2
+      - Trainer Signature 3
+      required: true
+    - id: 14
+      name: trainer_phone
+      label: Phone
+      hint: A valid phone number.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trainer_address
+      label: Address
+      hint: A valid address.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trainer_name
+      label: Trainer Name
+      hint: A valid name.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trainer_date_of_birth
+      label: Date of Birth
+      hint: A valid date of birth.
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: trainer_date_of_birth_certification
+      label: Date of Birth Certification
+      hint: null
+      type: select_one
+      options:
+      - Birth Certificate
+      - Passport
+      - ID Card
+      required: true
+    - id: 19
+      name: trainer_physical_address
+      label: Trainer Physical Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_acknowledgement
+      label: Participant Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge that I have read and understood the information and instructions
+        provided.
+      - I have not read and do not understand the information and instructions provided.
+      required: true
+    - id: 21
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree to the terms of this agreement.
+      - I do not understand and do not agree to the terms of this agreement.
+      required: true
+    - id: 22
+      name: participant_waiver
+      label: Participant Waiver
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

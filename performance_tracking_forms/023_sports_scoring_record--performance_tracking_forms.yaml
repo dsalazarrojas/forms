@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Scoring Record
+    pages:
+    - id: 1
+      name: sports_scoring_record_form
+      label: Sports Scoring Record Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sport_name
+      label: Sport Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_date
+      label: Game Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: game_time
+      label: Game Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team1_score
+      label: Team 1 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team2_score
+      label: Team 2 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team1_players
+      label: Team 1 Players
+      hint: List of Team 1 Players
+      type: select_multiple
+      options:
+      - Player 1
+      - Player 2
+      - Player 3
+      required: false
+    - id: 9
+      name: team2_players
+      label: Team 2 Players
+      hint: List of Team 2 Players
+      type: select_multiple
+      options:
+      - Player 4
+      - Player 5
+      - Player 6
+      required: false
+    - id: 10
+      name: game_details
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: season
+      label: Season
+      hint: null
+      type: select_one
+      options:
+      - Season 1
+      - Season 2
+      - Season 3
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: season_end_date
+      label: Season End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: season_start_date
+      label: Season Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: game_number
+      label: Game Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: referee_location
+      label: Referee Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: game_duration
+      label: Game Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: referee_1_id
+      label: Referee 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referee_1_name
+      label: Referee 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referee_2_id
+      label: Referee 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: referee_2_name
+      label: Referee 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: league_id
+      label: League ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team1_score_diff
+      label: Team 1 Score Difference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: team2_score_diff
+      label: Team 2 Score Difference
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Boot Camp Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_type
+      label: Membership Type
+      hint: Select one or more membership types
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: class_time
+      label: Class Time
+      hint: Select class time
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 11
+      name: membership_start_date
+      label: Membership Start Date
+      hint: Select start date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: membership_end_date
+      label: Membership End Date
+      hint: Select end date
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Questionnaire
+    pages:
+    - id: 1
+      name: page1
+      label: Introduction
+      hint: This will help us understand your eligibility for the Mpox vaccine.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: true
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 5
+      name: previous_vaccination
+      label: Previous Vaccination
+      hint: Please select all previous vaccinations that apply
+      type: select_multiple
+      options:
+      - mpox
+      - other
+      required: true
+    - id: 6
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - vaccinated
+      - not vaccinated
+      - waiting
+      required: true
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: Select all symptoms that apply
+      type: select_multiple
+      options:
+      - fever
+      - headache
+      - cough
+      - fatigue
+      required: true
+    - id: 8
+      name: previous_contact
+      label: Previous Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 9
+      name: contact_status
+      label: Contact Status
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 10
+      name: exposure_risk
+      label: Exposure Risk
+      hint: Please select all exposure risks that apply
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: true
+    - id: 11
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 12
+      name: sexually_active
+      label: Sexually Active
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 13
+      name: sexually_active_with
+      label: Sexually Active with
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: sexually_active_with_type
+      label: Sexually Active with type
+      hint: Please select all types of sexually active
+      type: select_multiple
+      options:
+      - mpox
+      - other
+      required: true
+    - id: 15
+      name: mpox_vaccinated
+      label: Mpox Vaccinated
+      hint: Please select all vaccinations that apply
+      type: select_multiple
+      options:
+      - mpox
+      - other
+      required: true
+    - id: 16
+      name: mpox_tested_positive
+      label: Mpox Tested Positive
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 17
+      name: contact_type
+      label: Contact Type
+      hint: Please select all contact types that apply
+      type: select_multiple
+      options:
+      - mpox
+      - other
+      required: true
+    - id: 18
+      name: contact_source
+      label: Contact Source
+      hint: null
+      type: select_multiple
+      options:
+      - mpox
+      - other
+      required: true
+    - id: 19
+      name: exposure_date
+      label: Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: exposure_start_date
+      label: Exposure Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: exposure_end_date
+      label: Exposure End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: vaccination_dosage
+      label: Vaccination Dosage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: vaccination_status_2
+      label: Vaccination Status 2
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 25
+      name: mpox_vaccination_status
+      label: Mpox Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true

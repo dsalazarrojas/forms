@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restoration Project Voting Form
+    pages:
+    - id: 1
+      name: project_title
+      label: What is the project title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: What is the project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_initiatives
+      label: Select initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_initiatives_1
+      label: init 1
+      hint: null
+      type: select_one
+      options:
+      - init_1
+      - init_2
+      - init_3
+      required: false
+    - id: 5
+      name: project_initiatives_2
+      label: init 2
+      hint: null
+      type: select_one
+      options:
+      - init_4
+      - init_5
+      - init_6
+      required: false
+    - id: 6
+      name: project_rating
+      label: What is your rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_rating_1
+      label: rating 1
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: project_comments
+      label: What are your comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: project_note
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

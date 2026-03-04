@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Church Donation Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 4
+      name: currency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time donation
+      - Regular donation
+      - Subscription
+      required: true
+    - id: 6
+      name: donation_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

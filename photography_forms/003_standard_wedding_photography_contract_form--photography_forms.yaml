@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Wedding Photography Contract Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ceremony_details
+      label: Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reception_details
+      label: Reception Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photo_package
+      label: Photo Package
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Deluxe
+      - Premium
+      required: true
+    - id: 5
+      name: wedding_details
+      label: Wedding Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: true

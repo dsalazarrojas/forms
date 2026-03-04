@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recording Quality Assessment
+    pages:
+    - id: 1
+      name: audio_quality
+      label: Audio Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: time_synchronized
+      label: Time Synchronized
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 3
+      name: sound_volume
+      label: Sound Volume
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 4
+      name: audio_clarity
+      label: Audio Clarity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Clear''}'
+      - '{''label'': ''Distorted''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 5
+      name: background_noise
+      label: Background Noise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 6
+      name: speaker_speech
+      label: Speaker Speech
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Clear''}'
+      - '{''label'': ''Hard to Understand''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: audio_speed
+      label: Audio Speed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fast''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Slow''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments you may have about this recording.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: recording_format
+      label: Recording Format
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''MP3''}'
+      - '{''label'': ''WAV''}'
+      - '{''label'': ''MP4''}'
+      - '{''label'': ''Wav''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false

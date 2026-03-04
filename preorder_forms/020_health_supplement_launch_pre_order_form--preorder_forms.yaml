@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-supplement-launch-pre-order-form
+    pages:
+    - id: 1
+      name: pre_order_details
+      label: Paid Pre-Orders
+      hint: null
+      type: select_multiple
+      options:
+      - Paid Pre-Order
+      - Pre-Order with Payment
+      required: true
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 8
+      name: preorder_amount
+      label: preorder_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: preorder_price
+      label: preorder_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Cash
+      required: true
+    - id: 11
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false

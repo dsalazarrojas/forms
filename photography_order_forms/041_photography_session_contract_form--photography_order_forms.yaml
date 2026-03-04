@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_session_contract_form
+    pages:
+    - id: 1
+      name: photography_session
+      label: Photography Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: theme
+      label: Theme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assistant
+      label: Assistant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photography_license
+      label: Photography License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: copyright
+      label: Copyright
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: print_rights
+      label: Print Rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: online_rights
+      label: Online Rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

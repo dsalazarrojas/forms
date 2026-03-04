@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form PayPal Checkout
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for receipt
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any health conditions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: Include food, insect, medication
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 18
+      name: camp_session
+      label: Camp Session Selection
+      hint: Choose your session
+      type: select_one
+      options:
+      - Session 1 - June 15-19 - $299
+      - Session 2 - June 22-26 - $299
+      - Session 3 - July 6-10 - $349
+      - Session 4 - July 13-17 - $349
+      - Session 5 - July 20-24 - $299
+      - Full Summer - All sessions - $1399
+      required: true
+    - id: 19
+      name: before_camp_care
+      label: Before Camp Care
+      hint: Early drop-off 7am-9am - $25 per week
+      type: select_one
+      options:
+      - No - $0
+      - Yes - some days - $25
+      - Yes - all days - $50
+      required: false
+    - id: 20
+      name: after_camp_care
+      label: After Camp Care
+      hint: Late pickup 4pm-6pm - $25 per week
+      type: select_one
+      options:
+      - No - $0
+      - Yes - some days - $25
+      - Yes - all days - $50
+      required: false
+    - id: 21
+      name: transportation
+      label: Transportation Service
+      hint: Bus service - $40 per week
+      type: select_one
+      options:
+      - No - $0
+      - Yes - morning only - $40
+      - Yes - afternoon only - $40
+      - Yes - both ways - $75
+      required: true
+    - id: 22
+      name: camp_tshirt
+      label: Camp T-Shirt
+      hint: Optional camp shirt - $15
+      type: select_one
+      options:
+      - No thanks
+      - Yes - Youth Small
+      - Yes - Youth Medium
+      - Yes - Youth Large
+      - Yes - Adult Small
+      - Yes - Adult Medium
+      - Yes - Adult Large
+      - Yes - Adult XL
+      required: false
+    - id: 23
+      name: total_amount
+      label: Total Amount Due
+      hint: Calculated total
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: Secure PayPal checkout
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card via PayPal
+      - Debit Card via PayPal
+      required: true
+    - id: 25
+      name: paypal_email
+      label: PayPal Email Address
+      hint: Email for PayPal payment
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: payment_authorization
+      label: Payment Authorization
+      hint: I authorize the charge to my PayPal account
+      type: select_one
+      options:
+      - Yes - I authorize payment
+      - false
+      required: true
+    - id: 28
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the camp terms
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 29
+      name: cancellation_policy_acknowledged
+      label: Cancellation Policy Acknowledged
+      hint: I have read the cancellation policy
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - false
+      required: true
+    - id: 30
+      name: how_heard_about_camp
+      label: How Did You Hear About This Camp
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School flyer
+      - Friend or family
+      - Social media
+      - Website
+      - Previous attendee
+      - Community event
+      - Advertisement
+      - Other
+      required: false

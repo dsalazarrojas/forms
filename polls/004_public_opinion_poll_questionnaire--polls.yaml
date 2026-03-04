@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_opinion_poll_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your favorite color?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''red''}'
+      - '{''id'': 2, ''label'': ''blue''}'
+      - '{''id'': 3, ''label'': ''green''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: How many years have you lived in this city?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: Please provide your contact details for follow up purposes
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_contact_details
+      label: Other contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_3
+      label: What is your favorite season?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''summer''}'
+      - '{''id'': 2, ''label'': ''winter''}'
+      - '{''id'': 3, ''label'': ''spring''}'
+      - '{''id'': 4, ''label'': ''autumn''}'
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of birth
+      hint: Please enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_day
+      label: Time of day
+      hint: Please enter time of day
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_4
+      label: How tall are you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: question_5
+      label: What is the name of your favorite food?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_6
+      label: What is your favorite hobby?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_7
+      label: How long have you been in contact with our organization?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''less than a month''}'
+      - '{''id'': 2, ''label'': ''more than a month but less than a year''}'
+      - '{''id'': 3, ''label'': ''more than a year''}'
+      required: false
+    - id: 16
+      name: question_8
+      label: What is the name of your favorite movie?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question_9
+      label: How many languages do you speak?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: question_10
+      label: What is your height in cm?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: question_11
+      label: What is your favorite music genre?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''classical''}'
+      - '{''id'': 2, ''label'': ''pop''}'
+      - '{''id'': 3, ''label'': ''rock''}'
+      - '{''id'': 4, ''label'': ''jazz''}'
+      required: false
+    - id: 20
+      name: question_12
+      label: What is your favorite sport?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''basketball''}'
+      - '{''id'': 2, ''label'': ''soccer''}'
+      - '{''id'': 3, ''label'': ''tennis''}'
+      - '{''id'': 4, ''label'': ''volleyball''}'
+      required: false
+    - id: 21
+      name: question_13
+      label: What is your favorite color?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''red''}'
+      - '{''id'': 2, ''label'': ''blue''}'
+      - '{''id'': 3, ''label'': ''green''}'
+      required: false
+    - id: 22
+      name: question_14
+      label: What is the number of your favorite number?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question_15
+      label: What is the name of your favorite book?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_16
+      label: What is your favorite food?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

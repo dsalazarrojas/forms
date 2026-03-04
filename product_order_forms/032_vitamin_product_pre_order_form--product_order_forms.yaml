@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vitamin Product Pre Order Form
+    pages:
+    - id: 1
+      name: product_pre_order_form
+      label: Early Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''Delivery Date'': ''Within 1 day''}'
+      - '{''Delivery Date'': ''Within 2-3 days''}'
+      - '{''Delivery Date'': ''Within 4-7 days''}'
+      required: false
+    - id: 3
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_details
+      label: Product Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

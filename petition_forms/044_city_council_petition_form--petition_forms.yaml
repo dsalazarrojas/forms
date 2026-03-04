@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Council Petition Form
+    pages:
+    - id: 1
+      name: section_header_petition_info
+      label: -- Petition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petition_title
+      label: Petition Title
+      hint: Brief, clear title of your petition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: petition_description
+      label: Detailed Description of Petition
+      hint: Explain what you are asking for and why
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_council_members
+      label: Target City Council Members or Departments
+      hint: Who should address this issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_header_organizer
+      label: -- Petition Organizer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organizer_name
+      label: Organizer Name
+      hint: Person leading this petition
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organizer_address
+      label: Organizer Address
+      hint: Confirm community residency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_petition_category
+      label: -- Petition Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: petition_category
+      label: Petition Category
+      hint: null
+      type: select_one
+      options:
+      - Infrastructure and services
+      - Safety and law enforcement
+      - Parks and recreation
+      - Education
+      - Planning and development
+      - Environmental issues
+      - Social justice
+      - Budget and spending
+      - Transportation
+      - Other
+      required: true
+    - id: 12
+      name: section_header_impact
+      label: -- Impact and Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: affected_community
+      label: Community or Neighborhoods Affected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: estimated_beneficiaries
+      label: Estimated Number of People Affected
+      hint: null
+      type: select_one
+      options:
+      - Small group (10-50 people)
+      - Neighborhood (50-500 people)
+      - Multiple neighborhoods (500-5000 people)
+      - Entire city
+      - Regional impact
+      required: false
+    - id: 15
+      name: section_header_evidence
+      label: -- Supporting Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: supporting_documents
+      label: Attach Supporting Documents
+      hint: Studies, data, photos, letters of support
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_attempts
+      label: Previous Attempts to Address This Issue
+      hint: Have you contacted officials or taken other action
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_solution
+      label: -- Proposed Solution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: proposed_action
+      label: Specific Action Requested from Council
+      hint: What exactly should the city council do
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: solution_details
+      label: How Would This Solve the Problem
+      hint: Explain the expected outcomes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: timeline_needed
+      label: Timeline for Implementation
+      hint: When should this be addressed
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - No specific timeline
+      required: false
+    - id: 22
+      name: section_header_support
+      label: -- Support and Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: current_supporters
+      label: Number of Current Supporters
+      hint: How many people have signed so far
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: support_goal
+      label: Support Goal (Target Signatures)
+      hint: How many signatures are you seeking
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: allies_partners
+      label: Partner Organizations or Allies
+      hint: Any groups supporting this petition
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: funding_needed
+      label: Any Funding Needed for Implementation
+      hint: Estimated cost if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: follow_up_contact
+      label: Permission to Follow Up About This Petition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_night_check_in_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event_type1'', ''label'': ''Event Type 1''}'
+      - '{''id'': 2, ''name'': ''event_type2'', ''label'': ''Event Type 2''}'
+      - '{''id'': 3, ''name'': ''event_type3'', ''label'': ''Event Type 3''}'
+      required: false
+    - id: 13
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_entrance_fee
+      label: Entrance Fee
+      hint: null
+      type: number
+      options: []
+      required: false

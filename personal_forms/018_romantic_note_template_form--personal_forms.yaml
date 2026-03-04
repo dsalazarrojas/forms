@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Romantic Note Template Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event
+      label: event
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      - '{''id'': 3, ''name'': ''val3'', ''label'': ''val3''}'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: recipient
+      label: recipient
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: recipient_phone
+      label: recipient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: send_message
+      label: Send Message
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': True}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': False}'
+      required: true
+    - id: 11
+      name: message_sent
+      label: message_sent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: message_status
+      label: message_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 14
+      name: send_status
+      label: send_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 15
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 16
+      name: notes_type
+      label: notes_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 17
+      name: notes_date
+      label: notes_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes_time
+      label: notes_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: notes_message
+      label: notes_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes_message_status
+      label: notes_message_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 21
+      name: notes_status
+      label: notes_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 22
+      name: notes_type_status
+      label: notes_type_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false
+    - id: 25
+      name: signature_status
+      label: signature_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''val1'', ''label'': ''val1''}'
+      - '{''id'': 2, ''name'': ''val2'', ''label'': ''val2''}'
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid PCR Test Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: ordering_provider_name
+      label: Ordering Provider Name
+      hint: Full name and credentials
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_license_number
+      label: Provider License Number
+      hint: State medical license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: clinic_name
+      label: Clinic or Practice Name
+      hint: Healthcare facility name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clinic_phone
+      label: Clinic Phone
+      hint: Office phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: clinic_email
+      label: Clinic Email
+      hint: For order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_sex
+      label: Patient Sex at Birth
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_email
+      label: Patient Email
+      hint: For result notification
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: patient_race
+      label: Patient Race
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Other Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: patient_ethnicity
+      label: Patient Ethnicity
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 15
+      name: test_type_ordered
+      label: Test Type Ordered
+      hint: Select test type
+      type: select_one
+      options:
+      - Rapid PCR Test
+      - Standard PCR Test
+      - Antigen Test
+      - Antibody Test
+      required: true
+    - id: 16
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: Number of tests
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Insurance
+      - HSA/FSA Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_state
+      label: Billing State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_address_same_as_billing
+      label: Is shipping address the same as billing
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: shipping_address
+      label: Shipping Address
+      hint: Where to ship test kits
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipping_city
+      label: Shipping City
+      hint: City for delivery
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipping_state
+      label: Shipping State
+      hint: State for delivery
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: shipping_zip
+      label: Shipping ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special delivery or handling instructions
+      type: text
+      options: []
+      required: false

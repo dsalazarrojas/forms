@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Photo Release Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Please provide an email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_capture
+      label: Date of Capture
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_description
+      label: Photo Description
+      hint: A brief description of the photo
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Event
+      - Event & General
+      required: false
+    - id: 7
+      name: release_term
+      label: Release Term
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: Please sign below
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: text
+      options: []
+      required: false

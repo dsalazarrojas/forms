@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Light Control Console Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: console_type
+      label: console-type
+      hint: null
+      type: select_one
+      options:
+      - Console 1
+      - Console 2
+      - Console 3
+      required: false
+    - id: 10
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - user123
+      - user456
+      required: false
+    - id: 12
+      name: assigned_tool_2
+      label: assigned-tool-2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_tool_3
+      label: assigned-tool-3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: console_booking_status
+      label: console-booking-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

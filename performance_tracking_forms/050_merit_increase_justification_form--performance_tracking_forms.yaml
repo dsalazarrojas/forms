@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Merit Increase Justification Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: salary_increase
+      label: Salary Increase
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_review
+      label: Manager Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_position
+      label: Reviewer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_approval
+      label: Reviewer Approval
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 17
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false

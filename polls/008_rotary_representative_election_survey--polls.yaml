@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rotary Representative Election Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Rotary Representative Election Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominations
+      label: Nominations
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''nomination1'', ''value'': ''value1''}'
+      - '{''name'': ''nomination2'', ''value'': ''value2''}'
+      required: false
+    - id: 5
+      name: nomination_2
+      label: Nomination 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''value1'', ''label'': ''Nomination 1''}'
+      - '{''value'': ''value2'', ''label'': ''Nomination 2''}'
+      - '{''value'': ''value3'', ''label'': ''Nomination 3''}'
+      required: false
+    - id: 6
+      name: vote_for
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''value1'', ''label'': ''Candidate 1''}'
+      - '{''name'': ''value2'', ''label'': ''Candidate 2''}'
+      - '{''name'': ''value3'', ''label'': ''Candidate 3''}'
+      required: false
+    - id: 7
+      name: vote_weight
+      label: Vote Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

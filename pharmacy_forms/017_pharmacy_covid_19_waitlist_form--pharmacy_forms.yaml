@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy COVID 19 Waitlist Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''French''}'
+      required: true
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In Person''}'
+      required: false
+    - id: 7
+      name: pharmacy_name
+      label: Pharmacy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: text
+      options: []
+      required: false

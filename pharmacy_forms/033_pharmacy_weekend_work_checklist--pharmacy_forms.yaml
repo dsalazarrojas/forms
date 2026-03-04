@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Weekend Work Checklist
+    pages:
+    - id: 1
+      name: weekend_work_checklist_form_1
+      label: Work Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: weekend_work_checklist_form_2
+      label: Safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: weekend_work_checklist_form_3
+      label: Emergency Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 4
+      name: weekend_work_checklist_form_4
+      label: Tasks Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: weekend_work_checklist_form_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: weekend_work_checklist_form_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: weekend_work_checklist_form_7
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: weekend_workchecklist_form_8
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weekend_workchecklist_form_9
+      label: Tasks Left
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: weekend_workchecklist_form_10
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: weekend_workchecklist_form_11
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: weekend_workchecklist_form_12
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: false

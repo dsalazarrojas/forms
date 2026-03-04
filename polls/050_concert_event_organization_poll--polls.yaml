@@ -1,0 +1,275 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Event Organization Poll
+    pages:
+      - id: 1
+        name: poll_id
+        label: Poll ID
+        hint: Unique poll identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: poll_date
+        label: Poll Date
+        hint: Date of poll response
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: age_range
+        label: Age Range
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or Older
+        required: true
+      - id: 6
+        name: location
+        label: Location
+        hint: City or area where you live
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: concert_attendance_frequency
+        label: Concert Attendance Frequency
+        hint: How often do you attend concerts
+        type: select_one
+        options:
+          - Multiple Times Per Month
+          - Once a Month
+          - Few Times a Year
+          - Once a Year
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: preferred_genres
+        label: Preferred Music Genres
+        hint: Select your favorite genres
+        type: select_multiple
+        options:
+          - Rock
+          - Pop
+          - Hip Hop
+          - R and B
+          - Country
+          - Jazz
+          - Classical
+          - Electronic or EDM
+          - Metal
+          - Indie or Alternative
+          - Latin
+          - K-Pop
+          - Other
+        required: true
+      - id: 9
+        name: favorite_artists
+        label: Favorite Artists
+        hint: List your favorite artists or bands
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: preferred_venue_size
+        label: Preferred Venue Size
+        hint: What size venue do you prefer
+        type: select_one
+        options:
+          - Small Club (Under 500)
+          - Medium Venue (500 to 2000)
+          - Large Theater (2000 to 5000)
+          - Arena (5000 to 20000)
+          - Stadium (20000 Plus)
+          - Outdoor Festival
+        required: true
+      - id: 11
+        name: preferred_venue_location
+        label: Preferred Venue Location
+        hint: Where would you prefer venues
+        type: select_one
+        options:
+          - Downtown
+          - Suburbs
+          - Near Public Transit
+          - Near Parking
+          - No Preference
+        required: true
+      - id: 12
+        name: preferred_day
+        label: Preferred Day
+        hint: Which day do you prefer
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 13
+        name: preferred_time
+        label: Preferred Start Time
+        hint: What time should shows start
+        type: select_one
+        options:
+          - Afternoon (2 PM to 5 PM)
+          - Early Evening (5 PM to 7 PM)
+          - Evening (7 PM to 9 PM)
+          - Late Night (9 PM Plus)
+        required: true
+      - id: 14
+        name: ticket_price_range
+        label: Ticket Price Range
+        hint: What would you typically spend
+        type: select_one
+        options:
+          - Under $25
+          - $25 to $50
+          - $50 to $100
+          - $100 to $200
+          - $200 to $500
+          - Over $500 for VIP
+        required: true
+      - id: 15
+        name: purchase_timing
+        label: Purchase Timing
+        hint: When do you typically buy tickets
+        type: select_one
+        options:
+          - Presale
+          - On Sale Day
+          - Within First Week
+          - Few Weeks Before
+          - Last Minute
+        required: true
+      - id: 16
+        name: important_factors
+        label: Important Factors
+        hint: What matters most when attending
+        type: select_multiple
+        options:
+          - Artist Lineup
+          - Ticket Price
+          - Venue Location
+          - Date and Time
+          - Sound Quality
+          - Seating Options
+          - Food and Beverage
+          - Parking Availability
+          - Safety and Security
+        required: true
+      - id: 17
+        name: merchandise_interest
+        label: Merchandise Interest
+        hint: Do you buy concert merchandise
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 18
+        name: food_beverage_interest
+        label: Food and Beverage Interest
+        hint: Do you purchase at venues
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: festival_interest
+        label: Festival Interest
+        hint: Would you attend a music festival
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: festival_duration
+        label: Preferred Festival Duration
+        hint: How long should a festival be
+        type: select_one
+        options:
+          - Single Day
+          - Two Days
+          - Three Days
+          - Week Long
+        required: false
+      - id: 21
+        name: vip_upgrade_interest
+        label: VIP Upgrade Interest
+        hint: Would you pay for VIP experience
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 22
+        name: notification_preference
+        label: Notification Preference
+        hint: How do you want to hear about events
+        type: select_multiple
+        options:
+          - Email
+          - Text Message
+          - Social Media
+          - Mobile App
+          - Website
+          - Friend Referral
+        required: false
+      - id: 23
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other preferences or suggestions
+        type: text
+        options: []
+        required: false

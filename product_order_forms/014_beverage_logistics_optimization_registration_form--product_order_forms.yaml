@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Logistics Optimization Registration Form
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Beverage company or distributor name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Small (1-50 employees)
+      - Medium (51-250 employees)
+      - Large (251-1000 employees)
+      - Enterprise (1000+ employees)
+      required: true
+    - id: 4
+      name: registration_contact
+      label: Registration Contact Person
+      hint: Name of key logistics contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_logistics
+      label: -- Current Logistics Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: distribution_centers
+      label: Number of Distribution Centers
+      hint: How many distribution facilities?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_volume
+      label: Annual Beverage Volume Processed
+      hint: Approximate cases or units per year
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_radius
+      label: Typical Delivery Radius
+      hint: Geographic coverage area
+      type: select_one
+      options:
+      - Local (single city)
+      - Regional (multiple states)
+      - National
+      - International
+      required: true
+    - id: 11
+      name: logistics_partners
+      label: Current Logistics Partners
+      hint: Third-party logistics providers used
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fleet_size
+      label: Delivery Fleet Size
+      hint: Approximate number of vehicles
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_challenges
+      label: -- Current Logistics Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: main_challenges
+      label: Main Logistics Challenges
+      hint: What are your biggest issues (Select all that apply)?
+      type: select_multiple
+      options:
+      - Route inefficiency
+      - Vehicle utilization
+      - Delivery time delays
+      - Cost overruns
+      - Inventory management
+      - Cold chain maintenance
+      - Driver shortages
+      - Technology limitations
+      required: true
+    - id: 15
+      name: cost_percentage
+      label: Logistics Costs as Percentage of Revenue
+      hint: Approximate percentage
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: on_time_rate
+      label: Current On-Time Delivery Rate
+      hint: Percentage of deliveries on time
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_goals
+      label: -- Optimization Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_objectives
+      label: Primary Optimization Objectives
+      hint: What do you want to improve (Select all that apply)?
+      type: select_multiple
+      options:
+      - Reduce delivery costs
+      - Improve on-time delivery
+      - Increase fleet utilization
+      - Reduce emissions/sustainability
+      - Improve inventory accuracy
+      - Faster delivery times
+      - Better customer communication
+      - Data visibility
+      required: true
+    - id: 19
+      name: target_cost_reduction
+      label: Target Cost Reduction Percentage
+      hint: What is your cost reduction goal?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you need results?
+      type: select_one
+      options:
+      - Immediate - within 1 month
+      - Short-term - 1-3 months
+      - Medium-term - 3-6 months
+      - Long-term - 6+ months
+      required: true
+    - id: 21
+      name: section_header_technology
+      label: -- Technology & Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: current_systems
+      label: Current Technology Systems
+      hint: What systems do you currently use (Select all that apply)?
+      type: select_multiple
+      options:
+      - ERP system
+      - Route planning software
+      - GPS tracking
+      - Inventory management system
+      - Manual processes
+      - Legacy systems
+      - No centralized system
+      required: true
+    - id: 23
+      name: data_integration
+      label: Can You Share Logistics Data
+      hint: Ability to provide order and route data?
+      type: select_one
+      options:
+      - Yes, real-time data access
+      - Yes, periodic reports
+      - Limited data sharing
+      - No data sharing capability
+      required: true
+    - id: 24
+      name: section_header_requirements
+      label: -- Project Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: cold_chain_critical
+      label: Is Cold Chain Compliance Critical
+      hint: Temperature-controlled requirements?
+      type: select_one
+      options:
+      - Yes, all products
+      - Yes, some products
+      - false
+      required: true
+    - id: 26
+      name: sustainability_focus
+      label: Sustainability Requirements
+      hint: Is eco-friendliness important?
+      type: select_one
+      options:
+      - Critical priority
+      - Important consideration
+      - Nice to have
+      - Not a priority
+      required: false
+    - id: 27
+      name: regulatory_compliance
+      label: Special Regulatory or Compliance Needs
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: budget_range
+      label: Optimization Project Budget Range
+      hint: What can you allocate?
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - Over $500,000
+      required: true
+    - id: 29
+      name: success_metrics
+      label: How Will Success Be Measured
+      hint: Key performance indicators
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_information
+      label: Additional Information or Context
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

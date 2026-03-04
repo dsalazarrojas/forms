@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: FHPR Cat Adoption Application
+    pages:
+    - id: 1
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: adoption_reason
+      label: Adoption Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: adoption_type
+      label: Adoption Type
+      hint: null
+      type: select_one
+      options:
+      - Primary Pet
+      - Secondary Pet
+      required: true
+    - id: 16
+      name: adoption_status
+      label: Adoption Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      required: true
+    - id: 17
+      name: other_details
+      label: Other Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: declaration_text
+      label: Declaration Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: declaration_agree
+      label: Declaration Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 20
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

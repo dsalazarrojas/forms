@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Devotional Book Feedback Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reader_name
+      label: Reader Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: Rate the book from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_likert
+      label: Likers
+      hint: Select which likers you liked
+      type: select_multiple
+      options:
+      - Liker 1
+      - Liker 2
+      - Liker 3
+      - Liker 4
+      - Liker 5
+      required: false
+    - id: 6
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

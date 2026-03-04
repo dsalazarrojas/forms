@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Equipment Order Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Drill
+      - Pump
+      - Generator
+      - Other
+      required: false
+    - id: 5
+      name: equipment_quantity
+      label: Equipment Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Wire Transfer
+      required: false
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

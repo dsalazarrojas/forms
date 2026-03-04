@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Torque Feedback Unit Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: purchase_type
+      label: Purchase Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: purchase_reason
+      label: Purchase Reason
+      hint: null
+      type: text
+      options: []
+      required: false

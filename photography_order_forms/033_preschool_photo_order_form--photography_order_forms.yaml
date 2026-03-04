@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Photo Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: photo_session_date
+      label: Photo Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: photo_session_time
+      label: Photo Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: photo_package
+      label: Photo Package
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Package 1'', ''value'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Package 2'', ''value'': ''Premium''}'
+      - '{''id'': 3, ''label'': ''Package 3'', ''value'': ''Deluxe''}'
+      required: false
+    - id: 8
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Studio'', ''value'': ''Studio''}'
+      - '{''id'': 2, ''label'': ''On-location'', ''value'': ''On-location''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 9
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Color'', ''value'': ''Color''}'
+      - '{''id'': 2, ''label'': ''Black and White'', ''value'': ''Black and White''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 10
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_photos
+      label: Number of Photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Standard'', ''value'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Large'', ''value'': ''Large''}'
+      - '{''id'': 3, ''label'': ''Extra Large'', ''value'': ''Extra Large''}'
+      required: false
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photo_session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

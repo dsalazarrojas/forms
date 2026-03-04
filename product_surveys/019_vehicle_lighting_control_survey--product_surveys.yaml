@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Lighting Control Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied'', ''value'': 5}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Dissatisfied'', ''value'': 2}'
+      - '{''label'': ''Very Dissatisfied'', ''value'': 1}'
+      required: true
+    - id: 3
+      name: feature_priorities
+      label: Feature Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_perceptions
+      label: Safety Perceptions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: driving_experience
+      label: Driving Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: lighting_control_system
+      label: Lighting Control System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: navigation_aid
+      label: Navigation Aid
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: adaptive_speed_limiting
+      label: Adaptive Speed Limiting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: adaptive_cruise_control
+      label: Adaptive Cruise Control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: adaptive_hill_descent
+      label: Adaptive Hill Descent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: adaptive_cruise_distance
+      label: Adaptive Cruise Distance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: adaptive_stop_and_go_assistance
+      label: Adaptive Stop and Go Assistance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: adaptive_speed_signaling
+      label: Adaptive Speed Signaling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: adaptive_traffic_light_recognition
+      label: Adaptive Traffic Light Recognition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: adaptive_lane_departure
+      label: Adaptive Lane Departure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: adaptive_merging_assistance
+      label: Adaptive Merging Assistance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: adaptive_auto_moving_assistance
+      label: Adaptive Auto-Moving Assistance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: adaptive_forward_collision_warning
+      label: Adaptive Forward Collision Warning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: adaptive_lateral_collision_warning
+      label: Adaptive Lateral Collision Warning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: adaptive_safety_assistance
+      label: Adaptive Safety Assistance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: adaptive_lane_change
+      label: Adaptive Lane Change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: adaptive_turn_assistance
+      label: Adaptive Turn Assistance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

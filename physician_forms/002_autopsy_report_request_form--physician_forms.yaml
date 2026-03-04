@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autopsy Report Request Form
+    pages:
+    - id: 1
+      name: requestor_type
+      label: Requestor Type
+      hint: Select your relationship to the decedent
+      type: select_one
+      options:
+      - Next of kin (spouse, parent, child)
+      - Extended family member
+      - Legal representative/attorney
+      - Medical professional
+      - Insurance company representative
+      - Law enforcement
+      - Research institution
+      - Other
+      required: true
+    - id: 2
+      name: requestor_full_name
+      label: Requestor Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_organization
+      label: Organization or Institution
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: We will send the report to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requestor_address
+      label: Mailing Address
+      hint: Full address for receiving physical copies
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: decedent_full_name
+      label: Decedent Full Name
+      hint: Complete name of the deceased
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: decedent_date_of_birth
+      label: Decedent Date of Birth
+      hint: Birth date of the deceased
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: decedent_date_of_death
+      label: Decedent Date of Death
+      hint: Date when the deceased passed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: decedent_place_of_death
+      label: Place of Death
+      hint: City and state or facility name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: decedent_case_number
+      label: Case or File Number
+      hint: If known, enter the autopsy case number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: decedent_mrn
+      label: Medical Record Number
+      hint: Hospital MRN if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_type_requested
+      label: Type of Report Requested
+      hint: Select the type of autopsy report needed
+      type: select_one
+      options:
+      - Full autopsy report
+      - Preliminary report
+      - Final pathology report
+      - Toxicology report only
+      - Death certificate only
+      - Complete case file
+      required: true
+    - id: 14
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why do you need this report
+      type: select_one
+      options:
+      - Personal records
+      - Legal proceedings
+      - Insurance claim
+      - Medical research
+      - Family medical history
+      - Workers compensation
+      - Other
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need the report
+      type: select_one
+      options:
+      - Routine (4-6 weeks)
+      - Expedited (2-3 weeks)
+      - Urgent (1 week)
+      - Emergency (24-48 hours)
+      required: true
+    - id: 16
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive the report
+      type: select_one
+      options:
+      - Secure email (PDF)
+      - Regular mail
+      - Certified mail
+      - Pick up in person
+      - Fax
+      required: true
+    - id: 17
+      name: number_of_copies
+      label: Number of Copies Needed
+      hint: How many copies do you require
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Any other details that may help locate the case
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_signature
+      label: I certify I am authorized to request this report
+      hint: Check to confirm your authorization
+      type: select_one
+      options:
+      - Yes, I certify
+      - Other
+      required: true
+    - id: 20
+      name: request_date
+      label: Date of Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true

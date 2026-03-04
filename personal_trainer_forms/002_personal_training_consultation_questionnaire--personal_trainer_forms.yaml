@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Consultation Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_goal
+      label: Training Goal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General Health''}'
+      - '{''id'': 2, ''label'': ''Weight Loss''}'
+      - '{''id'': 3, ''label'': ''Injury Prevention''}'
+      required: true
+    - id: 6
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      - '{''id'': 6, ''label'': ''Saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday''}'
+      required: false
+    - id: 7
+      name: goal_date
+      label: Goal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: goal_time
+      label: Goal Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: injury_history
+      label: Injury History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_relation
+      label: Relation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mother''}'
+      - '{''id'': 2, ''label'': ''Father''}'
+      - '{''id'': 3, ''label'': ''Brother/Sister''}'
+      - '{''id'': 4, ''label'': ''Spouse''}'
+      - '{''id'': 5, ''label'': ''Child''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: training_sessions
+      label: Training Sessions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1x/week''}'
+      - '{''id'': 2, ''label'': ''2x/week''}'
+      - '{''id'': 3, ''label'': ''3x/week''}'
+      - '{''id'': 4, ''label'': ''4x/week''}'
+      - '{''id'': 5, ''label'': ''5x/week''}'
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Card''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: true
+    - id: 21
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Bi-Weekly''}'
+      required: true
+    - id: 22
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: signed_up_for
+      label: Signed Up For
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

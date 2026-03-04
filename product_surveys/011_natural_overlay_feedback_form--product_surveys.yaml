@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Natural Overlay Feedback Form
+    pages:
+    - id: 1
+      name: natural_overlay_feature
+      label: How would you rate the natural overlay feature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: product
+      label: What product was the natural overlay used on
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: device
+      label: What device were you on when using the natural overlay
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Desktop''}'
+      - '{''id'': 2, ''label'': ''Mobile''}'
+      - '{''id'': 4, ''label'': ''Web''}'
+      required: false
+    - id: 4
+      name: issue
+      label: What issue did you encounter with the natural overlay
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''It was difficult to find where to click''}'
+      - '{''id'': 2, ''label'': ''It was difficult to understand the natural overlay''}'
+      - '{''id'': 3, ''label'': ''It was a minor issue''}'
+      required: true
+    - id: 5
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: How satisfied are you with the natural overlay
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: suggestions
+      label: Have any suggestions to improve the natural overlay
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Increase the font size''}'
+      - '{''id'': 2, ''label'': ''Change the natural overlay to always be on top of
+        other apps''}'
+      required: false
+    - id: 10
+      name: issue_details
+      label: Provide more details about the issue
+      hint: null
+      type: text
+      options: []
+      required: false

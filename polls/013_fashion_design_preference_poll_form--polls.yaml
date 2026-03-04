@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Design Preference Poll Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Fashion Poll
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: style_choice
+      label: What type of fashion style?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 3
+      name: color_pallette_choice
+      label: What is your favorite color pallette?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: design_preference
+      label: What is your design preference?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 5
+      name: age
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

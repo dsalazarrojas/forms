@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boudoir Photography Application Form
+    pages:
+    - id: 1
+      name: client_details_header
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone_no
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_dt
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_planning_header
+      label: -- Session Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_occasion
+      label: What is the occasion for your boudoir session?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: camera_comfort
+      label: How comfortable do you feel in front of the camera?
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - A Bit Nervous
+      - Very Nervous
+      - Excited but Shy
+      required: true
+    - id: 9
+      name: style_pref
+      label: What style are you looking for?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classic/Elegant
+      - Dark/Moody
+      - Bright/Airy
+      - Glamorous
+      - Natural/Minimalist
+      required: true
+    - id: 10
+      name: hmua_header
+      label: -- Hair and Makeup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: add_hmua
+      label: Would you like to add professional hair and makeup services?
+      hint: null
+      type: select_one
+      options:
+      - Yes - please add!
+      - No - I will do my own
+      required: true
+    - id: 12
+      name: privacy_header
+      label: -- Image Usage and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: privacy_choice_select
+      label: Do you permit the photographer to use images for social media / portfolio?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full Permission
+      - Yes - Eyes Covered / Anonymous
+      - No - Keep Private
+      required: true
+    - id: 14
+      name: client_questions
+      label: Any questions or specific areas you want to highlight?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: deposit_header
+      label: -- Deposit Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: deposit_confirm
+      label: I understand a non-refundable deposit is required to book
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true

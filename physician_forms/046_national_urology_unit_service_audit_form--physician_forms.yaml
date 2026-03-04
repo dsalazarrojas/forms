@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Urology Unit Service Audit Form
+    pages:
+    - id: 1
+      name: national_urology_unit_service_audit_form_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_audit_form_provider_details
+      label: Service Audit Form Provider Details
+      hint: null
+      type: select_one
+      options:
+      - provider1
+      - provider2
+      - provider3
+      required: true
+    - id: 3
+      name: healthcare_service_provider
+      label: Healthcare Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - provider1
+      - provider2
+      - provider3
+      - provider4
+      required: false
+    - id: 4
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_audit_date
+      label: Service Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_audit_form_note
+      label: Service Audit Form Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: national_urology_unit_service_audit_form_note
+      label: National Urology Unit Service Audit Form Note
+      hint: null
+      type: note
+      options: []
+      required: false

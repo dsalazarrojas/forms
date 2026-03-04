@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_use_authorization_form
+    pages:
+    - id: 1
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: prophets
+      label: Images
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: date_of_image_acquisition
+      label: Date of image acquisition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: usage_rights
+      label: Usage rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: usage_terms
+      label: Usage terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email minimalist
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: telephone
+      label: Telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: agreement_terms
+      label: Agreement termsประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_terms
+      label: Review terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

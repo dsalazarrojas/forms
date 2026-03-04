@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Session Reservation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photography_services
+      label: Photography Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: schedule_booking
+      label: Schedule Booking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_session_details
+      label: Photo Session Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Content Accessibility Poll Form
+    pages:
+    - id: 1
+      name: poll_form
+      label: Digital Content Poll Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Which of the following barriers have you encountered
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None of the above''}'
+      - '{''label'': ''Difficulty following text navigation''}'
+      - '{''label'': ''Difficulty using a keyboard or mouse''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: true
+    - id: 3
+      name: question_2
+      label: Which of the following barriers have you encountered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None of the above''}'
+      - '{''label'': ''Difficulty following text navigation''}'
+      - '{''label'': ''Difficulty using a keyboard or mouse''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: true
+    - id: 4
+      name: question_3
+      label: Which of the following barriers have you experienced
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None of the above''}'
+      - '{''label'': ''Difficulty using a keyboard or mouse''}'
+      - '{''label'': ''Difficulty following text navigation''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: true
+    - id: 5
+      name: question_4
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: Is there anything else you would like to mention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: How would you rate this experience?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: question_7
+      label: How would you rate this experience?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: question_8
+      label: Would you like to participate in this research again?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 10
+      name: question_9
+      label: How likely are you to recommend this service to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''Not very likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Likely''}'
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Not applicable''}'
+      required: true
+    - id: 11
+      name: question_10
+      label: How long did you spend on the poll?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: question_11
+      label: Was this the first time you encountered an accessibility issue?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: false
+    - id: 13
+      name: question_12
+      label: Was this issue reported previously?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      - '{''label'': ''Not known''}'
+      required: false
+    - id: 14
+      name: question_13
+      label: How often do you encounter accessibility issues?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Several times a week''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Never''}'
+      required: true

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Support Fund Contribution
+    pages:
+    - id: 1
+      name: legal_support_fund_contribution_form
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - Legal Support Fund
+      - General Fund
+      required: true
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - In-person Payment
+      - Mail Payment
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

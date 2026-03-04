@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scuba Diving Medical Clearance Form
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - Heart Condition
+      - Asthma
+      - Epilepsy
+      - Seizure Disorder
+      - Migraines
+      - Sleep Apnea
+      - Other (Specify)
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Scuba Diving Medical Certificate
+      - Basic Life Support Certification
+      - Emergency Response Training
+      - CPR Certification
+      - EMT Certification
+      required: false
+    - id: 6
+      name: diving_history
+      label: Diving History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: diving_environment
+      label: Diving Environment
+      hint: null
+      type: select_one
+      options:
+      - Open Water
+      - Cavediver
+      - Wreck Diving
+      - Cave Diving
+      - Ice Cavern Diving
+      required: true
+    - id: 8
+      name: scuba_gear
+      label: Scuba Gear
+      hint: null
+      type: select_one
+      options:
+      - Full Face Mask
+      - Regulator
+      - BCD
+      - Weight Belt
+      - Depth Gauge
+      required: true
+    - id: 9
+      name: diving_frequency
+      label: Diving Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_dive_date
+      label: Last Dive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: dive_location
+      label: Dive Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: physician_signature
+      label: Physican Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_name
+      label: Physican Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_license
+      label: Physician License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      required: true
+    - id: 25
+      name: other_medical_issues
+      label: Other Medical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - Heart Condition
+      - Asthma
+      - Epilepsy
+      - Seizure Disorder
+      - Migraines
+      - Sleep Apnea
+      - Other (Specify)
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_product_order_form
+    pages:
+    - id: 1
+      name: product_order_form
+      label: Product Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false

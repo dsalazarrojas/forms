@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gourmet Ingredient Starter Pack Order Form
+    pages:
+    - id: 1
+      name: order_information
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ingredient_selection
+      label: Ingredient Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Carrot
+      - Celery
+      - Cucumber
+      - Garlic
+      - Mushroom
+      - Onion
+      - Pepper
+      - Tomatoes
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: Enter the quantity of each ingredient desired
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: Select the preferred delivery time (AM, PM, or 24-hour format)
+      type: select_one
+      options:
+      - AM
+      - PM
+      - 24 hour
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

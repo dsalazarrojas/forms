@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Supplies Preparation Check Form
+    pages:
+    - id: 1
+      name: checklist_date
+      label: Checklist Date
+      hint: Date of preparation check
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: preparer_name
+      label: Preparer Name
+      hint: Staff member completing the checklist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_name
+      label: Item Name
+      hint: Supply item to check
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quantity_on_hand
+      label: Quantity On Hand
+      hint: Number of units currently available
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: minimum_required
+      label: Minimum Required
+      hint: Minimum quantity required for operation
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reorder_needed
+      label: Reorder Needed
+      hint: Whether reorder is required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: vendor_preferred
+      label: Preferred Vendor
+      hint: Supplier to order from
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expected_delivery_time
+      label: Expected Delivery Time
+      hint: Lead time if reordered
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Any remarks about supply condition or substitutions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: verifier_signature
+      label: Verifier Signature
+      hint: Name of staff verifying the checklist
+      type: text
+      options: []
+      required: false

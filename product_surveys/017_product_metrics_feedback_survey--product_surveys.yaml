@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_metrics_feedback_survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feature_usage
+      label: feature_usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: satisfaction_scale
+      label: satisfaction_scale
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

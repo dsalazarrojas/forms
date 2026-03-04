@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: shutter_slap_model_release
+    pages:
+    - id: 1
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: model_release
+      label: Model Release
+      hint: null
+      type: select_one
+      options:
+      - Model Release Given
+      - Model Release Not Given
+      - Not Applicable
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photographer_info
+      label: Photographer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency_info
+      label: Agency Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false

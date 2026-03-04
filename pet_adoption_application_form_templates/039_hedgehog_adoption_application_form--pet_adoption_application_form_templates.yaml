@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hedgehog Adoption Application Form
+    pages:
+    - id: 1
+      name: pet_lover
+      label: Are you a pet lover
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seeking_to_adopt
+      label: Are you seeking to adopt a pet?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pet_type
+      label: What type of pet do you want to adopt?
+      hint: Choose your pet type
+      type: select_multiple
+      options:
+      - cat
+      - dog
+      - bird
+      - fish
+      - hedgehog
+      required: false
+    - id: 4
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_business_payment_form_on_the_pop_up
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: paypal_email
+      label: PayPal Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: paypal_password
+      label: PayPal Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: select_one
+      options:
+      - I have read and accept the terms and conditions.
+      - Not accepted
+      required: true
+    - id: 11
+      name: terms_and_condition
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

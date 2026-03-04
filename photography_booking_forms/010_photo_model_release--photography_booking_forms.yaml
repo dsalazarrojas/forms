@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_model_release
+    pages:
+    - id: 1
+      name: model_name
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_capture
+      label: date_of_capture
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location_of_capture
+      label: location_of_capture
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photographer_credit
+      label: photographer_credit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: agency_name
+      label: agency name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: agency_address
+      label: agency_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: model_signature
+      label: model_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: photographer_signature
+      label: photographer_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: release
+      label: release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: agreement_signed
+      label: agreement_signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: client
+      label: client
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: agency
+      label: agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: photographer
+      label: photographer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: prophets
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agreement
+      label: agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: model_info
+      label: model_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

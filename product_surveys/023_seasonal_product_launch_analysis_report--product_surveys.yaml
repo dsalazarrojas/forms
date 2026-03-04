@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_product_launch_analysis_report
+    pages:
+    - id: 1
+      name: seasonal_product_launch
+      label: season launch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: product description
+      hint: A short description of the product.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: launch_date
+      label: launch date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: product_image
+      label: product image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price
+      label: product price
+      hint: Product price, including any sales tax or discounts.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sales_channels
+      label: sales channels
+      hint: Where do you sell this product?
+      type: select_one
+      options:
+      - Online Store
+      - Offline Store
+      - Both
+      required: false
+    - id: 8
+      name: sales_region
+      label: sales region
+      hint: null
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia
+      - Africa
+      - Australia
+      - South America
+      required: false
+    - id: 9
+      name: sales_countries
+      label: sales countries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sales_profits
+      label: sales profits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sales_revenue
+      label: sales revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sales_costs
+      label: sales costs
+      hint: Cost including all expenses.
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_rating
+      label: product rating
+      hint: Customer satisfaction.reported rating, 0-5 stars.
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_feedback
+      label: customer feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: launch_time
+      label: launch time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: sales_season
+      label: sales season
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
+      required: false
+    - id: 17
+      name: product_seasonal_status
+      label: product seasonal status
+      hint: null
+      type: select_multiple
+      options:
+      - On Sale
+      - Off Sale
+      - Limited Time Offer
+      required: false
+    - id: 18
+      name: seasonal_discount
+      label: seasonal discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: product_return_rate
+      label: product return rate
+      hint: Rate of product returns.
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: customer_demographics
+      label: customer demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sales_trends
+      label: sales trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sales_forecasts
+      label: sales forecasts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: seasonality_factor
+      label: seasonality factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: sales_trend
+      label: sales trend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: season
+      label: season
+      hint: null
+      type: select_multiple
+      options:
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
+      required: false

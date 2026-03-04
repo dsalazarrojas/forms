@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmacy_weekend_work_checklist
+    pages:
+    - id: 1
+      name: weekend_work_checklist_page_1
+      label: weekend_work_checklist_page_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pharmacist_name
+      label: pharmacist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshift_start_time
+      label: workshift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: workshift_end_time
+      label: workshift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: medication_inventory
+      label: medication_inventory
+      hint: null
+      type: select_one
+      options:
+      - Medication A
+      - Medication B
+      - Medication C
+      required: false
+    - id: 6
+      name: medication_levels
+      label: medication_levels
+      hint: null
+      type: select_multiple
+      options:
+      - Medication A
+      - Medication B
+      - Medication C
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

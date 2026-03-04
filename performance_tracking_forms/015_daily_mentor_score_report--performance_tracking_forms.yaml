@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Mentor Score Report
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_time
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: mentor_notes
+      label: Mentor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mentee_notes
+      label: Mentee Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: next_action
+      label: Next Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false

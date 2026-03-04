@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Single Product Multiple Choice Orders
+    pages:
+    - id: 1
+      name: single_product_multiple_choice_orders
+      label: Single Product Multiple Choice Orders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

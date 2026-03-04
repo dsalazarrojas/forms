@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Webinar Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: webinar_date
+      label: Webinar Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: webinar_time
+      label: Webinar Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: webinar_type
+      label: Webinar Type
+      hint: null
+      type: select_multiple
+      options:
+      - Webinar Title
+      - Webinar Description
+      - Speaker Bio
+      - Webinar Agenda
+      - Webinar Location
+      - Webinar Language
+      - Additional Details
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_webinar
+      label: Confirm Webinar
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: confirm_webinar_time
+      label: Confirm Webinar Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

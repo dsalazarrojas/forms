@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Accessory Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_select
+      label: Select Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true

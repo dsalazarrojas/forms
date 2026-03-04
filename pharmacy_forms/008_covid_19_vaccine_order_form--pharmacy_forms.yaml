@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Order Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: Hospital, clinic, or pharmacy
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_id
+      label: Facility ID Number
+      hint: For identification purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_contact_name
+      label: Contact Person Name
+      hint: Responsible party for order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_email
+      label: Facility Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: facility_phone
+      label: Facility Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_address
+      label: Facility Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: When order is being placed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: vaccine_type
+      label: Vaccine Type Ordered
+      hint: null
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Mixed types
+      required: true
+    - id: 10
+      name: total_doses_ordered
+      label: Total Number of Doses
+      hint: Quantity needed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: storage_capacity
+      label: Current Cold Storage Capacity
+      hint: Number of doses can store
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: storage_temperature
+      label: Storage Temperature Capability
+      hint: null
+      type: select_one
+      options:
+      - Ultra cold (-80C to -60C)
+      - Deep freezer (-25C to -15C)
+      - Regular freezer (-15C or warmer)
+      - Refrigerated (2-8C)
+      required: true
+    - id: 13
+      name: delivery_date_preference
+      label: Preferred Delivery Date
+      hint: When doses are needed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: If different from facility address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_recipients
+      label: Estimated Number of Recipients
+      hint: How many people will be vaccinated
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: priority_status
+      label: Priority Status
+      hint: For ordering priority
+      type: select_one
+      options:
+      - Regular order
+      - High priority
+      - Emergency request
+      required: true
+    - id: 17
+      name: additional_supplies
+      label: Additional Supplies Needed
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Syringes and needles
+      - Alcohol wipes
+      - Gauze and bandages
+      - Vaccine cards
+      - Information sheets
+      - None
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_name
+      label: Authorized Order Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true

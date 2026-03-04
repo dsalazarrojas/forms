@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Consent Form
+    pages:
+    - id: 1
+      name: prophets
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer
+      label: photographer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guardian
+      label: guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prophets_signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: photo_release
+      label: photo release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: photo_usage
+      label: photo usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: guardian_signature
+      label: guardian signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: guardian_name
+      label: guardian name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: guardian_email
+      label: guardian email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: guardian_phone
+      label: guardian phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: guardian_dob
+      label: guardian dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: guardian_address
+      label: guardian address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guardian_date_of_signature
+      label: date of guardian signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: photo_usage_agreement
+      label: photo usage agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: photo_usage_agreement_date
+      label: date of photo usage_goals
+      hint: null
+      type: date
+      options: []
+      required: true

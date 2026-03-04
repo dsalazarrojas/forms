@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: dog_ownership_questionnaire
+    pages:
+    - id: 1
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_age
+      label: dog_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: veterinary_visits
+      label: Veterinary Visits
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: dog_health
+      label: Dog Health
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: dog_vet
+      label: Dog Vet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dog_microchip
+      label: Microchip
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: dog_spayed_neutered
+      label: Spayed/Neutered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: dog_training
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

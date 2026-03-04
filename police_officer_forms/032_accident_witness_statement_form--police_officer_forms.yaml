@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Witness Statement Form
+    pages:
+    - id: 1
+      name: witness_full_name
+      label: Witness Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: witness_address
+      label: Witness Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: witness_phone
+      label: Witness Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: witness_email
+      label: Witness Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: witness_relationship_to_parties
+      label: Witness Relationship to Parties
+      hint: Your relationship to the parties involved in the accident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accident_date
+      label: Accident Date
+      hint: Date when the accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: accident_time
+      label: Accident Time
+      hint: Approximate time when the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: accident_location
+      label: Accident Location
+      hint: Complete address or specific location where the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_location_during_accident
+      label: Witness Location During Accident
+      hint: Where were you located when the accident occurred?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: weather_conditions
+      label: Weather Conditions
+      hint: What were the weather conditions at the time?
+      type: select_one
+      options:
+      - Clear
+      - Rain
+      - Snow
+      - Fog
+      - Windy
+      - Nighttime
+      - Other
+      required: true
+    - id: 11
+      name: visibility_conditions
+      label: Visibility Conditions
+      hint: How was visibility at the time of the accident?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: witness_activity_before_accident
+      label: Witness Activity Before Accident
+      hint: What were you doing immediately before the accident?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: sequence_of_events
+      label: Sequence of Events
+      hint: Describe in detail what you saw happen before, during, and after the accident
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicles_involved_description
+      label: Vehicles Involved Description
+      hint: Describe the vehicles involved (color, make, model, license plates)
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: people_involved_description
+      label: People Involved Description
+      hint: Describe the people involved (clothing, appearance, behavior)
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: speeds_estimated
+      label: Speeds Estimated
+      hint: Estimate the speeds of the vehicles or people involved
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: road_conditions
+      label: Road Conditions
+      hint: Describe the condition of the road at the time
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: traffic_signals_signs
+      label: Traffic Signals Signs
+      hint: Were there traffic signals, stop signs, or other traffic controls?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: witness_signature
+      label: Witness Signature
+      hint: Electronic signature confirming the accuracy of your statement
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

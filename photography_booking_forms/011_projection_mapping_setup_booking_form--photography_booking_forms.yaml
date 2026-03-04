@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Projection Mapping Setup Booking Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Projection Mapping Event
+      - Installation
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tech_requirements
+      label: Technical Requirements
+      hint: List technical requirements, e.g. video format, resolution, screen size
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_requests
+      label: Booking Requests
+      hint: Describe your booking requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: projection_mapping_setup
+      label: Projection Mapping Setup
+      hint: null
+      type: select_multiple
+      options:
+      - Projection Mapping
+      - Projection Mapping with 360
+      - Projection Mapping with Video Mapping
+      - Projection Mapping without 360
+      required: true
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false

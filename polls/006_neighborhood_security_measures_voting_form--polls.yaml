@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: neighborhood_security_measures_voting_form
+    pages:
+    - id: 1
+      name: security_measures
+      label: Security Measures
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: resident_group
+      label: Resident Group
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

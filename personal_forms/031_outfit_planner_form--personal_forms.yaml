@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outfit Planner Form
+    pages:
+    - id: 1
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: style_requests
+      label: style_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: style_preferences
+      label: style_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clothing_items
+      label: clothing_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

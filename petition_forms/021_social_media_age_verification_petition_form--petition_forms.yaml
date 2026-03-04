@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Age Verification Petition Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature_input
+      label: Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - TikTok
+      - Snapchat
+      - Instagram
+      - Twitch
+      - YouTube
+      - Reddit
+      required: true
+    - id: 4
+      name: age_verification
+      label: Age Verification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Other
+      required: true
+    - id: 6
+      name: message_input
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name_input
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I confirm that I have read and understand the terms and conditions.
+      - I have read but do not understand the terms and conditions.
+      - I have not read the terms and conditions.
+      required: true

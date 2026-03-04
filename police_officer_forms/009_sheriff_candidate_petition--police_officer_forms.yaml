@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sheriff Candidate Petition
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: party
+      label: Party
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: candidate
+      label: Candidate
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_members
+      label: Party Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support
+      label: Support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: sign
+      label: Sign
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: date_signed
+      label: Date SIGNED
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_signed
+      label: Time SIGNED
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Employment Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Police Officer
+      - Security Guard
+      - Security Officer
+      required: false
+    - id: 8
+      name: job_experience_years
+      label: Job Experience in Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: false

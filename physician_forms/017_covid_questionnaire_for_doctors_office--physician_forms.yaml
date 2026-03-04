@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Questionnaire For Doctors Office
+    pages:
+    - id: 1
+      name: intro_section
+      label: Intro Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: false
+    - id: 10
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_agreement
+      label: Patient Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: false
+    - id: 13
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: false

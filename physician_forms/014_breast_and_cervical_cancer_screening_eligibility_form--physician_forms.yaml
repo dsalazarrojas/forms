@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast And Cervical Cancer Screening Eligibility Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record or patient ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_confirmation
+      label: Patient Age
+      hint: Current age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: exam_date
+      label: Scheduled Screening Date
+      hint: Date of the screening appointment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: screening_type
+      label: Type of Screening
+      hint: Which screening is patient eligible for
+      type: select_multiple
+      options:
+      - Breast cancer screening
+      - Cervical cancer screening
+      - Both screenings
+      required: true
+    - id: 7
+      name: medical_history
+      label: Relevant Medical History
+      hint: Select any applicable conditions
+      type: select_multiple
+      options:
+      - Previous breast cancer
+      - Previous cervical cancer
+      - Previous abnormal pap smear
+      - Hysterectomy
+      - DCIS - Ductal carcinoma in situ
+      - Hormonal therapy
+      - Radiation therapy
+      - None
+      required: false
+    - id: 8
+      name: family_history
+      label: Family Cancer History
+      hint: Any family history of cancer
+      type: select_multiple
+      options:
+      - Breast cancer in family
+      - Cervical cancer in family
+      - Ovarian cancer in family
+      - Other cancer in family
+      - No known family history
+      required: false
+    - id: 9
+      name: genetic_testing
+      label: Previous Genetic Testing
+      hint: Any genetic risk assessment
+      type: select_one
+      options:
+      - Yes - BRCA positive
+      - Yes - BRCA negative
+      - Yes - Other genetic mutation
+      - No genetic testing
+      - Not sure
+      required: false
+    - id: 10
+      name: contraindications
+      label: Screening Contraindications
+      hint: Any reasons screening cannot be done
+      type: select_multiple
+      options:
+      - Pregnancy
+      - Recent miscarriage
+      - Active infection
+      - Severe illness
+      - Patient refusal
+      - None
+      required: false
+    - id: 11
+      name: previous_screening
+      label: Previous Cancer Screening History
+      hint: Has patient been screened before
+      type: select_one
+      options:
+      - No previous screening
+      - Last screening less than 1 year ago
+      - Last screening 1-2 years ago
+      - Last screening 2-3 years ago
+      - Last screening over 3 years ago
+      - Unknown
+      required: true
+    - id: 12
+      name: previous_results
+      label: Previous Screening Results
+      hint: Results of last screening if applicable
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Unsatisfactory
+      - Not applicable
+      - Unknown
+      required: false
+    - id: 13
+      name: symptoms_present
+      label: Current Symptoms
+      hint: Any symptoms triggering the screening
+      type: select_multiple
+      options:
+      - Breast pain or tenderness
+      - Breast lump
+      - Nipple discharge
+      - Vaginal bleeding
+      - Pelvic pain
+      - No symptoms
+      required: false
+    - id: 14
+      name: hormone_use
+      label: Current Hormone Use
+      hint: Is patient taking hormonal medications
+      type: select_multiple
+      options:
+      - Hormone replacement therapy
+      - Birth control
+      - Tamoxifen
+      - Other hormone therapy
+      - Not taking hormones
+      required: false
+    - id: 15
+      name: menopause_status
+      label: Menopausal Status
+      hint: Select applicable status
+      type: select_one
+      options:
+      - Pre-menopausal
+      - Peri-menopausal
+      - Menopausal
+      - Post-menopausal
+      - Unknown
+      required: false
+    - id: 16
+      name: informed_consent
+      label: Informed Consent for Screening
+      hint: Patient understands screening procedure and risks
+      type: select_one
+      options:
+      - Yes, patient consents
+      - No, patient declines
+      - Patient needs more information
+      required: true
+    - id: 17
+      name: high_risk_assessment
+      label: High-Risk Assessment
+      hint: Is patient considered high-risk
+      type: select_one
+      options:
+      - Low risk
+      - Average risk
+      - High risk
+      - Very high risk
+      required: false
+    - id: 18
+      name: insurance_coverage
+      label: Insurance Coverage Confirmed
+      hint: Screening is covered by insurance
+      type: select_one
+      options:
+      - Yes, covered
+      - No, not covered
+      - Self-pay
+      - Uninsured
+      - Unknown
+      required: false
+    - id: 19
+      name: provider_notes
+      label: Provider Notes
+      hint: Any additional clinical notes
+      type: text
+      options: []
+      required: false

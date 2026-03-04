@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Association Officer Voting Form
+    pages:
+    - id: 1
+      name: officer_form
+      label: Officer Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: officer_positions
+      label: Officer Positions
+      hint: Select positions to vote for
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: candidate_list
+      label: Candidate List
+      hint: Select from list
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vote
+      label: Vote
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_positions
+      label: Candidate Positions
+      hint: Select from list
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: election_results
+      label: Election Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: chapter_name
+      label: Chapter Name
+      hint: Chapter name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: chapter_location
+      label: Chapter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: election_date
+      label: Election Date
+      hint: Election date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: chapter_email
+      label: Chapter Email
+      hint: Chapter email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: chapter_phone
+      label: Chapter Phone
+      hint: Chapter phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: officer_name
+      label: Officer Name
+      hint: Officer name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: officer_title
+      label: Officer Title
+      hint: Officer title
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: officer_position
+      label: Officer Position
+      hint: Officer position
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: term_length
+      label: Term Length
+      hint: Term length
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: term_start
+      label: Term Start
+      hint: Term start date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: term_end
+      label: Term End
+      hint: Term end date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: chapter_organizers
+      label: Chapter Organizers
+      hint: Select organizers
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Poll
+    pages:
+    - id: 1
+      name: poll_date
+      label: Poll Date
+      hint: Date of this poll
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Contact email (optional)
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: respondent_company
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: respondent_role
+      label: Your Role
+      hint: Position or title
+      type: select_one
+      options:
+      - Executive/Manager
+      - Employee
+      - Consultant
+      - Entrepreneur
+      - Investor
+      - Student
+      - Other
+      required: false
+    - id: 6
+      name: question_1
+      label: What is your opinion on remote work?
+      hint: Select your position
+      type: select_one
+      options:
+      - Strongly Support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly Oppose
+      required: true
+    - id: 7
+      name: question_2
+      label: How important is work-life balance?
+      hint: Rate importance
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: question_3
+      label: What is your biggest workplace challenge?
+      hint: Describe briefly
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_4
+      label: How satisfied are you with current job market?
+      hint: Rate satisfaction (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: question_5
+      label: Which business trend excites you most?
+      hint: Select your choice
+      type: select_one
+      options:
+      - Digital Transformation
+      - Sustainability
+      - AI and Automation
+      - Remote Work
+      - Other Innovation
+      required: true
+    - id: 11
+      name: question_6
+      label: What skills are most valuable in business?
+      hint: List your top 3
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_7
+      label: How often do you stay informed of industry news?
+      hint: Select frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: question_8
+      label: What would improve your workplace?
+      hint: Share your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_9
+      label: Likelihood to recommend your employer
+      hint: Rate likelihood (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback?
+      type: text
+      options: []
+      required: false

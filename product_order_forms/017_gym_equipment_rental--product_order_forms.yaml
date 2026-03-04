@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Equipment Rental
+    pages:
+    - id: 1
+      name: form_fields
+      label: Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: select_one_equipment_type
+      hint: Select an equipment type
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bikes''}'
+      - '{''id'': 2, ''label'': ''Treadmills''}'
+      - '{''id'': 3, ''label'': ''Weights''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rental_period
+      label: select_one_rental_period
+      hint: Select a rental period
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Week''}'
+      - '{''id'': 2, ''label'': ''Month''}'
+      - '{''id'': 3, ''label'': ''Quarter''}'
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

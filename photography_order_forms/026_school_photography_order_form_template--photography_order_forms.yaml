@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Photography Order Form Template
+    pages:
+    - id: 1
+      name: school_photography_order_form
+      label: School Photography Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: Please enter student information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_info
+      label: Parent Information
+      hint: Please enter parent information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_options
+      label: Order Options
+      hint: Please select order options
+      type: select_multiple
+      options:
+      - Order
+      - Reprint
+      required: true
+    - id: 5
+      name: product_list
+      label: Product List
+      hint: Please select products
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_image
+      label: Student Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_image
+      label: Parent Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_submission
+      label: Order Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: true
+    - id: 14
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 16
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false

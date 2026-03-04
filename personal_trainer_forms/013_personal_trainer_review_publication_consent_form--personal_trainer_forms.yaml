@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_trainer_review_publication_consent_form
+    pages:
+    - id: 1
+      name: testimonial
+      label: Testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 3
+      name: consent_publish
+      label: Can we publish your review?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: social_media_channels
+      label: Which social media channels would you like your testimonial to be shared
+        on?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_published
+      label: Date Published
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_published
+      label: Time Published
+      hint: null
+      type: time
+      options: []
+      required: false

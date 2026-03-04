@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Feature Specification Survey
+    pages:
+    - id: 1
+      name: game_teams
+      label: Game teams
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 2
+      name: game_feature
+      label: Game feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_experience
+      label: Player experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Bad
+      - Neutral
+      required: false
+    - id: 4
+      name: feature_priority
+      label: Feature priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 5
+      name: update_planning
+      label: Update planning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_decisions
+      label: Product decisions
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Bad
+      - Neutral
+      required: false
+    - id: 7
+      name: player_satisfaction
+      label: Player satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      - Not at all satisfied
+      required: false
+    - id: 8
+      name: feature_description
+      label: Feature description
+      hint: Briefly describe the game feature.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Additional comments.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit_comments
+      label: Submit comments
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Neutral
+      required: false
+    - id: 13
+      name: feature_status
+      label: Feature status
+      hint: null
+      type: select_multiple
+      options:
+      - Implemented
+      - Planned
+      - Not planned
+      required: false
+    - id: 14
+      name: player_status
+      label: Player status
+      hint: null
+      type: select_multiple
+      options:
+      - Implemented
+      - Planned
+      - Not planned
+      required: false
+    - id: 15
+      name: game_feature
+      label: Game feature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: game_version
+      label: Game version
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: feature_teams
+      label: Feature teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Reaction Poll
+    pages:
+    - id: 1
+      name: user_input_1
+      label: What do you think of this offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: channel_input_2
+      label: Which channel do you interact with most with our brand?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Social Media''}'
+      - '{''id'': 2, ''value'': ''Email''}'
+      - '{''id'': 3, ''value'': ''Phone''}'
+      required: false
+    - id: 3
+      name: performance_3
+      label: How would you rate the channel performance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sentiment_4
+      label: How do you feel about this offer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Positive''}'
+      - '{''id'': 2, ''value'': ''Negative''}'
+      - '{''id'': 3, ''value'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: intent_5
+      label: Intent to act on this offer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email_input_6
+      label: Can we contact you by email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_input_7
+      label: Can we contact you by phone?
+      hint: null
+      type: text
+      options: []
+      required: false

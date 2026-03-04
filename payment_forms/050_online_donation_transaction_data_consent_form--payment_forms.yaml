@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Donation Transaction Data Consent Form
+    pages:
+    - id: 1
+      name: donation_transaction_data_consent
+      label: Donation Transaction Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_consent
+      label: Email Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: phone_consent
+      label: Phone Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: data_use
+      label: Data Usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: transaction_frequency
+      label: Transaction Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: donor_notes
+      label: Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: donor_city
+      label: Donor City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: donor_state
+      label: Donor State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: donor_zip
+      label: Donor Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: donor_country
+      label: Donor Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

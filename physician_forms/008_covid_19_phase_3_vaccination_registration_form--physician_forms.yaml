@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 3 Vaccination Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employment_industry
+      label: Industry of Employment
+      hint: Select your primary work sector
+      type: select_one
+      options:
+      - Restaurant/Food Service
+      - Hair/Beauty Salon
+      - Retail
+      - Transportation
+      - Hospitality
+      - Other Essential Service
+      required: true
+    - id: 4
+      name: job_role
+      label: Job Role / Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Name of Business
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mobile_number
+      label: Mobile Phone Number
+      hint: For SMS appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: exposure_risk
+      label: Level of Exposure to Public at Work
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Continuous
+      required: true
+    - id: 10
+      name: previous_vaccine
+      label: Have you received any previous doses of a COVID-19 vaccine?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - 1st Dose
+      - Yes - Fully Vaccinated
+      required: true
+    - id: 11
+      name: verification_method
+      label: Verification Document you will bring to appointment
+      hint: null
+      type: select_one
+      options:
+      - Work ID
+      - Pay Stub
+      - Business License
+      - Letter from Employer
+      required: true
+    - id: 12
+      name: registration_acknowledgment
+      label: I understand I must provide proof of employment at the time of vaccination
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Coverage Request
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Party
+      - Concert
+      - Conference
+      - Other
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coverage
+      label: Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: schedule
+      label: Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

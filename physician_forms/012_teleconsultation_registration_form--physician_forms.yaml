@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teleconsultation Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Telephone
+      - Email
+      - Message
+      required: true
+    - id: 7
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: physician_department
+      label: Physician Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false

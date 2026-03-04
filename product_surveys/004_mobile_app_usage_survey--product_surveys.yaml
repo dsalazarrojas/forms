@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Usage Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: user information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: app_usage
+      label: app usage
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Google
+      - Other
+      required: false
+    - id: 4
+      name: favorite_feature
+      label: favorite feature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: usage_frequency
+      label: usage frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - Several times a week
+      - Every day
+      required: false
+    - id: 6
+      name: app_installment
+      label: app installment
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - In app purchase
+      - Subscription
+      required: false
+    - id: 7
+      name: app_version
+      label: app version
+      hint: null
+      type: select_one
+      options:
+      - Version 1
+      - Version 2
+      - Version 3
+      required: false
+    - id: 8
+      name: mobile_device
+      label: mobile device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: screen_size
+      label: screen size
+      hint: null
+      type: select_one
+      options:
+      - iPhone 6
+      - iPhone 7
+      - iPhone 8
+      required: false
+    - id: 10
+      name: operating_system
+      label: operating system
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: internet_connection
+      label: internet connection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: survey_completed
+      label: survey completed
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 minutes
+      - 5-15 minutes
+      - More than 15 minutes
+      required: false
+    - id: 13
+      name: time_spent
+      label: time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: app_rating
+      label: app rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: user_experience
+      label: user experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

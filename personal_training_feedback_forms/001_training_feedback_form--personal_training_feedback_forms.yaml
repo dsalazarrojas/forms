@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Feedback Form
+    pages:
+    - id: 1
+      name: session_feedback
+      label: session_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_feedback
+      label: trainer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_consent_and_indemnity_form
+    pages:
+    - id: 1
+      name: consent_statement
+      label: Medical Consent Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: procedure_description
+      label: Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false

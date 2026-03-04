@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Lesson Request Form
+    pages:
+    - id: 1
+      name: private_lesson_request
+      label: Private Lesson Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lesson_type
+      label: lesson_type
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Group
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: lesson_duration
+      label: lesson_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lesson_notes
+      label: lesson_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: private_lesson_status
+      label: private_lesson_status
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Confirmed
+      - Rescheduled
+      - Cancelled
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

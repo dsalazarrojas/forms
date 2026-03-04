@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Survey
+    pages:
+    - id: 1
+      name: couples_survey_start
+      label: introduction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: partner1_name
+      label: partner1
+      hint: Please enter the name of your partner
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner1_age
+      label: partner1_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner2_age
+      label: partner2_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: partner1_gender
+      label: partner1_gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      - rather_not_tell
+      required: false
+    - id: 6
+      name: partner2_gender
+      label: partner2_gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      - rather_not_tell
+      required: false
+    - id: 7
+      name: relationship_type
+      label: relationship_type
+      hint: null
+      type: select_multiple
+      options:
+      - romantic_relationship
+      - friendship
+      - family_member
+      - coworker
+      - other
+      required: false
+    - id: 8
+      name: partner1_marital_status
+      label: partner1_marital_status
+      hint: null
+      type: select_multiple
+      options:
+      - married
+      - engaged
+      - divorced
+      - in_a_relationship
+      - not_married
+      - rather_not_tell
+      required: false
+    - id: 9
+      name: partner2_marital_status
+      label: partner2_marital_status
+      hint: null
+      type: select_multiple
+      options:
+      - married
+      - engaged
+      - divorced
+      - in_a_relationship
+      - not_married
+      - rather_not_tell
+      required: false
+    - id: 10
+      name: communication_style
+      label: communication_style
+      hint: How would you rate your communication style with your partner?
+      type: select_multiple
+      options:
+      - good
+      - bad
+      - average
+      required: false
+    - id: 11
+      name: conflict_frequency
+      label: conflict_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - often
+      - rarely
+      - never
+      required: false
+    - id: 12
+      name: conflict_resolution
+      label: conflict_resolution
+      hint: null
+      type: select_multiple
+      options:
+      - resolve
+      - avoid
+      - compromise
+      required: false
+    - id: 13
+      name: conflict_topics
+      label: conflict_topics
+      hint: null
+      type: select_multiple
+      options:
+      - finances
+      - family
+      - intimacy
+      - other
+      required: false
+    - id: 14
+      name: partner1_emotions
+      label: partner1_emotions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: partner2_emotions
+      label: partner2_emotions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: partner1_satisfaction
+      label: partner1_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - satisfied
+      - not_satisfied
+      required: false
+    - id: 17
+      name: partner2_satisfaction
+      label: partner2_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - satisfied
+      - not_satisfied
+      required: false
+    - id: 18
+      name: partner1_trust
+      label: partner1_trust
+      hint: null
+      type: select_multiple
+      options:
+      - trusted
+      - not_trusted
+      required: false
+    - id: 19
+      name: partner2_trust
+      label: partner2_trust
+      hint: null
+      type: select_multiple
+      options:
+      - trusted
+      - not_trusted
+      required: false
+    - id: 20
+      name: partner1_confidence
+      label: partner1_confidence
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - low
+      required: false
+    - id: 21
+      name: partner2_confidence
+      label: partner2_confidence
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - low
+      required: false
+    - id: 22
+      name: partner1_fear
+      label: partner1_fear
+      hint: null
+      type: select_multiple
+      options:
+      - fear
+      - not_fear
+      required: false
+    - id: 23
+      name: partner2_fear
+      label: partner2_fear
+      hint: null
+      type: select_multiple
+      options:
+      - fear
+      - not_fear
+      required: false
+    - id: 24
+      name: partner1_safety
+      label: partner1_safety
+      hint: null
+      type: select_multiple
+      options:
+      - safe
+      - not_safe
+      required: false
+    - id: 25
+      name: partner2_safety
+      label: partner2_safety
+      hint: null
+      type: select_multiple
+      options:
+      - safe
+      - not_safe
+      required: false

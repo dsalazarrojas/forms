@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Information And Consent Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name_consent
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth_consent
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email_consent
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone_consent
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_address_consent
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_info_header
+      label: -- COVID-19 Vaccine Information --
+      hint: Important information about the vaccine
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_purpose
+      label: I Understand the Purpose of COVID-19 Vaccination
+      hint: To prevent COVID-19 infection
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      - false
+      required: true
+    - id: 9
+      name: vaccine_effectiveness
+      label: I Understand That COVID-19 Vaccines Are Effective
+      hint: Vaccines reduce risk of infection
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      - false
+      required: true
+    - id: 10
+      name: vaccine_benefits_understanding
+      label: I Have Reviewed the Benefits of COVID-19 Vaccination
+      hint: Protection against severe illness
+      type: select_one
+      options:
+      - Yes, I reviewed benefits
+      - I partially reviewed
+      - I have not reviewed
+      required: true
+    - id: 11
+      name: vaccine_risks_understanding
+      label: I Have Reviewed the Risks and Possible Side Effects
+      hint: Common and rare side effects
+      type: select_one
+      options:
+      - Yes, I reviewed risks
+      - I partially reviewed
+      - I have not reviewed
+      required: true
+    - id: 12
+      name: vaccine_questions
+      label: My Questions About COVID-19 Vaccines Have Been Answered
+      hint: Provider addressed your concerns
+      type: select_one
+      options:
+      - Yes, all answered
+      - Some answered
+      - No questions asked
+      required: true
+    - id: 13
+      name: medical_history_consent_header
+      label: -- Medical History --
+      hint: Important health information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: allergies_consent
+      label: Known Allergies
+      hint: Any allergies to vaccine components
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications_consent
+      label: Current Medications
+      hint: List all medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: chronic_disease_consent
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: immunocompromised_consent
+      label: Do You Have a Weakened Immune System
+      hint: Immunocompromised status
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: pregnancy_status_consent
+      label: Are You Pregnant or Breastfeeding
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+      - Pregnant
+      - Breastfeeding
+      - Neither
+      - Prefer Not to Say
+      required: false
+    - id: 19
+      name: previous_covid_consent
+      label: Have You Had COVID-19 Before
+      hint: Previous COVID-19 infection
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: previous_vaccine_doses_consent
+      label: Previous COVID-19 Vaccine Doses
+      hint: Number of doses already received
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: consent_statement_header
+      label: -- Patient Consent --
+      hint: Final consent for vaccination
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vaccination_authorization_consent
+      label: I Authorize This Healthcare Provider to Administer the COVID-19 Vaccine
+      hint: You authorize vaccination to proceed
+      type: select_one
+      options:
+      - I authorize vaccination
+      - I do not authorize vaccination
+      required: true
+    - id: 23
+      name: understand_risks_benefits
+      label: I Understand and Accept the Risks and Benefits
+      hint: Acknowledged understanding of risks and benefits
+      type: select_one
+      options:
+      - I understand and accept
+      - I do not understand
+      - I do not accept
+      required: true
+    - id: 24
+      name: voluntary_consent
+      label: This Consent is Voluntary and Not Coerced
+      hint: You are freely choosing to be vaccinated
+      type: select_one
+      options:
+      - Voluntary and not coerced
+      - Under pressure or coerced
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date of Consent
+      hint: Date you are providing consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Soap Notes Form
+    pages:
+    - id: 1
+      name: --session_overview
+      label: -- Session Overview --
+      hint: Clinician completes during or after session
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session date
+      hint: Date of visit
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: subjective_complaint
+      label: Subjective complaint
+      hint: Patient reported symptoms and history
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: objective_findings
+      label: Objective findings
+      hint: Observations examination and vitals
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment
+      label: Assessment and clinical impression
+      hint: Clinician assessment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_plan
+      label: Treatment provided and plan
+      hint: Needles points techniques and duration
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: response_to_treatment
+      label: Response to treatment
+      hint: Immediate response and follow up recommendations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: practitioner_signature
+      label: Practitioner name for signature
+      hint: Typed name accepted
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: next_appointment
+      label: Next appointment date
+      hint: Suggested follow up date
+      type: date
+      options: []
+      required: false

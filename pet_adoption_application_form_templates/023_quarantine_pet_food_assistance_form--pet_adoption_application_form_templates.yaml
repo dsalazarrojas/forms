@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarantine Pet Food Assistance Form
+    pages:
+    - id: 1
+      name: pet_food_info
+      label: Pet Food Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Dog
+      - Cat
+      - Other
+      required: true
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: food_frequency
+      label: Food Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once a day
+      - Twice a day
+      - Three times a day
+      required: true
+    - id: 7
+      name: special_diet
+      label: Special Diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assistance_amount
+      label: Assistance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assistance_period
+      label: Assistance Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

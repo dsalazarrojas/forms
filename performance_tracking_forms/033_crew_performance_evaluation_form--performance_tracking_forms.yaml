@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: crew_performance_evaluation_form
+    pages:
+    - id: 1
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: action_item_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

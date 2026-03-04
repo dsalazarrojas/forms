@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Film Opinion Survey
+    pages:
+    - id: 1
+      name: floor_film_opinion_survey
+      label: Floor Film Opinion Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usage_patterns
+      label: Usage Patterns
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: key_preferences
+      label: Key Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

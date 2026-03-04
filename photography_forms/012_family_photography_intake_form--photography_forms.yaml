@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photography Intake Form
+    pages:
+    - id: 1
+      name: family_photography_session
+      label: Family Photography Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_members
+      label: Family Members
+      hint: List all family members that will be photographed
+      type: select_multiple
+      options:
+      - Child
+      - Adult
+      - Senior
+      required: false
+    - id: 3
+      name: date_and_time
+      label: Date and Time of Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assistant_name
+      label: Assistant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '30'
+      - '45'
+      - '60'
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photography_style
+      label: Photography Style
+      hint: Please describe your desired photography style
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: List any specific requests you have
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photo_package
+      label: Photo Package
+      hint: Select a photo package
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Custom
+      required: false
+    - id: 18
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: photographer_notes
+      label: Photographer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_instructions
+      label: Follow Up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_instructions
+      label: Contact Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_contact_method
+      label: Follow Up Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 24
+      name: follow_up_contact_time
+      label: Follow Up Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_contact_note
+      label: Follow Up Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false

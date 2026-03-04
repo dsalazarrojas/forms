@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Produce Pre Order Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preorder_date
+      label: Pre-Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preorder_time
+      label: Pre-Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preorder_note
+      label: Pre-Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false

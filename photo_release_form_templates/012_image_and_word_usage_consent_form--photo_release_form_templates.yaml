@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_and_word_usage_consent_form
+    pages:
+    - id: 1
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: consent_period
+      label: Consent Period
+      hint: null
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 5 years
+      required: false
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - photo
+      - video
+      - written content
+      required: false
+    - id: 4
+      name: releaseee_consent
+      label: Releasee Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: releasee_name
+      label: Releasee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: releasee_email
+      label: Releasee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assignee_consent
+      label: Assignee Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: assignee_name
+      label: Assignee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assignee_email
+      label: Assignee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: assignee_organization
+      label: Assignee Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assignee_position
+      label: Assignee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assignee_contact_person
+      label: Assignee Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assignee_contact_phone
+      label: Assignee Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assignee_date
+      label: Assignee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assignee_time
+      label: Assignee Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: assignee_notes
+      label: Assignee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: assignee_consent_period
+      label: Assignee Consent Period
+      hint: null
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 5 years
+      required: false
+    - id: 25
+      name: assignee_consent_date
+      label: Assignee Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false

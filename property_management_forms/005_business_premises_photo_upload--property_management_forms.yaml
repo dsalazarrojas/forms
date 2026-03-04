@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Premises Photo Upload
+    pages:
+    - id: 1
+      name: property_name
+      label: Property Name or Address
+      hint: Full address of the business premises
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_id
+      label: Property ID or Reference Number
+      hint: Unique identifier for this property
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: Date when photos are being taken
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector or Submitter Name
+      hint: Name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_role
+      label: Inspector Role
+      hint: Select the role of the inspector
+      type: select_one
+      options:
+      - Property Manager
+      - Insurance Adjuster
+      - Business Owner
+      - Facility Inspector
+      - Maintenance Staff
+      required: true
+    - id: 6
+      name: inspection_purpose
+      label: Purpose of Inspection
+      hint: What is this inspection for
+      type: select_one
+      options:
+      - Routine Review
+      - Insurance Documentation
+      - Damage Assessment
+      - Compliance Check
+      - Maintenance Review
+      - Pre-purchase Inspection
+      required: true
+    - id: 7
+      name: building_exterior_photos
+      label: Building Exterior Photos
+      hint: Upload photos of the building exterior
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: main_entrance_photos
+      label: Main Entrance Area Photos
+      hint: Upload photos of the entrance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: interior_general_photos
+      label: Interior General Area Photos
+      hint: Upload photos of main interior spaces
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: office_area_photos
+      label: Office Area Photos
+      hint: Upload photos of office spaces
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: storage_area_photos
+      label: Storage Area Photos
+      hint: Upload photos of storage spaces
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_photos
+      label: Equipment or Fixture Photos
+      hint: Upload photos of key equipment
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: damage_or_issues
+      label: Damage or Issues Identified
+      hint: Note any damage or issues
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: damage_photos
+      label: Damage Area Photos
+      hint: Upload photos of any damage found
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_condition
+      label: Overall Premises Condition
+      hint: Rate the general condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: maintenance_needed
+      label: Maintenance or Repairs Needed
+      hint: Describe any maintenance required
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: safety_concerns
+      label: Safety Concerns
+      hint: List any safety concerns found
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compliance_notes
+      label: Compliance or Regulation Notes
+      hint: Any compliance issues noted
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspectors_comments
+      label: Inspector Comments
+      hint: Additional notes or observations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: followup_required
+      label: Follow-up Required
+      hint: Is a follow-up inspection needed
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Pending Review
+      required: false
+    - id: 21
+      name: followup_date
+      label: Recommended Follow-up Date
+      hint: When should follow-up occur
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submission_timestamp
+      label: Submission Date and Time
+      hint: When was this inspection submitted
+      type: date
+      options: []
+      required: true

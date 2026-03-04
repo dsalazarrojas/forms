@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Sales Employee Product Knowledge Assessment
+    pages:
+    - id: 1
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_knowledge
+      label: Product Knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: date_first_assessed
+      label: Date First Assessed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: territory
+      label: Territory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: sales_region
+      label: Sales Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false

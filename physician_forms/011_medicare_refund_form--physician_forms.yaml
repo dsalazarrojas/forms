@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_refund_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_id
+      label: Claim ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - claim_type_1
+      - claim_type_2
+      - claim_type_3
+      required: false
+    - id: 7
+      name: overpayment
+      label: Overpayment
+      hint: Enter overpayment amount
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: physician_signature
+      label: Physician's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

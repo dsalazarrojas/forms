@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distance And Color Measurement Survey
+    pages:
+    - id: 1
+      name: distance_and_color_measurement_survey_page_1
+      label: Distance Measuring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: distance_scale
+      label: Distance Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: distance_accuracy
+      label: Distance Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: distance_units
+      label: Distance Unit
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - centimeters
+      - meters
+      - kilometers
+      required: true
+    - id: 5
+      name: color_measurement_method_1
+      label: Color Measurement Method 1
+      hint: null
+      type: select_multiple
+      options:
+      - Ruler
+      - Caliper
+      - Other
+      required: false
+    - id: 6
+      name: color_measurement_method_2
+      label: Color Measurement Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - Ruler
+      - Caliper
+      - Other
+      required: false
+    - id: 7
+      name: color_measurement_equipment
+      label: Color Measurement Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: color_measurement_frequency
+      label: How Often Do You Measure Color?
+      hint: Select all that apply.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 9
+      name: distance_measurement_frequency
+      label: How Often Do You Measure Distance?
+      hint: Select all that apply.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 10
+      name: distance_measurement_method_1
+      label: Distance Measurement Method 1
+      hint: null
+      type: select_multiple
+      options:
+      - Ruler
+      - Caliper
+      - Other
+      required: false
+    - id: 11
+      name: distance_measurement_method_2
+      label: Distance Measurement Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - Ruler
+      - Caliper
+      - Other
+      required: false
+    - id: 12
+      name: color_measurement_frequency_2
+      label: Color Measurement Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: marathon_bib_number_printing_order_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: event info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: bib_number_type
+      label: Bib Number Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Short Sleeve''}'
+      - '{''text'': ''Long Sleeve''}'
+      required: true
+    - id: 4
+      name: bib_number_design
+      label: Bib Number Design
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Design 1''}'
+      - '{''text'': ''Design 2''}'
+      required: true
+    - id: 5
+      name: bib_number_color
+      label: Bib Number Color
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Red''}'
+      - '{''text'': ''Blue''}'
+      - '{''text'': ''Yellow''}'
+      required: true
+    - id: 6
+      name: bib_number_size
+      label: Bib Number Size
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Small''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Large''}'
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: bib_number_text
+      label: Bib Number Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Credit Card''}'
+      - '{''text'': ''PayPal''}'
+      required: true
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: upload_design
+      label: Upload Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_url
+      label: Upload URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_type
+      label: Upload Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Image''}'
+      - '{''text'': ''PDF''}'
+      required: true
+    - id: 23
+      name: upload_description
+      label: Upload Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: upload_size
+      label: Upload Size
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''10 MB''}'
+      - '{''text'': ''20 MB''}'
+      required: true
+    - id: 25
+      name: upload_notes
+      label: Upload Notes
+      hint: null
+      type: note
+      options: []
+      required: false

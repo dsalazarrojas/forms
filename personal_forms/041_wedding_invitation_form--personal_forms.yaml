@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Invitation Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Wedding Invitation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_theme
+      label: wedding theme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: wedding_date
+      label: wedding date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: wedding_time
+      label: wedding time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dress_code
+      label: dress code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gifts
+      label: gifts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_message
+      label: gift message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_one
+      options:
+      - RSVP
+      - Not RSVP
+      required: false
+    - id: 10
+      name: rsvp_message
+      label: rsvp message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rsvp_deadline
+      label: rsvp deadline
+      hint: null
+      type: date
+      options: []
+      required: false

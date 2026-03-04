@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Order Submission Form
+    pages:
+    - id: 1
+      name: product_order_form
+      label: Product Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_info
+      label: Business Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: repeatable_order
+      label: Repeatable Order
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: repeatable_order_note
+      label: Repeatable Order Note
+      hint: null
+      type: text
+      options: []
+      required: false

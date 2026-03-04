@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Transparency Petition Form
+    pages:
+    - id: 1
+      name: section_petitioner_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For petition communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: Country
+      hint: Your country
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_petition
+      label: -- Petition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: petition_title
+      label: Petition Title
+      hint: What is this petition for
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: charity_name
+      label: Charity Organization Name
+      hint: Which organization
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: transparency_issue
+      label: Specific Transparency Issue
+      hint: What transparency issue concerns you
+      type: select_one
+      options:
+      - Financial Disclosure
+      - Executive Compensation
+      - Program Impact Data
+      - Board Composition
+      - Conflict of Interest
+      - Fundraising Practices
+      - Other
+      required: true
+    - id: 13
+      name: issue_description
+      label: Detailed Description of Concern
+      hint: Explain the transparency issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_demands
+      label: -- Petition Demands --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: requested_action
+      label: What Action Are You Requesting
+      hint: What should the charity do
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: specific_reforms
+      label: Specific Reforms Requested
+      hint: List specific changes desired
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_support
+      label: -- Support Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: support_level
+      label: Level of Support for This Petition
+      hint: How strongly do you support this
+      type: select_one
+      options:
+      - Strongly Support
+      - Support
+      - Somewhat Support
+      - Neutral
+      - Somewhat Oppose
+      required: true
+    - id: 19
+      name: willing_to_help
+      label: Willing to Help Promote This Petition
+      hint: Assist with advocacy efforts
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: false
+    - id: 20
+      name: section_consent
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: name_publication
+      label: My Name Can Be Published with This Petition
+      hint: Public or anonymous signature
+      type: select_one
+      options:
+      - Yes, Publish My Name
+      - No, Keep Anonymous
+      required: true
+    - id: 22
+      name: agreement
+      label: I Agree with the Petition Goals and Statement
+      hint: Support the petition
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 23
+      name: petition_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_print_release_form_template
+    pages:
+    - id: 1
+      name: photographer_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: materials
+      label: Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photo_print_permission
+      label: Print Permission
+      hint: null
+      type: select_one
+      options:
+      - Print Permission
+      - Do Not Print
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: photographer_info
+      label: Photographer Information
+      hint: null
+      type: text
+      options: []
+      required: false

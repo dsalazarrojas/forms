@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_consent_release_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practitioner_info
+      label: Practitioner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_details
+      label: Consent Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transfer_2
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_transfer
+      label: Time of Transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_release
+      label: Consent to Release
+      hint: null
+      type: select_one
+      options:
+      - Physician
+      - Nurse Practitioner
+      - Physician Assistant
+      - Nurse
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

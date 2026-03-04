@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Project Photography Consent Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth (for minors, parent/guardian information required)
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Your current address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Your email address for follow-up communications
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number for follow-up communications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship_to_subject
+      label: Relationship to Subject
+      hint: What is your relationship to the person in the photographs?
+      type: select_one
+      options:
+      - Subject themselves
+      - Parent/Legal Guardian
+      - Spouse/Domestic Partner
+      - Authorized Representative
+      - Other
+      required: true
+    - id: 7
+      name: photography_purpose
+      label: Photography Purpose
+      hint: What is the purpose of the photography?
+      type: select_multiple
+      options:
+      - Documentation of accessibility improvements
+      - Promotional materials
+      - Educational content
+      - Research purposes
+      - Website content
+      - Social media
+      - Print publications
+      - Presentations
+      - Other
+      required: true
+    - id: 8
+      name: photography_location
+      label: Photography Location
+      hint: Where will the photography take place?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photography_dates
+      label: Photography Dates
+      hint: When will the photography occur?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photography_types
+      label: Photography Types
+      hint: What types of photographs will be taken?
+      type: select_multiple
+      options:
+      - Individual portraits
+      - Group photos
+      - Environmental shots
+      - Before and after comparisons
+      - Accessibility feature demonstrations
+      - Event documentation
+      - Other
+      required: true
+    - id: 11
+      name: consent_granted
+      label: Consent Granted
+      hint: Do you give permission for photography as described?
+      type: select_one
+      options:
+      - Yes, I grant full consent
+      - Yes, with restrictions
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: consent_restrictions
+      label: Consent Restrictions
+      hint: If you granted consent with restrictions, please specify
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: usage_rights_granted
+      label: Usage Rights Granted
+      hint: What rights are you granting for the use of these photographs?
+      type: select_multiple
+      options:
+      - Unlimited usage rights
+      - Non-commercial usage
+      - Educational usage
+      - Publication rights
+      - Digital distribution
+      - Print reproduction
+      - Modification rights
+      - No commercial resale
+      required: true
+    - id: 14
+      name: usage_duration
+      label: Usage Duration
+      hint: How long should the organization be allowed to use these photographs?
+      type: select_one
+      options:
+      - Perpetual
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - 10 Years
+      - Until project completion
+      - Other
+      required: true
+    - id: 15
+      name: compensation_acknowledgment
+      label: Compensation Acknowledgment
+      hint: Do you expect compensation for the use of these photographs?
+      type: select_one
+      options:
+      - No compensation expected
+      - Compensation agreed separately
+      - Rights exchange arrangement
+      - Other agreement
+      required: true
+    - id: 16
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: Do you reserve the right to withdraw consent at a later date?
+      type: select_one
+      options:
+      - Yes, I reserve the right to withdraw
+      - No, consent is irrevocable
+      - Only for future usage, not existing copies
+      required: true
+    - id: 17
+      name: special_considerations
+      label: Special Considerations
+      hint: Are there any special considerations regarding the subject's accessibility
+        needs during photography?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: credit_preferences
+      label: Credit Preferences
+      hint: How would you like the subject to be credited in publications?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: Electronic signature acknowledging consent
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anime Keychain Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address_header
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal or Zip Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Your country
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: product_selection_header
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: keychain_series
+      label: Keychain Series or Set
+      hint: Which series you want
+      type: select_one
+      options:
+      - Popular Heroes Series
+      - Cute Chibi Characters
+      - Premium Metallic Line
+      - Glow-in-the-Dark Collection
+      - Holographic Series
+      - Limited Edition Series
+      - Custom Design Option
+      required: true
+    - id: 13
+      name: character_selection
+      label: Select Your Character
+      hint: Which character on the keychain
+      type: select_multiple
+      options:
+      - Character A - Popular Hero
+      - Character B - Mysterious Rival
+      - Character C - Comic Relief
+      - Character D - Supporting Role
+      - Character E - Major Antagonist
+      - Character F - Mascot
+      - Complete Set of All Characters
+      required: true
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: How many keychains
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: material_header
+      label: -- Material and Style Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: material_type
+      label: Material Type
+      hint: What material do you prefer
+      type: select_one
+      options:
+      - Soft Rubber PVC
+      - Hard Plastic Acrylic
+      - Metal with Enamel
+      - Resin
+      - Silicone
+      - Leather Accent
+      - Mixed Materials
+      required: false
+    - id: 17
+      name: finish_style
+      label: Finish Style
+      hint: Select the finish
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Metallic
+      - Holographic
+      - Glow-in-the-Dark
+      - Textured
+      required: false
+    - id: 18
+      name: size_option
+      label: Size Option
+      hint: Choose size preference
+      type: select_one
+      options:
+      - Small (1 inch)
+      - Medium (1.5 inches)
+      - Large (2 inches)
+      - Extra Large (3 inches)
+      - Mixed Sizes
+      required: false
+    - id: 19
+      name: personalization_header
+      label: -- Personalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: custom_name
+      label: Add Custom Name or Text
+      hint: Optional personalization
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: engraving_option
+      label: Add Engraving
+      hint: Engrave custom text
+      type: select_one
+      options:
+      - Yes, engrave for me
+      - No engraving needed
+      required: false
+    - id: 22
+      name: gift_wrapping
+      label: Gift Wrapping Option
+      hint: Would you like gift wrapping
+      type: select_one
+      options:
+      - Yes, please wrap
+      - No wrapping needed
+      required: true
+    - id: 23
+      name: shipping_method_header
+      label: -- Shipping Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: shipping_method
+      label: Shipping Method
+      hint: How fast do you need it
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Express Shipping (2-3 days)
+      - Overnight Shipping
+      - Local Pickup
+      required: true
+    - id: 25
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional requests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bladder Diary Form
+    pages:
+    - id: 1
+      name: diary_intro
+      label: -- Daily Bladder Health Diary --
+      hint: Please record your bladder and urinary health information daily
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: diary_date
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: wake_time
+      label: Time You Woke Up
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: bedtime
+      label: Time You Went to Bed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: nighttime_episodes
+      label: Number of nighttime urination episodes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: daytime_frequency
+      label: Number of daytime urination episodes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: incontinence_episodes
+      label: Number of incontinence episodes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: incontinence_type
+      label: Type of incontinence experienced
+      hint: null
+      type: select_multiple
+      options:
+      - Stress incontinence
+      - Urgency incontinence
+      - Mixed
+      - None
+      required: true
+    - id: 11
+      name: fluid_intake_amount
+      label: Total fluid intake (in ounces)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fluid_types
+      label: Types of fluids consumed
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Coffee
+      - Tea
+      - Alcohol
+      - Soda
+      - Sports drinks
+      - Other
+      required: false
+    - id: 13
+      name: urine_color
+      label: Urine color
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Pale yellow
+      - Yellow
+      - Dark yellow
+      - Orange
+      - Brown
+      required: true
+    - id: 14
+      name: pain_level
+      label: Pain or discomfort level (0-10)
+      hint: 0 = no pain, 10 = severe pain
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: pain_location
+      label: Location of pain (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medications_taken
+      label: Medications taken today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: diet_notes
+      label: Special diet or foods consumed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: activity_level
+      label: Activity level today
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Light activity
+      - Moderate activity
+      - Heavy activity
+      required: false
+    - id: 19
+      name: sleep_quality
+      label: Sleep quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very good
+      required: false
+    - id: 20
+      name: stress_level
+      label: Stress level today (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional notes or observations
+      hint: null
+      type: text
+      options: []
+      required: false

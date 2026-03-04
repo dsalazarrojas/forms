@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photography Contract Form
+    pages:
+    - id: 1
+      name: family_photography_contract_form
+      label: Contract Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_contract_form_client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_contract_form_services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: family_contract_form_session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: family_contract_form_terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: false

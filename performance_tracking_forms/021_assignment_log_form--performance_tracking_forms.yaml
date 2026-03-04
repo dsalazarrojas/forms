@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Log Form
+    pages:
+    - id: 1
+      name: log_entry_date
+      label: Log Entry Date
+      hint: Date of this log entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: class_or_course
+      label: Class or Course
+      hint: Name of class/course
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assignment_number
+      label: Assignment Number
+      hint: Which assignment in sequence?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assignment_title
+      label: Assignment Title
+      hint: Name or title of assignment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assignment_type
+      label: Assignment Type
+      hint: What kind of assignment?
+      type: select_one
+      options:
+      - Essay
+      - Project
+      - Problem Set
+      - Presentation
+      - Lab Report
+      - Research Paper
+      - Quiz
+      - Case Study
+      - Other
+      required: true
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: When is it due?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: When was it submitted?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_method
+      label: Submission Method
+      hint: How was it submitted?
+      type: select_one
+      options:
+      - Online Portal
+      - Email
+      - In Person
+      - Document Upload
+      - Other
+      required: true
+    - id: 11
+      name: is_late
+      label: Submitted Late?
+      hint: Was it after due date?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 12
+      name: days_late
+      label: Days Late (if applicable)
+      hint: How many days late?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assignment_status
+      label: Assignment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Submitted
+      - Graded
+      - Pending Review
+      - Revision Requested
+      - Missing
+      - Incomplete
+      required: true
+    - id: 14
+      name: grade_received
+      label: Grade Received
+      hint: Numerical grade or score
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: letter_grade
+      label: Letter Grade
+      hint: A, B, C, D, F, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments_from_grader
+      label: Grader Comments
+      hint: Feedback from instructor
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_notes
+      label: Student Notes
+      hint: Student comments about assignment
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: time_spent_hours
+      label: Approximate Time Spent (hours)
+      hint: How long did student work on it?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: difficulty_level
+      label: Difficulty Level
+      hint: How difficult was the assignment?
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Challenging
+      - Very Difficult
+      required: false
+    - id: 20
+      name: learning_objectives_met
+      label: Learning Objectives Met
+      hint: Which objectives were achieved?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resubmission_allowed
+      label: Resubmission Allowed?
+      hint: Can student resubmit?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - With Conditions
+      required: false
+    - id: 22
+      name: extra_credit
+      label: Extra Credit Points
+      hint: Any bonus points?
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: recorded_by
+      label: Log Recorded By
+      hint: Name of person logging
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: entry_complete
+      label: Log Entry Complete
+      hint: Is this entry complete?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

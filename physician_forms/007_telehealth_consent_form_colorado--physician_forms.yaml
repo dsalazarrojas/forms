@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Consent Form Colorado
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mom
+      - Dad
+      - Brother
+      - Sister
+      - Spouse
+      - Grandparent
+      - Grandchild
+      required: false
+    - id: 8
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: primary_care_provider
+      label: Primary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Allergies
+      - Asthma
+      - Back pain
+      - Blood pressure
+      - Cancer
+      - Cholesterol
+      - Diabetes
+      - Epilepsy
+      - Fibromyalgia
+      - High blood pressure
+      - High cholesterol
+      - Hypertension
+      - Migraines
+      - Osteoporosis
+      - Other
+      required: false
+    - id: 13
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Anxiety
+      - Arthritis
+      - Asthma
+      - Back pain
+      - Bipolar
+      - Blood pressure
+      - Cancer
+      - Cholesterol
+      - Diabetes
+      - Epilepsy
+      - Fibromyalgia
+      - High blood pressure
+      - High cholesterol
+      - Hypertension
+      - Migraines
+      - Osteoporosis
+      - Other
+      - Seizures
+      - Stroke
+      required: false
+    - id: 14
+      name: telehealth_services_used
+      label: Telehealth Services Used
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Telehealth Visit
+      - Video Visit
+      - Phone Call
+      required: false
+    - id: 15
+      name: provider_type
+      label: Provider Type
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Doctor
+      - Nurse
+      - Other
+      - Therapist
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Clinic
+      - Hospital
+      - Other
+      required: false
+    - id: 17
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 18
+      name: insurance
+      label: Insurance
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Commercial
+      - Other
+      required: false
+    - id: 19
+      name: date_last_telehealth_visit
+      label: Date Last Telehealth Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: date_first_telehealth_visit
+      label: Date First Telehealth Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: number_of_telehealth_visits
+      label: Number of Telehealth Visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: telehealth_consent
+      label: Telehealth Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: electronic_signature
+      label: Electronic Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false

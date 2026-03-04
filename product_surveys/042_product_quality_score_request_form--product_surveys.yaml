@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Quality Score Request Form
+    pages:
+    - id: 1
+      name: product_quality_score
+      label: Product Quality Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 5, ''label'': ''Excellent''}'
+      - '{''value'': 4, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Fair''}'
+      - '{''value'': 2, ''label'': ''Poor''}'
+      - '{''value'': 1, ''label'': ''Bad''}'
+      required: true
+    - id: 3
+      name: product_comment
+      label: Product Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mobile'', ''label'': ''Mobile''}'
+      - '{''value'': ''Laptops'', ''label'': ''Laptops''}'
+      - '{''value'': ''Tablets'', ''label'': ''Tablets''}'
+      - '{''value'': ''Desktop'', ''label'': ''Desktop''}'
+      - '{''value'': ''Wearable'', ''label'': ''Wearable''}'
+      - '{''value'': ''Gaming Console'', ''label'': ''Gaming Console''}'
+      required: true
+    - id: 9
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''windows'', ''label'': ''Windows''}'
+      - '{''value'': ''mac'', ''label'': ''Mac''}'
+      - '{''value'': ''android'', ''label'': ''Android''}'
+      required: true
+    - id: 10
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: rating_frequency
+      label: Rating Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

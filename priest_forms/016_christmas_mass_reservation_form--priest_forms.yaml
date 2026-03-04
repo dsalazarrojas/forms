@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Mass Reservation Form
+    pages:
+    - id: 1
+      name: parishioner_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent notifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: family_name
+      label: Family Name
+      hint: Name for reservation listing
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_parishioner_info
+      label: -- Parishioner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: mass_date
+      label: Preferred Mass Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: mass_time
+      label: Preferred Mass Time
+      hint: Select service time
+      type: select_one
+      options:
+      - Christmas Eve 4pm Family Mass
+      - Christmas Eve 6pm Youth Mass
+      - Christmas Eve 8pm Traditional Mass
+      - Christmas Eve 10pm Midnight Mass
+      - Christmas Day 7am Dawn Mass
+      - Christmas Day 9am Family Mass
+      - Christmas Day 11am Solemn Mass
+      required: true
+    - id: 8
+      name: number_attending
+      label: Number Attending
+      hint: Total people in your party
+      type: select_one
+      options:
+      - 1 person
+      - 2 people
+      - 3-4 people
+      - 5-6 people
+      - 7-8 people
+      - 9 or more
+      required: true
+    - id: 9
+      name: children_count
+      label: Number of Children
+      hint: Children under 12
+      type: select_one
+      options:
+      - 0 no children
+      - 1 child
+      - 2 children
+      - 3 children
+      - 4 or more children
+      required: false
+    - id: 10
+      name: section_mass_selection
+      label: -- Mass Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: seating_preference
+      label: Seating Preference
+      hint: Where would you like to sit
+      type: select_one
+      options:
+      - No preference
+      - Front section
+      - Middle section
+      - Back section
+      - Side aisle
+      - Wheelchair accessible
+      - Family section
+      required: true
+    - id: 12
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair seating
+      - Hearing assistance
+      - Aisle seating
+      - Extra space needed
+      - Other
+      required: true
+    - id: 13
+      name: intention_request
+      label: Mass Intention Request
+      hint: Would you like to request a special intention
+      type: select_one
+      options:
+      - No thank you
+      - Yes for family member
+      - Yes for deceased loved one
+      - Yes for special occasion
+      - Yes for sick person
+      required: true
+    - id: 14
+      name: intention_name
+      label: Intention Name
+      hint: Name for the intention
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: communion_preference
+      label: Communion Preference
+      hint: Will you receive communion
+      type: select_one
+      options:
+      - Yes I will receive
+      - No I will not receive
+      - Blessing only
+      required: false
+    - id: 17
+      name: choir_interest
+      label: Interested in Joining Choir
+      hint: Would you like to sing for Christmas mass
+      type: select_one
+      options:
+      - No thank you
+      - Yes for Christmas Eve
+      - Yes for Christmas Day
+      - Yes for both
+      - Maybe
+      required: false
+    - id: 18
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to help during mass
+      type: select_one
+      options:
+      - No thank you
+      - Yes as usher
+      - Yes as lector
+      - Yes as altar server
+      - Yes for setup or cleanup
+      required: false
+    - id: 19
+      name: section_participation
+      label: -- Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: first_time_visitor
+      label: First Time Visitor
+      hint: Is this your first time at our church
+      type: select_one
+      options:
+      - No I am a regular parishioner
+      - No but I visit occasionally
+      - Yes first time
+      - Yes visiting for holidays
+      required: true
+    - id: 21
+      name: parish_registration
+      label: Parish Registration Status
+      hint: Are you registered in our parish
+      type: select_one
+      options:
+      - Yes registered member
+      - No but interested
+      - No just visiting
+      - Not sure
+      required: false
+    - id: 22
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking information
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes need parking info
+      - Yes need accessible parking
+      - Yes carpooling
+      required: true
+    - id: 23
+      name: special_notes
+      label: Special Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prayer_requests
+      label: Prayer Requests
+      hint: Any specific prayer intentions
+      type: text
+      options: []
+      required: false

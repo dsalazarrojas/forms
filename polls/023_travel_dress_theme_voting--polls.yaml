@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Dress Theme Voting
+    pages:
+    - id: 1
+      name: travel_dress_theme_voting_page_1
+      label: Travel dress theme options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: travel_dress_theme_choice_1
+      label: Theme 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_dress_theme_choice_2
+      label: Theme 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_dress_theme_liking
+      label: How much do you like this theme?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_dress_theme_preferred_1
+      label: Preferred theme 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_dress_theme_preferred_2
+      label: Preferred theme 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_dress_theme_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_dress_theme_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: travel_dress_theme_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_dress_theme_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

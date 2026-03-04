@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headphone Purchase Feedback
+    pages:
+    - id: 1
+      name: headphones_used
+      label: headphones_used
+      hint: null
+      type: select_multiple
+      options:
+      - Sony
+      - Sennheiser
+      - Audio-Technica
+      - Beats
+      - Other
+      required: true
+    - id: 2
+      name: purchase_location
+      label: purchase_location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Other
+      required: true
+    - id: 3
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - '5'
+      required: true
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: headphones_warranty
+      label: headphones_warranty
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: purchase_channel
+      label: purchase_channel
+      hint: null
+      type: select_one
+      options:
+      - Retailer
+      - Direct
+      - Online Ad
+      required: true
+    - id: 9
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - In-ears
+      - On-ears
+      - Earbuds
+      required: true
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Bad
+      required: true
+    - id: 12
+      name: pros
+      label: pros
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cons
+      label: cons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: purchase_proof
+      label: purchase_proof
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: purchase_id
+      label: purchase_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_id
+      label: product_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: feedback_id
+      label: feedback_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pros2
+      label: pros2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: cons2
+      label: cons2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments2
+      label: additional_comments2
+      hint: null
+      type: text
+      options: []
+      required: false

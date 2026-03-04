@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_control_panel_assembly_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_config
+      label: Order Config
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Bank Transfer''}'
+      required: true
+    - id: 13
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_config_notes
+      label: Order Config Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''New Order''}'
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Completed''}'
+      - '{''name'': ''Cancelled''}'
+      required: false
+    - id: 21
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Paid''}'
+      - '{''name'': ''Pending''}'
+      - '{''name'': ''Cancelled''}'
+      required: false
+    - id: 22
+      name: customer_info_notes
+      label: Customer Info Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_config_info
+      label: Order Config Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false

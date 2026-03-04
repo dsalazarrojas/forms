@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blu Ray Release Pre Order Form
+    pages:
+    - id: 1
+      name: preorder_intro
+      label: -- Blu-ray Pre-Order --
+      hint: Reserve your copy before release
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: title_name
+      label: Blu-ray Title
+      hint: Movie or show name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: format_type
+      label: Format Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Blu-ray
+      - 4K Ultra HD Blu-ray
+      - 3D Blu-ray
+      - Steelbook edition
+      required: true
+    - id: 13
+      name: quantity
+      label: Number of Copies
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: unit_price
+      label: Price Per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_price
+      label: Total Pre-Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: special_edition
+      label: Special Edition or Collector's Item
+      hint: null
+      type: select_one
+      options:
+      - Standard edition
+      - Limited edition
+      - Collector's edition
+      - Exclusive retailer edition
+      required: false
+    - id: 17
+      name: bonus_features
+      label: Include Bonus Features?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Gift Card
+      required: true
+    - id: 19
+      name: notification_preference
+      label: Notification Preference
+      hint: When item ships
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone call
+      - No notification
+      required: false
+    - id: 20
+      name: preorder_date
+      label: Pre-Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

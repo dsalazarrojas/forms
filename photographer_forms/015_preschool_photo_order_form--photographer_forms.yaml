@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Photo Order Form
+    pages:
+    - id: 1
+      name: photo_session
+      label: Photo Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_package
+      label: Photo Package
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_portfolio_inquiry_form
+    pages:
+    - id: 1
+      name: photographer
+      label: Photography Portfolio Inquiry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: what_services
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact
+      label: Contact Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Contact Tracing Form Template
+    pages:
+    - id: 1
+      name: first_page
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: patient_name
+      hint: patient name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sex
+      label: patient_sex
+      hint: male/female/other
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 6
+      name: phone
+      label: patient_phone
+      hint: phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: physician_info
+      label: physician_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_visited
+      label: date_visited
+      hint: date last visited
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_visited
+      label: time_visited
+      hint: time last visited
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: contact_type
+      label: contact_type
+      hint: in person/phone/internet
+      type: select_one
+      options:
+      - in person
+      - phone
+      - internet
+      required: false
+    - id: 12
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_note
+      label: physician_note
+      hint: null
+      type: text
+      options: []
+      required: false

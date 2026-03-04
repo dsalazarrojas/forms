@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Wishlist Form
+    pages:
+    - id: 1
+      name: gift_requests
+      label: Gift Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_wishlist
+      label: Product Wishlist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: friend_requests
+      label: Friend Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_requests
+      label: Customer Requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_details
+      label: Email Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: wishlist_category
+      label: Wishlist Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false

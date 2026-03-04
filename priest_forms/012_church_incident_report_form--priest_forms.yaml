@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Incident Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Your Full Name
+      hint: Person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: reporter_phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_role
+      label: Your Role in the Church
+      hint: null
+      type: select_one
+      options:
+      - Staff member
+      - Volunteer
+      - Member
+      - Visitor
+      - Parent/Guardian
+      - Other
+      required: true
+    - id: 5
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen
+      type: select_one
+      options:
+      - Main Sanctuary
+      - Fellowship Hall
+      - Classroom
+      - Nursery
+      - Playground
+      - Parking Lot
+      - Kitchen
+      - Office
+      - Other location
+      required: true
+    - id: 8
+      name: incident_type
+      label: Type of Incident
+      hint: Select the category
+      type: select_one
+      options:
+      - Injury/Accident
+      - Property Damage
+      - Theft
+      - Behavioral Issue
+      - Medical Emergency
+      - Safety Hazard
+      - Harassment
+      - Other
+      required: true
+    - id: 9
+      name: persons_involved
+      label: Names of Persons Involved
+      hint: List all individuals involved
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: witnesses
+      label: Were There Any Witnesses
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: witness_names
+      label: Witness Names and Contact Information
+      hint: If yes, please list
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Please describe what happened in detail
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: injuries_sustained
+      label: Were Any Injuries Sustained
+      hint: null
+      type: select_one
+      options:
+      - No injuries
+      - Minor injuries (first aid only)
+      - Moderate injuries (medical attention needed)
+      - Serious injuries (emergency care required)
+      required: true
+    - id: 14
+      name: injury_description
+      label: Describe Any Injuries
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_response
+      label: What Medical Response Was Provided
+      hint: First aid, 911 called, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_damage
+      label: Was There Property Damage
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 17
+      name: damage_description
+      label: Describe Property Damage
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: immediate_action
+      label: What Immediate Actions Were Taken
+      hint: Describe response to incident
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: authorities_notified
+      label: Were Authorities Notified
+      hint: Police, fire, EMS
+      type: select_one
+      options:
+      - Yes, police
+      - Yes, fire department
+      - Yes, EMS
+      - Yes, all applicable
+      - false
+      required: true
+    - id: 20
+      name: follow_up_needed
+      label: Is Follow-Up Action Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, urgent
+      - Yes, but not urgent
+      - false
+      required: true
+    - id: 21
+      name: follow_up_suggestions
+      label: Suggested Follow-Up Actions
+      hint: Your recommendations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photos_available
+      label: Do You Have Photos of the Incident
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Anything else relevant
+      type: text
+      options: []
+      required: false

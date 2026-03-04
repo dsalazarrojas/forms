@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Infectives Key Opinion Leader (KOL) Survey
+    pages:
+    - id: 1
+      name: professional_title
+      label: What is your professional title or position?
+      hint: Your current role in healthcare or pharmaceutical industry
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: years_of_experience
+      label: Years of experience in anti-infectives field
+      hint: Approximately how many years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: medical_license_state
+      label: State of medical license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: practice_setting
+      label: Primary practice setting
+      hint: Select your main practice environment
+      type: select_one
+      options:
+      - Hospital
+      - Private Practice
+      - Clinic
+      - Academic Medical Center
+      - Pharmaceutical Company
+      required: true
+    - id: 5
+      name: antibiotic_prescribing_frequency
+      label: How frequently do you prescribe anti-infective medications?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 6
+      name: treatment_areas
+      label: Which treatment areas are you most involved with?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Respiratory infections
+      - Urinary tract infections
+      - Surgical site infections
+      - Bloodstream infections
+      - Skin and soft tissue infections
+      - Gastrointestinal infections
+      required: false
+    - id: 7
+      name: resistance_concerns
+      label: What antibiotic resistance concerns are most pressing in your practice?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_guidelines_adherence
+      label: Do you typically follow established antibiotic treatment guidelines?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: guideline_sources
+      label: Which guidelines do you rely on?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CDC guidelines
+      - IDSA guidelines
+      - Hospital protocols
+      - Professional associations
+      - Pharmaceutical representatives
+      - Clinical trials data
+      required: false
+    - id: 10
+      name: awareness_new_therapies
+      label: How informed are you about new anti-infective therapies?
+      hint: null
+      type: select_one
+      options:
+      - Very informed
+      - Well informed
+      - Moderately informed
+      - Somewhat informed
+      - Not informed
+      required: true
+    - id: 11
+      name: information_sources
+      label: Primary sources for learning about new therapies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical journals
+      - Conferences
+      - Continuing education
+      - Pharmaceutical representatives
+      - Professional organizations
+      - Online resources
+      required: false
+    - id: 12
+      name: barriers_implementation
+      label: What barriers do you face in implementing new anti-infective protocols?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: collaboration_infectious_disease
+      label: Do you collaborate with infectious disease specialists?
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: stewardship_participation
+      label: Are you involved in antimicrobial stewardship programs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, leadership role
+      - Yes, active participant
+      - Yes, limited involvement
+      - No, but interested
+      - No, not interested
+      required: false
+    - id: 15
+      name: patient_education_priority
+      label: How important is patient education about antibiotic use in your practice?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 16
+      name: innovation_priorities
+      label: What innovations in anti-infectives are you most interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Combination therapies
+      - Narrow spectrum agents
+      - Novel mechanisms of action
+      - Improved tolerability
+      - Shorter treatment durations
+      - Improved dosing regimens
+      required: false
+    - id: 17
+      name: treatment_outcome_tracking
+      label: Do you track treatment outcomes and resistance patterns?
+      hint: null
+      type: select_one
+      options:
+      - Systematically
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: feedback_comments
+      label: Additional comments or feedback on anti-infectives practice
+      hint: Optional comments
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Email address for follow-up
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: willing_consultation
+      label: Would you be willing to serve as a consultant on anti-infectives topics?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Yes, possibly interested
+      - Maybe
+      - No, not interested
+      - Not at this time
+      required: false

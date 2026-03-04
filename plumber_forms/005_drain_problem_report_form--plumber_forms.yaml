@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drain Problem Report Form
+    pages:
+    - id: 1
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: problem_type
+      label: Problem Type
+      hint: What is the type of problem?
+      type: select_multiple
+      options:
+      - Water leak
+      - Clogged
+      - Slow draining
+      - Other
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: Please provide a detailed description of the issue.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false

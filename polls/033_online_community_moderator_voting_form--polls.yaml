@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Community Moderator Voting Form
+    pages:
+    - id: 1
+      name: moderator_selection
+      label: Moderator Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Moderator A
+      - Moderator B
+      - Moderator C
+      required: false
+    - id: 2
+      name: vote_type
+      label: Vote Type
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vote
+      label: Vote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments_email
+      label: Comments (email)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: moderator_name
+      label: Moderator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: moderator_experience
+      label: Moderator Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: moderator_bio
+      label: Moderator Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: community_name
+      label: Community Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: moderator_ideas
+      label: Moderator Ideas
+      hint: null
+      type: text
+      options: []
+      required: false

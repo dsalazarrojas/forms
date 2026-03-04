@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backflow Test Form
+    pages:
+    - id: 1
+      name: tester_name
+      label: Tester Full Name
+      hint: Name of certified tester
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tester_company
+      label: Testing Company
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tester_phone
+      label: Tester Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tester_email
+      label: Tester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: tester_certification
+      label: Certification Number
+      hint: Tester certification ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_date
+      label: Test Date
+      hint: Date of test performed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full address of test location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_owner
+      label: Property Owner Name
+      hint: Owner or business name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: device_type
+      label: Device Type
+      hint: Select backflow device type
+      type: select_one
+      options:
+      - Reduced Pressure Zone
+      - Double Check Valve
+      - Pressure Vacuum Breaker
+      - Atmospheric Vacuum Breaker
+      - Check Valve
+      - Other
+      required: true
+    - id: 10
+      name: device_manufacturer
+      label: Device Manufacturer
+      hint: Brand or manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: device_model
+      label: Device Model
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: device_serial
+      label: Device Serial Number
+      hint: Serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: device_size
+      label: Device Size
+      hint: Select size in inches
+      type: select_one
+      options:
+      - 1/2 inch
+      - 3/4 inch
+      - 1 inch
+      - 1.5 inch
+      - 2 inch
+      - 3 inch
+      - 4 inch
+      - Larger than 4 inch
+      required: true
+    - id: 14
+      name: device_location
+      label: Device Location
+      hint: Where is device installed
+      type: select_one
+      options:
+      - Inside building
+      - Outside in vault
+      - Outside above ground
+      - Irrigation system
+      - Fire suppression system
+      - Other
+      required: true
+    - id: 15
+      name: test_result
+      label: Test Result
+      hint: Select pass or fail
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 16
+      name: first_check_reading
+      label: First Check Valve Reading
+      hint: PSI reading
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: second_check_reading
+      label: Second Check Valve Reading
+      hint: PSI reading
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: relief_valve_reading
+      label: Relief Valve Opening Reading
+      hint: PSI reading if applicable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: repairs_needed
+      label: Repairs Needed
+      hint: Are repairs required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: repair_description
+      label: Repair Description
+      hint: Describe needed repairs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: retest_required
+      label: Retest Required
+      hint: Will retest be needed after repairs
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 22
+      name: comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tester_signature
+      label: Tester Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Development Initiative Poll
+    pages:
+      - id: 1
+        name: resident_area
+        label: Resident area or neighborhood
+        hint: Optional for anonymous polling
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: priority_issue
+        label: Top priority issue for development
+        hint: Choose the most important topic
+        type: select_one
+        options:
+          - Housing affordability
+          - Local jobs and economy
+          - Public safety
+          - Parks and recreation
+          - Transportation
+        required: true
+      - id: 3
+        name: support_for_initiative
+        label: Support level for proposed initiative
+        hint: Indicate your support
+        type: select_one
+        options:
+          - Strongly support
+          - Support
+          - Neutral
+          - Oppose
+          - Strongly oppose
+        required: true
+      - id: 4
+        name: willing_to_participate
+        label: Willing to participate in planning
+        hint: Volunteer or attend meetings
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: false
+      - id: 5
+        name: comments
+        label: Additional comments
+        hint: Open ended feedback
+        type: text
+        options: []
+        required: false

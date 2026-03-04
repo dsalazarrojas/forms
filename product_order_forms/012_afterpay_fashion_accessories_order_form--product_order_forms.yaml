@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Fashion Accessories Order Form
+    pages:
+    - id: 1
+      name: customer
+      label: -- Customer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Name of purchaser
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: item_description
+      label: Item description
+      hint: Include SKU and color
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: size_or_dimensions
+      label: Size or dimensions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: afterpay
+      label: Use Afterpay
+      hint: Select payment method
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: shipping
+      label: Shipping address
+      hint: Street city postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: gift_wrap
+      label: Gift wrap required
+      hint: Select if gift wrap is needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: notes
+      label: Order notes
+      hint: Additional instructions
+      type: text
+      options: []
+      required: false

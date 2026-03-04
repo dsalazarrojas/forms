@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Evaluation Form RWA 3
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_spent
+      label: time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_comments
+      label: reviewer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_form_submitted
+      label: evaluation form submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: false
+    - id: 13
+      name: submission_id
+      label: submission id
+      hint: null
+      type: number
+      options: []
+      required: false

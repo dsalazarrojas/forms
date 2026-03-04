@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Petition Form
+    pages:
+    - id: 1
+      name: supporter_info_header
+      label: -- Supporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send you updates about this petition
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Optional - for important updates only
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: Your country of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: Where you live
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: postal_code
+      label: Postal or Zip Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: petition_details_header
+      label: -- Petition Cause --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: petition_issue
+      label: What animal welfare issue are you most concerned about
+      hint: Select the primary issue for this petition
+      type: select_one
+      options:
+      - Animal Testing in Laboratories
+      - Factory Farming Practices
+      - Wildlife Protection
+      - Animal Cruelty Prevention
+      - Habitat Conservation
+      - Companion Animal Rights
+      - Endangered Species
+      - Other
+      required: true
+    - id: 11
+      name: specific_cause
+      label: Describe the Specific Cause or Change You Seek
+      hint: What specific action or policy change is needed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_organization
+      label: Organization or Government Target
+      hint: Who should implement this change
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: engagement_level
+      label: How would you like to be involved
+      hint: Select your level of involvement
+      type: select_multiple
+      options:
+      - Sign the Petition
+      - Share on Social Media
+      - Donate to the Cause
+      - Volunteer with the Organization
+      - Attend Events or Demonstrations
+      - Provide Testimonial
+      - Other
+      required: true
+    - id: 14
+      name: motivation_header
+      label: -- Your Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: personal_connection
+      label: Do you have a personal connection to this cause
+      hint: Share your story or background
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: why_signing
+      label: Why is it important for you to sign this petition
+      hint: Describe your reasons and values
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: communication_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: receive_updates
+      label: I want to receive updates about this cause
+      hint: We will send periodic updates via email
+      type: select_one
+      options:
+      - Yes, send me updates
+      - No, thank you
+      required: false
+    - id: 19
+      name: news_frequency
+      label: How often would you like to hear from us
+      hint: Select your preferred communication frequency
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Only Critical Updates
+      required: false
+    - id: 20
+      name: make_public
+      label: Make my signature public on the petition
+      hint: Your name will appear on the petition supporters list
+      type: select_one
+      options:
+      - Yes, show my name
+      - No, keep me anonymous
+      required: true
+    - id: 21
+      name: agreement_header
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: petition_agreement
+      label: I understand and agree with the petition goals
+      hint: You affirm your support for this cause
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 23
+      name: data_consent
+      label: I consent to the use of my data for this petition
+      hint: Your information will be used responsibly
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 24
+      name: additional_message
+      label: Additional Message or Comments
+      hint: Add any final thoughts or messages
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Collection Pre-Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_items
+      label: Order Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Standard Shipping'', ''label'': ''Standard Shipping'',
+        ''value'': ''Standard Shipping''}'
+      - '{''id'': 2, ''name'': ''Express Shipping'', ''label'': ''Express Shipping'',
+        ''value'': ''Express Shipping''}'
+      required: false
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card'', ''label'': ''Credit Card'', ''value'':
+        ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''Bank Transfer'', ''label'': ''Bank Transfer'', ''value'':
+        ''Bank Transfer''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 15
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending'', ''label'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Processing'', ''label'': ''Processing'', ''value'':
+        ''Processing''}'
+      - '{''id'': 3, ''name'': ''Shipped'', ''label'': ''Shipped'', ''value'': ''Shipped''}'
+      required: false
+    - id: 16
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: delivery_phone
+      label: Delivery Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_notes_2
+      label: Customer Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false

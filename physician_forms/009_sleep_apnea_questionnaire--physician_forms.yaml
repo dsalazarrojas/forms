@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Apnea Questionnaire
+    pages:
+    - id: 1
+      name: sleep_apnea_questionnaire_form
+      label: Sleep Apnea Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sleep_apnea_questions
+      label: Sleep Apnea Questions
+      hint: null
+      type: select_multiple
+      options:
+      - What is the most common symptom you experience when you sleep?
+      - Do you have difficulty breathing during sleep?
+      - Have you ever been diagnosed with sleep apnea?
+      required: true
+    - id: 3
+      name: sleep_apnea_frequency
+      label: Sleep Apnea Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sleep_apnea_duration
+      label: Sleep Apnea Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_apnea_risk_factors
+      label: Sleep Apnea Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - Obesity
+      - High Blood Pressure
+      required: true
+    - id: 6
+      name: sleep_apnea_symptoms
+      label: Sleep Apnea Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Shortness of breath
+      - Lack of oxygen in the blood
+      - Waking up short of breath
+      required: true
+    - id: 7
+      name: sleep_apnea_medication
+      label: Sleep Apnea Medication
+      hint: null
+      type: select_multiple
+      options:
+      - CPAP
+      - BiPAP
+      - Other
+      required: false
+    - id: 8
+      name: sleep_apnea_other_notes
+      label: Sleep Apnea Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sleep_apnea_email
+      label: Sleep Apnea Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sleep_apnea_phone
+      label: Sleep Apnea Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sleep_apnea_date
+      label: Sleep Apnea Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: sleep_apnea_time
+      label: Sleep Apnea Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: sleep_apnea_note
+      label: Sleep Apnea Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition For Visitation Form
+    pages:
+    - id: 1
+      name: petition_for_visitation_form
+      label: petition_for_visitation_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_info
+      label: petitioner_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: other_parent_info
+      label: other_parent_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: visitation_requests
+      label: visitation_requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: court_orders
+      label: court_orders
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: other_documents
+      label: other_documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: child_info
+      label: child_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: other_relationship
+      label: other_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: signature_2
+      label: signature_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: name_of_other_parent
+      label: name_of_other_parent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: name_of_other_parent_2
+      label: name_of_other_parent_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_phone
+      label: other_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_email
+      label: other_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: other_fax
+      label: other_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_address
+      label: other_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_signature
+      label: other_signature
+      hint: null
+      type: text
+      options: []
+      required: false

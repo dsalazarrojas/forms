@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower RSVP
+    pages:
+    - id: 1
+      name: guest_name
+      label: Your Full Name
+      hint: Name of person responding
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendance_status
+      label: Will You Attend
+      hint: Select your response
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe, will confirm later
+      required: true
+    - id: 5
+      name: additional_guests
+      label: Number of Additional Guests
+      hint: Including yourself, how many total
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: guest_names
+      label: Names of Additional Guests
+      hint: List names of others attending
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Select preferred drink
+      type: select_one
+      options:
+      - Regular
+      - Decaf
+      - Tea
+      - Juice
+      - Water
+      - No preference
+      required: false
+    - id: 9
+      name: bringing_gift
+      label: Will You Bring a Gift
+      hint: Gift status
+      type: select_one
+      options:
+      - true
+      - Gift card
+      - Bringing something homemade
+      - Prefer not to say
+      required: false
+    - id: 10
+      name: gift_type
+      label: Type of Gift
+      hint: What are you planning to bring
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: helping_with_event
+      label: Willing to Help with Event
+      hint: Can you assist with setup or cleanup
+      type: select_one
+      options:
+      - Yes, happy to help
+      - No, sorry
+      required: false
+    - id: 12
+      name: help_tasks
+      label: Tasks You Can Help With
+      hint: Select what you can do
+      type: select_multiple
+      options:
+      - Setup before event
+      - Greeting guests
+      - Serving food
+      - Photography
+      - Cleanup after event
+      - Cannot help
+      required: false
+    - id: 13
+      name: transportation_needed
+      label: Do You Need Transportation Help
+      hint: Do you need a ride
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: song_requests
+      label: Song Requests
+      hint: Any songs you would like played
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: message_for_parents
+      label: Message for Expectant Parents
+      hint: Share a note or wish
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: how_know_parents
+      label: How Do You Know the Parents
+      hint: Your relationship
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Co-worker
+      - Neighbor
+      - Other
+      required: false
+    - id: 17
+      name: rsvp_date
+      label: Date of Response
+      hint: Today date
+      type: date
+      options: []
+      required: true

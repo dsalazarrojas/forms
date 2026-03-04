@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_budget_form
+    pages:
+    - id: 1
+      name: project_budget_form_project
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_budget_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_budget_form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_budget_form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_budget_form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_budget_form_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_budget_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_budget_form_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

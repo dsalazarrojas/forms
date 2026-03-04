@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scented Sachet Opinion Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: scent_preferences
+      label: Scent preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: usage_habits
+      label: Usage habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: follow_up
+      label: Follow-up contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 7
+      name: contact_method
+      label: How would you like to contact you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 8
+      name: contact_number
+      label: Phone Number
+      hint: Please enter your phone number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_message
+      label: Follow-up message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

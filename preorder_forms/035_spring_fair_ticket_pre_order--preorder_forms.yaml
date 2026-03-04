@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Fair Ticket Pre Order
+    pages:
+    - id: 1
+      name: ticket_details
+      label: Ticket Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ticket_total
+      label: Ticket Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank
+      - PayPal
+      - Cash
+      required: false
+    - id: 12
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre_appointment_declaration_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scheduled_date
+      label: scheduled_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_insurance
+      label: medical_insurance
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Medicare
+      - Medicaid
+      - Tricare
+      - Private
+      - Other
+      - Self-pay
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

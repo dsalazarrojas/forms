@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Tracking Progress
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language
+      label: language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: week_starting_date
+      label: week_starting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: week_ending_date
+      label: week_ending_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_level
+      label: student_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''beginner''}'
+      - '{''id'': 2, ''name'': ''intermediate''}'
+      - '{''id'': 3, ''name'': ''advanced''}'
+      required: false
+    - id: 6
+      name: current_language_grade
+      label: current_language_grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weekly_progress
+      label: weekly_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_teacher
+      label: assigned_teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''teacher_2''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''tool_2''}'
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: category_name
+      label: category_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: subcategory_name
+      label: subcategory_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: language_proficiency
+      label: language_proficiency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: language_proficiency_name
+      label: language_proficiency_name
+      hint: null
+      type: text
+      options: []
+      required: false

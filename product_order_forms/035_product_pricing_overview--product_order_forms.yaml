@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Pricing Overview
+    pages:
+    - id: 1
+      name: product_pricing_overview
+      label: Product Pricing Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: Enter product name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_price
+      label: Product Price
+      hint: Enter price, including tax
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_discount
+      label: Product Discount
+      hint: Percentage off or promo code
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_promo_status
+      label: Product Promo Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 7
+      name: product_positioning
+      label: Product Positioning
+      hint: Competitive positioning and notes
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_category
+      label: product_category
+      hint: Enter product category
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_link
+      label: product_link
+      hint: null
+      type: text
+      options: []
+      required: false

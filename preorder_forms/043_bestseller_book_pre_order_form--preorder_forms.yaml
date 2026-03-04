@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bestseller Book Pre-order Form
+    pages:
+    - id: 1
+      name: pre_order_info_header
+      label: -- Pre-order Your Copy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: book_title_text
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_name_text
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_date_info
+      label: Release Date
+      hint: When the book is scheduled to ship
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_address_text
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: order_details_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: book_format_choice
+      label: Preferred Format
+      hint: Select the version you want
+      type: select_one
+      options:
+      - Hardcover - Deluxe Edition
+      - Paperback - Standard Edition
+      - E-book - Kindle/E-pub
+      - Audiobook - Digital Download
+      required: true
+    - id: 12
+      name: order_quantity
+      label: Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_price_val
+      label: Unit Price
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_order_val
+      label: Subtotal
+      hint: Calculate total before shipping
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: personalization_header
+      label: -- Personalization and Signed Copies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signed_copy_interest
+      label: Would you like a signed copy
+      hint: May result in longer shipping times
+      type: select_one
+      options:
+      - Yes - Signed by Author
+      - No - Standard Copy
+      required: true
+    - id: 17
+      name: inscription_name
+      label: Who should the book be made out to
+      hint: Leave blank for signature only
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_request_author
+      label: Special Request or Note for the Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_payment_header
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: shipping_method_choice
+      label: Shipping Method
+      hint: Choose your delivery speed
+      type: select_one
+      options:
+      - Standard Shipping (5-7 business days)
+      - Express Shipping (1-2 business days)
+      - International Delivery
+      - Pick-up in Store - No Charge
+      required: true
+    - id: 21
+      name: mailing_list_consent
+      label: Consent to join the author's mailing list
+      hint: Receive updates about new releases and events
+      type: select_one
+      options:
+      - Yes - Keep me updated
+      - No - Just the book please
+      required: true
+    - id: 22
+      name: pre_order_acknowledgment
+      label: I understand this is a pre-order and will ship on release
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and understand
+      - Other
+      required: true
+    - id: 23
+      name: pre_order_date_stamp
+      label: Date of Pre-order
+      hint: null
+      type: date
+      options: []
+      required: true

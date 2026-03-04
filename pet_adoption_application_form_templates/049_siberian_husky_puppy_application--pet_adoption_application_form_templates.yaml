@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Siberian Husky Puppy Application
+    pages:
+    - id: 1
+      name: family_info
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: family_size
+      label: Family Size
+      hint: Number of family members including pets
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: family_puppy_preferences
+      label: Puppy Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Puppies with lots of energy
+      - Puppies with low energy
+      - Both
+      required: true
+    - id: 9
+      name: ownership_commitment
+      label: Ownership Commitment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: other_pets
+      label: Other Pets
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: previous_puppies
+      label: Previous Puppies
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: house_type
+      label: House Type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Apartment
+      - Condo
+      required: true
+    - id: 13
+      name: yard_size
+      label: Yard Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      required: true
+    - id: 14
+      name: fence_type
+      label: Fence Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: smoking
+      label: Smoking
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: pets_allowed
+      label: Pets Allowed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Condo
+      - Townhouse
+      required: true
+    - id: 18
+      name: children
+      label: Children
+      hint: Number of children living in the house
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      required: true
+    - id: 20
+      name: income
+      label: Income
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 21
+      name: rental
+      label: Rental
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: rent_type
+      label: Rent Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: payment_plan
+      label: Payment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: deposit
+      label: Deposit
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Any additional information about you or your family
+      type: note
+      options: []
+      required: false

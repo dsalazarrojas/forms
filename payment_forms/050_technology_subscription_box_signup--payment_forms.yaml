@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Subscription Box Signup
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plan_selection
+      label: Plan Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: expiration_month
+      label: Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: expiration_year
+      label: Expiration Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: month
+      label: Month
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

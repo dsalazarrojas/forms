@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strength Training Registration Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: strength_training_goals
+      label: Strength Training Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Muscle Gain
+      - Weight Loss
+      - Endurance
+      - Flexibility
+      - Cardiovascular Endurance
+      required: false
+    - id: 8
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 9
+      name: available_time
+      label: Available Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: Medical Condition
+      hint: Any pre-existing medical condition you have that could impact your training?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: injury_history
+      label: Injury History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: previous_injuries
+      label: Previous Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: injury_precautions
+      label: Injury Precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_clearance
+      label: Medical Clearance
+      hint: Have you received a doctor's note indicating that it is safe for you to
+        train?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_intensity
+      label: Training Intensity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_type
+      label: Training Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_schedule
+      label: Training Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

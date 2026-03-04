@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dental Assistant Peer Evaluation Form
+    pages:
+    - id: 1
+      name: dental_assistant_name
+      label: dental_assistant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_period
+      label: evaluation_period
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: evaluation_frequency
+      label: evaluation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Frequent
+      - Occasional
+      - Rarely
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Needs Improvement
+      - Excellent
+      required: false
+    - id: 8
+      name: dental_practice_name
+      label: dental_practice_name
+      hint: null
+      type: select_one
+      options:
+      - North Star Dental
+      - Central Dental
+      - West Side
+      required: false
+    - id: 9
+      name: dental_practice_address
+      label: dental_practice_address
+      hint: null
+      type: select_multiple
+      options:
+      - Main Street
+      - Side Street
+      - Other
+      required: false

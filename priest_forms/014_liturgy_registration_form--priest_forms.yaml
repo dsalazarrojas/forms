@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liturgy Registration Form
+    pages:
+    - id: 1
+      name: event_id
+      label: Event
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: Please enter location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Funeral
+      - Mass
+      required: true
+    - id: 10
+      name: attendees
+      label: Attendees
+      hint: List of attendees
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Mary
+      required: true
+    - id: 13
+      name: updated_at
+      label: Updated at
+      hint: Please enter updated at
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Mary
+      required: false
+    - id: 15
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: event_location
+      label: Event location
+      hint: Please enter location
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: patient_survey_page
+      label: Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe
+      - Dr. Jane Smith
+      - Dr. John Smith
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: Please rate your satisfaction level.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

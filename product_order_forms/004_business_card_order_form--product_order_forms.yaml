@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Order Form
+    pages:
+    - id: 1
+      name: account_section
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: Account Type
+      hint: Is this a new or existing account?
+      type: select_one
+      options:
+      - New Account
+      - Existing Customer
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name of order contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: website_information
+      label: -- Website Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: Your business website URL
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website_color_scheme
+      label: Website Color Scheme
+      hint: Primary brand colors
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: logo_provided
+      label: Logo or Brand Files Provided
+      hint: Do you have logo files ready?
+      type: select_one
+      options:
+      - Yes, Files Attached
+      - Yes, Will Provide Later
+      - No, Need Design Help
+      required: false
+    - id: 11
+      name: card_details
+      label: -- Card Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: card_quantity
+      label: Quantity of Cards
+      hint: How many cards to order?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: card_size
+      label: Card Size
+      hint: Standard or custom size?
+      type: select_one
+      options:
+      - Standard 3.5 x 2 inches
+      - Standard 85 x 55mm
+      - Custom Size
+      required: true
+    - id: 14
+      name: paper_stock
+      label: Paper Stock
+      hint: Choose paper quality
+      type: select_one
+      options:
+      - Standard 14pt
+      - Premium 16pt
+      - Luxury 18pt
+      required: true
+    - id: 15
+      name: finish_type
+      label: Finish Type
+      hint: Card surface finish
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Linen
+      - Silk
+      required: true
+    - id: 16
+      name: card_information
+      label: Card Information for Printing
+      hint: Include position, department, credentials, etc. as needed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_details
+      label: -- Shipping Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state_zip
+      label: State and Zip Code
+      hint: State and postal code
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_speed
+      label: Shipping Speed
+      hint: How fast do you need delivery?
+      type: select_one
+      options:
+      - Standard 7-10 Days
+      - Expedited 3-5 Days
+      - Rush 1-2 Days
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Bank Account
+      required: true

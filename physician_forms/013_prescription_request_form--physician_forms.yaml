@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Request Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Patient DOB
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medicine_needed
+      label: medicines_needed
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Paracetamol
+      required: true
+    - id: 4
+      name: dosage
+      label: Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false

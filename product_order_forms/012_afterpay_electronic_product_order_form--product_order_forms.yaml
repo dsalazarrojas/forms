@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Electronic Product Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Electronics Purchase Form --
+      hint: High-quality electronics with Afterpay gateway
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Business or Personal Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, ZIP Code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hardware_header
+      label: -- Hardware Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_model
+      label: Product Model Name
+      hint: e.g., MacBook Pro M2
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sku_number
+      label: SKU or Part Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: product_condition
+      label: Condition - New, Refurbished, Open Box
+      hint: select the product condition
+      type: select_one
+      options:
+      - Brand New
+      - Certified Refurbished
+      - Open Box
+      required: true
+    - id: 10
+      name: warranty_options
+      label: Extended Warranty Options
+      hint: Protect your purchase
+      type: select_one
+      options:
+      - Standard 1 Year
+      - Extended 2 Years
+      - Premium 3 Years (Accidental Damage)
+      - No Warranty
+      required: true
+    - id: 11
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Afterpay
+      - Stripe (Credit Card)
+      - PayPal
+      required: true
+    - id: 12
+      name: subtotal
+      label: Subtotal
+      hint: price before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: shipping_cost
+      label: Shipping and Handling Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: delivery_instructions
+      label: Special delivery instructions - e.g., Gate code
+      hint: help the courier find your location
+      type: text
+      options: []
+      required: false

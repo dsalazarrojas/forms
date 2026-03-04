@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Assessment Questionnaire Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pain_location
+      label: Where is your pain located
+      hint: Select all areas where you experience pain
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Shoulders
+      - Upper Back
+      - Lower Back
+      - Arms
+      - Hands
+      - Legs
+      - Feet
+      - Abdomen
+      - Chest
+      required: true
+    - id: 4
+      name: pain_intensity
+      label: On a scale of 0 to 10, how would you rate your pain
+      hint: 0 means no pain, 10 means the worst pain imaginable
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pain_duration
+      label: How long have you been experiencing this pain
+      hint: null
+      type: select_one
+      options:
+      - Less than a week
+      - 1 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 months to 1 year
+      - More than 1 year
+      required: true
+    - id: 6
+      name: pain_type
+      label: What type of pain do you experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sharp
+      - Dull
+      - Burning
+      - Throbbing
+      - Shooting
+      - Aching
+      - Tingling
+      - Numbness
+      required: true
+    - id: 7
+      name: pain_triggers
+      label: What makes your pain worse
+      hint: Select all activities or factors that trigger your pain
+      type: select_multiple
+      options:
+      - Physical activity
+      - Stress
+      - Weather changes
+      - Certain foods
+      - Lack of sleep
+      - Prolonged sitting
+      - Prolonged standing
+      - Lifting objects
+      - None of the above
+      required: false
+    - id: 8
+      name: pain_relief
+      label: What helps relieve your pain
+      hint: Select all that provide relief
+      type: select_multiple
+      options:
+      - Rest
+      - Medication
+      - Heat therapy
+      - Cold therapy
+      - Massage
+      - Exercise
+      - Meditation
+      - Physical therapy
+      - Nothing helps
+      required: false
+    - id: 9
+      name: daily_activities_impact
+      label: How does pain affect your daily activities
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Mild impact
+      - Moderate impact
+      - Severe impact
+      - Completely unable to perform activities
+      required: true
+    - id: 10
+      name: sleep_quality
+      label: Does pain interfere with your sleep
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 11
+      name: current_medications
+      label: What medications are you currently taking for pain
+      hint: List all prescription and over-the-counter medications
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_treatments
+      label: Have you received any previous treatments for this pain
+      hint: Include physical therapy, injections, surgeries, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mood_impact
+      label: How has chronic pain affected your mood
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Increased irritability
+      - Anxiety
+      - Depression
+      - Frustration
+      - Mood swings
+      - No noticeable effect
+      required: false
+    - id: 14
+      name: work_impact
+      label: Has pain affected your ability to work
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Occasionally miss work
+      - Reduced productivity
+      - Changed job duties
+      - Unable to work
+      required: true
+    - id: 15
+      name: family_history
+      label: Is there a family history of chronic pain conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Any additional comments about your pain
+      hint: Please share anything else that might help us understand your condition
+      type: text
+      options: []
+      required: false

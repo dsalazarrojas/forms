@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_cake_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: cake_type
+      label: Cake Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: flavor
+      label: Flavor
+      hint: null
+      type: select_one
+      options:
+      - Red Velvet
+      - Chocolate
+      - Lemon
+      - Vanilla
+      - Strawberry
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false

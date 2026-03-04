@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coupling Expansion Feedback Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: survey_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: expansion_experience
+      label: how_was_your_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expansion_satisfaction
+      label: satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expansion_value
+      label: how_much_value
+      hint: null
+      type: select_multiple
+      options:
+      - Expansion was very much value to me
+      - Expansion was somewhat value to me
+      - Expansion was not value to me
+      required: false
+    - id: 5
+      name: expansion_usefulness
+      label: how_useful
+      hint: null
+      type: select_one
+      options:
+      - very
+      - somewhat
+      - not
+      - not_at_all
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

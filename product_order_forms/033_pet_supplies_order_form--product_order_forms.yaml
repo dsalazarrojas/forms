@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_supplies_order_form
+    pages:
+    - id: 1
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - dog
+      - cat
+      - other
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supply_type
+      label: Supply Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: supply_name
+      label: Supply Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

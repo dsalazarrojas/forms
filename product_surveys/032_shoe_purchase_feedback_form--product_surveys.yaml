@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shoe Purchase Feedback Form
+    pages:
+    - id: 1
+      name: shoe_purchase_feedback_form_1
+      label: How would you rate the quality of the shoes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: shoe_purchase_feedback_form_2
+      label: How would you rate the fit of the shoes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shoe_purchase_feedback_form_3
+      label: Which of the following sizes did you purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 4
+      name: shoe_purchase_feedback_form_4
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth
+      - Online Ad
+      - Print Ad
+      - In-Store
+      - Other
+      required: false
+    - id: 5
+      name: shoe_purchase_feedback_form_5
+      label: What was the reason for your purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Fit
+      - Style
+      - Brand Reputation
+      - Other
+      required: false
+    - id: 6
+      name: shoe_purchase_feedback_form_6
+      label: How likely are you to recommend us?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shoe_purchase_feedback_form_7
+      label: What is your feedback about the website?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shoe_purchase_feedback_form_8
+      label: Would you like to be contacted by us?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: shoe_purchase_feedback_form_9
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

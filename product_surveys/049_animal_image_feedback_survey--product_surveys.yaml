@@ -1,0 +1,268 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Image Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: survey_intro
+      label: Animal Image Feedback Survey
+      hint: Please review the images and provide your feedback
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: respondent_type
+      label: What Best Describes You
+      hint: Category
+      type: select_one
+      options:
+      - General public
+      - Pet owner
+      - Veterinary professional
+      - Researcher
+      - Student
+      - Other
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: Age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 6
+      name: image_set
+      label: Which Image Set Are You Reviewing
+      hint: Set identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: image_category
+      label: What Category of Images
+      hint: Image type
+      type: select_one
+      options:
+      - Dogs
+      - Cats
+      - Wildlife
+      - Farm animals
+      - Exotic animals
+      - Mixed
+      required: true
+    - id: 8
+      name: overall_impression
+      label: What Is Your Overall Impression
+      hint: General reaction
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: true
+    - id: 9
+      name: image_quality
+      label: How Would You Rate the Image Quality
+      hint: Technical quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: emotional_response
+      label: What Emotional Response Do the Images Evoke
+      hint: Feelings
+      type: select_multiple
+      options:
+      - Joy
+      - Compassion
+      - Concern
+      - Interest
+      - Indifference
+      - Discomfort
+      - Inspiration
+      - Other
+      required: true
+    - id: 11
+      name: clarity
+      label: How Clear Are the Images
+      hint: Clarity
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: true
+    - id: 12
+      name: appropriateness
+      label: How Appropriate Are the Images for the Intended Purpose
+      hint: Suitability
+      type: select_one
+      options:
+      - Very appropriate
+      - Somewhat appropriate
+      - Neutral
+      - Somewhat inappropriate
+      - Very inappropriate
+      required: true
+    - id: 13
+      name: favorite_image
+      label: Which Image Did You Like Most
+      hint: Preference
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: favorite_reason
+      label: Why Did You Prefer That Image
+      hint: Reason
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: least_favorite
+      label: Which Image Did You Like Least
+      hint: Least preferred
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: least_favorite_reason
+      label: Why Did You Not Prefer That Image
+      hint: Reason
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: authenticity
+      label: How Authentic Do the Images Appear
+      hint: Realism
+      type: select_one
+      options:
+      - Very authentic
+      - Somewhat authentic
+      - Neutral
+      - Somewhat staged
+      - Very staged
+      required: false
+    - id: 18
+      name: diversity
+      label: How Would You Rate the Diversity of Animals Shown
+      hint: Variety
+      type: select_one
+      options:
+      - Excellent variety
+      - Good variety
+      - Fair variety
+      - Limited variety
+      - Poor variety
+      required: false
+    - id: 19
+      name: engagement
+      label: How Engaging Are the Images
+      hint: Interest level
+      type: select_one
+      options:
+      - Very engaging
+      - Somewhat engaging
+      - Neutral
+      - Somewhat boring
+      - Very boring
+      required: true
+    - id: 20
+      name: memorability
+      label: How Memorable Are the Images
+      hint: Recall
+      type: select_one
+      options:
+      - Very memorable
+      - Somewhat memorable
+      - Neutral
+      - Somewhat forgettable
+      - Very forgettable
+      required: false
+    - id: 21
+      name: intended_use
+      label: What Would Be the Best Use for These Images
+      hint: Application
+      type: select_multiple
+      options:
+      - Educational materials
+      - Marketing
+      - Social media
+      - Research
+      - Website
+      - Print materials
+      - Not suitable
+      required: true
+    - id: 22
+      name: improvements
+      label: What Improvements Would You Suggest
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_images
+      label: What Additional Types of Images Would Be Helpful
+      hint: Requests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: usage_permission
+      label: May We Use Your Feedback in Our Analysis
+      hint: Permission
+      type: select_one
+      options:
+      - Yes - anonymous
+      - Yes - with attribution
+      - No
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

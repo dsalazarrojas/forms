@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Record Form
+    pages:
+    - id: 1
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Never
+      - Other
+      required: false
+    - id: 3
+      name: dosages
+      label: Dosages Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_one
+      options:
+      - Acetaminophen
+      - Aspirin
+      - Ibuprofen
+      - Other
+      required: false
+    - id: 6
+      name: frequency_list
+      label: Frequency List
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Morning
+      - Afternoon
+      - Evening
+      - Never
+      - Other
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_fill
+      label: Last Fill Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_refilled
+      label: Last Refilled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: refill_intervals
+      label: Refill Intervals
+      hint: null
+      type: number
+      options: []
+      required: false

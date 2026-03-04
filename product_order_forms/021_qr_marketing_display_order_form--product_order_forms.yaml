@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: qr_marketing_display_order_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_selections
+      label: product_selections
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Product 1''}'
+      - '{''id'': 2, ''label'': ''Product 2''}'
+      - '{''id'': 3, ''label'': ''Product 3''}'
+      required: false
+    - id: 3
+      name: artwork_details
+      label: artwork_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: delivery_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false

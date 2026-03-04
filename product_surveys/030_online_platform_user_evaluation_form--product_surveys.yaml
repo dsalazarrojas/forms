@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Platform User Evaluation Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: platform_name
+      label: platform_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_method
+      label: evaluation_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Platform''}'
+      - Platform
+      - Mobile
+      - Desktop
+      - Web
+      required: false
+    - id: 4
+      name: user_satisfaction
+      label: user_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: user_experience
+      label: user_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_issues
+      label: user_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: platform_id
+      label: platform_id
+      hint: null
+      type: number
+      options: []
+      required: false

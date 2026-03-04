@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: illegal_fireworks_reporting_form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_info
+      label: Suspect Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suspect_vehicle
+      label: Suspect Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_info
+      label: Witness Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_vehicle
+      label: Witness Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evidence_collected
+      label: Evidence Collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suspect_distinguishing_feature
+      label: Suspect Distinguishing Feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_distinguishing_feature_other
+      label: Other Suspect Distinguishing Feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: suspect_gender
+      label: Suspect Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 16
+      name: suspect_eye_color
+      label: Suspect Eye Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Other
+      required: false
+    - id: 17
+      name: suspect_hat_worn
+      label: Suspect Hat Worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 18
+      name: suspect_gloves_worn
+      label: Suspect Gloves Worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 19
+      name: suspect_scars
+      label: Suspect Scars
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 20
+      name: witness_age
+      label: Witness Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: witness_gender
+      label: Witness Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 22
+      name: witness_eye_color
+      label: Witness Eye Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Other
+      required: false
+    - id: 23
+      name: witness_hat_worn
+      label: Witness Hat Worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 24
+      name: witness_gloves_worn
+      label: Witness Gloves Worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 25
+      name: officer_signature
+      label: Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

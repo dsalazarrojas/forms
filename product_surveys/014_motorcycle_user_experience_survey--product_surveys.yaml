@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motorcycle User Experience Survey
+    pages:
+    - id: 1
+      name: motorcycle_user_experience_survey
+      label: What's your relationship with the motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rider_satisfaction
+      label: What is your satisfaction with the motorcycle?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: motorcycle_model
+      label: What model of motorcycle do you own?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: motorcycle_year
+      label: What year is your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: riding_frequency
+      label: What is your riding frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: riding_distance
+      label: How many kilometers do you ride per month?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: riding_time
+      label: How many hours do you ride per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: riding_location
+      label: Where do you ride most often?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: motorcycle_features
+      label: What features do you value most on your motorcycle?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: motorcycle_color
+      label: What color is your motorcycle?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: riding_group
+      label: Are you part of a riding group?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: dealer_visit
+      label: Have you visited a dealership?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: customer_service
+      label: How would you rate the customer service at a dealership?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: parts_and_service
+      label: How would you rate the parts and service quality at a dealership?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 15
+      name: riding_experience
+      label: Riding experience with your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: overall_satisfaction
+      label: Overall satisfaction with your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendations
+      label: Have you recommended this motorcycle to anyone?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: price
+      label: What do you think is the most expensive part of the motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reliability
+      label: What is your perception of the motorcycle's reliability?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fun
+      label: How much fun do you have riding this motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comfort
+      label: How comfortable is this motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: style
+      label: What style of bike do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: engine_performance
+      label: How would you rate the engine performance of your motorcycle?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 24
+      name: suspension_performance
+      label: How would you rate the suspension performance of your motorcycle?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: How satisfied are you with your motorcycle overall?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

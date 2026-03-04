@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vector Database Model Evaluation Form
+    pages:
+    - id: 1
+      name: vector_database_model_evaluation
+      label: vector_database_model_evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: model_name
+      label: model_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: model_type
+      label: model_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vector_database_model
+      label: vector_database_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vector_database_model_type
+      label: vector_database_model_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: database
+      label: database
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: database_system
+      label: database_system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: database_type
+      label: database_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_outcomes
+      label: evaluation_outcomes
+      hint: null
+      type: text
+      options: []
+      required: false

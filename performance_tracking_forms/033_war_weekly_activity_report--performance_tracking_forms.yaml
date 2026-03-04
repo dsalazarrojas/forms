@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: form_title
+      label: WAR Weekly Activity Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Performance Tracking Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales
+      label: Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: appointments
+      label: Appointments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recruiting
+      label: Recruiting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

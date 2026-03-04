@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Farmers Market Gift Hamper Order
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: hamper_selection
+      label: Hamper Selection
+      hint: null
+      type: select_one
+      options:
+      - Hamper 1
+      - Hamper 2
+      - Hamper 3
+      required: true
+    - id: 6
+      name: hamper_selection_option
+      label: Hamper Selection Option
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date_time
+      label: Delivery Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Yarn Pre Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_items
+      label: Order Items
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - Canada Post
+      - Local Pickup
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: true
+    - id: 17
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_address_2
+      label: Customer Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: order_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

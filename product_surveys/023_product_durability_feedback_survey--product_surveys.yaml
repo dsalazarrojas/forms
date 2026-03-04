@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_durability_feedback_survey
+    pages:
+    - id: 1
+      name: product_durability_feedback
+      label: How would you rate the product's durability?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Describe your experience with the product
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Durable
+      - Non-durable
+      - Not sure
+      required: false
+    - id: 5
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Material
+      - Design
+      - Price
+      required: false

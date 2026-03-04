@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Products Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: false
+    - id: 6
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ordered_date
+      label: Ordered On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Canceled
+      required: false

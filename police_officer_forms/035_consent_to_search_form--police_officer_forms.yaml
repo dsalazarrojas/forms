@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Search Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: consent_time
+      label: Time
+      hint: Time of consent
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: Where consent was given
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: person_name
+      label: Person Giving Consent
+      hint: Full name of person consenting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: person_dob
+      label: Date of Birth
+      hint: Date of birth of person consenting
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: person_address
+      label: Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: person_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: person_id_description
+      label: Identification Provided
+      hint: Type of ID shown
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: id_number
+      label: ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: officer_name
+      label: Officer Name
+      hint: Name of requesting officer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: officer_badge_number
+      label: Officer Badge Number
+      hint: Badge or ID number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: officer_department
+      label: Officer Department
+      hint: Police department or agency
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: case_number
+      label: Case or Incident Number
+      hint: Related case number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_search
+      label: Reason for Requested Search
+      hint: Purpose of the search
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: scope_of_search
+      label: Scope of Search
+      hint: What areas or items may be searched
+      type: select_multiple
+      options:
+      - Person
+      - Clothing
+      - Bags or Containers
+      - Vehicle - Exterior
+      - Vehicle - Interior
+      - Vehicle - Trunk
+      - Vehicle - Glove Compartment
+      - Residence
+      - Specific Room
+      - Other
+      required: true
+    - id: 16
+      name: scope_details
+      label: Scope Details
+      hint: Describe specific areas or items
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: rights_advised
+      label: Were Rights Advised
+      hint: Was person informed of their rights
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: rights_details
+      label: Rights Advisement Details
+      hint: Describe what was explained
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: voluntary_consent
+      label: Is Consent Given Voluntarily
+      hint: Confirmation that consent is voluntary
+      type: select_one
+      options:
+      - Yes - Freely and Voluntarily Given
+      - false
+      required: true
+    - id: 20
+      name: coercion_present
+      label: Was Any Coercion Used
+      hint: Confirmation of no coercion
+      type: select_one
+      options:
+      - No - Consent is Voluntary
+      - true
+      required: true
+    - id: 21
+      name: threats_made
+      label: Were Any Threats Made
+      hint: Confirmation of no threats
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 22
+      name: promises_made
+      label: Were Any Promises Made
+      hint: Confirmation of no improper promises
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 23
+      name: person_understanding
+      label: Does Person Understand
+      hint: Does person understand they can refuse
+      type: select_one
+      options:
+      - Yes - Person Understands Rights
+      - false
+      - Language Barrier
+      required: true
+    - id: 24
+      name: interpreter_used
+      label: Was Interpreter Used
+      hint: Was translation services provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: interpreter_name
+      label: Interpreter Name
+      hint: Name of interpreter if used
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: language
+      label: Language
+      hint: Language used for communication
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: witness_present
+      label: Was Witness Present
+      hint: Did anyone witness the consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if present
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: witness_badge
+      label: Witness Badge Number
+      hint: Badge number if officer
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: consent_decision
+      label: Consent Decision
+      hint: Does person consent to search
+      type: select_one
+      options:
+      - Yes - I Consent to Search
+      - No - I Do Not Consent
+      required: true
+    - id: 31
+      name: limitations
+      label: Any Limitations on Consent
+      hint: Are there any restrictions
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: person_signature
+      label: Person Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: officer_signature
+      label: Officer Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: witness_signature
+      label: Witness Signature
+      hint: Type name as signature if witness present
+      type: text
+      options: []
+      required: false

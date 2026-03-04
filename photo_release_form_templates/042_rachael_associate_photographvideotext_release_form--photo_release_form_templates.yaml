@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: rachel_associate_photographvideotext_release_form
+    pages:
+    - id: 1
+      name: photo_release_form
+      label: Photo Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photographer_email
+      label: Photographer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: photographer_address
+      label: Photographer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer_phone_number
+      label: Photographer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_for_use
+      label: Release for use
+      hint: null
+      type: select_one
+      options:
+      - Photograph
+      - Video
+      - Text
+      required: true
+    - id: 7
+      name: additional_release
+      label: Additional Release
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Petition Form
+    pages:
+    - id: 1
+      name: petition_info
+      label: Petition Information
+      hint: Details about the petition
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petition_title
+      label: Petition Title
+      hint: Clear and concise title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: petition_category
+      label: Petition Category
+      hint: null
+      type: select_one
+      options:
+      - Public Safety
+      - Environmental
+      - Infrastructure
+      - Education
+      - Housing
+      - Transportation
+      - Parks and Recreation
+      - Community Development
+      - Other
+      required: true
+    - id: 4
+      name: petition_description
+      label: Petition Description
+      hint: Explain the issue and desired change
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What change are you requesting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_authority
+      label: Target Authority
+      hint: Who should address this issue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer_info
+      label: Petition Organizer Information
+      hint: Primary contact person
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organizer_first_name
+      label: Organizer First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organizer_last_name
+      label: Organizer Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization_name
+      label: Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supporter_info
+      label: Supporter Information
+      hint: Add your signature
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: supporter_first_name
+      label: Supporter First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supporter_last_name
+      label: Supporter Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supporter_email
+      label: Supporter Email
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: supporter_address
+      label: Supporter Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: supporter_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: supporter_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: supporter_statement
+      label: Statement of Support
+      hint: Why do you support this petition
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_signers
+      label: Are You Collecting Additional Signatures
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: delivery_method
+      label: How Should Petition Be Delivered
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Physical Delivery
+      - Public Presentation
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

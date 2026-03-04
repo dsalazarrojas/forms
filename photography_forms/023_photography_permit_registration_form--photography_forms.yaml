@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Permit Registration Form
+    pages:
+    - id: 1
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer_organization
+      label: Photographer Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photographer_street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photographer_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - American Samoa
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - District of Columbia
+      - Florida
+      - Georgia
+      - Guam
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Northern Mariana Islands
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - U.S. Virgin Islands
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 9
+      name: photographer_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: photo_permit_type
+      label: Photo Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Still Photography
+      - Video
+      - Film
+      - Other
+      required: false
+    - id: 17
+      name: photo_permit_purpose
+      label: Photo Permit Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Commercial
+      - Event
+      - Other
+      required: false
+    - id: 18
+      name: photo_permit_duration
+      label: Photo Permit Duration
+      hint: null
+      type: select_one
+      options:
+      - One day
+      - One hour
+      - Half day
+      - Half hour
+      - One hour
+      - Two hours
+      - Three hours
+      - Four hours
+      - Five hours
+      - Full day
+      - Multiple days
+      - Unknown
+      required: false
+    - id: 19
+      name: photo_permit_fee
+      label: Photo Permit Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: photo_permit_expiration
+      label: Photo Permit Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: photo_permit_status
+      label: Photo Permit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 22
+      name: photo_permit_notes
+      label: Photo Permit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Gifts Order Form
+    pages:
+    - id: 1
+      name: header_buyer_info
+      label: -- Customer Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: header_gift_selection
+      label: -- Gift Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gift_category
+      label: Gift Category
+      hint: null
+      type: select_one
+      options:
+      - Toys
+      - Electronics
+      - Home Decor
+      - Clothing
+      - Gourmet Food
+      required: true
+    - id: 7
+      name: item_name
+      label: Item Name or Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gift_wrapping
+      label: Would you like gift wrapping?
+      hint: Additional $5.00 charge applies
+      type: select_one
+      options:
+      - Yes - Classic Red
+      - Yes - Winter Blue
+      - Yes - Gold Star
+      - false
+      required: true
+    - id: 10
+      name: personalized_message
+      label: Personalized Gift Message
+      hint: Max 150 characters
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: header_delivery
+      label: -- Shipping and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Delivery
+      - In-Store Pickup
+      required: true
+    - id: 13
+      name: delivery_address
+      label: Delivery Address
+      hint: Leave blank if selecting In-Store Pickup
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: Orders must be placed by Dec 15th for Xmas delivery
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: special_instructions
+      label: Special Instructions for Delivery
+      hint: null
+      type: text
+      options: []
+      required: false

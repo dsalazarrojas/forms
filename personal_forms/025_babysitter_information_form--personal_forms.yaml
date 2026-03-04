@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Information Form
+    pages:
+    - id: 1
+      name: sitter_name
+      label: Babysitter name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sitter_phone
+      label: Babysitter phone
+      hint: Mobile number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sitter_email
+      label: Babysitter email
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact for sitter
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of experience
+      hint: Whole years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: certifications
+      label: Certifications held
+      hint: CPR first aid training
+      type: select_multiple
+      options:
+      - CPR
+      - First aid
+      - Childcare certificate
+      - None
+      required: false
+    - id: 7
+      name: availability
+      label: Availability days and times
+      hint: Weekdays evenings weekends
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: references
+      label: References contact details
+      hint: Provide two references if possible
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: background_check_consent
+      label: Consent for background check
+      hint: Required for approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

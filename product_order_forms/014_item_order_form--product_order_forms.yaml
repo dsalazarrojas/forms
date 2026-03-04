@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: item_order_form
+    pages:
+    - id: 1
+      name: item_order_form_first_page
+      label: get_the_details_of_the_buyer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_order_form_buyer_details
+      label: the_buyer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer_email
+      label: buyer_email
+      hint: buyer_email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: item_order_form_order_date
+      label: when_did_you_want_to_get_the_item
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: item_order_form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_order_form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: item_order_form_product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false

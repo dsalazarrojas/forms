@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Photography Booking Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_session_date
+      label: Preferred session date
+      hint: Three date options recommended
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_type
+      label: Session type
+      hint: Choose one
+      type: select_one
+      options:
+      - In studio
+      - On location
+      - Newborn
+      - Milestone
+      required: true
+    - id: 6
+      name: number_of_outfits
+      label: Number of outfits
+      hint: For planning time
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special requests
+      hint: Props locations themes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: model_release_consent
+      label: Model release consent
+      hint: Permission to use photos in portfolio
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: deposit_required
+      label: Deposit required
+      hint: Amount and payment instructions
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: booking_date
+      label: Booking date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

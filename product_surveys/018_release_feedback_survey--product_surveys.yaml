@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Feedback Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Release Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: What type of feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: feedback_question
+      label: What do you think could be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggest_improvement
+      label: Suggest an improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: release_survey
+      label: Release Survey
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency-medical-form
+    pages:
+    - id: 1
+      name: emergency_medical_form_page_1
+      label: emergency_medical_form_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_and_time_of_injury
+      label: date_and_time_of_injury
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: name_of_injured_person
+      label: name_of_injured_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_of_injured_person
+      label: age_of_injured_person
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location_of_injury
+      label: location_of_injury
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac arrest
+      - Stroke
+      - Other
+      required: false
+    - id: 8
+      name: medical_conditions_list
+      label: medical_conditions_list
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_info
+      label: witness_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: physician_license_number
+      label: physician_license_number
+      hint: null
+      type: text
+      options: []
+      required: true

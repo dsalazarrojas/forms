@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lens Usage Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lens_usage_days
+      label: How many days do you use Lens?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lens_usage_minutes
+      label: Average minutes per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_lenses
+      label: What is your preferred lens?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: lens_usage_frequency
+      label: How often do you use Lens?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: why_lens
+      label: Why do you use Lens?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestions
+      label: Do you have any suggestions for Lens?
+      hint: null
+      type: text
+      options: []
+      required: false

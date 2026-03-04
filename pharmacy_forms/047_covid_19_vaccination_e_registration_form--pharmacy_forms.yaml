@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination E Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: registrant_type
+      label: Are you registering as
+      hint: Registration type
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: county
+      label: County
+      hint: County of residence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: organization_name
+      label: Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_address
+      label: Organization Address
+      hint: Work address
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organization_city
+      label: Organization City
+      hint: Work city
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: organization_state
+      label: Organization State
+      hint: Work state
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organization_zip
+      label: Organization ZIP Code
+      hint: Work ZIP
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: type_of_work
+      label: Type of Work
+      hint: Industry
+      type: select_one
+      options:
+      - Healthcare
+      - Education
+      - Food service
+      - Retail
+      - Transportation
+      - Manufacturing
+      - Construction
+      - Agriculture
+      - Government
+      - Non-profit
+      - Technology
+      - Hospitality
+      - Other
+      required: true
+    - id: 20
+      name: job_title
+      label: Job Title
+      hint: Position
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: Healthcare employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Essential industry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: work_setting
+      label: What is your work setting
+      hint: Work environment
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Long-term care facility
+      - School
+      - Office
+      - Retail store
+      - Restaurant
+      - Outdoors
+      - Home
+      - Other
+      required: true
+    - id: 24
+      name: age_group
+      label: Age Group
+      hint: Age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65-74
+      - 75 or older
+      required: true
+    - id: 25
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 26
+      name: insurance_status
+      label: Do you have health insurance
+      hint: Insurance coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: previous_covid_infection
+      label: Have you previously tested positive for COVID-19
+      hint: Infection history
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 29
+      name: vaccination_status
+      label: What is your current vaccination status
+      hint: Vaccine status
+      type: select_one
+      options:
+      - Not vaccinated
+      - First dose received
+      - Fully vaccinated
+      - Booster received
+      required: true
+    - id: 30
+      name: preferred_pharmacy
+      label: Preferred Pharmacy Location
+      hint: Where to vaccinate
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When to vaccinate
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 33
+      name: vaccine_brand_preference
+      label: Vaccine Brand Preference
+      hint: If any
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Novavax
+      required: true
+    - id: 34
+      name: transportation_needs
+      label: Do you need transportation assistance
+      hint: Transportation access
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes I need assistance
+      required: false
+    - id: 35
+      name: consent_to_vaccination
+      label: I consent to receive the COVID-19 vaccine
+      hint: Vaccination consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 36
+      name: registrant_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

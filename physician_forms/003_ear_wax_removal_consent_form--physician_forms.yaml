@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ear Wax Removal Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergy_list
+      label: allergy_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: consent_to_treat
+      label: consent_to_treat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: consent_to_bill
+      label: consent_to_bill
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: procedure_details
+      label: procedure_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: procedure_notes
+      label: procedure_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_procedure
+      label: consent_to_procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: date
+      options: []
+      required: false

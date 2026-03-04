@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Result Reporting Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Enter identifier from medical records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For result notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact for follow-up
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: Select the type of COVID-19 test performed
+      type: select_one
+      options:
+      - PCR Test
+      - Rapid Antigen Test
+      - Antibody Test
+      - Antigen Test
+      required: true
+    - id: 7
+      name: test_date
+      label: Date of Test
+      hint: When was the specimen collected
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: result
+      label: Test Result
+      hint: Select outcome
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Pending
+      required: true
+    - id: 9
+      name: result_date
+      label: Date Result Received
+      hint: When was result reported
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: facility_name
+      label: Testing Facility Name
+      hint: Name of laboratory or clinic
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_address
+      label: Facility Address
+      hint: Complete address of testing location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: symptoms
+      label: Patient Had Symptoms
+      hint: Was patient experiencing COVID-19 symptoms
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 13
+      name: symptoms_list
+      label: Symptoms Experienced
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of Breath
+      - Loss of Taste or Smell
+      - Fatigue
+      - Headache
+      - Sore Throat
+      required: false
+    - id: 14
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccination completion
+      type: select_one
+      options:
+      - Unvaccinated
+      - Partially Vaccinated
+      - Fully Vaccinated
+      - Boosted
+      required: false
+    - id: 15
+      name: previous_infection
+      label: Previous COVID-19 Infection
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 16
+      name: exposure_contact
+      label: Known Exposure to COVID-19
+      hint: Within 14 days of test
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 17
+      name: hospitalization_required
+      label: Hospitalization Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Yet Determined
+      required: false
+    - id: 18
+      name: quarantine_recommendations
+      label: Quarantine Recommendations Provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: physician_name
+      label: Reporting Physician Name
+      hint: Healthcare provider reporting result
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: physician_contact
+      label: Physician Contact Information
+      hint: Phone or email for questions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Additional Clinical Notes
+      hint: Any relevant medical information
+      type: text
+      options: []
+      required: false

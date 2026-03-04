@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 2 Vaccination Registration Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: applicant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: home_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_group
+      label: Community Group or Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: high_risk_status
+      label: Do you consider yourself to be at high risk for COVID-19 complications?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 9
+      name: health_conditions
+      label: Please list any existing health conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_preference
+      label: Preferred Appointment Time
+      hint: null
+      type: select_one
+      options:
+      - Weekday Morning
+      - Weekday Afternoon
+      - Saturday
+      - Sunday
+      required: true
+    - id: 11
+      name: certification_statement
+      label: I certify that I am a resident of this community and eligible for Phase
+        2
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true

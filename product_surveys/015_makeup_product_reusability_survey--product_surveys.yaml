@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: makeup_product_reusability_survey
+    pages:
+    - id: 1
+      name: product_usage
+      label: product_usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reasons_for_keeping
+      label: reasons_for_keeping
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_concerns
+      label: safety_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sustainability_concerns
+      label: sustainability_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reusability
+      label: reusability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_reusability
+      label: product_reusability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: concerns
+      label: concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: related_products
+      label: related_products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: other_concerns
+      label: other_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

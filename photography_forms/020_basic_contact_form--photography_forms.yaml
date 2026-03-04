@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Contact Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: We will not share your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Photography Service Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: What type of photography are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Portraits
+      - Weddings
+      - Events
+      - Product Photography
+      - Landscape
+      - Newborn
+      - Family Photos
+      - Corporate
+      - Other
+      required: true
+    - id: 8
+      name: other_service_type
+      label: If other, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_3
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Desired event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_location
+      label: Event location
+      hint: City and venue
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_description
+      label: Please describe your event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_4
+      label: -- Photography Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photography_style
+      label: Preferred photography style
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Candid
+      - Artistic
+      - Modern
+      - Documentary
+      - Mixed Style
+      required: false
+    - id: 15
+      name: number_of_photos
+      label: Approximate number of final photos needed
+      hint: null
+      type: select_one
+      options:
+      - 50-100
+      - 100-200
+      - 200-500
+      - 500+
+      - Not Sure
+      required: false
+    - id: 16
+      name: editing_level
+      label: Desired editing level
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - Heavy
+      - Professional Retouching
+      required: false
+    - id: 17
+      name: color_preferences
+      label: Color preferences (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Budget and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2000
+      - $2000-$5000
+      - Over $5000
+      - Flexible
+      required: false
+    - id: 20
+      name: delivery_format
+      label: Preferred delivery format for photos
+      hint: null
+      type: select_multiple
+      options:
+      - Digital Files
+      - Prints
+      - Framed Prints
+      - Photo Album
+      - USB/Drive
+      - Cloud Storage Link
+      required: false
+    - id: 21
+      name: usage_rights
+      label: Intended use for photographs
+      hint: null
+      type: select_one
+      options:
+      - Personal Use
+      - Social Media
+      - Commercial
+      - Portfolio/Promotion
+      - Other
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Message and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: message
+      label: Additional message or special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: availability_contact
+      label: Best time to contact you
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekends
+      - Anytime
+      required: false
+    - id: 25
+      name: consent_communication
+      label: I consent to receive communication about my inquiry
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Prefer Not to Be Contacted
+      required: true

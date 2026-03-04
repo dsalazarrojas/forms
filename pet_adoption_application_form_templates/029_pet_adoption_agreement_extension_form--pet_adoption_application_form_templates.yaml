@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Agreement Extension Form
+    pages:
+    - id: 1
+      name: pet_id
+      label: pet_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_multiple
+      options:
+      - dog
+      - cat
+      - bird
+      - fish
+      required: false
+    - id: 4
+      name: adoption_agreement
+      label: adoption_agreement
+      hint: null
+      type: select_one
+      options:
+      - Pet Adoption Agreement 1.0
+      - Pet Adoption Agreement 2.0
+      - Pet Adoption Agreement 3.0
+      required: true
+    - id: 5
+      name: adopter_name
+      label: adopter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: adopter_agreement
+      label: adopter_agreement
+      hint: null
+      type: text
+      options: []
+      required: false

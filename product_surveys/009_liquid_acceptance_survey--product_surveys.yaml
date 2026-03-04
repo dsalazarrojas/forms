@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liquid Acceptance Survey
+    pages:
+    - id: 1
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - liquid
+      - non_liquid
+      required: false
+    - id: 2
+      name: acceptance_level
+      label: acceptance_level
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 3
+      name: influences_factors
+      label: influences_factors
+      hint: null
+      type: select_multiple
+      options:
+      - price
+      - taste
+      - convenience
+      - appearance
+      - texture
+      - smell
+      - color
+      - packaging
+      - shelf_life
+      - convenience
+      - ease_of_use
+      - ease_of_care
+      - sustainability
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: product_category
+      hint: null
+      type: select_one
+      options:
+      - liquid
+      - non_liquid
+      required: false
+    - id: 10
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: brand
+      label: brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lab
+      label: lab
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_id
+      label: product_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lab_code
+      label: lab_code
+      hint: null
+      type: text
+      options: []
+      required: false

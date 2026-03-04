@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Coverage Request
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Wedding
+      - Birthday
+      required: true
+    - id: 2
+      name: schedule_start_time
+      label: Schedule Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: schedule_end_time
+      label: Schedule End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: client_budget
+      label: Client Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: photographer_details
+      label: Photographer Details
+      hint: Please provide a link to the photographer's portfolio
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_photographers
+      label: Number Of Photographers
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 9
+      name: equipment
+      label: Equipment
+      hint: Please provide information on equipment required (lights, lenses, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true

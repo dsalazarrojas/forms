@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Gadget Consumer Preference Poll
+    pages:
+    - id: 1
+      name: gadget_ownership
+      label: Gadget Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile Phone
+      - Tablet
+      - Smartwatch
+      - Laptop
+      - Desktop
+      - Smart TV
+      required: true
+    - id: 2
+      name: feature_priorities
+      label: Feature Priorities
+      hint: List the top 3 features you value the most in a new gadget
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buying_intent
+      label: Buying Intent
+      hint: null
+      type: select_one
+      options:
+      - I am looking to buy
+      - Not looking to buy
+      - Unsure
+      required: true
+    - id: 4
+      name: demographic_age
+      label: What is your age?
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      required: true
+    - id: 5
+      name: demographic_gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 6
+      name: demographic_income
+      label: What is your income?
+      hint: null
+      type: select_one
+      options:
+      - Less than $10,000
+      - Between $10,000 and $50,000
+      - Between $50,000 and $100,000
+      - Between $100,000 and $200,000
+      - More than $200,000
+      required: true
+    - id: 7
+      name: gadget_features
+      label: What are the top 3 features you value in a new gadget?
+      hint: List the top 3 features you value the most in a new gadget
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: demographic_education
+      label: What is your level of education?
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some college
+      - College graduate
+      - Postgraduate
+      required: true
+    - id: 9
+      name: demographic_job
+      label: What is your current job role?
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Full time
+      - Part time
+      - Retired
+      - Unemployed
+      required: true
+    - id: 10
+      name: demographic_city
+      label: What city do you live in?
+      hint: null
+      type: select_one
+      options:
+      - Los Angeles
+      - New York City
+      - Chicago
+      required: true
+    - id: 11
+      name: gadget_purchase
+      label: How often do you purchase gadgets?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 12
+      name: gadget_repair
+      label: Have you ever had a gadget repaired?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 13
+      name: gadget_return
+      label: Why did you return a gadget in the past?
+      hint: null
+      type: select_multiple
+      options:
+      - Defective
+      - Not as expected
+      - Other reasons
+      required: false
+    - id: 14
+      name: gadget_warranty
+      label: What is your understanding of a warranty for a gadget?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gadget_recommend
+      label: Would you recommend our gadget to a friend or family member?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 16
+      name: gadget_satisfaction
+      label: On a scale of 1-10, how satisfied are you with our gadget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: gadget_return_reasons
+      label: If yes, what reasons for returning a gadget?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: demographic_interest
+      label: Which of the following interests you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: gadget_frequent_use
+      label: How often do you use our gadgets?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - A few times a week
+      - Rarely
+      - Never
+      required: false
+    - id: 20
+      name: demographic_language
+      label: Which language do you speak?
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      required: false
+    - id: 21
+      name: gadget_price
+      label: What is your budget for a new gadget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: gadget_price_range
+      label: What price range for a new gadget?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: gadget_satisfaction_level
+      label: On a scale of 1-10, how satisfied are you with our gadget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: gadget_satisfaction_why
+      label: Why are you satisfied or not satisfied with our gadget?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: gadget_satisfaction_improvement
+      label: What can we do to improve our gadget?
+      hint: null
+      type: text
+      options: []
+      required: false

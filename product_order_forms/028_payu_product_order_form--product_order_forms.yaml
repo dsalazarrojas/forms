@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayU Product Order Form
+    pages:
+    - id: 1
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - PayU
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

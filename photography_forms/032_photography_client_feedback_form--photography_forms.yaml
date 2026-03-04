@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Client Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Photography
+      - Wedding
+      - Portrait
+      - Event
+      - Commercial
+      - Other
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

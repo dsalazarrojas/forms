@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Device Feedback Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: streaming_device_model
+      label: Streaming Device Model
+      hint: null
+      type: select_one
+      options:
+      - Apple TV
+      - Google Chromecast
+      - Amazon Fire TV
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: streaming_device_type
+      label: Streaming Device Type
+      hint: null
+      type: select_one
+      options:
+      - Streaming Box
+      - Streaming Dongle
+      - Smart TV
+      required: false
+    - id: 5
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - macOS
+      - windows
+      - Linux
+      required: false
+    - id: 6
+      name: streaming_service_used
+      label: Streaming Service Used
+      hint: null
+      type: select_one
+      options:
+      - Netflix
+      - Hulu
+      - Amazon Prime Video
+      required: false
+    - id: 7
+      name: streaming_quality
+      label: Streaming Quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Connection Issues
+      - Audio issues
+      - Video issues
+      required: false
+    - id: 9
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operating_system_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: streaming_device_serial_number
+      label: Streaming Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: streaming_device_improve
+      label: Streaming Device Improve
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: streaming_device_improve
+      label: Streaming Device Improve
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: streaming_device_improve
+      label: Streaming Device Improve
+      hint: null
+      type: date
+      options: []
+      required: false

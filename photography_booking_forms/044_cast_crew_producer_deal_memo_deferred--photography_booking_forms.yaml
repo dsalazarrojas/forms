@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cast/Crew/Producer Deal Memo Deferred
+    pages:
+    - id: 1
+      name: deal_memo_header_section
+      label: -- Deal Memo Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: memo_date
+      label: Memo Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: production_name
+      label: Production Title
+      hint: Name of film, project, or production
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Feature Film
+      - Television
+      - Web Series
+      - Commercial
+      - Music Video
+      - Photography
+      - Other
+      required: true
+    - id: 5
+      name: party_information_section
+      label: -- Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: party_name
+      label: Name of Cast/Crew/Producer Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: party_role
+      label: Role in Production
+      hint: null
+      type: select_one
+      options:
+      - Actor
+      - Director
+      - Producer
+      - Cinematographer
+      - Sound Designer
+      - Crew
+      - Other
+      required: true
+    - id: 8
+      name: party_ssn
+      label: Social Security Number or Tax ID
+      hint: Last 4 digits
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: party_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: party_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: party_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: compensation_section
+      label: -- Compensation Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Total payment amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: compensation_type
+      label: Compensation Type
+      hint: null
+      type: select_one
+      options:
+      - Flat Fee
+      - Daily Rate
+      - Weekly Rate
+      - Percentage of Budget
+      - Back-End Participation
+      - Deferred
+      - Other
+      required: true
+    - id: 15
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When will payment be made?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: deferment_terms_section
+      label: -- Deferment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: deferred_amount
+      label: Deferred Amount
+      hint: Amount to be paid later
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: deferment_payment_date
+      label: Deferment Payment Due Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: deferment_conditions
+      label: Conditions for Deferment Payment
+      hint: Describe conditions and triggers
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: engagement_details_section
+      label: -- Engagement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: start_date
+      label: Production Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: end_date
+      label: Expected End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: work_days
+      label: Expected Number of Work Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: agreement_acknowledgment_section
+      label: -- Agreement Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: agreement_acceptance
+      label: I accept the terms of this deal memo
+      hint: null
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

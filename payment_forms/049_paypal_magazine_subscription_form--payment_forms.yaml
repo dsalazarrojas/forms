@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: true
+    - id: 6
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Pro
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 8
+      name: cvv
+      label: CVV
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cvv_exp_month
+      label: CVV Exp Month
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: cvv_exp_year
+      label: CVV Exp Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Prepaid
+      required: true
+    - id: 17
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false

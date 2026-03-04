@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Chair Pre Order Form
+    pages:
+    - id: 1
+      name: model_selection
+      label: Choose a Model
+      hint: null
+      type: select_one
+      options:
+      - Chair One
+      - Chair Two
+      - Chair Three
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Enter deposit amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_timeframe
+      label: Desired Delivery Timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_message
+      label: Additional Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: model_notes
+      label: Model Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: deposit_confirmation
+      label: Deposit Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Paid in full
+      - Paid in 30 days
+      - Paid in 60 days
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit
+      - Cash/Cheque
+      - PayPal
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_multiple
+      options:
+      - Card Number
+      - Card Expiration
+      - Security Code
+      required: false

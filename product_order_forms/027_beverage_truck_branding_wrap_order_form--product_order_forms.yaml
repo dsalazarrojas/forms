@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Truck Branding Wrap Order Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your name or business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Brand Name
+      hint: Your beverage company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Type of Vehicle
+      hint: What type of vehicle needs branding?
+      type: select_one
+      options:
+      - Beverage truck
+      - Food truck
+      - Delivery van
+      - Car or sedan
+      - Box truck
+      - Trailer
+      - Other
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year and Make
+      hint: Year, brand, and model
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_color
+      label: Current Vehicle Color
+      hint: What color is it now?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_dimensions
+      label: Vehicle Approximate Dimensions
+      hint: Length, width (in feet)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wrap_coverage
+      label: Wrap Coverage Desired
+      hint: How much of the vehicle?
+      type: select_one
+      options:
+      - Full wrap - all sides
+      - Partial wrap - sides and back
+      - Box wrap - cargo area only
+      - Door wraps only
+      - Hood and doors
+      - Custom coverage
+      required: true
+    - id: 12
+      name: section_header_design
+      label: -- Design and Artwork --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: design_concept
+      label: Design Concept or Theme
+      hint: Describe your vision
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: brand_elements
+      label: Brand Elements to Include
+      hint: Logo, colors, taglines, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: color_scheme
+      label: Primary Color Scheme
+      hint: Main colors for the wrap
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: artwork_provided
+      label: Do You Have Artwork or Design
+      hint: null
+      type: select_one
+      options:
+      - Yes, final design ready
+      - Yes, concept design provided
+      - No, need design from scratch
+      - No, need modifications to existing design
+      required: true
+    - id: 17
+      name: design_source
+      label: Design Source or Designer
+      hint: Who created or will create the design?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: design_revisions
+      label: Number of Design Revisions Included
+      hint: How many revision rounds?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_header_materials
+      label: -- Materials and Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: wrap_material
+      label: Preferred Wrap Material
+      hint: Type of vinyl or material
+      type: select_one
+      options:
+      - Standard vinyl wrap
+      - Premium cast vinyl
+      - Specialty finish (matte, gloss)
+      - Perforated vinyl
+      - Clear protective layer preferred
+      - No preference
+      required: true
+    - id: 21
+      name: durability_rating
+      label: Expected Wrap Durability
+      hint: How long should it last?
+      type: select_one
+      options:
+      - 3-5 years
+      - 5-7 years
+      - 7+ years
+      - No specific requirement
+      required: false
+    - id: 22
+      name: weather_resistance
+      label: Special Weather Resistance Needed
+      hint: Extreme sun, salt, etc.?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_installation
+      label: -- Installation and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: installation_location
+      label: Installation Location
+      hint: Where will the wrap be installed?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: installation_date
+      label: Preferred Installation Date
+      hint: When do you want it applied?
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: timeline_urgency
+      label: Project Timeline
+      hint: How quickly do you need it?
+      type: select_one
+      options:
+      - Urgent - within 1 week
+      - Standard - 2-4 weeks
+      - No specific deadline
+      - Need for specific event
+      required: true
+    - id: 27
+      name: installation_service
+      label: Installation Service Needed
+      hint: Do you need professional installation?
+      type: select_one
+      options:
+      - Yes, professional installation required
+      - Yes, but we can coordinate
+      - No, we will install ourselves
+      - No, vehicle to be picked up
+      required: true
+    - id: 28
+      name: section_header_budget
+      label: -- Budget and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: budget_range
+      label: Budget Range
+      hint: Your total budget for this project
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000 - $10,000
+      - Over $10,000
+      - Flexible
+      required: true
+    - id: 30
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Wire transfer
+      - Installment plan
+      - Other
+      required: true
+    - id: 31
+      name: section_header_additional
+      label: -- Additional Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: special_effects
+      label: Special Effects or Finishes
+      hint: Chrome, textured, 3D, etc.?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: Any other requirements?
+      type: text
+      options: []
+      required: false

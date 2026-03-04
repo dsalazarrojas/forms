@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Testing Instrument Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument_type
+      label: instrument_type
+      hint: null
+      type: select_one
+      options:
+      - instrument_type_1
+      - instrument_type_2
+      - instrument_type_3
+      required: false
+    - id: 3
+      name: instrument_info
+      label: instrument_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - payment_method_1
+      - payment_method_2
+      - payment_method_3
+      required: false
+    - id: 8
+      name: customer_approval
+      label: customer_approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_multiple
+      options:
+      - order_status_1
+      - order_status_2
+      - order_status_3
+      required: false

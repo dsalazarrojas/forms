@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Questionnaire
+    pages:
+    - id: 1
+      name: member_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: membership_duration
+      label: How Long Have You Been a Member
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 5
+      name: service_attendance
+      label: How Often Do You Attend Services
+      hint: null
+      type: select_one
+      options:
+      - Every week
+      - 2-3 times per month
+      - Once a month
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 6
+      name: small_group
+      label: Are You Part of a Small Group
+      hint: null
+      type: select_one
+      options:
+      - Yes, active member
+      - Yes, but not active
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 7
+      name: volunteer_service
+      label: Do You Currently Volunteer
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 8
+      name: volunteer_areas
+      label: Which Areas Do You Serve In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Worship/Music
+      - Children's Ministry
+      - Youth Ministry
+      - Hospitality/Ushering
+      - Technical/Media
+      - Outreach/Missions
+      - Prayer Ministry
+      - Facilities
+      - Administration
+      - Not serving
+      required: false
+    - id: 9
+      name: spiritual_growth
+      label: How Would You Rate Your Spiritual Growth
+      hint: Over the past year
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: church_involvement
+      label: How Involved Do You Feel in the Church
+      hint: null
+      type: select_one
+      options:
+      - Very involved
+      - Somewhat involved
+      - Neutral
+      - Not very involved
+      - Not involved at all
+      required: true
+    - id: 11
+      name: pastoral_care
+      label: Have You Received Pastoral Care When Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, sometimes
+      - No, but needed it
+      - No, did not need it
+      required: true
+    - id: 12
+      name: sermon_feedback
+      label: How Would You Rate Our Sermons
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: community_feeling
+      label: Do You Feel Part of Our Church Community
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 14
+      name: church_communication
+      label: How Would You Rate Church Communication
+      hint: Newsletters, announcements, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: favorite_aspect
+      label: What Is Your Favorite Aspect of Our Church
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: improvement_areas
+      label: What Areas Need Improvement
+      hint: Your honest feedback
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: new_programs
+      label: What New Programs Would You Like
+      hint: Suggestions welcome
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recommend_church
+      label: Would You Recommend Our Church
+      hint: To friends or family
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 19
+      name: prayer_requests
+      label: Do You Have Any Prayer Requests
+      hint: Share if comfortable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

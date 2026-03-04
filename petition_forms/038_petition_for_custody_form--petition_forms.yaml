@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition For Custody Form
+    pages:
+    - id: 1
+      name: petition_for_custody
+      label: Petition for Custody
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_information
+      label: Petitioner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: petitioning_party
+      label: Petitioning Party
+      hint: null
+      type: select_one
+      options:
+      - Petitioner Father
+      - Petitioner Mother
+      - Both Petitioners
+      - Neither
+      required: false
+    - id: 4
+      name: custody_status
+      label: Custody Status
+      hint: null
+      type: select_multiple
+      options:
+      - Sole Custody
+      - Joint Custody
+      - Legal Custody
+      - Physical Custody
+      required: false
+    - id: 5
+      name: residency
+      label: Residency
+      hint: null
+      type: select_multiple
+      options:
+      - Current Residence
+      - Intended Residence
+      - Other
+      required: false
+    - id: 6
+      name: child_s_age
+      label: Child's Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false

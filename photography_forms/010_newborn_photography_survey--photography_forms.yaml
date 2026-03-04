@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Photography Survey
+    pages:
+    - id: 1
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_consent
+      label: Policy
+      hint: null
+      type: select_multiple
+      options:
+      - Studio Policy 1
+      - Studio Policy 2
+      - Studio Policy 3
+      required: false
+    - id: 4
+      name: session_dates
+      label: Session Dates
+      hint: null
+      type: select_one
+      options:
+      - '2019-01-01'
+      - '2019-01-15'
+      - '2019-02-01'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parent_preferences
+      label: Parent Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: studio_policy_consent_date
+      label: Studio Policy
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: studio_policy_consent_time
+      label: Studio Policy
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: studio_policy_consent_length
+      label: Studio Policy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: studio_policy_consent
+      label: Studio Policy
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: studio_policy_consent_2
+      label: Studio Policy 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

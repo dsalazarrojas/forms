@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preference Selection Survey
+    pages:
+    - id: 1
+      name: preference_selection_survey
+      label: Preference Selection Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ประก''}'
+      - '{''value'': ''Product A''}'
+      - '{''value'': ''Product B''}'
+      - '{''value'': ''Product C''}'
+      required: false
+    - id: 3
+      name: preferred_product
+      label: Preferred Product
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Product A''}'
+      - '{''value'': ''Product B''}'
+      - '{''value'': ''Product C''}'
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Preferred Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''SMS''}'
+      - '{''value'': ''Chat''}'
+      - '{''value'': ''Social Media''}'
+      required: false
+    - id: 5
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Sunday''}'
+      required: false
+    - id: 12
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''10:00 AM - 11:00 AM''}'
+      - '{''value'': ''11:00 AM - 12:00 PM''}'
+      - '{''value'': ''01:00 PM - 02:00 PM''}'
+      - '{''value'': ''02:00 PM - 03:00 PM''}'
+      - '{''value'': ''03:00 PM - 04:00 PM''}'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false

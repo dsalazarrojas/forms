@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Schedule
+    pages:
+    - id: 1
+      name: wedding_photography_details
+      label: Wedding Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: couple_details
+      label: Couple Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_packages
+      label: Preferred Packages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_shot_requests
+      label: Special Shot Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shot_list
+      label: Shot List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shot_order
+      label: Shot Order
+      hint: null
+      type: select_one
+      options:
+      - Pre-wedding
+      - Wedding Day
+      - Wedding Night
+      - Post-wedding
+      required: true
+    - id: 8
+      name: photo_locations
+      label: Photo Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: photo_locations_list
+      label: Photo Locations List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_styles
+      label: Photo Styles
+      hint: List your preferred styles for each location.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_styles_list
+      label: Photo Styles List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_details_list
+      label: Travel Details List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_travel_info
+      label: Additional Travel Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_info_list
+      label: Additional Travel Info List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false

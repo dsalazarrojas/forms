@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_session_contract_form
+    pages:
+    - id: 1
+      name: session_details
+      label: session details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: photographer_details
+      label: photographer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_details
+      label: client details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: session_type
+      label: session type
+      hint: 'Select one: Outdoor or Indoor'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: session_length
+      label: session length
+      hint: 'Select multiple: e.g., 1 hour, 2 hours, 3 hours'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: session_length_options
+      label: session length options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_price
+      label: session price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_examination_form
+    pages:
+    - id: 1
+      name: health_exam
+      label: health_exam
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: chief_complaint
+      label: chief_complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: test_results
+      label: test_results
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false

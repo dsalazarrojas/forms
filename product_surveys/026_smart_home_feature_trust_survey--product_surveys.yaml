@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: smart_home_feature_trust_survey
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: smart_device_type
+      label: smart_device_type
+      hint: null
+      type: select_one
+      options:
+      - Smart Speaker
+      - Smart TV
+      - Smart Thermostat
+      - Smart Lock
+      - Smart Light
+      - Smart Plug
+      - Smart Speaker System
+      - Smart Security Camera
+      - Smart Door Lock
+      - Smart Light Bulb
+      required: true
+    - id: 3
+      name: trust_level
+      label: trust_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: privacy_concerns
+      label: privacy_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - No worries about data privacy or security
+      - Worry about data privacy a little
+      - Worry about data privacy some
+      - Worry about data privacy very much
+      required: true
+    - id: 5
+      name: features_used
+      label: features_used
+      hint: null
+      type: select_multiple
+      options:
+      - Smart Home App
+      - Voice Assistant
+      - Voice Control
+      required: true
+    - id: 6
+      name: feedback_device
+      label: feedback_device
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

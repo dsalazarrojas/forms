@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Staff Application Form
+    pages:
+    - id: 1
+      name: new_physician_information
+      label: New Physician Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - First name
+      - Last name
+      - Relationship
+      - Phone
+      - Email
+      required: false
+    - id: 3
+      name: physician_experience
+      label: Physician Experience
+      hint: Include previous medical school and work experience
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: minimalist
+      label: Minimally invasive procedures
+      hint: null
+      type: select_one
+      options:
+      - Endoscopy
+      - Colonoscopy
+      - Laparoscopy
+      required: false
+    - id: 5
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: prophets
+      label: Prophets
+      hint: Note any relevant medical certifications or training
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: physician_specialties
+      label: Physician Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: Provide contact information for emergency contact
+      type: text
+      options: []
+      required: false

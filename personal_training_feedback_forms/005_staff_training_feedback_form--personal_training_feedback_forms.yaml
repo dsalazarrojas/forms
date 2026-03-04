@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Training Feedback Form
+    pages:
+    - id: 1
+      name: training_session_details
+      label: Training Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: what_did_you_learn
+      label: What did you learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: select_one
+      options:
+      - Attended
+      - Missed
+      required: false
+    - id: 10
+      name: staff_attitude
+      label: Staff Attitude
+      hint: null
+      type: select_multiple
+      options:
+      - Friendly
+      - Uncooperative
+      - Helpful
+      - Unhelpful
+      required: true
+    - id: 11
+      name: training_materials
+      label: Training Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Not Provided
+      required: true
+    - id: 12
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: session_outcome
+      label: Session Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_evaluated_by
+      label: Training Evaluated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_program
+      label: Training Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 24
+      name: training_session_attended
+      label: Training Session Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

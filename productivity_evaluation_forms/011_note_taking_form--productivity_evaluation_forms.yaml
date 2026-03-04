@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Note Taking Form
+    pages:
+    - id: 1
+      name: note_taking_form_input_1
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_project_outcomes
+      label: Meeting Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: meeting_project_outcomes_other
+      label: Other Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note_taking_form_input_2
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_follow_up_actions
+      label: Follow up Actions
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Call
+      - Email
+      - Task
+      - Note
+      required: false
+    - id: 7
+      name: meeting_follow_up_actions_other
+      label: Other Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 9
+      name: assigned_to_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false

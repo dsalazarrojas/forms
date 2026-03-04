@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presidential Election Form
+    pages:
+    - id: 1
+      name: presidential_election_form
+      label: Vote For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: presidential_election_candidate
+      label: Presidential Candidate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: election_date
+      label: Election Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: election_time
+      label: Election Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: election_location
+      label: Election Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: voter_info
+      label: Voter Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: presidential_election_form_comments
+      label: Comments About Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: presidential_election_form_rating
+      label: Rate Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: presidential_election_form_rating_comment
+      label: Comment About Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: presidential_election_form_rating_likert_scale
+      label: Rate Form
+      hint: null
+      type: number
+      options: []
+      required: false

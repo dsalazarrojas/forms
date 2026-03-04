@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Appraisal Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''John''}'
+      - '{''id'': 3, ''label'': ''Jane''}'
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_score
+      label: Overall Score
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Buyer Questionnaire
+    pages:
+    - id: 1
+      name: household_info
+      label: household_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_info
+      label: family_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_members
+      label: household_members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pet_experience
+      label: pet_experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: family_relationships
+      label: family_relationships
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 7
+      name: desired_breed
+      label: desired_breed
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 8
+      name: desired_size
+      label: desired_size
+      hint: null
+      type: select_one
+      options:
+      - option10
+      - option11
+      - option12
+      required: false
+    - id: 9
+      name: adoption_date
+      label: adoption_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

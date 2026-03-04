@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Club Election Survey
+    pages:
+    - id: 1
+      name: puppy_club_election_survey_form
+      label: Election Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Puppy Club
+      - Pet Store
+      - Animal Shelter
+      required: false
+    - id: 3
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_no
+      label: Contact No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vote_for_president
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - President
+      - Vice President
+      - Secretary
+      required: false
+    - id: 8
+      name: leadership
+      label: Leadership Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

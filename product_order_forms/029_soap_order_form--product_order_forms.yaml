@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soap Order Form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_sku
+      label: product_sku
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_note
+      label: order_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_company
+      label: customer.reportableCompany
+      hint: null
+      type: select_one
+      options:
+      - company_a
+      - company_b
+      - company_c
+      required: false
+    - id: 12
+      name: customer_address
+      label: customer.address
+      hint: null
+      type: select_multiple
+      options:
+      - address_a
+      - address_b
+      - address_c
+      required: false
+    - id: 13
+      name: customer_state
+      label: customer.state
+      hint: null
+      type: select_one
+      options:
+      - state_a
+      - state_b
+      - state_c
+      required: false
+    - id: 14
+      name: customer_city
+      label: customer.city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_zip
+      label: customer.zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_country
+      label: customer.country
+      hint: null
+      type: select_one
+      options:
+      - country_a
+      - country_b
+      - country_c
+      required: false

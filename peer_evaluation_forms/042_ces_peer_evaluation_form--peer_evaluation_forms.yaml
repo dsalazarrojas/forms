@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: CES Peer Evaluation Form
+    pages:
+    - id: 1
+      name: peer_eval_header
+      label: -- Professional Peer Assessment --
+      hint: Focus on objective feedback to help team members grow and succeed.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_identity
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: peer_being_evaluated
+      label: Name of Peer Being Evaluated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_context_peer
+      label: Project or Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: collaboration_score_peer
+      label: Teamwork and Collaboration
+      hint: Does the peer contribute effectively to group efforts?
+      type: select_one
+      options:
+      - 1 - Needs Significant Improvement
+      - 2 - Occasionally Contributes
+      - 3 - Consistent Contributor
+      - 4 - Exceptional Team Player
+      required: true
+    - id: 6
+      name: reliability_score_peer
+      label: Reliability and Accountability
+      hint: Does the peer meet deadlines and keep commitments?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      required: true
+    - id: 7
+      name: communication_clarity_peer
+      label: Communication Skills
+      hint: Clarity and frequency of updates and interaction.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      required: true
+    - id: 8
+      name: work_quality_peer
+      label: Quality of Work and Technical Skill
+      hint: Effectiveness and accuracy of the peer's output.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      required: true
+    - id: 9
+      name: top_strength_peer
+      label: What is this peer's greatest professional strength?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: area_of_improvement_peer
+      label: One area where this peer could improve
+      hint: Provide constructive feedback.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conflict_handling_rating
+      label: Handling Conflict or Stress
+      hint: How does the peer react during high-pressure situations?
+      type: select_one
+      options:
+      - Poorly
+      - Fairly
+      - Well
+      - Professionally
+      required: true
+    - id: 12
+      name: initiative_rating_peer
+      label: Willingness to take Initiative
+      hint: Does the peer go beyond their assigned tasks?
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 13
+      name: additional_feedback_peer
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_confidentiality_ack
+      label: I understand this feedback will be shared anonymously
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 15
+      name: peer_eval_submission_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true

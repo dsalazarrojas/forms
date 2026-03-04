@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Physical Examination Questionnaire
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physical_examination
+      label: Physical Examination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications_allergies
+      label: Medications Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_review
+      label: Medical History Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_license_status
+      label: Medical License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      required: false
+    - id: 11
+      name: medical_license_number
+      label: Medical License Number
+      hint: Enter your medical license number
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: medical_license_expiration_date
+      label: Medical License Expiration Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 14
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      required: false
+    - id: 15
+      name: work_shift
+      label: Work Shift
+      hint: null
+      type: select_one
+      options:
+      - Day
+      - Night
+      - Rotating Shift
+      required: false
+    - id: 16
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - 9-5
+      - 8-4
+      - 11-7
+      required: false

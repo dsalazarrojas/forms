@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procedure Visit Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: procedure_name
+      label: Procedure Name
+      hint: null
+      type: select_one
+      options:
+      - Procedure A
+      - Procedure B
+      - Procedure C
+      required: true
+    - id: 6
+      name: date_of_procedure
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_procedure
+      label: Time of Procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_practice_name
+      label: Medical Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false

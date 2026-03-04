@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inpatient Billing Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: total_charges
+      label: Total Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - cash
+      - check
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: billing_provider
+      label: Billing Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - paid
+      - pending
+      - declined
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false

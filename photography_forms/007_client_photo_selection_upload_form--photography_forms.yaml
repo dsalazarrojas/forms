@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Photo Selection Upload Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Photo Selection and Upload Form
+      hint: Select your favorite photos and upload any reference images for editing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will send edited photos to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: For any questions about your selections
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: What type of photoshoot was this
+      type: select_one
+      options:
+      - Portrait
+      - Family
+      - Wedding
+      - Engagement
+      - Maternity
+      - Newborn
+      - Headshot
+      - Event
+      - Commercial
+      - Other
+      required: true
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: When was your photoshoot
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: photographer_name
+      label: Photographer Name
+      hint: Who was your photographer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gallery_link
+      label: Online Gallery Link
+      hint: Link to your proof gallery if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_photos_to_select
+      label: How Many Photos Are You Selecting
+      hint: Based on your package
+      type: select_one
+      options:
+      - 5-10 photos
+      - 11-20 photos
+      - 21-30 photos
+      - 31-50 photos
+      - 51-100 photos
+      - All photos
+      required: true
+    - id: 11
+      name: selected_photo_numbers
+      label: Selected Photo Numbers
+      hint: List the photo numbers or filenames you want edited
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: editing_style_preference
+      label: Editing Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Natural and Light
+      - Warm and Golden
+      - Cool and Moody
+      - Black and White
+      - Vibrant and Bold
+      - Film Look
+      - No Preference
+      required: true
+    - id: 13
+      name: specific_editing_requests
+      label: Specific Editing Requests
+      hint: Retouching color adjustments etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skin_retouching_level
+      label: Skin Retouching Level
+      hint: null
+      type: select_one
+      options:
+      - Minimal - Natural look
+      - Moderate - Smooth minor imperfections
+      - Heavy - Full retouching
+      - No retouching
+      required: false
+    - id: 15
+      name: background_adjustments
+      label: Background Adjustments Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Brighten
+      - Darken
+      - Remove distractions
+      - Color correction
+      - Blur
+      - Replace background
+      required: false
+    - id: 16
+      name: upload_reference_images
+      label: Upload Reference Images
+      hint: Upload example photos that show your desired style
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: upload_inspiration_photos
+      label: Upload Inspiration Photos
+      hint: Photos you want to emulate
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: deliverable_format
+      label: Preferred Deliverable Format
+      hint: null
+      type: select_one
+      options:
+      - High-resolution JPEG
+      - Web-optimized JPEG
+      - PNG
+      - TIFF
+      - Both high-res and web
+      - No preference
+      required: true
+    - id: 19
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Online Gallery Download
+      - Email
+      - USB Drive by Mail
+      - Cloud Storage Link
+      - No Preference
+      required: true
+    - id: 20
+      name: turnaround_time
+      label: Expected Turnaround Time
+      hint: null
+      type: select_one
+      options:
+      - Rush (1-3 days)
+      - Standard (5-7 days)
+      - Relaxed (10-14 days)
+      - No Rush
+      required: true
+    - id: 21
+      name: print_package_needed
+      label: Do You Need a Print Package
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 22
+      name: print_sizes
+      label: Desired Print Sizes
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: album_or_canvas
+      label: Interested in Album or Canvas Prints
+      hint: null
+      type: select_one
+      options:
+      - Yes album
+      - Yes canvas
+      - Yes both
+      - false
+      - Maybe
+      required: false
+    - id: 24
+      name: usage_rights
+      label: Intended Use of Photos
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal Use Only
+      - Social Media
+      - Website
+      - Marketing Materials
+      - Print Advertising
+      - Commercial Use
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

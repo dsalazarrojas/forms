@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Pet Bedtime Routine Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Virtual Pet Bedtime Routine Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_text
+      label: This survey is to help us understand your virtual pet bedtime habits.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: routine_frequency
+      label: How often do you put your virtual pet to bed?
+      hint: null
+      type: select_one
+      options:
+      - Bedtime, 1-2 times a week
+      - Bedtime, 3-4 times a week
+      - Bedtime, 5-7 times a week
+      - Other, specify
+      required: false
+    - id: 4
+      name: challenge
+      label: What challenges do you encounter while putting your virtual pet to bed?
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty calming down
+      - Difficulty sleeping
+      - Difficulty establishing a routine
+      - Other, specify
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you with your virtual pet bedtime routine?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

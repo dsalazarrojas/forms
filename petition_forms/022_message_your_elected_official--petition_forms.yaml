@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Message Your Elected Official
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: message
+      label: Your Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: elected_official
+      label: Elected Official
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Senator''}'
+      - '{''id'': 2, ''name'': ''Congressman''}'
+      - '{''id'': 3, ''name'': ''Mayor''}'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message_body
+      label: Message Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

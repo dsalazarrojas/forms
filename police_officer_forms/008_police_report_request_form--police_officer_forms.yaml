@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Report Request Form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: police_department
+      label: Police Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: police_station
+      label: Police Station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: police_officer
+      label: Police Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: report_number
+      label: Report Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: report_type
+      label: Report Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_description
+      label: Report Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_relationship
+      label: Witness Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''friend''}'
+      - '{''id'': 2, ''name'': ''family_member''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      - '{''id'': 4, ''name'': ''witness_not_applicable''}'
+      required: false
+    - id: 12
+      name: suspect_details
+      label: Suspect Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_relationship
+      label: Suspect Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''friend''}'
+      - '{''id'': 2, ''name'': ''family_member''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      - '{''id'': 4, ''name'': ''suspect_not_applicable''}'
+      required: false
+    - id: 15
+      name: crime_details
+      label: Crime Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: crime_type
+      label: Crime Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''theft''}'
+      - '{''id'': 2, ''name'': ''assault''}'
+      - '{''id'': 3, ''name'': ''burglary''}'
+      - '{''id'': 4, ''name'': ''domestic_violence''}'
+      - '{''id'': 5, ''name'': ''other''}'
+      required: false
+    - id: 17
+      name: crime_description
+      label: Crime Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: crime_location
+      label: Crime Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: crime_time
+      label: Crime Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: crime_date
+      label: Crime Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: suspect_vehicle
+      label: Suspect Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: text
+      options: []
+      required: false

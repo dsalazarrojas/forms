@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Log Form
+    pages:
+    - id: 1
+      name: form_header
+      label: header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exercise_id
+      label: select_exercise
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Squats''}'
+      - '{''id'': 2, ''label'': ''Push-ups''}'
+      - '{''id'': 3, ''label'': ''Lunges''}'
+      required: false
+    - id: 3
+      name: repetitions
+      label: repetitions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sets
+      label: sets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight_lifted
+      label: weight_lifted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

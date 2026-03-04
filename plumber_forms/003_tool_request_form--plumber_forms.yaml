@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Request Form
+    pages:
+    - id: 1
+      name: tool_request_form
+      label: Tool Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_option
+      required: false
+    - id: 3
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tool_request_date
+      label: Tool Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

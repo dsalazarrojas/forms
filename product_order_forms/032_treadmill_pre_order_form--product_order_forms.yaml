@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treadmill Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of customer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date when the order will arrive
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_description
+      label: Product Description
+      hint: Description of the ordered product
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: retailer
+      label: Retailer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supplier_confirmation
+      label: Supplier Confirmation
+      hint: Signed confirmation of the supplier
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      required: true
+    - id: 9
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: Signed confirmation of customer
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      required: true
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supplier_comments
+      label: Supplier Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supplier_signature
+      label: Supplier Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supplier_report
+      label: Supplier Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer
+      label: Customer Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supplier_signature_date
+      label: Supplier Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

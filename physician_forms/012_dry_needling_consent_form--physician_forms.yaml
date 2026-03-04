@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dry Needling Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: physician_name
+      label: Physican
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: treatment_description
+      label: Treatment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: understanding
+      label: Understand
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: physician_id
+      label: Physican ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false

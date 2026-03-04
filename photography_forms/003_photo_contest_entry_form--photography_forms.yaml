@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Contest Entry Form
+    pages:
+    - id: 1
+      name: photo_contest_entry_form
+      label: Photo Contest Entry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_title
+      label: Photo Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_caption
+      label: Photo Caption
+      hint: Enter your photo caption
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_photo
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: select_category
+      label: Select Category
+      hint: Select a category that best describe the photo
+      type: select_one
+      options:
+      - Photography
+      - Art
+      - Other
+      required: false
+    - id: 9
+      name: date_taken
+      label: Date Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: select_multiple_category
+      label: Select Multiple Category
+      hint: Select multiple category that best describe the photo
+      type: select_multiple
+      options:
+      - Photography
+      - Art
+      - Other
+      required: false
+    - id: 11
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: Enter further comments if any
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: upload_additional_photo
+      label: Upload Additional Photo
+      hint: null
+      type: text
+      options: []
+      required: false

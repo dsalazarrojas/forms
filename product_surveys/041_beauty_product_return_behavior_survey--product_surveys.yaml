@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Product Return Behavior Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: Customer ID or Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_header
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Skincare
+      - Makeup
+      - Haircare
+      - Fragrance
+      - Nail Care
+      - Other
+      required: true
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: first_time_purchase
+      label: Was This Your First Time Purchasing This Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: return_reason_header
+      label: -- Reason for Return --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_reason
+      label: Primary Reason for Return
+      hint: null
+      type: select_one
+      options:
+      - Not as Described
+      - Quality Issues
+      - Allergic Reaction
+      - Ineffective
+      - Damaged Product
+      - Changed Mind
+      - Wrong Item
+      required: true
+    - id: 12
+      name: reason_details
+      label: Detailed Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: usage_duration
+      label: How Long Did You Use the Product
+      hint: null
+      type: select_one
+      options:
+      - Never Opened
+      - Less than 1 Week
+      - 1-2 Weeks
+      - 2-4 Weeks
+      - Over 1 Month
+      required: true
+    - id: 14
+      name: expectations_header
+      label: -- Expectations vs Reality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: expectation_vs_reality
+      label: How Did Product Compare to Expectations
+      hint: null
+      type: select_one
+      options:
+      - Much Worse
+      - Worse
+      - As Expected
+      - Better
+      - Much Better
+      required: true
+    - id: 16
+      name: marketing_alignment
+      label: Did Marketing Match the Product
+      hint: null
+      type: select_one
+      options:
+      - Significantly Misrepresented
+      - Somewhat Misrepresented
+      - Accurate
+      - Conservative
+      - Exceeded
+      required: true
+    - id: 17
+      name: satisfaction_header
+      label: -- Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall Satisfaction with Product
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 19
+      name: quality_rating
+      label: Product Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 20
+      name: value_rating
+      label: Value for Money Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 21
+      name: would_recommend
+      label: Would You Recommend This Product
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 22
+      name: process_header
+      label: -- Return Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: return_ease
+      label: Ease of Return Process
+      hint: null
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Average
+      - Easy
+      - Very Easy
+      required: true
+    - id: 24
+      name: customer_service_quality
+      label: Customer Service Quality During Return
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 25
+      name: future_behavior
+      label: Will You Shop with Us Again
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true

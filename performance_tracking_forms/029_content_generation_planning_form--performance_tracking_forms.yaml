@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Generation Planning Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: Name of the content project
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: content_manager
+      label: Content Manager
+      hint: Person responsible for this project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: planning_date
+      label: Planning Date
+      hint: Date of this planning session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: content_type
+      label: Content Type
+      hint: What type of content will be created?
+      type: select_one
+      options:
+      - Blog Series
+      - Social Media Campaign
+      - Video Series
+      - Podcast Episodes
+      - E-book
+      - White Paper
+      - Email Campaign
+      - Multi-Channel Campaign
+      required: true
+    - id: 5
+      name: campaign_objective
+      label: Campaign Objective
+      hint: What is the main goal?
+      type: select_one
+      options:
+      - Brand Awareness
+      - Lead Generation
+      - Customer Education
+      - Product Launch
+      - Thought Leadership
+      - SEO Improvement
+      - Customer Retention
+      - Sales Enablement
+      required: true
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: Who is this content for?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audience_personas
+      label: Audience Personas
+      hint: Describe your ideal reader/viewer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: key_messages
+      label: Key Messages
+      hint: What are the main points to convey?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_themes
+      label: Content Themes
+      hint: What themes will you explore?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tone_of_voice
+      label: Tone of Voice
+      hint: What tone will you use?
+      type: select_one
+      options:
+      - Professional
+      - Casual
+      - Friendly
+      - Authoritative
+      - Humorous
+      - Inspirational
+      - Educational
+      - Persuasive
+      required: true
+    - id: 11
+      name: content_channels
+      label: Content Channels
+      hint: Where will content be published?
+      type: select_multiple
+      options:
+      - Company Website
+      - Blog
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
+      - YouTube
+      - Email Newsletter
+      - Podcast Platforms
+      required: true
+    - id: 12
+      name: content_frequency
+      label: Content Frequency
+      hint: How often will you publish?
+      type: select_one
+      options:
+      - Daily
+      - 3 times per week
+      - Twice weekly
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: start_date
+      label: Content Start Date
+      hint: When will you begin publishing?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: end_date
+      label: Content End Date
+      hint: When will the campaign end?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: total_content_pieces
+      label: Total Content Pieces Planned
+      hint: How many pieces will you create?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: seo_keywords
+      label: SEO Keywords
+      hint: Target keywords for search
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: content_calendar_link
+      label: Content Calendar Link
+      hint: Link to shared calendar
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_members
+      label: Team Members
+      hint: Who is involved in this project?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: budget_allocated
+      label: Budget Allocated
+      hint: Total budget for content
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: resources_needed
+      label: Resources Needed
+      hint: What resources do you need?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: potential_challenges
+      label: Potential Challenges
+      hint: What obstacles might you face?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: kpi_targets
+      label: KPI Targets
+      hint: What are your target numbers?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approval_workflow
+      label: Approval Workflow
+      hint: Who needs to approve content?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other planning details
+      type: text
+      options: []
+      required: false

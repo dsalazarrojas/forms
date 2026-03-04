@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_consent_form
+    pages:
+    - id: 1
+      name: photographer_consent
+      label: Photography Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photographer_details
+      label: Photographer Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photographer_contact
+      label: Photographer Contact
+      hint: null
+      type: text
+      options: []
+      required: false

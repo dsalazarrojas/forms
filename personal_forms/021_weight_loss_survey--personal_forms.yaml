@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Survey
+    pages:
+    - id: 1
+      name: user_background
+      label: User Background
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: current_weight
+      label: Current Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: target_weight
+      label: Target Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: goal_weight_loss
+      label: Goal Weight Loss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: current_height
+      label: Current Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sex
+      label: Sex
+      hint: null
+      type: select_multiple
+      options:
+      - Female
+      - Male
+      required: true
+    - id: 8
+      name: height_unit
+      label: Height Unit
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - m
+      - in
+      - ft
+      - yd
+      required: true
+    - id: 9
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lbs
+      - st
+      - lb
+      required: true
+    - id: 10
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: height_change_per_month
+      label: Height Change Per Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: weight_change_per_month
+      label: Weight Change Per Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: dieting_background
+      label: Dieting Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - 7 or more times a week
+      required: true
+    - id: 16
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours a day
+      - 3-4 hours a day
+      - 5-6 hours a day
+      - 7-8 hours a day
+      - 9 hours or more a day
+      required: true
+    - id: 17
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: exercise_duration
+      label: Exercise Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: stress_level
+      label: Stress Level
+      hint: null
+      type: select_one
+      options:
+      - 0-5
+      - 5-10
+      - 11-15
+      - 16-20
+      - Above 20
+      required: true
+    - id: 21
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: supplement_use
+      label: Supplement Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Omnivore
+      - Flexitarian
+      required: false
+    - id: 24
+      name: exercise_preferences
+      label: Exercise Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Running
+      - Swimming
+      - Cycling
+      - Gym
+      required: false
+    - id: 25
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: true

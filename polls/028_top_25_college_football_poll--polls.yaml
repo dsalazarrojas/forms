@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Top 25 College Football Poll
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_score
+      label: Team Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: conference
+      label: Conference
+      hint: null
+      type: select_one
+      options:
+      - NFL
+      - NCAA
+      - Other
+      required: false
+    - id: 4
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_time
+      label: Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: poll_rank
+      label: Poll Rank
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      - 13th
+      - 14th
+      - 15th
+      - 16th
+      - 17th
+      - 18th
+      - 19th
+      - 20th
+      - 21st
+      - 22nd
+      - 23rd
+      - 24th
+      - 25th
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_input
+      label: User Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_record
+      label: Team Record
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: conference_win
+      label: Conference Win
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: division_win
+      label: Division Win
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: region_away
+      label: Region Away
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: conference_losses
+      label: Conference Losses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: division_losses
+      label: Division Losses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: region_losses
+      label: Region Losses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_score
+      label: Total Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: team_points
+      label: Team Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: region_points
+      label: Region Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: team_rank_score
+      label: Team Rank Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: region_rank_score
+      label: Region Rank Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: team_conf_score
+      label: Team Conf Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: region_conf_score
+      label: Region Conf Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: user_rank_score
+      label: User Rank Score
+      hint: null
+      type: number
+      options: []
+      required: false

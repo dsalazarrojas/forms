@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Phase 4 Vaccination Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: is_minor
+      label: Is this registration for a child?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if registrant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dob_registrant
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: school_employer
+      label: School or Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_contact
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_contact
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: medical_exemptions
+      label: Please list any known medical exemptions or severe allergies
+      hint: Enter None if not applicable
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_consent
+      label: I give consent for this registrant to receive the vaccine
+      hint: Required for minors
+      type: select_one
+      options:
+      - true
+      - I consent
+      - Not Applicable
+      required: true
+    - id: 10
+      name: preferred_site
+      label: Preferred Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - Main Hospital
+      - Community Clinic
+      - High School Gym
+      - Mobile Unit
+      required: true
+    - id: 11
+      name: information_accuracy
+      label: I confirm the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

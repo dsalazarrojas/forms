@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workout Routine Details Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: routine_details
+      label: routine_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exercises
+      label: exercises
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: workout_frequency
+      label: workout_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every Other Day
+      - 2-3 times a week
+      - 4-5 times a week
+      - 6-7 times a week
+      required: true
+    - id: 5
+      name: duration_in_minutes
+      label: duration_in_minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: workout_days
+      label: workout_days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: connect_app
+      label: connect_app
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

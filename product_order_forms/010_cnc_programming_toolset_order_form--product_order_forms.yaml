@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Programming Toolset Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Company or training center name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing Company
+      - Training Center
+      - Educational Institution
+      - Individual
+      - Reseller
+      - Other
+      required: true
+    - id: 7
+      name: toolset_package
+      label: CNC Programming Toolset Package
+      hint: Select the toolset you want to order
+      type: select_one
+      options:
+      - Basic Toolset
+      - Professional Toolset
+      - Enterprise Toolset
+      - Custom Package
+      required: true
+    - id: 8
+      name: software_selection
+      label: Software Components Needed
+      hint: Select all applicable software modules
+      type: select_multiple
+      options:
+      - G-Code Generator
+      - CAM Software
+      - Simulation Software
+      - Post-Processor
+      - Tool Library
+      - Training Materials
+      - Technical Support
+      required: true
+    - id: 9
+      name: cnc_machine_types
+      label: CNC Machine Types You Support
+      hint: Select applicable machine types
+      type: select_multiple
+      options:
+      - Milling Machines
+      - Turning Centers
+      - Multi-Axis Machines
+      - Waterjet Systems
+      - Plasma Cutters
+      - Laser Cutters
+      - Other
+      required: false
+    - id: 10
+      name: quantity
+      label: Number of Licenses
+      hint: How many software licenses do you need?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Single-User
+      - Multi-User
+      - Site License
+      - Network License
+      required: true
+    - id: 12
+      name: training_required
+      label: Training Required
+      hint: Do you need training on the toolset?
+      type: select_one
+      options:
+      - Yes - Online Training
+      - Yes - On-site Training
+      - Yes - Both
+      - 'No'
+      required: false
+    - id: 13
+      name: number_of_trainees
+      label: Number of Trainees
+      hint: How many people need training?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: billing_postal
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_address
+      label: Shipping Address
+      hint: Different from billing address?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When do you need the toolset?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_requirements
+      label: Special Requirements or Notes
+      hint: Any custom modifications or additional needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Wire Transfer
+      - Check
+      - PO Purchase Order
+      - Lease/Rental
+      required: false
+    - id: 22
+      name: company_purchase_order
+      label: Company Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: text
+      options: []
+      required: false

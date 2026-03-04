@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Villa La Nuvola
+    pages:
+    - id: 1
+      name: form_1_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2_page
+      label: customer_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Customer 1''}'
+      - '{''label'': ''Customer 2''}'
+      - '{''label'': ''Customer 3''}'
+      required: false
+    - id: 3
+      name: form_3_page
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4_page
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_5_page
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false

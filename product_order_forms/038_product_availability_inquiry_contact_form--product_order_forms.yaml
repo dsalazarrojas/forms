@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_availability_inquiry_contact_form
+    pages:
+    - id: 1
+      name: product_availability_inquiry_contact_form_page_1
+      label: product_availability_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability_inquiry_message
+      label: product_availability_inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: how_would_you_like_to_be_contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Sales
+      - Marketing
+      - Other
+      required: false
+    - id: 12
+      name: sales_reps
+      label: sales_reps
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: marketing_reps
+      label: marketing_reps
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_one
+      options:
+      - Consumer
+      - Business
+      required: false

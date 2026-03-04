@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Feedback Form
+    pages:
+    - id: 1
+      name: product_feedback_form
+      label: What do you think of this product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: Quality of product
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Average
+      - Bad
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: Product design
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Not good
+      - Average
+      required: false
+    - id: 4
+      name: product_feedback_form_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: feedback_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

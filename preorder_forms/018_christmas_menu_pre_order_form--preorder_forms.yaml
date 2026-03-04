@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Menu Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reservation_date
+      label: Reservation Date
+      hint: When is your dining reservation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reservation_time
+      label: Reservation Time
+      hint: Preferred seating time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: party_size
+      label: Party Size
+      hint: Number of guests
+      type: select_one
+      options:
+      - 2 people
+      - 3 people
+      - 4 people
+      - 5-6 people
+      - 7-8 people
+      - 9 or more
+      required: true
+    - id: 8
+      name: occasion
+      label: Occasion
+      hint: What are you celebrating
+      type: select_one
+      options:
+      - Christmas Dinner
+      - Holiday Celebration
+      - Anniversary
+      - Birthday
+      - Business Dinner
+      - Romantic Date
+      - Family Gathering
+      - Other
+      required: true
+    - id: 9
+      name: seating_preference
+      label: Seating Preference
+      hint: Where would you like to sit
+      type: select_one
+      options:
+      - No preference
+      - Indoor dining
+      - Outdoor patio
+      - Private room
+      - Window seat
+      - Quiet area
+      - Near fireplace
+      required: true
+    - id: 10
+      name: section_reservation_details
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: appetizer_selection
+      label: Appetizer Pre-Order
+      hint: Choose your starter
+      type: select_one
+      options:
+      - French Onion Soup
+      - Caesar Salad
+      - Shrimp Cocktail
+      - Charcuterie Board
+      - Butternut Squash Soup
+      - No appetizer
+      required: true
+    - id: 12
+      name: main_course_selection
+      label: Main Course Selection
+      hint: Choose your entree
+      type: select_one
+      options:
+      - Roasted Turkey with Stuffing
+      - Prime Rib Roast
+      - Glazed Ham
+      - Beef Wellington
+      - Rack of Lamb
+      - Vegetarian Wellington
+      - Pan-Seared Salmon
+      - Duck Confit
+      required: true
+    - id: 13
+      name: main_course_temp
+      label: Meat Temperature
+      hint: How would you like your meat
+      type: select_one
+      options:
+      - Not applicable
+      - Rare
+      - Medium Rare
+      - Medium
+      - Medium Well
+      - Well Done
+      required: false
+    - id: 14
+      name: section_main_course
+      label: -- Main Course --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: side_dishes
+      label: Side Dishes
+      hint: Choose two sides
+      type: select_multiple
+      options:
+      - Garlic Mashed Potatoes
+      - Roasted Root Vegetables
+      - Green Bean Almondine
+      - Brussels Sprouts
+      - Wild Rice Pilaf
+      - Creamed Spinach
+      - Yorkshire Pudding
+      - Cranberry Sauce
+      required: true
+    - id: 16
+      name: dessert_selection
+      label: Dessert Selection
+      hint: Choose your sweet ending
+      type: select_one
+      options:
+      - Christmas Yule Log
+      - Gingerbread Cheesecake
+      - Peppermint Creme Brulee
+      - Chocolate Mousse
+      - Apple Tart
+      - Tiramisu
+      - No dessert
+      - Dessert sampler for table
+      required: true
+    - id: 17
+      name: section_dessert
+      label: -- Dessert --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Halal
+      - Kosher
+      - Low Sodium
+      required: true
+    - id: 19
+      name: allergies_notes
+      label: Allergy Notes
+      hint: Please specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: beverage_package
+      label: Beverage Package
+      hint: Select drink option
+      type: select_one
+      options:
+      - No beverage package
+      - Wine pairing
+      - Cocktail pairing
+      - Non-alcoholic pairing
+      - Coffee and tea only
+      required: true
+    - id: 21
+      name: section_beverages
+      label: -- Beverages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: wine_preference
+      label: Wine Preference
+      hint: If selecting wine
+      type: select_one
+      options:
+      - Not applicable
+      - Red wine
+      - White wine
+      - Champagne
+      - Mixed selection
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any special occasions or requests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: deposit_acknowledged
+      label: Deposit Acknowledgment
+      hint: Pre-orders require deposit
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need information
+      required: true
+    - id: 25
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes I understand
+      - No please explain
+      required: true

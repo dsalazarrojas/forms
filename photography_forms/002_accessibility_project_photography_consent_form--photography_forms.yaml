@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Project Photography Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: is_minor
+      label: Is the Participant Under 18 Years of Age
+      hint: If yes, a guardian must sign on behalf of the participant
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: guardian_name
+      label: Parent or Guardian Name (if applicable)
+      hint: Required only if participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_project_details
+      label: -- Project and Photography Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: Accessibility Project Name
+      hint: The name of the project for which photos are being taken
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photo_date
+      label: Date of Photography Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: photo_location
+      label: Location of Photography
+      hint: Where the photos will be taken
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_consent
+      label: -- Consent and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: consent_granted
+      label: I consent to having my photograph taken for this accessibility project
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: permitted_uses
+      label: Permitted Uses of Photographs
+      hint: Select all uses you authorize
+      type: select_multiple
+      options:
+      - Project documentation
+      - Website and social media
+      - Print publications and brochures
+      - Educational materials
+      - Presentations and conferences
+      - Fundraising campaigns
+      required: true
+    - id: 15
+      name: duration_of_consent
+      label: Duration of Consent
+      hint: How long do you grant permission for use of your photos
+      type: select_one
+      options:
+      - One year
+      - Three years
+      - Five years
+      - Indefinitely
+      required: true
+    - id: 16
+      name: special_accommodations
+      label: Do You Require Any Accommodations During the Photography Session
+      hint: Describe any accessibility needs or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_conditions
+      label: Additional Conditions or Restrictions
+      hint: Note any specific conditions under which your photos may or may not be
+        used
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

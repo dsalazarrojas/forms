@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Reference Questionnaire
+    pages:
+    - id: 1
+      name: pet_adoption_reference_questionnaire
+      label: Pet Adoption Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Message
+      required: false
+    - id: 9
+      name: preferred_contact_method_other
+      label: Preferred Contact Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_adopting
+      label: Reason for Adopting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pets_in_home
+      label: Pets in Home
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: pet_experience
+      label: Pet Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pet_adopted
+      label: Pet Adopted
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Maybe
+      required: false

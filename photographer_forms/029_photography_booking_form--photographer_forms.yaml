@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Booking Form
+    pages:
+    - id: 1
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_email
+      label: Photographer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: photographer_phone
+      label: Photographer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_of_work
+      label: Description of Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booking_session
+      label: Booking Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Contract
+      - Custom Contract
+      - Non Disclosure Agreement
+      required: false

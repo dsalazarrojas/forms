@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Product Catalog Form
+    pages:
+    - id: 1
+      name: section_product_ident
+      label: -- Product Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Official Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manufacturer_brand
+      label: Manufacturer or Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sku_model_number
+      label: SKU or Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_category
+      label: Product Category
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Building Materials (Concrete, Steel, Timber)
+      - Electrical/Lighting
+      - Plumbing/HVAC
+      - Interior Finishing (Paint, Tile, Flooring)
+      - Exterior/Landscaping
+      - Tools and Hardware
+      - Safety and PPE
+      - Windows and Doors
+      required: true
+    - id: 6
+      name: section_technical_specs
+      label: -- Technical Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: Detailed Product Description
+      hint: Include primary use and features
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dimensions_size_range
+      label: Standard Dimensions or Size Range
+      hint: e.g., 4ft x 8ft Sheets, 2in Diameter
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: material_composition
+      label: Material Composition
+      hint: e.g., 60% Recycled Steel, High-Density Polyethylene
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: weight_per_unit
+      label: Weight per Unit (Lbs/Kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: load_rating_capacity
+      label: Load Rating or Capacity (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_compliance_certs
+      label: -- Compliance and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: compliance_standards_checklist
+      label: Certified Compliance Standards
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - ASTM (American Society for Testing and Materials)
+      - ANSI (American National Standards Institute)
+      - UL (Underwriters Laboratories)
+      - LEED (Leadership in Energy and Environmental Design)
+      - OSHA (Occupational Safety and Health Administration)
+      - ISO (International Organization for Standardization)
+      required: false
+    - id: 14
+      name: warranty_period
+      label: Standard Warranty Period
+      hint: null
+      type: select_one
+      options:
+      - No Warranty
+      - 1 Year
+      - 5 Years
+      - 10 Years
+      - Lifetime Limited
+      required: true
+    - id: 15
+      name: section_pricing_availability
+      label: -- Pricing and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: list_price_per_unit
+      label: List Price per Unit ($)
+      hint: Excluding shipping and taxes
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: minimum_order_qty
+      label: Minimum Order Quantity (MOQ)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: lead_time_estimate
+      label: Estimated Lead Time for Delivery
+      hint: null
+      type: select_one
+      options:
+      - In Stock (Ships in 24-48 hours)
+      - 1-2 Weeks
+      - 2-4 Weeks
+      - 4-8 Weeks
+      - Built to Order (8+ Weeks)
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Product or Ordering Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_entry_date
+      label: Date of Catalog Entry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: authorized_by
+      label: Authorized By (Name)
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: race
+      label: Race
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Other Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: ethnicity
+      label: Ethnicity
+      hint: For demographic reporting
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: preferred_language
+      label: Preferred Language
+      hint: For communications
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - French
+      - Other
+      required: true
+    - id: 15
+      name: insurance_status
+      label: Do you have health insurance
+      hint: Insurance coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_testing
+      label: Reason for Testing
+      hint: Why are you getting tested
+      type: select_one
+      options:
+      - Experiencing symptoms
+      - Close contact with positive case
+      - Work requirement
+      - School requirement
+      - Travel requirement
+      - Medical procedure requirement
+      - Event requirement
+      - Personal peace of mind
+      required: true
+    - id: 19
+      name: current_symptoms
+      label: Are you currently experiencing any symptoms
+      hint: Symptom status
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 20
+      name: symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 21
+      name: symptom_onset_date
+      label: When did symptoms start
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: exposure_date
+      label: Date of known exposure
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: preferred_test_type
+      label: Preferred Test Type
+      hint: Test preference
+      type: select_one
+      options:
+      - PCR test - most accurate
+      - Rapid antigen test - fast results
+      - No preference
+      required: true
+    - id: 24
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When to test
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: testing_location_preference
+      label: Preferred Testing Location
+      hint: Where to test
+      type: select_one
+      options:
+      - Main testing site
+      - Drive-through location
+      - Mobile testing unit
+      - Home collection
+      required: true
+    - id: 27
+      name: transportation_method
+      label: How will you get to the testing site
+      hint: Transportation
+      type: select_one
+      options:
+      - Personal vehicle
+      - Public transportation
+      - Ride from friend or family
+      - Ride share service
+      - Walking
+      required: true
+    - id: 28
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: result_delivery_method
+      label: How would you like to receive results
+      hint: Result delivery
+      type: select_one
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - Patient portal
+      - Mail
+      required: true
+    - id: 31
+      name: consent_to_testing
+      label: I consent to COVID-19 testing
+      hint: Testing consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 32
+      name: hipaa_acknowledgment
+      label: I acknowledge receipt of HIPAA privacy notice
+      hint: HIPAA acknowledgment
+      type: select_one
+      options:
+      - Yes acknowledged
+      - No not received
+      required: true
+    - id: 33
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

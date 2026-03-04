@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Exhibition Theme Voting Form
+    pages:
+    - id: 1
+      name: concept_title
+      label: Photography Concept Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: concept_description
+      label: Describe the concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: concept_image_url
+      label: Concept Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Any other information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: selected_concept
+      label: Select a concept
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: theme
+      label: Theme
+      hint: null
+      type: text
+      options: []
+      required: false

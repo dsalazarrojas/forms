@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Photo Release Form
+    pages:
+    - id: 1
+      name: photographer_information
+      label: Photographer Information
+      hint: Details about the photographer or photography company
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: Full legal name of the photographer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photography_business
+      label: Photography Business Name
+      hint: Name of photography company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer_email
+      label: Photographer Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: photographer_phone
+      label: Photographer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_information
+      label: Client Information
+      hint: Details about the client or subject
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Full legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: shoot_date
+      label: Shoot Date
+      hint: Date when the photoshoot took place
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: shoot_location
+      label: Shoot Location
+      hint: Location where photos were taken
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shoot_purpose
+      label: Shoot Purpose
+      hint: Primary purpose of the photoshoot
+      type: select_one
+      options:
+      - Commercial Advertising
+      - Product Photography
+      - Corporate Headshots
+      - Event Coverage
+      - Real Estate
+      - Fashion/Portfolio
+      - Social Media Content
+      required: true
+    - id: 12
+      name: usage_rights
+      label: Usage Rights
+      hint: How will the photographs be used
+      type: select_multiple
+      options:
+      - Print Advertising
+      - Digital Marketing
+      - Social Media
+      - Website
+      - Brochures/Catalogs
+      - Billboards
+      - Television
+      - Internal Use Only
+      required: true
+    - id: 13
+      name: usage_duration
+      label: Usage Duration
+      hint: How long will the photos be used
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - Perpetual/Unlimited
+      required: true
+    - id: 14
+      name: usage_territory
+      label: Usage Territory
+      hint: Geographic area where photos will be used
+      type: select_one
+      options:
+      - Local/Regional
+      - National
+      - North America
+      - Worldwide
+      required: true
+    - id: 15
+      name: compensation_type
+      label: Compensation Type
+      hint: Type of compensation for photo usage
+      type: select_one
+      options:
+      - One-Time Fee
+      - Royalty Based
+      - Trade/Exchange
+      - No Compensation
+      required: true
+    - id: 16
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Total compensation amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: exclusive_rights
+      label: Exclusive Rights
+      hint: Are exclusive rights being granted
+      type: select_one
+      options:
+      - Yes - Exclusive
+      - No - Non-Exclusive
+      required: true
+    - id: 18
+      name: model_release_required
+      label: Model Release Required
+      hint: Does this shoot include recognizable people
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_terms
+      label: Additional Terms
+      hint: Any additional terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date of client agreement
+      type: date
+      options: []
+      required: true

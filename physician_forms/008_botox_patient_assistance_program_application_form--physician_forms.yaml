@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botox Patient Assistance Program Application Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: patient_address
+      label: Street Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: true
+    - id: 8
+      name: patient_zip
+      label: ZIP Code
+      hint: Home ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_email
+      label: Email Address
+      hint: For program communications
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: ssn_last_four
+      label: Last 4 Digits of SSN
+      hint: For verification purposes only
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: household_size
+      label: Household Size
+      hint: Total number of people in your household
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: household_income
+      label: Annual Household Income
+      hint: Total income before taxes
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $49,999
+      - $50,000 - $74,999
+      - $75,000 - $99,999
+      - $100,000 or more
+      required: true
+    - id: 14
+      name: insurance_status
+      label: Insurance Status
+      hint: Do you have health insurance
+      type: select_one
+      options:
+      - Private insurance
+      - Medicare
+      - Medicaid
+      - Uninsured
+      - Underinsured
+      required: true
+    - id: 15
+      name: medical_condition
+      label: Medical Condition Requiring Treatment
+      hint: Select your diagnosed condition
+      type: select_one
+      options:
+      - Chronic migraine
+      - Cervical dystonia
+      - Blepharospasm
+      - Strabismus
+      - Hyperhidrosis
+      - Overactive bladder
+      - Spasticity
+      - Other
+      required: true
+    - id: 16
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: When were you diagnosed
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: treating_physician
+      label: Treating Physician Name
+      hint: Full name of your doctor
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor's contact number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: physician_address
+      label: Physician Practice Address
+      hint: Complete practice address
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: current_treatment
+      label: Current Treatment Status
+      hint: Are you currently receiving Botox treatment
+      type: select_one
+      options:
+      - Yes, self-pay
+      - Yes, with insurance
+      - No, new patient
+      - Previously treated, currently not treating
+      required: true
+    - id: 21
+      name: financial_hardship
+      label: Financial Hardship Statement
+      hint: Describe your financial situation and need for assistance
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: assistance_type
+      label: Type of Assistance Requested
+      hint: Select the assistance you need
+      type: select_one
+      options:
+      - Full coverage
+      - Partial co-pay assistance
+      - Discount program
+      - Payment plan
+      required: true
+    - id: 23
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Disabled
+      - Retired
+      - Student
+      required: true
+    - id: 24
+      name: government_assistance
+      label: Government Assistance Received
+      hint: Select any assistance programs you receive
+      type: select_multiple
+      options:
+      - None
+      - SNAP (food stamps)
+      - Housing assistance
+      - Utility assistance
+      - Disability benefits
+      - Social Security
+      - Veterans benefits
+      required: true
+    - id: 25
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: physician_signature
+      label: Physician Signature Required
+      hint: Physician to complete and sign
+      type: text
+      options: []
+      required: true

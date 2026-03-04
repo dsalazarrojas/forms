@@ -1,0 +1,351 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance And Furniture Feedback
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_date
+      label: Feedback Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_category
+      label: Product Category
+      hint: What type of product
+      type: select_one
+      options:
+      - Kitchen appliances
+      - Laundry appliances
+      - Living room furniture
+      - Bedroom furniture
+      - Dining room furniture
+      - Office furniture
+      - Outdoor furniture
+      - Other
+      required: true
+    - id: 6
+      name: product_type
+      label: Product Type
+      hint: Specific product
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: brand_name
+      label: Brand Name
+      hint: Manufacturer brand
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: model_number
+      label: Model Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you buy
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: purchase_location
+      label: Purchase Location
+      hint: Where did you buy
+      type: select_one
+      options:
+      - In-store
+      - Online
+      - Phone order
+      - Other
+      required: true
+    - id: 11
+      name: store_location
+      label: Store Location
+      hint: If in-store
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price_paid
+      label: Price Paid
+      hint: Purchase amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: ownership_duration
+      label: How long have you owned this product
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1 to 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - More than 5 years
+      required: true
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: quality_rating
+      label: Quality Rating
+      hint: Rate product quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: value_for_money
+      label: Value for Money
+      hint: Worth the price
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 17
+      name: appearance_rating
+      label: Appearance Rating
+      hint: How does it look
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: functionality_rating
+      label: Functionality Rating
+      hint: How well does it work
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 19
+      name: durability_rating
+      label: Durability Rating
+      hint: How well has it held up
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      - Too soon to tell
+      required: true
+    - id: 20
+      name: ease_of_use
+      label: Ease of Use
+      hint: How easy to use
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 21
+      name: features_rating
+      label: Features Rating
+      hint: Rate the features
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 22
+      name: favorite_features
+      label: Favorite Features
+      hint: What do you like most
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: least_favorite_features
+      label: Least Favorite Features
+      hint: What do you like least
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issues_experienced
+      label: Issues Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Does not work as expected
+      - Broke or malfunctioned
+      - Poor quality materials
+      - Difficult assembly
+      - Difficult to use
+      - Noisy operation
+      - Arrived damaged
+      - Missing parts
+      - Other
+      required: true
+    - id: 25
+      name: issues_description
+      label: Issues Description
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: customer_service_experience
+      label: Customer Service Experience
+      hint: If you contacted support
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      - Did not contact
+      required: true
+    - id: 27
+      name: delivery_experience
+      label: Delivery Experience
+      hint: Rate delivery service
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      - Not applicable
+      required: true
+    - id: 28
+      name: assembly_experience
+      label: Assembly Experience
+      hint: If assembly required
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      - Professional assembly
+      - Not applicable
+      required: true
+    - id: 29
+      name: would_recommend
+      label: Would You Recommend This Product
+      hint: To others
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 30
+      name: would_buy_again
+      label: Would You Buy This Brand Again
+      hint: Future purchase
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 31
+      name: comparison_to_competitors
+      label: How does it compare to competitors
+      hint: Comparison
+      type: select_one
+      options:
+      - Much better
+      - Better
+      - About the same
+      - Worse
+      - Much worse
+      - Have not used others
+      required: true
+    - id: 32
+      name: photos_attached
+      label: Do you have photos to share
+      hint: Product photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: follow_up_contact
+      label: May we contact you for follow-up
+      hint: For additional feedback
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

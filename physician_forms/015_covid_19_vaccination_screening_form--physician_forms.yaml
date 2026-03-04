@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Screening Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID or Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_section
+      label: -- Medical History Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: allergies_vaccines
+      label: Do you have allergies to vaccine components
+      hint: Polyethylene glycol, polysorbate, or other
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 7
+      name: anaphylaxis_history
+      label: History of anaphylaxis
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: allergies_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: immunocompromised
+      label: Are you immunocompromised
+      hint: HIV, cancer, receiving immunosuppressive therapy
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: chronic_conditions
+      label: Chronic medical conditions
+      hint: Diabetes, heart disease, lung disease, kidney disease
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: conditions_list
+      label: Please list conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pregnancy_status
+      label: Currently pregnant or planning to become pregnant
+      hint: null
+      type: select_one
+      options:
+      - Pregnant
+      - Planning pregnancy
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 13
+      name: breastfeeding_status
+      label: Currently breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: medications_section
+      label: -- Current Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current medications you are taking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: blood_thinners
+      label: Taking blood thinners or anticoagulants
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: immunosuppressants
+      label: Taking immunosuppressive medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: vaccination_history_section
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: previous_covid
+      label: Have you had COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: covid_diagnosis_date
+      label: If yes, when were you diagnosed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: previous_covid_vaccine
+      label: Have you received a COVID-19 vaccine before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: previous_vaccine_details
+      label: If yes, which vaccine and dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: adverse_reaction
+      label: Had adverse reactions to previous vaccines
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: reaction_details
+      label: Describe adverse reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: symptoms_section
+      label: -- Current Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: current_symptoms
+      label: Currently experiencing COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: symptoms_list
+      label: If yes, check all symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste
+      - Loss of smell
+      - Fatigue
+      - Headache
+      required: false
+    - id: 28
+      name: fever_current
+      label: Current fever or temperature above 100.4 F
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: approval_status
+      label: Screening approval
+      hint: To be completed by healthcare provider
+      type: select_one
+      options:
+      - Approved for vaccination
+      - Approved with precautions
+      - Defer vaccination
+      - Requires medical evaluation
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weightlifting Program Application Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_details
+      label: Program Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_details
+      label: Emergency Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition_select
+      label: What is your medical condition?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Joint or back pain
+      - Heart condition
+      - Other
+      required: true
+    - id: 7
+      name: medical_condition_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weight_classifications
+      label: Weight Classifications
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 9
+      name: coach_preferred
+      label: Coach Preferred
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition_select
+      label: What is your medical condition?
+      hint: null
+      type: select_one
+      options:
+      - Joint or back pain
+      - Heart condition
+      - Other
+      required: true
+    - id: 20
+      name: coach_preferred
+      label: Coach Preferred
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: coach
+      label: Coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: coach_phone
+      label: Coach's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: rep
+      label: Rep
+      hint: null
+      type: number
+      options: []
+      required: true

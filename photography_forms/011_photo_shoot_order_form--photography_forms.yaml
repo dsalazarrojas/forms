@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Shoot Order Form
+    pages:
+    - id: 1
+      name: shoot_details
+      label: Enter Shoot Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: number_of_photos
+      label: Number of Photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_orientation
+      label: Photo Orientation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: package_selection
+      label: Package Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: shoot_name
+      label: Shoot Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photographer
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exp_date
+      label: Exp Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: exp_month
+      label: Exp Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 18
+      name: exp_year
+      label: Exp Year
+      hint: null
+      type: select_one
+      options:
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - '2029'
+      - '2030'
+      required: false

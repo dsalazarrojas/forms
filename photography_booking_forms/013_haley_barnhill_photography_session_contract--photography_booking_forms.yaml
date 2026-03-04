@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: haley_barnhill_photography_session_contract
+    pages:
+    - id: 1
+      name: full_session
+      label: Full Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: photo_types
+      label: Photo Types
+      hint: null
+      type: select_one
+      options:
+      - Landscape
+      - Portrait
+      - City
+      - Night
+      - Other (Specify)
+      - Studio
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: note
+      options: []
+      required: false

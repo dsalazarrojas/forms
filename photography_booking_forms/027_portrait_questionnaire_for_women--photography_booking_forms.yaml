@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: portrait_questionnaire_for_women
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: height
+      label: height_in_centimeters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight
+      label: weight_kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_length
+      label: hair_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shoe_size
+      label: shoe_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dress_size
+      label: dress_size
+      hint: null
+      type: select_one
+      options:
+      - '8'
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      required: false

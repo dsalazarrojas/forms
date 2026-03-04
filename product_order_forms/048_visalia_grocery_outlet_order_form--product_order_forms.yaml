@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: visalia_grocery_outlet_order_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: E Mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: select_option_1
+      label: Select Option 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_a''}'
+      - '{''value'': ''option_b''}'
+      - '{''value'': ''option_c''}'
+      required: true
+    - id: 13
+      name: select_option_2
+      label: Select Option 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_x''}'
+      - '{''value'': ''option_y''}'
+      - '{''value'': ''option_z''}'
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: store
+      label: Store
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: select_option_3
+      label: Select Option 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_d''}'
+      - '{''value'': ''option_e''}'
+      - '{''value'': ''option_f''}'
+      required: true
+    - id: 22
+      name: select_option_4
+      label: Select Option 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_g''}'
+      - '{''value'': ''option_h''}'
+      - '{''value'': ''option_i''}'
+      required: true
+    - id: 23
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: store_2
+      label: Store 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: product_2
+      label: Product 2
+      hint: null
+      type: text
+      options: []
+      required: true

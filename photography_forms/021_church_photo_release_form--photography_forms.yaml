@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Photo Release Form
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_event_info
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event or Activity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_photo_use
+      label: -- Photo Usage Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: authorize_photography
+      label: I authorize photography of my participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: photo_description
+      label: Description of Photographs to Be Taken
+      hint: Still photography, video, both
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: grant_permission
+      label: Grant Permission for Use of Photographs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: section_header_authorized_uses
+      label: -- Authorized Uses of Photographs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: authorized_uses
+      label: Authorized Uses (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Church newsletter
+      - Website
+      - Social media
+      - Annual report
+      - Promotional materials
+      - Presentations
+      - Archive or documentation
+      - Other
+      required: false
+    - id: 16
+      name: restrictions_limitations
+      label: Any Restrictions or Limitations
+      hint: Please specify if there are any restrictions on photo use
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_name_use
+      label: -- Name and Identity Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: name_identification
+      label: May Your Name Be Used with Photographs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Anonymous only
+      required: true
+    - id: 19
+      name: section_header_compensation
+      label: -- Compensation and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: compensation_expectation
+      label: Expectations for Compensation
+      hint: Do you expect payment for use of your image
+      type: select_one
+      options:
+      - No compensation expected
+      - Negotiable
+      - Request payment
+      required: false
+    - id: 21
+      name: rights_ownership
+      label: Church Owns All Rights to Photographs
+      hint: Church retains full ownership and rights to use photos
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 22
+      name: section_header_minor_info
+      label: -- Minor Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: is_minor
+      label: Are You Under 18 Years of Age
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: parent_guardian_name
+      label: Parent or Guardian Name (if under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: parent_guardian_email
+      label: Parent or Guardian Email (if under 18)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: parent_consent
+      label: Parent or Guardian Consent (if under 18)
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      - Not applicable
+      required: false
+    - id: 27
+      name: section_header_acknowledgment
+      label: -- Acknowledgment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: agreement_confirmation
+      label: I confirm this information is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true
+    - id: 29
+      name: form_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

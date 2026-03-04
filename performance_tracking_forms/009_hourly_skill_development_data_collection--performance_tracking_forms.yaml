@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: hourly_skill_development_data_collection
+    pages:
+    - id: 1
+      name: form_header
+      label: Hourly Skill Development Data Collection Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: learner_id
+      label: Learner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: skill_area
+      label: Learner Skill Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Intermediate
+      - Advanced
+      - Beginner
+      - Mastery
+      required: true
+    - id: 5
+      name: learning_activity
+      label: What were you doing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: learning_activity_duration
+      label: How long did you practice?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: learning_outcome
+      label: What did you accomplish?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: learning_outcome_details
+      label: Details about learning outcome
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: logged_by
+      label: Logged by
+      hint: null
+      type: select_one
+      options:
+      - Learner
+      - Trainer
+      - Team
+      required: true
+    - id: 13
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: trainer_id
+      label: Trainer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: Additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      - tag4
+      required: true
+    - id: 19
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - Learner
+      - Trainer
+      - Team
+      required: true
+    - id: 20
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Learner
+      - Trainer
+      - Team
+      required: false
+    - id: 23
+      name: form_submitted_by_id
+      label: Form Submitted By ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_ip
+      label: Form Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_user_agent
+      label: Form Submitted User Agent
+      hint: null
+      type: text
+      options: []
+      required: false

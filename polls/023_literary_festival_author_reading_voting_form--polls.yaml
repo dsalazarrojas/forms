@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literary Festival Author Reading Voting Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: question
+      label: Rate the Author Reading
+      hint: Select the rating that best matches your opinion
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 5
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one_1
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: select_one_2
+      label: Select Two
+      hint: null
+      type: select_one
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 9
+      name: select_multiple_1
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: select_multiple_2
+      label: Select Multiple Two
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

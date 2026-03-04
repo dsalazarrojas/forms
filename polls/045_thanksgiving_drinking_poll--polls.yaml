@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_drinking_poll
+    pages:
+    - id: 1
+      name: drink_of_choice
+      label: Which of the following drinks is your favorite on Thanksgiving?
+      hint: null
+      type: select_multiple
+      options:
+      - apple_cider
+      - eggnog
+      - hot_coffee
+      - sparkling_cider
+      - soda
+      required: false
+    - id: 2
+      name: favorite_soda
+      label: Favorite Soda
+      hint: null
+      type: select_one
+      options:
+      - cola
+      - root_beer
+      - ginger_ale
+      - orange_soda
+      - lemon-lime_soda
+      required: false
+    - id: 3
+      name: drink_frequency
+      label: How often do you drink?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: drink_amount
+      label: How much do you drink?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: drink_trend
+      label: Which drink trend is most popular?
+      hint: null
+      type: select_one
+      options:
+      - juice
+      - wine
+      - beer
+      - hard_seltzer
+      - other
+      required: false
+    - id: 6
+      name: drink_note
+      label: Any other drink not listed?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time_preferred
+      label: What time of day do you usually drink?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date_preferred
+      label: What date do you usually drink?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: day_of_week
+      label: Day of the week
+      hint: null
+      type: select_one
+      options:
+      - Sunday
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: false

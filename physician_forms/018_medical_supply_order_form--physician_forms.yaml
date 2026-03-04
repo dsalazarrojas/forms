@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Supply Order Form
+    pages:
+    - id: 1
+      name: medical_supply_order_form
+      label: medical_supply_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Physician Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hospital_pharmacy_store
+      label: hospital_pharmacy_store
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Pharmacy
+      - Store
+      required: true
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: medical_supplies
+      label: medical_supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: pricing
+      label: pricing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Discharge Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_sessions
+      label: Total Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: last_session_date
+      label: Last Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: last_session_notes
+      label: Last Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: goal_description
+      label: Goal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: progress
+      label: Progress
+      hint: null
+      type: select_multiple
+      options:
+      - Progress
+      - Minimal Progress
+      - Some Progress
+      - Good Progress
+      required: false
+    - id: 11
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - Continue with same Trainer
+      - Start a new program
+      - Discontinue training
+      - Other
+      - None
+      required: false
+    - id: 15
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false

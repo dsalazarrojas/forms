@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Ordinance Petition Form
+    pages:
+    - id: 1
+      name: name
+      label: Petitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter your prophets' email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Petitioner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: supporting_comments
+      label: Supporting Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: neighbors_names
+      label: Neighbor's Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: neighbor_emails
+      label: Neighbor's Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: neighbor_phones
+      label: Neighbor's Phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: issues_comments
+      label: Issues Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: noise_level
+      label: Noise Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: noise_impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '3'
+      - '5'
+      - '7'
+      - '9'
+      required: false
+    - id: 14
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: resolution_success
+      label: Resolution Success
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false

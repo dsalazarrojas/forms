@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practitioner Signature Verification
+    pages:
+    - id: 1
+      name: clinic_info
+      label: Clinic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practitioner_info
+      label: Practitioner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: verification_method
+      label: Verification Method
+      hint: Select one of the following verification methods
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person Verification''}'
+      - '{''id'': 2, ''label'': ''Remote Verification''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: signed_verification
+      label: Signed Verification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: signed_verification_note
+      label: Signed Verification Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_file
+      label: Signature File
+      hint: null
+      type: text
+      options: []
+      required: false

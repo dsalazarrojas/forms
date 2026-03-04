@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: techGadgetUsabilitySurvey
+    pages:
+    - id: 1
+      name: productteam
+      label: productTeam
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: devicetype
+      label: deviceType
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: userfeedback
+      label: userFeedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: improvementopportunities
+      label: improvementOpportunities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: improvementdescription
+      label: improvementDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contactinformation
+      label: contactInformation
+      hint: null
+      type: email
+      options: []
+      required: false

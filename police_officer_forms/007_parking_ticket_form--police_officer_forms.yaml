@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Ticket Form
+    pages:
+    - id: 1
+      name: parking_ticket_form
+      label: Issue Parking Violation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parking_offense_description
+      label: Parking Offense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: fine_amount
+      label: Fine Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_email
+      label: Owner Email
+      hint: Enter owner's email address
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: officer_comments
+      label: Officer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parking_garage
+      label: Parking Garage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: parking_area
+      label: Parking Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: parking_meter_status
+      label: Parking Meter Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: parking_hours
+      label: Parking Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: parking_days
+      label: Parking Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: fine_date
+      label: Fine Date
+      hint: null
+      type: date
+      options: []
+      required: false

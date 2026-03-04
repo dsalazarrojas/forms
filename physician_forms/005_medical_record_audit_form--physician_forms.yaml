@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_record_audit_form
+    pages:
+    - id: 1
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_record_id
+      label: medical_record_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_audit
+      label: date_of_audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: prophets_and_procedures
+      label: Prophets and Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Prophet 1
+      - Prophet 2
+      required: false
+    - id: 5
+      name: date_of_procedure
+      label: date_of_procedure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time_of_procedure
+      label: start_time_of_procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time_of_procedure
+      label: end_time_of_procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_audit_level
+      label: Medical Record Audit Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_record_audit_status
+      label: Medical Record Audit Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Not Started
+      - In Progress
+      required: false
+    - id: 12
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: comments_audit
+      label: comments_audit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_record_audit_prophets_and_procedures
+      label: medical_record_audit_prophets_and_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Prophet 1
+      - Prophet 2
+      required: false
+    - id: 15
+      name: medical_record_audit_provider_name
+      label: medical_record_audit_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_audit_level
+      label: medical_record_audit_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      required: false
+    - id: 17
+      name: medical_record_audit_provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_audit_date
+      label: date_of_audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_record_audit_level
+      label: medical_record_audit_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      required: false
+    - id: 20
+      name: medical_record_audit_provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_record_audit_status
+      label: medical_record_audit_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Not Started
+      - In Progress
+      required: false
+    - id: 22
+      name: medical_record_audit_date
+      label: date_of_audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: medical_record_audit_provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_audit_provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_record_audit_status
+      label: medical_record_audit_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Not Started
+      - In Progress
+      required: false

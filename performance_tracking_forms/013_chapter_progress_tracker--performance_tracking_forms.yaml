@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Progress Tracker
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Chapter Progress Tracker --
+      hint: Record reading or course progress for members
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: member name
+      hint: full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chapter_name
+      label: chapter name
+      hint: name of the chapter or group
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: module_title
+      label: module title
+      hint: title of the chapter or module being tracked
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: progress_percent
+      label: progress percent
+      hint: enter completion percentage as a whole number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_updated
+      label: date updated
+      hint: date of this progress entry
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: hours_spent
+      label: hours spent
+      hint: approximate hours spent on the chapter or module
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: obstacles
+      label: obstacles
+      hint: note any blockers or challenges encountered
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: next steps
+      hint: plan for continued progress
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_comments
+      label: reviewer comments
+      hint: optional feedback from instructor or mentor
+      type: text
+      options: []
+      required: false

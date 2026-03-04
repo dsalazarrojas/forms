@@ -1,0 +1,187 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Agent Voting Poll
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or Department
+        hint: Which department or organization are you from
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: voting_category
+        label: Voting Category
+        hint: Select the category you are voting in
+        type: select_one
+        options:
+          - Sales Agent of the Year
+          - Customer Service Agent
+          - Technical Support Agent
+          - Real Estate Agent
+          - Insurance Agent
+          - Travel Agent
+          - Overall Best Agent
+        required: true
+      - id: 5
+        name: nominated_agent_name
+        label: Nominated Agent Full Name
+        hint: Enter the full name of the agent you are voting for
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: agent_company
+        label: Agent Company or Agency
+        hint: Which company or agency does this agent represent
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: agent_location
+        label: Agent Location
+        hint: City or region where the agent operates
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: performance_rating
+        label: Overall Performance Rating
+        hint: How would you rate this agent overall performance
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: professionalism_rating
+        label: Professionalism Rating
+        hint: Rate the agent professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: communication_rating
+        label: Communication Skills Rating
+        hint: How well does this agent communicate
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: responsiveness_rating
+        label: Responsiveness Rating
+        hint: How quickly does the agent respond to inquiries
+        type: select_one
+        options:
+          - Very Responsive
+          - Mostly Responsive
+          - Somewhat Responsive
+          - Slow to Respond
+          - Unresponsive
+        required: true
+      - id: 12
+        name: knowledge_rating
+        label: Knowledge and Expertise Rating
+        hint: Rate the agent knowledge in their field
+        type: select_one
+        options:
+          - Expert Level
+          - Very Knowledgeable
+          - Knowledgeable
+          - Somewhat Knowledgeable
+          - Lacks Knowledge
+        required: true
+      - id: 13
+        name: relationship_duration
+        label: How Long Have You Worked with This Agent
+        hint: Duration of your professional relationship
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - 2 to 5 years
+          - More than 5 years
+        required: true
+      - id: 14
+        name: would_recommend
+        label: Would You Recommend This Agent
+        hint: Would you recommend this agent to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 15
+        name: standout_qualities
+        label: Standout Qualities
+        hint: What makes this agent stand out
+        type: select_multiple
+        options:
+          - Exceptional Communication
+          - Deep Industry Knowledge
+          - Quick Problem Solver
+          - Goes Above and Beyond
+          - Always Available
+          - Friendly and Approachable
+          - Results-Oriented
+          - Attention to Detail
+          - Negotiation Skills
+          - Other
+        required: true
+      - id: 16
+        name: success_story
+        label: Brief Success Story or Example
+        hint: Share a brief example of how this agent helped you
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other reasons why this agent deserves recognition
+        type: text
+        options: []
+        required: false

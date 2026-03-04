@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal finance journal
+    pages:
+    - id: 1
+      name: income
+      label: income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expenses
+      label: expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: income_frequency
+      label: income frequency
+      hint: How often do you receive income?
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 4
+      name: income_amount
+      label: income amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_frequency
+      label: expense frequency
+      hint: How often do you have expenses?
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 6
+      name: expense_amount
+      label: expense amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: savings_goal
+      label: savings goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: income_goal
+      label: income goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: income_source
+      label: income source
+      hint: null
+      type: select_one
+      options:
+      - salary
+      - investment
+      - freelance
+      required: false
+    - id: 10
+      name: expense_source
+      label: expense source
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - loan
+      - utility bill
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

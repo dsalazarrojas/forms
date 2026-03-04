@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bicep Curl Workout Log Form
+    pages:
+    - id: 1
+      name: section_header_athlete
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete or Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_id
+      label: Athlete ID or Member Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For record keeping
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: section_header_session
+      label: -- Workout Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workout_date
+      label: Workout Date
+      hint: When was this session?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: workout_time
+      label: Workout Time
+      hint: What time did you train?
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer or Coach Name
+      hint: If supervised session
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_exercise
+      label: -- Bicep Curl Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: exercise_type
+      label: Type of Bicep Curl
+      hint: Which variation?
+      type: select_one
+      options:
+      - Barbell curl
+      - Dumbbell curl
+      - Cable curl
+      - Machine curl
+      - Hammer curl
+      - EZ bar curl
+      - Other
+      required: true
+    - id: 11
+      name: weight_used
+      label: Weight Used
+      hint: In pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - Pounds
+      - Kilograms
+      required: true
+    - id: 13
+      name: section_header_set1
+      label: -- Set 1 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: set1_reps
+      label: Reps Completed
+      hint: Number of repetitions
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: set1_difficulty
+      label: Difficulty Level
+      hint: How challenging was this set?
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult - near failure
+      - Maximum effort - reached failure
+      required: true
+    - id: 16
+      name: section_header_set2
+      label: -- Set 2 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: set2_reps
+      label: Reps Completed
+      hint: Number of repetitions
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: set2_difficulty
+      label: Difficulty Level
+      hint: How challenging was this set?
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult - near failure
+      - Maximum effort - reached failure
+      required: true
+    - id: 19
+      name: section_header_set3
+      label: -- Set 3 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: set3_reps
+      label: Reps Completed
+      hint: Number of repetitions
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: set3_difficulty
+      label: Difficulty Level
+      hint: How challenging was this set?
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult - near failure
+      - Maximum effort - reached failure
+      required: true
+    - id: 22
+      name: additional_sets
+      label: Were Additional Sets Completed
+      hint: Any more sets beyond 3?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_form
+      label: -- Form and Technique --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_quality
+      label: Overall Form Quality
+      hint: How was your form?
+      type: select_one
+      options:
+      - Excellent - perfect form
+      - Good - minor issues
+      - Acceptable - some form breakdown
+      - Poor - significant form issues
+      - Very poor - safety concerns
+      required: true
+    - id: 25
+      name: form_notes
+      label: Form Notes or Observations
+      hint: Any specific form issues?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: recovery_time
+      label: Rest Time Between Sets
+      hint: Seconds or minutes
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_performance
+      label: -- Performance and Recovery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: energy_level
+      label: Energy Level During Workout
+      hint: How energized were you?
+      type: select_one
+      options:
+      - Very high energy
+      - Good energy
+      - Moderate energy
+      - Low energy
+      - Very low energy
+      required: true
+    - id: 29
+      name: muscle_soreness
+      label: Pre-Workout Muscle Soreness
+      hint: Any soreness from previous workout?
+      type: select_one
+      options:
+      - No soreness
+      - Mild soreness
+      - Moderate soreness
+      - Significant soreness
+      - Severe soreness
+      required: false
+    - id: 30
+      name: pain_discomfort
+      label: Any Pain or Discomfort During Set
+      hint: Joint or muscle pain?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_header_progress
+      label: -- Progress Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: personal_record
+      label: Was This a Personal Record
+      hint: Did you set a new PR?
+      type: select_one
+      options:
+      - Yes, new PR for weight
+      - Yes, new PR for reps
+      - No, but close
+      - false
+      required: true
+    - id: 33
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other observations?
+      type: text
+      options: []
+      required: false

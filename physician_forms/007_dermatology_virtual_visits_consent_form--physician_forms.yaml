@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermtology Virtual Visits Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_and_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

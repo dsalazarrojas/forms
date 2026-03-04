@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: precision-balancing-weight-order-form
+    pages:
+    - id: 1
+      name: weight_order_form
+      label: Weight Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: weight_classes
+      label: Weight Classes
+      hint: null
+      type: select_multiple
+      options:
+      - Class 1
+      - Class 2
+      - Class 3
+      required: true
+    - id: 3
+      name: weight_class_selected
+      label: Selected Class
+      hint: null
+      type: select_one
+      options:
+      - Class 1
+      - Class 2
+      - Class 3
+      required: true
+    - id: 4
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - Grams
+      - Kilograms
+      - Pounds
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: order_date_time
+      label: Order Date/Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: total_quantity
+      label: Total Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: shipping_total
+      label: Shipping Total
+      hint: null
+      type: select_one
+      options:
+      - $0-$10
+      - $10-$20
+      - $20-$30
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Credit/Debit Card
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_verified
+      label: Customer Verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Cancelled
+      required: true
+    - id: 20
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Cancelled
+      required: true
+    - id: 21
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_note
+      label: Order Note
+      hint: null
+      type: text
+      options: []
+      required: false

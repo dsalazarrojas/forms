@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee-nomination-form
+    pages:
+    - id: 1
+      name: employee_nomination_form_page_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Team Leader
+      required: false
+    - id: 4
+      name: employee_status
+      label: work_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teledermatology Patient Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: specialty
+      label: Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teledermatology_service_type
+      label: Teledermatology Service Type
+      hint: null
+      type: select_one
+      options:
+      - Dermatology
+      - General
+      - Skin Care
+      - Cosmetic
+      required: false
+    - id: 10
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: false
+    - id: 11
+      name: insurance
+      label: Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Contract
+    pages:
+    - id: 1
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: start_address
+      label: Start Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: end_address
+      label: End Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photographer_credit
+      label: Photographer Credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

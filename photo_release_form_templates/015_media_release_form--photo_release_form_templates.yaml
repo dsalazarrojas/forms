@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Release Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: media_type
+      label: Media Type
+      hint: Please select the type of media
+      type: select_one
+      options:
+      - Image
+      - Video
+      - Audio
+      - Other
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

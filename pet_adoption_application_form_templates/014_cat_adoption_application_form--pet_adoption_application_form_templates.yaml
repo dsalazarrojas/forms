@@ -1,0 +1,147 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cat Adoption Application Form
+    pages:
+      - id: 1
+        name: applicant_header
+        label: -- Applicant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: occupation
+        label: Occupation/Employer
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: lifestyle_header
+        label: -- Home and Lifestyle --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: work_schedule
+        label: Work Schedule/Hours away from home
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: cat_living_area
+        label: Where will the cat spend most of its time
+        hint: null
+        type: select_one
+        options:
+          - "Indoors Only"
+          - "Indoors/Outdoors"
+          - "Outdoors Only"
+          - "Enclosed Catio"
+        required: true
+      - id: 7
+        name: sleep_location
+        label: Where will the cat sleep at night
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: scratching_plan
+        label: How do you plan to manage scratching behavior
+        hint: e.g. scratching posts, nail trimming
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: allergens_awareness
+        label: Does anyone in the home have cat allergies
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes - Managed with meds"
+          - "Yes - Severe"
+        required: true
+      - id: 10
+        name: moving_plan
+        label: What will happen to the cat if you move
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: financial_commitment
+        label: Are you prepared for the costs of food, litter, and vet bills
+        hint: Estimate $500 to $1000 per year
+        type: select_one
+        options:
+          - "Yes, I am financially prepared"
+          - "I have some concerns"
+        required: true
+      - id: 12
+        name: current_pets_header
+        label: -- Current Pets --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: current_pets_details
+        label: Details of current pets (Breed, Age, Temperament)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: current_vet_records
+        label: Are your current pets up to date on vaccinations and spayed/neutered
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "N/A - No other pets"
+        required: true
+      - id: 15
+        name: references_header
+        label: -- References --
+        hint: Please provide one personal reference (non-family)
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: reference_name_phone
+        label: Reference Name and Phone Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: declaration_signed
+        label: I certify that the information provided is true
+        hint: Typing your name acts as a signature
+        type: text
+        options: []
+        required: true

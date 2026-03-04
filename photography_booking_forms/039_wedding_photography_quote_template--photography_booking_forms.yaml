@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Quote Template
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: price_quote
+      label: Price Quote
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Half
+      - Quarter
+      required: false
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: photographer_name
+      label: Photographer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer_phone
+      label: Photographer's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photographer_email
+      label: Photographer's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

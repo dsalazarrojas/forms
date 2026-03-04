@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Self Screening Questionnaire
+    pages:
+    - id: 1
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_one
+      options:
+      - Exposure Low
+      - Exposure Moderate
+      - Exposure High
+      required: false
+    - id: 9
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exposure_type
+      label: Exposure Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: number_of_contacts
+      label: Number of Contacts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: exposure_location
+      label: Exposure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fever_days
+      label: Fever Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: rash_days
+      label: Rash Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: sores_days
+      label: Sores Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: contact_duration
+      label: Contact Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: contact_number
+      label: Number of Contacts
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 23
+      name: exposure_to_animal
+      label: Exposure To Animal
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 24
+      name: exposure_to_soil
+      label: Exposure To Soil
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 25
+      name: exposure_to_animal_product
+      label: Exposure To Animal Product
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true

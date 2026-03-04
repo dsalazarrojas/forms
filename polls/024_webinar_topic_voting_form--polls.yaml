@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Topic Voting Form
+    pages:
+    - id: 1
+      name: topic
+      label: Webinar Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: format
+      label: Format
+      hint: null
+      type: select_one
+      options:
+      - webinar
+      - video
+      required: false
+    - id: 3
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

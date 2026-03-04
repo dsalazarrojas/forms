@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Photography Booking Form Template
+    pages:
+    - id: 1
+      name: booking_intro
+      label: -- Book Your Black Friday Photography Session --
+      hint: Limited availability - Special Black Friday rates apply
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_type
+      label: Type of Session
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Family
+      - Children
+      - Maternity
+      - Engagement
+      - Product Photography
+      - Headshots
+      - Event Coverage
+      required: true
+    - id: 7
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Preferred Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - Full day (8 hours)
+      required: true
+    - id: 10
+      name: location_type
+      label: Session Location Type
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - Outdoor
+      - Client location
+      - In-person event venue
+      required: true
+    - id: 11
+      name: session_location
+      label: Session Location Details
+      hint: Address or description of location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participants_count
+      label: Number of People in Session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Props, theme ideas, specific shots desired
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: package_selected
+      label: Package Selection
+      hint: null
+      type: select_one
+      options:
+      - Black Friday 25% Off - 1 Hour
+      - Black Friday 25% Off - 2 Hours
+      - Black Friday 25% Off - 4 Hours
+      - Black Friday 25% Off - Full Day
+      required: true
+    - id: 15
+      name: deposit_paid
+      label: Deposit Payment Confirmation
+      hint: 50% deposit required to confirm booking
+      type: select_one
+      options:
+      - Paid
+      - Will pay at booking
+      - Need payment plan
+      required: true
+    - id: 16
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash on Day
+      required: false
+    - id: 17
+      name: how_heard
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Google Search
+      - Referral
+      - Website
+      - Advertisement
+      - Word of Mouth
+      required: false
+    - id: 18
+      name: booking_date
+      label: Booking Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

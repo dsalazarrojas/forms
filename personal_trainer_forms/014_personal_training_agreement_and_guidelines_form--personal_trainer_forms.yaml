@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Agreement And Guidelines Form
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_plan
+      label: training_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank transfer
+      - PayPal
+      required: true
+    - id: 11
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: contract_duration
+      label: contract_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: training_frequency
+      label: training_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1 time a week
+      required: true
+    - id: 16
+      name: training_time
+      label: training_time
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
+      required: true
+    - id: 17
+      name: training_location
+      label: training_location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - In person at my location
+      - Online
+      required: true
+    - id: 18
+      name: emergency_contact_method
+      label: emergency_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Text
+      - Email
+      required: true
+    - id: 19
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_schedule
+      label: payment_schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_type
+      label: training_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_goal
+      label: training_goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true

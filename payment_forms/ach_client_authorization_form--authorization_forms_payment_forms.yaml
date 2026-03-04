@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACH Client Authorization Form
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Client Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name as it appears on your bank account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send confirmation of your authorization
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Street address, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_payment
+      label: '--- Payment Authorization ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Amount to be charged
+      hint: Enter the total amount to be debited from your account
+      type: decimal
+      options: []
+      required: true
+    - id: 8
+      name: payment_frequency
+      label: Payment frequency
+      hint: How often will this payment occur?
+      type: select_one
+      options:
+      - One-time
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: payment_date
+      label: First payment date
+      hint: When should the first payment be processed?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: recurring_end_date
+      label: End date for recurring payments (if applicable)
+      hint: Leave blank if this is a one-time payment
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_header_bank
+      label: '--- Bank Account Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bank_name
+      label: Bank name
+      hint: The name of your financial institution
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: routing_number
+      label: Routing number
+      hint: 9-digit ABA routing number for your bank
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: account_number
+      label: Account number
+      hint: Your checking or savings account number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: account_type
+      label: Account type
+      hint: Select the type of account to debit
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      required: true
+    - id: 16
+      name: section_header_terms
+      label: '--- Terms and Authorization ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: terms_accepted
+      label: I agree to the terms and conditions
+      hint: By checking this box, you authorize the recurring payment
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 18
+      name: electronic_signature
+      label: Electronic signature
+      hint: Type your full name to sign this authorization
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date of signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional comments or special instructions
+      hint: Any additional information for the payment processor
+      type: text
+      options: []
+      required: false

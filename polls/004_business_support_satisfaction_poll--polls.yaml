@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Support Satisfaction Poll
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Your email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: how_long_customer
+      label: How Long Have You Been Our Customer
+      hint: Select the appropriate timeframe
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 5
+      name: support_response_time
+      label: How Would You Rate Our Support Response Time
+      hint: Was our team quick to help
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 6
+      name: support_quality
+      label: Quality of Support Services
+      hint: How well did we solve your issues
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 7
+      name: staff_professionalism
+      label: Professionalism of Our Staff
+      hint: How professional was our team
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: most_helpful_aspect
+      label: Most Helpful Aspect of Our Support
+      hint: What worked best for you
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_suggestions
+      label: How Can We Improve Our Support
+      hint: Your feedback helps us improve
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommend_to_others
+      label: Would You Recommend Us to Other Businesses
+      hint: Would you suggest our services
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 11
+      name: likelihood_to_continue
+      label: Likelihood to Continue Using Our Services
+      hint: How likely to stay with us
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Unsure
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Share anything else on your mind
+      type: text
+      options: []
+      required: false

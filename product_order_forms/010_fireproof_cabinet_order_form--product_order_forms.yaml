@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireproof Cabinet Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter your shipping address
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: cabinet_selection
+      label: Cabinet Selection
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: chatjimmy
+      label: Chatjimmy
+      hint: null
+      type: text
+      options: []
+      required: false

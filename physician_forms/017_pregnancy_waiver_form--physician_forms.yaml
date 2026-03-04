@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy Waiver Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: is_pregnant
+      label: are you pregnant
+      hint: null
+      type: select_one
+      options:
+      - not pregnant
+      - pregnant
+      required: false
+    - id: 4
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_last_visit
+      label: date_last_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_next_visit
+      label: date_next_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false

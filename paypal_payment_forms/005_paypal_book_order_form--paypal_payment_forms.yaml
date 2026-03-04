@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_book_order_form
+    pages:
+    - id: 1
+      name: book_order_form_page
+      label: book_order_form_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: book_title
+      label: book_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: book_author
+      label: book_author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: book_price
+      label: book_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: book_quantity
+      label: book_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: book_total
+      label: book_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: book_shipping
+      label: book_shipping
+      hint: null
+      type: select_one
+      options:
+      - Shipping Option 1
+      - Shipping Option 2
+      - Shipping Option 3
+      - Shipping Option 4
+      - Shipping Option 5
+      required: false
+    - id: 8
+      name: book_comments
+      label: book_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: book_email
+      label: book_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: book_phone
+      label: book_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: shop-my-inventory
+    pages:
+    - id: 1
+      name: product_order_form
+      label: Product Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product
+      label: product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: unit_price
+      label: unit price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: subtotal
+      label: subtotal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''0.00''}'
+      - '{''value'': ''10.00''}'
+      - '{''value'': ''20.00''}'
+      required: true
+    - id: 7
+      name: order_notes
+      label: order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: product_description
+      label: product description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: order_total
+      label: order total
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_image
+      label: product image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: order_status
+      label: order status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Shipped''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 17
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: order_comments
+      label: order comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: shipping_cost
+      label: shipping cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: tax_rate
+      label: tax rate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''0.00''}'
+      - '{''value'': ''5.00''}'
+      - '{''value'': ''10.00''}'
+      required: true
+    - id: 21
+      name: tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: subtotal_tax
+      label: subtotal tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cash''}'
+      - '{''value'': ''Credit''}'
+      required: true
+    - id: 25
+      name: payment_method_other
+      label: other payment method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Check''}'
+      - '{''value'': ''Bank transfer''}'
+      required: false

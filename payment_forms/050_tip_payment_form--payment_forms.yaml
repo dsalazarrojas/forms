@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tip Payment Form
+    pages:
+    - id: 1
+      name: bill_subtotal
+      label: Bill Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tip_percent
+      label: Tip Percent
+      hint: null
+      type: select_multiple
+      options:
+      - '50'
+      - '15'
+      - '10'
+      - '20'
+      - '25'
+      - '0'
+      required: false
+    - id: 3
+      name: tip_amount
+      label: Tip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: bill_amount
+      label: Bill
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tip_payment
+      label: Tip Payment
+      hint: null
+      type: number
+      options: []
+      required: false

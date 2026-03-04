@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Picture Day Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email'', ''hint'': ''Please
+        enter your email address''}'
+      - '{''id'': 3, ''label'': ''Mail'', ''value'': ''mail''}'
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: Event location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: Event description
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''label'': ''Landscape'', ''value'': ''landscape''}'
+      - '{''id'': 12, ''label'': ''Portrait'', ''value'': ''portrait''}'
+      - '{''id'': 13, ''label'': ''Both'', ''value'': ''both''}'
+      required: false
+    - id: 10
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''label'': ''Small'', ''value'': ''small''}'
+      - '{''id'': 16, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 17, ''label'': ''Large'', ''value'': ''large''}'
+      required: false
+    - id: 11
+      name: photo_format
+      label: Photo Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 19, ''label'': ''JPEG'', ''value'': ''jpeg''}'
+      - '{''id'': 20, ''label'': ''PNG'', ''value'': ''png''}'
+      - '{''id'': 21, ''label'': ''TIFF'', ''value'': ''tiff''}'
+      required: false
+    - id: 12
+      name: photo_resolution
+      label: Photo Resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 23, ''label'': ''Low'', ''value'': ''low''}'
+      - '{''id'': 24, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 25, ''label'': ''High'', ''value'': ''high''}'
+      required: false

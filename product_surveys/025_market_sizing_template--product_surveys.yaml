@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Sizing Template
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: revenue_estimate
+      label: Revenue Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: target_market_geography
+      label: Target Market Geography
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: target_market_segment
+      label: Target Market Segment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: competition_analysis
+      label: Competition Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: revenue_share
+      label: Revenue Share
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: revenue_growth_rate
+      label: Revenue Growth Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: revenue_growth_rate_unit
+      label: Revenue Growth Rate Unit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: total_revenue_potential
+      label: Total Revenue Potential
+      hint: null
+      type: number
+      options: []
+      required: false

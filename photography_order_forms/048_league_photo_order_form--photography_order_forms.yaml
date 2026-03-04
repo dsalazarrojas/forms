@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Photo Order Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: photo_package
+      label: photo_package
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Package A'', ''label'': ''Package A''}'
+      - '{''id'': 2, ''name'': ''Package B'', ''label'': ''Package B''}'
+      required: true
+    - id: 4
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''10-10-2022'', ''label'': ''10-10-2022''}'
+      - '{''id'': 2, ''name'': ''11-10-2022'', ''label'': ''11-10-2022''}'
+      - '{''id'': 3, ''name'': ''12-10-2022'', ''label'': ''12-10-2022''}'
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other'', ''label'': ''other''}'
+      required: true
+    - id: 7
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''admin'', ''label'': ''admin''}'
+      - '{''id'': 2, ''name'': ''manager'', ''label'': ''manager''}'
+      - '{''id'': 3, ''name'': ''user'', ''label'': ''user''}'
+      required: true
+    - id: 8
+      name: photo_order_form_8
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photo_order_form_9
+      label: confirm
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: photo_order_form_10
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_order_form_11
+      label: photo_package_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: photo_order_form_12
+      label: package_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: photo_order_form_13
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: photo_order_form_14
+      label: total_price_formation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: photo_order_form_15
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit-card'', ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''cash'', ''label'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''bank-transfer'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 4, ''name'': ''online-paymen'', ''label'': ''Online Payment''}'
+      - '{''id'': 5, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: photo_order_form_16
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pay-at-signup'', ''label'': ''Pay At Signup''}'
+      - '{''id'': 2, ''name'': ''pay-atchartInstance'', ''label'': ''Pay at Form Submission''}'
+      - '{''id'': 3, ''name'': ''pay-later'', ''label'': ''Pay Later''}'
+      - '{''id'': 4, ''name'': ''pay-none'', ''label'': ''None''}'
+      required: true
+    - id: 17
+      name: photo_order_form_17
+      label: payment_terms_formation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pay-at-signup'', ''label'': ''Pay At Signup''}'
+      - '{''id'': 2, ''name'': ''pay-at-widgets'', ''label'': ''Pay at Form Submission''}'
+      - '{''id'': 3, ''name'': ''pay-later'', ''label'': ''Pay Later''}'
+      - '{''id'': 4, ''name'': ''pay-none'', ''label'': ''None''}'
+      required: true
+    - id: 18
+      name: photo_order_form_18
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: photo_order_form_19
+      label: package_price_formation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: photo_order_form_20
+      label: total_price_formation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: photo_order_form_21
+      label: package_price_total_formation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: photo_order_form_22
+      label: payment_method_formation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit-card-formation'', ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''cash-formation'', ''label'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''bank-transfer-formation'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 4, ''name'': ''online-paymen-formation'', ''label'': ''Online Payment''}'
+      - '{''id'': 5, ''name'': ''other-formation'', ''label'': ''Other''}'
+      required: true
+    - id: 23
+      name: photo_order_form_23
+      label: payment_terms_formation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pay-at-signup-formation'', ''label'': ''Pay At Signup''}'
+      - '{''id'': 2, ''name'': ''pay-at-widgets-formation'', ''label'': ''Pay at Form
+        Submission''}'
+      - '{''id'': 3, ''name'': ''pay-later-formation'', ''label'': ''Pay Later''}'
+      - '{''id'': 4, ''name'': ''pay-none-formation'', ''label'': ''None''}'
+      required: true
+    - id: 24
+      name: photo_order_form_24
+      label: order_notes_formation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: photo_order_form_25
+      label: total_price_formation_formation
+      hint: null
+      type: number
+      options: []
+      required: true

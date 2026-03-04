@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Tag Removal Consent Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tag_type
+      label: Tag Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skin_tag_removal_date
+      label: Skin Tag Removal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: note
+      options: []
+      required: false

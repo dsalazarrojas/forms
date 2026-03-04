@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_training_par_q_form
+    pages:
+    - id: 1
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height_measurement
+      label: height_measurement
+      hint: null
+      type: select_one
+      options:
+      - 5'8"
+      - 6'
+      - 6'1/2"
+      - 6'2"
+      - 6'3"
+      - 5'10"
+      - 6'5"
+      - 5'9"
+      - 5'8"
+      - 6'2 1/2"
+      - 6'4"
+      - 6'1/2"
+      - 6'3/2"
+      - 5'7"
+      - 6'6"
+      - 6'5"
+      - 5'6"
+      required: true
+    - id: 5
+      name: weight_measurement
+      label: weight_measurement
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - 100 lbs
+      - 120 lbs
+      - 140 lbs
+      - 150 lbs
+      - 160 lbs
+      - 170 lbs
+      - 180 lbs
+      - 190 lbs
+      - 200 lbs
+      required: true
+    - id: 6
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surgeries
+      label: surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medications_allergens
+      label: medications_allergens
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_other
+      label: medical_history_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_history
+      label: family_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: height_other
+      label: height_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: weight_other
+      label: weight_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: blood_pressure_other
+      label: blood_pressure_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions_other
+      label: medical_conditions_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: surgeries_other
+      label: surgeries_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medications_other
+      label: medications_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - emergency_contact
+      required: true
+    - id: 21
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_other
+      label: emergency_contact_other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Recommendation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goal
+      label: Fitness Goal
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 6
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 7
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 9
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Studio
+      - Gym
+      required: true
+    - id: 10
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 11
+      name: preferred_activities
+      label: Preferred Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Cardio
+      - Strength
+      - Flexibility
+      - Balance
+      - Coordination
+      - Agility
+      - Speed
+      - Endurance
+      - Power
+      required: true

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Sign Order Form
+    pages:
+    - id: 1
+      name: sign_request
+      label: sign_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artwork
+      label: artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Organization
+      - Other
+      required: true
+    - id: 9
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_note
+      label: product_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_signs_ordered
+      label: total_signs_ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sign_size
+      label: sign_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 13
+      name: sign_color
+      label: sign_color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 14
+      name: sign_shape
+      label: sign_shape
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Rectangular
+      - Triangle
+      required: true
+    - id: 15
+      name: artwork_request
+      label: artwork_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Shipping
+      required: false
+    - id: 19
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: payment_total
+      label: payment_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_photography_order_form_template
+    pages:
+    - id: 1
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: photo_session
+      label: Photo Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: photos_taken
+      label: Photos Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: photo_packages
+      label: Photo Packages
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: photo_package_details
+      label: Photo Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: package_price
+      label: Package Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: session_time
+      label: Session Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: dodgeball_registration_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: dodgeball_experience
+      label: dodgeball_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_email
+      label: emergency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_notes
+      label: emergency_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_clearance
+      label: medical_clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - A Team
+      - B Team
+      - C Team
+      required: false
+    - id: 14
+      name: team_position
+      label: team_position
+      hint: null
+      type: select_multiple
+      options:
+      - Captain
+      - Co-Captain
+      - Player
+      required: false
+    - id: 15
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: false
+    - id: 16
+      name: registration_type
+      label: registration_type
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Returning
+      - Free
+      required: false

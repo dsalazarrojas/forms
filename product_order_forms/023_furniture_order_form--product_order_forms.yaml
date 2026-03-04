@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_selection
+      label: Select Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_note
+      label: Product Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_comment
+      label: Order Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Payment by Card
+      - Cash
+      - Other
+      required: false
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 12
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_zip
+      label: Delivery Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_country
+      label: Delivery Country
+      hint: null
+      type: text
+      options: []
+      required: false

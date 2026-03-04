@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Recording Upload Form
+    pages:
+    - id: 1
+      name: performance_recording_upload_form_0
+      label: upload_video_or_audio
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: video_or_audio_file
+      label: video_or_audio_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_date
+      label: performance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: performance_time
+      label: performance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: performer
+      label: performer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_notes
+      label: performance_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Festival
+      - Auditions
+      - Showcases
+      required: false
+    - id: 10
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false

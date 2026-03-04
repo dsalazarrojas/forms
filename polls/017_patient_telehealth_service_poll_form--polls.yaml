@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Telehealth Service Poll Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_encountered
+      label: Issue Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Technical issues
+      - Other
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_one
+      options:
+      - Follow-up with patient
+      - Do not follow-up with patient
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

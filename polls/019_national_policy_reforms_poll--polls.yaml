@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Policy Reforms Poll
+    pages:
+    - id: 1
+      name: national_policy_reforms_poll
+      label: national_policy_reforms_poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reform_priority
+      label: reform_priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_multiple
+      options:
+      - male
+      - female
+      - other
+      - prefer_not_to_answer
+      required: true
+    - id: 4
+      name: response_weight
+      label: response_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: response_confidence
+      label: response_confidence
+      hint: null
+      type: select_one
+      options:
+      - very_confident
+      - somewhat_confident
+      - not_confident
+      - unsure
+      - prefer_not_to_answer
+      required: false
+    - id: 6
+      name: demographics_1
+      label: age_range_0_18
+      hint: null
+      type: select_multiple
+      options:
+      - 0_18
+      - '1924'
+      - '2529'
+      - '3034'
+      - '3539'
+      - '4044'
+      - '4549'
+      - '5054'
+      - '5559'
+      - '6064'
+      - '6569'
+      - '7074'
+      - 75_plus
+      required: true
+    - id: 7
+      name: demographics_2
+      label: income_level
+      hint: null
+      type: select_one
+      options:
+      - under_10000
+      - '1000025000'
+      - '2500150000'
+      - '5000175000'
+      - '75001100000'
+      - 100000_plus
+      required: true
+    - id: 8
+      name: demographics_3
+      label: education_level
+      hint: null
+      type: select_multiple
+      options:
+      - less_than_high_school
+      - high_school
+      - bachelor_degree
+      - masters_degree
+      - doctoral_degree
+      - prefer_not_to_answer
+      required: true
+    - id: 9
+      name: demographics_4
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - unemployed
+      - prefer_not_to_answer
+      required: true
+    - id: 10
+      name: response_date
+      label: response_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: response_time
+      label: response_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: response_note
+      label: response_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: response_other
+      label: response_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: response_other_2
+      label: response_other_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: national_survey
+      label: national_survey
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: true
+    - id: 19
+      name: regional_survey
+      label: regional_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: false
+    - id: 20
+      name: local_survey
+      label: local_survey
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: false
+    - id: 21
+      name: state_survey
+      label: state_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: false
+    - id: 22
+      name: county_survey
+      label: county_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: false
+    - id: 23
+      name: national_survey_2
+      label: national_survey_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: false
+    - id: 24
+      name: regional_survey_2
+      label: regional_survey_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - prefer_not_to_answer
+      required: false
+    - id: 25
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

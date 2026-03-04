@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Pressure Sensor Order Form
+    pages:
+    - id: 1
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_type
+      label: Shipping Type
+      hint: null
+      type: select_one
+      options:
+      - UPS
+      - FedEx
+      - USPS
+      - DHL
+      required: false
+    - id: 7
+      name: shipping_speed
+      label: Shipping Speed
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Express
+      - Expedited
+      - Priority
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Mrs.
+      - Ms.
+      - Dr.
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

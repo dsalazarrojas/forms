@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_reform_petition_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_change
+      label: Policy Change
+      hint: null
+      type: select_one
+      options:
+      - Single-Payer System
+      - Multi-Payer System
+      - Medicare for All
+      - Universal Coverage
+      required: false
+    - id: 7
+      name: signature_type
+      label: Signature Type
+      hint: 'Signature Type: Individual or Organization'
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature_time
+      label: Signature Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Petition Forms
+      - Healthcare
+      - Reform
+      required: false

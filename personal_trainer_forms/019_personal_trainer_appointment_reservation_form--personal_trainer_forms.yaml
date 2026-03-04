@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Appointment Reservation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainer_info
+      label: Trainer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trainer_time
+      label: Trainer's Time Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trainer_notes
+      label: Trainer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_availability
+      label: Trainer's Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false

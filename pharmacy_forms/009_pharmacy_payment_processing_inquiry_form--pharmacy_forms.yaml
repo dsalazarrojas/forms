@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmacy payment processing inquiry form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Payment Issue
+      - Other
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: Enter the payment amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment method
+      type: select_one
+      options:
+      - Credit Card
+      - EFT
+      - Cheque
+      required: false
+    - id: 6
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: Enter the expected due date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assigned_team
+      label: Assigned Team
+      hint: Who was this issue assigned to
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: Do you want to follow up with the customer
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: Issue status
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Resolved
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_name
+      label: Customer Name
+      hint: Enter the customer name
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Receipt Form
+    pages:
+    - id: 1
+      name: section_header_receipt_info
+      label: -- Receipt Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: receipt_number
+      label: Receipt Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: receipt_time
+      label: Receipt Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: section_header_church_info
+      label: -- Church Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: church_name
+      label: Church Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: church_address
+      label: Church Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: church_phone
+      label: Church Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_id
+      label: Church Tax ID or EIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donor_address
+      label: Donor Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_donation_details
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: donation_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - Other
+      required: false
+    - id: 18
+      name: donation_type
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - Monetary donation
+      - In-kind donation
+      - Pledge
+      - Stock or securities
+      - Real estate
+      required: true
+    - id: 19
+      name: donation_category
+      label: Donation Category
+      hint: null
+      type: select_one
+      options:
+      - General offering
+      - Tithe
+      - Building fund
+      - Mission support
+      - Specific program
+      - Scholarship fund
+      - Other
+      required: true
+    - id: 20
+      name: donation_description
+      label: Donation Description (if needed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_tax_info
+      label: -- Tax Deductibility Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tax_deductible_statement
+      label: This donation is tax-deductible
+      hint: Donations to this organization are tax-deductible
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: tax_receipt_statement
+      label: Tax Receipt Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_acknowledgment
+      label: -- Acknowledgment and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: receipt_issued_by
+      label: Receipt Issued By (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: receipt_issued_by_title
+      label: Title of Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: acknowledgment
+      label: Acknowledgment of Receipt
+      hint: This receipt acknowledges the above donation was received
+      type: select_one
+      options:
+      - Acknowledged
+      - Pending verification
+      required: true

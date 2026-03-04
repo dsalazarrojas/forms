@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal-trainer-request-form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_interest
+      label: Training Interest
+      hint: null
+      type: select_one
+      options:
+      - Personal Training
+      - Nutrition Counseling
+      - Workout Plan
+      required: true
+    - id: 5
+      name: schedule_interest
+      label: Schedule Interest
+      hint: Select one or more days you are interested in having a session
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true

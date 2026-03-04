@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Peer Evaluation Employment Form
+    pages:
+      - id: 1
+        name: section_employee_information
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Full name of the colleague being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_name
+        label: Evaluator name
+        hint: Your full name for contact if follow up is needed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluator_role
+        label: Evaluator role
+        hint: Your role in relation to the employee
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: teamwork_rating
+        label: Teamwork and collaboration
+        hint: Rate from 1 to 5
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 6
+        name: communication_rating
+        label: Communication skills
+        hint: Rate clarity and responsiveness
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 7
+        name: problem_solving_rating
+        label: Problem solving and initiative
+        hint: Rate ability to resolve issues proactively
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 8
+        name: strengths
+        label: Key strengths observed
+        hint: Provide specific examples where possible
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: development_areas
+        label: Development areas
+        hint: Constructive feedback for growth
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: overall_recommendation
+        label: Overall recommendation
+        hint: Would you recommend this employee for promotion or increased responsibility
+        type: select_one
+        options:
+          - Strongly not recommend
+          - Do not recommend
+          - Neutral
+          - Recommend
+          - Strongly recommend
+        required: true
+      - id: 11
+        name: follow_up_required
+        label: Follow up required
+        hint: Select if HR or manager should follow up
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false

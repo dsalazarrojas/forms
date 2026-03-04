@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Item Preference Survey
+    pages:
+    - id: 1
+      name: menu_item_preferred
+      label: Menu Item Preferred
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Appetizer''}'
+      - '{''label'': ''Main Course''}'
+      - '{''label'': ''Dessert''}'
+      required: false
+    - id: 3
+      name: frequency_eaten
+      label: Frequency Eaten
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preference
+      label: Preference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: menu_item_id
+      label: Menu Item ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

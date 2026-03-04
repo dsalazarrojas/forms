@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consultation Payment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - General Practice
+      - Cardiology
+      - Dermatology
+      - Neurology
+      - Orthopedic
+      - Pulmonology
+      - Rheumatology
+      - Urology
+      required: false
+    - id: 3
+      name: procedure
+      label: Procedure
+      hint: What was the procedure performed?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_specialist_name
+      label: Medical Specialist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 15
+      name: payment_status_note
+      label: Payment Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Consultation Fee
+      - Medical Procedure Fee
+      - Other
+      required: false
+    - id: 17
+      name: other_payment_type
+      label: Other Payment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_2
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: payment_amount_2
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_date_2
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_time_2
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: note_2
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: phone_2
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_license_2
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false

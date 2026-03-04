@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Photography Consent
+    pages:
+    - id: 1
+      name: photographer_info
+      label: Photography Studio Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Model Release
+      hint: null
+      type: select_one
+      options:
+      - All
+      - Some
+      - Only with a photographer
+      - Only with a client
+      required: true
+    - id: 4
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: Date and timestamp of signature
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: studio_address
+      label: Studio Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer_name
+      label: Photographer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: studio_license
+      label: Studio License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shoot_date
+      label: Shoot Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shoot_time
+      label: Shoot Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: client_info
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photographer_info
+      label: Photographer's Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contract_version
+      label: Contract Version
+      hint: null
+      type: text
+      options: []
+      required: false

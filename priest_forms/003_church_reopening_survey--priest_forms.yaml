@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Reopening Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: affiliation
+      label: Affiliation with church
+      hint: Member visitor staff volunteer
+      type: select_one
+      options:
+      - Member
+      - Visitor
+      - Staff
+      - Volunteer
+      required: true
+    - id: 3
+      name: comfort_level_attending
+      label: Comfort level attending in person
+      hint: 1 not comfortable to 5 very comfortable
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: preferred_service_option
+      label: Preferred service option
+      hint: Choose one
+      type: select_one
+      options:
+      - In person only
+      - Virtual only
+      - Hybrid
+      required: true
+    - id: 5
+      name: safety_measures_importance
+      label: Importance of safety measures
+      hint: Select all that matter to you
+      type: select_multiple
+      options:
+      - Mask requirement
+      - Social distancing
+      - Hand sanitizing stations
+      - Limited capacity
+      required: false
+    - id: 6
+      name: suggestions_for_reopening
+      label: Suggestions for reopening
+      hint: Open ended suggestions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: willingness_to_volunteer
+      label: Willingness to volunteer for reopening efforts
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: contact_for_follow_up
+      label: Contact information for follow up
+      hint: Provide email or phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: acknowledgement_note
+      label: Acknowledgement note
+      hint: Thank you for your feedback
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Household Chore Survey
+    pages:
+    - id: 1
+      name: household_chore_survey
+      label: Household Chores Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_member_1
+      label: Household Member 1
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: household_member_2
+      label: Household Member 2
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: household_member_3
+      label: Household Member 3
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: chores
+      label: What Chores do you take care of?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cooking''}'
+      - '{''name'': ''Cleaning''}'
+      - '{''name'': ''Laundry''}'
+      required: false
+    - id: 6
+      name: responsibilities
+      label: Who is responsible for each task?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_member_1_responsibilities
+      label: Household Member 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cooking''}'
+      - '{''name'': ''Cleaning''}'
+      - '{''name'': ''Laundry''}'
+      required: false
+    - id: 8
+      name: household_member_2_responsibilities
+      label: Household Member 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cooking''}'
+      - '{''name'': ''Cleaning''}'
+      - '{''name'': ''Laundry''}'
+      required: false
+    - id: 9
+      name: household_member_3_responsibilities
+      label: Household Member 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cooking''}'
+      - '{''name'': ''Cleaning''}'
+      - '{''name'': ''Laundry''}'
+      required: false
+    - id: 10
+      name: fairness_scale
+      label: How would you rate the fairness of each task?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Fair''}'
+      - '{''name'': ''Not Fair''}'
+      - '{''name'': ''Very Not Fair''}'
+      required: false
+    - id: 11
+      name: fairness_reason
+      label: Reason for your rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fairness_suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false

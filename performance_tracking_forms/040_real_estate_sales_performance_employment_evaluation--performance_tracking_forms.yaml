@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Sales Performance Employment Evaluation
+    pages:
+    - id: 1
+      name: real_estate_sales_performance_employment_evaluation_form
+      label: real_estate_sales_performance_employment_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Other
+      - Industrial
+      - Other
+      - Other
+      - Other
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_period
+      label: evaluation_period
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 18 months
+      - 24 months
+      required: true
+    - id: 7
+      name: sales_performance
+      label: sales_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sales_target
+      label: sales_target
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: next_evaluation_date
+      label: next_evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: broker_name
+      label: broker_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true

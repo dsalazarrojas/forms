@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Beta Product Feedback Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Startup Beta Product Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Product Surveys
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Product Surveys
+      - Other
+      required: false
+    - id: 5
+      name: form_output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_required
+      label: required
+      hint: null
+      type: select_one
+      options:
+      - 'true'
+      - 'false'
+      required: false
+    - id: 8
+      name: form_description_1
+      label: description 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false

@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Win Loss Tracking Form
+    pages:
+    - id: 1
+      name: win_loss_tracking_form
+      label: Win Loss Tracking Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: win_loss_date
+      label: win_loss_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: win_loss_time
+      label: win_loss_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: win_loss_outcome
+      label: win_loss_outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Loss''}'
+      - '{''label'': ''Win''}'
+      required: false
+    - id: 5
+      name: win_loss_description
+      label: win_loss_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: win_loss_category
+      label: win_loss_category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Product''}'
+      - '{''label'': ''Service''}'
+      required: false
+    - id: 7
+      name: win_loss_salesperson
+      label: win_loss_salesperson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: win_loss_pipeline
+      label: win_loss_pipeline
+      hint: null
+      type: text
+      options: []
+      required: false

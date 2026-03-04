@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photograph Session Questionnaire
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_member_names
+      label: Family Member Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_member_ages
+      label: Family Member Ages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_of_family_members
+      label: Number of Family Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: family_member_gender
+      label: Family Member Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 11
+      name: family_member_relationship
+      label: Family Member Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent/Child
+      - Spouse/Partner
+      - Sibling
+      - Other
+      required: true
+    - id: 12
+      name: photography_style
+      label: Photography Style
+      hint: null
+      type: select_multiple
+      options:
+      - Natural
+      - Formal
+      - Outdoor
+      - Other
+      required: true
+    - id: 13
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false

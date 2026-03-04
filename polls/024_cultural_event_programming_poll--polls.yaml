@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Event Programming Poll
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_name
+      label: eventName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: eventDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: eventLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: eventTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: attendees
+      label: attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false

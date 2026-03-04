@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Medicine Petition Form
+    pages:
+    - id: 1
+      name: petitioner_information_section
+      label: Petitioner Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Email for updates on petition progress
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for petition updates (optional)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: City, state, and ZIP code of your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: personal_connection_section
+      label: Personal Connection to Issue
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: personal_experience
+      label: Personal Experience with Medication Costs
+      hint: Describe your personal experience with high medication costs
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: affected_family_members
+      label: Affected Family Members
+      hint: Are family members affected by high medication costs?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: affected_family_details
+      label: Details of Affected Family Members
+      hint: If yes, please describe how family members are affected
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_specifics
+      label: Specific Medications Affected
+      hint: Which medications are too expensive for you or your family?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_impact_section
+      label: Impact of Medication Costs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medication_access_issues
+      label: Medication Access Issues
+      hint: How do high medication costs affect your access to necessary medications?
+      type: select_multiple
+      options:
+      - Skipping doses
+      - Taking less than prescribed
+      - Delaying filling prescriptions
+      - Choosing between medications
+      - Forgoing medications entirely
+      - Switching to cheaper alternatives
+      - Using international pharmacies
+      - Other
+      required: true
+    - id: 15
+      name: financial_impact
+      label: Financial Impact
+      hint: How do high medication costs impact your finances?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: health_consequences
+      label: Health Consequences
+      hint: What health consequences have resulted from inability to afford medications?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: What type of insurance coverage do you have?
+      type: select_one
+      options:
+      - Private Insurance
+      - Medicare
+      - Medicaid
+      - Uninsured
+      - Other
+      required: true
+    - id: 18
+      name: petition_support_section
+      label: Petition Support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: petition_support_reason
+      label: Reason for Supporting the Petition
+      hint: Why do you support affordable medicine initiatives?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: policy_change_desired
+      label: Desired Policy Change
+      hint: What specific policy change do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: pharmaceutical_industry_view
+      label: Pharmaceutical Industry View
+      hint: What is your view on pharmaceutical pricing practices?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: alternative_solutions_awareness
+      label: Awareness of Alternative Solutions
+      hint: Are you aware of any alternative solutions to high medication costs?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: advocacy_history
+      label: Advocacy History
+      hint: Have you previously advocated for healthcare or medication access issues?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: advocacy_details
+      label: Details of Previous Advocacy
+      hint: If yes, please describe your previous advocacy efforts
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_support_section
+      label: Additional Support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: willingness_to_participate
+      label: Willingness to Participate in Advocacy
+      hint: Are you willing to participate in further advocacy efforts?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 27
+      name: preferred_participation_method
+      label: Preferred Method of Participation
+      hint: How would you prefer to participate in advocacy efforts?
+      type: select_multiple
+      options:
+      - Email updates
+      - Phone calls to representatives
+      - Attending rallies
+      - Writing letters
+      - Social media advocacy
+      - Volunteering
+      - Donating
+      - Other
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about affordable medicine access
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: signature_authorization
+      label: Electronic Signature
+      hint: Sign to add your support to the petition
+      type: text
+      options: []
+      required: true

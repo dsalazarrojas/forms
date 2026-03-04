@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_finance_tracker
+    pages:
+    - id: 1
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expense
+      label: expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: savings
+      label: savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_source
+      label: income_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - Rent
+      - Bills
+      - Savings
+      required: true
+    - id: 6
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expense_description
+      label: expense_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: income_period
+      label: income_period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 9
+      name: expense_period
+      label: expense_period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

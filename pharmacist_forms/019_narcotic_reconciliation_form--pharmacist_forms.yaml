@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Narcotic Reconciliation Form
+    pages:
+    - id: 1
+      name: received_quantity
+      label: Received Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: returned_items
+      label: Returned Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: items_used
+      label: Items Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: received_date
+      label: Received Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: items_discarded
+      label: Items Discarded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reconciled
+      label: Reconciled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reconciliation_note
+      label: Reconciliation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pharmacist_phone
+      label: Pharmacist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
