@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowd Incident Report Form
+    pages:
+    - id: 1
+      name: crowd_incident_report_form
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: A detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: crowd_density
+      label: Crowd Density
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: crowd_composition
+      label: Crowd Composition
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: crowd_size
+      label: Crowd Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_incident_occurred
+      label: Time Incident Occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: safety_concerns
+      label: Safety Concerns
+      hint: List any safety concerns that may have contributed to the incident.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: assigned_officer
+      label: Assigned Officer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_report_submitted
+      label: Time Report Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: report_submitted_to
+      label: Report Submitted To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: incident_report_number
+      label: Incident Report Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: incident_report_status
+      label: Incident Report Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: incident_report_id
+      label: Incident Report ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_image_url
+      label: Incident Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_image_type
+      label: Incident Image Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 23
+      name: incident_image_description
+      label: Incident Image Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_image_capture_date
+      label: Incident Image Capture Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Tournament Waiver Form
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizer's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Guardian's Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: waiver_signature_date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: waiver_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: waiver_text
+      label: Waiver Text
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Super Bowl Party Registration
+    pages:
+    - id: 1
+      name: event_host_contact
+      label: Event Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_preferences
+      label: Food and Drink
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

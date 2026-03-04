@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Recording Permission Form
+    pages:
+    - id: 1
+      name: event_id
+      label: Event Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: individual_name
+      label: individual name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: individual_address
+      label: individual address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: individual_phone
+      label: individual phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: individual_email
+      label: individual email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: individual_consent
+      label: individual consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: recording_duration
+      label: recording duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: individual_agreement
+      label: individual agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: video_type
+      label: video type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: individual_note
+      label: individual note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: individual_signature
+      label: individual signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: individual_date
+      label: individual date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: individual_time
+      label: individual time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: event_signature
+      label: event signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: reporting_date
+      label: reporting date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: reporting_time
+      label: reporting time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: reporting_note
+      label: reporting note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Participation Extension Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: league_id
+      label: League Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_id
+      label: Event Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participation_date
+      label: Participation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participation_time
+      label: Participation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participation_duration
+      label: Participation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: participant_status_reason
+      label: Participant Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_status_change_date
+      label: Participant Status Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: participant_status_change_reason
+      label: Participant Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false

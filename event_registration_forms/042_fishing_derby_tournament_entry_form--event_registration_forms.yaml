@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Derby Tournament Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: species_of_fish
+      label: Species of Fish
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Trout''}'
+      - '{''value'': ''Salmon''}'
+      - '{''value'': ''Bass''}'
+      - '{''value'': ''Catfish''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: fish_length_in_inches
+      label: Fish Length in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight_of_fish_in_pounds
+      label: Weight of Fish
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: angler_license_number
+      label: Angler License Number
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true
+    - id: 10
+      name: is_qualified_to_enter
+      label: Is Qualified to Enter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: fishing_rod_type
+      label: Fishing Rod
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fly''}'
+      - '{''value'': ''Spinning''}'
+      - '{''value'': ''Bait''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 17
+      name: bait_used
+      label: Bait Used
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Live''}'
+      - '{''value'': ''Artificial''}'
+      required: true
+    - id: 18
+      name: tackle_used
+      label: Tackle Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Rod''}'
+      - '{''value'': ''Reel''}'
+      - '{''value'': ''Net''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 19
+      name: fish_caught_with
+      label: Fish Caught with
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hand''}'
+      - '{''value'': ''Net''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 20
+      name: number_of_fish_caught
+      label: Number of Fish Caught
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: number_of_fishing_hours_spent
+      label: Number of Fishing Hours Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: number_of_people_in_party
+      label: Number of People in Party
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: is_reserving_for_minor
+      label: Is Reserving for Minor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 24
+      name: is_reserving_for_minor_age
+      label: Is Reserving for Minor Age
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''6 years old''}'
+      - '{''value'': ''7-9 years old''}'
+      - '{''value'': ''10-12 years old''}'
+      - '{''value'': ''13-15 years old''}'
+      - '{''value'': ''16-17 years old''}'
+      - '{''value'': ''18-20 years old''}'
+      - '{''value'': ''21-23 years old''}'
+      - '{''value'': ''24 years old or older''}'
+      required: true
+    - id: 25
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

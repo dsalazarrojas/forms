@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSA Order Form
+    pages:
+    - id: 1
+      name: member_full_name
+      label: Full Name
+      hint: Primary member name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for delivery issues
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: share_size
+      label: Share Size
+      hint: Select the share size for your household
+      type: select_one
+      options:
+      - Small (1-2 people)
+      - Medium (2-4 people)
+      - Large (4-6 people)
+      - Extra Large (6+ people)
+      required: true
+    - id: 5
+      name: share_frequency
+      label: Share Frequency
+      hint: How often do you want to receive shares
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Seasonal
+      required: true
+    - id: 6
+      name: pickup_location
+      label: Pickup Location
+      hint: Where will you collect your share
+      type: select_one
+      options:
+      - Farm Pickup
+      - Downtown Drop-off
+      - Northside Market
+      - Home Delivery
+      required: true
+    - id: 7
+      name: pickup_day_preference
+      label: Pickup Day Preference
+      hint: Preferred day for pickup
+      type: select_one
+      options:
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - No preference
+      required: false
+    - id: 8
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: Any specific preferences for your share
+      type: select_multiple
+      options:
+      - No preferences
+      - Vegetarian-focused
+      - Fruit-heavy
+      - Leafy greens
+      - Root vegetables
+      - Family-friendly
+      required: false
+    - id: 9
+      name: add_ons
+      label: Add-On Items
+      hint: Additional items to include with your share
+      type: select_multiple
+      options:
+      - Farm eggs
+      - Fresh flowers
+      - Artisan bread
+      - Local honey
+      - Herbal bouquet
+      - None
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for your share
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - SNAP/EBT
+      - Check
+      - Cash at pickup
+      required: true
+    - id: 11
+      name: payment_plan
+      label: Payment Plan
+      hint: Choose your payment schedule
+      type: select_one
+      options:
+      - Full payment upfront
+      - Monthly installments
+      - Pay per pickup
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: When should your share begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: Any allergies, delivery notes, or requests
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Help us understand our community
+      type: select_one
+      options:
+      - Friend or family
+      - Social media
+      - Farmers market
+      - Website search
+      - Local event
+      - Other
+      required: false
+    - id: 15
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer on the farm
+      type: select_one
+      options:
+      - Yes, interested
+      - Maybe someday
+      - No thanks
+      required: false

@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bug Report Feedback Form
+    pages:
+      - id: 1
+        name: bug_report_header
+        label: -- Software Bug Report --
+        hint: Help us improve by reporting issues you've encountered
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: bug_severity_level
+        label: Severity of the bug
+        hint: null
+        type: select_one
+        options:
+          - Critical - Application crashes
+          - High - Major feature broken
+          - Medium - Feature partially works
+          - Low - Minor inconvenience
+          - Cosmetic - Visual issue only
+        required: true
+      - id: 3
+        name: bug_title
+        label: Brief title of the bug
+        hint: Keep it concise and descriptive
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: detailed_description
+        label: Detailed description of the issue
+        hint: What happens, when it happens, and what should happen instead
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: affected_feature
+        label: Which feature or module is affected?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: reproduction_steps
+        label: Steps to reproduce the bug
+        hint: List each step clearly
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: expected_behavior
+        label: What was the expected behavior?
+        hint: What should have happened?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: actual_behavior
+        label: What actually happened?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: environment_section
+        label: -- Environment Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: application_version
+        label: Application version
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: operating_system
+        label: Operating system and version
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: browser_info
+        label: Browser and version (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: device_type
+        label: Device type
+        hint: null
+        type: select_one
+        options:
+          - Desktop
+          - Laptop
+          - Tablet
+          - Mobile phone
+          - Other
+        required: true
+      - id: 14
+        name: attachments_section
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: error_message
+        label: Any error message or code displayed?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: screenshot_available
+        label: Is a screenshot available?
+        hint: null
+        type: select_one
+        options:
+          - Yes, attached
+          - Yes, can provide
+          - No
+        required: false
+      - id: 17
+        name: workaround_found
+        label: Have you found a workaround?
+        hint: null
+        type: select_one
+        options:
+          - Yes, describe below
+          - No workaround found
+          - N/A
+        required: false
+      - id: 18
+        name: workaround_description
+        label: Description of workaround (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: reporter_contact
+        label: Your email address
+        hint: For follow-up questions
+        type: email
+        options: []
+        required: true
+      - id: 20
+        name: frequency_occurrence
+        label: How often does this bug occur?
+        hint: null
+        type: select_one
+        options:
+          - Every time
+          - Most of the time
+          - Sometimes
+          - Rarely
+          - Unable to reproduce
+        required: true

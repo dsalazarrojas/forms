@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Preperation Checklist
+    pages:
+    - id: 1
+      name: exam_preperation_checklist_questions
+      label: Exam Preparation Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exam_preperation_checklist_materials
+      label: Exam Preparation Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: exam_preperation_checklist_schedule
+      label: Exam Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: exam_preperation_checklist_deadlines
+      label: Exam Deadlines
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exam_preperation_checklist_resources
+      label: Exam Preparation Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exam_preperation_checklist_notes
+      label: Exam Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exam_preperation_checklist_phone
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exam_preperation_checklist_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

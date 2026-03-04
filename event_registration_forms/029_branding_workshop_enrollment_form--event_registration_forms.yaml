@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branding Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For workshop communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Marketing and Advertising
+      - Education
+      - Nonprofit
+      - Government
+      - Other
+      required: true
+    - id: 8
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Which workshop are you enrolling in
+      type: select_one
+      options:
+      - Branding Fundamentals
+      - Advanced Brand Strategy
+      - Visual Identity Design
+      - Brand Messaging
+      - Complete Branding Bootcamp
+      required: true
+    - id: 9
+      name: workshop_date
+      label: Workshop Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: experience_level
+      label: Branding Experience Level
+      hint: What is your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 11
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_branding_challenges
+      label: Current Branding Challenges
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you need any accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Hearing Assistance
+      - Visual Assistance
+      - Other
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Company Invoice
+      - Purchase Order
+      required: true
+    - id: 16
+      name: payment_responsibility
+      label: Payment Responsibility
+      hint: Who is paying for this workshop
+      type: select_one
+      options:
+      - Self-Paid
+      - Company-Paid
+      - Scholarship or Sponsorship
+      required: true
+    - id: 17
+      name: marketing_consent
+      label: Marketing Communications
+      hint: Can we send you future workshop information
+      type: select_one
+      options:
+      - Yes, Send Updates
+      - No, Do Not Send
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you find this workshop
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Colleague Referral
+      - Website
+      - Search Engine
+      - Event
+      - Other
+      required: false
+    - id: 19
+      name: additional_questions
+      label: Additional Questions
+      hint: Any questions before the workshop
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept our terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

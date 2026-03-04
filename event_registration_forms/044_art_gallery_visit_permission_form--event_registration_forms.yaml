@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Visit Permission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guardian_name
+      label: Guardian name
+      hint: Name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: Visit date
+      hint: Date of field trip
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: consent_medical
+      label: Consent for medical treatment
+      hint: Permission in case of emergency
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 6
+      name: allergies
+      label: Allergies or medical conditions
+      hint: List any known conditions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pickup_arrangements
+      label: Pickup arrangements
+      hint: Who will pick up the student after visit
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_name
+      label: School name
+      hint: Name of the school
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_contact
+      label: Teacher contact
+      hint: Teacher name and phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: Guardian signature
+      hint: Type full name to signify consent
+      type: text
+      options: []
+      required: true

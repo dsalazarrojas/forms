@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Communication Form
+    pages:
+    - id: 1
+      name: summer_camp_communication_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: camp_location
+      label: Camp Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Food allergies or restrictions
+      - Medical equipment needed
+      - Physical disability
+      - Other
+      required: false
+    - id: 12
+      name: special_needs_description
+      label: Special Needs Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

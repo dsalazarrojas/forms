@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tent Lighting Installation Booking Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lighting_type
+      label: Lighting Type
+      hint: null
+      type: select_one
+      options:
+      - LED
+      - Halogen
+      - Fluorescent
+      required: false
+    - id: 6
+      name: lighting_capacity
+      label: Lighting Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Power
+      - Water
+      - Audio/Video
+      required: false
+    - id: 11
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: client_approval
+      label: Client Approval
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: approval_person
+      label: Approval Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_number
+      label: Approval Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_email
+      label: Approval E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Development Session Permission Form
+    pages:
+    - id: 1
+      name: session_information
+      label: Session Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permission_type
+      label: Permission Type
+      hint: Select all applicable permissions
+      type: select_multiple
+      options:
+      - Permission to Attend
+      - Permission to Attend and Present
+      - Permission to Attend and Present and Take Notes
+      required: false
+    - id: 4
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: permission_date
+      label: Permission Date
+      hint: null
+      type: date
+      options: []
+      required: false

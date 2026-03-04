@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: interactive_exhibit_sponsorship_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contribution
+      label: Contribution
+      hint: What type of contribution would you like to make for this event?
+      type: select_one
+      options:
+      - Event Donation
+      - Event Sponsor
+      - General
+      required: true
+    - id: 7
+      name: sponsor
+      label: Sponsor
+      hint: null
+      type: select_multiple
+      options:
+      - Event Patron
+      - Event Sponsor
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Murals Payment Form
+    pages:
+    - id: 1
+      name: payment_header
+      label: -- Murals Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_name
+      label: Payer name
+      hint: Full name for receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_title
+      label: Mural project title
+      hint: Name or brief title of the mural
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: amount_due
+      label: Amount due
+      hint: Enter payment amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Select method of payment
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Cash
+      - Check
+      required: true
+    - id: 7
+      name: billing_address
+      label: Billing address
+      hint: Street, city, and postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: invoice_needed
+      label: Do you need an invoice
+      hint: Indicate if invoice is required
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: payment_reference
+      label: Payment reference
+      hint: Transaction ID or notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other payment instructions
+      type: text
+      options: []
+      required: false

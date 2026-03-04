@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: frost_protection_application_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: frost_protection_request
+      label: Frost Protection Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: crop_type
+      label: Crop Type
+      hint: null
+      type: select_multiple
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Alfalfa
+      - Other
+      required: false
+    - id: 10
+      name: acreage
+      label: Acreage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: frost_protection_methods
+      label: Frost Protection Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Sprinklers
+      - Wind machines
+      - Wind machines with heating
+      - Other
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

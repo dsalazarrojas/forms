@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Up Volunteer Interest Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For event updates and logistics
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional contact for day of event
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability_dates
+      label: Availability dates
+      hint: Dates you are available to volunteer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_roles
+      label: Preferred roles
+      hint: Select roles you are willing to perform
+      type: select_multiple
+      options:
+      - Trash pickup
+      - Logistics and setup
+      - Volunteer coordination
+      - First aid support
+      required: true
+    - id: 6
+      name: equipment_to_bring
+      label: Tools or equipment you can bring
+      hint: Gloves rakes bags etc
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for volunteer records
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physical_limitations
+      label: Physical limitations or concerns
+      hint: Activities to avoid or improvements needed
+      type: text
+      options: []
+      required: false

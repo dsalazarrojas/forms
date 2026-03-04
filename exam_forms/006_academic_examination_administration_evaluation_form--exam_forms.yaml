@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Examination Administration Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_intro
+      label: Academic Examination Administration Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of the person completing this evaluation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_code
+      label: Course Code
+      hint: Enter the course identifier (e.g., BIO 101)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: exam_date
+      label: Exam Date
+      hint: Date when the examination took place
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: exam_time
+      label: Exam Time
+      hint: Start and end time of the examination
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exam_location
+      label: Exam Location
+      hint: Room number or building where exam was administered
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: number_students
+      label: Number of Students
+      hint: Total number of students taking the exam
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: proctor_names
+      label: Proctor Names
+      hint: Names of all proctors present during the exam
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: room_setup_rating
+      label: Room Setup Quality
+      hint: Rate the physical setup of the exam room (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: material_preparation_rating
+      label: Material Preparation
+      hint: Rate how well exam materials were prepared (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: instruction_clarity_rating
+      label: Clarity of Instructions
+      hint: Rate how clearly instructions were communicated (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: time_management_rating
+      label: Time Management
+      hint: Rate how well the exam time was managed (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: disruption_incidents
+      label: Disruption Incidents
+      hint: Were there any disruptions during the exam?
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Major
+      required: true
+    - id: 14
+      name: technology_issues
+      label: Technology Issues
+      hint: Were there any technology-related problems during the exam?
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Major
+      - Exam had to be rescheduled
+      required: true
+    - id: 15
+      name: proctor_performance_rating
+      label: Proctor Performance
+      hint: Rate the overall performance of proctors (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Suggest ways to improve future exam administration
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations about the exam administration
+      type: text
+      options: []
+      required: false

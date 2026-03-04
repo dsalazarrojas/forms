@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Satisfaction Survey
+    pages:
+    - id: 1
+      name: job_satisfaction
+      label: How satisfied are you with your job
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 2
+      name: job_satisfaction_note
+      label: What do you like most about your job?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: pay_satisfaction
+      label: How satisfied are you with your pay?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 4
+      name: benefits_satisfaction
+      label: How satisfied are you with your benefits?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 5
+      name: people_satisfaction
+      label: How satisfied are you with the people you work with?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 6
+      name: job_satisfaction_note
+      label: What do you like least about your job?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: communication_satisfaction
+      label: How satisfied are you with communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 8
+      name: work_environment_satisfaction
+      label: How satisfied are you with the work environment?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 9
+      name: manager_satisfaction
+      label: How satisfied are you with your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 10
+      name: role_satisfaction
+      label: How satisfied are you with your role?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Satisfied
+      - Not Satisfied
+      required: true
+    - id: 11
+      name: work_satisfaction_note
+      label: What suggestions do you have for improving the workplace?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: work_satisfaction_survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: job_satisfaction_scale
+      label: How satisfied are you with your job on a scale of 1-5?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: manager_satisfaction_scale
+      label: How satisfied are you with your manager on a scale of 1-5?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: communication_satisfaction_scale
+      label: How satisfied are you with communication on a scale of 1-5?
+      hint: null
+      type: number
+      options: []
+      required: true

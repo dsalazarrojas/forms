@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Renewal Exit Offboarding Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Internal employee identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_team
+      label: Department or Team
+      hint: Select the department you are leaving
+      type: select_one
+      options:
+      - Administration
+      - Human Resources
+      - Engineering
+      - Sales and Marketing
+      - Customer Success
+      - Finance
+      - Operations
+      required: true
+    - id: 5
+      name: last_working_day
+      label: Last Working Day
+      hint: Your final date of employment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_certification_status
+      label: -- Certification Status and Handover --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: certifications_held_active
+      label: Active Certifications Held
+      hint: List all professional certifications managed during your tenure
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: certification_renewal_dates
+      label: Upcoming Renewal Dates
+      hint: List dates for certifications requiring renewal in the next 6 months
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: credential_transfer_complete
+      label: Credential Access Transferred?
+      hint: Have you provided all login and management access to your supervisor?
+      type: select_one
+      options:
+      - Yes - All Transferred
+      - In Progress
+      - No - Not Applicable
+      required: true
+    - id: 10
+      name: physical_certificates_returned
+      label: Physical Certificates Returned?
+      hint: Have all company-issued physical certificates been returned to HR?
+      type: select_one
+      options:
+      - true
+      - false
+      - Digital Only
+      required: true
+    - id: 11
+      name: section_exit_feedback
+      label: -- Exit Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_leaving
+      label: Primary Reason for Departure
+      hint: Select the most accurate reason
+      type: select_one
+      options:
+      - Career Advancement
+      - Personal Reasons
+      - Relocation
+      - Retirement
+      - Further Education
+      - Other
+      required: true
+    - id: 13
+      name: overall_experience_rating
+      label: Overall Experience with the Organization
+      hint: Rate your time with us from 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: training_development_adequacy
+      label: Training and Development Adequacy
+      hint: Did the organization provide sufficient certification support?
+      type: select_one
+      options:
+      - Excellent Support
+      - Adequate Support
+      - Needs Improvement
+      - Poor Support
+      required: true
+    - id: 15
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can we better manage the certification and offboarding process?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_final_confirmation
+      label: -- Final Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_email_post_departure
+      label: Personal Email for Future Contact
+      hint: For final administrative updates if needed
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: offboarding_tasks_completed
+      label: Completion of All Offboarding Tasks
+      hint: I confirm that I have completed all required exit procedures
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 19
+      name: signature_date_offboarding
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

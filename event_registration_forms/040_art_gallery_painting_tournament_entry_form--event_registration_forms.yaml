@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Painting Tournament Entry Form
+    pages:
+    - id: 1
+      name: artist_info_header
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_biography
+      label: Short Artist Bio (Max 200 words)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tournament_entry_header
+      label: -- Tournament Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: competition_category
+      label: Select Competition Category
+      hint: null
+      type: select_one
+      options:
+      - Professional - Established
+      - Emerging Artist
+      - Student (High School - University)
+      - Amateur - Hobbyist
+      required: true
+    - id: 8
+      name: painting_medium_style
+      label: Primary Painting Medium
+      hint: null
+      type: select_one
+      options:
+      - Oil
+      - Acrylic
+      - Watercolor
+      - Mixed Media
+      - Digital Painting
+      required: true
+    - id: 9
+      name: artwork_title
+      label: Title of the Entry Piece
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_dimensions
+      label: Dimensions (H x W)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artist_statement_entry
+      label: Entry Statement
+      hint: Describe the concept or inspiration behind this specific piece
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: entry_requirements_header
+      label: -- Requirements and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: artwork_availability
+      label: Is this artwork available for the duration of the tournament and subsequent
+        exhibition?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: image_rights_consent
+      label: I grant the gallery the right to use images of my entry for competition
+        promotion
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 15
+      name: entry_fee_status
+      label: Entry Fee Payment Status
+      hint: ($25 per entry)
+      type: select_one
+      options:
+      - Paid Online
+      - Will pay by phone
+      - Seeking Fee Waiver (Submit explanation below)
+      required: true
+    - id: 16
+      name: fee_waiver_explanation
+      label: Fee Waiver Explanation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: artist_signature
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: portfolio_url
+      label: Link to Online Portfolio (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false

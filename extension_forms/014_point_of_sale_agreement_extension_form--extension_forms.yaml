@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: point_of_sale_agreement_extension_form
+    pages:
+    - id: 1
+      name: form_information
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: agreement_extension_details
+      label: Agreement Extension Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: extension_effective_date
+      label: Extension Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_terms
+      label: Other Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_terms
+      label: Business Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms_2
+      label: Payment Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false

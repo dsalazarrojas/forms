@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cutover Day Feedback Survey
+    pages:
+    - id: 1
+      name: experience_rating
+      label: Experience Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: communication_rating
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: experience_description
+      label: Experience Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_description
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_reported
+      label: Issue Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_impact
+      label: Issue Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cutover_day
+      label: Cutover Day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

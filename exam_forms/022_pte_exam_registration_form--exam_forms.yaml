@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTE Exam Registration Form
+    pages:
+    - id: 1
+      name: student_details
+      label: student_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_exam_preferences
+      label: student_exam_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: institution_details
+      label: institution_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_signature
+      label: e_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false

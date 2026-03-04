@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Manager Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: education
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: 8am-5pm
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Web Development
+      - Database Management
+      - Restaurant Management
+      required: true
+    - id: 9
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

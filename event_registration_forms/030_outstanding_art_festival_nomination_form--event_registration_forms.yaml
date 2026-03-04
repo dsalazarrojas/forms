@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outstanding Art Festival Nomination Form
+    pages:
+    - id: 1
+      name: artist
+      label: artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artwork
+      label: outstanding_artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: nominate_category
+      hint: null
+      type: select_one
+      options:
+      - Art
+      - Music
+      - Performance
+      - Photography
+      - Visual
+      - Written
+      required: false
+    - id: 4
+      name: nomination_reason
+      label: nomination_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_organization
+      label: submitter_organization
+      hint: null
+      type: text
+      options: []
+      required: false

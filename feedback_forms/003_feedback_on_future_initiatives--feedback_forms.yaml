@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On Future Initiatives
+    pages:
+    - id: 1
+      name: proposed_programs
+      label: Proposed Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: proposed_programs
+      label: Proposed Programs
+      hint: Please select multiple programs
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: program_priority
+      label: Program Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: comparison
+      label: Compare
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: comparison
+      label: Compare
+      hint: Please compare these programs
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: roadmap
+      label: Roadmap
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: roadmap
+      label: Roadmap
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: roadmap
+      label: Timeframe
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: timeframe
+      label: Time Frame
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

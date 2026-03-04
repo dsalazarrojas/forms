@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mystery Data Collection Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''email''}'
+      - '{''id'': 2, ''name'': ''phone''}'
+      required: true
+    - id: 3
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback_note
+      label: Feedback Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

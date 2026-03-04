@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heart Health Walk Sponsorship Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_name
+      label: sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sponsor_type
+      label: sponsor_type
+      hint: null
+      type: select_one
+      options:
+      - Corporate Sponsor
+      - Individual Sponsor
+      - Group Sponsor
+      required: false
+    - id: 5
+      name: sponsor_email
+      label: sponsor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_phone
+      label: sponsor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contribution_amount
+      label: contribution_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Check/Cash
+      - Online Payment
+      required: false
+    - id: 9
+      name: sponsor_address
+      label: sponsor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_city
+      label: sponsor_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_state
+      label: sponsor_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sponsor_zip
+      label: sponsor_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sponsor_notes
+      label: sponsor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sponsor_website
+      label: sponsor_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Received
+      required: false
+    - id: 16
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_time
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_details
+      label: payment_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sponsorship_status
+      label: sponsorship_status
+      hint: null
+      type: select_one
+      options:
+      - Unverified
+      - Verified
+      - Rejected
+      required: false

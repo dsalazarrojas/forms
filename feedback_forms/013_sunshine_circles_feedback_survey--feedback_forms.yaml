@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunshine Circles Feedback Survey
+    pages:
+    - id: 1
+      name: participant_ratings
+      label: participant_ratings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: participant_insights
+      label: participant_insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facilitator_comments
+      label: facilitator_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_comments
+      label: school_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_leaders_comments
+      label: program_leaders_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_suggestions
+      label: participant_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Save as draft''}'
+      required: false
+    - id: 10
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

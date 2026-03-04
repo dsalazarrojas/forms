@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Youth Meeting Registration Form
+    pages:
+    - id: 1
+      name: youth_name
+      label: Youth's Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: youth_nickname
+      label: Preferred Name or Nickname
+      hint: What they like to be called
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Current Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 6
+      name: grade
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 7
+      name: school
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_name
+      label: Parent/Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent/Guardian Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: home_address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: If parent unavailable
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: meeting_name
+      label: Which Youth Meeting Are You Registering For
+      hint: null
+      type: select_one
+      options:
+      - Weekly Youth Group
+      - Bible Study
+      - Retreat
+      - Service Project
+      - Social Event
+      - Leadership Meeting
+      - Other
+      required: true
+    - id: 14
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: first_time
+      label: Is This Your First Youth Meeting
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: church_member
+      label: Are You a Church Member
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Interested
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Any Medical Conditions or Allergies
+      hint: We should know about
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Current Medications
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If food will be served
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: transportation
+      label: Do You Need Transportation
+      hint: null
+      type: select_one
+      options:
+      - Yes, need a ride
+      - Yes, can provide rides
+      - No, have own transportation
+      required: true
+    - id: 21
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: If youth shirt is provided
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      required: false
+    - id: 22
+      name: photo_release
+      label: Photo Release Permission
+      hint: Photos may be taken for church use
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true
+    - id: 23
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Busy City
+    pages:
+    - id: 1
+      name: header
+      label: -- Event Contact Form --
+      hint: Use this form to request follow up related to the event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name of the event attendee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Attendee email address
+      hint: Best email for event updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional phone number for urgent updates
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_attended
+      label: Event attended
+      hint: Name of the event or booth
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_type
+      label: Feedback type
+      hint: Select the type of message
+      type: select_one
+      options:
+      - General feedback
+      - Question
+      - Complaint
+      - Volunteer inquiry
+      - Partnership request
+      required: true
+    - id: 7
+      name: message_summary
+      label: Message summary
+      hint: Brief summary of your request or feedback
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_required
+      label: Follow up required
+      hint: Do you need a follow up from our team
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Note any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information to help our team
+      type: text
+      options: []
+      required: false

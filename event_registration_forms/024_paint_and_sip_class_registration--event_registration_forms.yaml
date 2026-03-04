@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paint And Sip Class Registration
+    pages:
+    - id: 1
+      name: paint_and_sip_class_registration
+      label: paint_and_sip_class_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: registration_time
+      label: registration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: registration_fee
+      label: registration_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 15
+      name: payment_gateway_other
+      label: other
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 16
+      name: other_payment_gateway
+      label: other_payment_gateway
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Science Event Registration
+    pages:
+    - id: 1
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_full_name
+      label: Attendee Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or institution name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email for event updates
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Software Development
+      - Academia
+      - Research
+      - Finance
+      - Healthcare
+      - Government
+      - Startup
+      - Other
+      required: true
+    - id: 9
+      name: experience_level
+      label: Experience Level
+      hint: Select your experience level
+      type: select_one
+      options:
+      - Student
+      - Entry Level
+      - Mid Level
+      - Senior Level
+      - Expert
+      - Executive
+      required: true
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: Which event are you attending
+      type: select_one
+      options:
+      - Annual Computer Science Summit
+      - AI and Machine Learning Conference
+      - Software Engineering Workshop
+      - Cybersecurity Forum
+      - Data Science Symposium
+      - Cloud Computing Expo
+      - Developer Meetup
+      - Other
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: Select event date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: Select registration type
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Workshop Only
+      - Virtual Attendance
+      - Student Pass
+      - VIP Pass
+      required: true
+    - id: 13
+      name: technical_tracks
+      label: Technical Tracks of Interest
+      hint: Select tracks you want to attend
+      type: select_multiple
+      options:
+      - Artificial Intelligence
+      - Machine Learning
+      - Data Science
+      - Cloud Computing
+      - Cybersecurity
+      - Software Engineering
+      - DevOps
+      - Web Development
+      - Mobile Development
+      - Blockchain
+      - Internet of Things
+      - Quantum Computing
+      required: true
+    - id: 14
+      name: networking_interests
+      label: Networking Interests
+      hint: What are you looking to network about
+      type: select_multiple
+      options:
+      - Career Opportunities
+      - Technical Collaboration
+      - Research Partnerships
+      - Startup Ideas
+      - Mentorship
+      - Knowledge Sharing
+      - Recruiting
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 16
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For event swag
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - 2XL
+      - 3XL
+      - Prefer Not to Say
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Event
+      hint: Select the source
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Colleague
+      - Website
+      - Previous Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: first_time_attendee
+      label: First Time Attendee
+      hint: Is this your first time
+      type: select_one
+      options:
+      - Yes, First Time
+      - No, Returning Attendee
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Company Invoice
+      - PayPal
+      - Purchase Order
+      - Student Discount
+      - Complimentary
+      required: true
+    - id: 21
+      name: marketing_consent
+      label: Marketing Communications
+      hint: May we send you future event updates
+      type: select_one
+      options:
+      - Yes, Keep Me Informed
+      - No, Thank You
+      required: true
+    - id: 22
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 23
+      name: registration_status
+      label: Registration Status
+      hint: Current registration status
+      type: select_one
+      options:
+      - Submitted
+      - Payment Pending
+      - Confirmed
+      - Waitlisted
+      - Cancelled
+      required: true

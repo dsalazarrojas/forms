@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planner Appointment Form
+    pages:
+    - id: 1
+      name: wedding_planning_form
+      label: Wedding Planning Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: couple_details
+      label: Couple Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Other
+      - Event
+      required: false
+    - id: 6
+      name: wedding_details
+      label: Wedding Details
+      hint: null
+      type: select_multiple
+      options:
+      - Ceremony
+      - Reception
+      - Other
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 12
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: confirm_appointment_date
+      label: Confirm Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: confirm_appointment_time
+      label: Confirm Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: confirm_event_type
+      label: Confirm Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Other
+      - Event
+      required: false
+    - id: 16
+      name: confirm_event_description
+      label: Confirm Event Description
+      hint: null
+      type: select_multiple
+      options:
+      - Ceremony
+      - Reception
+      - Other
+      required: false
+    - id: 17
+      name: confirm_couple_details
+      label: Confirm Couple Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_couple_name
+      label: Confirm Couple Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_event_location
+      label: Confirm Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_event_date
+      label: Confirm Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: confirm_event_time
+      label: Confirm Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: confirm_notes
+      label: Confirm Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: confirm_submit_form
+      label: Confirm Submit Form
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

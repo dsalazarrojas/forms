@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก Feedback On New Facility
+    pages:
+    - id: 1
+      name: new_facility_name
+      label: New Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - positive
+      - neutral
+      - negative
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility_visit_date
+      label: Facility Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facility
+      label: Facility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: facility_rating
+      label: Facility Rating
+      hint: null
+      type: select_multiple
+      options:
+      - very_satisfied
+      - neutral
+      - not_satisfied
+      required: false

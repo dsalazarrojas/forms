@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Claim Follow Up Request Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1 minimalist
+      - Option 2 minimalist
+      - Option 3 minimalist
+      - Option 4 minimalist
+      required: true
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Closed
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: updated_user
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_user
+      label: Updated User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: last_updated_user
+      label: Last Updated User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - Expense Claim
+      - Other
+      required: false
+    - id: 25
+      name: last_updated_date
+      label: Last Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: last_updated_user
+      label: Last Updated User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: last_updated
+      label: Last
+      hint: null
+      type: text
+      options: []
+      required: false

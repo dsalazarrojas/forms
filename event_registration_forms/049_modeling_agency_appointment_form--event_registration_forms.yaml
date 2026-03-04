@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Modeling Agency Appointment Form
+    pages:
+    - id: 1
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: confirm_purpose
+      label: Confirm Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confirm_notes
+      label: Confirm Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agency
+      label: Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Agency A'', ''label'': ''Agency A''}'
+      - '{''value'': ''Agency B'', ''label'': ''Agency B''}'
+      - '{''value'': ''Agency C'', ''label'': ''Agency C''}'
+      required: true
+    - id: 17
+      name: name
+      label: Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Name 1'', ''label'': ''Name 1''}'
+      - '{''value'': ''Name 2'', ''label'': ''Name 2''}'
+      - '{''value'': ''Name 3'', ''label'': ''Name 3''}'
+      - '{''value'': ''Name 4'', ''label'': ''Name 4''}'
+      required: true
+    - id: 18
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Purpose 1'', ''label'': ''Purpose 1''}'
+      - '{''value'': ''Purpose 2'', ''label'': ''Purpose 2''}'
+      - '{''value'': ''Purpose 3'', ''label'': ''Purpose 3''}'
+      required: true
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: agency_notes
+      label: Agency Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: confirm_agency
+      label: Confirm Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Agency 1'', ''label'': ''Agency 1''}'
+      - '{''value'': ''Agency 2'', ''label'': ''Agency 2''}'
+      - '{''value'': ''Agency 3'', ''label'': ''Agency 3''}'
+      required: true
+    - id: 25
+      name: confirm_agency_phone
+      label: Confirm Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: confirm_agency_email
+      label: Confirm Agency Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 27
+      name: confirm_agency_notes
+      label: Confirm Agency Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 28
+      name: confirm_agency_date
+      label: Confirm Agency Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: confirm_agency_time
+      label: Confirm Agency Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 30
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

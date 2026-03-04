@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Recruitment Checklist Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Leadership''}'
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Teamwork''}'
+      - '{''value'': ''Time management''}'
+      - '{''value'': ''Problem solving''}'
+      - '{''value'': ''Adaptability''}'
+      - '{''value'': ''Flexibility''}'
+      - '{''value'': ''Conflict resolution''}'
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_background_check
+      label: Consent to background check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_volunteer_work
+      label: Consent to volunteer work
+      hint: null
+      type: text
+      options: []
+      required: false

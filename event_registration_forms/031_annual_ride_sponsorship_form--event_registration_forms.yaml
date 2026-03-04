@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Ride Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Company or Organization Name
+      hint: Sponsor business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_contact
+      label: Primary Contact Person
+      hint: Name of sponsorship coordinator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsorship_history
+      label: Prior sponsorship history
+      hint: Have you sponsored this event before
+      type: select_one
+      options:
+      - First time sponsor
+      - Sponsored 1-2 times
+      - Sponsored 3-5 times
+      - Loyal sponsor - 5+ times
+      required: true
+    - id: 7
+      name: previous_year_sponsor
+      label: If previous sponsor - year and level
+      hint: Last sponsorship details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_level
+      label: Sponsorship Level Requested
+      hint: null
+      type: select_one
+      options:
+      - Platinum - $5,000+
+      - Gold - $2,500-$4,999
+      - Silver - $1,000-$2,499
+      - Bronze - $500-$999
+      - Friend - Under $500
+      - In-kind donation
+      required: true
+    - id: 9
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Dollar amount of contribution
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - Wire transfer
+      - PayPal
+      required: true
+    - id: 11
+      name: in_kind_donation
+      label: In-kind donation offered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: in_kind_details
+      label: Details of in-kind donation
+      hint: Type and value of donation
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: Date of the annual ride
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: Event Location or Route
+      hint: Where the ride takes place
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expected_participants
+      label: Expected Participants
+      hint: Approximate number attending
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: logo_usage
+      label: Logo usage rights requested
+      hint: Permission to use sponsor logo
+      type: select_one
+      options:
+      - Yes - use my logo
+      - Yes - but with approval
+      - No - do not use logo
+      required: true
+    - id: 17
+      name: logo_file
+      label: Logo file attached
+      hint: Logo format - high resolution
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: booth_space
+      label: Booth or vendor space requested
+      hint: null
+      type: select_one
+      options:
+      - Yes - main venue
+      - Yes - secondary location
+      - No - not interested
+      required: false
+    - id: 19
+      name: booth_size
+      label: Booth size needed
+      hint: null
+      type: select_one
+      options:
+      - 10x10 feet
+      - 10x20 feet
+      - Custom size
+      - Not applicable
+      required: false
+    - id: 20
+      name: participant_count
+      label: Company participants in the ride
+      hint: How many of your people will ride
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_support
+      label: Volunteering staff support
+      hint: Number of volunteers provided
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: recognition_requests
+      label: Special recognition requests
+      hint: How you would like to be recognized
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: promotional_materials
+      label: Promotional materials provided
+      hint: Flyers, banners, or booth items
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: social_media_handles
+      label: Social media handles
+      hint: For promotional purposes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional sponsorship requests
+      hint: Other details or requirements
+      type: text
+      options: []
+      required: false

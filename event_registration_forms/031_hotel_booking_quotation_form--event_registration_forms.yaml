@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Quotation Form
+    pages:
+    - id: 1
+      name: hotel_checkin_date
+      label: Hotel Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Double Room
+      - Single Room
+      - Suite
+      - Junior Suite
+      - Executive Room
+      - Family Room
+      required: false
+    - id: 3
+      name: room_quantity
+      label: Room Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: guest_full_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hiking Event Waiting List
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Registration form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: hikers_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: num_participants
+      label: num_participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Festival Registration Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participation_type_header
+      label: -- Participation Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: role_in_festival
+      label: How will you be participating in the festival?
+      hint: null
+      type: select_one
+      options:
+      - Exhibiting Artist (Individual)
+      - Performance Artist - Group
+      - Workshop Instructor
+      - Vendor (Food - Merchandise)
+      - Volunteer
+      required: true
+    - id: 8
+      name: exhibition_details_header
+      label: -- Exhibition - Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: work_description
+      label: Description of Artwork or Performance
+      hint: Briefly describe what you will be showcasing
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: space_requirements
+      label: Space or Equipment Requirements
+      hint: e.g., Wall space, Floor space, Power outlet, Audio setup
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: number_of_items
+      label: Number of items to be displayed (If applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: scheduling_header
+      label: -- Scheduling and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_dates
+      label: Preferred Participation Dates
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friday Opening Night
+      - Saturday Full Day
+      - Sunday Full Day
+      - Closing Awards Ceremony
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements (For participant catering)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_coverage
+      label: Do you have public liability insurance for your participation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Provided by Organization
+      required: true
+    - id: 16
+      name: terms_and_conditions_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: agree_to_terms
+      label: I agree to the Art Festival terms and conditions and safety guidelines
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: digital_signature
+      label: Digital Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true

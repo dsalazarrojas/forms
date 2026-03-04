@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Participation Permission Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Participant Consent
+      hint: Please check the boxes below
+      type: select_multiple
+      options:
+      - I am willing to participate
+      - I am not willing to participate
+      required: false
+    - id: 3
+      name: questions
+      label: Do you have any questions about the focus group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

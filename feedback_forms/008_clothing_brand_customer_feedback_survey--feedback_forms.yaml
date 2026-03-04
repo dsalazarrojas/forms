@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Brand Customer Feedback Survey
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: Optional - for follow-up purposes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Date of Purchase
+      hint: When did you buy from us?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_product
+      label: -- Product Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_type
+      label: Type of Product Purchased
+      hint: null
+      type: select_one
+      options:
+      - T-shirt
+      - Dress
+      - Pants
+      - Jacket
+      - Sweater
+      - Accessories
+      - Other
+      required: true
+    - id: 7
+      name: product_quality_rating
+      label: Product Quality Rating
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fit_satisfaction
+      label: How satisfied are you with the fit?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: material_comfort
+      label: Material comfort and quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 10
+      name: color_accuracy
+      label: Color matches product description?
+      hint: null
+      type: select_one
+      options:
+      - Yes, perfect match
+      - Close enough
+      - Not accurate
+      required: true
+    - id: 11
+      name: durability_expectation
+      label: Expected durability
+      hint: How long do you expect this item to last?
+      type: select_one
+      options:
+      - Several months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: false
+    - id: 12
+      name: section_shopping
+      label: -- Shopping Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: website_ease_of_use
+      label: Website ease of use
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 14
+      name: checkout_experience
+      label: Checkout process was smooth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Somewhat
+      - 'No'
+      required: true
+    - id: 15
+      name: shipping_speed
+      label: Shipping was timely
+      hint: null
+      type: select_one
+      options:
+      - Faster than expected
+      - As expected
+      - Slower than expected
+      required: true
+    - id: 16
+      name: packaging_quality
+      label: Packaging quality and presentation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 17
+      name: section_brand
+      label: -- Brand Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: brand_loyalty
+      label: Likelihood to purchase from us again
+      hint: Rate from 1 (unlikely) to 5 (very likely)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: brand_recommendation
+      label: Recommend brand to friends or family
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Unsure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 20
+      name: value_for_money
+      label: Was the product good value for money?
+      hint: null
+      type: select_one
+      options:
+      - Yes, great value
+      - Fair value
+      - Overpriced
+      required: true
+    - id: 21
+      name: section_improvement
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: improvement_suggestions
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_feedback
+      label: Additional product feedback
+      hint: null
+      type: text
+      options: []
+      required: false

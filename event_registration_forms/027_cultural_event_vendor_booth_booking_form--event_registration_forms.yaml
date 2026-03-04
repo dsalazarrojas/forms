@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Event Vendor Booth Booking Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booth_type
+      label: Select Booth Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: booth_requirements
+      label: Booth Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: booth_size
+      label: Booth Size
+      hint: null
+      type: select_one
+      options:
+      - 3x3
+      - 3x6
+      - Other
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submitter_type
+      label: Submitter Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

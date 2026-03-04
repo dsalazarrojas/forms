@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Event Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: select_one
+      options:
+      - Event Date
+      - Event Time
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - In-person
+      required: false
+    - id: 11
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 13
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_url
+      label: Event URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendee_list
+      label: Attendee List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Credit Card
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: false
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: event_cost
+      label: Event Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_cost_currency
+      label: Event Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 21
+      name: event_cost_amount
+      label: Event Cost Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: event_cost_notes
+      label: Event Cost Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

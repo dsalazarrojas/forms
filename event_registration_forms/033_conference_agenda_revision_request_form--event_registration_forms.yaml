@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Agenda Revision Request Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester name
+        hint: Person requesting the revision
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For update and confirmation
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: original_item_title
+        label: Original item title
+        hint: Title of the agenda item to revise
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: proposed_revision
+        label: Proposed revision details
+        hint: Describe changes requested
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: reason_for_revision
+        label: Reason for revision
+        hint: Rationale for the change
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: priority_level
+        label: Priority level
+        hint: Urgency of the request
+        type: select_one
+        options:
+          - High
+          - Medium
+          - Low
+        required: false
+      - id: 7
+        name: affected_sessions
+        label: Affected sessions
+        hint: Other sessions impacted by revision
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: supporting_documents
+        label: Supporting documents reference
+        hint: Upload or list attached documents
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: editor_notes
+        label: Editor notes
+        hint: For committee to add internal notes
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: request_status
+        label: Request status
+        hint: For internal tracking
+        type: select_one
+        options:
+          - Submitted
+          - Under review
+          - Approved
+          - Rejected
+        required: false

@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Attendance Verification Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Full name as registered
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: registration_id
+        label: Registration ID
+        hint: Provided at registration
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: check_in_date
+        label: Check in date
+        hint: Date of check in
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: session_attended
+        label: Sessions attended
+        hint: List session IDs or titles
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: badge_scanned
+        label: Badge scanned confirmation
+        hint: Indicates if badge was scanned
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: attendee_signature
+        label: Attendee signature instructions
+        hint: Signature recorded electronically
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: verifier_name
+        label: Verifier name
+        hint: Staff verifying attendance
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: verifier_comments
+        label: Verifier comments
+        hint: Any notes about attendance verification
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: verification_time
+        label: Verification time
+        hint: Time the attendance was confirmed
+        type: time
+        options: []
+        required: false
+      - id: 10
+        name: confirmation_status
+        label: Confirmation status
+        hint: Final attendance confirmation
+        type: select_one
+        options:
+          - Confirmed
+          - Unconfirmed
+        required: true

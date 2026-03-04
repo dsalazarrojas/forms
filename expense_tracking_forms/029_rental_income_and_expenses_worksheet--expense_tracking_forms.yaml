@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Income And Expenses Worksheet
+    pages:
+    - id: 1
+      name: rental_income_page
+      label: Income Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income_sources
+      label: Income Sources
+      hint: List the sources of income for this property
+      type: select_multiple
+      options:
+      - rental
+      - investment
+      - other
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rent_start_date
+      label: Rent Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rent_end_date
+      label: Rent End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rental_frequency
+      label: Rental Frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - yearly
+      required: false
+    - id: 7
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - yearly
+      required: false
+    - id: 8
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: other_income
+      label: Other Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other_frequency
+      label: Other Frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - yearly
+      required: false

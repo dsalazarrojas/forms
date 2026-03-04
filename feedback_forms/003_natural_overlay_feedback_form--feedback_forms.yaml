@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: natural-overlay-feedback-form
+    pages:
+    - id: 1
+      name: natural_overlay_feature
+      label: How would you rate our natural overlay feature
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Fair
+      - Bad
+      required: true
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue
+      label: issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: device_type
+      label: Device type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Other
+      required: true
+    - id: 6
+      name: product_type
+      label: Product type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Other
+      required: true
+    - id: 7
+      name: feedback_on
+      label: Feedback on
+      hint: null
+      type: select_one
+      options:
+      - Product
+      - UX
+      - Support
+      required: true
+    - id: 8
+      name: satisfaction
+      label: How would you rate your satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very unsatisfied
+      required: true
+    - id: 9
+      name: issue_description
+      label: issue-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_replica
+      label: issue-replica
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job
+      label: job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: signature-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: signature_time
+      label: signature-date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: signature_verified
+      label: signature-verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: signature_verified
+      label: signature-verified
+      hint: null
+      type: text
+      options: []
+      required: false

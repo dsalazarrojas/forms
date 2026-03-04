@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Participation Intake Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''attendee''}'
+      - '{''value'': ''vendor''}'
+      - '{''value'': ''performer''}'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

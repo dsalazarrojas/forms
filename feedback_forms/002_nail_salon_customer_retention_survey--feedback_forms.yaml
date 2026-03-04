@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Customer Retention Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_services
+      label: satisfaction_with_services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 4}'
+      - '{''label'': ''Good'', ''value'': 3}'
+      - '{''label'': ''Slightly Below Average'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 1}'
+      required: false
+    - id: 3
+      name: satisfaction_with_staff
+      label: satisfaction_with_staff
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 4}'
+      - '{''label'': ''Good'', ''value'': 3}'
+      - '{''label'': ''Slightly Below Average'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 1}'
+      required: false
+    - id: 4
+      name: visit_habits
+      label: visit_habits
+      hint: What do you usually visit for?
+      type: select_multiple
+      options:
+      - '{''label'': ''For nail care'', ''value'': 1}'
+      - '{''label'': ''For nail art'', ''value'': 2}'
+      - '{''label'': ''For nail extensions'', ''value'': 3}'
+      - '{''label'': ''For other'', ''value'': 4}'
+      required: false
+    - id: 5
+      name: loyalty_program
+      label: loyalty_program
+      hint: Do you participate in the loyalty program?
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 4}'
+      - '{''label'': False, ''value'': 1}'
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

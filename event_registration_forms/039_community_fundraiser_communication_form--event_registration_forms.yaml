@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Fundraiser Communication Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: If representing an organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fundraiser_event
+      label: Fundraiser Event
+      hint: Which event are you participating in?
+      type: select_one
+      options:
+      - Annual Gala
+      - Charity Run
+      - Auction Event
+      - Bake Sale
+      - Concert for Cause
+      - Golf Tournament
+      - Other
+      required: true
+    - id: 7
+      name: participation_type
+      label: Type of Participation
+      hint: How will you participate?
+      type: select_one
+      options:
+      - Attendee
+      - Donor
+      - Sponsor
+      - Volunteer
+      - Performer
+      - Vendor
+      required: true
+    - id: 8
+      name: donation_amount
+      label: Intended Donation Amount
+      hint: How much do you plan to donate?
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $101-$250
+      - $251-$500
+      - $501-$1000
+      - Over $1000
+      required: false
+    - id: 9
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: If sponsoring
+      type: select_one
+      options:
+      - Bronze ($500)
+      - Silver ($1000)
+      - Gold ($2500)
+      - Platinum ($5000)
+      - Not Sponsoring
+      required: false
+    - id: 10
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How should we contact you?
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      required: true
+    - id: 11
+      name: update_frequency
+      label: Update Frequency
+      hint: How often should we contact you?
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Only for Major Updates
+      required: true
+    - id: 12
+      name: volunteer_availability
+      label: Volunteer Availability
+      hint: When can you volunteer?
+      type: select_multiple
+      options:
+      - Setup
+      - During Event
+      - Cleanup
+      - Pre-Event Planning
+      - Not Available
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If food is provided
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event merchandise
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - 2X-Large
+      - Not Needed
+      required: false
+    - id: 15
+      name: how_did_you_hear
+      label: How Did You Hear About Event
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email
+      - Friend or Family
+      - Previous Event
+      - Other
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

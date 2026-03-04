@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_festival_media_coverage_consent_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 5
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

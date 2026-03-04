@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Attendance Tracker
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: meal_type
+      label: Meal Type
+      hint: Select a meal type
+      type: select_one
+      options:
+      - Apple
+      - Salad
+      - Soup
+      - Sandwich
+      - Fruits
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: special_needs
+      label: Special Needs
+      hint: Please provide any special needs or requests
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: Enter the date of event
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: Enter the event start time
+      type: time
+      options: []
+      required: false

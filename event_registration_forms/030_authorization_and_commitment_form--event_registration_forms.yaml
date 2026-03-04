@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization And Commitment Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event or Program Name
+      hint: Name of the event you are committing to
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_dates
+      label: Event Dates
+      hint: When is the event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Sponsoring Organization
+      hint: Organization running the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_role
+      label: Your Role or Position
+      hint: What is your role in this event
+      type: select_one
+      options:
+      - Participant
+      - Volunteer
+      - Speaker
+      - Organizer
+      - Instructor
+      - Staff
+      - Sponsor
+      - Other
+      required: true
+    - id: 9
+      name: commitment_duration
+      label: Duration of Commitment
+      hint: How long will you be involved
+      type: select_one
+      options:
+      - Single Event
+      - Ongoing Program
+      - Seasonal
+      - Annual
+      - Multiple Years
+      - Other
+      required: true
+    - id: 10
+      name: time_commitment_hours
+      label: Hours Per Week Commitment
+      hint: Approximate hours per week
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: responsibilities_listed
+      label: You Understand Your Responsibilities
+      hint: Do you understand what is expected
+      type: select_one
+      options:
+      - Yes - Fully Understand
+      - Mostly Understand
+      - Somewhat Understand
+      - Need Clarification
+      required: true
+    - id: 12
+      name: specific_duties
+      label: Specific Duties or Responsibilities
+      hint: List what you will be doing
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: start_date
+      label: Start Date of Commitment
+      hint: When will you start
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: end_date
+      label: End Date of Commitment
+      hint: When will you finish
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: attendance_expectation
+      label: Attendance Expectation Understood
+      hint: Do you understand attendance requirements
+      type: select_one
+      options:
+      - Yes - Fully Understand
+      - Mostly Understand
+      - Clarification Needed
+      - No - Need to Discuss
+      required: true
+    - id: 16
+      name: attendance_percentage
+      label: Expected Attendance Percentage
+      hint: Required attendance percentage
+      type: select_one
+      options:
+      - 100% - Perfect Attendance Required
+      - 95%
+      - 90%
+      - 80%
+      - Flexible - As Able
+      required: true
+    - id: 17
+      name: absence_protocol
+      label: Cancellation and Absence Protocol
+      hint: How to request time off
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_required
+      label: Training or Orientation Required
+      hint: Will you need training
+      type: select_one
+      options:
+      - Yes - Full Training
+      - Yes - Orientation Only
+      - No - No Training Needed
+      - Self-Directed Training
+      required: true
+    - id: 19
+      name: conduct_expectations
+      label: Conduct and Behavior Expectations
+      hint: Do you agree to code of conduct
+      type: select_one
+      options:
+      - Yes - Fully Agree
+      - Mostly Agree
+      - Need to Review
+      - Do Not Agree
+      required: true
+    - id: 20
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you commit to confidentiality
+      type: select_one
+      options:
+      - Yes - Agree
+      - No - Cannot Agree
+      - Conditional - Specific Items Only
+      required: true
+    - id: 21
+      name: conflict_resolution
+      label: Conflict Resolution Process
+      hint: Will follow organization conflict process
+      type: select_one
+      options:
+      - Yes - Agree
+      - No - Will Not Follow
+      - Conditional Agreement
+      required: true
+    - id: 22
+      name: safety_commitment
+      label: Safety and Risk Acknowledgment
+      hint: Understand potential risks
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - Yes - With Reservations
+      - No - Cannot Acknowledge
+      required: true
+    - id: 23
+      name: early_termination
+      label: Termination Procedures
+      hint: How can you end the commitment
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: legal_authorization
+      label: Legal Authorization
+      hint: I am authorized to make this commitment
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - Cannot Authorize
+      - Parental Consent Needed
+      required: true

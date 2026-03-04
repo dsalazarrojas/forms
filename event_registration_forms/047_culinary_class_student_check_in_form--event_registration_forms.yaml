@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Class Student Check In Form
+    pages:
+    - id: 1
+      name: student
+      label: Student
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: cooking_level
+      label: Cooking Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Past Crushes Survey
+    pages:
+    - id: 1
+      name: first_crush
+      label: First Crush
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age_of_first_crush
+      label: Age Of First Crush
+      hint: In years
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: how_did_you_feel
+      label: How Did You Feel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_crush_duration
+      label: First Crush Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: last_crush
+      label: Last Crush
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_crush_duration
+      label: Last Crush Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: communication_type
+      label: Communication Type
+      hint: How often you communicated with your partner
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

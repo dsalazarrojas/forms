@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Client Feedback Survey
+    pages:
+      - id: 1
+        name: section_session
+        label: -- Session Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: coach_name
+        label: Coach Name
+        hint: Name of your coach
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: session_date
+        label: Session Date
+        hint: Date of the coaching session
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: session_focus
+        label: Primary focus of this session
+        hint: Main topic or objective
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_satisfaction
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall satisfaction with this session
+        hint: Rate from 1 - very unsatisfied to 5 - very satisfied
+        type: select_one
+        options:
+          - "1 - Very unsatisfied"
+          - "2 - Unsatisfied"
+          - "3 - Neutral"
+          - "4 - Satisfied"
+          - "5 - Very satisfied"
+        required: true
+      - id: 8
+        name: session_met_expectations
+        label: Did this session meet your expectations
+        hint: null
+        type: select_one
+        options:
+          - "1 - Far below expectations"
+          - "2 - Below expectations"
+          - "3 - Met expectations"
+          - "4 - Exceeded expectations"
+          - "5 - Far exceeded expectations"
+        required: true
+      - id: 9
+        name: section_coach_performance
+        label: -- Coach Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: coach_preparation
+        label: Coach was well-prepared and organized
+        hint: Rate from 1 - strongly disagree to 5 - strongly agree
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 11
+        name: coach_listening
+        label: Coach listened attentively to your concerns
+        hint: Rate the coach's listening skills
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 12
+        name: coach_engagement
+        label: Coach was engaged and enthusiastic
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 13
+        name: coach_expertise
+        label: Coach demonstrated strong expertise
+        hint: Rate coach's knowledge and skill
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 14
+        name: section_learning
+        label: -- Learning and Value --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: learned_something
+        label: You learned something valuable
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 16
+        name: actionable_advice
+        label: Received actionable advice and tools
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 17
+        name: clear_next_steps
+        label: Clear on next steps and action items
+        hint: null
+        type: select_one
+        options:
+          - "1 - Strongly disagree"
+          - "2 - Disagree"
+          - "3 - Neutral"
+          - "4 - Agree"
+          - "5 - Strongly agree"
+        required: true
+      - id: 18
+        name: section_improvement
+        label: -- Feedback for Improvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: what_went_well
+        label: What went well in this session
+        hint: Positive feedback
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: improvement_suggestions
+        label: What could be improved
+        hint: Constructive suggestions
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_recommendation
+        label: -- Recommendation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: would_recommend
+        label: Would you recommend this coach to others
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Yes, probably"
+          - "Unsure"
+          - "No, probably not"
+          - "No, definitely not"
+        required: true
+      - id: 23
+        name: future_sessions
+        label: Would you like to book another session
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "Maybe"
+          - "No"
+        required: false

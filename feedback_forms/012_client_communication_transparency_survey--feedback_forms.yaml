@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Communication Transparency Survey
+    pages:
+      - id: 1
+        name: respondent_first_name
+        label: First Name
+        hint: Optional - for follow-up
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_last_name
+        label: Last Name
+        hint: Optional - for follow-up
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For survey results
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: client_type
+        label: Client Type
+        hint: Your relationship with us
+        type: select_one
+        options:
+          - Current Client
+          - Former Client
+          - Prospective Client
+          - Partner Organization
+          - Other
+        required: true
+      - id: 5
+        name: service_duration
+        label: How Long Have You Been a Client?
+        hint: Length of relationship
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - Over 5 years
+        required: true
+      - id: 6
+        name: communication_clarity_rating
+        label: Rate the Clarity of Our Communications
+        hint: How clear is our messaging?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: information_accessibility
+        label: How Easy Is It to Find Information?
+        hint: Accessibility of information
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 8
+        name: response_time_satisfaction
+        label: Satisfaction With Response Times
+        hint: How quickly do we respond?
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 9
+        name: transparency_rating
+        label: Rate Our Transparency and Openness
+        hint: How transparent are we?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: preferred_contact_method
+        label: Preferred Contact Method
+        hint: How should we reach you?
+        type: select_one
+        options:
+          - Email
+          - Phone Call
+          - Text Message
+          - Video Call
+          - In Person
+          - Mail
+          - Client Portal
+        required: true
+      - id: 11
+        name: contact_frequency_preference
+        label: Preferred Contact Frequency
+        hint: How often should we contact you?
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Quarterly
+          - Only When Necessary
+        required: true
+      - id: 12
+        name: communication_channels_used
+        label: Which Channels Have We Used?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Email
+          - Phone
+          - Text Messages
+          - Video Conferencing
+          - Client Portal
+          - Mobile App
+          - Social Media
+          - In Person Meetings
+          - Mail
+        required: true
+      - id: 13
+        name: channel_effectiveness
+        label: Most Effective Communication Channel
+        hint: Which works best for you?
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Text Messages
+          - Video Conferencing
+          - Client Portal
+          - In Person Meetings
+          - Other
+        required: true
+      - id: 14
+        name: information_understanding
+        label: How Well Do You Understand the Information Provided?
+        hint: Comprehension level
+        type: select_one
+        options:
+          - Completely Understand
+          - Mostly Understand
+          - Somewhat Understand
+          - Slightly Understand
+          - Do Not Understand
+        required: true
+      - id: 15
+        name: jargon_clarity
+        label: Is Technical Language Explained Clearly?
+        hint: When we use industry terms
+        type: select_one
+        options:
+          - Always Explained
+          - Usually Explained
+          - Sometimes Explained
+          - Rarely Explained
+          - Never Explained
+          - Not Applicable
+        required: true
+      - id: 16
+        name: communication_improvements
+        label: What Could We Improve?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Response Time
+          - Clarity of Messages
+          - Frequency of Updates
+          - Availability of Staff
+          - Online Resources
+          - Written Documentation
+          - Follow-Up Communication
+          - Nothing - All Good
+          - Other
+        required: true
+      - id: 17
+        name: communication_strengths
+        label: What Do We Do Well?
+        hint: Our communication strengths
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other thoughts on our communication
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: recommend_communication
+        label: Would You Recommend Our Communication Practices?
+        hint: To others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: survey_date
+        label: Survey Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true

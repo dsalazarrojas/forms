@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dual Meet Participation Interest Survey
+    pages:
+    - id: 1
+      name: participation_interest
+      label: What is your interest in participating in the dual meet?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: availability
+      label: What is your availability on meet day?
+      hint: null
+      type: select_one
+      options:
+      - 8am
+      - 9am
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      - 6pm
+      - 7pm
+      - 8pm
+      - 9pm
+      - 10pm
+      - 11pm
+      - 12am
+      required: false
+    - id: 3
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coach_name
+      label: Coach name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_consent
+      label: Consent to have your availability shared with the meet directors?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: Event details
+      hint: null
+      type: text
+      options: []
+      required: false

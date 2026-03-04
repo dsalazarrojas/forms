@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Engagement Survey Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Other
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: assignedTool
+      hint: Enter the tool assigned to this form (e.g., chatjimmy)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: formID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: output_file
+      label: outputFile
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: output_file_name
+      label: outputFileName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: output_file_extension
+      label: outputFileExtension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: output_file_format
+      label: outputFileFormat
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: output_file_path
+      label: outputFilePath
+      hint: null
+      type: text
+      options: []
+      required: true

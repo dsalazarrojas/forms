@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: engineering_final_exam_review_survey
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_effectiveness
+      label: Session effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exam_preparation
+      label: Exam preparation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: instructor_feedback
+      label: Instructor feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_feedback
+      label: Student feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: review_session_date
+      label: Review session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_session_time
+      label: Review session time
+      hint: null
+      type: time
+      options: []
+      required: false

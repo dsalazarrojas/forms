@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Services Evaluation Form
+    pages:
+    - id: 1
+      name: form_1_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_1_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_1_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_1_rate_our_services
+      label: rate_our_services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: form_1_additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_1_what_did_you_enjoy_most
+      label: what_did_you_enjoy_most
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Book selection''}'
+      - '{''label'': ''Quiet space''}'
+      - '{''label'': ''Knowledgeable staff''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: form_1_what_can_we_improve
+      label: what_can_we_improve
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Response time''}'
+      - '{''label'': ''Availability of materials''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: form_1_any_other_comments
+      label: any_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false

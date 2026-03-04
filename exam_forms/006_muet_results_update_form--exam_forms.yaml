@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: MUET Results Update Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exam_roll_number
+      label: Exam Roll Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: roll_number
+      label: Roll Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - '2009'
+      - '2010'
+      - '2011'
+      - '2012'
+      required: true
+    - id: 6
+      name: subject_wise_marks
+      label: Subject-wise Marks
+      hint: null
+      type: select_multiple
+      options:
+      - Mathematics
+      - Physics
+      - Chemistry
+      - Biology
+      - English
+      - Urdu
+      - Computer
+      required: true
+    - id: 7
+      name: subjectwise_marks
+      label: SubjectWise Marks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: upload_supporting_documents
+      label: Upload Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 11
+      name: exam_year
+      label: Exam Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exam_month
+      label: Exam Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supporting_docs
+      label: Supporting Docs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: supporting_doc
+      label: Supporting Doc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supporting_document_attachment
+      label: Supporting Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_doc_attachment
+      label: Supporting Doc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supporting_document_attachment_2
+      label: Supporting Doc 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: upload_additional_document
+      label: Upload Additional Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_attachment
+      label: Supporting Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_attachment_2
+      label: Supporting Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_additional_attachment
+      label: Upload Additional Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: upload_additional_attachment_2
+      label: Upload Additional Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporting_file
+      label: Supporting File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporting_file_attachment
+      label: Supporting File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

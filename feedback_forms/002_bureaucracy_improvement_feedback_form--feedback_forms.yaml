@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bureaucracy Improvement Feedback Form
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Feedback Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional, leave blank for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_affiliation
+      label: Respondent affiliation
+      hint: Department or organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: process_area
+      label: Process area
+      hint: Which bureaucratic process is this feedback about
+      type: select_one
+      options:
+      - Hiring and onboarding
+      - Procurement and purchasing
+      - Approvals and signoffs
+      - Reporting and compliance
+      - Other
+      required: true
+    - id: 5
+      name: pain_points
+      label: Major pain points
+      hint: Briefly describe the main issues encountered
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: impact_severity
+      label: Impact severity
+      hint: Rate how strongly this impacts work
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 7
+      name: improvement_suggestions
+      label: Improvement suggestions
+      hint: Provide concrete suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: estimated_time_saved
+      label: Estimated time saved per instance
+      hint: Enter estimated minutes saved if improved
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: priority_for_change
+      label: Priority for change
+      hint: Indicate priority level
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: willing_to_participate
+      label: Willing to participate in follow up
+      hint: Allow staff to contact you for more details
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact email
+      hint: If you agreed to follow up provide email
+      type: email
+      options: []
+      required: false

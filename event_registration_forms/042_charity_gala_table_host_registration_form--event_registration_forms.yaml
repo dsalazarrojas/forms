@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Gala Table Host Registration Form
+    pages:
+    - id: 1
+      name: host_first_name
+      label: Host First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: host_last_name
+      label: Host Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: host_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: host_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization
+      hint: Business name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gala_name
+      label: Gala Event Name
+      hint: Which gala
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: gala_date
+      label: Gala Date
+      hint: Event date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: table_sponsorship
+      label: Table Sponsorship Level
+      hint: Sponsorship tier
+      type: select_one
+      options:
+      - Bronze table
+      - Silver table
+      - Gold table
+      - Platinum table
+      - Diamond table
+      required: true
+    - id: 9
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: At your table
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_list_status
+      label: Guest List Status
+      hint: Submission timing
+      type: select_one
+      options:
+      - Submitting now
+      - Will submit later
+      - Need assistance
+      required: true
+    - id: 11
+      name: guest_names
+      label: Guest Names
+      hint: List attendees if known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: table_preferences
+      label: Table Location Preference
+      hint: Seating request
+      type: select_one
+      options:
+      - Near stage
+      - Near entrance
+      - Near bar
+      - Quiet area
+      - No preference
+      required: false
+    - id: 13
+      name: dietary_requirements
+      label: Dietary Requirements for Table
+      hint: Guest restrictions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: wine_package
+      label: Wine Package Addition
+      hint: Premium wine
+      type: select_one
+      options:
+      - Yes add wine package
+      - No thank you
+      required: false
+    - id: 15
+      name: additional_donation
+      label: Additional Table Donation
+      hint: Extra support
+      type: select_one
+      options:
+      - No additional
+      - $500
+      - $1000
+      - $2500
+      - $5000
+      - Other amount
+      required: false
+    - id: 16
+      name: recognition_preference
+      label: Recognition Preference
+      hint: Program listing
+      type: select_one
+      options:
+      - List individual name
+      - List company name
+      - List both
+      - Remain anonymous
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - Invoice request
+      required: true
+    - id: 18
+      name: host_commitment
+      label: Do You Commit to Filling Your Table
+      hint: Attendance guarantee
+      type: select_one
+      options:
+      - Yes I commit
+      - Will try my best
+      - Need flexibility
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Special requests
+      type: text
+      options: []
+      required: false

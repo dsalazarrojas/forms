@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Aftercare Guidelines Acknowledgment
+    pages:
+    - id: 1
+      name: i_agree_with_the_above_guidelines
+      label: i_agree_with_the_above_guidelines
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: i_agree_to_provide_contact_info
+      label: i_agree_to_provide_contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: agree_to_tattoo_artist_using
+      label: agree_to_tattoo_artist_using
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: tattoo_artist
+      label: tattoo_artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: i_agree_with_the_above
+      label: i_agree_with_the_above
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: i_understand_and_agree_to_the_above
+      label: i_understand_and_agree_to_the_above
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_completion
+      label: date_of_completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_completion
+      label: time_of_completion
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: tattoo_completion_time
+      label: tattoo_completion_time
+      hint: null
+      type: number
+      options: []
+      required: true

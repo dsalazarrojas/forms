@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Channel Trustworthiness Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: Donation Channel Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: channel_type
+      label: donation_channel
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      required: true
+    - id: 3
+      name: channel_name
+      label: channel_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: channel_url
+      label: channel_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: channel_description
+      label: channel_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trustworthiness
+      label: trustworthiness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Low''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: true
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Communicative''}'
+      - '{''label'': ''Somewhat Communicative''}'
+      - '{''label'': ''Highly Communicative''}'
+      required: true
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false

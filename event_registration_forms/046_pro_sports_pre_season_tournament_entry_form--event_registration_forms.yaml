@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Sports Pre Season Tournament Entry Form
+    pages:
+    - id: 1
+      name: team_info
+      label: Team Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_info
+      label: Athlete Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: division
+      label: Division
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: division_info
+      label: Division Info
+      hint: Select a division for your team or athlete
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: team_type
+      label: Team Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: team_type_info
+      label: Team Type Info
+      hint: Select a team type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: division_details
+      label: Division Details
+      hint: Select division details
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: team_league
+      label: Team League
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_league_info
+      label: Team League Info
+      hint: Select a team league
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: team_level
+      label: Team Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_level_info
+      label: Team Level Info
+      hint: Select team level
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 16
+      name: team_tourney
+      label: Team Tourney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_tourney_info
+      label: Team Tourney Info
+      hint: Select team tourney
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: team_status
+      label: Team Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_status_info
+      label: Team Status Info
+      hint: Select team status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: team_manager
+      label: Team Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_manager_info
+      label: Team Manager Info
+      hint: Select team manager
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: athlete_tourney
+      label: Athlete Tourney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: athlete_tourney_info
+      label: Athlete Tourney Info
+      hint: Select athlete tourney
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: athlete_level
+      label: Athlete Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: athlete_level_info
+      label: Athlete Level Info
+      hint: Select athlete level
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true

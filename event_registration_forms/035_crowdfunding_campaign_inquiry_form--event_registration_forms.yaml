@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Campaign Inquiry Form
+    pages:
+    - id: 1
+      name: campaign_title
+      label: Campaign Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_description
+      label: Campaign Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporter_name
+      label: Supporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporter_email
+      label: Supporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: campaign_link
+      label: Campaign Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporter_phone
+      label: Supporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: currency_donated
+      label: Currency Donated
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 11
+      name: frequency_donated
+      label: Frequency Donated
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 12
+      name: supporter_fund_raising_method
+      label: Supporter Fund Raising Method
+      hint: null
+      type: select_one
+      options:
+      - Crowdfunding
+      - Direct Donation
+      - Other
+      required: false
+    - id: 13
+      name: supporter_investing_method
+      label: Supporter Investing Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Social Media
+      required: false
+    - id: 14
+      name: supporter_loyalty_program
+      label: Supporter Loyalty Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

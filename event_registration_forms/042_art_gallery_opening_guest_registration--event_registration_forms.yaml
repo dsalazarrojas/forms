@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Opening Guest Registration
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation and tickets
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: affiliation
+      label: Affiliation
+      hint: Organization or company
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of guests
+      hint: Total attendees in your party
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: access_needs
+      label: Access needs
+      hint: Accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_date
+      label: RSVP date
+      hint: Date of RSVP submission
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: vip_request
+      label: VIP request
+      hint: Indicate if VIP support is needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: photo_permission
+      label: Photo permission
+      hint: Consent to be photographed at opening
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Any other notes for organizers
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false

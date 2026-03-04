@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reimbursement Agreement
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_expense_claimed
+      label: Total Expense Claimed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Travel
+      - Entertainment
+      - Miscellaneous
+      required: false
+    - id: 7
+      name: reimbursed_amount
+      label: Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: false

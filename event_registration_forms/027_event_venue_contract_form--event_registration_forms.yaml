@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Venue Contract Form
+    pages:
+    - id: 1
+      name: event_venue_contract_form
+      label: Event Venue Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_venue_booking_details
+      label: Event Venue Booking Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 3
+      name: event_venue_contract_notes
+      label: Event Venue Contract Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: venue_manager_email
+      label: Venue Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: event_venue_contract_date
+      label: Event Venue Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_venue_contract_time
+      label: Event Venue Contract Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_venue_contract_duration
+      label: Event Venue Contract Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_venue_contract_price
+      label: Event Venue Contract Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_venue_contract_status
+      label: Event Venue Contract Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false
+    - id: 10
+      name: event_venue_contract_form_submitted_by
+      label: Event Venue Contract Form Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User'', ''value'': ''user''}'
+      - '{''label'': ''Administrator'', ''value'': ''admin''}'
+      - '{''label'': ''External'', ''value'': ''external''}'
+      required: false

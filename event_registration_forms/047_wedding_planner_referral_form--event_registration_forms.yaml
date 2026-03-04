@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planner Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: referral_type
+      label: referral_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''client''}'
+      - '{''value'': ''vendor''}'
+      - '{''value'': ''both''}'
+      required: false
+    - id: 8
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false

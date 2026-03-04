@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Brainstorming Session Booking Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_time
+      label: Select Date & Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      required: false
+    - id: 3
+      name: brainstorming_session_topic
+      label: Brainstorming Session Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing Ideas
+      - Product Development
+      - Team Building
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

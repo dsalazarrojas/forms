@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Show Leave Of Absence Request
+    pages:
+    - id: 1
+      name: fashion_show_leave_of_absence_request
+      label: Show Leave Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: show_name
+      label: Show Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - In Production
+      - Pre-Production
+      - Post-Production
+      - Not Yet Started
+      required: false
+    - id: 7
+      name: production_dates
+      label: Production Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Show
+      - Show Week
+      - Post-Show
+      required: false
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Time Off
+      - Schedule Change
+      - Request for Additional Time Off
+      required: false
+    - id: 12
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beef Cut Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Shipping or Pickup Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: beef_type
+      label: Beef Type
+      hint: Type of beef
+      type: select_one
+      options:
+      - Grass-Fed
+      - Grain-Fed
+      - Grass-Finished
+      - Organic
+      - Wagyu
+      - Angus
+      - Hereford
+      required: true
+    - id: 7
+      name: animal_weight
+      label: Approximate Animal Weight
+      hint: Weight in pounds if known
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cut_preference
+      label: Cut Preference
+      hint: How would you like your beef cut
+      type: select_one
+      options:
+      - Standard Cut Package
+      - Custom Cut Package
+      - Bulk Ground Only
+      - Roasts Only
+      - Steaks Only
+      - Mixed Package
+      required: true
+    - id: 9
+      name: steak_thickness
+      label: Steak Thickness Preference
+      hint: Preferred thickness for steaks
+      type: select_one
+      options:
+      - 1 inch
+      - 1.25 inches
+      - 1.5 inches
+      - 2 inches
+      - Butcher choice
+      required: true
+    - id: 10
+      name: roast_size
+      label: Roast Size Preference
+      hint: Preferred size for roasts
+      type: select_one
+      options:
+      - 2-3 lbs
+      - 3-4 lbs
+      - 4-5 lbs
+      - 5+ lbs
+      - Butcher choice
+      required: true
+    - id: 11
+      name: ground_beef_amount
+      label: Ground Beef Amount
+      hint: How much ground beef do you want
+      type: select_one
+      options:
+      - None
+      - 5-10 lbs
+      - 10-20 lbs
+      - 20-30 lbs
+      - 30+ lbs
+      - All trimmings as ground
+      required: true
+    - id: 12
+      name: ground_beef_fat_ratio
+      label: Ground Beef Fat Ratio
+      hint: Preferred lean to fat ratio
+      type: select_one
+      options:
+      - 90/10 (Lean)
+      - 85/15 (Regular)
+      - 80/20 (Standard)
+      - 75/25 (Fatty)
+      - Butcher choice
+      required: false
+    - id: 13
+      name: steak_cuts
+      label: Steak Cuts Desired
+      hint: Select steak cuts you want
+      type: select_multiple
+      options:
+      - Ribeye Steaks
+      - New York Strip Steaks
+      - Filet Mignon
+      - T-Bone Steaks
+      - Porterhouse Steaks
+      - Sirloin Steaks
+      - Flat Iron Steaks
+      - Skirt Steaks
+      - Flank Steaks
+      - Chuck Steaks
+      - None
+      required: true
+    - id: 14
+      name: roast_cuts
+      label: Roast Cuts Desired
+      hint: Select roast cuts you want
+      type: select_multiple
+      options:
+      - Chuck Roast
+      - Rump Roast
+      - Bottom Round Roast
+      - Top Round Roast
+      - Eye of Round Roast
+      - Sirloin Tip Roast
+      - Prime Rib Roast
+      - Brisket
+      - None
+      required: true
+    - id: 15
+      name: additional_cuts
+      label: Additional Cuts
+      hint: Select additional cuts
+      type: select_multiple
+      options:
+      - Short Ribs
+      - Beef Ribs
+      - Oxtail
+      - Shank Cross Cuts
+      - Soup Bones
+      - Marrow Bones
+      - Liver
+      - Heart
+      - Tongue
+      - Other Organ Meats
+      - None
+      required: false
+    - id: 16
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How should beef be packaged
+      type: select_one
+      options:
+      - Standard Butcher Paper
+      - Vacuum Sealed
+      - Mix of Both
+      - Freezer Paper
+      required: true
+    - id: 17
+      name: aging_preference
+      label: Aging Preference
+      hint: Would you like beef aged
+      type: select_one
+      options:
+      - No Aging
+      - Wet Aged 14 days
+      - Wet Aged 21 days
+      - Wet Aged 28 days
+      - Dry Aged 21 days
+      - Dry Aged 28 days
+      - Dry Aged 45 days
+      required: true
+    - id: 18
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Farm Pickup
+      - Local Delivery
+      - Shipping
+      - Farmers Market Pickup
+      required: true
+    - id: 19
+      name: processing_fee
+      label: Processing Fee Acknowledgment
+      hint: I understand there is a processing fee
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 20
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Has the deposit been paid
+      type: select_one
+      options:
+      - Yes paid
+      - Not yet
+      - Paying with this order
+      required: true
+    - id: 21
+      name: estimated_total
+      label: Estimated Total
+      hint: Estimated cost based on weight
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special cutting or packaging instructions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_notes
+      label: Order Notes
+      hint: Additional information about your order
+      type: text
+      options: []
+      required: false

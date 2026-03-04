@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policy Improvement Feedback Survey
+    pages:
+    - id: 1
+      name: policy_improvement_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_areas_of_improvement
+      label: policy_areas_of_improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 3
+      name: policy_impact_areas
+      label: policy_impact_areas
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 4
+      name: current_process
+      label: current_process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_process_1
+      label: current_process_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proposed_process
+      label: proposed_process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposed_process_1
+      label: proposed_process_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_improvement_process
+      label: policy_improvement_process
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option1''}'
+      - '{''id'': 2, ''label'': ''option2''}'
+      - '{''id'': 3, ''label'': ''option3''}'
+      required: false
+    - id: 9
+      name: policy_improvement_process_1
+      label: policy_improvement_process_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option1''}'
+      - '{''id'': 2, ''label'': ''option2''}'
+      - '{''id'': 3, ''label'': ''option3''}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_improvement_areas
+      label: policy_improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_areas
+      label: policy_areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 14
+      name: policy_areas_1
+      label: policy_areas_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: policy_areas_2
+      label: policy_areas_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 20
+      name: policy_impact_areas_1
+      label: policy_impact_areas_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 21
+      name: policy_areas_3
+      label: policy_areas_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 22
+      name: policy_areas_4
+      label: policy_areas_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 23
+      name: policy_impact_areas_2
+      label: policy_impact_areas_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 24
+      name: policy_areas_5
+      label: policy_areas_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false
+    - id: 25
+      name: policy_areas_6
+      label: policy_areas_6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''area1''}'
+      - '{''id'': 2, ''label'': ''area2''}'
+      - '{''id'': 3, ''label'': ''area3''}'
+      required: false

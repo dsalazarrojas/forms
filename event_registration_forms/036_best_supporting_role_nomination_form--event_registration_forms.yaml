@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Supporting Role Nomination Form
+    pages:
+      - id: 1
+        name: nominator_info_header
+        label: -- Nominator Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_department
+        label: Your Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: nominator_email_address
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: nominee_info_header
+        label: -- Nominee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: nominee_full_name
+        label: Nominee Full Name
+        hint: The person you are nominating
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: nominee_role_dept
+        label: Nominee Department or Role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: nominator_relationship_to_nominee
+        label: Your Relationship to the Nominee
+        hint: null
+        type: select_one
+        options:
+          - Colleague or Peer
+          - Immediate Supervisor
+          - Direct Report
+          - Project Partner
+          - Other
+        required: true
+      - id: 9
+        name: support_role_evaluation_header
+        label: -- Support Role Evaluation --
+        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: reliability_rating_score
+        label: Reliability and Dependability
+        hint: Consistently meets commitments
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 11
+        name: teamwork_rating_score
+        label: Teamwork and Collaboration
+        hint: Works well with others to achieve goals
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: initiative_rating_score
+        label: Initiative and Proactiveness
+        hint: Identifies needs and takes action
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: attitude_morale_rating
+        label: Positive Attitude and Morale Impact
+        hint: Uplifts the team environment
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: project_success_impact_rating
+        label: Impact on Project Success
+        hint: Contribution to final outcomes
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: nomination_support_narrative_header
+        label: -- Nomination Support --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: specific_project_contribution
+        label: Describe a specific project where this person provided critical support
+        hint: Details on their contribution and its necessity
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: ideal_candidate_justification
+        label: What makes this person an ideal candidate for Best Supporting Role
+        hint: Unique strengths or qualities
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: team_support_description
+        label: How do they support the rest of the team on a regular basis
+        hint: Consistent daily actions
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: descriptor_word_input
+        label: One word that describes their supporting style
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: final_submission_header
+        label: -- Final Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: additional_nomination_comments
+        label: Any other comments or anecdotes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: nomination_final_date_stamp
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

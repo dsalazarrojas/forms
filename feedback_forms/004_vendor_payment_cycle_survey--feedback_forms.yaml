@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Payment Cycle Survey
+    pages:
+    - id: 1
+      name: payment_cycle_survey
+      label: What is your experience with payment cycles
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: false
+    - id: 2
+      name: payment_cycle_survey_invoices
+      label: Invoices
+      hint: null
+      type: select_multiple
+      options:
+      - Late
+      - On Time
+      - Unknown
+      required: false
+    - id: 3
+      name: vendor_payments
+      label: Vendor Payments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vendor_payment_cycle_survey
+      label: What is your feedback on vendor payment cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_feedback
+      label: Vendor feedback
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cash
+      - Other
+      required: false
+    - id: 7
+      name: other_payment_method
+      label: Other payment method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_cycle_survey_description
+      label: Describe your experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_cycle_survey_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

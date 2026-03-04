@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Location Finder
+    pages:
+    - id: 1
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_budget
+      label: event_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: venue_type
+      label: venue_type
+      hint: null
+      type: select_one
+      options:
+      - Ballroom, Banquet, Ballroom
+      - Bistro, Restaurant, Cafe
+      - Catering, Kitchen, Food & Beverage
+      - Conference, Event Space, Meeting, Training Room
+      - Garden, Patio
+      - Museum, Historical
+      - Park, Parklet, Plaza
+      - Theater, Amphitheater
+      - Other
+      required: false
+    - id: 5
+      name: event_size
+      label: event_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 6
+      name: parking_available
+      label: parking_available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: planner_name
+      label: planner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: planner_phone
+      label: planner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: planner_email
+      label: planner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: planner_note
+      label: planner_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agency_name
+      label: agency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agency_phone
+      label: agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agency_email
+      label: agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: agency_note
+      label: agency_note
+      hint: null
+      type: note
+      options: []
+      required: false

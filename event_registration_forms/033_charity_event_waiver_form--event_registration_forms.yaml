@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When attending
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: participant_type
+      label: Participant Type
+      hint: Your role
+      type: select_one
+      options:
+      - Attendee
+      - Runner or walker
+      - Volunteer
+      - Performer
+      - Vendor
+      - Other
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Staff should know
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: waiver_statement
+      label: Waiver Acknowledgment
+      hint: Read carefully
+      type: note
+      options:
+      - I understand that participation involves physical activity and potential risks
+      - I voluntarily assume all risks associated with this event
+      - I release the organization from liability for injuries or damages
+      - I agree to follow all event rules and guidelines
+      required: true
+    - id: 14
+      name: liability_release
+      label: Do you release the organization from liability
+      hint: Legal release
+      type: select_one
+      options:
+      - Yes I release
+      - No I do not release
+      required: true
+    - id: 15
+      name: medical_treatment_consent
+      label: Consent to Medical Treatment
+      hint: In case of emergency
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 16
+      name: photo_release
+      label: Photo and Video Release
+      hint: For promotional use
+      type: select_one
+      options:
+      - Yes you may use my image
+      - No do not use my image
+      required: true
+    - id: 17
+      name: minor_participant
+      label: Is participant a minor
+      hint: Under 18
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If minor
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_guardian_signature
+      label: Parent or Guardian Agreement
+      hint: If minor
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      - Not applicable
+      required: false
+    - id: 20
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true

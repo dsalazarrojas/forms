@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curb Adapter Feedback Form
+    pages:
+    - id: 1
+      name: installation_details
+      label: installation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: satisfaction_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_method
+      label: installation_method
+      hint: null
+      type: select_one
+      options:
+      - installed
+      - not_installed
+      - other
+      required: false
+    - id: 5
+      name: installed_by
+      label: installed_by
+      hint: null
+      type: select_multiple
+      options:
+      - installer_company
+      - contractor
+      - self_installation
+      required: false
+    - id: 6
+      name: adapter_model
+      label: adapter_model
+      hint: null
+      type: select_multiple
+      options:
+      - adapter_model_1
+      - adapter_model_2
+      - other
+      required: false
+    - id: 7
+      name: adapter_performance
+      label: adapter_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments_on_performance
+      label: comments_on_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_installed
+      label: date_installed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_installed
+      label: time_installed
+      hint: null
+      type: time
+      options: []
+      required: false

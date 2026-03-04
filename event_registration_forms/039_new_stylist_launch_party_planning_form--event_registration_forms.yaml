@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_stylist_launch_party_planning_form
+    pages:
+    - id: 1
+      name: launch_party_details
+      label: Launch Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_plans
+      label: Business Plans
+      hint: Please provide your business plans.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: new_stylist_info
+      label: New Stylist Info
+      hint: null
+      type: select_one
+      options:
+      - New Stylist
+      - Returning Stylist
+      - Referring Stylist
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: launch_party_date
+      label: Launch Party Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: launch_party_time
+      label: Launch Party Time
+      hint: "Please format as HH:MM 24HR time (e.g 13:30)"
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: launch_party_location
+      label: Launch Party Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: launch_party_time_zone
+      label: Launch Party Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Launch Party
+      - Open House
+      - Meet the Team
+      required: true
+    - id: 11
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: true

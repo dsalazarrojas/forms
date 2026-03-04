@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Z Score Understanding Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: Z-Score Basics
+      hint: null
+      type: select_one
+      options:
+      - 1 - 0.5
+      - 1.5 - 2
+      - 2 - 2.5
+      - 2.5 - 3
+      required: false
+    - id: 2
+      name: z_score_formula
+      label: Z-Score Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mean
+      label: Mean
+      hint: The mean value
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: standard_deviation
+      label: Standard Deviation
+      hint: The standard deviation value
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: data_point
+      label: Data Point
+      hint: Select data point
+      type: select_one
+      options:
+      - 1 - 1.5
+      - 2 - 2.5
+      - 3 - 3.5
+      required: false
+    - id: 6
+      name: z_score_value
+      label: Z-Score Value
+      hint: The Z-Score value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: standard_deviation_value
+      label: Standard Deviation Value
+      hint: The standard deviation value
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: standard_deviation_value_2
+      label: Standard Deviation Value 2
+      hint: The standard deviation value 2
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: standard_deviation_value_3
+      label: Standard Deviation Value 3
+      hint: The standard deviation value 3
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mean_value
+      label: Mean Value
+      hint: The mean value
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: mean_value_2
+      label: Mean Value 2
+      hint: The mean value 2
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: mean_value_3
+      label: Mean Value 3
+      hint: The mean value 3
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: z_score
+      label: Z-Score
+      hint: Select Z-Score
+      type: select_one
+      options:
+      - Less than 2
+      - 2 or more
+      required: false
+    - id: 14
+      name: result
+      label: Result
+      hint: Select Result
+      type: select_one
+      options:
+      - Z-Score is less than 2
+      - Z-Score is 2 or more
+      required: false
+    - id: 15
+      name: score
+      label: Score
+      hint: The score
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: answer
+      label: Answer
+      hint: Enter your answer
+      type: select_one
+      options:
+      - '1'
+      - '0'
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: Additional Notes
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: Enter Email
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: Enter Phone
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Reset
+      required: false
+    - id: 22
+      name: quiz_end
+      label: Quiz End
+      hint: null
+      type: select_one
+      options:
+      - Finish
+      - Continue
+      required: false
+    - id: 23
+      name: quiz_end_note
+      label: Quiz End Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: quiz_end_hint
+      label: Quiz End Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

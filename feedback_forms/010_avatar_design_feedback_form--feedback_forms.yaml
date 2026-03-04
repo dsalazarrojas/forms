@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Avatar Design Feedback Form
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Project or Game Title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: avatar_id
+      label: Avatar Name or ID
+      hint: Which character are you reviewing?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_visual_feedback
+      label: -- Visual Feedback --
+      hint: Rate the design from 1-5, where 1 is Poor and 5 is Excellent
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visual_appeal
+      label: Overall Visual Appeal
+      hint: Initial reaction to the design
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: clarity_representation
+      label: Clarity of Representation
+      hint: How well does it represent the character's role or personality?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: color_palette_rating
+      label: Color Palette Rating
+      hint: Effectiveness of color choices
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: design_style
+      label: Visual Style and Aesthetic
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Realistic and Detailed
+      - Stylized and Cartoonish
+      - Minimalist and Clean
+      - Cyberpunk and Futuristic
+      - High-Fantasy and Ornate
+      required: true
+    - id: 11
+      name: favorite_features
+      label: Key Features Liked
+      hint: What parts are most successful?
+      type: select_multiple
+      options:
+      - Head and Hair
+      - Facial Expression
+      - Clothing and Outfits
+      - Accessories and Equipment
+      - Pose and Silhouettes
+      required: false
+    - id: 12
+      name: areas_to_improve
+      label: Areas to Improve
+      hint: What would you change or fix?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: overall_rating_scale
+      label: Overall Rating
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: production_readiness
+      label: Ready for Production?
+      hint: Final design status
+      type: select_one
+      options:
+      - Yes, Ready
+      - Needs Minor Tweaks
+      - Needs Major Redesign
+      - On Hold
+      required: true
+    - id: 15
+      name: additional_feedback_text
+      label: Additional Feedback
+      hint: Any other comments or suggestions
+      type: text
+      options: []
+      required: false

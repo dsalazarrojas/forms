@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Dressing Room Access Request Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_role
+      label: Role or Position
+      hint: Your role at the event
+      type: select_one
+      options:
+      - Artist
+      - Band Member
+      - Manager or Agent
+      - Crew Member
+      - Security
+      - Staff
+      - Media
+      - VIP Guest
+      - Other
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the event or show
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When is the event?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Name of the artist involved
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: performance_time
+      label: Performance Time
+      hint: When is the performance scheduled?
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Access Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: access_type
+      label: Type of Access Requested
+      hint: What access do you need?
+      type: select_one
+      options:
+      - Artist dressing room access
+      - Green room access
+      - VIP lounge access
+      - Backstage access
+      - Full venue access
+      required: true
+    - id: 13
+      name: access_duration
+      label: Duration of Access Needed
+      hint: How long do you need access?
+      type: select_one
+      options:
+      - 1-2 hours before performance
+      - 2-4 hours before performance
+      - Full day of event
+      - Night of event only
+      - Multiple days
+      - Flexible
+      required: true
+    - id: 14
+      name: reason_for_access
+      label: Reason for Access Request
+      hint: Why do you need this access?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: is_group
+      label: Are You Part of a Group?
+      hint: Are others coming with you?
+      type: select_one
+      options:
+      - No, I am alone
+      - Yes, I am with a group
+      required: true
+    - id: 17
+      name: group_size
+      label: Group Size
+      hint: How many people in total?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: group_members
+      label: Group Member Names and Roles
+      hint: List names and roles of other people
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Security and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: security_clearance
+      label: Have You Been Security Cleared?
+      hint: Background check or security vetting
+      type: select_one
+      options:
+      - Yes, I have been cleared
+      - No, I have not been cleared
+      - Currently pending
+      required: true
+    - id: 21
+      name: credentials_provided
+      label: Do You Have Valid Identification?
+      hint: ID card or credentials for verification
+      type: select_one
+      options:
+      - Yes, I have valid ID
+      - No, I do not have ID
+      - ID will be provided at event
+      required: true
+    - id: 22
+      name: section_header_6
+      label: -- Policy Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: policy_acknowledgment
+      label: I Acknowledge Dressing Room Access Policies
+      hint: You agree to follow venue policies
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not Acknowledge
+      required: true
+    - id: 24
+      name: confidentiality_agreement
+      label: I Agree to Maintain Confidentiality
+      hint: Protect artist privacy and security
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: submission_date
+      label: Date of This Request
+      hint: When are you submitting this request?
+      type: date
+      options: []
+      required: true

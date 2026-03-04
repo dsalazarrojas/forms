@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_instructor_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: preferred_shift
+      label: Preferred Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_days
+      label: Preferred Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relation
+      label: Relation
+      hint: null
+      type: select_one
+      options:
+      - mother
+      - father
+      - sister
+      - brother
+      - other
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

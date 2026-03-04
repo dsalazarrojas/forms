@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Party Logistics Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person making the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: For coordination and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number for the event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_or_team
+      label: Department or Team Name
+      hint: Which group is hosting the party
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name or Party Theme
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Proposed Event Date
+      hint: Preferred date for the party
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: alternate_dates
+      label: Alternate dates if primary unavailable
+      hint: 1-2 backup dates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Preferred Event Time
+      hint: Start time for the party
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: duration
+      label: Expected Duration
+      hint: How long will the party last
+      type: select_one
+      options:
+      - 1-2 hours
+      - 2-3 hours
+      - 3-4 hours
+      - 4-5 hours
+      - 5+ hours
+      required: true
+    - id: 10
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: Total headcount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: venue_preference
+      label: Venue Preference
+      hint: null
+      type: select_one
+      options:
+      - On-site - company location
+      - Off-site - external venue
+      - Hybrid - both locations
+      - Virtual
+      - Flexible - open to suggestions
+      required: true
+    - id: 12
+      name: venue_location
+      label: Specific venue location or address
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: catering_needed
+      label: Catering is needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 14
+      name: catering_preferences
+      label: Catering preferences
+      hint: Dietary restrictions, cuisine type, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: beverage_service
+      label: Beverage service needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - alcoholic beverages
+      - Yes - non-alcoholic only
+      - 'No'
+      - Undecided
+      required: true
+    - id: 16
+      name: decoration_level
+      label: Decoration level desired
+      hint: How elaborate should decorations be
+      type: select_one
+      options:
+      - Minimal
+      - Simple
+      - Moderate
+      - Elaborate
+      - Professional event design
+      required: false
+    - id: 17
+      name: entertainment_needed
+      label: Entertainment or activities needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 18
+      name: entertainment_details
+      label: Entertainment preferences
+      hint: Music, games, activities, speaker, DJ, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: audio_visual_needs
+      label: Audio-visual or technology needs
+      hint: Microphone, projector, sound system, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parking_requirements
+      label: Parking availability needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited
+      required: false
+    - id: 21
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Wheelchair access, accessible facilities, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_estimate
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      required: true
+    - id: 23
+      name: special_requests
+      label: Special requests or considerations
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

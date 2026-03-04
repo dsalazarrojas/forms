@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Expense Details Form
+    pages:
+    - id: 1
+      name: wedding_expense_details_form
+      label: wedding_expense_details_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: categories
+      label: categories
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Wedding Expenses''}'
+      - '{1: ''Honeymoon''}'
+      - '{2: ''Venue''}'
+      - '{3: ''Decorations''}'
+      required: false
+    - id: 3
+      name: date_spent
+      label: date_spent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_spent
+      label: total_spent
+      hint: null
+      type: number
+      options: []
+      required: false

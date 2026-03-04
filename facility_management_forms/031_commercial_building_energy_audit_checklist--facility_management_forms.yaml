@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Building Energy Audit Checklist
+    pages:
+    - id: 1
+      name: auditor_name
+      label: Auditor Name
+      hint: Name of the energy auditor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: Date of energy audit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: building_name
+      label: Building Name
+      hint: Name or identifier of building
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_address
+      label: Building Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_type
+      label: Building Type
+      hint: Type of commercial building
+      type: select_one
+      options:
+      - Office Building
+      - Retail Store
+      - Warehouse
+      - Restaurant
+      - Hotel
+      - Hospital
+      - School
+      - Mixed Use
+      required: true
+    - id: 6
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Building size in square feet
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_header_hvac_system
+      label: -- HVAC System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hvac_age
+      label: HVAC System Age
+      hint: Age of HVAC system
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-15 years
+      - 15-20 years
+      - 20+ years
+      required: true
+    - id: 10
+      name: hvac_condition
+      label: HVAC Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 11
+      name: hvac_maintenance
+      label: Regular Maintenance
+      hint: Is maintenance performed regularly
+      type: select_one
+      options:
+      - Yes Regular
+      - Sometimes
+      - No Rarely
+      required: true
+    - id: 12
+      name: thermostat_type
+      label: Thermostat Type
+      hint: Type of thermostat control
+      type: select_one
+      options:
+      - Manual
+      - Programmable
+      - Smart Thermostat
+      - Building Automation
+      required: true
+    - id: 13
+      name: section_header_lighting
+      label: -- Lighting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_lighting_type
+      label: Primary Lighting Type
+      hint: Main lighting technology
+      type: select_one
+      options:
+      - LED
+      - Fluorescent
+      - Incandescent
+      - Halogen
+      - Mixed
+      required: true
+    - id: 15
+      name: lighting_controls
+      label: Lighting Controls
+      hint: What controls are in place
+      type: select_multiple
+      options:
+      - Manual Switches
+      - Occupancy Sensors
+      - Daylight Sensors
+      - Timers
+      - Dimmers
+      - None
+      required: true
+    - id: 16
+      name: natural_light_usage
+      label: Natural Light Usage
+      hint: How much natural light is utilized
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Minimal
+      - None
+      required: true
+    - id: 17
+      name: section_header_insulation
+      label: -- Insulation and Envelope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: insulation_quality
+      label: Insulation Quality
+      hint: Rate insulation effectiveness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unknown
+      required: true
+    - id: 19
+      name: window_type
+      label: Window Type
+      hint: Type of windows installed
+      type: select_one
+      options:
+      - Single Pane
+      - Double Pane
+      - Triple Pane
+      - Low-E Coated
+      - Tinted
+      required: true
+    - id: 20
+      name: air_leakage
+      label: Air Leakage
+      hint: Observed air leakage
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Moderate
+      - Significant
+      - Severe
+      required: true
+    - id: 21
+      name: section_header_water_heating
+      label: -- Water Heating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: water_heater_type
+      label: Water Heater Type
+      hint: Type of water heating system
+      type: select_one
+      options:
+      - Electric
+      - Gas
+      - Tankless
+      - Solar
+      - Heat Pump
+      required: true
+    - id: 23
+      name: water_heater_age
+      label: Water Heater Age
+      hint: Age of water heater
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-15 years
+      - 15+ years
+      required: true
+    - id: 24
+      name: section_header_equipment
+      label: -- Equipment and Appliances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: equipment_energy_star
+      label: Energy Star Equipment
+      hint: Percentage of Energy Star rated equipment
+      type: select_one
+      options:
+      - 0-25%
+      - 26-50%
+      - 51-75%
+      - 76-100%
+      - Unknown
+      required: true
+    - id: 26
+      name: section_header_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: energy_efficiency_rating
+      label: Overall Energy Efficiency Rating
+      hint: Current building rating
+      type: select_one
+      options:
+      - A - Excellent
+      - B - Good
+      - C - Average
+      - D - Below Average
+      - F - Poor
+      required: true
+    - id: 28
+      name: recommended_improvements
+      label: Recommended Improvements
+      hint: List priority improvements
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: estimated_savings
+      label: Estimated Annual Savings
+      hint: Potential savings from improvements
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

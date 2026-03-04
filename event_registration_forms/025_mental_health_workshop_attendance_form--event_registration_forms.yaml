@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Workshop Attendance Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mental_health_specialty
+      label: mental health specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: workshop_name
+      label: workshop name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: workshop_date
+      label: workshop date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: workshop_time
+      label: workshop time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workshop_location
+      label: workshop location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_id
+      label: event id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''chatjimmy''}'
+      - '{''id'': 101, ''label'': ''chatjimmy 2''}'
+      - '{''id'': 102, ''label'': ''chatjimmy 3''}'
+      required: false
+    - id: 13
+      name: participant_survey
+      label: participant survey
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 200, ''label'': True}'
+      - '{''id'': 201, ''label'': False}'
+      - '{''id'': 202, ''label'': ''unsure''}'
+      required: false
+    - id: 14
+      name: workshop_length
+      label: workshop length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: participant_status
+      label: participant status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 300, ''label'': ''present''}'
+      - '{''id'': 301, ''label'': ''absent''}'
+      - '{''id'': 302, ''label'': ''declined''}'
+      required: false
+    - id: 16
+      name: participant_status_note
+      label: participant status note
+      hint: null
+      type: note
+      options: []
+      required: false

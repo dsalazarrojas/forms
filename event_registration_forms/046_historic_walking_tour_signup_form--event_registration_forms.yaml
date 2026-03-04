@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: historicWalkingTourSignupForm
+    pages:
+    - id: 1
+      name: tourdate
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: participantname
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participantphone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participantaddress
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participantnotes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tourscheduling
+      label: Tour Scheduling
+      hint: null
+      type: select_one
+      options:
+      - morning walk 9am-11am
+      - afternoon walk 2pm-4pm
+      - all day tour 9am-4pm
+      required: true
+    - id: 8
+      name: participantcount
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participanttype
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Adult
+      - Child (5-12)
+      - Senior
+      required: false
+    - id: 10
+      name: participantage
+      label: Age of Participant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participantagegroup
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 5-12
+      - 13-59
+      - 60+
+      required: false

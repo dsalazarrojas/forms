@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Survey Results Evaluation Form
+    pages:
+    - id: 1
+      name: survey_results_page
+      label: Survey Results Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_page
+      label: Evaluation Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_page
+      label: Feedback Page
+      hint: Provide feedback about this form
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info_page
+      label: Contact Info Page
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 5
+      name: comments_page
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_page
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Save Draft''}'
+      - '{''id'': 3, ''label'': ''Cancel''}'
+      required: true
+    - id: 7
+      name: date_page
+      label: Date
+      hint: Date of the field survey
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_page
+      label: Time
+      hint: Time of the field survey
+      type: time
+      options: []
+      required: false

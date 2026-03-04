@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Exam Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: exam_date
+      label: Exam Date
+      hint: Date of examination
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: presenting_complaint
+      label: Presenting Complaint
+      hint: Main reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pain_scale
+      label: Pain Scale
+      hint: Rate pain 0 to 10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: range_of_motion
+      label: Range of Motion Findings
+      hint: Notes on mobility and limitations
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: neurologic_findings
+      label: Neurologic Findings
+      hint: Reflexes, sensation, motor strength notes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: diagnosis
+      label: Diagnosis
+      hint: Clinician's working diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: Recommended treatment and follow up
+      type: text
+      options: []
+      required: true

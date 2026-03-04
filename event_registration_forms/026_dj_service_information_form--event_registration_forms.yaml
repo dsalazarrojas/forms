@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Service Information Form
+    pages:
+    - id: 1
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - DJ Set
+      - Event Party
+      required: false
+    - id: 2
+      name: dj_name
+      label: dj_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: music_style
+      label: music_style
+      hint: null
+      type: select_multiple
+      options:
+      - Rock
+      - Pop
+      - Hip Hop
+      - Classical
+      - Folk
+      - Jazz
+      required: false
+    - id: 10
+      name: equipment
+      label: equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Birthday
+      - Corporate Event
+      - Graduation
+      - Other
+      required: false
+    - id: 12
+      name: music_preferences
+      label: music_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Upbeat
+      - Slow
+      - Mix
+      - Other
+      required: false
+    - id: 13
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Dance
+      - Play
+      - MC
+      required: false
+    - id: 15
+      name: special_request
+      label: special_request
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: room_count_survey
+    pages:
+    - id: 1
+      name: event_type
+      label: What type of event is this?
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Meeting
+      - Wedding
+      - Other
+      required: false
+    - id: 2
+      name: event_size
+      label: How many attendees are attending the event?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: room_type
+      label: What type of room will be used for the event?
+      hint: null
+      type: select_multiple
+      options:
+      - Large Meeting Room
+      - Small Meeting Room
+      - Breakout Room
+      - Other
+      required: false
+    - id: 4
+      name: room_availability
+      label: How many rooms are available at the venue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: room_usage
+      label: How many rooms are you planning to use?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: room_capacity
+      label: What is the maximum capacity of the main event room?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: other_rooms
+      label: Are there any other rooms that need to be reserved?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: special_requests
+      label: Is there anything special the venue needs to know about this event?
+      hint: null
+      type: note
+      options: []
+      required: false

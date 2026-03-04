@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Communication Form
+    pages:
+    - id: 1
+      name: emergency_communication_form
+      label: Emergency Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false

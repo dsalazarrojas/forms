@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Course Feedback Poll
+    pages:
+    - id: 1
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: select_one
+      options:
+      - Highly rated
+      - Average
+      - Below average
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attended_workshop
+      label: Attended Workshop
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: course_material
+      label: Course Material Provided
+      hint: null
+      type: select_one
+      options:
+      - Sufficient
+      - Not Sufficient
+      required: false
+    - id: 6
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: food_service
+      label: Food Service
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Not Satisfied
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

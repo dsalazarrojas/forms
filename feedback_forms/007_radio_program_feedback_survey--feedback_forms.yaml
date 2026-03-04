@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radio Program Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How often do you tune in to our radio programs?
+      hint: Please select your favorite option from the list
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 2
+      name: frequency
+      label: How often do you listen to our radio programs?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_program
+      label: What is your favorite program on our radio station?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_idea
+      label: Do you have any suggestions on how we could improve our programs?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: What is your contact information?
+      hint: Your contact information will be used for follow up.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address will be used for follow up.
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save as draft
+      - Cancel
+      required: false

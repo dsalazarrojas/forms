@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partners Appreciation Day RSVP
+    pages:
+    - id: 1
+      name: rsvp_date
+      label: RSVP Date
+      hint: Date of this RSVP
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Your Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Company you represent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Appreciation day date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rsvp_response
+      label: Will You Attend?
+      hint: Your attendance confirmation
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many will you bring?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_details
+      label: Guest Details
+      hint: Names and titles of guests
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meal_preference
+      label: Meal Preference
+      hint: What type of meal?
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Meat-based
+      - Seafood
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: partnership_year
+      label: Years as Business Partner
+      hint: How long have we partnered?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: false
+    - id: 15
+      name: appreciation_comment
+      label: What You Appreciate Most
+      hint: What value do we bring?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: activity_interests
+      label: Activity Interests
+      hint: What activities interest you?
+      type: select_multiple
+      options:
+      - Networking
+      - Food and Drinks
+      - Entertainment
+      - Raffles/Prizes
+      - Business Updates
+      - Awards Recognition
+      required: false
+    - id: 17
+      name: plus_one_name
+      label: Plus-One Name
+      hint: Name of additional guest
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: plus_one_email
+      label: Plus-One Email
+      hint: Email of additional guest
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requests?
+      type: text
+      options: []
+      required: false

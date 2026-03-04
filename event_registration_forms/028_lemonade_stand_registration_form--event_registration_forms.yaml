@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lemonade Stand Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_guardian_details
+      label: Participant Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_permission
+      label: Participant Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: participant_permission_note
+      label: Participant Permission Note
+      hint: null
+      type: note
+      options: []
+      required: false

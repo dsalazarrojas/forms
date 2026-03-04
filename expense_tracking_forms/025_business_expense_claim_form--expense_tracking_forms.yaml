@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Claim Form
+    pages:
+    - id: 1
+      name: employee_section
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager/Supervisor Name
+      hint: Your direct manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claim_section
+      label: -- Claim Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: claim_date
+      label: Claim Date
+      hint: Date submitting the claim
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: expense_period_start
+      label: Expense Period Start Date
+      hint: Start date of expenses
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expense_period_end
+      label: Expense Period End Date
+      hint: End date of expenses
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: project_code
+      label: Project Code (if applicable)
+      hint: Project or cost center code
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_category
+      label: Primary Expense Category
+      hint: Main category of expenses
+      type: select_one
+      options:
+      - Travel
+      - Meals and Entertainment
+      - Office Supplies
+      - Equipment
+      - Training
+      - Client Reimbursement
+      - Other
+      required: true
+    - id: 12
+      name: expense_details_section
+      label: -- Expense Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: expense_description
+      label: Expense Description
+      hint: Describe what was purchased or why
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expense_amount
+      label: Total Expense Amount
+      hint: Total amount to claim
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: business_purpose
+      label: Business Purpose
+      hint: Why was this expense necessary?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_benefit
+      label: Business Benefit
+      hint: How did this benefit the company?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: receipt_status
+      label: Receipt Status
+      hint: Do you have receipts?
+      type: select_one
+      options:
+      - Yes - original
+      - Yes - copy
+      - No receipt available
+      required: true
+    - id: 18
+      name: travel_section
+      label: -- Travel Expenses (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: destination
+      label: Travel Destination
+      hint: Where did you travel?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_dates
+      label: Travel Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_purpose
+      label: Travel Purpose
+      hint: Why was this trip necessary?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How was this paid?
+      type: select_one
+      options:
+      - Personal Funds
+      - Corporate Credit Card
+      - Company Reimbursement
+      - Split Payment
+      required: true
+    - id: 24
+      name: reimbursement_method
+      label: Preferred Reimbursement Method
+      hint: How should you be reimbursed?
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Corporate Card Refund
+      required: false
+    - id: 25
+      name: certification
+      label: I certify these expenses are accurate and business related
+      hint: You must certify to submit
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

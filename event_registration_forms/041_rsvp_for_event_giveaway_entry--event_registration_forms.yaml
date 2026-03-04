@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: RSVP For Event & Giveaway Entry
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 4
+      name: giveaway_entry_status
+      label: Giveaway Entry Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Eligible''}'
+      required: true
+    - id: 5
+      name: event_attendee
+      label: Event Attendee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prophets_name
+      label: Prophet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: giveaway_details
+      label: Giveaway Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 14
+      name: follow_up_2
+      label: Follow-up 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      required: false
+    - id: 15
+      name: follow_up_3
+      label: Follow-up 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      required: false

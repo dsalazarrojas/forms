@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Event Accessibility Survey
+    pages:
+      - id: 1
+        name: attendee_header
+        label: -- Attendee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: event_name
+        label: Event Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: event_date
+        label: Event Date Attended
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: accessibility_header
+        label: -- Physical Accessibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: venue_accessibility
+        label: Venue Accessibility
+        hint: Wheelchair accessibility, elevators, parking, etc.
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 8
+        name: seating_availability
+        label: Seating Availability and Comfort
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 9
+        name: restroom_accessibility
+        label: Restroom Accessibility
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 10
+        name: parking_accessibility
+        label: Parking Accessibility
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent, Not Applicable]
+        required: false
+      - id: 11
+        name: accessibility_challenges
+        label: Any Accessibility Challenges Faced
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: sensory_header
+        label: -- Sensory Accessibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: sound_quality
+        label: Sound Quality and Clarity
+        hint: Microphone, speakers, audio
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 14
+        name: captioning_availability
+        label: Closed Captioning Availability
+        hint: null
+        type: select_one
+        options: [Not Available, Available but Poor Quality, Adequate, Good, Excellent]
+        required: true
+      - id: 15
+        name: sign_language_interpreters
+        label: Sign Language Interpreters Available
+        hint: null
+        type: select_one
+        options: ["Yes", "No", "Not Needed"]
+        required: true
+      - id: 16
+        name: lighting_conditions
+        label: Lighting Conditions
+        hint: Visibility for reading and viewing
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: true
+      - id: 17
+        name: sensory_sensitivities
+        label: Sensory Sensitivities or Issues
+        hint: Lighting, noise, scents, etc.
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: communication_header
+        label: -- Communication Accessibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: material_format
+        label: Format of Event Materials
+        hint: Large print, digital, etc.
+        type: select_one
+        options: [Only Standard Print, Some Alternatives, Multiple Formats Available, Excellent Variety]
+        required: true
+      - id: 20
+        name: advance_information
+        label: Advance Information About Event
+        hint: Was detailed information provided beforehand
+        type: select_one
+        options: [Not Provided, Minimal, Adequate, Comprehensive]
+        required: true
+      - id: 21
+        name: staff_support_header
+        label: -- Staff and Support --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: staff_helpfulness
+        label: Staff Helpfulness and Knowledge
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 23
+        name: accessibility_assistance
+        label: Availability of Accessibility Assistance
+        hint: null
+        type: select_one
+        options: [None Available, Limited, Adequate, Excellent]
+        required: true
+      - id: 24
+        name: improvements_header
+        label: -- Improvement Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: accessibility_suggestions
+        label: Suggestions for Future Event Accessibility
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: would_attend_again
+        label: Would You Attend Future Events
+        hint: null
+        type: select_one
+        options: [Definitely Not, Probably Not, Unsure, Probably Yes, Definitely Yes]
+        required: true

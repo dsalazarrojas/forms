@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก Event Information Unsubscription Form
+    pages:
+    - id: 1
+      name: event_unsubscription_form
+      label: unsubscribe_from_event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: event_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reason_prophets
+      label: reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: confirm_reason
+      label: confirm_reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: confirm
+      label: confirm
+      hint: null
+      type: note
+      options: []
+      required: false

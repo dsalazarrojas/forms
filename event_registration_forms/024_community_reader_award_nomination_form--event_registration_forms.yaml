@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Reader Award Nomination Form
+    pages:
+    - id: 1
+      name: reader_award_intro_note
+      label: -- Community Reader Award Nominations --
+      hint: Nominate someone who has made a significant impact on local literacy and
+        reading!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Nominator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_full_name
+      label: Nominee Full Name
+      hint: The person you are nominating.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_role_selection
+      label: Nominee - s Role in the Community
+      hint: Select the most appropriate option.
+      type: select_one
+      options:
+      - Teacher
+      - Librarian
+      - Student
+      - Volunteer
+      - Parent
+      - Other
+      required: true
+    - id: 7
+      name: nominee_school_organization
+      label: Nominee - s School or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: literacy_promotion_impact
+      label: How has the nominee promoted literacy in our community?
+      hint: Focus on the tangible results of their work.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reading_initiatives_list
+      label: List any specific reading initiatives or programs led by the nominee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominee_passion_desc
+      label: Describe the nominee - s passion for reading and literacy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: exemplary_moment_example
+      label: Provide an example of a time the nominee went above and beyond for a
+        reader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: video_testimonial_interest
+      label: Would you be willing to provide a video testimonial?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: self_nomination_check
+      label: Are you nominating yourself?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: primary_age_group_target
+      label: What age group does the nominee primarily work with?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Pre-K
+      - Elementary School
+      - Middle School
+      - High School
+      - Adults
+      required: true
+    - id: 15
+      name: nomination_deadline_info_note
+      label: -- Nomination Submission Deadline --
+      hint: Nominations must be submitted by Dec 15th.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: nomination_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

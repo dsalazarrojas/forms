@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Studio Customer Journey Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visit_frequency
+      label: Visit frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_experience
+      label: Service experience
+      hint: How would you rate your experience with our services? (e.g. classes, workshops,
+        personal training)
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: staff_interaction
+      label: Staff interaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: facilities_experience
+      label: Facilities experience
+      hint: How would you rate your experience with our facilities?
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall experience
+      hint: How would you rate your overall experience with our studio?
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

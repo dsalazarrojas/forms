@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Tracker
+    pages:
+    - id: 1
+      name: customer_feedback_page
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: Rate our service
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: Why did you choose our service
+      hint: Please enter your reason for selecting our service
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_3
+      label: Did we meet your expectations
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 5
+      name: customer_service_rating
+      label: How would you rate our customer service
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: Is there anything we can improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_question_4
+      label: How would you rate our product or service
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_us
+      label: Would you recommend our service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: note
+      options: []
+      required: false

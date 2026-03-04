@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Reliability Customer Feedback Form
+    pages:
+    - id: 1
+      name: service_reliability_feedback
+      label: Service Reliability Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Highly Satisfied''}'
+      - '{2: ''Moderately Satisfied''}'
+      - '{3: ''Somewhat Dissatisfied''}'
+      - '{4: ''Very Dissatisfied''}'
+      required: false
+    - id: 2
+      name: service_disruption
+      label: Service Disruption
+      hint: Briefly describe how often you experience service disruptions
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_reliability
+      label: Service Reliability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree Nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 5
+      name: service_reliability_rating
+      label: Service Reliability Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email (optional)
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Technical Support
+      - Billing Support
+      - General Support
+      required: false

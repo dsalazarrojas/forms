@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stylist Academy Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Very Likely''}'
+      - '{''option_2'': ''Likely''}'
+      - '{''option_3'': ''Not Likely''}'
+      - '{''option_4'': ''Not at All Likely''}'
+      required: false
+    - id: 4
+      name: improvement
+      label: what_to_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_2
+      label: satisfaction_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recommendation_2
+      label: recommendation_2
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Very Likely''}'
+      - '{''option_2'': ''Likely''}'
+      - '{''option_3'': ''Not Likely''}'
+      - '{''option_4'': ''Not at All Likely''}'
+      required: false
+    - id: 8
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course
+      label: course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

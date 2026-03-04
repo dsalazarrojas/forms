@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traffic Safety Campaign Sponsorship Form
+    pages:
+    - id: 1
+      name: road_safety_initiatives
+      label: Road Safety Initiatives
+      hint: Select one or more road safety initiatives
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Enter a valid number
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Friendship Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: user@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interests
+      label: Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hobbies
+      label: Hobbies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Pizza
+      - Salad
+      required: true
+    - id: 8
+      name: favorite_color
+      label: Favorite Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 9
+      name: favorite_hobby
+      label: Favorite Hobby
+      hint: null
+      type: select_one
+      options:
+      - Reading
+      - Hiking
+      - Music
+      required: false
+    - id: 10
+      name: friend_group
+      label: Friend Group
+      hint: null
+      type: select_one
+      options:
+      - Group A
+      - Group B
+      - Group C
+      required: true
+    - id: 11
+      name: friend_status
+      label: Friend Status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - In a Relationship
+      - In a Relationship and Looking
+      required: true
+    - id: 12
+      name: friend_type
+      label: Friend Type
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 13
+      name: friend_level
+      label: Friend Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 14
+      name: friendship_interests
+      label: Friendship Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: friendship_status
+      label: Friendship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Passive
+      - Casual
+      required: false
+    - id: 16
+      name: favorite_animal
+      label: Favorite Animal
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Horse
+      required: false
+    - id: 17
+      name: favorite_mood
+      label: Favorite Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Angry
+      - Sad
+      required: false

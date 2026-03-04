@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Expense Claim Form
+    pages:
+    - id: 1
+      name: claim_header
+      label: Expense Claim Form
+      hint: Submit conference expenses for reimbursement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claim_date
+      label: Claim Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: claim_reference
+      label: Claim Reference
+      hint: Internal tracking number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_info
+      label: Employee Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: ID number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: Supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: conference_info
+      label: Conference Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: conference_location
+      label: Conference Location
+      hint: City and venue
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: expense_categories
+      label: Expense Categories
+      hint: Itemize your expenses
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: registration_fee
+      label: Registration Fee
+      hint: Conference cost
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: airfare
+      label: Airfare
+      hint: Flight costs
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: ground_transportation
+      label: Ground Transportation
+      hint: Taxi rideshare rental car
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: accommodation
+      label: Accommodation
+      hint: Hotel costs
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: meals
+      label: Meals
+      hint: Food expenses
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: incidentals
+      label: Incidentals
+      hint: Other expenses
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_amount
+      label: Total Amount
+      hint: Sum of all expenses
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_details
+      label: Payment Details
+      hint: Reimbursement info
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reimbursement_method
+      label: Reimbursement Method
+      hint: How to receive payment
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Payroll Addition
+      required: true
+    - id: 25
+      name: bank_account
+      label: Bank Account Number
+      hint: For direct deposit
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: receipts_attached
+      label: Receipts Attached
+      hint: Do you have all receipts
+      type: select_one
+      options:
+      - Yes All Receipts Attached
+      - Some Receipts Missing
+      - No Receipts Available
+      required: true
+    - id: 27
+      name: business_justification
+      label: Business Justification
+      hint: Why this expense was necessary
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: employee_signature
+      label: Employee Signature
+      hint: Certify accuracy
+      type: select_one
+      options:
+      - I Certify This Claim is Accurate
+      - I Do Not Certify
+      required: true
+    - id: 29
+      name: manager_approval
+      label: Manager Approval
+      hint: For manager use
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Denied
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Other information
+      type: text
+      options: []
+      required: false

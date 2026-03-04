@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Satisfaction Poll
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name (Optional)
+      hint: You may respond anonymously
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address (Optional)
+      hint: Provide if you would like to receive a summary of results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+        - Employee
+        - Visitor
+        - Customer
+        - Student
+        - Resident
+        - Other
+      required: true
+    - id: 5
+      name: accessibility_needs
+      label: Do You Have Specific Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Prefer not to say
+      required: true
+    - id: 6
+      name: section_satisfaction_ratings
+      label: -- Accessibility Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction with Accessibility Features
+      hint: null
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+      required: true
+    - id: 8
+      name: physical_accessibility
+      label: Satisfaction with Physical Accessibility (ramps, elevators, signage)
+      hint: null
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        - Not Applicable
+      required: true
+    - id: 9
+      name: digital_accessibility
+      label: Satisfaction with Digital Accessibility (website, apps, documents)
+      hint: null
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        - Not Applicable
+      required: true
+    - id: 10
+      name: communication_accessibility
+      label: Satisfaction with Communication Accessibility (signage, announcements, interpreters)
+      hint: null
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        - Not Applicable
+      required: true
+    - id: 11
+      name: staff_helpfulness
+      label: How Helpful Was Staff in Addressing Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+        - Very Helpful
+        - Helpful
+        - Neutral
+        - Unhelpful
+        - Very Unhelpful
+        - Did not interact with staff
+      required: true
+    - id: 12
+      name: barriers_encountered
+      label: Did You Encounter Any Accessibility Barriers
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Physical barriers (steps, narrow doorways)
+        - Visual barriers (small text, poor contrast)
+        - Auditory barriers (no captions, loud environments)
+        - Digital barriers (inaccessible website or app)
+        - Attitudinal barriers (unhelpful or dismissive staff)
+        - None
+      required: true
+    - id: 13
+      name: improvement_suggestions
+      label: What Accessibility Improvements Would You Like to See
+      hint: Please describe any changes that would improve your experience
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommend_to_others
+      label: Would You Recommend This Facility or Service to Others with Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Not sure
+        - Probably not
+        - Definitely not
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Share any other thoughts about your accessibility experience
+      type: text
+      options: []
+      required: false

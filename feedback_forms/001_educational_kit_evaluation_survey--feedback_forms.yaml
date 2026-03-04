@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Kit Evaluation Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: learning_kit
+      label: Learning Kit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: usefulness
+      label: Useful
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: content_quality
+      label: Content Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 7
+      name: ease_of_use
+      label: Ease of Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ratings
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_end
+      label: End
+      hint: null
+      type: note
+      options: []
+      required: false

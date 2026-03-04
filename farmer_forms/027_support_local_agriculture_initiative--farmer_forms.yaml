@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: support_local_agriculture_initiative
+    pages:
+    - id: 1
+      name: farmer_info
+      label: Farmer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_signups
+      label: Volunteer Signups
+      hint: Enter your details below
+      type: select_multiple
+      options:
+      - Volunteer
+      - Pledge
+      - Donation
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pledge_details
+      label: Pledge Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Relationship Evaluation Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Your Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_section
+      label: -- Relationship Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: relationship_duration
+      label: How long have you been working with us?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 5
+      name: primary_contact_name
+      label: Name of your primary contact at our company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with our relationship?
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 7
+      name: communication_section
+      label: -- Communication and Responsiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: communication_frequency
+      label: How would you rate the frequency of our communication?
+      hint: null
+      type: select_one
+      options:
+      - Too Infrequent
+      - Infrequent
+      - Adequate
+      - Frequent
+      - Too Frequent
+      required: true
+    - id: 9
+      name: communication_effectiveness
+      label: Our communication is clear and effective
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 10
+      name: issue_resolution_section
+      label: -- Issue Resolution and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: issue_resolution_rating
+      label: How effectively do we address and resolve your concerns?
+      hint: null
+      type: select_one
+      options:
+      - Very Ineffective
+      - Ineffective
+      - Adequate
+      - Effective
+      - Very Effective
+      required: true
+    - id: 12
+      name: response_time
+      label: How would you rate our response time to your requests?
+      hint: null
+      type: select_one
+      options:
+      - Very Slow
+      - Slow
+      - Acceptable
+      - Fast
+      - Very Fast
+      required: true
+    - id: 13
+      name: proactive_support
+      label: Do we proactively provide support and suggestions?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 14
+      name: value_and_trust_section
+      label: -- Value and Trust --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: value_rating
+      label: Rate the value we provide to your organization - 1 to 10
+      hint: 1 = No value, 10 = Extremely valuable
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: trust_level
+      label: How much do you trust us as a business partner?
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 17
+      name: product_quality_section
+      label: -- Product or Service Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: quality_rating
+      label: How would you rate the quality of our products or services?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 19
+      name: delivery_consistency
+      label: We consistently meet our delivery commitments
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: referral_and_feedback_section
+      label: -- Referral and Future --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recommend_likelihood
+      label: How likely are you to recommend us to others?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: improvement_suggestions
+      label: What is the most important improvement we could make?
+      hint: Please be specific
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_email
+      label: Your Email Address
+      hint: For follow-up discussions
+      type: email
+      options: []
+      required: false

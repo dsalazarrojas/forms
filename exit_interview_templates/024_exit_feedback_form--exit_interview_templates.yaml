@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: exit_feedback_form
+    pages:
+    - id: 1
+      name: reason_for_leaving
+      label: Why are you leaving
+      hint: null
+      type: select_one
+      options:
+      - left_employer
+      - new_opportunity
+      - personal_reason
+      - health_concerns
+      - other
+      required: false
+    - id: 2
+      name: current_manager
+      label: Current manager
+      hint: Please enter name of current manager
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_performance_rating
+      label: Job performance rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: company_climate
+      label: Company climate
+      hint: null
+      type: select_multiple
+      options:
+      - positive
+      - neutral
+      - negative
+      required: false
+    - id: 5
+      name: communication_with_manager
+      label: Communication with manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_with_team
+      label: Communication with team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_content
+      label: Job content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: text
+      options: []
+      required: false

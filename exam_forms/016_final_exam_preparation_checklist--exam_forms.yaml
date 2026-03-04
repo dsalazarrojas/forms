@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: final_exam_preparation_checklist
+    pages:
+    - id: 1
+      name: study_progress
+      label: study_progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: confidence_level
+      label: confidence_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: focused_revision_plan
+      label: revision_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study_topics
+      label: study_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: study_resources
+      label: study_resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: study_schedule
+      label: study_schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exam_notes
+      label: exam_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: exam_tutors
+      label: tutors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: exam_location
+      label: exam_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: exam_date_confirmation
+      label: confirm_exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: exam_time_confirmation
+      label: confirm_exam_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: final_exam_preparation_checklist_comments
+      label: exam_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: exam_tutors_confirmation
+      label: confirm_tutors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

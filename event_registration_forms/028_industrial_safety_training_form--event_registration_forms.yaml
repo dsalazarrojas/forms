@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Safety Training Form
+    pages:
+    - id: 1
+      name: training_info
+      label: Training Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_info
+      label: Safety Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: trainer_info
+      label: Trainer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_hours
+      label: Participant Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false

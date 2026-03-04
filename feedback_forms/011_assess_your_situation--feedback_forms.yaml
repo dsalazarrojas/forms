@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assess Your Situation
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: situation_type
+      label: Type of Situation
+      hint: What area are you assessing
+      type: select_one
+      options:
+      - Personal Life
+      - Career or Work
+      - Financial
+      - Health and Wellness
+      - Relationships
+      - Education
+      - Business or Organization
+      required: true
+    - id: 5
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this situation
+      type: select_one
+      options:
+      - Not Urgent - Can Wait
+      - Somewhat Urgent - This Week
+      - Urgent - Within 24 Hours
+      - Critical - Immediate Attention
+      required: true
+    - id: 6
+      name: situation_duration
+      label: How Long Has This Been Going On
+      hint: Duration of the situation
+      type: select_one
+      options:
+      - Less than a week
+      - 1 to 4 weeks
+      - 1 to 6 months
+      - 6 months to 1 year
+      - More than 1 year
+      required: true
+    - id: 7
+      name: situation_description
+      label: Describe Your Situation
+      hint: Provide details about what you are facing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact_level
+      label: Impact on Daily Life
+      hint: How much does this affect you
+      type: select_one
+      options:
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Severe Impact
+      required: true
+    - id: 9
+      name: stress_level
+      label: Current Stress Level
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: support_system
+      label: Do You Have a Support System
+      hint: Family friends or colleagues
+      type: select_one
+      options:
+      - Strong Support Network
+      - Some Support
+      - Limited Support
+      - No Support
+      required: true
+    - id: 11
+      name: previous_attempts
+      label: Have You Tried to Address This Before
+      hint: Previous efforts to resolve
+      type: select_one
+      options:
+      - Yes - Successfully
+      - Yes - Unsuccessfully
+      - No - First Time
+      required: true
+    - id: 12
+      name: resources_available
+      label: Resources Available to You
+      hint: What resources can you access
+      type: select_multiple
+      options:
+      - Financial Resources
+      - Time Availability
+      - Professional Help
+      - Family Support
+      - Community Services
+      - Online Resources
+      - None
+      required: true
+    - id: 13
+      name: main_obstacles
+      label: Main Obstacles You Face
+      hint: What is holding you back
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What result do you want
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: timeline_goal
+      label: Timeline for Resolution
+      hint: When do you want this resolved
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - No specific timeline
+      required: true
+    - id: 16
+      name: willingness_to_change
+      label: Willingness to Make Changes
+      hint: How ready are you to take action
+      type: select_one
+      options:
+      - Very Ready - Take Action Now
+      - Ready - Soon
+      - Considering - Need Guidance
+      - Not Sure Yet
+      required: true
+    - id: 17
+      name: preferred_help_type
+      label: Preferred Type of Assistance
+      hint: What kind of help do you want
+      type: select_one
+      options:
+      - Professional Counseling
+      - Financial Advice
+      - Career Coaching
+      - Legal Consultation
+      - Medical Help
+      - Educational Resources
+      - Peer Support
+      required: true
+    - id: 18
+      name: budget_available
+      label: Budget Available for Solutions
+      hint: Approximate amount you can invest
+      type: select_one
+      options:
+      - No Budget - Need Free Options
+      - Limited - Under $500
+      - Moderate - $500 to $2000
+      - Flexible - Over $2000
+      required: false
+    - id: 19
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Video Call
+      required: true
+    - id: 20
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

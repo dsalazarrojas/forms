@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Avalanche Safety Feedback Form
+    pages:
+      - id: 1
+        name: visitor_type
+        label: Visitor Type
+        hint: What best describes your activity today
+        type: select_one
+        options:
+          - Skier
+          - Snowboarder
+          - Backcountry skier
+          - Snowmobiler
+          - Snowshoer
+          - Guide or instructor
+          - Other
+        required: true
+      - id: 2
+        name: visit_date
+        label: Date of Visit
+        hint: When did you visit
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: visit_time
+        label: Time of Visit
+        hint: Approximate time of your activity
+        type: time
+        options: []
+        required: false
+      - id: 4
+        name: area_visited
+        label: Area Visited
+        hint: Which area or run did you use
+        type: select_one
+        options:
+          - Front country/bounds
+          - Sidecountry
+          - Backcountry
+          - Terrain park
+          - Beginner slopes
+          - Intermediate runs
+          - Advanced/expert terrain
+        required: true
+      - id: 5
+        name: experience_level
+        label: Experience Level
+        hint: Your skiing/riding experience
+        type: select_one
+        options:
+          - Beginner (0-2 years)
+          - Intermediate (3-5 years)
+          - Advanced (6-10 years)
+          - Expert (10+ years)
+          - Professional/Instructor
+        required: true
+      - id: 6
+        name: avalanche_training
+        label: Avalanche Safety Training
+        hint: What level of avalanche education do you have
+        type: select_one
+        options:
+          - None
+          - Awareness course only
+          - AIARE 1 or equivalent
+          - AIARE 2 or equivalent
+          - AIARE 3 or higher
+          - Professional guide certification
+        required: true
+      - id: 7
+        name: safety_equipment_carried
+        label: Safety Equipment Carried
+        hint: Select all equipment you had with you
+        type: select_multiple
+        options:
+          - Avalanche transceiver/beacon
+          - Probe pole
+          - Shovel
+          - Avalanche airbag backpack
+          - RECCO reflector
+          - First aid kit
+          - Communication device
+          - None
+        required: true
+      - id: 8
+        name: beacon_check_performed
+        label: Did You Perform a Beacon Check Today
+        hint: Before heading out
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Not applicable
+        required: true
+      - id: 9
+        name: avalanche_observation
+        label: Did You Observe Any Avalanche Activity
+        hint: Natural or human-triggered
+        type: select_one
+        options:
+          - No activity observed
+          - Natural avalanche (remote)
+          - Natural avalanche (nearby)
+          - Human-triggered avalanche (intentional)
+          - Human-triggered avalanche (unintentional)
+          - Unstable snow conditions observed
+        required: true
+      - id: 10
+        name: incident_occurred
+        label: Did Any Safety Incidents Occur
+        hint: Near-miss, fall, or injury
+        type: select_one
+        options:
+          - No incidents
+          - Minor fall (no injury)
+          - Equipment damage only
+          - Minor injury
+          - Serious injury
+          - Fatality
+        required: true
+      - id: 11
+        name: incident_description
+        label: Incident Description
+        hint: Please describe what happened
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: weather_conditions
+        label: Weather Conditions
+        hint: Conditions during your visit
+        type: select_one
+        options:
+          - Clear and sunny
+          - Partly cloudy
+          - Overcast
+          - Light snow
+          - Heavy snow
+          - High winds
+          - Whiteout conditions
+        required: true
+      - id: 13
+        name: snow_conditions
+        label: Snow Conditions
+        hint: Quality and type of snow
+        type: select_one
+        options:
+          - Powder
+          - Packed powder
+          - Groomed
+          - Icy/hardpack
+          - Wet/heavy
+          - Crust
+          - Variable
+        required: true
+      - id: 14
+        name: signage_clarity
+        label: Clarity of Safety Signage
+        hint: How clear were the warning signs
+        type: select_one
+        options:
+          - Very clear and helpful
+          - Somewhat clear
+          - Neutral
+          - Confusing or unclear
+          - Inadequate signage
+        required: true
+      - id: 15
+        name: safety_briefing_rating
+        label: Safety Briefing Rating
+        hint: If you received one, how would you rate it
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Did not receive briefing
+        required: true
+      - id: 16
+        name: patrol_visibility
+        label: Ski Patrol Visibility
+        hint: How visible was ski patrol presence
+        type: select_one
+        options:
+          - Very visible and present
+          - Moderately visible
+          - Neutral
+          - Rarely seen
+          - Not visible at all
+        required: true
+      - id: 17
+        name: overall_safety_rating
+        label: Overall Safety Rating
+        hint: How safe did you feel today
+        type: select_one
+        options:
+          - Very safe
+          - Safe
+          - Neutral
+          - Somewhat unsafe
+          - Very unsafe
+        required: true
+      - id: 18
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How can we improve avalanche safety
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_return
+        label: Would You Return
+        hint: Based on today's experience
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about avalanche safety
+        type: text
+        options: []
+        required: false

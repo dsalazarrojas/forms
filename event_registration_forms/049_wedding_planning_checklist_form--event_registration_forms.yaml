@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planning Checklist Form
+    pages:
+    - id: 1
+      name: wedding_planning_checklist
+      label: Wedding Planning Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tasks_to_complete
+      label: Tasks To Complete
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_list
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - Caterer
+      - Photographer
+      - DJ
+      - Venue
+      - Wedding Cake Designer
+      - Wedding Planner
+      - Wedding Officiant
+      - Wedding Dress Designer
+      - Wedding Florist
+      - Wedding Planner
+      - Wedding Videographer
+      - Wedding Planner
+      required: false
+    - id: 4
+      name: tasks_status
+      label: Tasks Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Ocean Deep Theme
+    pages:
+    - id: 1
+      name: section_sender
+      label: -- Sender Details --
+      hint: Please fill out the form below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Your Email Address
+      hint: We'll use this for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Your Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject_header
+      label: Inquiry Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: message_details
+      label: Message / Description of the Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_feedback
+      label: -- Service Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction_level
+      label: How would you rate your overall experience with us?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: recommendation_likelihood
+      label: Would you recommend us to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Likely
+      - Maybe
+      - Unlikely
+      - Never
+      required: true
+    - id: 10
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 11
+      name: follow_up_needed
+      label: Do you require a response to this message?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: preferred_response_method
+      label: How should we contact you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - No preference
+      required: true
+    - id: 13
+      name: newsletter_opt_in
+      label: Sign up for our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

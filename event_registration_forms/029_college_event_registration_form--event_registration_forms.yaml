@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Event Registration Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: college_name
+      label: College or University Name
+      hint: Your institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: year_in_school
+      label: Year in School
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      - Other
+      required: true
+    - id: 8
+      name: program_major
+      label: Program or Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: Which event are you registering for
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: attendance_type
+      label: Type of Attendance
+      hint: null
+      type: select_one
+      options:
+      - Full Day
+      - Partial Day
+      - Virtual
+      - In-Person
+      - Hybrid
+      required: true
+    - id: 13
+      name: activities_attending
+      label: Activities or Sessions Attending
+      hint: Select all sessions you plan to attend
+      type: select_multiple
+      options:
+      - Opening Keynote
+      - Breakout Sessions
+      - Panel Discussions
+      - Networking Events
+      - Skill-building Workshops
+      - Closing Reception
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 15
+      name: dietary_other
+      label: Other Dietary Restrictions
+      hint: If not listed above
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Any special accommodations required
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair Access
+      - Interpreter Services
+      - Closed Captioning
+      - Mobility Assistance
+      - Other
+      required: true
+    - id: 17
+      name: accessibility_other
+      label: Other Accommodation Details
+      hint: Please describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tshirt_size
+      label: T-Shirt Size Preference
+      hint: If provided at event
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 19
+      name: parking_required
+      label: Parking Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: guest_attending
+      label: Will You Be Bringing a Guest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: guest_details
+      label: Guest Details
+      hint: Name and email of guest if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_goals
+      label: What Do You Hope to Gain From This Event
+      hint: Your expectations and goals
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: communication_preferences
+      label: Preferred Communication Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 24
+      name: agreement_and_consent
+      label: I agree to the event terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

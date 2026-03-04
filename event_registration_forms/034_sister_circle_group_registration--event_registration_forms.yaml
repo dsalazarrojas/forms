@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sister Circle Group Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_type
+      label: Member type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Leader''}'
+      - '{''label'': ''Non-Leader''}'
+      required: true
+    - id: 6
+      name: group_size
+      label: Group size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: group_details
+      label: Group details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_comm_mode
+      label: Preferred communication mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''WhatsApp''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relation
+      label: Emergency contact relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Test Administration Plan
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: test_start_time
+      label: Test Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exam_location
+      label: Exam Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: test_proctoring
+      label: Test Proctoring
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_includes
+      label: Student Includes
+      hint: null
+      type: select_one
+      options:
+      - Student with accommodation
+      - Student without accommodation
+      - Both
+      required: true
+    - id: 8
+      name: staff_includes
+      label: Staff Includes
+      hint: null
+      type: select_multiple
+      options:
+      - Test Proctor
+      - Teacher
+      - Both
+      required: true
+    - id: 9
+      name: test_documents
+      label: Test Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Student ID
+      - Test Answers
+      - Both
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Accommodation
+      - Translation
+      - Both
+      required: true
+    - id: 11
+      name: exam_supervisor
+      label: Exam Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exam_coordinator
+      label: Exam Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false

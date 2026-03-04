@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Collaboration Reception RSVP
+    pages:
+    - id: 1
+      name: section_header_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For reception updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_professional
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company or Brand Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_reception
+      label: -- Reception Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reception_date
+      label: Reception Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: reception_time
+      label: Reception Start Time
+      hint: What time will you arrive
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: section_header_rsvp
+      label: -- RSVP Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: rsvp_status
+      label: Will You Attend
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - Yes, with plus one
+      - Maybe
+      - No, I cannot attend
+      - Undecided
+      required: true
+    - id: 15
+      name: plus_one_name
+      label: Plus One Name (If Applicable)
+      hint: Name of your guest
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: total_guests
+      label: Total Number of Guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_preferences
+      label: -- Preferences and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rsvp_confirmation
+      label: I confirm my RSVP for the reception
+      hint: Check to finalize attendance
+      type: select_one
+      options:
+      - I confirm my attendance
+      - I need to cancel my RSVP
+      - I am still deciding
+      required: true

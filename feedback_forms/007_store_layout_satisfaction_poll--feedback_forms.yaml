@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Layout Satisfaction Poll
+    pages:
+    - id: 1
+      name: store_layout_satisfaction
+      label: store_layout_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_feel
+      label: how_do_you_feel
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied'', ''value'': ''very_satisfied''}'
+      - '{''label'': ''Satisfied'', ''value'': ''satisfied''}'
+      - '{''label'': ''Not satisfied'', ''value'': ''not_satisfied''}'
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_layout_satisfaction_rating
+      label: store_layout_satisfaction_rating
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: time
+      options: []
+      required: false

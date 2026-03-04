@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radioactivity Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: radioactive_decay
+      label: Radioactive Decay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: nuclear_reactions
+      label: Nuclear Reactions
+      hint: null
+      type: select_one
+      options:
+      - Radioactivity Quiz
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: half_life
+      label: Half Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: radiation_types
+      label: Radiation Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: radiation_levels
+      label: Radiation Levels
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: shielding_materials
+      label: Shielding Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: radiation_protection
+      label: Radiation Protection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

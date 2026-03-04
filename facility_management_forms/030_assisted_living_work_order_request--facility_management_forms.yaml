@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assisted Living Work Order Request
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_role
+      label: Requestor Role
+      hint: Position or role
+      type: select_one
+      options:
+      - Resident
+      - Family Member
+      - Staff Member
+      - Administrator
+      - Other
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Facility or Building Name
+      hint: Which building needs maintenance?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resident_name
+      label: Resident Name (if applicable)
+      hint: Resident or room number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resident_room_number
+      label: Room or Unit Number
+      hint: Where is the issue?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_request_type
+      label: Type of Work Request
+      hint: What kind of maintenance?
+      type: select_one
+      options:
+      - Plumbing
+      - Electrical
+      - HVAC
+      - Appliance Repair
+      - Flooring
+      - Painting
+      - Carpentry
+      - General Maintenance
+      - Cleaning
+      - Landscaping
+      - Other
+      required: true
+    - id: 9
+      name: issue_description
+      label: Description of Issue
+      hint: Detailed description of problem
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Routine
+      - Non-Urgent
+      - Urgent
+      - Emergency
+      required: true
+    - id: 11
+      name: safety_concern
+      label: Is This a Safety Concern?
+      hint: Does it pose a safety risk?
+      type: select_one
+      options:
+      - 'No'
+      - Minor Safety Concern
+      - Major Safety Concern
+      required: true
+    - id: 12
+      name: resident_safety_affected
+      label: Is Resident Safety Affected?
+      hint: Does resident need to relocate?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 13
+      name: temporary_solution_available
+      label: Is Temporary Solution Available?
+      hint: Can issue be temporarily addressed?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 14
+      name: temporary_solution_description
+      label: Temporary Solution Description
+      hint: What temporary fix is available?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Budget estimate
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: preferred_work_dates
+      label: Preferred Work Dates
+      hint: When can work be done?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: access_requirements
+      label: Special Access Requirements
+      hint: Keys, codes, or access info needed?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: materials_needed
+      label: Materials or Parts Needed
+      hint: What supplies are needed?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vendor_preference
+      label: Preferred Vendor
+      hint: Specific contractor or company?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resident_availability
+      label: Resident Availability
+      hint: When is resident home?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pet_or_special_consideration
+      label: Pets or Special Considerations
+      hint: Any special situations?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: warranty_status
+      label: Warranty Status
+      hint: Is item under warranty?
+      type: select_one
+      options:
+      - Under Warranty
+      - Expired Warranty
+      - Unknown
+      required: false
+    - id: 23
+      name: previous_service_history
+      label: Previous Service History
+      hint: Has this been repaired before?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photos_attached
+      label: Photos of Issue Attached
+      hint: Visual documentation?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: request_submission_date
+      label: Form Submission Date
+      hint: Date form completed
+      type: date
+      options: []
+      required: true

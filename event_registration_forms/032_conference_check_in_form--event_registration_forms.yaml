@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Check In Form
+    pages:
+      - id: 1
+        name: checkin_welcome
+        label: Conference Check-In
+        hint: Welcome to the conference
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: conference_name
+        label: Conference Name
+        hint: Event you are attending
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: checkin_date
+        label: Check-In Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: checkin_time
+        label: Check-In Time
+        hint: Arrival time
+        type: time
+        options: []
+        required: false
+      - id: 5
+        name: attendee_lookup
+        label: Attendee Lookup
+        hint: Find your registration
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: first_name
+        label: First Name
+        hint: Given name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: last_name
+        label: Last Name
+        hint: Family name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: email_address
+        label: Email Address
+        hint: Registration email
+        type: email
+        options: []
+        required: true
+      - id: 9
+        name: registration_id
+        label: Registration ID
+        hint: Confirmation number
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: organization
+        label: Organization
+        hint: Company or institution
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: badge_info
+        label: Badge Information
+        hint: Name tag details
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: badge_name
+        label: Name for Badge
+        hint: How name should appear
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: badge_title
+        label: Title for Badge
+        hint: Job title or role
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: badge_organization
+        label: Organization for Badge
+        hint: Company on badge
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: session_selection
+        label: Session Selection
+        hint: Choose your tracks
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: track_preference
+        label: Primary Track
+        hint: Main interest area
+        type: select_one
+        options:
+          - Technology and Innovation
+          - Business and Leadership
+          - Marketing and Sales
+          - Research and Development
+          - General Management
+        required: false
+      - id: 17
+        name: workshop_selection
+        label: Workshop Selection
+        hint: Pre-register for workshops
+        type: select_multiple
+        options:
+          - Workshop A - Morning Session
+          - Workshop B - Afternoon Session
+          - Workshop C - Full Day
+          - No Workshops Selected
+        required: false
+      - id: 18
+        name: materials_collection
+        label: Materials Collection
+        hint: Conference materials
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: conference_bag
+        label: Conference Bag
+        hint: Receive event materials
+        type: select_one
+        options:
+          - Yes Please
+          - No Thanks
+        required: false
+      - id: 20
+        name: name_tag_lanyard
+        label: Name Tag Lanyard
+        hint: Badge holder
+        type: select_one
+        options:
+          - Standard Lanyard
+          - Retractable Badge Holder
+          - Clip On Badge
+        required: false
+      - id: 21
+        name: networking_preferences
+        label: Networking Preferences
+        hint: Connect with others
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: networking_interest
+        label: Interested in Networking
+        hint: Meet other attendees
+        type: select_one
+        options:
+          - Yes Very Interested
+          - Somewhat Interested
+          - Not Interested
+        required: false
+      - id: 23
+        name: social_media_handle
+        label: Social Media Handle
+        hint: Twitter or LinkedIn
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: photo_consent
+        label: Photo Consent
+        hint: OK to photograph
+        type: select_one
+        options:
+          - Yes May Photograph
+          - No Photos Please
+        required: true
+      - id: 25
+        name: checkin_complete
+        label: Check-In Complete
+        hint: Ready to proceed
+        type: select_one
+        options:
+          - Check-In Complete
+          - Need Assistance
+        required: true

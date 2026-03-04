@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Examination Form
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vital_signs
+      label: Vital signs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_history_other
+      label: Other medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_examinations
+      label: Medical examinations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false

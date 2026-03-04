@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Communication Preference Poll
+    pages:
+    - id: 1
+      name: volunteer_communication_method
+      label: volunteer_communication_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_contact_time
+      label: preferred_contact_time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: volunteer_notification_channels
+      label: volunteer_notification_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: volunteer_update_method
+      label: volunteer_update_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: volunteer_notification_frequency
+      label: volunteer_notification_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: volunteer_notification_method
+      label: volunteer_notification_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: volunteer_communication_frequency
+      label: volunteer_communication_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: volunteer_communication_preferences
+      label: volunteer_communication_preferences
+      hint: null
+      type: note
+      options: []
+      required: false

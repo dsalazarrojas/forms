@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Record Keeping Survey
+    pages:
+    - id: 1
+      name: farmer_name
+      label: Farmer Name
+      hint: Full name of the farmer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Name of the farming operation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_size
+      label: Farm Size (acres)
+      hint: Total acreage of the farm
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: years_farming
+      label: Years of Farming Experience
+      hint: How long have you been farming
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-20 years
+      - 20-30 years
+      - More than 30 years
+      required: true
+    - id: 5
+      name: primary_production
+      label: Primary Production Type
+      hint: Main type of agricultural production
+      type: select_one
+      options:
+      - Crops
+      - Livestock
+      - Dairy
+      - Poultry
+      - Mixed
+      required: true
+    - id: 6
+      name: current_record_method
+      label: Current Record Keeping Method
+      hint: How do you currently keep records
+      type: select_one
+      options:
+      - Paper notebooks
+      - Spreadsheets
+      - Farm management software
+      - Mobile apps
+      - No formal system
+      required: true
+    - id: 7
+      name: records_maintained
+      label: Types of Records Maintained
+      hint: Select all types of records you keep
+      type: select_multiple
+      options:
+      - Production records
+      - Financial records
+      - Input usage (fertilizers, pesticides)
+      - Equipment maintenance
+      - Labor records
+      - Sales records
+      - Weather data
+      - None
+      required: true
+    - id: 8
+      name: record_frequency
+      label: Record Keeping Frequency
+      hint: How often do you update records
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Seasonally
+      - Annually
+      - Irregularly
+      required: true
+    - id: 9
+      name: time_spent
+      label: Time Spent on Record Keeping
+      hint: Average time spent per week
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - 5-10 hours
+      - More than 10 hours
+      required: true
+    - id: 10
+      name: record_challenges
+      label: Record Keeping Challenges
+      hint: Select all challenges you face
+      type: select_multiple
+      options:
+      - Too time-consuming
+      - Too complex
+      - Don't know what to track
+      - Technology difficulties
+      - Cost of software
+      - Lack of training
+      - No challenges
+      required: true
+    - id: 11
+      name: technology_comfort
+      label: Comfort with Technology
+      hint: How comfortable are you with farm technology
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 12
+      name: software_used
+      label: Farm Management Software Used
+      hint: Select any software you currently use
+      type: select_multiple
+      options:
+      - Excel or Google Sheets
+      - FarmLogs
+      - Granular
+      - AgriWebb
+      - Conservis
+      - Other
+      - None
+      required: false
+    - id: 13
+      name: data_sharing
+      label: Data Sharing Willingness
+      hint: Would you share anonymized data with researchers
+      type: select_one
+      options:
+      - Yes, willingly
+      - Yes, with restrictions
+      - Maybe
+      - false
+      required: true
+    - id: 14
+      name: record_importance
+      label: Importance of Record Keeping
+      hint: How important do you think record keeping is
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Neutral
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 15
+      name: training_interest
+      label: Interest in Record Keeping Training
+      hint: Would you be interested in training programs
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not very interested
+      - Not interested
+      required: true
+    - id: 16
+      name: preferred_training_format
+      label: Preferred Training Format
+      hint: Select preferred training methods
+      type: select_multiple
+      options:
+      - In-person workshops
+      - Online webinars
+      - Video tutorials
+      - Written guides
+      - One-on-one consulting
+      - Mobile app tutorials
+      required: false
+    - id: 17
+      name: regulatory_compliance
+      label: Regulatory Compliance Records
+      hint: Do you keep records for regulatory compliance
+      type: select_one
+      options:
+      - Yes, required for my operation
+      - Yes, voluntarily
+      - false
+      - Not sure
+      required: true
+    - id: 18
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What aspects of record keeping would you like to improve
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true

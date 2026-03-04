@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Tracker Worksheet
+    pages:
+    - id: 1
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_recurring
+      label: Is Recurring?
+      hint: Is this service recurring?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 7
+      name: service_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: service_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

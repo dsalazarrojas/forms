@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2016 Ymca Risk Management Conference
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Optional, if you prefer not to provide DOB
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_conference_details
+      label: '--- Conference Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: experience_level
+      label: Experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 14
+      name: how_heard
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: true
+    - id: 15
+      name: attendance_days
+      label: Attendance days
+      hint: Select all days you plan to attend
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      required: true
+    - id: 16
+      name: t_shirt_size
+      label: T-shirt size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 17
+      name: section_header_logistics
+      label: '--- Logistics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - None
+      required: true
+    - id: 19
+      name: consent_to_recording
+      label: Consent to recording
+      hint: Recording may be used for training
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: consent_to_email_updates
+      label: Consent to email updates
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      - Cash
+      required: true
+    - id: 22
+      name: registration_fee_paid
+      label: Registration fee paid
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: section_header_additional_information
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: special_needs
+      label: Special needs
+      hint: Please specify any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

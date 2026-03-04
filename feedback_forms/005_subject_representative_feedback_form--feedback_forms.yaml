@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subject Representative Feedback Form
+    pages:
+    - id: 1
+      name: term
+      label: Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: concern
+      label: Concerns
+      hint: Please specify your concerns
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestion
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concerns_suggestions
+      label: Concerns and suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - Concerns
+      - Suggestions
+      required: false
+    - id: 6
+      name: concern_type
+      label: Concern type
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Professional
+      - Personal
+      required: false
+    - id: 7
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: university_name
+      label: University name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false

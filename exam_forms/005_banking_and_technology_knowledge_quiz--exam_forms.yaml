@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banking And Technology Knowledge Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Please enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: Your email for results delivery
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or Institution
+        hint: Which organization are you representing?
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role_position
+        label: Your Role or Position
+        hint: What is your current role?
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: question_1_blockchain
+        label: Question 1 - What is blockchain technology primarily used for?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Creating decentralized digital ledgers
+          - Storing passwords securely
+          - Increasing internet speed
+          - Replacing email systems
+        required: true
+      - id: 6
+        name: question_2_fintech
+        label: Question 2 - What does FinTech stand for?
+        hint: null
+        type: select_one
+        options:
+          - Financial Technology
+          - Finance and Technical services
+          - Financial Transactions
+          - Finance Terminals
+        required: true
+      - id: 7
+        name: question_3_cryptocurrency
+        label: Question 3 - Which is NOT a characteristic of cryptocurrency?
+        hint: Select the incorrect statement
+        type: select_one
+        options:
+          - It is backed by physical assets like gold
+          - It uses cryptographic security
+          - It operates on blockchain technology
+          - It is decentralized in nature
+        required: true
+      - id: 8
+        name: question_4_api
+        label: Question 4 - What is an API in banking context?
+        hint: null
+        type: select_one
+        options:
+          - Application Programming Interface for system integration
+          - Automated Payment Interface system
+          - Account Protection Insurance
+          - Advanced Personal Identification
+        required: true
+      - id: 9
+        name: question_5_mobile_banking
+        label: Question 5 - Which security measure is most critical for mobile banking?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Two-factor authentication
+          - Frequent password changes
+          - Using public WiFi networks
+          - Sharing credentials with trusted contacts
+        required: true
+      - id: 10
+        name: question_6_digital_wallet
+        label: Question 6 - What is a digital wallet?
+        hint: null
+        type: select_one
+        options:
+          - A software application storing payment information
+          - A physical device for storing cash
+          - A bank account type
+          - A cryptocurrency exchange
+        required: true
+      - id: 11
+        name: question_7_payment_gateway
+        label: Question 7 - What does a payment gateway do?
+        hint: Select the correct function
+        type: select_one
+        options:
+          - Transfers payment information between merchant and bank
+          - Physically processes credit cards
+          - Stores customer financial data
+          - Creates banking licenses
+        required: true
+      - id: 12
+        name: question_8_cybersecurity
+        label: Question 8 - What is the primary goal of cybersecurity in banking?
+        hint: null
+        type: select_one
+        options:
+          - Protecting customer data and preventing unauthorized access
+          - Slowing down transaction processing
+          - Eliminating all internet services
+          - Reducing customer convenience
+        required: true
+      - id: 13
+        name: question_9_robo_advisor
+        label: Question 9 - What is a robo-advisor in financial services?
+        hint: Select the best description
+        type: select_one
+        options:
+          - Automated algorithm-based investment advice system
+          - A robot that counts money
+          - A human financial advisor
+          - A type of cryptocurrency
+        required: true
+      - id: 14
+        name: question_10_open_banking
+        label: Question 10 - What does Open Banking enable?
+        hint: null
+        type: select_one
+        options:
+          - Third-party access to banking data with customer consent
+          - Anyone to operate a bank
+          - Unlimited overdraft privileges
+          - Free banking for all customers
+        required: true
+      - id: 15
+        name: question_11_artificial_intelligence
+        label: Question 11 - How is AI used in modern banking? (Select all that apply)
+        hint: Select multiple correct answers
+        type: select_multiple
+        options:
+          - Fraud detection and prevention
+          - Customer service chatbots
+          - Personalized financial recommendations
+          - Replacing all bank employees
+        required: true
+      - id: 16
+        name: question_12_regulation
+        label: Question 12 - What is PSD2 in banking?
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Payment Services Directive 2 regulation
+          - Personal Security Digital Protocol
+          - Payment Standard Directive
+          - Public Service Department 2
+        required: true
+      - id: 17
+        name: knowledge_area
+        label: Which area interests you most?
+        hint: null
+        type: select_one
+        options:
+          - Traditional Banking
+          - Financial Technology
+          - Cryptocurrency
+          - Digital Security
+        required: false
+      - id: 18
+        name: quiz_difficulty
+        label: How was the difficulty level of this quiz?
+        hint: null
+        type: select_one
+        options:
+          - Too Easy
+          - Appropriate
+          - Challenging
+          - Too Difficult
+        required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Communication Preference Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_channels
+      label: Communication Channels
+      hint: Choose from the following options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: Choose from the following options
+      type: select_one
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Afternoon''}'
+      - '{''value'': ''Evening''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In Person''}'
+      - '{''value'': ''Chat''}'
+      - '{''value'': ''Text Message''}'
+      required: false
+    - id: 5
+      name: preferred_contact_frequency
+      label: Preferred Contact Frequency
+      hint: How often would you like to be contacted?
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 6
+      name: preferred_contact_days
+      label: Preferred Contact Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Sunday''}'
+      required: false
+    - id: 7
+      name: introduction_text
+      label: Introduction Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_channels_text
+      label: Communication Channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_time_text
+      label: Preferred Contact Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method_text
+      label: Preferred Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_frequency_text
+      label: Preferred Contact Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact_days_text
+      label: Preferred Contact Days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: Any additional comments about your preferences
+      type: text
+      options: []
+      required: false

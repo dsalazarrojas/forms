@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Interaction Communication Form
+    pages:
+      - id: 1
+        name: section_interaction_overview
+        label: -- Interaction Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: client name
+        hint: Full name of client or customer
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: interaction_date
+        label: interaction date
+        hint: Date of the interaction
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: interaction_channel
+        label: interaction channel
+        hint: How the client contacted you
+        type: select_one
+        options:
+          - In Person
+          - Phone
+          - Email
+          - Chat
+          - Social Media
+          - Other
+        required: true
+      - id: 5
+        name: service_received
+        label: service or product discussed
+        hint: Short description of the service or product
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: staff_member
+        label: staff member handling interaction
+        hint: Name of staff or team
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: satisfaction_rating
+        label: satisfaction rating
+        hint: Rate overall satisfaction
+        type: select_one
+        options:
+          - Very Unsatisfied
+          - Unsatisfied
+          - Neutral
+          - Satisfied
+          - Very Satisfied
+        required: true
+      - id: 8
+        name: interaction_notes
+        label: key points from interaction
+        hint: Summarize customer concerns or requests
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_needed
+        label: follow up needed
+        hint: Indicate if follow up is required
+        type: select_one
+        options:
+          - Yes follow up required
+          - No no follow up needed
+          - Maybe discuss further
+        required: true
+      - id: 10
+        name: preferred_contact_method
+        label: preferred contact method
+        hint: For follow up communication
+        type: select_one
+        options:
+          - Phone
+          - Email
+          - SMS
+          - No Contact
+          - Other
+        required: false
+      - id: 11
+        name: additional_comments
+        label: additional comments or feedback
+        hint: Optional
+        type: text
+        options: []
+        required: false

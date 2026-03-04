@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewing Pattern Feedback Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What do you think of our patterns?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: Would you like to see more patterns like this?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: What do you think could be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: What do you like about this pattern?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''The design was great''}'
+      - '{''label'': ''The instructions were clear''}'
+      - '{''label'': ''The materials were adequate''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: question_5
+      label: What do you dislike about this pattern?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''The design was poor''}'
+      - '{''label'': ''The instructions were unclear''}'
+      - '{''label'': ''The materials were inadequate''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 7
+      name: question_6
+      label: Do you have any comments about this pattern?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_7
+      label: Would you like to be contacted for feedback?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: question_8
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''None''}'
+      required: false

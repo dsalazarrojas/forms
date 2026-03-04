@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Program Evaluation Form
+    pages:
+    - id: 1
+      name: program_name
+      label: customer_program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: customer_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_satisfaction
+      label: overall_program_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''somewhat_dissatisfied''}'
+      - '{''value'': ''very_dissatisfied''}'
+      required: false
+    - id: 5
+      name: suggestions
+      label: what_we_can_do_better
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: best_contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''in_person''}'
+      required: false
+    - id: 7
+      name: contact_frequency
+      label: how_often_to_contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''never''}'
+      - '{''value'': ''rarely''}'
+      - '{''value'': ''sometimes''}'
+      - '{''value'': ''often''}'
+      required: false
+    - id: 8
+      name: program_value
+      label: what_program_value_means_to_you
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''important''}'
+      - '{''value'': ''very_important''}'
+      - '{''value'': ''somewhat_important''}'
+      - '{''value'': ''not_at_all_important''}'
+      required: false
+    - id: 9
+      name: program_value_scale
+      label: how_important_is_program_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_method_other
+      label: other_contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_frequency_other
+      label: other_contact_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_method_other_details
+      label: other_contact_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_satisfaction
+      label: overall_customer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

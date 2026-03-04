@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bible Study Form
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For study materials and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact for coordination
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Teen
+      - Young adult
+      - Adult
+      - Senior
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: section_header_study
+      label: -- Study Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: study_group_name
+      label: Bible Study Group Name
+      hint: Which study group are you joining?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: study_book
+      label: Book or Topic Being Studied
+      hint: What are you studying?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: session_schedule
+      label: Preferred Study Session Schedule
+      hint: When would you like to meet?
+      type: select_one
+      options:
+      - Sunday morning
+      - Sunday evening
+      - Wednesday evening
+      - Thursday evening
+      - Weekend
+      - Weekday morning
+      - Flexible
+      required: true
+    - id: 11
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: How should the group meet?
+      type: select_one
+      options:
+      - In-person
+      - Online/virtual
+      - Hybrid
+      - No preference
+      required: true
+    - id: 12
+      name: session_frequency
+      label: Desired Study Frequency
+      hint: How often should you meet?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As scheduled
+      - Flexible
+      required: true
+    - id: 13
+      name: section_header_experience
+      label: -- Bible Study Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: study_experience
+      label: Bible Study Experience Level
+      hint: What is your experience?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Not sure
+      required: true
+    - id: 15
+      name: study_goals
+      label: Personal Bible Study Goals
+      hint: What do you hope to achieve?
+      type: select_multiple
+      options:
+      - Deepen understanding of Scripture
+      - Spiritual growth
+      - Community fellowship
+      - Answer specific questions
+      - Improve discipleship
+      - Learn Bible content
+      - Develop faith
+      required: true
+    - id: 16
+      name: favorite_books
+      label: Favorite Books of the Bible
+      hint: Any preferences?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: challenging_topics
+      label: Topics You Find Challenging
+      hint: What areas need clarification?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_participation
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: attendance_commitment
+      label: Attendance Commitment Level
+      hint: How committed are you?
+      type: select_one
+      options:
+      - Very committed - attend every session
+      - Committed - attend most sessions
+      - Flexible - attend when possible
+      - New - exploring participation
+      required: true
+    - id: 20
+      name: participation_style
+      label: Preferred Participation Style
+      hint: How do you like to engage?
+      type: select_one
+      options:
+      - Active discussion
+      - Listening and learning
+      - Mix of both
+      - Quiet observation
+      - No preference
+      required: true
+    - id: 21
+      name: study_method
+      label: Preferred Study Method
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - Verse by verse
+      - Thematic study
+      - Devotional approach
+      - Interactive discussion
+      - Lecture format
+      required: true
+    - id: 22
+      name: section_header_logistics
+      label: -- Logistics and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: transportation_needed
+      label: Do You Need Transportation
+      hint: null
+      type: select_one
+      options:
+      - Yes, please help arrange
+      - No, I can arrange my own
+      - Not applicable
+      required: false
+    - id: 24
+      name: study_materials
+      label: Do You Have Required Study Materials
+      hint: Bible, notebook, etc.
+      type: select_one
+      options:
+      - Yes, I have everything
+      - Mostly prepared
+      - Need some items
+      - Need significant help
+      required: true
+    - id: 25
+      name: section_header_feedback
+      label: -- Feedback and Additional Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: referral_source
+      label: How Did You Hear About This Study
+      hint: null
+      type: select_one
+      options:
+      - Church announcement
+      - Friend recommendation
+      - Social media
+      - Website
+      - Email
+      - Other
+      required: true
+    - id: 27
+      name: special_needs
+      label: Special Accommodations or Needs
+      hint: Anything we should know?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else?
+      type: text
+      options: []
+      required: false

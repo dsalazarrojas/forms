@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Scores Import Form
+    pages:
+    - id: 1
+      name: team_scores
+      label: Team Scores
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Enter team name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: match_details
+      label: Match Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Additional notes for the organizer
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: league_name
+      label: League Name
+      hint: Enter league name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: match_time
+      label: Match Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: match_id
+      label: Match ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: team_scored
+      label: Team Scored
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: opponent_scored
+      label: Opponent Scored
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: team_points
+      label: Team Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: opponent_points
+      label: Opponent Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: match_outcome
+      label: Match Outcome
+      hint: null
+      type: select_one
+      options:
+      - Win
+      - Draw
+      - Loss
+      required: true
+    - id: 18
+      name: match_status
+      label: Match Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      - Pending
+      required: true
+    - id: 19
+      name: match_result_status
+      label: Match Result Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Unknown
+      required: false
+    - id: 20
+      name: match_status_note
+      label: Match Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: match_details_note
+      label: Match Details Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 23
+      name: submit_button_2
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 24
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: league_id
+      label: League ID
+      hint: null
+      type: number
+      options: []
+      required: true

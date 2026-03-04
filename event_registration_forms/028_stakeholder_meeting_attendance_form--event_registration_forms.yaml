@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Meeting Attendance Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: Participant First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_last_name
+      label: Participant Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 6
+      name: attendance_note
+      label: Attendance Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stakeholder_organization
+      label: Stakeholder Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_location_address
+      label: Meeting Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_location_phone
+      label: Meeting Location Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meeting_location_email
+      label: Meeting Location Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: meeting_attendance_capacity
+      label: Meeting Attendance Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: meeting_start_time
+      label: Meeting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: meeting_end_time
+      label: Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Certification Value Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sustainability_certification
+      label: select_sustainability_certification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''GRS (Greenhouse Gas Protocol)''}'
+      - '{''label'': ''ISO 14001''}'
+      - '{''label'': ''B Corp''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sustainability_certified
+      label: is_sustainability_certified
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 8
+      name: sustainability_rating
+      label: sustainability_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sustainability_comment
+      label: comment_on_sustainability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page1_header
+      label: header1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: page1_submitter
+      label: sub_header1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: page1_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: page1_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: page1_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: page1_comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: page1_sustainability_certified
+      label: is_sustainability_certified
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 18
+      name: page1_sustainability_rating
+      label: sustainability_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: page1_sustainability_comment
+      label: comment_on_sustainability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: page2_header
+      label: header2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: page2_submitter
+      label: sub_header2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: page2_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: page2_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: page2_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: page2_comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false

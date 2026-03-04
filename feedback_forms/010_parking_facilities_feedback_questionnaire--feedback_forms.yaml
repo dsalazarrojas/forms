@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Facilities Feedback Questionnaire
+    pages:
+    - id: 1
+      name: parking_facilities_feedback_questionnaire_1
+      label: What is your experience with our parking facilities?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parking_facilities_feedback_questionnaire_2
+      label: How satisfied are you with our parking facilities?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: parking_facilities_feedback_questionnaire_3
+      label: Do you have any suggestions for improvements for our parking facilities?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parking_facilities_feedback_questionnaire_4
+      label: What can we improve in terms of parking facilities and services?
+      hint: null
+      type: select_multiple
+      options:
+      - Park more conveniently
+      - Park more securely
+      - Park more affordably
+      required: true
+    - id: 5
+      name: parking_facilities_feedback_questionnaire_5
+      label: How often do you visit our facility?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 6
+      name: parking_facilities_feedback_questionnaire_6
+      label: Is there anything else you would like to tell us about your experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parking_facilities_feedback_questionnaire_7
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parking_facilities_feedback_questionnaire_8
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

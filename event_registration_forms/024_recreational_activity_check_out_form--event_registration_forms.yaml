@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: recreational_activity_check_out_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: checkout_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_serial_numbers
+      label: Equipment Serial Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_signature
+      label: Participant Signature
+      hint: This signature is required for participant verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_signature
+      label: Staff Signature
+      hint: This signature is required for staff verification
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_contact
+      label: Staff Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

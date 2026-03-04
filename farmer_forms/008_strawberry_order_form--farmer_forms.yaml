@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strawberry Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: Please provide the quantity and type of strawberries you require.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: strawberry_type
+      label: Strawberry Type
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Grape
+      - Orange
+      - Strawberry
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

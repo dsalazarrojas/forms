@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Co Living Community Satisfaction Survey
+    pages:
+      - id: 1
+        name: resident_name
+        label: Your Name
+        hint: Full name optional for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: unit_number
+        label: Unit or Room Number
+        hint: Your unit or room identifier
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For follow-up on your feedback
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: move_in_date
+        label: Move-In Date
+        hint: When did you move in
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: length_of_stay
+        label: Length of Stay
+        hint: How long have you lived here
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you with co-living experience
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: cleanliness_rating
+        label: Cleanliness of Common Areas
+        hint: Rate the cleanliness of shared spaces
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: maintenance_rating
+        label: Maintenance Response
+        hint: Rate how quickly issues are resolved
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: community_atmosphere
+        label: Community Atmosphere
+        hint: Rate the sense of community
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: staff_friendliness
+        label: Staff Friendliness
+        hint: Rate the friendliness of staff
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: value_for_money
+        label: Value for Money
+        hint: Rate the value relative to cost
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: amenities_rating
+        label: Amenities Quality
+        hint: Rate the quality of amenities provided
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: amenities_used
+        label: Amenities You Use
+        hint: Select amenities you regularly use
+        type: select_multiple
+        options:
+          - Kitchen
+          - Laundry Facilities
+          - Gym or Fitness Area
+          - Co-Working Space
+          - Lounge Areas
+          - Outdoor Space
+          - Parking
+          - Bike Storage
+        required: false
+      - id: 14
+        name: noise_level
+        label: Noise Level Satisfaction
+        hint: How satisfied are you with noise levels
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 15
+        name: safety_security
+        label: Safety and Security
+        hint: How safe do you feel in the community
+        type: select_one
+        options:
+          - Very Safe
+          - Safe
+          - Neutral
+          - Unsafe
+          - Very Unsafe
+        required: true
+      - id: 16
+        name: social_events
+        label: Social Events Participation
+        hint: How often do you attend community events
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: false
+      - id: 17
+        name: event_suggestions
+        label: Event Suggestions
+        hint: What events would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: biggest_challenge
+        label: Biggest Challenge Faced
+        hint: What is your biggest challenge living here
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: best_aspect
+        label: Best Aspect of Co-Living
+        hint: What do you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: would_recommend
+        label: Would You Recommend to Others
+        hint: Would you recommend this community
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: renewal_likelihood
+        label: Likelihood to Renew Lease
+        hint: Will you renew your lease
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Not Sure
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 22
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

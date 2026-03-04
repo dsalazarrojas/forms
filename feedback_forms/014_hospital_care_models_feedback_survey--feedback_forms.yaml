@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospital_care_models_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hospital_care_model
+      label: Hospital Care Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: satisfaction_with_care_team
+      label: Satisfaction with Care Team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_with_physical_care
+      label: Satisfaction with Physical Care
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_nursing_care
+      label: Satisfaction with Nursing Care
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_with_emergency_care
+      label: Satisfaction with Emergency Care
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_care_team
+      label: Patient Care Team
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Smith
+      - Dr. Jane Doe
+      - Nurse 1
+      - Nurse 2
+      required: false

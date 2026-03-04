@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      required: false
+    - id: 6
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

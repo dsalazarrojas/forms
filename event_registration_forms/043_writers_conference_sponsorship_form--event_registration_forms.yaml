@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writers' Conference Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsorship_application
+      label: Sponsorship Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsorship_packages
+      label: Select a Package
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recognition_preferences
+      label: Recognition Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 7
+      name: sponsor_message
+      label: Sponsor Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

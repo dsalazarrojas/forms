@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Arrangement Consent Form
+    pages:
+    - id: 1
+      name: event_registration_form_data
+      label: Event Registration Form Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: funeral_wishes
+      label: funeral_wishes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: funeral_arrangements
+      label: funeral_arrangements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: family_involvement
+      label: family_involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funeral_home_details
+      label: funeral_home_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_of_kin_contact
+      label: next_of_kin_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_family_members
+      label: other_family_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: funeral_home_contact
+      label: funeral_home_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_signed
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: false

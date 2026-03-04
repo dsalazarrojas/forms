@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Quiz
+    pages:
+    - id: 1
+      name: first_aid_quiz_page
+      label: First Aid Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_page
+      label: First Aid Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Quiz Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - First Aid
+      - Medical
+      - Other
+      required: false
+    - id: 5
+      name: answer
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: answer_2
+      label: Another Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: correct_answer
+      label: Correct Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: correct_answer_2
+      label: Another Correct Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_score
+      label: Total Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: false

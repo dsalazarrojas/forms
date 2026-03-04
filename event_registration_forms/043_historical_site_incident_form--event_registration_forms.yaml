@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Site Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Historical Preservation
+      - Cultural Heritage
+      - Archaeological
+      - Other
+      required: false
+    - id: 5
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_injuries
+      label: Incident Injuries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: incident_property_damage
+      label: Incident Property Damage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_damage_cost
+      label: Incident Damage Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reported_on
+      label: Incident Reported On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_reported_to
+      label: Incident Reported To
+      hint: null
+      type: select_multiple
+      options:
+      - Site Manager
+      - Security Manager
+      - Site Supervisor
+      - Other
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      - In Progress
+      required: false
+    - id: 13
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_resolution_date
+      label: Incident Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_resolution_by
+      label: Incident Resolution By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reviewed_by
+      label: Incident Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_attachments
+      label: Incident Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Document
+      required: false
+    - id: 19
+      name: incident_attachment_count
+      label: Incident Attachment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: incident_attachment_size
+      label: Incident Attachment Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: incident_resolution_attachment
+      label: Incident Resolution Attachment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: incident_follow_up_actions
+      label: Incident Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_follow_up_actions_count
+      label: Incident Follow-up Actions Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: incident_investigation_status
+      label: Incident Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Pending
+      required: false
+    - id: 25
+      name: incident_investigation_status_comment
+      label: Incident Investigation Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false

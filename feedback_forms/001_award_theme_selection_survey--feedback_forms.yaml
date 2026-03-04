@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Award Theme Selection Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Full Name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you about the award
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department_or_team
+      label: Department or Team
+      hint: Which department or team do you represent?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: theme_preference_1
+      label: First Theme Choice
+      hint: Select your top choice
+      type: select_one
+      options:
+      - Innovation & Excellence
+      - Community Impact
+      - Sustainability
+      - Leadership
+      - Creativity
+      - Global Vision
+      required: true
+    - id: 5
+      name: theme_preference_2
+      label: Second Theme Choice
+      hint: Select your second preference
+      type: select_one
+      options:
+      - Innovation & Excellence
+      - Community Impact
+      - Sustainability
+      - Leadership
+      - Creativity
+      - Global Vision
+      required: false
+    - id: 6
+      name: theme_preference_3
+      label: Third Theme Choice
+      hint: Select your third preference (optional)
+      type: select_one
+      options:
+      - Innovation & Excellence
+      - Community Impact
+      - Sustainability
+      - Leadership
+      - Creativity
+      - Global Vision
+      required: false
+    - id: 7
+      name: importance_rating
+      label: How important is the theme selection to you?
+      hint: Rate from 1 (not important) to 10 (very important)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: theme_suggestion
+      label: Do you have a theme suggestion not listed above?
+      hint: Please describe your suggestion
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_consideration
+      label: Should budget be a consideration in theme selection?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very important
+      - Somewhat important
+      - Not important
+      - No preference
+      required: false
+    - id: 10
+      name: venue_compatibility
+      label: Venue Compatibility Rating
+      hint: How well does your theme match available venues?
+      type: select_one
+      options:
+      - Excellent fit
+      - Good fit
+      - Neutral
+      - Needs adjustment
+      - Poor fit
+      required: false
+    - id: 11
+      name: attendee_feedback
+      label: Summarize attendee feedback on themes
+      hint: Share any feedback you have heard from attendees
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Please share any other thoughts or suggestions
+      type: text
+      options: []
+      required: false

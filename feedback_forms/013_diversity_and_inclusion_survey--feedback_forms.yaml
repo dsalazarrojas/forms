@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Inclusion Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: Demographic Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Non-Binary''}'
+      - '{''id'': 4, ''label'': ''Prefer Not To Say''}'
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Please enter your age
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

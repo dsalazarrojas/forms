@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Extension Form
+    pages:
+    - id: 1
+      name: event_sponsorship_name
+      label: Event Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_type
+      label: Sponsor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sponsor_contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

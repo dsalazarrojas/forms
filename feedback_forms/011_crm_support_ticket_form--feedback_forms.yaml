@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CRM Support Ticket Form
+    pages:
+      - id: 1
+        name: contact_info_header
+        label: -- Contact Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: We will respond to this email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: ticket_details_header
+        label: -- Support Ticket Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: crm_instance_url
+        label: CRM Instance URL
+        hint: e.g. company.crm.com
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: issue_category
+        label: Issue Category
+        hint: null
+        type: select_one
+        options: [Login/Access, Data Sync, Reporting Error, UI/UX Bug, Feature Request, Billing]
+        required: true
+      - id: 8
+        name: issue_priority
+        label: Priority Level
+        hint: null
+        type: select_one
+        options: [Low - Cosmetic, Medium - Impacting Workflow, High - Urgent, Critical - System Down]
+        required: true
+      - id: 9
+        name: issue_subject
+        label: Subject
+        hint: Brief summary of the issue
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: issue_description
+        label: Detailed Description
+        hint: Please include steps to reproduce if applicable
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: frequency
+        label: Frequency of Issue
+        hint: null
+        type: select_one
+        options: [One-time occurrence, Intermittent, Constant/Every time]
+        required: true
+      - id: 12
+        name: system_info_header
+        label: -- System Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: browser_used
+        label: Browser and Version
+        hint: e.g. Chrome 120
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: operating_system
+        label: Operating System
+        hint: null
+        type: select_one
+        options: [Windows, macOS, Linux, iOS, Android]
+        required: false
+      - id: 15
+        name: screenshot_attached
+        label: Do you have a screenshot of the error
+        hint: Please email it to support after submitting this form
+        type: select_one
+        options: [Yes, No]
+        required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaints, Compliments And Feedback Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: Please provide your contact details so we can reach you.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: (###)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_feedback_details
+      label: -- Feedback Details --
+      hint: Tell us about your experience.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback_type
+      label: Nature of your feedback
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Complaint
+      - Compliment
+      - Suggestion
+      - General Inquiry
+      required: true
+    - id: 7
+      name: department_involved
+      label: Department Involved
+      hint: Which department does this feedback concern?
+      type: select_one
+      options:
+      - Customer Service
+      - Sales
+      - Technical Support
+      - Billing
+      - Other
+      required: false
+    - id: 8
+      name: date_of_experience
+      label: Date of Experience
+      hint: When did this take place?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: feedback_message
+      label: Your Message
+      hint: Please provide as much detail as possible.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: satisfaction_level
+      label: Overall Satisfaction
+      hint: How satisfied were you with our service?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 11
+      name: follow_up_requested
+      label: Would you like a follow-up regarding this feedback?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

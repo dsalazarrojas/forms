@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Event Registration Form
+    pages:
+    - id: 1
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_name
+      label: Student Name
+      hint: Name of student attending
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_grade
+      label: Student Grade Level
+      hint: Current or upcoming grade
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: Which school does student attend
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Select date you will attend
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Preferred Time Slot
+      hint: Select session time
+      type: select_one
+      options:
+      - Morning, 9 AM to 12 PM
+      - Afternoon, 12 PM to 3 PM
+      - Evening, 3 PM to 6 PM
+      - Any time
+      required: true
+    - id: 10
+      name: number_attending
+      label: Number of Family Members Attending
+      hint: Total attendees including student
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: siblings_attending
+      label: Will Siblings Attend
+      hint: Are other children coming
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: sibling_names
+      label: Sibling Names and Grades
+      hint: List names and grades of siblings
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: activities_interested
+      label: Activities of Interest
+      hint: Select what you want to participate in
+      type: select_multiple
+      options:
+      - School tours
+      - Meet the teachers
+      - Supply distribution
+      - Sports registration
+      - Club sign-ups
+      - Parent orientation
+      - Student activities
+      - Resource fair
+      required: true
+    - id: 14
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to volunteer at event
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 15
+      name: volunteer_tasks
+      label: Volunteer Tasks You Can Help With
+      hint: Select what you can do
+      type: select_multiple
+      options:
+      - Setup
+      - Registration table
+      - Tour guide
+      - Activity leader
+      - Cleanup
+      - Cannot volunteer
+      required: false
+    - id: 16
+      name: t_shirt_sizes
+      label: T-Shirt Sizes Needed
+      hint: For event shirts if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_needs
+      label: Dietary Needs for Refreshments
+      hint: Any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transportation_needed
+      label: Need Transportation Assistance
+      hint: Do you need help getting to event
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: questions_concerns
+      label: Questions or Concerns
+      hint: Anything you would like to ask
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_heard_about_event
+      label: How Did You Hear About Event
+      hint: Source of information
+      type: select_one
+      options:
+      - School website
+      - Email newsletter
+      - Social media
+      - Flyer
+      - Friend or family
+      - Other
+      required: false
+    - id: 21
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

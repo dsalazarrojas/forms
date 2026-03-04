@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Feedback Form
+    pages:
+    - id: 1
+      name: section_feedback
+      label: -- Feedback Submission --
+      hint: All responses are anonymous unless you provide contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_topic
+      label: Feedback topic
+      hint: Select the area your feedback relates to
+      type: select_one
+      options:
+      - Service quality
+      - Program content
+      - Facilities
+      - Staff interaction
+      - Other
+      required: true
+    - id: 3
+      name: rating
+      label: Overall rating 1 to 5
+      hint: 1 is poor and 5 is excellent
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback_text
+      label: Feedback details
+      hint: Describe your experience or suggestions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: would_recommend
+      label: Would you recommend us
+      hint: Helps measure satisfaction
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 6
+      name: contact_email_optional
+      label: Contact email if follow up requested
+      hint: Leave blank to remain anonymous
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_preference
+      label: Preferred follow up method
+      hint: If you provided contact details
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No follow up
+      required: false
+    - id: 8
+      name: other_comments
+      label: Other comments
+      hint: Additional context or attachments described here
+      type: text
+      options: []
+      required: false

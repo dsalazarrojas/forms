@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Staff Customer Interaction Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: customer_interaction
+      label: Customer Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: interaction_type
+      label: Interaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In-store''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: false
+    - id: 4
+      name: interaction_details
+      label: Interaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Resolved''}'
+      - '{''id'': 2, ''label'': ''Not Resolved''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 8
+      name: resolution_details
+      label: Resolution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

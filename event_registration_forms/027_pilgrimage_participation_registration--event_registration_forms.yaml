@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pilgrimage Participation Registration
+    pages:
+    - id: 1
+      name: name_first
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name_last
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - China
+      - UK
+      - Other
+      required: true
+    - id: 9
+      name: language_spoken
+      label: prophets__spoken__language
+      hint: Select all languages
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: field_10
+      label: Field 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trip_plan
+      label: Trip Planning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: comments_trip
+      label: Comments__trip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: comments_assigned_user
+      label: Comments__assigned__user
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: comments_assigned_tool
+      label: Comments__assigned__tool
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comments_assigned_team
+      label: Comments__assigned__team
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: comments_trip_plan
+      label: Comments__trip__plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: trip_plan_type
+      label: trip__plan__type
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: true
+    - id: 22
+      name: comments_trip_plan_type
+      label: Comments__trip__plan__type
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments_trip_plan_type_online
+      label: Comments__trip__plan__type__online
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments_trip_plan_type_in_person
+      label: Comments__trip__plan__type__in__person
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments_trip_plan_type_hybrid
+      label: Comments__trip__plan__type__hybrid
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: website-management-feedback-form
+    pages:
+    - id: 1
+      name: user_feedback
+      label: Website Management Feedback Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: user_features_preferences
+      label: User Features Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feature_categories
+      label: Feature Categories
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: usability
+      label: Usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feature_performance
+      label: Feature Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_usability
+      label: Overall Usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feature_enhancements
+      label: Feature Enhancements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false

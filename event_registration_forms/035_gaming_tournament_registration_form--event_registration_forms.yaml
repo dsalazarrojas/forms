@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Tournament Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discord_id
+      label: Discord ID
+      hint: Discord ID for team or player (e.g., 123456)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: discord_server
+      label: Discord Server
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: discord_channel
+      label: Discord Channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tournament_name
+      label: Tournament Name
+      hint: Tournament name (e.g., "Tournament of Champions")
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tournament_date
+      label: Tournament Date
+      hint: Date of the tournament (e.g., 2024-03-16)
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tournament_time
+      label: Tournament Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tournament_duration
+      label: Tournament Duration
+      hint: Length of the tournament (e.g., 2 hours)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_version
+      label: Game Version
+      hint: Version of the game (e.g., 1.0.1)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_mode
+      label: Game Mode
+      hint: Mode of the game (e.g., casual, competitive)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: game_server
+      label: Game Server
+      hint: Server IP or URL
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_size
+      label: Team Size
+      hint: Number of players in team
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: team_type
+      label: Team Type
+      hint: Type of team (e.g., casual, competitive)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: player_rank
+      label: Player Rank
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: player_position
+      label: Player Position
+      hint: Position of the player in the team
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: player_notes
+      label: Player Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: team_notes
+      label: Team Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: Submit the form
+      type: text
+      options: []
+      required: false

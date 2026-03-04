@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Schedule Overview
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: registration_id
+        label: Registration ID
+        hint: Your confirmation number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: conference_track
+        label: Primary Conference Track
+        hint: Your focus area
+        type: select_one
+        options:
+          - Technology and Innovation
+          - Business Strategy
+          - Research and Development
+          - Leadership
+          - General Interest
+          - Undecided
+        required: true
+      - id: 5
+        name: day_one_sessions
+        label: Day One Sessions of Interest
+        hint: Select sessions
+        type: select_multiple
+        options:
+          - Opening Keynote 9 AM
+          - Session A 10:30 AM
+          - Session B 10:30 AM
+          - Lunch Keynote 12:30 PM
+          - Session C 2 PM
+          - Session D 2 PM
+          - Panel Discussion 4 PM
+          - Welcome Reception 6 PM
+        required: false
+      - id: 6
+        name: day_two_sessions
+        label: Day Two Sessions of Interest
+        hint: Select sessions
+        type: select_multiple
+        options:
+          - Morning Keynote 9 AM
+          - Workshop A 10:30 AM
+          - Workshop B 10:30 AM
+          - Networking Lunch 12:30 PM
+          - Breakout Sessions 2 PM
+          - Poster Session 4 PM
+          - Gala Dinner 7 PM
+        required: false
+      - id: 7
+        name: day_three_sessions
+        label: Day Three Sessions of Interest
+        hint: Select sessions
+        type: select_multiple
+        options:
+          - Closing Keynote 9 AM
+          - Final Panel 10:30 AM
+          - Awards Ceremony 12 PM
+          - Closing Lunch 12:30 PM
+          - Farewell Reception 3 PM
+        required: false
+      - id: 8
+        name: workshop_preferences
+        label: Workshop Preferences
+        hint: Rank your choices
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: networking_events
+        label: Networking Events Attending
+        hint: Select all
+        type: select_multiple
+        options:
+          - Welcome Reception
+          - Coffee Breaks
+          - Networking Lunch
+          - Evening Mixer
+          - Gala Dinner
+          - Closing Reception
+        required: false
+      - id: 10
+        name: speaker_meetups
+        label: Interested in Speaker Meetups
+        hint: Q and A sessions
+        type: select_one
+        options:
+          - Yes Very Interested
+          - Maybe
+          - No Not Interested
+        required: false
+      - id: 11
+        name: exhibition_visit
+        label: Planning to Visit Exhibition
+        hint: Expo hall
+        type: select_one
+        options:
+          - Yes Definitely
+          - Maybe
+          - No
+        required: false
+      - id: 12
+        name: personal_goals
+        label: Personal Conference Goals
+        hint: What you want to achieve
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: must_attend_sessions
+        label: Must-Attend Sessions
+        hint: Priority sessions
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: scheduling_conflicts
+        label: Any Scheduling Conflicts
+        hint: Times unavailable
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: meal_functions
+        label: Meal Functions Attending
+        hint: Select all
+        type: select_multiple
+        options:
+          - Welcome Breakfast
+          - Lunch Day 1
+          - Lunch Day 2
+          - Lunch Day 3
+          - Networking Dinner
+          - Gala Dinner
+          - Farewell Brunch
+        required: false
+      - id: 16
+        name: dietary_requirements
+        label: Dietary Requirements
+        hint: For meals
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: session_materials
+        label: Session Materials Preference
+        hint: How to receive
+        type: select_one
+        options:
+          - Digital Download
+          - Printed Handouts
+          - Both
+          - None
+        required: false
+      - id: 18
+        name: recording_access
+        label: Want Access to Recordings
+        hint: Session videos
+        type: select_one
+        options:
+          - Yes Please
+          - No Thank You
+        required: false
+      - id: 19
+        name: mobile_app
+        label: Will Use Conference Mobile App
+        hint: For schedule
+        type: select_one
+        options:
+          - Yes Already Downloaded
+          - Yes Will Download
+          - No Prefer Print
+        required: false
+      - id: 20
+        name: calendar_export
+        label: Need Calendar Export
+        hint: iCal or Google Calendar
+        type: select_one
+        options:
+          - Yes iCal Format
+          - Yes Google Calendar
+          - Yes Both
+          - No Not Needed
+        required: false
+      - id: 21
+        name: reminders
+        label: Want Session Reminders
+        hint: Email notifications
+        type: select_one
+        options:
+          - Yes Please
+          - No Thank You
+        required: false
+      - id: 22
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other info
+        type: text
+        options: []
+        required: false

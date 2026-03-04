@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choir Media Release Waiver Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: choir_name
+      label: Choir Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: media_release_section
+      label: -- Media Release Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photography_release
+      label: I authorize the use of my photograph
+      hint: For choir promotional materials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: video_release
+      label: I authorize the use of video recordings
+      hint: Of my performance and participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: audio_release
+      label: I authorize the use of audio recordings
+      hint: Of my singing and voice
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: name_and_likeness
+      label: I authorize use of my name and likeness
+      hint: In connection with the recordings
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: usage_purposes
+      label: -- Permitted Usage Purposes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: permitted_uses
+      label: I authorize use for these purposes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website and social media
+      - Promotional brochures
+      - News publications
+      - YouTube and video platforms
+      - Streaming performances
+      - DVD or physical media
+      - Advertising materials
+      required: true
+    - id: 14
+      name: commercial_use
+      label: I authorize commercial use of media
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: duration_of_release
+      label: -- Duration of Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: release_duration
+      label: Duration of This Release
+      hint: null
+      type: select_one
+      options:
+      - One year
+      - Two years
+      - Five years
+      - Perpetual
+      - Current season only
+      required: true
+    - id: 17
+      name: revocation_rights
+      label: -- Revocation Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: understand_revocation
+      label: I understand I can revoke this consent in writing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: compensation
+      label: -- Compensation and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: compensation_understanding
+      label: I understand no compensation is provided for media use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: legal_acknowledgment
+      label: -- Legal Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: understand_terms
+      label: I have read and understand these terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: voluntary_consent
+      label: I voluntarily grant this release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: parental_consent_needed
+      label: If Under 18, Parent Consent Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, consent obtained
+      - No, over 18
+      - Not applicable
+      required: true
+    - id: 25
+      name: signature_confirmation
+      label: I consent to this media release
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

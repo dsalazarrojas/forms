@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_night_check_in_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tshirt_size
+      label: T-shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 6
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Red
+      - Blue
+      required: false
+    - id: 7
+      name: shirt_style
+      label: Shirt Style
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: shirt_order_notes
+      label: Shirt Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Drink
+      - Other
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: shirt_cost
+      label: Shirt Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shirt_cost_paid
+      label: Shirt Cost Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: donation
+      label: Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '10'
+      - '20'
+      required: false
+    - id: 20
+      name: volunteer_shift
+      label: Volunteer Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 21
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Event Lead
+      - Registration
+      - Volunteer
+      required: false
+    - id: 22
+      name: tshirt_designer
+      label: T-shirt Designer
+      hint: null
+      type: select_one
+      options:
+      - Design A
+      - Design B
+      required: false
+    - id: 23
+      name: tshirt_printer
+      label: T-shirt Printer
+      hint: null
+      type: select_one
+      options:
+      - Printer A
+      - Printer B
+      required: false
+    - id: 24
+      name: event_manager
+      label: Event Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager A
+      - Manager B
+      required: false
+    - id: 25
+      name: tshirt_fulfillment
+      label: T-shirt Fulfillment
+      hint: null
+      type: select_one
+      options:
+      - Fulfillment A
+      - Fulfillment B
+      required: false

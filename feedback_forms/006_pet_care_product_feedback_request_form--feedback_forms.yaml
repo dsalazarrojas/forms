@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Care Product Feedback Request Form
+    pages:
+    - id: 1
+      name: pet_care_product
+      label: Pet Care Product
+      hint: null
+      type: select_multiple
+      options:
+      - Pet G Producers
+      - Pet Food
+      - Pet Treats
+      - Pet Toys
+      - Other
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: answer
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: other_field_1
+      label: Other Field 1
+      hint: null
+      type: select_one
+      options:
+      - Pet Grooming
+      - Pet Photography
+      - Pet Transportation
+      - Pet Travel
+      - Other
+      required: false
+    - id: 11
+      name: other_field_2
+      label: Other Field 2
+      hint: null
+      type: select_multiple
+      options:
+      - Cat
+      - Dog
+      - Fish
+      - Other
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Visitor Information Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization or school
+      hint: If visiting with group indicate organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: group_size
+      label: Group size
+      hint: Number of people visiting
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: Visit date
+      hint: Scheduled visit date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: arrival_time
+      label: Arrival time
+      hint: Expected arrival time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tour_requested
+      label: Tour requested
+      hint: Would you like a guided tour
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: special_needs
+      label: Special needs
+      hint: Accessibility or other requirements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_requests
+      label: Additional requests
+      hint: Any other arrangements needed
+      type: text
+      options: []
+      required: false

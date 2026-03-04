@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passive Voice Proficiency Quiz
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class
+      label: Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: voice_type
+      label: Voice Type
+      hint: null
+      type: select_one
+      options:
+      - Past Simple
+      - Past Perfect
+      - Past Perfect Continuous
+      - Present Simple
+      - Present Continuous
+      - Present Perfect
+      - Future Simple
+      - Future Continuous
+      - Conditionals
+      - Passive Voice
+      required: true
+    - id: 10
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true

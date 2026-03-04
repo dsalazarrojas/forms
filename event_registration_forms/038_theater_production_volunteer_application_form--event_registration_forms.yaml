@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Production Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_application_form
+      label: volunteer-application-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_skills
+      label: Volunteer Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_position_preference
+      label: Volunteer Position Preference
+      hint: null
+      type: select_one
+      options:
+      - Front of House
+      - Stage Crew
+      - Production
+      required: true
+    - id: 6
+      name: volunteer_shifts
+      label: Volunteer Shifts
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_duration
+      label: Volunteer Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Building Meeting Feedback
+    pages:
+    - id: 1
+      name: first_page
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_team
+      label: Maintenance Team
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Leader
+      - Operations Manager
+      - Maintenance Supervisor
+      required: true
+    - id: 3
+      name: feedback_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: feedback_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

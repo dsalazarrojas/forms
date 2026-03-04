@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Audit Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 4
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

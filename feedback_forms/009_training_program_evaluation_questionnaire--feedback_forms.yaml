@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_program_evaluation_questionnaire
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: program_improvement
+      label: Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Highly Satisfied
+      - Highly Dissatisfied
+      required: false
+    - id: 6
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_expectation
+      label: Participant Expectation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: false

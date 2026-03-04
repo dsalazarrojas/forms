@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Event Management Assessment Form
+    pages:
+    - id: 1
+      name: section_organizer_info
+      label: -- Organizer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organizer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organizer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Exhibition
+      - Auction
+      - Workshop
+      - Festival
+      - Conference
+      - Other
+      required: true
+    - id: 10
+      name: attendance_actual
+      label: Actual Attendance
+      hint: Number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: attendance_expected
+      label: Expected Attendance
+      hint: What was your goal
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_assessment
+      label: -- Event Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_success
+      label: Overall Event Success
+      hint: null
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Met expectations
+      - Partially met expectations
+      - Below expectations
+      required: true
+    - id: 14
+      name: planning_quality
+      label: Quality of Planning and Organization
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: vendor_coordination
+      label: Vendor and Participant Coordination
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: audience_engagement
+      label: Audience Engagement and Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: section_challenges
+      label: -- Challenges and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: main_challenges
+      label: Main Challenges Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Venue or logistics
+      - Weather or external factors
+      - Vendor or artist issues
+      - Attendance lower than expected
+      - Budget constraints
+      - Staffing or volunteers
+      - Technical difficulties
+      - None
+      required: false
+    - id: 19
+      name: challenge_details
+      label: Describe Major Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_improvements
+      label: -- Future Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: improvement_ideas
+      label: Key Improvements for Future Events
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: budget_feedback
+      label: Budget Planning Feedback
+      hint: Was budget adequate
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: timeline_feedback
+      label: Timeline and Scheduling Feedback
+      hint: Was timeline adequate
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: repeat_event
+      label: Will you organize this event again
+      hint: null
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - probably
+      - Maybe
+      - Probably not
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_journey_mapping_survey
+    pages:
+    - id: 1
+      name: customer_journey_mapping_survey_form
+      label: customer_journey_mapping_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: section_1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: section_2
+      label: section_2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: customer_service_rating
+      label: customer_service_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_service_email
+      label: customer_service_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: comments_on_service
+      label: comments_on_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_service_phone
+      label: customer_service_phone
+      hint: null
+      type: text
+      options: []
+      required: false

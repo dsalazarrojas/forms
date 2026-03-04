@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Program Evaluation Form
+    pages:
+      - id: 1
+        name: introduction
+        label: -- Outreach Evaluation --
+        hint: Your feedback helps us improve our community impact.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: program_name
+        label: Name of Outreach Program
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participation_date
+        label: Date of Participation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall experience with the program.
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 5
+        name: content_relevance
+        label: Rate the Relevance of Program Content
+        hint: null
+        type: select_one
+        options: [Highly Relevant, Relevant, Neutral, Not Relevant]
+        required: true
+      - id: 6
+        name: instructor_effectiveness
+        label: Rate the Instructors or Organizers
+        hint: Effective communication and organization.
+        type: select_one
+        options: [Very Effective, Effective, Neutral, Ineffective]
+        required: true
+      - id: 7
+        name: valuable_part
+        label: What was the most valuable part of the program?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: improvement_areas
+        label: What part of the program could be improved?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: outreach_channel
+        label: How did you hear about this program?
+        hint: null
+        type: select_multiple
+        options: [Social Media, Local Newspaper, Word of Mouth, Community Center, Flyer, Other]
+        required: true
+      - id: 10
+        name: other_channel_details
+        label: Other Channel - Please specify
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: recommendation_intent
+        label: Would you recommend this program to others?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 12
+        name: future_suggestions
+        label: Do you have any additional suggestions for future outreach?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: notify_future
+        label: Would you like to be notified about future events?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 14
+        name: participant_email
+        label: Contact Email Address
+        hint: Required if you wish to be notified of future events.
+        type: email
+        options: []
+        required: false
+      - id: 15
+        name: thank_you_note
+        label: -- Thank You --
+        hint: We appreciate your time and feedback.
+        type: note
+        options: []
+        required: false

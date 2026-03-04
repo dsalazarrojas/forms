@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Survey
+    pages:
+    - id: 1
+      name: training_effectiveness_survey_form
+      label: Training Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_program_name
+      label: Training Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendees_name
+      label: Attendees Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendees_contact_info
+      label: Attendees Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_effectiveness_rating
+      label: Training Effectiveness Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_recommendation
+      label: Would you recommend this training?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      - User 4
+      required: true
+    - id: 16
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

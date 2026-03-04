@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planner Nomination Form
+    pages:
+    - id: 1
+      name: event_planner_nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_planner_name
+      label: event_planner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_planner_email
+      label: event_planner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: event_planner_phone
+      label: event_planner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominator_message
+      label: Nominator Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominator_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominator_agreement
+      label: Nominator Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''I confirm that the information provided is accurate.'', ''label'':
+        ''I confirm that the information provided is accurate.''}'
+      - '{''value'': ''I do not confirm that the information provided is accurate.'',
+        ''label'': ''I do not confirm that the information provided is accurate.''}'
+      required: false

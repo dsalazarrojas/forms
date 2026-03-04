@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Coverage Request
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Wedding
+      - Party
+      required: false
+    - id: 2
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coverage_needs
+      label: Coverage Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Single Coverage
+      - Double Coverage
+      - Triple Coverage
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: select_one
+      options:
+      - Outdoor
+      - Indoor
+      required: false
+    - id: 13
+      name: event_format
+      label: Event Format
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Casual
+      - Casual + Formal
+      required: false
+    - id: 14
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 15
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Public Event
+      - Private Event
+      required: false
+    - id: 16
+      name: coverage_requirements
+      label: Coverage Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Scheduled
+      - Not Started
+      required: false
+    - id: 18
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cash
+      - Check
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photographer_contact
+      label: Photographer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: photographer_email
+      label: Photographer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: photographer_phone
+      label: Photographer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

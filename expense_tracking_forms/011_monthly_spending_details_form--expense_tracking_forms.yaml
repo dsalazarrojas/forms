@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_spending_details_form
+    pages:
+    - id: 1
+      name: monthly_spending_details_form_1
+      label: monthly_spending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: income_date
+      label: income_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - expense
+      - income
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: select_multiple
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: false
+    - id: 11
+      name: expense_subcategory
+      label: expense_subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - subcategory_1
+      - subcategory_2
+      - subcategory_3
+      required: false
+    - id: 12
+      name: expense_description
+      label: expense_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: amount_currency
+      label: amount_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - usdc
+      - eur
+      - jpy
+      required: false
+    - id: 14
+      name: income_currency
+      label: income_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - usdc
+      - eur
+      - jpy
+      required: false
+    - id: 15
+      name: total_expenses
+      label: total_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_income
+      label: total_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_expenses_currency
+      label: total_expenses_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - usdc
+      - eur
+      - jpy
+      required: false
+    - id: 18
+      name: total_income_currency
+      label: total_income_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - usdc
+      - eur
+      - jpy
+      required: false
+    - id: 19
+      name: month
+      label: month
+      hint: null
+      type: select_one
+      options:
+      - jan
+      - feb
+      - mar
+      - apr
+      - may
+      - jun
+      - jul
+      - aug
+      - sep
+      - oct
+      - nov
+      - dec
+      required: false
+    - id: 20
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: year_starting
+      label: year_starting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: category_1
+      label: category_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: category_2
+      label: category_2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Douro River Exploration Signup
+    pages:
+    - id: 1
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tour_operator
+      label: Tour Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: First and last name of participant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_address
+      label: Participant Address
+      hint: Street address of participant
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tour_start_date
+      label: Tour Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: tour_duration
+      label: Tour Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tour_operator_info
+      label: Tour Operator Information
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: participant_accept_terms
+      label: Participant Acceptance of Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

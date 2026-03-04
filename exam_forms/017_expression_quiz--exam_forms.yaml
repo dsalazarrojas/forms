@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: expression_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: What do you know about English idioms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How many times have you heard the expression
+      hint: null
+      type: select_one
+      options:
+      - What is the first time you heard the expression
+      - What is the second time you heard the expression
+      - What is the third time you heard the expression
+      - Never
+      required: false
+    - id: 3
+      name: question_2
+      label: How much do you know about English idioms
+      hint: null
+      type: select_multiple
+      options:
+      - A little
+      - A moderate amount
+      - A lot
+      required: false
+    - id: 4
+      name: question_3
+      label: How often do you use English idioms
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost always
+      required: false
+    - id: 5
+      name: question_4
+      label: What do you do when you hear an idiom
+      hint: null
+      type: select_multiple
+      options:
+      - Understand the meaning
+      - Guess the meaning
+      - Ignore the idiom
+      - Repeat the idiom
+      - Ask for clarification
+      required: false
+    - id: 6
+      name: question_5
+      label: How do you learn English idioms
+      hint: null
+      type: select_multiple
+      options:
+      - Watching TV
+      - Listening to music
+      - Reading books
+      - Talking to friends
+      - Looking up the meaning
+      required: false
+    - id: 7
+      name: question_6
+      label: Which of the following is your favorite way to learn English idioms
+      hint: null
+      type: select_multiple
+      options:
+      - Watching TV
+      - Listening to music
+      - Reading books
+      - Talking to friends
+      required: false
+    - id: 8
+      name: question_7
+      label: Have you ever used an idiom in a sentence
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: question_8
+      label: If yes, which sentence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: How much time do you usually spend learning English idioms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: What do you think about using a dictionary when learning English idioms
+      hint: null
+      type: select_multiple
+      options:
+      - Always'
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 12
+      name: question_11
+      label: Have you ever used a dictionary to learn English idioms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: question_12
+      label: How would you rate your ability to learn English idioms
+      hint: null
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Neutral
+      - High
+      - Very high
+      required: false

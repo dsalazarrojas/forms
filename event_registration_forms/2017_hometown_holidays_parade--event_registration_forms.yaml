@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2017 Hometown Holidays Parade Registration
+    pages:
+    - id: 1
+      name: section_header_guardian
+      label: '--- Parent/Guardian Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guardian_full_name
+      label: Parent/Guardian Full Name
+      hint: As it appears on official ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_email
+      label: Parent/Guardian Email Address
+      hint: For important parade updates and communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guardian_phone
+      label: Parent/Guardian Phone Number
+      hint: Primary contact number
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, City, State, Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name (Other than Guardian)
+      hint: Someone we can reach if you are unavailable
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: Ensure this person is aware they are listed
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Legal Guardian
+      - Grandparent
+      - Other Family Member
+      required: true
+    - id: 9
+      name: section_header_child_info
+      label: '--- Child Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: child_full_name
+      label: Child's Full Name
+      hint: Please enter the full name of the participating child
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: Format DD/MM/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: child_age
+      label: Child's Age (as of parade day)
+      hint: Enter age in years
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: child_gender
+      label: Child's Gender
+      hint: Optional, for demographic purposes
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: allergies_medical
+      label: Any Allergies or Medical Conditions?
+      hint: Please list any relevant information for the safety of your child
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Requirements/Accommodations
+      hint: E.g., wheelchair access, dietary needs, assistance
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_participation
+      label: '--- Parade Participation Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: desired_activities
+      label: Desired Parade Activities (Select all that apply)
+      hint: Choose how your child wishes to participate
+      type: select_multiple
+      options:
+      - Marching Group
+      - Float Participant
+      - Costume Contest
+      - Caroling Group
+      - Banner Carrier
+      - Spectator (with chaperone)
+      required: true
+    - id: 18
+      name: costume_description
+      label: Costume Theme/Description (if applicable)
+      hint: Briefly describe your child's parade costume
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: t_shirt_size
+      label: Parade T-Shirt Size
+      hint: If provided for participants
+      type: select_one
+      options:
+      - Child S (6-8)
+      - Child M (10-12)
+      - Child L (14-16)
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      required: false
+    - id: 20
+      name: guardian_accompany
+      label: Will a parent/guardian accompany the child in the parade?
+      hint: Required for children under 8, recommended for all others
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: previous_participation
+      label: Has your child participated in this parade before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: how_heard_about_parade
+      label: How did you hear about the Hometown Holidays Parade?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - School Announcement
+      - Friend/Family Referral
+      - Local Newspaper/Flyer
+      - Community Website
+      - Other
+      required: true
+    - id: 23
+      name: section_header_consent
+      label: '--- Consent and Agreement ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: photo_video_release
+      label: Photo/Video Release
+      hint: I grant permission for photos/videos of my child to be used for promotional
+        purposes.
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: terms_conditions_agree
+      label: Terms and Conditions Agreement
+      hint: I agree to all event rules, regulations, and liability waivers.
+      type: select_one
+      options:
+      - I Agree
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any further information you'd like to share with the parade organizers?
+      type: text
+      options: []
+      required: false

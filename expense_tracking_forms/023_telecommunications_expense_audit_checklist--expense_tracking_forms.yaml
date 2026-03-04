@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Expense Audit Checklist
+    pages:
+    - id: 1
+      name: telecoms_contract_review
+      label: Review Telecommunications Contract
+      hint: Review telecommuncations contract for rate schedule, contract end date,
+        and any special terms and conditions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: invoice_review
+      label: Review Invoices
+      hint: Review all invoices for the contract term, ensure all items are correctly
+        invoiced
+      type: select_multiple
+      options:
+      - Telecom services - monthly
+      - Telecom services - annual
+      - Equipment - monthly
+      - Equipment - annual
+      required: false
+    - id: 3
+      name: usage_patterns
+      label: Document Usage Patterns
+      hint: Review usage patterns, identify overuse or waste
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vendor_management
+      label: Review Vendor Management
+      hint: null
+      type: select_one
+      options:
+      - Telecom services - monthly
+      - Telecom services - annual
+      - Equipment - monthly
+      - Equipment - annual
+      required: false
+    - id: 5
+      name: findings
+      label: Document Findings
+      hint: Document all findings, including any discrepancies
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: review_telecom_services
+      label: Review Telecom Services
+      hint: null
+      type: select_one
+      options:
+      - Telecom services - monthly
+      - Telecom services - annual
+      required: false
+    - id: 7
+      name: review_equipment
+      label: Review Equipment
+      hint: Review equipment, including usage and cost
+      type: select_one
+      options:
+      - Equipment - monthly
+      - Equipment - annual
+      required: false
+    - id: 8
+      name: cost_control
+      label: Document Cost Control
+      hint: Document cost control, including rate changes
+      type: select_one
+      options:
+      - Cost control - monthly
+      - Cost control - annual
+      required: false
+    - id: 9
+      name: review_telecom_billing
+      label: Review Telecom Billing
+      hint: Review telecom billing, including rate changes
+      type: select_one
+      options:
+      - Telecom billing - monthly
+      - Telecom billing - annual
+      required: false
+    - id: 10
+      name: review_internal_audits
+      label: Review Internal Audits
+      hint: null
+      type: select_one
+      options:
+      - Internal audits - monthly
+      - Internal audits - annual
+      required: false
+    - id: 11
+      name: review_external_audits
+      label: Review External Audits
+      hint: null
+      type: select_one
+      options:
+      - External audits - monthly
+      - External audits - annual
+      required: false

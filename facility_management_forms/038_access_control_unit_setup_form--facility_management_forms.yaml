@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Unit Setup Form
+    pages:
+    - id: 1
+      name: section_project
+      label: -- Installation Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: installation_site
+      label: Site Name or Building
+      hint: Location of the new unit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contractor_name
+      label: Installation Contractor Name
+      hint: External or internal team name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: setup_date
+      label: Setup or Installation Date
+      hint: Official completion date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_hardware
+      label: -- Hardware Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: unit_model_number
+      label: Control Unit Model Number
+      hint: unique hardware identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: number_of_readers_connected
+      label: Number of Readers Connected
+      hint: Total reader count per unit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: communication_type
+      label: Unit Communication Type
+      hint: Network protocol
+      type: select_one
+      options:
+      - Ethernet or IP
+      - PoE
+      - Wi-Fi
+      - RS-485
+      required: true
+    - id: 9
+      name: firmware_version
+      label: Installed Firmware Version
+      hint: e.g. v3.4.5
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_logic
+      label: -- Programming and Logic --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: programmed_access_groups
+      label: Access Groups Programmed
+      hint: Select all enabled on this unit
+      type: select_multiple
+      options:
+      - General Staff
+      - Management
+      - Security
+      - Cleaning or Maintenance
+      - Emergency Services
+      required: true
+    - id: 12
+      name: fail_safe_logic
+      label: Door Logic Configuration
+      hint: Security vs Safety setting
+      type: select_one
+      options:
+      - Fail-Safe (Unlocks on power loss)
+      - Fail-Secure (Stays locked)
+      required: true
+    - id: 13
+      name: section_verification
+      label: -- Testing and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: test_swipe_success
+      label: Was a successful test swipe performed on all readers?
+      hint: Functional validation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: central_server_sync
+      label: Did the unit sync successfully with the central server?
+      hint: connectivity check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: section_approvals
+      label: -- Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: authorized_technician
+      label: Authorized Technician Name
+      hint: Person performing the setup
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: facility_manager_signoff
+      label: I approve the installation and configuration as documented
+      hint: Official site acceptance
+      type: select_one
+      options:
+      - Approved
+      - Neutral
+      - Dissatisfied
+      required: true

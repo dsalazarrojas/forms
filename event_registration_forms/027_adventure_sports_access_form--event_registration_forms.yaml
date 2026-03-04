@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Sports Access Form
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: Legal full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Participant's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: activity_selection_section
+      label: -- Activity Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: adventure_sport_type
+      label: Adventure Sport Type
+      hint: Which adventure sport are you interested in
+      type: select_one
+      options:
+      - Rock Climbing
+      - Whitewater Rafting
+      - Skydiving
+      - Bungee Jumping
+      - Zip Lining
+      - Mountain Biking
+      - Kayaking
+      - Paragliding
+      - Other
+      required: true
+    - id: 14
+      name: experience_level
+      label: Experience Level
+      hint: What is your experience level with this activity
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - First Time
+      required: true
+    - id: 15
+      name: activity_date
+      label: Activity Date
+      hint: When would you like to participate in the activity
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: health_medical_section
+      label: -- Health and Medical --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that may affect participation
+      type: select_multiple
+      options:
+      - Heart condition
+      - Asthma
+      - Seizures
+      - Joint problems
+      - Back problems
+      - Pregnancy
+      - None
+      - Other
+      required: true
+    - id: 18
+      name: medications_currently_taking
+      label: Medications Currently Taking
+      hint: Are you currently taking any medications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_agreement
+      label: Consent Agreement
+      hint: Do you consent to participate in the selected adventure activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: terms_acknowledgment
+      label: Terms Acknowledgment
+      hint: I acknowledge and agree to the terms and conditions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

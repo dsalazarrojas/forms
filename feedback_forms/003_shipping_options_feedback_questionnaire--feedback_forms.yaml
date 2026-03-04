@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_options_feedback_questionnaire
+    pages:
+    - id: 1
+      name: shipping_option
+      label: Shipping Option
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: shipping_speed
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - fast
+      - average
+      - slow
+      required: true
+    - id: 4
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: select_multiple
+      options:
+      - free
+      - low_cost
+      - high_cost
+      required: false
+    - id: 5
+      name: shipping_frequency
+      label: Shipping Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 6
+      name: shipping_presentation
+      label: Shipping Presentation
+      hint: null
+      type: select_multiple
+      options:
+      - box
+      - bag
+      - wrap
+      required: false
+    - id: 7
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: select_one
+      options:
+      - carrier1
+      - carrier2
+      - carrier3
+      required: true
+    - id: 8
+      name: shipping_frequency_of_items_shipped
+      label: Shipping Frequency of Items Shipped
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 9
+      name: shipping_presentation_of_items_shipped
+      label: Shipping Presentation of Items Shipped
+      hint: null
+      type: select_multiple
+      options:
+      - box
+      - bag
+      - wrap
+      required: false
+    - id: 10
+      name: shipping_carrier_of_items_shipped
+      label: Shipping Carrier of Items Shipped
+      hint: null
+      type: select_one
+      options:
+      - carrier1
+      - carrier2
+      - carrier3
+      required: true
+    - id: 11
+      name: shipping_service_cost
+      label: Shipping Service Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: shipping_speed
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - fast
+      - average
+      - slow
+      required: true
+    - id: 14
+      name: shipping_frequency_of_orders
+      label: Shipping Frequency of Orders
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 15
+      name: shipping_presentation_of_orders
+      label: Shipping Presentation of Orders
+      hint: null
+      type: select_multiple
+      options:
+      - box
+      - bag
+      - wrap
+      required: true
+    - id: 16
+      name: shipping_carrier_of_orders
+      label: Shipping Carrier of Orders
+      hint: null
+      type: select_one
+      options:
+      - carrier1
+      - carrier2
+      - carrier3
+      required: true
+    - id: 17
+      name: shipping_cost_of_orders
+      label: Shipping Cost of Orders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: shipping_speed_of_orders
+      label: Shipping Speed of Orders
+      hint: null
+      type: select_one
+      options:
+      - fast
+      - average
+      - slow
+      required: true
+    - id: 19
+      name: shipping_presentation_of_items_ordered
+      label: Shipping Presentation of Items Ordered
+      hint: null
+      type: select_multiple
+      options:
+      - box
+      - bag
+      - wrap
+      required: true
+    - id: 20
+      name: shipping_items_shipped_per_order
+      label: Shipping Items Shipped Per Order
+      hint: null
+      type: select_multiple
+      options:
+      - one
+      - two
+      - more
+      required: true
+    - id: 21
+      name: shipping_items_ordered_at_once
+      label: Shipping Items Ordered at Once
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 22
+      name: shipping_items_purchased_per_order
+      label: Shipping Items Purchased Per Order
+      hint: null
+      type: select_multiple
+      options:
+      - one
+      - two
+      - more
+      required: true
+    - id: 23
+      name: shipping_presentation_of_items_purchased
+      label: Shipping Presentation of Items Purchased
+      hint: null
+      type: select_multiple
+      options:
+      - box
+      - bag
+      - wrap
+      required: true
+    - id: 24
+      name: shipping_items_purchased_per_shipment
+      label: Shipping Items Purchased Per Shipment
+      hint: null
+      type: select_multiple
+      options:
+      - one
+      - two
+      - more
+      required: true
+    - id: 25
+      name: shipping_shipments_per_order
+      label: Shipping Shipments Per Order
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true

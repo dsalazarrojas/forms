@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Damage Recovery Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: propertyName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: type_of_damage
+      label: typeOfDamage
+      hint: null
+      type: select_one
+      options:
+      - Water damage
+      - Fire damage
+      - Vandalism damage
+      - Other
+      required: true
+    - id: 5
+      name: description_of_damage
+      label: descriptionOfDamage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_damage
+      label: dateOfDamage
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_damage
+      label: timeOfDamage
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: cause_of_damage
+      label: causeOfDamage
+      hint: null
+      type: select_one
+      options:
+      - Lightning strike
+      - Wind or weather
+      - Vandalism or trespasser
+      - Other
+      required: true
+    - id: 9
+      name: contact_details
+      label: contactDetails
+      hint: null
+      type: select_multiple
+      options:
+      - Call
+      - Text
+      - Email
+      required: true
+    - id: 10
+      name: damage_amount
+      label: damageAmount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: submittedBy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: submittedOn
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_name
+      label: submittedByName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_email
+      label: submittedByEmail
+      hint: null
+      type: email
+      options: []
+      required: false

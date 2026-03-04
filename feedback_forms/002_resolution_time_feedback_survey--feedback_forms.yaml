@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: resolution_time_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: response_speed
+      label: Response Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: resolution_speed
+      label: Resolution Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resolution_speed_important
+      label: Resolution Speed Important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 5
+      name: response_time
+      label: Response Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

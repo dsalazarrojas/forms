@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Catering Payment Form
+    pages:
+    - id: 1
+      name: header_event_info
+      label: -- Event and Attendee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: e.g., Annual Banquet, Men's Breakfast, Women's Retreat
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Lead Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: number_of_tickets
+      label: Number of Meals/Tickets
+      hint: Total count for your party
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: header_meal_choices
+      label: -- Meal Selections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_course_options
+      label: Primary Meal Selection
+      hint: For larger parties - please list counts in notes
+      type: select_one
+      options:
+      - Standard Meat Option
+      - Vegetarian Option
+      - Vegan Option
+      - Kids Meal
+      required: true
+    - id: 8
+      name: dietary_allergies
+      label: Severe Food Allergies
+      hint: e.g., Peanuts, Shellfish, Gluten
+      type: select_multiple
+      options:
+      - None
+      - Nut Allergy
+      - Dairy Free
+      - Gluten Free
+      - Shellfish Allergy
+      required: true
+    - id: 9
+      name: header_payment_calc
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cost_per_person
+      label: Price per Person ($)
+      hint: Pre-filled based on event type
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: additional_donation_catering
+      label: Additional Donation to Support Event Costs (Optional)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_payment_due
+      label: Total Calculated Payment Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_agreement
+      label: I agree to pay the total amount via selected method
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: credit_card_last_four
+      label: Last 4 digits of Card (for verification)
+      hint: Secure payment processed through gateway
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_seating_requests
+      label: Seating or Other Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

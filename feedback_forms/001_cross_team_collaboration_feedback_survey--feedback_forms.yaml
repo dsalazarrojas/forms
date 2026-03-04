@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Team Collaboration Feedback Survey
+    pages:
+    - id: 1
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: collaboration_level
+      label: Collaboration Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 4
+      name: communication_level
+      label: Communication Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: trust_level
+      label: Trust Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 7
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: organization_level
+      label: Organization Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 9
+      name: quality_of_work
+      label: Quality of Work
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 10
+      name: work_style
+      label: Work Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: open_comments
+      label: Open Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: team_work_style
+      label: Team Work Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

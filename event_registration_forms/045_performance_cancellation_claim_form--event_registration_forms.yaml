@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Cancellation Claim Form
+    pages:
+    - id: 1
+      name: performance_cancellation_claim_form
+      label: Cancellation reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophet_artist_cancellation_reason
+      label: Prophet/Artist Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - Artist/Prophet Cancellation
+      - Other
+      required: false
+    - id: 3
+      name: artist_name
+      label: artist/prophet name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cancelled_date
+      label: cancelled date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: cancelled_time
+      label: cancelled time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_date_time
+      label: cancellation date time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: additional_reason
+      label: additional reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cancelled_by
+      label: cancelled by
+      hint: null
+      type: select_one
+      options:
+      - Organizer
+      - Artist/Prophet
+      - Other
+      required: false
+    - id: 9
+      name: other_reason
+      label: other reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: performance_id
+      label: performance id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_id
+      label: claim id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancelled_at
+      label: cancelled at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: claimed_at
+      label: claimed at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: claimant_name
+      label: claimant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_id
+      label: event id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cancelled
+      label: cancelled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: claimant_email
+      label: claimant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: claimant_phone
+      label: claimant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claimant_address
+      label: claimant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claimant_city
+      label: claimant city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claimant_state
+      label: claimant state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_zip
+      label: claimant zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cancelled_by_email
+      label: cancelled by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: cancelled_by_phone
+      label: cancelled by phone
+      hint: null
+      type: text
+      options: []
+      required: false

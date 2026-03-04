@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Collaboration Tool Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: tool_name
+      label: Digital Tool Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tool_description
+      label: What is the tool for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category
+      label: Which category does the tool belong
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sub_category
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rate the tool
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: score
+      label: Score the tool
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Tool Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

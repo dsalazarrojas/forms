@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Indoor Green Space Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_capacity
+      label: facility_capacity
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''less_than_25'', ''value'': ''Less than 25''}'
+      - '{''name'': ''25_to_50'', ''value'': ''25-50''}'
+      - '{''name'': ''more_than_50'', ''value'': ''More than 50''}'
+      required: false
+    - id: 8
+      name: special_needs
+      label: special_needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''wheelchairs'', ''value'': ''Wheelchairs''}'
+      - '{''name'': ''service_animals'', ''value'': ''Service Animals''}'
+      - '{''name'': ''other'', ''value'': ''Other (Please Specify)''}'
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

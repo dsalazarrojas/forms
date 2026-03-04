@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: facility_maintenance_certification_registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer_details
+      label: Employer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_certification
+      label: Participant Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Not certified
+      required: false
+    - id: 5
+      name: certification_session_status
+      label: Certification Session Status
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Certified pending
+      required: false
+    - id: 6
+      name: employer_comments
+      label: Employer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_comments
+      label: Participant Comments
+      hint: Please add any additional comments here
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_manager_name
+      label: Facility Manager
+      hint: Please provide facility manager's name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_schedule
+      label: Participant Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: certification_session
+      label: Certification Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: employer_schedule
+      label: Employer Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: participant_availability
+      label: Participant Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: facility_manager_availability
+      label: Facility Manager Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: certification_session_availability
+      label: Certification Session Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: employer_type
+      label: Employer Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: certification_session_status_update
+      label: Certification Session Status Update
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Certified pending
+      required: false
+    - id: 19
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: certification_session_type
+      label: Certification Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: certification_session_status_update_type
+      label: Certification Session Status Update Type
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: certification_session_status_update_date
+      label: Certification Session Status Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: certification_session_status_update_time
+      label: Certification Session Status Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: certification_session_status_update_notes
+      label: Certification Session Status Update Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: certification_session_status_update_facility_manager
+      label: Certification Session Status Update Facility Manager
+      hint: Please provide facility manager's name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: participant_certification_status_update
+      label: Participant Certification Status Update
+      hint: Please provide participant's certification status update here
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: employer_certification_status_update
+      label: Employer Certification Status Update
+      hint: Please provide employer's certification status update here
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: certification_session_status_update_facility
+      label: Certification Session Status Update Facility
+      hint: Please provide facility's certification status update here
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: certification_session_status_update_notes
+      label: Certification Session Status Update Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: certification_session_status_update_facility_manager_name
+      label: Certification Session Status Update Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: participant_certification_status
+      label: Participant Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 33
+      name: certification_session_status_update_participant
+      label: Certification Session Status Update Participant
+      hint: Please provide participant's certification status update here
+      type: text
+      options: []
+      required: false

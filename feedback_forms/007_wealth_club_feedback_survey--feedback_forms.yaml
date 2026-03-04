@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Club Feedback Survey
+    pages:
+    - id: 1
+      name: member_satisfaction
+      label: How would you rate your overall member satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: improvement_suggestions
+      label: Do you have any improvement suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: referral_intent
+      label: Are you likely to refer friends or family
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Family
+      - Social Media
+      - None
+      required: false
+    - id: 4
+      name: satisfaction_with_program
+      label: How satisfied are you with our program
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false

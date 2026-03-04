@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Submission Intake Form
+    pages:
+    - id: 1
+      name: section_artist
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Artist Website or Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram, LinkedIn, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_exhibition
+      label: -- Exhibition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: exhibition_call
+      label: Exhibition Call or Opportunity
+      hint: Which exhibition are you applying for
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_pieces
+      label: Number of Pieces Submitted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_artwork
+      label: -- Artwork Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: artwork_1_title
+      label: Artwork 1 - Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artwork_1_medium
+      label: Medium or Technique
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artwork_1_dimensions
+      label: Dimensions - Width x Height x Depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: artwork_1_year
+      label: Year Created
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: artwork_1_price
+      label: Selling Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: artwork_1_available
+      label: Available for Sale or Exhibition Only
+      hint: null
+      type: select_one
+      options:
+      - Available for sale
+      - Exhibition only - not for sale
+      - Negotiable
+      required: true
+    - id: 18
+      name: section_artist_statement
+      label: -- Artist Statement and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: artist_statement
+      label: Artist Statement
+      hint: 100-200 words describing your work
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: artistic_background
+      label: Years of Artistic Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: education
+      label: Artistic Education or Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_agreement
+      label: -- Submission Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submission_agreement
+      label: I confirm all information is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 24
+      name: publication_rights
+      label: Permission to publish artwork in promotional materials
+      hint: null
+      type: select_one
+      options:
+      - Yes, I permit
+      - false
+      required: true
+    - id: 25
+      name: final_confirmation
+      label: I agree to the exhibition terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

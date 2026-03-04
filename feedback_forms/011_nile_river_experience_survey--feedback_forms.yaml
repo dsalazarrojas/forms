@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nile River Experience Survey
+    pages:
+    - id: 1
+      name: tour_operator
+      label: Tour Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_type
+      label: tour_type
+      hint: null
+      type: select_one
+      options:
+      - Nile Cruise
+      - Nile River Tour
+      - Egyptian Desert Tour
+      required: true
+    - id: 3
+      name: cruise_date
+      label: cruise_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tour_date
+      label: tour_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tour_rating
+      label: tour_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

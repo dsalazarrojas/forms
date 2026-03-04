@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Kickoff Reception RSVP Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: select_one_attendance
+      label: attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 8
+      name: select_multiple_guests
+      label: guests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Guest 1'', ''label'': ''Guest 1''}'
+      - '{''value'': ''Guest 2'', ''label'': ''Guest 2''}'
+      - '{''value'': ''Guest 3'', ''label'': ''Guest 3''}'
+      - '{''value'': ''Guest 4'', ''label'': ''Guest 4''}'
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_confirmation
+      label: email_confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_confirmation
+      label: phone_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note_confirmation
+      label: note_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: select_one_method
+      label: method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Mail'', ''label'': ''Mail''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Onsite'', ''label'': ''Onsite''}'
+      required: false
+    - id: 14
+      name: select_multiple_method
+      label: methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Mail'', ''label'': ''Mail''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Onsite'', ''label'': ''Onsite''}'
+      required: false
+    - id: 15
+      name: select_one_attendance_method
+      label: attendance_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 16
+      name: select_multiple_guests_method
+      label: guests_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Guest 1'', ''label'': ''Guest 1''}'
+      - '{''value'': ''Guest 2'', ''label'': ''Guest 2''}'
+      - '{''value'': ''Guest 3'', ''label'': ''Guest 3''}'
+      - '{''value'': ''Guest 4'', ''label'': ''Guest 4''}'
+      required: false
+    - id: 17
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: select_one_event_date
+      label: event_date
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': datetime.date(2024, 2, 20), ''label'': datetime.date(2024, 2,
+        20)}'
+      - '{''value'': datetime.date(2024, 2, 21), ''label'': datetime.date(2024, 2,
+        21)}'
+      - '{''value'': datetime.date(2024, 2, 22), ''label'': datetime.date(2024, 2,
+        22)}'
+      required: false
+    - id: 20
+      name: select_one_event_time
+      label: event_time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 720, ''label'': 720}'
+      - '{''value'': 780, ''label'': 780}'
+      - '{''value'': 840, ''label'': 840}'
+      required: false
+    - id: 21
+      name: select_one_event_location
+      label: event_location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Location 1'', ''label'': ''Location 1''}'
+      - '{''value'': ''Location 2'', ''label'': ''Location 2''}'
+      required: false
+    - id: 22
+      name: select_one_event_method
+      label: event_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Mail'', ''label'': ''Mail''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Onsite'', ''label'': ''Onsite''}'
+      required: false
+    - id: 23
+      name: select_one_event_note
+      label: event_note
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 24
+      name: select_one_rsvp
+      label: rsvp
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 25
+      name: select_one_rsvp_method
+      label: rsvp_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Mail'', ''label'': ''Mail''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Onsite'', ''label'': ''Onsite''}'
+      required: false

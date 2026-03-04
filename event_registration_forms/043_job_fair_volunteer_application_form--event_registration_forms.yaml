@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Fair Volunteer Application Form
+    pages:
+    - id: 1
+      name: job_fair_info
+      label: job-fair-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_hours
+      label: volunteer-hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - 7:30 am - 11:30 am
+      - 11:30 am - 1:30 pm
+      - 1:30 pm - 3:30 pm
+      - 3:30 pm - 5:30 pm
+      required: false
+    - id: 11
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Event Coordinator
+      - Event Manager
+      - Volunteer
+      required: false
+    - id: 12
+      name: event_coordinator_notes
+      label: event-coordinator-notes
+      hint: null
+      type: note
+      options: []
+      required: false

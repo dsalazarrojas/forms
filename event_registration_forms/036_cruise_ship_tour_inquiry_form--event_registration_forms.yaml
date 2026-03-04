@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Ship Tour Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Oceanic''}'
+      - '{''id'': 2, ''name'': ''Continental''}'
+      required: true
+    - id: 6
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assisted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatjimmy1''}'
+      - '{''id'': 3, ''name'': ''chatjimmy2''}'
+      required: true
+    - id: 11
+      name: assigned_date
+      label: Assisted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_at
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

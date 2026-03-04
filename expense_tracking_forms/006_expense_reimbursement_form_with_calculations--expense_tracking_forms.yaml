@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Form With Calculations
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_trip
+      label: Date Of Trip
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: total_expense
+      label: Total Expense
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: business_use
+      label: Business Use
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Personal
+      required: true
+    - id: 5
+      name: calculated_total
+      label: Calculated Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reimbursed_amount
+      label: Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: remaining_amount
+      label: Remaining Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: Please submit to finish the form
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

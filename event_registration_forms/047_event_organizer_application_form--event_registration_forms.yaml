@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Organizer Application Form
+    pages:
+    - id: 1
+      name: event_organizer_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_event_details
+      label: Main Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_schedule
+      label: Event Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_organizer_address
+      label: Event Organizer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer_notes
+      label: Event Organizer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

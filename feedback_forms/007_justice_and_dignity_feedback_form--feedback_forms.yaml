@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Justice And Dignity Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question1
+      label: How often do you feel you have been treated fairly in our services?
+      hint: null
+      type: select_multiple
+      options:
+      - Fairly
+      - Somewhat fairly
+      - Not fairly
+      - Very unfairly
+      required: false
+    - id: 3
+      name: feedback_question2
+      label: Were you treated with respect and dignity in our service?
+      hint: null
+      type: select_one
+      options:
+      - Fairly
+      - Somewhat
+      - Not very
+      - Not at all
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Your email address will be used only for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_question3
+      label: How likely are you to recommend our service to a friend or family member?
+      hint: null
+      type: select_multiple
+      options:
+      - Very likely
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      required: true
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question1
+      label: What services were you using when you felt not fairly treated?
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      - Service D
+      required: true
+    - id: 14
+      name: question2
+      label: What were the circumstances surrounding your experience?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 15
+      name: question3
+      label: How would you describe the reason you chose to leave the service early
+        or not use it at all?
+      hint: null
+      type: select_one
+      options:
+      - Reason A
+      - Reason B
+      - Reason C
+      - Reason D
+      required: false
+    - id: 16
+      name: feedback_question4
+      label: Have you had to wait for a service that was delayed?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: question4
+      label: How satisfied are you with the service overall?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not at all satisfied
+      required: true
+    - id: 18
+      name: question5
+      label: How satisfied are you with the service staff?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not at all satisfied
+      required: true
+    - id: 19
+      name: question6
+      label: How satisfied are you with the service environment?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not at all satisfied
+      required: true
+    - id: 20
+      name: question7
+      label: How satisfied are you with the service communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not at all satisfied
+      required: true
+    - id: 21
+      name: question8
+      label: Have you had to contact customer service?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: question9
+      label: Have you had any issues with your service that was not addressed?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: question10
+      label: Have you had any issues with your service that was not addressed due
+        to your language or cultural background?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: question11
+      label: Have you had any issues with your service that was not addressed due
+        to your age or disability?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

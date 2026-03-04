@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: one_shot_game_application
+    pages:
+    - id: 1
+      name: player_application
+      label: Player Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_preferences
+      label: Game Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: game_character
+      label: Character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_character_notes
+      label: Character Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: character_sheet
+      label: Character Sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: game_experience
+      label: Game Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Player''}'
+      - '{''id'': 2, ''label'': ''Game Master''}'
+      - '{''id'': 3, ''label'': ''Game Master Assistant''}'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: game_master
+      label: Game Master
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: game_master_email
+      label: Game Master Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: game_master_phone
+      label: Game Master Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_id
+      label: Event Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chromatography Event Registration
+    pages:
+    - id: 1
+      name: attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affiliation
+      label: Affiliation (University, Company, Organization)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title or Academic Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - Scientist/Researcher
+      - Lab Technician
+      - Graduate Student
+      - Undergraduate Student
+      - Industry Professional
+      - Other
+      required: true
+    - id: 11
+      name: research_area
+      label: Research Area or Field
+      hint: null
+      type: select_one
+      options:
+      - Analytical Chemistry
+      - Biochemistry
+      - Environmental Science
+      - Pharmaceutical
+      - Food Science
+      - Other Chemistry
+      - Non-Chemistry
+      required: true
+    - id: 12
+      name: session_info
+      label: -- Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_sessions
+      label: Preferred Sessions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gas Chromatography
+      - Liquid Chromatography
+      - Mass Spectrometry
+      - Advanced Techniques
+      - Hands-on Workshop
+      - Keynote Address
+      - Networking
+      required: true
+    - id: 14
+      name: workshop_interest
+      label: Interested in Hands-on Workshop?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: true
+    - id: 15
+      name: experience_level
+      label: Chromatography Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 16
+      name: dietary_section
+      label: -- Special Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: questions_interests
+      label: -- Questions & Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: research_interests
+      label: Specific Research or Learning Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

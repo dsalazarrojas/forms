@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debit Card Expense Submission
+    pages:
+    - id: 1
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Personal''}'
+      - '{''label'': ''Business''}'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: receipt_image
+      label: Receipt Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expense_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USD''}'
+      - '{''label'': ''CAD''}'
+      - '{''label'': ''EUR''}'
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Alice''}'
+      - '{''label'': ''Bob''}'
+      - '{''label'': ''Charlie''}'
+      required: false
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Alice''}'
+      - '{''label'': ''Bob''}'
+      - '{''label'': ''Charlie''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

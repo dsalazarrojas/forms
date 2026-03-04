@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_spending_tracker
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: uploaded_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category_options
+      label: Category Options
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 8
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false

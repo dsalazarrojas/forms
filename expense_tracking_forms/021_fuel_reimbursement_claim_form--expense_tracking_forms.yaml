@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: submit_claim
+      label: Submit Claim
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_claim_submitted
+      label: Date Claim Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mileage_start
+      label: Mileage Start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mileage_end
+      label: Mileage End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_mileage
+      label: Total Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fuel_cost
+      label: Fuel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false

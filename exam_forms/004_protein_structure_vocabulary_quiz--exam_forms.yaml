@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: protein_structure_vocabulary_quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Enter Student Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_completed
+      label: Complete Quiz
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: false
+    - id: 4
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter student's email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_email_confirmed
+      label: Confirm Email
+      hint: Retype Student's Email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false

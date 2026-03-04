@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: rv_park_check_out_form
+    pages:
+    - id: 1
+      name: check_out_date
+      label: Check Out Date
+      hint: Please enter a date in mm/dd/yyyy format
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: park_manager_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_feedback
+      label: Guest Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_signature
+      label: Guest Signature
+      hint: Please enter your signature
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: final_balance
+      label: Final Balance
+      hint: Please enter a balance
+      type: number
+      options: []
+      required: false

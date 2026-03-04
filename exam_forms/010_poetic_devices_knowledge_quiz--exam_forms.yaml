@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poetic Devices Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: what_is_poetic_devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: simile
+      label: what_is_a_simile
+      hint: A simile is a figure of speech that compares
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: metaphor
+      label: what_is_a_metaphor
+      hint: A metaphor is a figure of speech that directly
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hyperbole
+      label: what_is_hyperbole
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: personification
+      label: what_is_personification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: alliteration
+      label: what_is_alliteration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assonance
+      label: what_is_asonance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consonance
+      label: what_is_consonance
+      hint: null
+      type: text
+      options: []
+      required: false

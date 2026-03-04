@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_class_inquiry_form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Online
+      required: false
+    - id: 3
+      name: email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_interest
+      label: class interest
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 6
+      name: preferred_days
+      label: preferred days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: available_time
+      label: available time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 8
+      name: instructor_preference
+      label: instructor preference
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Both
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_name
+      label: class name
+      hint: null
+      type: text
+      options: []
+      required: false

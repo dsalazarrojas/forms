@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Exam
+    pages:
+    - id: 1
+      name: exam_date
+      label: Exam Date
+      hint: Date of exam administration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: exam_time
+      label: Exam Start Time
+      hint: Time exam begins
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: candidate_name
+      label: Candidate Name
+      hint: Full legal name of exam candidate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_id
+      label: Candidate ID Number
+      hint: Unique identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_email
+      label: Email Address
+      hint: Email for exam results
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: certification_name
+      label: Certification Name
+      hint: Name of certification being pursued
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: exam_version
+      label: Exam Version
+      hint: Version or form number of exam
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exam_duration
+      label: Exam Duration
+      hint: Total time allowed for exam
+      type: select_one
+      options:
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
+      - 180 minutes
+      - 240 minutes
+      - Other
+      required: true
+    - id: 9
+      name: exam_location
+      label: Exam Location
+      hint: Where is the exam being taken
+      type: select_one
+      options:
+      - Testing center
+      - Online proctored
+      - Workplace
+      - Educational institution
+      - Other
+      required: true
+    - id: 10
+      name: proctor_name
+      label: Proctor Name
+      hint: Name of exam proctor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_questions
+      label: Total Number of Questions
+      hint: Number of questions on exam
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: passing_score
+      label: Passing Score Required
+      hint: Minimum score required to pass
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: exam_section_1
+      label: Section 1 Score
+      hint: Score for first section
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: exam_section_2
+      label: Section 2 Score
+      hint: Score for second section
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: exam_section_3
+      label: Section 3 Score
+      hint: Score for third section
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_score
+      label: Total Score
+      hint: Overall exam score
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: exam_result
+      label: Exam Result
+      hint: Final result of exam
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pending review
+      - Incomplete
+      required: false
+    - id: 18
+      name: accommodations_used
+      label: Testing Accommodations Used
+      hint: Were any accommodations provided
+      type: select_one
+      options:
+      - No accommodations
+      - Extended time
+      - Separate room
+      - Reader assistance
+      - Writer assistance
+      - Other
+      required: true
+    - id: 19
+      name: exam_completion
+      label: Exam Completion Status
+      hint: Did candidate complete the exam
+      type: select_one
+      options:
+      - Yes - Completed
+      - No - Did not finish
+      - No - Did not start
+      required: true
+    - id: 20
+      name: irregularities_noted
+      label: Irregularities Noted
+      hint: Were any irregularities observed during exam
+      type: select_one
+      options:
+      - No irregularities
+      - Minor irregularity
+      - Major irregularity
+      required: true
+    - id: 21
+      name: irregularity_description
+      label: Irregularity Description
+      hint: Describe any irregularities
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: candidate_signature
+      label: Candidate Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: proctor_signature
+      label: Proctor Signature
+      hint: Proctor type name as signature
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of exam
+      type: date
+      options: []
+      required: true

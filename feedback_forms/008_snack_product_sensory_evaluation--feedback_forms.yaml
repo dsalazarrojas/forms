@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snack Product Sensory Evaluation
+    pages:
+    - id: 1
+      name: taste
+      label: Taste
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: texture
+      label: Texture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: appearance
+      label: Appearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: smell
+      label: Smell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: would_recommend
+      label: Would you Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''not_sure''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

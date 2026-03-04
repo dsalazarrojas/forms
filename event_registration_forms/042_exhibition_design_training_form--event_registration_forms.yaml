@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibition Design Training Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant name and email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_session
+      label: training session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_question
+      label: what do you think of the training?
+      hint: null
+      type: text
+      options: []
+      required: false

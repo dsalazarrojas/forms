@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Recognition Ceremony RSVP Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For RSVP confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: number_of_guests
+      label: Number of guests
+      hint: Include yourself
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Specify food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seating_preference
+      label: Seating preference
+      hint: Accessibility or preferred area
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_participation
+      label: Interest in participating in program
+      hint: Speaking performing volunteering
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Indicate any required accommodations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_consent
+      label: Consent for event photos
+      hint: Allow photos for publicity
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Anything else organizers should know
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

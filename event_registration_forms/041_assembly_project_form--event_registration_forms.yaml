@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Project Form
+    pages:
+    - id: 1
+      name: assembly_project_name
+      label: Assembly Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lead_supervisor_assembly
+      label: Lead Supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_members_assigned
+      label: Team Members Assigned
+      hint: List all individuals involved
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date_assembly
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: target_completion_date
+      label: Target Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: materials_required_list
+      label: List of Required Materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tooling_requirements_assembly
+      label: Tooling and Machinery Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_precautions_note
+      label: -- Safety Precautions --
+      hint: Ensure all team members have completed the required safety briefing
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_budget_allocated
+      label: Total Budget Allocated
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_project_status
+      label: Current Project Status
+      hint: null
+      type: select_one
+      options:
+      - Planning Phase
+      - In-Progress
+      - On-Hold/Delayed
+      - Testing and Quality Assurance
+      - Project Completed
+      required: true
+    - id: 11
+      name: status_notes_assembly
+      label: Status Notes and Obstacles
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Timed Accuracy Quiz
+    pages:
+    - id: 1
+      name: timed_accuracy_quiz_form
+      label: timed_accuracy_quiz_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: timed_accuracy_question
+      label: timed_accuracy_question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: timed_accuracy_answer
+      label: timed_accuracy_answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: timed_accuracy_score
+      label: timed_accuracy_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: timed_accuracy_time_taken
+      label: timed_accuracy_time_taken
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: timed_accuracy_score_percentage
+      label: timed_accuracy_score_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timed_accuracy_time_taken_in_seconds
+      label: timed_accuracy_time_taken_in_seconds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: timed_accuracy_time_allowed
+      label: timed_accuracy_time_allowed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: timed_accuracy_question_difficulty_level
+      label: timed_accuracy_question_difficulty_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: timed_accuracy_correctness
+      label: timed_accuracy_correctness
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      required: true
+    - id: 11
+      name: timed_accuracy_time_up_to
+      label: timed_accuracy_time_up_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: timed_accuracy_correctness_percentage
+      label: timed_accuracy_correctness_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: timed_accuracy_time_left
+      label: timed_accuracy_time_left
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: timed_accuracy_time_right
+      label: timed_accuracy_time_right
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: timed_accuracy_score_out_of
+      label: timed_accuracy_score_out_of
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: timed_accuracy_question_number
+      label: timed_accuracy_question_number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: timed_accuracy_question_number_hint
+      label: timed_accuracy_question_number_hint
+      hint: null
+      type: note
+      options: []
+      required: false

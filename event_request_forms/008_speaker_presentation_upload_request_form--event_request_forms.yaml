@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: speaker presentation upload request form
+    pages:
+    - id: 1
+      name: speaker_presentation_upload_request_form
+      label: Speaker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_presentation_upload
+      label: Upload Presentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_details
+      label: Speaker Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_description
+      label: Session Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - docx
+      - ppt
+      - mp4
+      - mp3
+      - mp4
+      - mp4
+      - mp4
+      required: false
+    - id: 17
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: upload_status
+      label: Upload Status
+      hint: null
+      type: select_one
+      options:
+      - success
+      - failure
+      required: false
+    - id: 19
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - open
+      - closed
+      required: false
+    - id: 20
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Activity Monitoring Form
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Community Project
+      - Event
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: activity_name
+      label: Activity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: activity_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: activity_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_count
+      label: Volunteer Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_hours_worked
+      label: Volunteer Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Experience Request Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: delivery_team
+      label: Delivery Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: Please provide detailed feedback
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: issue
+      label: Issue
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: delivery_vehicle
+      label: Delivery Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: delivery_date_range
+      label: Delivery Date Range
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

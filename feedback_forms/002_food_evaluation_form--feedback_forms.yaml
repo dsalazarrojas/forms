@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Evaluation Form
+    pages:
+    - id: 1
+      name: food_evaluation_form
+      label: Food Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_rating
+      label: Food Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_quality
+      label: What did you think of the food quality?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_rating
+      label: Service Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: food_price
+      label: How was the price of your food?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Affordable'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Expensive'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: service_price
+      label: How was the price of the service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Affordable'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Expensive'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: food_environment
+      label: How clean was the food environment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Neutral'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Very Dissatisfied'', ''value'': 3}'
+      required: false
+    - id: 10
+      name: food_quality_rating
+      label: How would you rate the food quality?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Fair'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Poor'', ''value'': 5}'
+      required: false
+    - id: 11
+      name: service_quality_rating
+      label: How would you rate the service quality?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Fair'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Poor'', ''value'': 5}'
+      required: false
+    - id: 12
+      name: will_revisit
+      label: Will you come back to this restaurant?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Undecided'', ''value'': 3}'
+      required: false
+    - id: 13
+      name: recommendations
+      label: Do you have any recommendations for us?
+      hint: null
+      type: text
+      options: []
+      required: false

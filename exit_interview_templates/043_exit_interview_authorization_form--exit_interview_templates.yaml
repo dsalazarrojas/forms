@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: exit_interview_authorization_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_departure
+      label: Date of Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_departure
+      label: reason_for_departure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_questions
+      label: Feedback Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''What were some of the most significant reasons why
+        you are leaving?''}'
+      - '{''id'': 2, ''label'': "How do you rate your manager''s management style?"}'
+      - '{''id'': 3, ''label'': ''What suggestions do you have for improving our workplace
+        culture?''}'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: true

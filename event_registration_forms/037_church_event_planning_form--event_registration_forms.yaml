@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Planning Form
+    pages:
+    - id: 1
+      name: header_event_overview
+      label: -- Event Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposed_event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_organizer
+      label: Lead Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsoring_ministry
+      label: Sponsoring Ministry
+      hint: null
+      type: select_one
+      options:
+      - Children's Ministry
+      - Youth Ministry
+      - Men's Ministry
+      - Women's Ministry
+      - Senior Saints
+      - Missions
+      - Worship Arts
+      required: true
+    - id: 5
+      name: event_description_purpose
+      label: Event Purpose and Description
+      hint: Briefly explain the "why" and "what" of the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: header_logistics
+      label: -- Date and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_event_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time_including_setup
+      label: Start Time (Including Setup)
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time_including_cleanup
+      label: End Time (Including Cleanup)
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: estimated_attendance_planning
+      label: Estimated Total Attendance
+      hint: For planning and room capacity
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: header_requirements
+      label: -- Resource Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: facility_rooms_needed
+      label: Facility Rooms Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sanctuary
+      - Fellowship Hall
+      - Kitchen
+      - Classroom(s)
+      - Youth Room
+      - Outdoor Area
+      required: true
+    - id: 14
+      name: tech_needs_planning
+      label: Tech and AV Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Sound System
+      - Projector/Screen
+      - Live Stream
+      - Stage Lighting
+      - Handheld Mics
+      required: false
+    - id: 15
+      name: budget_estimate
+      label: Estimated Total Budget ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: funding_source
+      label: Funding Source
+      hint: null
+      type: select_one
+      options:
+      - Ministry Budget
+      - Participant Fees
+      - Fundraiser
+      - Donation/Sponsor
+      required: true
+    - id: 17
+      name: promotion_plan
+      label: Promotional Plan
+      hint: How will we announce this? (Social Media, Newsletter, Pulpit)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: child_care_provision
+      label: Will child care be provided?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: food_provision_plan
+      label: Will food be served?
+      hint: null
+      type: select_one
+      options:
+      - Full Meal
+      - Snacks only
+      - Light Refreshments
+      - No Food
+      required: true
+    - id: 20
+      name: submission_date_planning
+      label: Date Plan Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

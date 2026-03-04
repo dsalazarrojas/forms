@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Check In Form
+    pages:
+    - id: 1
+      name: checkin_id
+      label: Check In ID
+      hint: Unique check-in identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: checkin_date
+      label: Check In Date
+      hint: Date of check-in
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: checkin_time
+      label: Check In Time
+      hint: Time of check-in
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date for age verification
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: concert_name
+      label: Concert Name
+      hint: Name of concert event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: concert_date
+      label: Concert Date
+      hint: Date of concert
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: ticket_number
+      label: Ticket Number
+      hint: Your ticket number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your ticket type
+      type: select_one
+      options:
+      - General Admission
+      - VIP
+      - Front Row
+      - Balcony
+      - Box Seat
+      - Standing Room
+      - Backstage Pass
+      - Media Pass
+      - Staff
+      required: true
+    - id: 12
+      name: purchase_method
+      label: Purchase Method
+      hint: How did you purchase
+      type: select_one
+      options:
+      - Online
+      - Box Office
+      - Phone
+      - Third Party
+      - Gift
+      - Complimentary
+      required: false
+    - id: 13
+      name: id_verified
+      label: ID Verified
+      hint: Has ID been verified
+      type: select_one
+      options:
+      - Yes, Verified
+      - No ID Required
+      - ID Not Presented
+      required: true
+    - id: 14
+      name: age_verified
+      label: Age Verified
+      hint: Is age requirement met
+      type: select_one
+      options:
+      - Yes, 18 or Older
+      - Yes, 21 or Older
+      - Under 18 with Guardian
+      - No, Under Age
+      required: true
+    - id: 15
+      name: party_size
+      label: Party Size
+      hint: Number in your group
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vip_amenities
+      label: VIP Amenities Access
+      hint: Are VIP amenities applicable
+      type: select_one
+      options:
+      - Yes, Granted
+      - No, Not Applicable
+      - No, Not Eligible
+      required: false
+    - id: 17
+      name: merchandise_preorder
+      label: Merchandise Pre-Order
+      hint: Do you have merchandise to pick up
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to venue rules and policies
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 22
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: I consent to being photographed
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 23
+      name: checkin_status
+      label: Check In Status
+      hint: Current check-in status
+      type: select_one
+      options:
+      - Checked In
+      - Pending
+      - Denied Entry
+      - Cancelled
+      required: true
+    - id: 24
+      name: staff_initials
+      label: Staff Initials
+      hint: Checking staff member initials
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity Safety Assessment Form
+    pages:
+    - id: 1
+      name: activity_name
+      label: Name of Activity
+      hint: Official name of the activity being assessed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: activity_date
+      label: Activity Date
+      hint: Scheduled date of the activity
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: activity_location
+      label: Activity Location
+      hint: Where the activity will take place
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the person conducting the safety assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessor_position
+      label: Assessor Position
+      hint: Job title of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_count
+      label: Estimated Number of Participants
+      hint: How many people are expected to participate
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: hazard_identification
+      label: Identified Hazards
+      hint: What potential hazards have been identified
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_level
+      label: Overall Risk Level
+      hint: What is the overall risk level of the activity
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: true
+    - id: 9
+      name: safety_measures_in_place
+      label: Safety Measures in Place
+      hint: What safety measures are already implemented
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: safety_equipment_available
+      label: Safety Equipment Available
+      hint: What safety equipment will be available during the activity
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: What emergency procedures are in place
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: staff_training_verification
+      label: Staff Safety Training Verification
+      hint: Have staff members received appropriate safety training
+      type: select_one
+      options:
+      - Yes, all staff trained
+      - Most staff trained
+      - Some staff trained
+      - No staff trained
+      required: true
+    - id: 13
+      name: assessment_approval
+      label: Assessment Approval
+      hint: Is the activity approved to proceed based on this safety assessment
+      type: select_one
+      options:
+      - Approved
+      - Conditionally Approved
+      - Requires Modifications
+      - Not Approved
+      required: true

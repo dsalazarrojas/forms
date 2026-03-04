@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_meeting_appointment_form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John'', ''value'': ''John''}'
+      - '{''label'': ''Jane'', ''value'': ''Jane''}'
+      - '{''label'': ''Joe'', ''value'': ''Joe''}'
+      required: false
+    - id: 8
+      name: meeting_topic_preferences
+      label: Meeting Topic Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''label'': ''HR'', ''value'': ''hr''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: preferred_meeting_time
+      label: Preferred Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday'', ''value'': 1}'
+      - '{''label'': ''Tuesday'', ''value'': 2}'
+      - '{''label'': ''Wednesday'', ''value'': 3}'
+      - '{''label'': ''Thursday'', ''value'': 4}'
+      - '{''label'': ''Friday'', ''value'': 5}'
+      required: false
+    - id: 11
+      name: preferred_meeting_time
+      label: Preferred Meeting Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning'', ''value'': 1}'
+      - '{''label'': ''Afternoon'', ''value'': 2}'
+      - '{''label'': ''Evening'', ''value'': 3}'
+      required: false
+    - id: 12
+      name: preferred_meeting_date
+      label: Preferred Meeting Date
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Weekends'', ''value'': 1}'
+      - '{''label'': ''Weekdays'', ''value'': 2}'
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_expense_claim_form
+    pages:
+    - id: 1
+      name: travel_dates
+      label: Report travel dates
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense amount
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense type
+      hint: 'null'
+      type: select_one
+      options:
+      - Business Class
+      - Economy
+      - First Class
+      required: false
+    - id: 5
+      name: reimbursed_by
+      label: Reimbursed by
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Business Class
+      - Employee
+      - Company
+      required: false
+    - id: 6
+      name: claimant_name
+      label: Claimant name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_date
+      label: Approval date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: approver_name
+      label: Approver name
+      hint: 'null'
+      type: text
+      options: []
+      required: false

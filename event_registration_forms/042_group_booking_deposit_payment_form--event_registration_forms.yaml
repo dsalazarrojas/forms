@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Booking Deposit Payment Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_booking
+      label: Date of Booking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total_deposit_paid
+      label: Total Deposit Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 8
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_payment_instrument
+      label: Additional Payment Instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: false
+    - id: 14
+      name: total_payments
+      label: Total Payments
+      hint: null
+      type: number
+      options: []
+      required: false

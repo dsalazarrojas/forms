@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gathering Schedule
+    pages:
+    - id: 1
+      name: holiday_gathering_schedule
+      label: Guest information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: Will you join us?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 3
+      name: availability
+      label: What time can you attend?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: potluck_item
+      label: What can you bring?
+      hint: null
+      type: select_multiple
+      options:
+      - Main course
+      - Side dish
+      - Dessert
+      - Snack
+      - Beverage
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_2
+      label: What time can you attend?
+      hint: null
+      type: time
+      options: []
+      required: false

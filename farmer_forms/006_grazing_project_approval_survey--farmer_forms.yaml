@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grazing Project Approval Survey
+    pages:
+    - id: 1
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cattle''}'
+      - '{''id'': 2, ''label'': ''Sheep''}'
+      - '{''id'': 3, ''label'': ''Horses''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: grazing_area
+      label: Grazing Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: environmental_impact
+      label: Environmental Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false

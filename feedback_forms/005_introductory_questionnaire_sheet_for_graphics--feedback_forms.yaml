@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Introductory Questionnaire Sheet For Graphics
+    pages:
+    - id: 1
+      name: introductory_questionnaire_sheet_for_graphics_form
+      label: Introductory Questionnaire Sheet For Graphics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

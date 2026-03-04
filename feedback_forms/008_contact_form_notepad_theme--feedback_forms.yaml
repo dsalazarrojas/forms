@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Notepad Theme
+    pages:
+      - id: 1
+        name: header_note
+        label: -- Feedback and Contact --
+        hint: Friendly feedback form for website visitors
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visitor_name
+        label: Your name
+        hint: Name you prefer to be addressed by
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: We will use this to respond
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: topic
+        label: Topic of feedback
+        hint: Short topic line
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: feedback_type
+        label: Feedback type
+        hint: Choose the category that best fits your message
+        type: select_one
+        options:
+          - Website
+          - Product
+          - Service
+          - Other
+        required: true
+      - id: 6
+        name: message
+        label: Message
+        hint: Describe your feedback in detail
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: allow_publication
+        label: Permission to publish feedback
+        hint: We may use anonymized feedback for marketing
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 8
+        name: preferred_response
+        label: Preferred response method
+        hint: How would you like us to reply
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - No response needed
+        required: false
+      - id: 9
+        name: additional_notes
+        label: Additional notes
+        hint: Any extra context to help our team
+        type: text
+        options: []
+        required: false

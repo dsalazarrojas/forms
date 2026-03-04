@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Coordination Workshop Admission Form
+    pages:
+    - id: 1
+      name: event_coordination_workshop_admission_form_participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_coordination_workshop_admission_form_participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_coordination_workshop_admission_form_participant_name_other
+      label: other_participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_coordination_workshop_admission_form_participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: event_coordination_workshop_admission_form_participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_coordination_workshop_admission_form_participant_workshop
+      label: workshop
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 7
+      name: event_coordination_workshop_admission_form_participant_diet
+      label: participant_diet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''vegetarian'', ''value'': ''vegetarian''}'
+      - '{''id'': 2, ''name'': ''vegan'', ''value'': ''vegan''}'
+      - '{''id'': 3, ''name'': ''gluten_free'', ''value'': ''gluten_free''}'
+      required: false
+    - id: 8
+      name: event_coordination_workshop_admission_form_participant_message
+      label: participant_message
+      hint: null
+      type: text
+      options: []
+      required: false

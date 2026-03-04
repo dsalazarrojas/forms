@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Visitor Check Out Form
+    pages:
+    - id: 1
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: museum_name
+      label: Museum Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: museum_staff
+      label: Museum Staff
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: true
+    - id: 10
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments3
+      label: Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false

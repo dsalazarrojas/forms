@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: grappling_event_registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: divisions
+      label: Divisions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Intermediate'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Advanced'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I accept'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Decline'', ''value'': 2}'
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

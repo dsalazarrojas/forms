@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Maintenance Request Form
+    pages:
+    - id: 1
+      name: facility_management_form
+      label: Facility Management Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: asset_id
+      label: asset_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''Repair''}'
+      - '{''id'': 20, ''name'': ''Maintenance''}'
+      - '{''id'': 30, ''name'': ''Scheduling''}'
+      required: false
+    - id: 5
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 40, ''name'': ''High''}'
+      - '{''id'': 50, ''name'': ''Medium''}'
+      - '{''id'': 60, ''name'': ''Low''}'
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 200, ''name'': ''Completed''}'
+      - '{''id'': 210, ''name'': ''In Progress''}'
+      - '{''id'': 220, ''name'': ''Scheduled''}'
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_manager_name
+      label: facility_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_manager_email
+      label: facility_manager_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_manager_phone
+      label: facility_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_name
+      label: asset_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: asset_category
+      label: asset_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: text
+      options: []
+      required: false

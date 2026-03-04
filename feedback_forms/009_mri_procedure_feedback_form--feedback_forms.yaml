@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: MRI Procedure Feedback Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mri_date
+      label: Date of MRI
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mri_time
+      label: Time of MRI
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 5
+      name: mri_room
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mri_type
+      label: MRI Type
+      hint: null
+      type: select_one
+      options:
+      - Open MRI
+      - Closed MRI
+      - Other
+      required: false
+    - id: 7
+      name: mri_dose
+      label: Dose Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mri_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Address
+      required: false
+    - id: 10
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: press_interview_slot_registration
+    pages:
+    - id: 1
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: journalist_id
+      label: journalist_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: journalist_name
+      label: journalist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: media_outlet
+      label: media_outlet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_outlet_website
+      label: media_outlet_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: journalist_phone
+      label: journalist_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: journalist_email
+      label: journalist_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: requested_time
+      label: requested_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: interview_type
+      label: interview_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: interview_length
+      label: interview_length
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Desk Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome_to_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_quality
+      label: how_do_you_rate_the_service_quality
+      hint: On a scale of 0 to 10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_style
+      label: how_do_you_rate_the_communication_style
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resolution_time
+      label: how_well_was_your_issue_resolved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_channel
+      label: which_communication_channel_wereistency_you_most_often_use
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Web
+      - In-app
+      required: false
+    - id: 6
+      name: communication_channel_2
+      label: how_did_you_prefer_to_get_in_touch
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Web
+      - In-app
+      required: false
+    - id: 7
+      name: resolution_time_2
+      label: how_quick_was_your_issue_resolved
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      - Not yet resolved
+      required: false
+    - id: 8
+      name: resolution_time_3
+      label: how_long_it_took_to_resolve_your_issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: resolution_time_4
+      label: how_long_it_took_to_resolve_your_issue_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: resolution_time_5
+      label: how_long_did_it_take_to_resolve_your_issue
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_satisfaction_survey
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: technical_support
+      label: technical_support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor'', ''value'': 1}'
+      - '{''label'': ''Poor'', ''value'': 2}'
+      - '{''label'': ''Average'', ''value'': 3}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

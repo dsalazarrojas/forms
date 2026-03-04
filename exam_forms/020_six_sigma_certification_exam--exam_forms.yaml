@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Six Sigma Certification Exam
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_id
+      label: Candidate ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter candidate email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: readiness_assessment
+      label: Readiness Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Training Provider''}'
+      - '{''label'': ''Workplace Learning Team''}'
+      required: false
+    - id: 13
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_additional_comments
+      label: Submitter Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitter_certification
+      label: Submitter Certifies
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: submitter_certifies_comments
+      label: Submitter Certifies Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_agree
+      label: I Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: submitter_agree_comments
+      label: I Agree Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agree_date
+      label: I Agree Date
+      hint: null
+      type: date
+      options: []
+      required: false

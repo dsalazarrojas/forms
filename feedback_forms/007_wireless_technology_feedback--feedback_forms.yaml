@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wireless Technology Feedback
+    pages:
+    - id: 1
+      name: user_rating
+      label: user_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: true
+    - id: 6
+      name: device
+      label: device
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: wireless_service
+      label: wireless_service
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wireless_service_rating
+      label: wireless_service_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true

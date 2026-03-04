@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Reimbursement Request Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      - Other
+      required: false
+    - id: 4
+      name: mode_of_transport
+      label: mode_of_transport
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Train
+      - Flight
+      - Bus
+      required: false
+    - id: 5
+      name: start_location
+      label: start_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: end_location
+      label: end_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reimbursement_amount
+      label: reimbursement_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: receipts
+      label: receipts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expense_claimant
+      label: expense_claimant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_department
+      label: expense_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved
+      label: approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false

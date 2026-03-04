@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knowledge Assessment On ERP And ITIL
+    pages:
+    - id: 1
+      name: knowledge_assessment_page
+      label: Knowledge Assessment On ERP And ITIL Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: erp_module
+      label: ERP Module
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: itil_principles
+      label: ITIL Principles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: erp_and_itil_relationship
+      label: ERP And ITIL Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_impact
+      label: Organization Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: knowledge_areas
+      label: Knowledge Areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: date
+      options: []
+      required: false

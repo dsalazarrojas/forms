@@ -1,0 +1,256 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Feedback Survey
+    pages:
+      - id: 1
+        name: candidate_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: candidate_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: position_interviewed
+        label: Position Interviewed For
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: interview_date
+        label: Interview Date
+        hint: When was your interview
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: interview_type
+        label: Type of Interview
+        hint: Interview format
+        type: select_one
+        options:
+          - Phone screening
+          - Video interview
+          - In-person interview
+          - Panel interview
+          - Technical interview
+          - Case study or assessment
+          - Multiple rounds
+        required: true
+      - id: 6
+        name: interviewer_name
+        label: Interviewer Name
+        hint: Who interviewed you
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction with Interview
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: pre_interview_communication
+        label: Pre-Interview Communication
+        hint: Information provided before interview
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: interview_scheduling
+        label: Interview Scheduling Experience
+        hint: Ease of scheduling
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 10
+        name: interview_environment
+        label: Interview Environment
+        hint: Comfort and professionalism
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 11
+        name: questions_clarity
+        label: Clarity of Interview Questions
+        hint: Were questions clear
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Neutral
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 12
+        name: questions_relevance
+        label: Relevance of Questions
+        hint: Were questions job-related
+        type: select_one
+        options:
+          - Very relevant
+          - Relevant
+          - Neutral
+          - Not very relevant
+          - Not relevant
+        required: true
+      - id: 13
+        name: time_to_respond
+        label: Were You Given Enough Time to Respond
+        hint: Response time adequacy
+        type: select_one
+        options:
+          - Yes - more than enough
+          - Yes - adequate
+          - Neutral
+          - No - rushed
+          - No - very rushed
+        required: true
+      - id: 14
+        name: interviewer_knowledge
+        label: Interviewer Knowledge and Expertise
+        hint: Rate interviewer expertise
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: interviewer_engagement
+        label: Interviewer Engagement
+        hint: Was interviewer engaged
+        type: select_one
+        options:
+          - Very engaged
+          - Engaged
+          - Neutral
+          - Disengaged
+          - Very disengaged
+        required: true
+      - id: 16
+        name: opportunity_to_ask_questions
+        label: Opportunity to Ask Questions
+        hint: Were you able to ask questions
+        type: select_one
+        options:
+          - Yes - plenty of opportunity
+          - Yes - some opportunity
+          - Neutral
+          - No - limited opportunity
+          - No - no opportunity
+        required: true
+      - id: 17
+        name: questions_answered
+        label: Were Your Questions Answered
+        hint: Satisfaction with answers
+        type: select_one
+        options:
+          - Yes - completely
+          - Yes - mostly
+          - Partially
+          - No - not really
+          - Did not ask questions
+        required: true
+      - id: 18
+        name: next_steps_clarity
+        label: Clarity of Next Steps
+        hint: Were next steps explained
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Not explained
+        required: true
+      - id: 19
+        name: likelihood_accept_offer
+        label: If Offered Position - How Likely to Accept
+        hint: Interest level
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 20
+        name: what_impressed_you
+        label: What Impressed You Most
+        hint: Positive aspects
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: what_concerns_you
+        label: Any Concerns or Reservations
+        hint: Areas of concern
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: How can we improve
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: survey_date
+        label: Survey Date
+        hint: Date completed
+        type: date
+        options: []
+        required: true

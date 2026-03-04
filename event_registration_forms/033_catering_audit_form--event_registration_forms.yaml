@@ -1,0 +1,169 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catering Audit Form
+    pages:
+      - id: 1
+        name: audit_info_header
+        label: -- Audit Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: auditor_name
+        label: Auditor/Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: audit_date
+        label: Date of Audit
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: event_name_ref
+        label: Event Name or Reference Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: venue_audited
+        label: Venue Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_food_quality
+        label: -- Food and Beverage Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: food_temperature_rating
+        label: Food Temperature Compliance
+        hint: Hot foods hot, cold foods cold
+        type: select_one
+        options:
+          - "Excellent"
+          - "Acceptable"
+          - "Needs Improvement"
+          - "Unacceptable/Critical"
+        required: true
+      - id: 8
+        name: food_presentation_rating
+        label: Visual Presentation and Plating
+        hint: null
+        type: select_one
+        options:
+          - "Outstanding"
+          - "Good"
+          - "Fair"
+          - "Poor"
+        required: true
+      - id: 9
+        name: taste_quality_rating
+        label: Taste and Flavor Profile
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Satisfactory"
+          - "Unsatisfactory"
+        required: true
+      - id: 10
+        name: section_service
+        label: -- Service and Professionalism --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: staff_appearance_rating
+        label: Staff Uniform and Grooming
+        hint: null
+        type: select_one
+        options:
+          - "Compliant"
+          - "Minor Deviations"
+          - "Non-Compliant"
+        required: true
+      - id: 12
+        name: punctuality_rating
+        label: Punctuality of Setup and Service
+        hint: null
+        type: select_one
+        options:
+          - "On Time"
+          - "Slightly Delayed"
+          - "Major Delay"
+        required: true
+      - id: 13
+        name: section_safety
+        label: -- Safety and Cleanliness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: workstation_cleanliness
+        label: Cleanliness of Catering Station/Kitchen Area
+        hint: null
+        type: select_one
+        options:
+          - "Immaculate"
+          - "Generally Clean"
+          - "Untidy"
+          - "Hazardous"
+        required: true
+      - id: 15
+        name: allergen_handling_audit
+        label: Allergen Awareness and Labeling
+        hint: Were dietary cards present and accurate
+        type: select_one
+        options:
+          - "Fully Labeled"
+          - "Partially Labeled"
+          - "No Labels"
+        required: true
+      - id: 16
+        name: audit_summary_notes
+        label: Auditor Summary and Observations
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: corrective_actions
+        label: Required Corrective Actions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: manager_notified
+        label: Manager notified during audit
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Follow-up scheduled"
+        required: true

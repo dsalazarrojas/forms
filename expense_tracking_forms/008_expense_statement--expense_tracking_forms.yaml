@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Statement
+    pages:
+    - id: 1
+      name: expense_statement
+      label: Expense Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: total_expenses
+      label: Total Expenses
+      hint: null
+      type: number
+      options: []
+      required: false

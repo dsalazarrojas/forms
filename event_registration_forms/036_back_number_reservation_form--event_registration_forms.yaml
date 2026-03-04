@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back Number Reservation Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant name
+      hint: Athlete or participant name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team name
+      hint: Club or organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_number
+      label: Preferred back number
+      hint: First and second choices allowed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: alternate_number
+      label: Alternate back number
+      hint: Backup choice
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: size_required
+      label: Jersey size required
+      hint: Small medium large etc
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 6
+      name: event_date
+      label: Event date
+      hint: Date of competition
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: For confirmating reservation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_instructions
+      label: Delivery instructions for kit
+      hint: Pickup location or shipping
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_confirmed
+      label: Payment confirmed
+      hint: Mark once payment received
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: reservation_notes
+      label: Reservation notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

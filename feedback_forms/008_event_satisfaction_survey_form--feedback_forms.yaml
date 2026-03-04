@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content
+      label: content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speakers
+      label: speakers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: event_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''City Hall''}'
+      - '{''id'': 2, ''label'': ''Park Place''}'
+      - '{''id'': 3, ''label'': ''Park Center''}'
+      required: false
+    - id: 8
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_price
+      label: event_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_speakers
+      label: event_speakers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

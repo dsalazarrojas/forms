@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: When registering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title or Position
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department or Division
+      hint: Part of organization
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_experience
+      label: Years in Current Role
+      hint: Time in current position
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Event or Training Name
+      hint: Which event are you registering for
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: attendance_format
+      label: Attendance Format
+      hint: In-person or virtual
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 13
+      name: location_preference
+      label: Location Preference
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: change_management_experience
+      label: Change Management Experience Level
+      hint: Your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 15
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_challenges
+      label: Current Challenges in Change Management
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Special accommodations needed
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Interpreting Services
+      - Other
+      required: false
+    - id: 19
+      name: accessibility_details
+      label: Describe Accessibility Needs
+      hint: Details about what you need
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_registration
+      label: Team Registration
+      hint: Are others from your team registering
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: team_members
+      label: Team Member Names
+      hint: Names of other team members
+      type: text
+      options: []
+      required: false

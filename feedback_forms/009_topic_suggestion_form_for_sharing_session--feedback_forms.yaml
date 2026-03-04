@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Topic Suggestion Form For Sharing Session
+    pages:
+    - id: 1
+      name: topic_suggestion_form_for_sharing_session_page_1
+      label: Suggestion Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: suggestion_description
+      label: Suggestion Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: suggestion_category
+      label: Suggestion Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      - Category 5
+      required: true
+    - id: 4
+      name: suggester
+      label: Suggester
+      hint: null
+      type: select_one
+      options:
+      - Suggester 1
+      - Suggester 2
+      - Suggester 3
+      - Suggester 4
+      - Suggester 5
+      required: true
+    - id: 5
+      name: topic_suggestion_form_for_sharing_session_form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

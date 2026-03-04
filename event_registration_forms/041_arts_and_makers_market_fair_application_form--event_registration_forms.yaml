@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Makers Market Fair Application Form
+    pages:
+    - id: 1
+      name: vendor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_multiple
+      options:
+      - Handmade Jewelry
+      - Pottery and Ceramics
+      - Textiles and Fiber Arts
+      - Woodcraft
+      - Painting and Drawing
+      - Photography
+      - Metalwork
+      - Mixed Media
+      - Home Decor
+      required: true
+    - id: 11
+      name: product_description
+      label: Detailed Product Description
+      hint: Describe your handmade or artisan products
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_making_products
+      label: Years Making or Selling Your Products
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_images
+      label: Product Images Attached
+      hint: High-quality photos of your work
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: booth_space_preferred
+      label: Preferred Booth Space Size
+      hint: null
+      type: select_one
+      options:
+      - Small - 4x4 feet
+      - Medium - 6x6 feet
+      - Large - 8x8 feet
+      - Double Booth - 10x10 feet
+      required: true
+    - id: 15
+      name: booth_fee
+      label: Booth Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: electricity_needed
+      label: Electricity or Other Utilities Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: fair_date
+      label: Fair Date You Are Applying For
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: previous_fairs
+      label: Have You Participated in Previous Fairs
+      hint: null
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Time
+      required: false
+    - id: 19
+      name: insurance_certificate
+      label: Business Insurance Certificate Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 20
+      name: payment_method
+      label: Preferred Payment Method for Booth Fee
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 21
+      name: terms_conditions
+      label: I Agree to Fair Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

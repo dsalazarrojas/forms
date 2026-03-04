@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: empowerment_content_submission_form
+    pages:
+    - id: 1
+      name: contributor_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Contributing Organization
+      hint: Name of your organization or company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Article Title
+      hint: Title of your article
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: story_type
+      label: What type of content you are submitting
+      hint: Choose from options below
+      type: select_one
+      options:
+      - original story
+      - article
+      - media
+      required: false
+    - id: 5
+      name: content_type
+      label: Type of media
+      hint: Choose from options below
+      type: select_multiple
+      options:
+      - story
+      - photo
+      - video
+      - audio
+      required: false
+    - id: 6
+      name: story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: article
+      label: Article
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: media
+      label: Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: story_media
+      label: Story or Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_date_time
+      label: Submission Date/Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: story_type
+      label: What type of content you are submitting
+      hint: Choose from options below
+      type: select_one
+      options:
+      - original story
+      - article
+      - media
+      required: false
+    - id: 17
+      name: content_type
+      label: Type of media
+      hint: Choose from options below
+      type: select_multiple
+      options:
+      - story
+      - photo
+      - video
+      - audio
+      required: false

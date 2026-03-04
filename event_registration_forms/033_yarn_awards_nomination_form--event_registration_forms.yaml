@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: yarn_awards_nomination_form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nominator_details
+      label: Nominator Details
+      hint: null
+      type: select_multiple
+      options:
+      - Yarn Guild
+      - Fiber Artist
+      - Community Champion
+      - Other
+      required: false
+    - id: 3
+      name: nomination_category
+      label: Nomination Category
+      hint: null
+      type: select_one
+      options:
+      - Outstanding Contribution to Fiber Arts
+      - Outstanding Contribution to Yarn Community Building
+      - Outstanding Contribution to Fiber Arts Education
+      required: false
+    - id: 4
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nomination_title
+      label: Nomination Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominator_affiliation
+      label: Nominator Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominee_address
+      label: Nominee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominator_message
+      label: Nominator Message
+      hint: null
+      type: text
+      options: []
+      required: false

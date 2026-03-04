@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2018 TNT Tech Fest Exhibitor Intake Form
+    pages:
+    - id: 1
+      name: section_header_welcome
+      label: '--- Welcome to TNT Tech Fest 2018 ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company/Organization Name
+      hint: Enter the legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: booth_type
+      label: Booth Type Requested
+      hint: Select the type of booth space you need
+      type: select_one
+      options:
+      - Standard 10x10
+      - Premium 10x20
+      - Corner Booth
+      - Outdoor Space
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary Contact Person
+      hint: Full name of the person responsible for the booth
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: This will be used for all communications regarding your participation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: website_url
+      label: Company Website
+      hint: If available, provide your company's website URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booth_description
+      label: Brief Description of Your Booth
+      hint: What will visitors see/experience at your booth?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_traffic
+      label: Expected Daily Visitors
+      hint: Estimate the number of people visiting your booth per day
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: power_requirements
+      label: Power Requirements
+      hint: Specify electrical needs (e.g., outlets, amperage)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: internet_needed
+      label: Internet Access Required
+      hint: Will you need WiFi or hardwired connection?
+      type: select_one
+      options:
+      - No internet needed
+      - Basic WiFi
+      - High-speed connection
+      - Dedicated line
+      required: true
+    - id: 12
+      name: special_equipment
+      label: Special Equipment or Setup Needs
+      hint: List any special requirements for your booth setup
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marketing_materials
+      label: Marketing Materials Distribution
+      hint: What materials will you distribute at your booth?
+      type: select_multiple
+      options:
+      - Brochures
+      - Business cards
+      - Promotional items
+      - Product samples
+      - Digital materials
+      - None
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Accommodations
+      hint: Any special accessibility requirements for your booth?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_days
+      label: Days Attending
+      hint: Which days will your organization participate?
+      type: select_multiple
+      options:
+      - Friday only
+      - Saturday only
+      - Sunday only
+      - Friday and Saturday
+      - Saturday and Sunday
+      - All three days
+      required: true
+    - id: 16
+      name: setup_time
+      label: Preferred Setup Time
+      hint: When would you like to begin setting up your booth?
+      type: select_one
+      options:
+      - Thursday evening
+      - Friday morning
+      - Friday afternoon
+      - Saturday morning
+      required: true
+    - id: 17
+      name: teardown_time
+      label: Preferred Teardown Time
+      hint: When would you prefer to end your participation?
+      type: select_one
+      options:
+      - Saturday evening
+      - Sunday morning
+      - Sunday afternoon
+      - Monday morning
+      required: true
+    - id: 18
+      name: sponsorship_interest
+      label: Sponsorship Interest
+      hint: Are you interested in becoming a sponsor?
+      type: select_one
+      options:
+      - Not interested
+      - Interested in learning more
+      - Already committed
+      - Need more information
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions for Catered Events
+      hint: If attending catered events, please specify any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information we should know about your participation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Initiative Survey Form
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Respondent Role
+      hint: What is your relationship to this organization/environment?
+      type: select_one
+      options: ["Employee", "Customer", "Visitor", "Student", "Patient", "Community Member", "Other"]
+      required: true
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: What is your age range?
+      type: select_one
+      options: ["Under 18", "18-24", "25-34", "35-44", "45-54", "55-64", "65-74", "75 or older"]
+      required: true
+    - id: 3
+      name: disability_status
+      label: Disability Status
+      hint: Do you have a disability that affects your access to this environment?
+      type: select_one
+      options: ["Yes", "No", "Prefer not to say"]
+      required: true
+    - id: 4
+      name: disability_types
+      label: Disability Types
+      hint: If applicable, what types of disabilities do you have?
+      type: select_multiple
+      options: ["Mobility", "Vision", "Hearing", "Cognitive", "Neurological", "Psychiatric", "Chronic Illness", "Other"]
+      required: false
+    - id: 5
+      name: accessibility_awareness_rating
+      label: Accessibility Awareness Rating
+      hint: How aware do you think this organization is of accessibility needs?
+      type: select_one
+      options: ["Very Aware", "Aware", "Somewhat Aware", "Not Very Aware", "Not Aware"]
+      required: true
+    - id: 6
+      name: physical_environment_rating
+      label: Physical Environment Rating
+      hint: How would you rate the physical accessibility of this environment?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+      required: true
+    - id: 7
+      name: digital_accessibility_rating
+      label: Digital Accessibility Rating
+      hint: How would you rate the accessibility of digital resources (website, apps, etc.)?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+      required: true
+    - id: 8
+      name: communication_accessibility_rating
+      label: Communication Accessibility Rating
+      hint: How would you rate the accessibility of communication methods?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+      required: true
+    - id: 9
+      name: most_significant_barrier
+      label: Most Significant Barrier
+      hint: What is the most significant accessibility barrier you've experienced here?
+      type: select_one
+      options: ["Physical obstacles", "Communication barriers", "Attitudinal barriers", "Lack of assistive technology", "Inadequate policies", "Insufficient staff training", "Other"]
+      required: true
+    - id: 10
+      name: staff_knowledge_assessment
+      label: Staff Knowledge Assessment
+      hint: How knowledgeable are staff members about accessibility needs?
+      type: select_one
+      options: ["Very Knowledgeable", "Knowledgeable", "Somewhat Knowledgeable", "Not Very Knowledgeable", "Not Knowledgeable"]
+      required: true
+    - id: 11
+      name: accommodation_request_process
+      label: Accommodation Request Process
+      hint: How easy is it to request accommodations?
+      type: select_one
+      options: ["Very Easy", "Easy", "Moderate", "Difficult", "Very Difficult"]
+      required: true
+    - id: 12
+      name: accessibility_feature_importance
+      label: Accessibility Feature Importance
+      hint: Which accessibility feature is most important to you?
+      type: select_one
+      options: ["Ramps and elevators", "Accessible restrooms", "Clear signage", "Assistive listening devices", "Wheelchair-accessible entrances", "Parking spaces", "Quiet spaces", "Trained staff", "Other"]
+      required: true
+    - id: 13
+      name: accessibility_improvement_suggestions
+      label: Accessibility Improvement Suggestions
+      hint: What accessibility improvements would you most like to see?
+      type: select_multiple
+      options: ["Better signage", "More accessible parking", "Improved website accessibility", "Staff training", "Assistive technology", "Physical modifications", "Policy changes", "Emergency procedures", "Other"]
+      required: true
+    - id: 14
+      name: barrier_frequency
+      label: Barrier Frequency
+      hint: How often do you encounter accessibility barriers?
+      type: select_one
+      options: ["Daily", "Weekly", "Monthly", "Occasionally", "Rarely", "Never"]
+      required: true
+    - id: 15
+      name: confidence_in_reporting
+      label: Confidence in Reporting
+      hint: How confident are you in reporting accessibility issues?
+      type: select_one
+      options: ["Very Confident", "Confident", "Neutral", "Not Very Confident", "Not Confident"]
+      required: true
+    - id: 16
+      name: reporting_channels_awareness
+      label: Reporting Channels Awareness
+      hint: Are you aware of the channels available to report accessibility issues?
+      type: select_one
+      options: ["Yes, Very Aware", "Yes, Somewhat Aware", "Aware of Some", "Not Aware", "No Reporting Channels Known"]
+      required: true
+    - id: 17
+      name: satisfaction_with_resolutions
+      label: Satisfaction with Resolutions
+      hint: How satisfied are you with how accessibility issues are resolved?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 18
+      name: willingness_to_participate
+      label: Willingness to Participate
+      hint: Would you be willing to participate in accessibility planning committees?
+      type: select_one
+      options: ["Yes, Definitely", "Yes, Possibly", "Neutral", "No, Probably Not", "No, Definitely Not"]
+      required: true
+    - id: 19
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Please provide any additional feedback about accessibility initiatives
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: priority_recommendations
+      label: Priority Recommendations
+      hint: What are your top three recommendations for improving accessibility?
+      type: text
+      options: []
+      required: false

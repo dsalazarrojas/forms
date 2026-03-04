@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Luncheon RSVP
+    pages:
+    - id: 1
+      name: header
+      label: -- Luncheon RSVP --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Number of guests
+      hint: Include attendee plus guests
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Allergies or special diets
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seating_requests
+      label: Seating requests
+      hint: Any seating preferences
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attend_choice
+      label: Attend choice
+      hint: Confirm attendance
+      type: select_one
+      options:
+      - Attending
+      - Not attending
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_accommodations
+      label: Special accommodations
+      hint: Accessibility or other accommodations needed
+      type: text
+      options: []
+      required: false

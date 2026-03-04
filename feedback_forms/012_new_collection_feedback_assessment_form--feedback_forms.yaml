@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Collection Feedback Assessment Form
+    pages:
+    - id: 1
+      name: new_collection_feedback_assessment_form
+      label: New Collection Feedback Assessment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: new_collection_id
+      label: new_collection_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: collection_name
+      label: collection_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collection_image_url
+      label: collection_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_questions
+      label: How likely is it that customers will purchase a product with this collection?
+      hint: null
+      type: select_multiple
+      options:
+      - Likelihood of purchasing
+      - Somewhat likely
+      - Not likely
+      required: false
+    - id: 6
+      name: feedback_questions_2
+      label: How does this collection meet your expectations?
+      hint: null
+      type: select_multiple
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Fails to meet expectations
+      required: false
+    - id: 7
+      name: feedback_questions_3
+      label: How would you rate the quality of this collection?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

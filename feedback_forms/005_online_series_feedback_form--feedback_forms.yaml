@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Series Feedback Form
+    pages:
+    - id: 1
+      name: episode_title
+      label: Episode Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate this episode
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: review
+      label: Your feedback
+      hint: Write your thoughts about this episode
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: season_number
+      label: Season Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: episode_number
+      label: Episode Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: creator
+      label: Creator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: publisher
+      label: Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: published_at
+      label: Published At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: email_id
+      label: Email ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: series_id
+      label: Series ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: episode_id
+      label: Episode ID
+      hint: null
+      type: number
+      options: []
+      required: false

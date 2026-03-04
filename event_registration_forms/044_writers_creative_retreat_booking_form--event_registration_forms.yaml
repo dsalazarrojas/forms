@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writers Creative Retreat Booking Form
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_booking
+      label: Confirm Booking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_arrival
+      label: Confirm Arrival
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Early''}'
+      - '{''label'': ''Late''}'
+      - '{''label'': ''Flexible''}'
+      required: false
+    - id: 11
+      name: arrival_details
+      label: Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_dates
+      label: Participant Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: participant_time
+      label: Participant Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: participant_message
+      label: Participant Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_arrival
+      label: Participant Arrival
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Early''}'
+      - '{''label'': ''Late''}'
+      - '{''label'': ''Flexible''}'
+      required: false
+    - id: 19
+      name: participant_arrival_details
+      label: Participant Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_arrival_time
+      label: Participant Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: participant_arrival_date
+      label: Participant Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Cancelled''}'
+      required: false

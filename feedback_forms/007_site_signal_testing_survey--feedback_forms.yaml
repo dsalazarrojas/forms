@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Signal Testing Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_signal_strength
+      label: how_strong_is_your_site_signal
+      hint: null
+      type: select_one
+      options:
+      - weak
+      - medium
+      - strong
+      required: false
+    - id: 3
+      name: signal_type
+      label: signal_type
+      hint: null
+      type: select_one
+      options:
+      - cellular
+      - wifi
+      - wired
+      required: false
+    - id: 4
+      name: signal_quality
+      label: signal_quality
+      hint: null
+      type: select_multiple
+      options:
+      - weak
+      - medium
+      - strong
+      required: false
+    - id: 5
+      name: performance
+      label: how_good_was_your_performance
+      hint: null
+      type: select_one
+      options:
+      - slow
+      - average
+      - fast
+      required: false
+    - id: 6
+      name: dropouts
+      label: how_many_dropouts_did_you_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coverage
+      label: did_you_experience_any_coverage_issues
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: signal_drops
+      label: how_many_signal_drops_did_you_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coverage_issues_drops
+      label: how_many_coverage_issues_drops
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: performance_issues
+      label: how_many_performance_issues_did_you_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_score
+      label: total_score
+      hint: null
+      type: number
+      options: []
+      required: false

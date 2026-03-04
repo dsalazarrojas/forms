@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Quality Score Request Form
+    pages:
+    - id: 1
+      name: product_rating
+      label: product rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: product_rating_comment
+      label: product rating comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: product_quality
+      label: product quality
+      hint: null
+      type: select_multiple
+      options:
+      - very poor
+      - poor
+      - neutral
+      - okay
+      - good
+      - excellent
+      required: true
+    - id: 4
+      name: received_date
+      label: received date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: received_time
+      label: received time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: feedback_type
+      label: feedback type
+      hint: null
+      type: select_one
+      options:
+      - bug
+      - enhancement
+      - new feature
+      required: true
+    - id: 7
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: product_rating_score
+      label: product rating score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: received_from
+      label: received from
+      hint: null
+      type: select_one
+      options:
+      - sales team
+      - customer service
+      - support team
+      required: true
+    - id: 11
+      name: received_from_email
+      label: received from email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: received_from_phone
+      label: received from phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_image_url
+      label: product image url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_url
+      label: product url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: issue_description
+      label: issue description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: product_version
+      label: product version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comment
+      label: comment
+      hint: null
+      type: select_multiple
+      options:
+      - positive
+      - negative
+      required: true
+    - id: 18
+      name: rating_score_confidence
+      label: rating score confidence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: received_on
+      label: received on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: received_at
+      label: received at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: issue_reported_by
+      label: issue reported by
+      hint: null
+      type: select_one
+      options:
+      - self
+      - manager
+      required: true
+    - id: 22
+      name: issue_description
+      label: issue description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: action_taken
+      label: action taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: result
+      label: result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up
+      label: follow up
+      hint: null
+      type: text
+      options: []
+      required: false

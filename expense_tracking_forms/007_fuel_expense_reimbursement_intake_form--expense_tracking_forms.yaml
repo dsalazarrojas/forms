@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Expense Reimbursement Intake Form
+    pages:
+    - id: 1
+      name: fuel_expense_form_input
+      label: Fuel Expense Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_type
+      label: Type of Fuel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Gas''}'
+      - '{''id'': 2, ''label'': ''Diesel''}'
+      - '{''id'': 3, ''label'': ''Hybrid''}'
+      required: false
+    - id: 3
+      name: fuel_quantity
+      label: Fuel Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_trip
+      label: Date of Trip
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: odometer_reading_start
+      label: Odometer Reading Start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: odometer_reading_end
+      label: Odometer Reading End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

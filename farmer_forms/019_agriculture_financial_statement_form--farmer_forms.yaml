@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Financial Statement Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner or business name
+      hint: Legal name of the farm owner or business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_period_start
+      label: Reporting period start date
+      hint: Start date for financial statement
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period_end
+      label: Reporting period end date
+      hint: End date for financial statement
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: total_revenue
+      label: Total revenue
+      hint: Gross income for the period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_expenses
+      label: Total expenses
+      hint: Operating costs during the period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: net_income
+      label: Net income
+      hint: Revenue minus expenses
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: major_assets
+      label: Major assets
+      hint: Land, machinery, or livestock values
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: liabilities_summary
+      label: Liabilities summary
+      hint: Loans and outstanding debts
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accountant_contact
+      label: Accountant contact
+      hint: Contact details for accountant or preparer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declaration
+      label: Declaration of accuracy
+      hint: Confirm information is accurate to the best of knowledge
+      type: note
+      options: []
+      required: true

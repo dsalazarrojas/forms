@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Therapy Registration Form
+    pages:
+    - id: 1
+      name: registrant_info
+      label: Registrant Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: music_therapy_type
+      label: Music Therapy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: music_therapy_frequency
+      label: Music Therapy Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: music_therapy_session
+      label: Music Therapy Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: music_therapy_level
+      label: Music Therapy Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: music_therapy_status
+      label: Music Therapy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: music_therapy_notes
+      label: Music Therapy Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: music_therapy_date
+      label: Music Therapy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: music_therapy_start_time
+      label: Music Therapy Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: music_therapy_duration
+      label: Music Therapy Duration
+      hint: null
+      type: number
+      options: []
+      required: false

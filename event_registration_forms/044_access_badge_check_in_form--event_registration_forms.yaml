@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Badge Check In Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Badge Check-In Form --
+      hint: Complete this form upon arrival to receive your access badge.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_company
+      label: Company or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: visitor_type
+      label: Type of visitor
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Contractor
+      - Guest or visitor
+      - Vendor
+      - Event attendee
+      - Delivery personnel
+      required: true
+    - id: 7
+      name: check_in_date
+      label: Check-in date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: check_in_time
+      label: Check-in time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: host_name
+      label: Name of the person or department you are visiting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: purpose_of_visit
+      label: Purpose of visit
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Delivery or pickup
+      - Maintenance or repair
+      - Event attendance
+      - Interview
+      - Tour
+      - Other
+      required: true
+    - id: 11
+      name: areas_to_access
+      label: Areas you need access to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_duration
+      label: Expected duration of visit
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - Half day
+      - Full day
+      - Multiple days
+      required: true
+    - id: 13
+      name: id_presented
+      label: Type of identification presented
+      hint: null
+      type: select_one
+      options:
+      - Government-issued photo ID
+      - Company badge
+      - Passport
+      - Other
+      required: true
+    - id: 14
+      name: vehicle_on_premises
+      label: Do you have a vehicle on the premises
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: vehicle_plate_number
+      label: License plate number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_acknowledgment
+      label: I agree to follow all site safety and security rules during my visit
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: returns_process_feedback_survey
+    pages:
+    - id: 1
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: return_process
+      label: Return Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggest Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: workstation_privacy_shield_enrollment_form
+    pages:
+    - id: 1
+      name: workstation_privacy_shield_enrollment_form_page
+      label: workstation_privacy_shield_enrollment_form
+      hint: null
+      type: select_multiple
+      options:
+      - Workstation A
+      - Workstation B
+      - Workstation C
+      required: false
+    - id: 2
+      name: employee_workstation_id
+      label: employee_workstation_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workstation_status
+      label: workstation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Dormant
+      required: false
+    - id: 4
+      name: workstation_location
+      label: workstation_location
+      hint: null
+      type: select_one
+      options:
+      - Office 1
+      - Office 2
+      - Office 3
+      required: false
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workstation_notes
+      label: workstation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: false
+    - id: 11
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false

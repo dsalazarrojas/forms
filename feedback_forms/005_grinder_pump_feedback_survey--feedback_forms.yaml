@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Grinder Pump Feedback Survey
+    pages:
+    - id: 1
+      name: user_satisfaction
+      label: How satisfied are you with the grinder pump?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very satisfied''}'
+      - '{''text'': ''Somewhat satisfied''}'
+      - '{''text'': ''Not satisfied''}'
+      - '{''text'': ''Not at all satisfied''}'
+      required: false
+    - id: 2
+      name: issue_reports
+      label: What issues have you experienced with the grinder pump?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pump_performance
+      label: How often do you run the grinder pump?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Daily''}'
+      - '{''text'': ''Several times per week''}'
+      - '{''text'': ''Once a week''}'
+      - '{''text'': ''Less than once a week''}'
+      required: false
+    - id: 4
+      name: improvement_suggestions
+      label: What suggestions do you have for improvements to the grinder pump?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_info
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: What is your contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

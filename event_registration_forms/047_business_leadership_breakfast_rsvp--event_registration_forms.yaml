@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Leadership Breakfast RSVP
+    pages:
+    - id: 1
+      name: section_attendee_identity_rsvp
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name_breakfast
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_job_title_breakfast
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_company_breakfast
+      label: Company / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_email_rsvp
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attendee_phone_rsvp
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_event_rsvp_details
+      label: -- RSVP Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_status_selection_breakfast
+      label: RSVP Status
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      - Tentative / Maybe
+      required: true
+    - id: 9
+      name: number_of_guests_breakfast
+      label: Number of Guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_names_and_titles_text
+      label: Guest Names and Titles
+      hint: Required for name tags
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_dietary_access
+      label: -- Dietary and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements_selection_multiple
+      label: Dietary Requirements
+      hint: Select all that apply for you and your guests
+      type: select_multiple
+      options:
+      - None / Standard
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut-free
+      - Halal / Kosher
+      required: false
+    - id: 13
+      name: special_access_needs_description
+      label: Special Access or Mobility Needs
+      hint: Please specify if you require any assistance
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: leadership_newsletter_opt_in_choice
+      label: Join our Leadership Circle mailing list
+      hint: Monthly updates on future events
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: true
+    - id: 15
+      name: rsvp_submission_date_official
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

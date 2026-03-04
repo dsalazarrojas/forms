@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Host Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: event_host_nominations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: host_name
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: host_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: host_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: event_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tools
+      label: assigned_tools
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: event_categories
+      label: event_categories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

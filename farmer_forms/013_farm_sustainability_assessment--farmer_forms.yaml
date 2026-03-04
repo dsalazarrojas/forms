@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Sustainability Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farm_info
+      label: Farm Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_practices
+      label: Farm Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Sustainable practices
+      - Organic practices
+      - Integrated pest management
+      - Crop rotation
+      - Cover crops
+      - Integrated pest management
+      - Crop rotation
+      required: true
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: progress
+      label: Progress
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Video Call
+      - Phone Call
+      - Meeting
+      required: true
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

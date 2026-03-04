@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_survey_customization_request_form
+    pages:
+    - id: 1
+      name: organization
+      label: Which organization is this form for?
+      hint: Please enter the name of the organization
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: features
+      label: Desired features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Feature A
+      - Feature B
+      - Feature C
+      required: false
+    - id: 3
+      name: format
+      label: Desired format
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: Please enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

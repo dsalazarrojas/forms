@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Breeder Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Name of pet owner or breeder
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: For estimate delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimate_intro
+      label: Animal Breeding Services Estimate
+      hint: This form collects information to provide a cost estimate for breeding
+        services
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: estimate_date
+      label: Estimate Date
+      hint: Date of estimate
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: estimate_number
+      label: Estimate Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: animal_information
+      label: Animal Information
+      hint: Details about the animal
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: animal_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Cattle
+      - Sheep
+      - Goat
+      - Pig
+      - Poultry
+      - Rabbit
+      - Other
+      required: true
+    - id: 10
+      name: animal_breed
+      label: Breed
+      hint: Specific breed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: animal_name
+      label: Animal's Name
+      hint: Name or identifier
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: animal_age
+      label: Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: animal_sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male - Stud
+      - Female - Dam
+      required: true
+    - id: 14
+      name: registration_status
+      label: Is the animal registered
+      hint: Breed registry status
+      type: select_one
+      options:
+      - Yes - fully registered
+      - Yes - limited registration
+      - No - not registered
+      - Pending registration
+      required: false
+    - id: 15
+      name: services_requested
+      label: Services Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stud service
+      - Artificial insemination
+      - Pregnancy diagnosis
+      - Prenatal care
+      - Whelping assistance
+      - Genetic testing
+      - Health screening
+      - Breeding consultation
+      - Transportation arrangement
+      - Other
+      required: true
+    - id: 16
+      name: breeding_type
+      label: Type of Breeding
+      hint: Breeding method
+      type: select_one
+      options:
+      - Natural breeding
+      - Artificial insemination - fresh semen
+      - Artificial insemination - frozen semen
+      - Surgical insemination
+      - Undecided
+      required: false
+    - id: 17
+      name: health_certifications
+      label: Current Health Certifications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - OFA certified
+      - PennHIP certified
+      - Genetic disease screening
+      - Brucellosis tested
+      - Progesterone testing
+      - None current
+      required: false
+    - id: 18
+      name: previous_litters
+      label: Number of Previous Litters
+      hint: For females
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: breeding_history
+      label: Breeding History
+      hint: Previous breeding outcomes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Any Special Requirements
+      hint: Specific needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: estimated_costs
+      label: Estimated Cost Breakdown
+      hint: For breeder use
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: stud_fee
+      label: Stud Service Fee
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ai_fee
+      label: Artificial Insemination Fee
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: veterinary_fees
+      label: Estimated Veterinary Fees
+      hint: Medical costs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: testing_fees
+      label: Genetic or Health Testing Fees
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_fees
+      label: Additional Fees
+      hint: Other costs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: total_estimate
+      label: Total Estimated Cost
+      hint: Sum of all services
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment schedule
+      type: select_one
+      options:
+      - Full payment upfront
+      - 50 percent deposit, balance at service
+      - Payment plan available
+      - Due upon completion
+      required: true
+    - id: 29
+      name: estimate_validity
+      label: This estimate is valid until
+      hint: Expiration date
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: Important information about services
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: client_acceptance
+      label: Client Acceptance
+      hint: Do you wish to proceed
+      type: select_one
+      options:
+      - Yes - proceed with services
+      - No - estimate only
+      - Need time to consider
+      required: false
+    - id: 32
+      name: breeder_signature
+      label: Breeder Signature
+      hint: Authorized representative
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

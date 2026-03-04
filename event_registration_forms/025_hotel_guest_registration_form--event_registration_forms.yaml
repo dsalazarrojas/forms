@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Guest Registration Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: guest_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Studio
+      - One Bed
+      - Two Beds
+      - Suite
+      required: true
+    - id: 7
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      required: true
+    - id: 12
+      name: guest_number
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: check_in
+      label: Check In
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: check_out
+      label: Check Out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      required: false
+    - id: 18
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: exp_month
+      label: Expiration Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: exp_year
+      label: Expiration Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true

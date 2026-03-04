@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Interaction Evaluation Form
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating_scale
+      label: Rate Our Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: Overall Satisfaction
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Effective''}'
+      - '{''id'': 2, ''label'': ''Ineffective''}'
+      - '{''id'': 3, ''label'': ''Somewhat Ineffective''}'
+      - '{''id'': 4, ''label'': ''Not Effective''}'
+      - '{''id'': 5, ''label'': ''Not Applicable''}'
+      required: true
+    - id: 5
+      name: resolution_level
+      label: Resolution Level
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: interaction_skills
+      label: Interactions Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strong''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Weak''}'
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

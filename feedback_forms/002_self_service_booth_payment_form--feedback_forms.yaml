@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Service Booth Payment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Other
+      required: false
+    - id: 8
+      name: purchase_details
+      label: Purchase Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: receipt
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: Enter the name of the person who submitted the form
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false

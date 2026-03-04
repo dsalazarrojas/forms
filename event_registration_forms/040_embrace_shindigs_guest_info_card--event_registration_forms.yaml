@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embrace Shindigs Guest Info Card
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - text
+      required: true
+    - id: 5
+      name: primary_service_area
+      label: Primary Service Area
+      hint: null
+      type: select_multiple
+      options:
+      - worship
+      - service
+      - connection
+      required: false
+    - id: 6
+      name: worship_frequency
+      label: Worship Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 7
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 8
+      name: connection_frequency
+      label: Connection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 9
+      name: activity_core
+      label: Activity Core
+      hint: null
+      type: select_multiple
+      options:
+      - core1
+      - core2
+      - core3
+      - core4
+      - core5
+      - core6
+      - core7
+      - core8
+      required: true
+    - id: 10
+      name: core1_frequency
+      label: Core 1 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 11
+      name: core2_frequency
+      label: Core 2 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 12
+      name: core3_frequency
+      label: Core 3 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 13
+      name: core4_frequency
+      label: Core 4 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 14
+      name: core5_frequency
+      label: Core 5 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 15
+      name: core6_frequency
+      label: Core 6 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 16
+      name: core7_frequency
+      label: Core 7 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 17
+      name: core8_frequency
+      label: Core 8 Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: assigned_location
+      label: Assigned Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true

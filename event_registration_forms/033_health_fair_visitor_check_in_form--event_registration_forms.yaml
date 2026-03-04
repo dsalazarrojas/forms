@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_fair_visitor_check_in_form
+    pages:
+    - id: 1
+      name: visitor_details
+      label: Visitor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_interests
+      label: Services of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

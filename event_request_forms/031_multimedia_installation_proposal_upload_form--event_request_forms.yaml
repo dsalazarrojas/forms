@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multimedia Installation Proposal Upload Form
+    pages:
+    - id: 1
+      name: proposal
+      label: proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: files
+      label: files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule
+      label: schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: galleries
+      label: galleries
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: venues
+      label: venues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: event_teams
+      label: event teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

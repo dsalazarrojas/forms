@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Event Team Orientation RSVP
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: Roles
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Management
+      - Support
+      - Leadership
+      - Other
+      required: false
+    - id: 3
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: attendance
+      label: Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: roles_details
+      label: Roles Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_start
+      label: Event Start
+      hint: null
+      type: date
+      options: []
+      required: false

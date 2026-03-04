@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Agreement Verification Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_title
+      label: Sponsor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: contract_value
+      label: Contract Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contract_term
+      label: Contract Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_address
+      label: Sponsor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false

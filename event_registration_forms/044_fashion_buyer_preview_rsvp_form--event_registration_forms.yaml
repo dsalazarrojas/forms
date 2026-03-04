@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Buyer Preview RSVP Form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_dates
+      label: RSVP
+      hint: Please select your available dates for the event
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: rsvp_time
+      label: Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: guest_details
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

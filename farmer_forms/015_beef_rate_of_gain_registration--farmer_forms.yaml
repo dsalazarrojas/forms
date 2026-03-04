@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beef Rate Of Gain Registration
+    pages:
+    - id: 1
+      name: producer_name
+      label: Producer Name
+      hint: Full name or operation name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: producer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: producer_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: farm_address
+      label: Farm Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: program_type
+      label: Program Type
+      hint: What program is this for
+      type: select_one
+      options:
+      - Youth Program (4-H or FFA)
+      - Commercial Production
+      - Research Study
+      - Breed Association
+      - Feedlot Trial
+      - Personal Records
+      required: true
+    - id: 7
+      name: animal_id
+      label: Animal ID or Tag Number
+      hint: Unique identifier for the animal
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: animal_name
+      label: Animal Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: breed
+      label: Breed
+      hint: Primary breed
+      type: select_one
+      options:
+      - Angus
+      - Hereford
+      - Charolais
+      - Simmental
+      - Limousin
+      - Gelbvieh
+      - Brahman
+      - Brangus
+      - Beefmaster
+      - Shorthorn
+      - Crossbred
+      - Other
+      required: true
+    - id: 10
+      name: sex
+      label: Sex
+      hint: Animal sex
+      type: select_one
+      options:
+      - Steer
+      - Heifer
+      - Bull
+      - Cow
+      required: true
+    - id: 11
+      name: birth_date
+      label: Birth Date
+      hint: Animal date of birth
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: initial_weight
+      label: Initial Weight
+      hint: Starting weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: initial_weight_date
+      label: Initial Weight Date
+      hint: Date initial weight was taken
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: current_weight
+      label: Current Weight
+      hint: Current weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_weight_date
+      label: Current Weight Date
+      hint: Date current weight was taken
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: feed_type
+      label: Feed Type
+      hint: Primary feed type
+      type: select_one
+      options:
+      - Pasture Only
+      - Pasture with Supplement
+      - Grain Finishing
+      - Total Mixed Ration
+      - Silage Based
+      - Custom Blend
+      required: true
+    - id: 17
+      name: feed_amount_daily
+      label: Daily Feed Amount
+      hint: Average daily feed amount in pounds
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: supplement_type
+      label: Supplement Type
+      hint: Type of supplement if any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: water_source
+      label: Water Source
+      hint: Primary water source
+      type: select_one
+      options:
+      - Pasture Pond
+      - Well Water
+      - Municipal Water
+      - Automatic Waterer
+      - Creek or Stream
+      - Other
+      required: false
+    - id: 20
+      name: health_status
+      label: Health Status
+      hint: Current health status
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Under Treatment
+      required: true
+    - id: 21
+      name: vaccinations_current
+      label: Vaccinations Current
+      hint: Are vaccinations up to date
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 22
+      name: target_weight
+      label: Target Weight
+      hint: Goal weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: target_date
+      label: Target Date
+      hint: Expected date to reach target
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: average_daily_gain
+      label: Average Daily Gain
+      hint: Calculated ADG if known
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

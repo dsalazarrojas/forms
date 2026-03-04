@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Day Registration
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: School or Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_info
+      label: Event Information
+      hint: Service day details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_name
+      label: Community Service Day Event
+      hint: null
+      type: select_one
+      options:
+      - Spring Cleanup Day
+      - Summer Food Drive
+      - Fall Neighborhood Beautification
+      - Winter Coat Collection
+      - Annual Park Restoration
+      - Holiday Giving Day
+      - Other
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: shift_preference
+      label: Shift Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Full Day (8am-4pm)
+      - Flexible
+      required: true
+    - id: 16
+      name: project_preferences
+      label: Project Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Park Cleanup
+      - Painting Projects
+      - Gardening and Landscaping
+      - Food Distribution
+      - Senior Home Visits
+      - Youth Mentoring
+      - Animal Shelter Support
+      - Home Repair
+      - Clothing Drive
+      - Blood Drive Support
+      required: true
+    - id: 17
+      name: team_preference
+      label: Do You Have a Team
+      hint: null
+      type: select_one
+      options:
+      - Yes - Registering with Team
+      - No - Place Me on a Team
+      - No - Prefer Individual
+      required: true
+    - id: 18
+      name: team_name
+      label: Team Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_size
+      label: Number of Team Members
+      hint: Including yourself
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: skills
+      label: Skills You Can Contribute
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Labor
+      - Painting
+      - Landscaping
+      - Carpentry
+      - Electrical
+      - Plumbing
+      - Teaching
+      - Cooking
+      - First Aid
+      - Leadership
+      required: false
+    - id: 21
+      name: experience
+      label: Previous Volunteer Experience
+      hint: Describe briefly
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For event shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If meals provided
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: transportation
+      label: Do You Need Transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: waiver_agreement
+      label: Do You Agree to the Liability Waiver
+      hint: Required for participation
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 27
+      name: photo_consent
+      label: Photo Consent
+      hint: Photos may be taken
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - Do Not Photograph Me
+      required: true
+    - id: 28
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Friend
+      - School
+      - Organization
+      - Website
+      - Flyer
+      - Other
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

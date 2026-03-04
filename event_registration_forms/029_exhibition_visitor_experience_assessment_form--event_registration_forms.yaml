@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_visitor_experience_assessment_form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: attendance
+      label: Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_time_of_visit
+      label: Date and time of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_staff
+      label: Event staff
+      hint: null
+      type: select_multiple
+      options:
+      - event_staff_option1
+      - event_staff_option2
+      - event_staff_option3
+      required: false
+    - id: 6
+      name: catering
+      label: Catering
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exhibition_layout
+      label: Exhibition layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_materials
+      label: Event materials
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: exhibition_location
+      label: Exhibition location
+      hint: null
+      type: text
+      options: []
+      required: false

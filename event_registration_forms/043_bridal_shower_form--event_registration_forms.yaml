@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Shower Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Your Name
+      hint: Full name of guest
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_bride
+      label: Your Relationship to the Bride
+      hint: How do you know the bride
+      type: select_one
+      options:
+      - Close family
+      - Extended family
+      - Best friend
+      - Close friend
+      - Friend
+      - Coworker
+      - Other
+      required: true
+    - id: 5
+      name: shower_date
+      label: Bridal Shower Date
+      hint: Date of the shower
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shower_time
+      label: Shower Time
+      hint: Time event is being held
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shower_location
+      label: Shower Location
+      hint: Where will the shower be held
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_status
+      label: RSVP Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe - will let you know
+      - Need more information
+      required: true
+    - id: 9
+      name: plus_one
+      label: Will You Bring a Guest
+      hint: Plus one availability
+      type: select_one
+      options:
+      - No, attending alone
+      - Yes, bringing one guest
+      - Yes, bringing two guests
+      - Other
+      required: false
+    - id: 10
+      name: guest_names
+      label: Names of Additional Guests
+      hint: If bringing others
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any food restrictions
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Shellfish allergy
+      - Other allergy
+      - None
+      required: false
+    - id: 12
+      name: dietary_details
+      label: Detailed Dietary Information
+      hint: Specify any allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mobility_needs
+      label: Mobility or Accessibility Needs
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: help_with_event
+      label: Can You Help With the Event
+      hint: Willingness to assist
+      type: select_one
+      options:
+      - Yes, I can help
+      - Maybe
+      - No, just attending
+      required: false
+    - id: 15
+      name: help_type
+      label: What Can You Help With
+      hint: Select ways to assist
+      type: select_multiple
+      options:
+      - Setup and decorating
+      - Food preparation
+      - Games and activities
+      - Photography
+      - Cleanup
+      - Other
+      - Not helping
+      required: false
+    - id: 16
+      name: gift_intention
+      label: Gift Intention
+      hint: Do you plan to bring a gift
+      type: select_one
+      options:
+      - Yes, from registry
+      - Yes, surprise gift
+      - Yes, money or gift card
+      - No gift
+      - Not decided yet
+      required: false
+    - id: 17
+      name: registry_item
+      label: Registry Item You May Purchase
+      hint: If selecting from registry
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments_questions
+      label: Comments or Questions
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attendance_confidence
+      label: Confidence Level in Attendance
+      hint: Rate your likelihood to attend
+      type: select_one
+      options:
+      - Definitely attending
+      - Very likely
+      - Probably
+      - Not sure
+      - Leaning towards not attending
+      - Definitely not attending
+      required: false
+    - id: 20
+      name: song_or_poem
+      label: Would You Like to Share a Toast or Reading
+      hint: Optional special moment
+      type: select_one
+      options:
+      - Yes, I would like to
+      - No, not interested
+      - Maybe, tell me more
+      required: false

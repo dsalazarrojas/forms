@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Building Alert Setup Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trigger_settings
+      label: Trigger Settings
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: notification_preferences
+      label: Notification Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: alert_settings
+      label: Alert Settings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requestor_email
+      label: Requestor Email
+      hint: Enter requestor's email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: request_description
+      label: Request Description
+      hint: Enter brief description of your request
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_location
+      label: Building Location
+      hint: Enter building's location in city and state format
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trigger_type
+      label: Trigger Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: trigger_frequency
+      label: Trigger Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: trigger_interval
+      label: Trigger Interval
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: trigger_duration
+      label: Trigger Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: trigger_status
+      label: Trigger Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

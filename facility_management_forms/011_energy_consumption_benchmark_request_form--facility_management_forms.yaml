@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Consumption Benchmark Request Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: energy_type
+      label: Energy Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: energy_source
+      label: Energy Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_consumption_benchmark
+      label: Energy Consumption Benchmark
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: benchmark_year
+      label: Benchmark Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: energy_consumption_rate
+      label: Energy Consumption Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: energy_consumption_intensity
+      label: Energy Consumption Intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

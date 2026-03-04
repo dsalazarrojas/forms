@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movember Participation Survey
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_participation
+      label: Organization Participation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Nonprofit''}'
+      - '{''id'': 2, ''label'': ''Company''}'
+      - '{''id'': 3, ''label'': ''Community group''}'
+      required: true
+    - id: 5
+      name: motivations
+      label: Motivations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Help others''}'
+      - '{''id'': 2, ''label'': ''Be part of something bigger''}'
+      - '{''id'': 3, ''label'': ''Get involved in the Movember community''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: future_participation
+      label: Future Participation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Undecided''}'
+      required: true
+    - id: 8
+      name: other_interest
+      label: Other interest in Movember
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Movember event participation''}'
+      - '{''id'': 2, ''label'': ''Movember social media engagement''}'
+      - '{''id'': 3, ''label'': ''Movember newsletter subscription''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: other_interest_other
+      label: Other interest in Movember
+      hint: null
+      type: text
+      options: []
+      required: false

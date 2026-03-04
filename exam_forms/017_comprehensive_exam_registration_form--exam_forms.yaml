@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Exam Registration Form
+    pages:
+      - id: 1
+        name: section_candidate_details
+        label: -- Candidate Details --
+        hint: Enter candidate personal and ID information
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: candidate_name
+        label: Candidate name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: candidate_id
+        label: Candidate id
+        hint: Student or registration id
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email address
+        hint: For exam confirmation and results
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: exam_date
+        label: Exam date
+        hint: Select preferred exam date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: exam_location
+        label: Exam location
+        hint: Preferred test center or online
+        type: select_one
+        options: [Onsite center, Online proctored]
+        required: true
+      - id: 7
+        name: accommodation_needed
+        label: Accommodation needed
+        hint: Request testing accommodations if required
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 8
+        name: accommodation_details
+        label: Accommodation details
+        hint: Describe accommodation request if any
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: payment_reference
+        label: Payment reference
+        hint: Enter transaction id or PO if applicable
+        type: text
+        options: []
+        required: false

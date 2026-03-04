@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Waste Management Survey
+    pages:
+    - id: 1
+      name: green_waste_management_survey
+      label: Green Waste Management Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_contact
+      label: name of contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: Do you currently participate in an employee engagement program for waste
+        management?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: question_2
+      label: Which department is responsible for waste management within your organisation?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Facilities''}'
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Management''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: question_3
+      label: Which department is responsible for waste management within your organization?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Facilities''}'
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Management''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: question_4
+      label: Which department is responsible for waste management within your organisation?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Facilities''}'
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Management''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: question_5
+      label: What is the main reason why your organisation engages in waste management
+        practices?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cost reduction''}'
+      - '{''label'': ''Customer satisfaction''}'
+      - '{''label'': ''Regulatory requirements''}'
+      - '{''label'': ''Staff engagement''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

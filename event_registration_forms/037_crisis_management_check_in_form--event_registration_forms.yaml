@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: crisis_management_check_in_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On-site''}'
+      - '{''label'': ''Off-site''}'
+      required: false
+    - id: 5
+      name: severity
+      label: Severity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Critical''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporting_unit
+      label: Reporting Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On-site''}'
+      - '{''label'': ''Off-site''}'
+      required: false
+    - id: 10
+      name: reporting_unit_location
+      label: Reporting Unit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_unit_type
+      label: Reporting Unit Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_unit_size
+      label: Reporting Unit Size
+      hint: null
+      type: text
+      options: []
+      required: false

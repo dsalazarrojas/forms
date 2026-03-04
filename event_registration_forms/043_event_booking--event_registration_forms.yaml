@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_booking
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_booking_id
+      label: Event Booking ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

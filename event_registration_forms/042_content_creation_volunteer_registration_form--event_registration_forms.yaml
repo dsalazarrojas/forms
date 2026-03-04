@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Volunteer Registration Form
+    pages:
+    - id: 1
+      name: section_volunteer_info
+      label: -- Volunteer Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_id
+      label: Volunteer Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_skills_availability
+      label: -- Skills and Availability --
+      hint: Please share your skills and availability for volunteering.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_skills
+      label: Your Skills and Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photography
+      - Videography
+      - Graphic Design
+      - Copywriting
+      - Social Media
+      - Other
+      required: true
+    - id: 8
+      name: availability_days
+      label: Availability Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: availability_hours
+      label: Availability Hours per Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: motivation_for_volunteering
+      label: Why do you want to volunteer for this program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: registration_completed
+      label: Registration Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

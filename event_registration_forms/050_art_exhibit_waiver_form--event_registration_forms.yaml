@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibit Waiver Form
+    pages:
+    - id: 1
+      name: section_artist_info
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_address
+      label: Artist Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: artist_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_exhibit_details
+      label: -- Exhibit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exhibit_name
+      label: Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: gallery_name
+      label: Gallery or Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: exhibit_dates
+      label: Exhibition Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_artwork_info
+      label: -- Artwork Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artwork_medium
+      label: Artwork Medium
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: artwork_value
+      label: Artwork Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: artwork_description
+      label: Artwork Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_acknowledgments
+      label: -- Artist Acknowledgments and Waivers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: ownership_confirmation
+      label: I confirm I am the original artist and owner
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: copyright_ownership
+      label: I retain copyright ownership of my work
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 20
+      name: permission_display
+      label: I grant permission for artwork to be displayed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: permission_photography
+      label: I permit photography of artwork for promotional purposes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: permission_sale
+      label: This artwork is available for sale
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: sale_price
+      label: Sale Price - if for sale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: section_liability
+      label: -- Liability Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: liability_acceptance
+      label: I understand the gallery is not liable for damage, loss, or theft
+      hint: null
+      type: select_one
+      options:
+      - Yes - I accept
+      - No - I do not accept
+      required: true
+    - id: 26
+      name: insurance_coverage
+      label: Do you have insurance coverage for this artwork
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 27
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: pickup_date
+      label: Expected Pickup Date After Exhibition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: storage_acceptance
+      label: I accept responsibility for timely pickup
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: terms_agreement
+      label: I have read and agree to all terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I disagree
+      required: true
+    - id: 31
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: additional_notes
+      label: Additional Notes or Special Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

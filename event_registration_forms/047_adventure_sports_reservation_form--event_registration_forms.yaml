@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Sports Reservation Form
+    pages:
+    - id: 1
+      name: reservation_header
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reserver_name
+      label: Reserver name
+      hint: Full name for booking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_type
+      label: Activity type
+      hint: Choose activity to reserve
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reservation_date
+      label: Reservation date
+      hint: Desired date of event
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_count
+      label: Number of participants
+      hint: Total attendees
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_option
+      label: Payment option
+      hint: Select payment preference
+      type: select_one
+      options:
+      - Pay now
+      - Pay on arrival
+      - Invoice
+      required: true
+    - id: 7
+      name: special_requests
+      label: Special requests
+      hint: Any additional arrangements required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: For booking confirmation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirmation_required
+      label: Confirmation required
+      hint: Check if you need confirmation call
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

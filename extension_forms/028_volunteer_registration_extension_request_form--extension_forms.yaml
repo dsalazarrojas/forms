@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Registration Extension Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave of Absence
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_id
+      label: Volunteer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hours_per_week
+      label: Hours per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: extension_requested_by
+      label: Extension Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - In Progress
+      required: false
+    - id: 11
+      name: extension_approved_by
+      label: Extension Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: extension_approved_date
+      label: Extension Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user
+      label: User
+      hint: null
+      type: email
+      options: []
+      required: false

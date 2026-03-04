@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Rules And Regulations Acknowledgment
+    pages:
+    - id: 1
+      name: facility_rules_and_regulations
+      label: Facility Rules And Regulations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: acknowledge_rules
+      label: Acknowledge Rules
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: signature
+      label: Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

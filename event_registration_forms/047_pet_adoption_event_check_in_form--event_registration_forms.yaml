@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Event Check In Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_species
+      label: Pet Species
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Bird
+      - Fish
+      - Reptile
+      - Other
+      required: false
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - Domestic Cat
+      - Domestic Dog
+      - Other
+      - Unknown
+      required: false
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pet_color
+      label: Pet Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Brown
+      - Green
+      - Gray
+      - White
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: pet_owner
+      label: Pet Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

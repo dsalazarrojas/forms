@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mainline Music Festival Registration Solo
+    pages:
+    - id: 1
+      name: music_festival_registration_solo
+      label: festival_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Mainline Music Festival Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: instrument
+      label: instrument
+      hint: null
+      type: select_multiple
+      options:
+      - guitar
+      - bass
+      - drums
+      - piano
+      - vocals
+      required: true
+    - id: 12
+      name: music_style
+      label: music_style
+      hint: null
+      type: select_one
+      options:
+      - jazz
+      - rock
+      - pop
+      - classical
+      - folk
+      required: true
+    - id: 13
+      name: bio
+      label: bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: music_experience
+      label: music_experience
+      hint: null
+      type: number
+      options: []
+      required: false

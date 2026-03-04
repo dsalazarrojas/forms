@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aquarium Photography Tournament Entry Form
+    pages:
+    - id: 1
+      name: photographer_info
+      label: Photographer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Photography Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Amateur
+      - Semi-Professional
+      - Professional
+      required: true
+    - id: 6
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photo_title
+      label: Photo Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Photo Category
+      hint: null
+      type: select_one
+      options:
+      - Fish and Marine Life
+      - Water Clarity and Beauty
+      - Aquarium Exhibits
+      - Visitor Interaction
+      - Conservation Focus
+      - Open Category
+      required: true
+    - id: 10
+      name: submission_method
+      label: How Will You Submit Your Photo
+      hint: null
+      type: select_one
+      options:
+      - Digital Upload
+      - Print
+      - Slide
+      - Other
+      required: true
+    - id: 11
+      name: file_format
+      label: File Format or Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: usage_rights
+      label: Grant Tournament Use Rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: entry_fee
+      label: Entry Fee Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Will Pay
+      - Requesting Waiver
+      required: true
+    - id: 14
+      name: contact_preferences
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false

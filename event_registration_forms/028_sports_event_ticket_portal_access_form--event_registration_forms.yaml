@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports-event-tickets-form
+    pages:
+    - id: 1
+      name: event_form
+      label: event-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_choices
+      label: choose-your-tickets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ticket_quantity
+      label: ticket-quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attendee_info
+      label: attendee-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: attendee-name
+      hint: null
+      type: text
+      options: []
+      required: false

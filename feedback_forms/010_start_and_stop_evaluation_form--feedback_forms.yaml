@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: start_and_stop_evaluation_form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: process_name
+      label: Process Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - low
+      - high
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: stop_date
+      label: Stop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Conference Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_info
+      label: Ticket Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Waiting on confirmation
+      - Confirmed
+      - Cancelled
+      - Paid
+      - Not confirmed yet
+      required: false
+    - id: 4
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - By mail
+      - Online
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_tool
+      label: Contact Tool
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      - Email and Phone
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

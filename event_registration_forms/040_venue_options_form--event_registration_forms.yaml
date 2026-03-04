@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Venue Options Form
+    pages:
+    - id: 1
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_type
+      label: venue_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Venue 1''}'
+      - '{''id'': 2, ''name'': ''Venue 2''}'
+      - '{''id'': 3, ''name'': ''Venue 3''}'
+      required: false
+    - id: 3
+      name: costs
+      label: costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: indoor_amenities
+      label: indoor_amenities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Parking Lot''}'
+      - '{''id'': 2, ''name'': ''Restrooms''}'
+      - '{''id'': 3, ''name'': ''Free Wi-Fi''}'
+      required: false
+    - id: 6
+      name: outdoor_amenities
+      label: outdoor_amenities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Parking Lot''}'
+      - '{''id'': 2, ''name'': ''Outdoor Seating Area''}'
+      - '{''id'': 3, ''name'': ''Green Space''}'
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Contact 1''}'
+      - '{''id'': 2, ''name'': ''Contact 2''}'
+      - '{''id'': 3, ''name'': ''Contact 3''}'
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

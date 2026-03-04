@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Cooling Maintenance Request Form
+    pages:
+    - id: 1
+      name: warehouse_cooling_maintenance_request_form
+      label: What is the problem with the cooling system?
+      hint: Describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Cooling equipment id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 4
+      name: description
+      label: Description of the issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - Maintenance
+      - Staff
+      - Other
+      required: true
+    - id: 12
+      name: submitter_comments
+      label: Submitter comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_department
+      label: Submitter department
+      hint: null
+      type: text
+      options: []
+      required: false

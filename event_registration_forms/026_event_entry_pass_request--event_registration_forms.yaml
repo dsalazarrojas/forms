@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Entry Pass Request
+    pages:
+    - id: 1
+      name: event_dates
+      label: event_dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_finish_date
+      label: event_finish_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 6
+      name: attendee_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_support_resource_feedback_form
+    pages:
+    - id: 1
+      name: general_feedback
+      label: General feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_services
+      label: feedback_on_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_service
+      label: Support Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_visit_time
+      label: Time of visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: support_area
+      label: Support area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: staff_member
+      label: Staff member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other_feedback
+      label: Other feedback
+      hint: null
+      type: text
+      options: []
+      required: false

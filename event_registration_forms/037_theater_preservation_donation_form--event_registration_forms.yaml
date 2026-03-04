@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: theater_preservation_donation_form
+    pages:
+    - id: 1
+      name: theater_preservation_donation_form_page1
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 4
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false

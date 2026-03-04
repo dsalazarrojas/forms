@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Photography Permission Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_taken
+      label: Date Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: purpose_of_photography
+      label: Purpose of Photography
+      hint: null
+      type: select_one
+      options:
+      - Wildlife Conservation
+      - Wildlife Education
+      - Commercial Use
+      - Personal Use
+      required: false
+    - id: 9
+      name: model_release
+      label: Model Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 10
+      name: organization_consent
+      label: Organization Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: photographer_signature
+      label: Photographer's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_signature
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_signature
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: organization_signature
+      label: Organization Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_name_check
+      label: Organization Name Check
+      hint: null
+      type: text
+      options: []
+      required: false

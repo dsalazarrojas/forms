@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Service Efficiency Inquiry Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_bottleneck
+      label: Service Bottleneck
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_bottleneck_options
+      label: Select a Service Bottleneck
+      hint: null
+      type: select_one
+      options:
+      - Waiting time
+      - Communication between doctor and nurse
+      - Medical staff shortage
+      - 'Other (please specify) :'
+      required: false
+    - id: 6
+      name: visit_efficiency
+      label: Visit Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

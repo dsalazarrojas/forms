@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paymentwall Hotel Reservation Form
+    pages:
+    - id: 1
+      name: booking_dates
+      label: Booking Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reservation_type
+      label: Reservation Type
+      hint: Choose your reservation type
+      type: select_one
+      options:
+      - Hotel
+      - Package
+      required: true
+    - id: 3
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: special_request
+      label: Special Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      required: true
+    - id: 9
+      name: reservation_id
+      label: Reservation ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: room_rate
+      label: Room Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: room_rate_currency
+      label: Room Rate Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - Euro
+      - Pound
+      required: true
+    - id: 12
+      name: room_rate_amount
+      label: Room Rate Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 15
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Occupied
+      - Cancelled
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: paymentwall_id
+      label: Paymentwall ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Expense Calculation Form
+    pages:
+    - id: 1
+      name: weekly_expense_calculation_form
+      label: weekly_expense_calculation_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: total_expenses
+      label: Total Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expense_categories
+      label: expense_categories
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: category_1
+      label: Food
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: category_1_label
+      label: Category 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category_2
+      label: Transportation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: category_2_label
+      label: Category 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category_3
+      label: Other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: category_3_label
+      label: Category 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category_4
+      label: category_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: category_4_label
+      label: Category 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: total_food
+      label: Total Food
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_transportation
+      label: Total Transportation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_other
+      label: Total Other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

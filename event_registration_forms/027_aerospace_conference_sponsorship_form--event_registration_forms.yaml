@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aerospace Conference Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_info_header
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: As it should appear in marketing materials.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: package_selection_header
+      label: -- Sponsorship Package --
+      hint: Select your desired level.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: See prospectus for benefits.
+      type: select_one
+      options:
+      - Platinum Sponsor ($25,000)
+      - Gold Sponsor ($15,000)
+      - Silver Sponsor ($10,000)
+      - Bronze Sponsor ($5,000)
+      - Exhibitor Only ($2,500)
+      required: true
+    - id: 9
+      name: add_ons
+      label: Additional Opportunities
+      hint: Select any extras.
+      type: select_multiple
+      options:
+      - Gala Dinner Sponsor
+      - Lanyard Branding
+      - Coffee Break Sponsor
+      - Workshop Host
+      - Bag Insert
+      required: false
+    - id: 10
+      name: branding_assets_header
+      label: -- Branding Assets --
+      hint: Upload or link your materials.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: logo_upload_link
+      label: Link to High-Res Logo (Vector/PNG)
+      hint: Dropbox/Drive link preferred.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: company_description
+      label: Company Description (100 words)
+      hint: For the conference program.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: payment_terms_agreement
+      label: Payment Terms Agreement
+      hint: I agree to pay the invoice within 30 days.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

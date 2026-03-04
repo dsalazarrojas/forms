@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Call To Action Review Form
+    pages:
+      - id: 1
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reviewer_email
+        label: Reviewer Email
+        hint: Contact email for follow up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: campaign_name
+        label: Campaign Name or Asset
+        hint: Name of the page, email, or ad containing the call to action
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: cta_text
+        label: Call To Action Text
+        hint: Exact CTA text being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: clarity_rating
+        label: Clarity Rating
+        hint: How clear is the CTA to the audience
+        type: select_one
+        options: [Very Clear, Clear, Neutral, Unclear, Very Unclear]
+        required: true
+      - id: 6
+        name: urgency_rating
+        label: Sense of Urgency Rating
+        hint: Does the CTA convey urgency effectively
+        type: select_one
+        options: [Strong, Moderate, Weak, None]
+        required: false
+      - id: 7
+        name: relevance_rating
+        label: Relevance to Audience
+        hint: How relevant is the CTA to the target audience
+        type: select_one
+        options: [Highly Relevant, Relevant, Somewhat Relevant, Not Relevant]
+        required: true
+      - id: 8
+        name: suggested_improvements
+        label: Suggested Improvements
+        hint: Specific changes to wording, placement, or design
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: expected_action
+        label: Expected User Action
+        hint: What action should the user take after the CTA
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations or notes
+        type: text
+        options: []
+        required: false

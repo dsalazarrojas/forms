@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Request Form
+    pages:
+    - id: 1
+      name: event_request_form
+      label: Event Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Seminar
+      - Fair
+      - Charity Event
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_requester
+      label: Event Requester
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: event_requester_phone
+      label: Requester Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: event_organizer_phone
+      label: Organizer Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_requester_email
+      label: Event Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false

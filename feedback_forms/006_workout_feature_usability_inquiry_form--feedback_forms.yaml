@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workout Feature Usability Inquiry Form
+    pages:
+    - id: 1
+      name: introduction
+      label: How would you describe your experience with the current feature?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feature_name
+      label: What is the feature you are currently using or have used recently?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feature_description
+      label: How would you describe the feature's functionality or purpose?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feature_usefulness
+      label: How would you rate the feature's usefulness to you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feature_improvement
+      label: What would you improve in this feature?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Do you have any suggestions for this feature?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: On a scale from 1 to 5, how would you rate the feature?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comment
+      label: Do you have any additional comments about the feature?
+      hint: null
+      type: text
+      options: []
+      required: false

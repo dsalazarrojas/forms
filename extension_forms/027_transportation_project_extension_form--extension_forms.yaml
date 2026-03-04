@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Project Extension Form
+    pages:
+    - id: 1
+      name: project_number
+      label: Project Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_extension
+      label: Reason for Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requested_extension_date
+      label: Requested Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - In Progress
+      - Not Started
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approved_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: extension_requestor
+      label: Extension Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: extension_type
+      label: Extension Type
+      hint: null
+      type: select_one
+      options:
+      - Project Extension
+      - Time and Material Extension
+      required: true
+    - id: 16
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: false

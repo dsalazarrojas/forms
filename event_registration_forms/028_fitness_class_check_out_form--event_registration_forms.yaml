@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Check minimalist_form
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - Cheque
+      required: false
+    - id: 5
+      name: user_class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: user_class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Yoga
+      - Pilates
+      - Zumba
+      - Cardio
+      required: false
+    - id: 9
+      name: user_class_duration
+      label: Class Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: user_reg_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false

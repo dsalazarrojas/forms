@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Parade Captain Registration
+    pages:
+    - id: 1
+      name: captain_name
+      label: Captain Name
+      hint: Full name of boat captain
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: captain_email
+      label: Captain Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: captain_phone
+      label: Captain Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_name
+      label: Boat Name
+      hint: Name of participating vessel
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: boat_length
+      label: Boat Length
+      hint: Length in feet
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: boat_type
+      label: Boat Type
+      hint: Select category
+      type: select_one
+      options:
+      - Motor Yacht
+      - Sailboat
+      - Pontoon
+      - Deck Boat
+      - Fishing Boat
+      - Classic/Vintage
+      - Other
+      required: true
+    - id: 12
+      name: boat_color
+      label: Boat Color
+      hint: Primary color
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_number
+      label: Boat Registration Number
+      hint: Official registration
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parade_category
+      label: Parade Category
+      hint: Select your entry category
+      type: select_one
+      options:
+      - Best Decorated
+      - Best Classic Boat
+      - Best Family
+      - Best Crew Costume
+      - People's Choice
+      - General Participation
+      required: true
+    - id: 15
+      name: decoration_theme
+      label: Decoration Theme
+      hint: Describe your boat theme
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: number_of_passengers
+      label: Expected Number of Passengers
+      hint: How many people on board?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: passengers_including_children
+      label: Will Children Be On Board?
+      hint: Are there minors?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: life_jackets_available
+      label: Life Jackets Available
+      hint: Do you have enough for all?
+      type: select_one
+      options:
+      - Yes, for all passengers
+      - No, need reminder
+      required: true
+    - id: 19
+      name: parade_date
+      label: Parade Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: check_in_time
+      label: Preferred Check-In Time
+      hint: When will you arrive?
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: participation_fee
+      label: Participation Fee
+      hint: Registration cost
+      type: select_one
+      options:
+      - $25 - Standard
+      - $50 - Premium Spot
+      - Waived - Volunteer
+      - Sponsor - Complimentary
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Already Paid
+      required: true
+    - id: 23
+      name: t_shirt_sizes
+      label: T-Shirt Sizes
+      hint: For crew shirts if provided
+      type: select_multiple
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - Not Interested
+      required: false
+    - id: 24
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I agree to the waiver terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 26
+      name: rules_acknowledgment
+      label: Rules Acknowledgment
+      hint: I have read and agree to parade rules
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - false
+      required: true

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rhine River Tour Registration
+    pages:
+    - id: 1
+      name: tour_operator
+      label: Tour Operator
+      hint: null
+      type: select_one
+      options:
+      - Rhine River Tours
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Required
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_size
+      label: Party Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-10
+      required: false
+    - id: 4
+      name: party_type
+      label: Party Type
+      hint: null
+      type: select_one
+      options:
+      - Adults
+      - Children
+      - Group
+      required: false
+    - id: 5
+      name: tour_date
+      label: Tour Date
+      hint: Required
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Hostel
+      - Airbnb
+      required: false
+    - id: 9
+      name: accommodation_address
+      label: Accommodation Address
+      hint: Required
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accommodation_phone
+      label: Accommodation Phone
+      hint: Required
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: accommodation_email
+      label: Accommodation Email
+      hint: Required
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: accommodation_notes
+      label: Accommodation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Required
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: Required
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: confirm_date
+      label: Confirm Date
+      hint: Required
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: party_name
+      label: Party Name
+      hint: Required
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: party_phone
+      label: Party Phone
+      hint: Required
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: party_email
+      label: Party Email
+      hint: Required
+      type: text
+      options: []
+      required: true

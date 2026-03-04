@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Performance Attendance Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event
+      label: event
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Event1'', ''value'': 1}'
+      - '{''label'': ''Event2'', ''value'': 2}'
+      - '{''label'': ''Event3'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: performance
+      label: performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Performance1'', ''value'': 1}'
+      - '{''label'': ''Performance2'', ''value'': 2}'
+      - '{''label'': ''Performance3'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: attendance
+      label: attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: performance_id
+      label: performance_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: attendance_id
+      label: attendance_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comments_id
+      label: comments_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes_id
+      label: notes_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: email_id
+      label: email_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: phone_id
+      label: phone_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: date_id
+      label: date_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: time_id
+      label: time_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_submission_id
+      label: form_submission_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: created_at
+      label: created_at
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': 1}'
+      - '{''label'': ''Inactive'', ''value'': 2}'
+      required: false
+    - id: 26
+      name: field_26
+      label: Field 26
+      hint: null
+      type: text
+      options: []
+      required: false

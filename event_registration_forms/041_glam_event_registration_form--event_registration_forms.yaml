@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Glam Event Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_attendence
+      label: Time of Attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - VIP
+      - Regular
+      - Guest
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Card
+      - Online
+      - In-App
+      required: false
+    - id: 9
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

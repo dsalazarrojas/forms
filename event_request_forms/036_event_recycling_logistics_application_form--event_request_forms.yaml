@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_recycling_logistics_application_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recycling_needs
+      label: recycling_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: venue_address
+      label: venue_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city_selection
+      label: city_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: waste_hauler
+      label: waste_hauler
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: collection_date
+      label: collection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: collection_time
+      label: collection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: bin_selection
+      label: bin_selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: services_request
+      label: services_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

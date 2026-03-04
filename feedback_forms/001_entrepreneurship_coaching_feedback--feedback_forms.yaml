@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: entrepreneurship_coaching_feedback
+    pages:
+    - id: 1
+      name: coaching_session
+      label: Coaching Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_goal_setting
+      label: goal_setting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relevance_to_goals
+      label: relevance_to_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: effectiveness_of_coaching
+      label: effectiveness_of_coaching
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coach_notes
+      label: coach_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

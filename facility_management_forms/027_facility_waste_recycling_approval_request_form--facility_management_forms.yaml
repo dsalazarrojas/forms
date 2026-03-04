@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Waste Recycling Approval Request Form
+    pages:
+    - id: 1
+      name: facility_waste_recycling_approval_request_form
+      label: Facility Waste Recycling Approval Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_waste_types
+      label: Waste Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: null
+      type: text
+      options: []
+      required: false

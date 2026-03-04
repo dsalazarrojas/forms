@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Horse Show Registration Form
+    pages:
+    - id: 1
+      name: horse_show_registration_form_data
+      label: horse show registration form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: event id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rider_name
+      label: rider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: horse_name
+      label: horse name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rider_age
+      label: rider age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rider_gender
+      label: rider gender
+      hint: null
+      type: select_one
+      options:
+      - female
+      - male
+      - other
+      required: false
+    - id: 7
+      name: rider_email
+      label: rider email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rider_phone_number
+      label: rider phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: horse_breed
+      label: horse breed
+      hint: null
+      type: select_one
+      options:
+      - light horse breed 1
+      - light horse breed 2
+      - light horse breed 3
+      - light horse breed 4
+      - light horse breed 5
+      - other
+      required: false
+    - id: 10
+      name: horse_height
+      label: horse height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: horse_weight
+      label: horse weight
+      hint: null
+      type: number
+      options: []
+      required: false

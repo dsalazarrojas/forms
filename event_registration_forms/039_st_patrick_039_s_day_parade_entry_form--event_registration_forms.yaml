@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: St. Patrick's Day Parade Entry Form
+    pages:
+    - id: 1
+      name: entry_info
+      label: Entry Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: logistics
+      label: Logistics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_fee
+      label: Entry Fee
+      hint: Enter the entry fee for the participant.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: entry_fee_frequency
+      label: Entry Fee Frequency
+      hint: How often is this entry participating?
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      required: false
+    - id: 8
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - Float
+      - Drum
+      - Dance
+      - Marching Unit
+      - Performance
+      required: false
+    - id: 9
+      name: entry_subtype
+      label: Entry Subtype
+      hint: null
+      type: select_multiple
+      options:
+      - Band
+      - Float
+      - Dance
+      - Other
+      required: false
+    - id: 10
+      name: entry_description
+      label: Entry Description
+      hint: Brief description of entry.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_photo
+      label: Entry Photo
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: entry_time
+      label: Entry Time
+      hint: Entry start and end time.
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: Your email address.
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: Your phone number.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Cash
+      - Check
+      required: false
+    - id: 20
+      name: is_sponsored
+      label: Sponsored?
+      hint: Is the entry sponsored?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: sponsor
+      label: Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: has_performed_here_before
+      label: Have you performed here before?
+      hint: Have you performed here before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: has_performed_here_before_other_year
+      label: Have you performed here in previous years?
+      hint: Have you performed here in previous years?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: entry_photo
+      label: Entry Photo
+      hint: null
+      type: text
+      options: []
+      required: false

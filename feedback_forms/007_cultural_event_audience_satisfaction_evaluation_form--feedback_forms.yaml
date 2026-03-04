@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural event audience satisfaction evaluation form
+    pages:
+    - id: 1
+      name: intropage
+      label: intro Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introquestion
+      label: Please provide feedback regarding the Cultural Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: eventrating
+      label: Rate your overall satisfaction with the event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: eventquality
+      label: How would you rate the quality of the event
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: eventimpact
+      label: How would you rate the impact of the event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommend
+      label: Would you recommend this event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Do you have any comments or suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contactinfo
+      label: How can we contact you
+      hint: Please enter your contact info so we can follow up with you
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contactmethod
+      label: What is your preferred method of contact
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In Person
+      - Other
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Cleaning Service Benchmark Survey
+    pages:
+    - id: 1
+      name: facility_cleaning_quality
+      label: How would you rate the overall cleaning quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: cleaning_services_score
+      label: Cleaning services score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cleaning_frequency
+      label: How frequently are cleaning services performed
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 4
+      name: cleanliness_standards
+      label: How would you rate cleanliness standards
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: satisfaction_score
+      label: Satisfaction score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: improvement_requests
+      label: Is there anything we can improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility name
+      hint: null
+      type: text
+      options: []
+      required: false

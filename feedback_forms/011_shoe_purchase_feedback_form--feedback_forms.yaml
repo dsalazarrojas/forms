@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shoe Purchase Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purchase_date
+      label: Purchase Date
+      hint: Enter the date of your purchase
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_preferences
+      label: Do you prefer email or phone contact?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 9
+      name: shoe_size
+      label: How tall are you?
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 10
+      name: purchase_location
+      label: Where did you purchase from?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Store
+      - Other
+      required: false
+    - id: 11
+      name: shoe_color
+      label: What is your shoe color preference?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 12
+      name: purchase_channel
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Friends
+      - Family
+      - Online Ads
+      required: false
+    - id: 13
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 14
+      name: age_range
+      label: What is your age range?
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: false
+    - id: 15
+      name: purchase_frequency
+      label: How often do you purchase from us?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 16
+      name: purchase_frequency_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_satisfaction
+      label: How satisfied are you with your purchase?
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Extremely Dissatisfied
+      required: false
+    - id: 18
+      name: purchase_purpose
+      label: What was the purpose of your purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - Gift
+      - Personal Use
+      - Other
+      required: false
+    - id: 19
+      name: customer_satisfaction_other
+      label: If other, please specify
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: purchase_reason_other
+      label: If other, please specify
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: shoe_type
+      label: What type of shoe is it?
+      hint: null
+      type: select_multiple
+      options:
+      - Sneaker
+      - Boots
+      - Sandal
+      - Other
+      required: false
+    - id: 22
+      name: shoe_style
+      label: What style of shoe is it?
+      hint: null
+      type: select_multiple
+      options:
+      - Casual
+      - Dress
+      - Athletic
+      - Other
+      required: false
+    - id: 23
+      name: shoe_material
+      label: What material is it made of?
+      hint: null
+      type: select_multiple
+      options:
+      - Leather
+      - Synthetic
+      - Cotton
+      - Other
+      required: false
+    - id: 24
+      name: purchase_reason
+      label: Why do you purchase our shoes?
+      hint: null
+      type: select_multiple
+      options:
+      - Quality
+      - Price
+      - Brand
+      - Other
+      required: false
+    - id: 25
+      name: customer_recommend
+      label: Would you recommend our shoes?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Feedback Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: Name of the coach you worked with
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: Date of the coaching session
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_performance
+      label: -- Performance and Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_performance_level
+      label: Your Current Performance Level
+      hint: How well are you performing in your goal area?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 8
+      name: progress_since_last_session
+      label: Progress Since Last Coaching Session
+      hint: How much have you improved?
+      type: select_one
+      options:
+      - Significant progress
+      - Good progress
+      - Some progress
+      - Little progress
+      - No progress
+      required: true
+    - id: 9
+      name: section_coaching_session
+      label: -- Coaching Session Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_usefulness
+      label: How useful was this coaching session?
+      hint: Rate the value of the session
+      type: select_one
+      options:
+      - Very useful
+      - Useful
+      - Somewhat useful
+      - Not useful
+      required: true
+    - id: 11
+      name: clarity_of_guidance
+      label: Clarity of Coach Guidance
+      hint: Were the coach instructions clear?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      required: true
+    - id: 12
+      name: actionable_advice
+      label: Actionable Advice Provided
+      hint: Could you implement the advice given?
+      type: select_one
+      options:
+      - Very actionable
+      - Actionable
+      - Somewhat actionable
+      - Not actionable
+      required: true
+    - id: 13
+      name: section_coaching_style
+      label: -- Coaching Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: coach_listening_skills
+      label: Coach Listening Skills
+      hint: Did the coach listen to you?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 15
+      name: coach_motivation
+      label: Coach Motivation and Encouragement
+      hint: Did the coach motivate you?
+      type: select_one
+      options:
+      - Very motivating
+      - Motivating
+      - Somewhat motivating
+      - Not motivating
+      required: true
+    - id: 16
+      name: personalization
+      label: Personalization of Coaching
+      hint: Was coaching tailored to your needs?
+      type: select_one
+      options:
+      - Highly personalized
+      - Personalized
+      - Somewhat personalized
+      - Generic
+      required: true
+    - id: 17
+      name: section_improvement_areas
+      label: -- Improvement Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: specific_improvements
+      label: Specific Areas Where You Have Improved
+      hint: List skills or areas that have improved
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_improvements
+      label: What Could the Coach Improve?
+      hint: Feedback for the coach
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_support
+      label: What Additional Support Would Help?
+      hint: What else do you need?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_overall
+      label: -- Overall Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_rating
+      label: Overall Coaching Rating
+      hint: Rate the overall coaching experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 23
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: true

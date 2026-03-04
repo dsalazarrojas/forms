@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_class_booking_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Member''}'
+      - '{''value'': ''Guest''}'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hatha''}'
+      - '{''value'': ''Vinyasa''}'
+      - '{''value'': ''Yin''}'
+      - '{''value'': ''Restorative''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

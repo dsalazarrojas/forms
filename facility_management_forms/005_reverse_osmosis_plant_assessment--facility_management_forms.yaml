@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: reverse_osmosis_plant_assessment
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_assessment
+      label: date_of_assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: plant_performance_indicators
+      label: Plant Performance Indicators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: osmosis_plant_status
+      label: Osmosis Plant Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_findings
+      label: Maintenance Findings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: operator_comments
+      label: Operator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plant_rating
+      label: Plant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: facility_manager_comments
+      label: Facility Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Operator 1
+      - Operator 2
+      - Operator 3
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Operator 1
+      - Operator 2
+      - Operator 3
+      required: true

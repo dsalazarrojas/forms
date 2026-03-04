@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Wellness Feedback Form
+    pages:
+    - id: 1
+      name: general_feedback
+      label: General Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: employee_demographics
+      label: Employee Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 6
+      name: program_effectiveness
+      label: Program Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_wellness
+      label: Overall Wellness
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Human Resources'', ''value'': ''human_resources''}'
+      - '{''label'': ''Operations'', ''value'': ''operations''}'
+      - '{''label'': ''IT'', ''value'': ''it''}'
+      required: true
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

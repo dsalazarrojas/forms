@@ -1,0 +1,355 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Log
+    pages:
+    - id: 1
+      name: maintenance_log_header
+      label: -- Building Maintenance Log --
+      hint: Record maintenance activities and repairs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: log_date
+      label: Date of maintenance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: maintenance_id
+      label: Maintenance request ID
+      hint: Optional tracking number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technician_name
+      label: Technician or maintenance person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_name
+      label: Building name or identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: floor_room
+      label: Specific floor or room number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: maintenance_details
+      label: -- Maintenance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_type
+      label: Type of maintenance
+      hint: null
+      type: select_one
+      options:
+      - Preventive maintenance
+      - Routine maintenance
+      - Emergency repair
+      - Corrective repair
+      - System upgrade
+      - Inspection only
+      - Cleaning
+      - Other
+      required: true
+    - id: 12
+      name: system_equipment
+      label: System or equipment serviced
+      hint: null
+      type: select_one
+      options:
+      - HVAC system
+      - Plumbing
+      - Electrical
+      - Roofing
+      - Flooring
+      - Windows/doors
+      - Fire safety system
+      - Security system
+      - Lighting
+      - Other
+      required: true
+    - id: 13
+      name: maintenance_description
+      label: Detailed description of work performed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: work_completed
+      label: Was work completed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully completed
+      - Partially completed
+      - Not completed - waiting
+      - Not completed - needs parts
+      - Not completed - needs professional
+      required: true
+    - id: 15
+      name: completion_status
+      label: -- Completion and Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: hours_spent
+      label: Hours spent on maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: current_status
+      label: Current status
+      hint: null
+      type: select_one
+      options:
+      - Completed and tested
+      - Completed - not tested
+      - In progress - continuing tomorrow
+      - Pending parts/materials
+      - Pending specialist review
+      - On hold
+      - Requires owner notification
+      required: true
+    - id: 20
+      name: follow_up_needed
+      label: Follow-up visit needed
+      hint: null
+      type: select_one
+      options:
+      - No - work complete
+      - Yes - within 1 week
+      - Yes - within 1 month
+      - Yes - schedule as needed
+      - TBD - assess on next visit
+      required: true
+    - id: 21
+      name: follow_up_date
+      label: Scheduled follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: materials_parts
+      label: -- Materials and Parts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: materials_used
+      label: Materials and parts used
+      hint: Description and quantity
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: material_cost
+      label: Material cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: labor_cost
+      label: Labor cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: total_cost
+      label: Total maintenance cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: safety_issues
+      label: -- Safety and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: safety_concerns
+      label: Safety concerns identified
+      hint: null
+      type: select_one
+      options:
+      - None identified
+      - Minor safety note
+      - Safety concern found
+      - Critical safety issue
+      - Needs immediate attention
+      required: true
+    - id: 29
+      name: safety_details
+      label: Safety concern details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_issues
+      label: Additional issues or problems found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: recommendations
+      label: Recommendations for future maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: testing_verification
+      label: -- Testing and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: work_tested
+      label: Work tested and verified
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully tested
+      - Yes, partially tested
+      - No testing performed
+      - Testing pending
+      required: true
+    - id: 34
+      name: test_results
+      label: Test results and findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: system_operational
+      label: System operational at completion
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully operational
+      - Yes, partially operational
+      - No, not operational
+      - Unknown - needs testing
+      required: true
+    - id: 36
+      name: photos_notes
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: before_after_photos
+      label: Before and after photos attached
+      hint: null
+      type: select_one
+      options:
+      - Yes, both attached
+      - Yes, before only
+      - Yes, after only
+      - No photos taken
+      required: false
+    - id: 38
+      name: equipment_serial
+      label: Equipment serial number or ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: maintenance_notes
+      label: Additional maintenance notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: next_scheduled
+      label: Next scheduled maintenance date
+      hint: Recommended maintenance interval
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: owner_notification
+      label: Occupant or owner notification required
+      hint: null
+      type: select_one
+      options:
+      - Yes, notified
+      - Yes, needs notification
+      - No notification needed
+      - Pending notification
+      required: false
+    - id: 42
+      name: signature_date
+      label: Technician signature and date
+      hint: Confirmation of completion
+      type: text
+      options: []
+      required: false

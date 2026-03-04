@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stallholder Operations Form
+    pages:
+    - id: 1
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_end_date
+      label: event_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''canceled'', ''label'': ''canceled''}'
+      required: false
+    - id: 6
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: stallholder_name
+      label: stallholder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stallholder_status
+      label: stallholder_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 9
+      name: stallholder_notes
+      label: stallholder_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_numbers
+      label: phone_numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_id
+      label: event_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      required: false
+    - id: 14
+      name: stallholder_id
+      label: stallholder_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      required: false
+    - id: 15
+      name: event_status_id
+      label: event_status_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      required: false
+    - id: 16
+      name: event_start_date_id
+      label: event_start_date_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      required: false
+    - id: 17
+      name: event_end_date_id
+      label: event_end_date_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      required: false
+    - id: 18
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''canceled'', ''label'': ''canceled''}'
+      required: false
+    - id: 20
+      name: stallholder_name
+      label: stallholder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stallholder_status
+      label: stallholder_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 22
+      name: stallholder_notes
+      label: stallholder_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: phone_numbers
+      label: phone_numbers
+      hint: null
+      type: text
+      options: []
+      required: false

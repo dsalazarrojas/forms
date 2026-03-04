@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Permission Form
+    pages:
+    - id: 1
+      name: permission_header
+      label: -- Permission and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: For minor participants include guardian name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Guardian full name
+      hint: Required if participant under 18
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: activity_details
+      label: Activity details
+      hint: Brief description of activity
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical conditions or allergies
+      hint: Important for safety planning
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_signature
+      label: Guardian or participant signature name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_date
+      label: Date of consent
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for activity organizers
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photographic_release
+      label: Photographic release consent
+      hint: Consent to use photos for promotion
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false

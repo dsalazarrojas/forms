@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Store Shopping Experience Questionnaire
+    pages:
+    - id: 1
+      name: page_one
+      label: In-store experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Customer A''}'
+      - '{''value'': ''Customer B''}'
+      - '{''value'': ''Customer C''}'
+      required: false
+    - id: 3
+      name: product_info
+      label: Product info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Product A''}'
+      - '{''value'': ''Product B''}'
+      - '{''value'': ''Product C''}'
+      required: false
+    - id: 4
+      name: store_employee
+      label: Store employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_hours
+      label: Store hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_feedback
+      label: What do you think of our store?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: How satisfied are you?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      - '{''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_employee_helped
+      label: Did the store employee help you?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''No opinion''}'
+      required: false
+    - id: 10
+      name: employee_customer_interaction
+      label: How was the store employee interaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Helpful''}'
+      - '{''value'': ''Not very helpful''}'
+      - '{''value'': ''Not at all helpful''}'
+      required: false
+    - id: 11
+      name: store_ambiance
+      label: Store ambiance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 12
+      name: product_price
+      label: Product price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_quality
+      label: Product quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 14
+      name: store_communication
+      label: Store communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 15
+      name: store_location
+      label: Store location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 16
+      name: product_recommended
+      label: Would you recommend this product?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''No opinion''}'
+      required: false
+    - id: 17
+      name: customer_loyalty
+      label: Are you a loyal customer?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''No opinion''}'
+      required: false
+    - id: 18
+      name: customer_satisfaction
+      label: How satisfied are you with this store?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      - '{''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 19
+      name: customer_willingness
+      label: How willing are you to go back to this store?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Willing''}'
+      - '{''value'': ''Not willing''}'
+      - '{''value'': ''Not at all willing''}'
+      required: false
+    - id: 20
+      name: customer_visit_frequency
+      label: How many times do you visit this store in a month?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_spend
+      label: How much did you spend in this store?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: store_regular_visit
+      label: Do you visit this store regularly?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''No opinion''}'
+      required: false
+    - id: 23
+      name: customer_loyal_since
+      label: How long have you been a loyal customer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_visit_date
+      label: What date do you visit this store?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: store_closed
+      label: Is the store closed?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''No opinion''}'
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scrabble Event Registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tournament_info
+      label: Tournament Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Registered''}'
+      - '{''label'': ''Unregistered''}'
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Payment 1''}'
+      - '{''label'': ''Payment 2''}'
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Unpaid''}'
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tournament''}'
+      - '{''label'': ''Club Event''}'
+      - '{''label'': ''Community Night''}'
+      required: false
+    - id: 14
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jotform''}'
+      - '{''label'': ''Local Club''}'
+      - '{''label'': ''Tournament Organizer''}'
+      required: false
+    - id: 15
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false

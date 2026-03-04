@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Check In Form
+    pages:
+    - id: 1
+      name: open_house_checkin_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_name_label
+      label: Guest Type
+      hint: null
+      type: select_multiple
+      options:
+      - Guest
+      - Realtor
+      - Other
+      required: true
+    - id: 6
+      name: guest_type
+      label: Guest Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guest_comments
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Agent Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agent_comments
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Online Listing
+      - Open House Flyer
+      - Other
+      required: true
+    - id: 11
+      name: referral_source
+      label: Referral Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: source_other
+      label: Referral Source Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: source_other_description
+      label: Lead Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lead_follow_up_date
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New Lead
+      - Follow Up Needed
+      - Lead Qualified
+      - Lead Converted
+      required: true
+    - id: 15
+      name: lead_status
+      label: Lead Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: lead_follow_up_notes
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: event_details
+      label: Agent Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: agent_follow_up_notes
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agent_name
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agent_phone
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: agent_email
+      label: Agent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agent_address
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agent_phone
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_id
+      label: Agent Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: agent_comments
+      label: Total Visitors
+      hint: null
+      type: number
+      options: []
+      required: false

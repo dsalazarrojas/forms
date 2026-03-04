@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Launch Reception RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_header
+      label: Launch Reception RSVP
+      hint: Reserve your spot at the launch reception
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: Reception information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: conference_name
+      label: Conference Name
+      hint: Associated event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reception_date
+      label: Reception Date
+      hint: When it is held
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reception_time
+      label: Reception Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reception_venue
+      label: Reception Venue
+      hint: Location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_response
+      label: RSVP Response
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes I Will Attend
+      - No I Cannot Attend
+      - Maybe Undecided
+      required: true
+    - id: 13
+      name: guest_information
+      label: Guest Information
+      hint: Additional attendees
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: plus_one_needed
+      label: Bringing a Guest
+      hint: Plus one request
+      type: select_one
+      options:
+      - Yes Bringing Guest
+      - No Attending Alone
+      required: false
+    - id: 15
+      name: guest_name
+      label: Guest Name
+      hint: Name of plus one
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guest_relationship
+      label: Guest Relationship
+      hint: How related to you
+      type: select_one
+      options:
+      - Spouse or Partner
+      - Colleague
+      - Client
+      - Friend
+      - Other
+      required: false
+    - id: 17
+      name: refreshment_preferences
+      label: Refreshment Preferences
+      hint: Food and drink
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Drink choice
+      type: select_one
+      options:
+      - Alcoholic Beverages
+      - Non-Alcoholic Only
+      - No Preference
+      required: false
+    - id: 20
+      name: networking_interest
+      label: Networking Interest
+      hint: Meet others
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Getting to venue
+      type: select_one
+      options:
+      - Need Shuttle Service
+      - Have Own Transport
+      - Need Parking Info
+      required: false
+    - id: 23
+      name: how_did_you_hear
+      label: How Did You Hear About Event
+      hint: Source of information
+      type: select_one
+      options:
+      - Email Invitation
+      - Conference Website
+      - Social Media
+      - Colleague
+      - Previous Event
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rsvp_deadline
+      label: RSVP Deadline Acknowledgment
+      hint: Submit by deadline
+      type: select_one
+      options:
+      - I Understand Deadline
+      - Need Extension
+      required: false

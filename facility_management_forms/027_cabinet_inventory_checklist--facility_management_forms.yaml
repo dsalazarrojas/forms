@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cabinet Inventory Checklist
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector name
+      hint: Person performing inventory
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventory_date
+      label: Inventory date
+      hint: Date of check
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: cabinet_id
+      label: Cabinet identifier
+      hint: Location or asset tag
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_count
+      label: Number of items counted
+      hint: Total items inside cabinet
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: condition_summary
+      label: Condition summary
+      hint: Good fair or poor
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: missing_items
+      label: Missing items details
+      hint: List missing items if any
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_required
+      label: Action required
+      hint: Repairs reorder or disposal
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_inventory_date
+      label: Next inventory date
+      hint: Scheduled follow up
+      type: date
+      options: []
+      required: false

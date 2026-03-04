@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Compressor Knowledge Quiz
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: q1_compressor_type
+      label: Question 1 - Which type of compressor uses a rotating impeller
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Centrifugal compressor
+      - Reciprocating compressor
+      - Rotary screw compressor
+      - Axial compressor
+      required: true
+    - id: 6
+      name: q2_pressure_switch
+      label: Question 2 - What is the purpose of a pressure switch
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To turn the compressor on and off at set pressures
+      - To measure air temperature
+      - To filter contaminants
+      - To regulate airflow speed
+      required: true
+    - id: 7
+      name: q3_safety_valve
+      label: Question 3 - What does a safety relief valve do
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Releases excess pressure to prevent tank explosion
+      - Increases air pressure
+      - Filters the air
+      - Cools the compressor
+      required: true
+    - id: 8
+      name: q4_cfm_meaning
+      label: Question 4 - What does CFM stand for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Cubic Feet per Minute
+      - Compressed Force Measurement
+      - Cubic Flow Meter
+      - Compression Factor Multiplier
+      required: true
+    - id: 9
+      name: q5_psi_meaning
+      label: Question 5 - What does PSI stand for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Pounds per Square Inch
+      - Pressure System Indicator
+      - Piston Stroke Interval
+      - Power Supply Input
+      required: true
+    - id: 10
+      name: q6_moisture_control
+      label: Question 6 - Why is moisture control important in compressed air
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Moisture can damage tools and contaminate products
+      - Moisture increases air pressure
+      - Moisture improves efficiency
+      - Moisture has no effect
+      required: true
+    - id: 11
+      name: q7_intake_filter
+      label: Question 7 - What is the purpose of an intake filter
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To remove contaminants from incoming air
+      - To cool the air
+      - To increase pressure
+      - To add moisture
+      required: true
+    - id: 12
+      name: q8_duty_cycle
+      label: Question 8 - What is duty cycle
+      hint: Select the best answer
+      type: select_one
+      options:
+      - The percentage of time a compressor can run in a cycle
+      - The speed of the motor
+      - The tank capacity
+      - The power consumption
+      required: true
+    - id: 13
+      name: q9_lubrication
+      label: Question 9 - Why is proper lubrication important
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Reduces friction and wear on moving parts
+      - Increases air pressure
+      - Cools the air
+      - Filters contaminants
+      required: true
+    - id: 14
+      name: q10_unloader_valve
+      label: Question 10 - What does an unloader valve do
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Releases pressure from the pump head when compressor stops
+      - Adds oil to the system
+      - Increases motor speed
+      - Cools the tank
+      required: true
+    - id: 15
+      name: q11_check_valve
+      label: Question 11 - What is the function of a check valve
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Allows air to flow in one direction only
+      - Measures air pressure
+      - Filters the air
+      - Regulates temperature
+      required: true
+    - id: 16
+      name: q12_aftercooler
+      label: Question 12 - What is an aftercooler
+      hint: Select the best answer
+      type: select_one
+      options:
+      - A device that cools compressed air after it leaves the compressor
+      - A type of air filter
+      - A pressure regulator
+      - A safety device
+      required: true
+    - id: 17
+      name: q13_tank_drain
+      label: Question 13 - How often should you drain the air tank
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Daily or after each use
+      - Once a month
+      - Once a year
+      - Never
+      required: true
+    - id: 18
+      name: q14_belt_tension
+      label: Question 14 - Why is belt tension important
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Proper tension ensures efficient power transmission
+      - It affects air quality
+      - It controls pressure
+      - It regulates temperature
+      required: true
+    - id: 19
+      name: q15_lockout_tagout
+      label: Question 15 - When should lockout/tagout procedures be followed
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Before any maintenance or repair work
+      - Only during emergencies
+      - When changing air filters
+      - Never required
+      required: true
+    - id: 20
+      name: q16_leak_detection
+      label: Question 16 - What is a common sign of an air leak
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hissing sound
+      - Pressure drops
+      - Compressor running constantly
+      - Increased energy bills
+      required: true
+    - id: 21
+      name: q17_compressor_room
+      label: Question 17 - What are requirements for a compressor room
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Adequate ventilation
+      - Clean environment
+      - Proper temperature control
+      - Sufficient space for maintenance
+      required: true
+    - id: 22
+      name: q18_ppe
+      label: Question 18 - What PPE should be worn when working with compressors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safety glasses
+      - Hearing protection
+      - Gloves
+      - Steel-toed boots
+      required: true
+    - id: 23
+      name: completion_time
+      label: Completion Time (minutes)
+      hint: Time taken to complete
+      type: number
+      options: []
+      required: false

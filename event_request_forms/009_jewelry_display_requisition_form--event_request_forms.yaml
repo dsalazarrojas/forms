@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Display Requisition Form
+    pages:
+    - id: 1
+      name: event_request_form
+      label: Event Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: display_request_type
+      label: display_request_type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Promotional
+      - Display
+      required: false
+    - id: 8
+      name: display_request_location
+      label: display_request_location
+      hint: null
+      type: select_one
+      options:
+      - Mall
+      - Store
+      - Online
+      required: false
+    - id: 9
+      name: jewelry_description
+      label: jewelry_description
+      hint: Description of the display request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: jewelry_image
+      label: jewelry_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: jewelry_video
+      label: jewelry_video
+      hint: null
+      type: text
+      options: []
+      required: false

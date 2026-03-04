@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_collaboration_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Team Collaboration Feedback Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_one
+      options:
+      - Collaboration is a core part of my role
+      - Collaboration is a minor part of my role
+      - I do not collaborate much
+      required: false
+    - id: 3
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Chat
+      - Phone
+      - Video conference
+      - In-person
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: collaboration_tools
+      label: Collaboration Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Trello
+      - Asana
+      - Slack
+      - Microsoft Teams
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: collaboration_barriers
+      label: Collaboration Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of clear goals and objectives
+      - Limited time or resources
+      - Technical issues
+      - Communication barriers
+      - Lack of feedback and accountability
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: communication_styles
+      label: Communication Styles
+      hint: null
+      type: select_multiple
+      options:
+      - Direct and assertive
+      - Indirect and collaborative
+      - Indirect and passive
+      required: false
+    - id: 7
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback_methods
+      label: Feedback Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Regular one-on-one check-ins
+      - Regular team meetings
+      - Ad-hoc meetings as needed
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: feedback_recipients
+      label: Feedback Recipients
+      hint: null
+      type: select_multiple
+      options:
+      - Team lead/manager
+      - Peers
+      - Subordinate(s)
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: collaboration_outcomes
+      label: Collaboration Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Improved team collaboration and productivity
+      - Enhanced communication and teamwork
+      - Increased employee engagement and motivation
+      - Other (please specify)
+      required: false

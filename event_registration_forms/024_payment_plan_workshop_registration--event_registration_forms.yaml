@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Plan Workshop Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_plan
+      label: Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fees
+      label: Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_fees
+      label: Total Fees
+      hint: null
+      type: number
+      options: []
+      required: false

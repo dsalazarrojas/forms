@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worship Event Guide
+    pages:
+    - id: 1
+      name: welcome_page
+      label: welcome_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: speaker_info
+      label: speaker_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes_and_feedback
+      label: notes_and_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree to terms and conditions'', ''value'': ''I agree to
+        terms and conditions''}'
+      - '{''label'': ''I do not agree to terms and conditions'', ''value'': ''I do
+        not agree to terms and conditions''}'
+      required: false
+    - id: 10
+      name: submit_comment
+      label: submit_comment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''This form was easy to use'', ''value'': ''This form was easy
+        to use''}'
+      - '{''label'': ''This form was difficult to use'', ''value'': ''This form was
+        difficult to use''}'
+      - '{''label'': ''This form was okay'', ''value'': ''This form was okay''}'
+      required: false

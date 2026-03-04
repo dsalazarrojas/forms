@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Fare Change Feedback Report Form
+    pages:
+    - id: 1
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Fare Increase
+      - Fare Decrease
+      - No Effect
+      required: false
+    - id: 2
+      name: question1
+      label: What type of transportation was affected by fare change?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: How often did you ride the affected type of transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 4
+      name: question3
+      label: Rate the effectiveness of communication about fare changes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transportation_fare_change
+      label: What fare change did you experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question4
+      label: How will the fare change affect your transportation choice?
+      hint: null
+      type: select_multiple
+      options:
+      - More likely to take public transportation
+      - Less likely to take public transportation
+      - No Effect
+      required: false
+    - id: 10
+      name: question5
+      label: What would you suggest as an alternative fare change option?
+      hint: null
+      type: select_multiple
+      options:
+      - Increase
+      - Decrease
+      - No Change
+      required: false
+    - id: 11
+      name: question6
+      label: Rate the overall satisfaction with the fare change experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: question7
+      label: What is your feedback on public transportation fare change?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question8
+      label: Did you experience any inconvenience due to fare change?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: question9
+      label: How would you rate the inconvenience caused by fare change?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: question10
+      label: Additional Information Regarding Inconvenience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: question11
+      label: How likely are you to suggest this change to others?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Not Very Likely
+      - Not At All Likely
+      required: false
+    - id: 18
+      name: question12
+      label: How often do you ride public transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 19
+      name: question13
+      label: What mode of public transportation do you use most often?
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Subway
+      - Ferry
+      - Bike
+      - Drive
+      - Walk
+      - Other
+      required: false
+    - id: 20
+      name: question14
+      label: How long do you usually spend on public transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 hour to 2 hours
+      - More than 2 hours
+      required: false
+    - id: 21
+      name: question15
+      label: What type of payment method do you use for public transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Card
+      - Mobile Payment
+      - Other
+      required: false
+    - id: 22
+      name: question16
+      label: How satisfied are you with your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 23
+      name: question17
+      label: How likely are you to continue using public transportation after this
+        fare change?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Not Very Likely
+      - Not At All Likely
+      required: false
+    - id: 24
+      name: question18
+      label: What would make you more likely to use public transportation after this
+        fare change?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduced Fares
+      - More Frequent Service
+      - Improved Route Options
+      - More Reliability
+      - Other
+      required: false
+    - id: 25
+      name: question19
+      label: What would make you less likely to use public transportation after this
+        fare change?
+      hint: null
+      type: select_multiple
+      options:
+      - Higher Fares
+      - Reduced Service Frequency
+      - Less Reliability
+      - Other
+      required: false
+    - id: 26
+      name: question20
+      label: Do you feel the fare change was fair?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Very Likely
+      - Not At All Likely
+      required: false

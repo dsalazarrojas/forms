@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Rentals Reservation Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: venue_id
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_equipment
+      label: Event Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_contact
+      label: Event Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: event_phone
+      label: Event Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_status
+      label: Event Status
+      hint: null
+      type: text
+      options: []
+      required: false

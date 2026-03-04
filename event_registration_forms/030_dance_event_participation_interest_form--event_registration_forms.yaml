@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Event Participation Interest Form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: dance_style
+      label: DanceStyle
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Hip-Hop
+      - Jazz
+      - Modern
+      - Other
+      required: true
+    - id: 7
+      name: dance_experience
+      label: DanceExperience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Instructor
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: interest
+      label: Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: other_dance_style
+      label: OtherDanceStyle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_dance_style_comments
+      label: OtherDanceStyleComments
+      hint: null
+      type: note
+      options: []
+      required: false

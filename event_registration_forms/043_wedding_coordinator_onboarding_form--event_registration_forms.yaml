@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Coordinator Onboarding Form
+    pages:
+    - id: 1
+      name: wedding_coordinator_onboarding_form_details
+      label: Wedding Coordinator Onboarding Form Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: wedding_theme
+      label: wedding_theme
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Classic
+      - Rustic
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: number_of_guests
+      hint: Please enter a number
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-3000
+      - 3000-5000
+      - 5000-10000
+      - '10000'
+      required: true
+    - id: 6
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      required: true
+    - id: 9
+      name: venue_preferences
+      label: venue_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: catering_preferences
+      label: catering_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true

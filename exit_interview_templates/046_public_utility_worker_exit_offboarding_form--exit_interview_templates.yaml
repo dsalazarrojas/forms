@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_utility_worker_exit_offboarding_form
+    pages:
+    - id: 1
+      name: exit_status
+      label: Employee Exit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: reason_for_exit
+      label: reason_for_exit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exit_date
+      label: Exit Date
+      hint: The date you exited the company.
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: next_step
+      label: What's the next step you'd like to take
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: Is there anything else you'd like to share with us?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evening Availability Survey
+    pages:
+    - id: 1
+      name: group_name
+      label: Enter Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_type
+      label: Group Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evening_availability_start_time
+      label: What time do you start work on evenings?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: evening_availability_start_time_end_time
+      label: What time do you end work on evenings?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: evening_availability_monday
+      label: Monday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evening_availability_tuesday
+      label: Tuesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evening_availability_wednesday
+      label: Wednesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evening_availability_thursday
+      label: Thursday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: evening_availability_friday
+      label: Friday
+      hint: null
+      type: number
+      options: []
+      required: false

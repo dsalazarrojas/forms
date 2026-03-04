@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrochemistry Knowledge Quiz
+    pages:
+    - id: 1
+      name: question_1
+      label: Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learner_name
+      label: Learner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: quiz_results
+      label: Quiz Results
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_answers
+      label: Participant Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: text
+      options: []
+      required: false

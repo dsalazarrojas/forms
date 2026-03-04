@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Night RSVP Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attending
+      label: Attending status
+      hint: Will you attend back to school night
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 4
+      name: number_of_attendees
+      label: Number of attendees
+      hint: Adults attending with student
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sessions_of_interest
+      label: Sessions of interest
+      hint: Select sessions you plan to attend
+      type: select_multiple
+      options:
+      - Homeroom
+      - Curriculum overview
+      - Clubs meeting
+      - PTA session
+      required: false
+    - id: 6
+      name: childcare_needed
+      label: Childcare needed during event
+      hint: Indicate if childcare is required
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For event updates
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_date
+      label: RSVP date
+      hint: Date of response
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else for organizers
+      type: text
+      options: []
+      required: false

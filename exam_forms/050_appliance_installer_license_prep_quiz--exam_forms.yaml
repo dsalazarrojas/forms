@@ -1,0 +1,357 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Installer License Prep Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Employer or company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of Experience
+      hint: In appliance installation
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 6
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: quiz_type
+      label: Quiz Type
+      hint: Type of assessment
+      type: select_one
+      options:
+      - Practice quiz
+      - Certification prep
+      - Skills assessment
+      - Continuing education
+      required: true
+    - id: 8
+      name: question_1
+      label: What is the standard voltage for most household electric dryers
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 120 volts
+      - 208 volts
+      - 240 volts
+      - 480 volts
+      required: true
+    - id: 9
+      name: question_2
+      label: What type of venting material is recommended for gas dryers
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Plastic flexible duct
+      - Foil flexible duct
+      - Rigid metal duct
+      - White plastic duct
+      required: true
+    - id: 10
+      name: question_3
+      label: What is the minimum clearance required behind a refrigerator for proper
+        ventilation
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - No clearance needed
+      - 1 inch
+      - 2 inches
+      - 6 inches
+      required: true
+    - id: 11
+      name: question_4
+      label: When installing a dishwasher, what is the purpose of a high loop or air
+        gap
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - To improve water pressure
+      - To prevent backflow contamination
+      - To reduce noise
+      - To speed up drainage
+      required: true
+    - id: 12
+      name: question_5
+      label: What should you check before connecting a gas range
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Only the electrical connection
+      - Gas line pressure and leaks
+      - Water supply only
+      - Nothing, just connect it
+      required: true
+    - id: 13
+      name: question_6
+      label: What is the standard water supply line size for most washing machines
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 1/4 inch
+      - 3/8 inch
+      - 1/2 inch
+      - 3/4 inch
+      required: true
+    - id: 14
+      name: question_7
+      label: When leveling a refrigerator, which direction should it tilt
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Forward slightly
+      - Backward slightly
+      - Perfectly level all around
+      - Does not matter
+      required: true
+    - id: 15
+      name: question_8
+      label: What safety device is required on gas lines in many jurisdictions
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Pressure regulator
+      - Shut-off valve
+      - Flow meter
+      - Temperature sensor
+      required: true
+    - id: 16
+      name: question_9
+      label: What is the purpose of a drip pan under a water heater or washing machine
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - To catch leaks and prevent water damage
+      - To improve stability
+      - To reduce vibration
+      - For aesthetic purposes
+      required: true
+    - id: 17
+      name: question_10
+      label: What should you do before disconnecting any electrical appliance
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Just pull the plug
+      - Turn off power at the breaker
+      - Wear rubber gloves only
+      - Nothing special
+      required: true
+    - id: 18
+      name: question_11
+      label: What is the maximum length for a dryer vent duct according to most codes
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 10 feet
+      - 25 feet
+      - 35 feet
+      - 50 feet
+      required: true
+    - id: 19
+      name: question_12
+      label: What type of valve is best for water supply connections
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Gate valve
+      - Ball valve
+      - Globe valve
+      - Check valve
+      required: true
+    - id: 20
+      name: question_13
+      label: When should you use a surge protector with appliances
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Never needed
+      - Only with refrigerators
+      - With sensitive electronic controls
+      - Only with gas appliances
+      required: true
+    - id: 21
+      name: question_14
+      label: What is the primary purpose of strapping or bracing a water heater
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - To improve efficiency
+      - To prevent tipping during earthquakes
+      - To reduce noise
+      - For aesthetic purposes
+      required: true
+    - id: 22
+      name: question_15
+      label: What should you check after installing any gas appliance
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Only that it turns on
+      - For gas leaks with soap solution or detector
+      - The color of the flame only
+      - Nothing if connected properly
+      required: true
+    - id: 23
+      name: question_16
+      label: What is the recommended T and P valve setting for residential water heaters
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 100 degrees F and 100 PSI
+      - 150 degrees F and 150 PSI
+      - 210 degrees F and 150 PSI
+      - 250 degrees F and 200 PSI
+      required: true
+    - id: 24
+      name: question_17
+      label: What tool is essential for checking electrical circuits
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Screwdriver
+      - Multimeter or voltage tester
+      - Hammer
+      - Pliers only
+      required: true
+    - id: 25
+      name: question_18
+      label: What is the purpose of an expansion tank on a water heater
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - To store extra hot water
+      - To absorb thermal expansion pressure
+      - To improve heating efficiency
+      - To reduce water consumption
+      required: true
+    - id: 26
+      name: question_19
+      label: When installing a cooktop, what clearance is typically required above
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - No clearance needed
+      - 18 to 30 inches depending on type
+      - 6 inches
+      - 60 inches
+      required: true
+    - id: 27
+      name: question_20
+      label: What should be done with old appliances containing refrigerant
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Dispose in regular trash
+      - Properly recover refrigerant per EPA regulations
+      - Leave for curbside pickup
+      - Burn for scrap metal
+      required: true
+    - id: 28
+      name: scenario_1
+      label: Scenario 1 - A customer reports their new dishwasher is not draining.
+        What should you check first
+      hint: Write your answer
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: scenario_2
+      label: Scenario 2 - You smell gas after connecting a gas range. What are your
+        immediate actions
+      hint: Write your answer
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: scenario_3
+      label: Scenario 3 - A refrigerator is making excessive noise. List possible
+        causes
+      hint: Write your answer
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident do you feel
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident
+      required: true
+    - id: 32
+      name: areas_needing_review
+      label: Areas Needing More Review
+      hint: Select topics to study more
+      type: select_multiple
+      options:
+      - Electrical connections
+      - Gas line installation
+      - Plumbing connections
+      - Venting requirements
+      - Safety protocols
+      - Local codes
+      - Appliance leveling
+      - None, feel prepared
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or concerns
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: participant_signature
+      label: Participant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: completion_date
+      label: Completion Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

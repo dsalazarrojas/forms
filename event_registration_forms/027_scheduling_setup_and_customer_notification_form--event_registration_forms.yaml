@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: scheduling_setup_and_customer_notification_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_details
+      label: appointment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notification_preferences
+      label: notification_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''notification_type''}'
+      - '{''id'': 2, ''name'': ''email''}'
+      - '{''id'': 3, ''name'': ''email_and_sms''}'
+      - '{''id'': 4, ''name'': ''both''}'
+      required: false
+    - id: 4
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: schedule_duration
+      label: schedule_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: schedule_time_of_day
+      label: schedule_time_of_day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: schedule_start_date
+      label: schedule_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: schedule_start_time
+      label: schedule_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: schedule_end_date
+      label: schedule_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: schedule_end_time
+      label: schedule_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

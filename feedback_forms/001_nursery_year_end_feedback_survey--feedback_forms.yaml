@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursery Year End Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: parent_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Good''}'
+      - '{''value'': ''Somewhat Good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Bad''}'
+      - '{''value'': ''Very Bad''}'
+      required: false
+    - id: 4
+      name: teacher
+      label: teacher_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teaching
+      label: teaching
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly Agree''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Strongly Disagree''}'
+      required: false
+    - id: 6
+      name: facilities
+      label: facilities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: care
+      label: care_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

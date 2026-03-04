@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Feedback Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question
+      label: How can we improve our assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rate the assistant
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not satisfied'', ''value'': 0}'
+      - '{''label'': ''Satisfied'', ''value'': 1}'
+      - '{''label'': ''Very satisfied'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: suggestion
+      label: Suggestion or feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Support'', ''value'': ''Support''}'
+      - '{''label'': ''Feedback'', ''value'': ''Feedback''}'
+      - '{''label'': ''Suggestion'', ''value'': ''Suggestion''}'
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ChatJIMMY'', ''value'': ''chatjimmy''}'
+      - '{''label'': ''chatjimmy-2'', ''value'': ''chatjimmy-2''}'
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User'', ''value'': ''User''}'
+      - '{''label'': ''Admin'', ''value'': ''Admin''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: submit_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submit_location
+      label: Submitted Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Office'', ''value'': ''Office''}'
+      - '{''label'': ''Home'', ''value'': ''Home''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User'', ''value'': ''User''}'
+      - '{''label'': ''Admin'', ''value'': ''Admin''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 15
+      name: submitted_by_email
+      label: Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_phone
+      label: Submitter's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_ip
+      label: Submitter's IP
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Local'', ''value'': ''local''}'
+      - '{''label'': ''Public'', ''value'': ''public''}'
+      required: false
+    - id: 18
+      name: submitted_by_browser
+      label: Submitter's Browser
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Safari'', ''value'': ''safari''}'
+      - '{''label'': ''Chrome'', ''value'': ''chrome''}'
+      - '{''label'': ''Firefox'', ''value'': ''firefox''}'
+      required: false
+    - id: 19
+      name: submitted_by_platform
+      label: Submitter's Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Windows'', ''value'': ''windows''}'
+      - '{''label'': ''Mac'', ''value'': ''mac''}'
+      - '{''label'': ''Linux'', ''value'': ''linux''}'
+      required: false
+    - id: 20
+      name: submitted_by_os
+      label: Submitter's OS
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Windows 10'', ''value'': ''windows-10''}'
+      - '{''label'': ''Windows 7'', ''value'': ''windows-7''}'
+      - '{''label'': ''Mac OS'', ''value'': ''mac-os''}'
+      required: false
+    - id: 21
+      name: submitted_by_language
+      label: Submitter's Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English'', ''value'': ''en''}'
+      - '{''label'': ''French'', ''value'': ''fr''}'
+      - '{''label'': ''Spanish'', ''value'': ''es''}'
+      required: false
+    - id: 22
+      name: submitted_by_country
+      label: Submitter's Country
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''United States'', ''value'': ''us''}'
+      - '{''label'': ''Canada'', ''value'': ''ca''}'
+      - '{''label'': ''Mexico'', ''value'': ''mx''}'
+      required: false
+    - id: 23
+      name: submitted_by_region
+      label: Submitter's Region
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''North America'', ''value'': ''na''}'
+      - '{''label'': ''South America'', ''value'': ''sa''}'
+      - '{''label'': ''Europe'', ''value'': ''europe''}'
+      required: false
+    - id: 24
+      name: submitted_by_city
+      label: Submitter's City
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New York'', ''value'': ''new-york''}'
+      - '{''label'': ''London'', ''value'': ''london''}'
+      - '{''label'': ''Paris'', ''value'': ''paris''}'
+      required: false
+    - id: 25
+      name: submitted_by_device
+      label: Submitter's Device
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Desktop'', ''value'': ''desktop''}'
+      - '{''label'': ''Laptop'', ''value'': ''laptop''}'
+      - '{''label'': ''Mobile'', ''value'': ''mobile''}'
+      required: false

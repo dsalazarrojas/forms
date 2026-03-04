@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prom King And Queen Voting Form
+    pages:
+    - id: 1
+      name: prom_king_and_queen_voting_form_page_1
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_1
+      label: king_candidate
+      hint: null
+      type: select_one
+      options:
+      - king_candidate_1
+      - king_candidate_2
+      - king_candidate_3
+      required: true
+    - id: 3
+      name: candidate_2
+      label: queen_candidate
+      hint: null
+      type: select_one
+      options:
+      - queen_candidate_1
+      - queen_candidate_2
+      - queen_candidate_3
+      required: true
+    - id: 4
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_voting_form
+      label: student voting form
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

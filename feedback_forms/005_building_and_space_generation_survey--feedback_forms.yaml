@@ -1,0 +1,167 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building And Space Generation Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When is this survey being completed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: Which building or space are you evaluating
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_using_space
+      label: Primary Department Using Space
+      hint: Which team or group
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: space_type
+      label: Type of Space
+      hint: What is this space used for
+      type: select_one
+      options:
+        - Office
+        - Meeting Room
+        - Break Room
+        - Workspace
+        - Lab
+        - Storage
+        - Other
+      required: true
+    - id: 5
+      name: occupancy_rating
+      label: Adequate Occupancy Capacity
+      hint: Does the space fit your needs
+      type: select_one
+      options:
+        - Fully Adequate
+        - Mostly Adequate
+        - Somewhat Adequate
+        - Not Adequate
+      required: true
+    - id: 6
+      name: layout_functionality
+      label: Space Layout and Functionality
+      hint: How well designed is the space
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 7
+      name: lighting_quality
+      label: Lighting Quality
+      hint: Is the lighting adequate
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 8
+      name: temperature_comfort
+      label: Temperature and Climate Control
+      hint: Is the space comfortable
+      type: select_one
+      options:
+        - Always Comfortable
+        - Usually Comfortable
+        - Sometimes Uncomfortable
+        - Always Uncomfortable
+      required: true
+    - id: 9
+      name: noise_level
+      label: Noise Level
+      hint: Is noise acceptable for the space use
+      type: select_one
+      options:
+        - Quiet and Controlled
+        - Mostly Acceptable
+        - Too Noisy
+        - Extremely Noisy
+      required: true
+    - id: 10
+      name: accessibility
+      label: Accessibility and Mobility
+      hint: Is space accessible to all users
+      type: select_one
+      options:
+        - Fully Accessible
+        - Mostly Accessible
+        - Limited Accessibility
+        - Not Accessible
+      required: true
+    - id: 11
+      name: technology_readiness
+      label: Technology Infrastructure
+      hint: WiFi, outlets, power availability
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 12
+      name: safety_concerns
+      label: Safety and Security Concerns
+      hint: Any safety issues
+      type: select_one
+      options:
+        - None
+        - Minor
+        - Moderate
+        - Significant
+      required: true
+    - id: 13
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_spaces_needed
+      label: Additional Spaces Needed
+      hint: What else would help your work
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: false

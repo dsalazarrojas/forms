@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Mitzvah Guest List RSVP
+    pages:
+    - id: 1
+      name: event_details_header
+      label: Bar Mitzvah Celebration
+      hint: Please RSVP by March 15th
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_guest_name
+      label: Primary Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendance_status
+      label: Will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - Joyfully Accept
+      - Regretfully Decline
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: For event updates and reminders
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: party_count_header
+      label: -- Guest Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_adults
+      label: Number of Adults Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_children
+      label: Number of Children Attending
+      hint: Ages 12 and under
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_guests_names
+      label: Names of Additional Guests in Your Party
+      hint: Please list all names for place cards
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meal_preferences_header
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Restrictions or Allergies
+      hint: e.g., Nut Allergy, Gluten-Free, Vegan
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: kosher_requirement
+      label: Do you require a strictly Kosher meal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Standard catering is fine
+      required: true
+    - id: 12
+      name: entree_selection_adult
+      label: Adult Entree Selection
+      hint: Select for all adults in party
+      type: select_multiple
+      options:
+      - Prime Rib
+      - Sea Bass
+      - Roasted Chicken
+      - Vegetarian Risotto
+      required: false
+    - id: 13
+      name: logistics_header
+      label: -- Travel and Lodging --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hotel_stay
+      label: Are you staying at the group hotel?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Reservation made
+      - Yes - Please send info
+      - No - Local / Staying elsewhere
+      required: true
+    - id: 15
+      name: shuttle_needed
+      label: Will you require shuttle service to the synagogue?
+      hint: Available from the main hotel
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: message_to_family
+      label: Message to the Bar Mitzvah and Family
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

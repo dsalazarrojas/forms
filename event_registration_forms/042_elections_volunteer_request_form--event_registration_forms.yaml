@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elections Volunteer Request Form
+    pages:
+    - id: 1
+      name: volunteer_request
+      label: Request to volunteer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_can_you_help
+      label: How can you help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: days_available
+      label: Which days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: volunteer_info
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_details
+      label: Volunteer details
+      hint: Please provide more information about your volunteer experience or skills.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

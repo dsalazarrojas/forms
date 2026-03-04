@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Experience Feedback Form
+    pages:
+    - id: 1
+      name: employee_experience
+      label: Employee Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_experience
+      label: Date of Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - New Hire
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 6
+      name: feedback_channel
+      label: Feedback Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      - In-person
+      required: false
+    - id: 7
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 8
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback_suggestions
+      label: Feedback Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_recommendations
+      label: Manager Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_recommendations
+      label: Employee Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_conclusion
+      label: Manager Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_conclusion
+      label: Employee Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

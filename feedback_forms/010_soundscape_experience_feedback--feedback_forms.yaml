@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soundscape Experience Feedback
+    pages:
+    - id: 1
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: emotional_response
+      label: How did you feel during the session?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: suggestions
+      label: What would you suggest to improve the session?
+      hint: Please provide specific suggestions
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: artist_impression
+      label: What did you think about the artist?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_enjoyment
+      label: Enjoyment of the Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: Please provide your email or phone number
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_impression
+      label: Session Impression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: session_ideas
+      label: Additional Session Ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

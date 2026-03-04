@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Field Access Application Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coaches Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: field_access_type
+      label: Field Access Type
+      hint: null
+      type: select_multiple
+      options:
+      - Practice
+      - Game
+      required: false
+    - id: 8
+      name: practice_duration
+      label: Practice Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: game_duration
+      label: Game Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: field_capacity
+      label: Field Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: practice_frequency
+      label: Practice Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: field_size
+      label: Field Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 13
+      name: field_type
+      label: Field Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grass
+      - Turf
+      - Artificial
+      required: false
+    - id: 14
+      name: field_condition
+      label: Field Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Dry
+      - Wet
+      - Other
+      required: false
+    - id: 15
+      name: field_equipment
+      label: Field Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Goals
+      - Cones
+      - Other
+      required: false
+    - id: 16
+      name: special_equipment
+      label: Special Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Scoreboard
+      - Sound System
+      - Other
+      required: false
+    - id: 17
+      name: team_insurance
+      label: Team Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: coach_insurance
+      label: Coaches Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: player_insurance
+      label: Players Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

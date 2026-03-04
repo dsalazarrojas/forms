@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Program Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Training Program Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_satisfaction
+      label: Session Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

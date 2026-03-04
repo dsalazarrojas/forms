@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Quiz Template
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: multiple_choice_question
+      label: Multiple Choice Question
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: date_question
+      label: Date Question
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_question
+      label: Time Question
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: note_question
+      label: Note Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_question
+      label: Email Question
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_question
+      label: Phone Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_actions
+      label: Form Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Action 1
+      - Action 2
+      - Action 3
+      required: false
+    - id: 9
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_tags
+      label: Form Tags
+      hint: null
+      type: text
+      options: []
+      required: false

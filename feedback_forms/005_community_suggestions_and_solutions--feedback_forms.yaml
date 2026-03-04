@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Suggestions And Solutions
+    pages:
+    - id: 1
+      name: resident_name
+      label: Your Name
+      hint: Optional - you may submit anonymously
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resident_email
+      label: Email Address
+      hint: For follow-up on your suggestion
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: resident_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: neighborhood
+      label: Your Neighborhood or Area
+      hint: Where do you live in the community?
+      type: select_one
+      options:
+      - Downtown
+      - Northside
+      - Southside
+      - Eastside
+      - Westside
+      - Suburbs
+      - Rural Area
+      - Other
+      required: true
+    - id: 5
+      name: suggestion_category
+      label: What category does your suggestion fall under?
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - Public Safety
+      - Transportation
+      - Parks and Recreation
+      - Sanitation and Waste
+      - Housing and Development
+      - Education
+      - Healthcare Services
+      - Environmental Issues
+      - Community Events
+      - Infrastructure
+      - Other
+      required: true
+    - id: 6
+      name: issue_location
+      label: Specific Location of Issue or Suggestion
+      hint: Street address, intersection, or landmark
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: issue_title
+      label: Brief Title for Your Suggestion
+      hint: Summarize in a few words
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_description
+      label: Detailed Description
+      hint: Please describe the issue or suggestion in detail
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: proposed_solution
+      label: What solution do you propose?
+      hint: How would you address this issue?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: How urgent is this matter?
+      hint: Priority level
+      type: select_one
+      options:
+      - Low - Can wait
+      - Medium - Should address soon
+      - High - Needs prompt attention
+      - Critical - Immediate action required
+      required: true
+    - id: 11
+      name: affected_population
+      label: Who does this affect?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Children
+      - Teenagers
+      - Adults
+      - Seniors
+      - People with Disabilities
+      - Pet Owners
+      - Commuters
+      - Local Businesses
+      - All Residents
+      - Specific Group (describe below)
+      required: true
+    - id: 12
+      name: affected_population_detail
+      label: If specific group, please describe
+      hint: More details about who is affected
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: frequency_of_issue
+      label: How often does this issue occur?
+      hint: Frequency
+      type: select_one
+      options:
+      - One-time occurrence
+      - Rarely (few times a year)
+      - Occasionally (monthly)
+      - Frequently (weekly)
+      - Daily
+      - Constantly
+      required: true
+    - id: 14
+      name: previous_reports
+      label: Have you reported this before?
+      hint: Previous attempts to address
+      type: select_one
+      options:
+      - No, this is my first report
+      - Yes, once
+      - Yes, multiple times
+      required: true
+    - id: 15
+      name: previous_report_details
+      label: If yes, what was the outcome?
+      hint: What happened when you reported before?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: community_support
+      label: Do others in the community support this suggestion?
+      hint: Level of community backing
+      type: select_one
+      options:
+      - Just me
+      - A few neighbors
+      - Many residents
+      - Community organization backs it
+      - Widespread community support
+      required: false
+    - id: 17
+      name: supporting_documents
+      label: Do you have photos or documents to support your suggestion?
+      hint: Evidence or supporting materials
+      type: select_one
+      options:
+      - false
+      - Yes, I will email them
+      - Yes, I have uploaded them separately
+      required: false
+    - id: 18
+      name: willing_to_help
+      label: Would you be willing to help implement this solution?
+      hint: Volunteer involvement
+      type: select_one
+      options:
+      - No, just reporting
+      - Maybe, depending on time commitment
+      - Yes, I can volunteer time
+      - Yes, I can help organize others
+      - Yes, I can contribute resources
+      required: true
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we follow up?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - No follow-up needed
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Any additional comments?
+      hint: Anything else you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

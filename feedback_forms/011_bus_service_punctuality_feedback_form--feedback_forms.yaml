@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Service Punctuality Feedback Form
+    pages:
+    - id: 1
+      name: section_trip_details
+      label: -- Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bus_route_number
+      label: Bus Route Number
+      hint: e.g. Route 101
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bus_stop_location
+      label: Bus Stop Name/Location
+      hint: Where did you wait for the bus
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scheduled_arrival_time
+      label: Scheduled Arrival Time
+      hint: As per the official timetable
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: actual_arrival_time
+      label: Actual Arrival Time
+      hint: When the bus actually arrived
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: delay_duration_category
+      label: Duration of Delay
+      hint: Difference between scheduled and actual time
+      type: select_one
+      options:
+      - On Time (or early)
+      - 1-5 minutes late
+      - 6-15 minutes late
+      - 16-30 minutes late
+      - 30+ minutes late
+      - Bus never arrived
+      required: true
+    - id: 7
+      name: section_feedback
+      label: -- Service Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: frequency_of_delay_on_route
+      label: Frequency of Delays on this Route
+      hint: Based on your recent experience
+      type: select_one
+      options:
+      - Always on time
+      - Occasionally delayed
+      - Frequently delayed
+      - Almost always delayed
+      required: true
+    - id: 9
+      name: punctuality_satisfaction_score
+      label: Satisfaction with Punctuality
+      hint: Rate from 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: weather_conditions_trip
+      label: Weather Conditions During Trip
+      hint: Select the most accurate condition
+      type: select_one
+      options:
+      - Clear/Sunny
+      - Rain
+      - Heavy Snow
+      - Fog
+      - Extreme Wind
+      required: false
+    - id: 11
+      name: punctuality_comments
+      label: Additional Comments on Reliability
+      hint: Any specific observations regarding the delay
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_contact_optional
+      label: -- Optional Contact Information --
+      hint: Only if you wish for a response from the transit team
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_email_feedback
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: feedback_submission_date
+      label: Date of Trip
+      hint: null
+      type: date
+      options: []
+      required: true

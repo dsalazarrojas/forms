@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sweet Corn Quality Assessment Form
+    pages:
+    - id: 1
+      name: corn_yield
+      label: Corn Yield
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: moisture_level
+      label: Moisture Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: corn_color
+      label: Corn Color
+      hint: null
+      type: select_one
+      options:
+      - Green
+      - Yellow
+      - Blue
+      required: false
+    - id: 4
+      name: sweetness_level
+      label: Sweetness Level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true

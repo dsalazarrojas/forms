@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colosseum Event Suggestion Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Event Suggestion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: suggester_name
+      label: Your name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For follow up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: event_title
+      label: Event title
+      hint: Short title for suggested event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_description
+      label: Event description
+      hint: Brief summary of the event format
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: target_audience
+      label: Target audience
+      hint: Who should attend
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: estimated_attendance
+      label: Estimated attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: resources_needed
+      label: Resources needed
+      hint: Equipment or staffing required
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else to help evaluate the suggestion
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Feedback Form
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback_message
+      label: Feedback Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: course_satisfaction
+      label: How satisfied are you with this course?
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 7
+      name: course_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

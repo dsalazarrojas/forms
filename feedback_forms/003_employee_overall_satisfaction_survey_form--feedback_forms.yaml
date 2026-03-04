@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Overall Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: overall_happiness
+      label: overall_happiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: mission_understanding
+      label: mission_understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommend_company
+      label: recommend_company
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Would you recommend our company to your friends and family?
+      - Would you recommend our company to your colleagues?
+      - Would you recommend our company to your acquaintances?
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

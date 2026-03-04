@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Consultation Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_event_basics
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Proposed Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Meeting
+      - Gala/Fundraiser
+      - Social Party
+      - Holiday Celebration
+      - Other
+      required: true
+    - id: 8
+      name: guest_count_est
+      label: Estimated Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: venue_name_address
+      label: Venue Name and Address
+      hint: If not yet booked, write TBD
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_catering_pref
+      label: -- Catering Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: menu_style_preference
+      label: Preferred Menu Style
+      hint: null
+      type: select_one
+      options:
+      - Buffet Service
+      - Sit-down Plated Dinner
+      - Family Style
+      - Station Based
+      - Cocktail Style/Heavy Appetizers
+      required: true
+    - id: 12
+      name: budget_per_person
+      label: Approximate Budget per Person
+      hint: null
+      type: select_one
+      options:
+      - $15 - $25
+      - $26 - $45
+      - $46 - $75
+      - Over $75
+      required: false
+    - id: 13
+      name: dietary_concerns_summary
+      label: Known Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_additional_services
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: services_requested
+      label: Which additional services are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rentals (Tables, Chairs, Linens)
+      - Wait Staff/Servers
+      - Bartending Services
+      - Event Planning/Coordination
+      - Cake/Dessert Station
+      - Floral Design
+      required: false
+    - id: 16
+      name: referral_source
+      label: How did you hear about our catering services
+      hint: null
+      type: select_one
+      options:
+      - Word of Mouth
+      - Social Media
+      - Google/Search Engine
+      - Event Venue Recommendation
+      - Previous Client
+      required: false
+    - id: 17
+      name: best_time_to_contact
+      label: Best Time to Schedule a Consultation Call
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: consultation_notes
+      label: Any additional details we should know
+      hint: null
+      type: text
+      options: []
+      required: false

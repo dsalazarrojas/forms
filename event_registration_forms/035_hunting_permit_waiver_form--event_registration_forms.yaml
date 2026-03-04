@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunting Permit Waiver Form
+    pages:
+    - id: 1
+      name: hunting_permit_waiver_form
+      label: Hunting Permit Waiver Form
+      hint: null
+      type: select_one
+      options:
+      - Hunting permit
+      - Waiver and consent
+      - Acknowledgement of risks
+      required: true
+    - id: 2
+      name: hunting_permit_waiver_form_hunter_details
+      label: Hunter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hunter_name
+      label: Hunter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hunter_email
+      label: Hunter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: hunter_phone
+      label: Hunter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_consent
+      label: Parent Guardian Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: acknowledgement_of_risks
+      label: Acknowledgement of Risks
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and acknowledge that hunting can be a hazardous activity
+      - I understand and acknowledge that I am taking on all liability for any injuries
+        or damages I cause
+      - I understand that I am responsible for the safety of myself and others while
+        hunting
+      required: true
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: hunting_equipment
+      label: Hunting Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Rifle
+      - Bow
+      - Muzzleloader
+      required: true
+    - id: 15
+      name: hunting_license
+      label: Hunting License
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: hunting_experience
+      label: Hunting Experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: hunting_certification
+      label: Hunting Certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart conditions
+      - Asthma
+      required: true
+    - id: 19
+      name: medical_conditions_2
+      label: Medical Conditions 2
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Epilepsy
+      - High blood pressure
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: parent_guardian_relationship
+      label: Parent/Guardian Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parent_guardian_permission
+      label: Parent/Guardian Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: waiver_acceptance
+      label: Waiver Acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: event_host_name
+      label: Event Host Name
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aerospace Program Feedback Form
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for follow-up communication (optional)
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_organization
+      label: Organization
+      hint: Name of your organization or institution
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_role
+      label: Role or Position
+      hint: Your role or position in your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_information_section
+      label: Program Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Program Name
+      hint: Name of the aerospace program you attended
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_date
+      label: Program Date
+      hint: Date when the program took place
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: program_location
+      label: Program Location
+      hint: Where was the program held?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_duration
+      label: Program Duration
+      hint: How long was the program?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction_section
+      label: Overall Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: How satisfied were you with the program overall?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: content_relevance_rating
+      label: Content Relevance Rating
+      hint: How relevant was the content to your needs?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: speaker_quality_rating
+      label: Speaker Quality Rating
+      hint: How would you rate the quality of the speakers/presenters?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: program_organization_rating
+      label: Program Organization Rating
+      hint: How well was the program organized?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: content_quality_section
+      label: Content Quality Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: technical_depth_satisfaction
+      label: Technical Depth Satisfaction
+      hint: Was the technical depth of the content appropriate for your level?
+      type: select_one
+      options:
+      - Too Basic
+      - Adequate
+      - Challenging but Appropriate
+      - Too Advanced
+      required: true
+    - id: 18
+      name: industry_relevance
+      label: Industry Relevance
+      hint: How relevant were the topics to current aerospace industry trends?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: innovation_coverage
+      label: Innovation Coverage
+      hint: Did the program adequately cover emerging technologies and innovations?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: practical_applications
+      label: Practical Applications
+      hint: Were practical applications of the concepts well explained?
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: networking_opportunities_section
+      label: Networking Opportunities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: networking_quality_rating
+      label: Networking Quality Rating
+      hint: How would you rate the quality of networking opportunities?
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: peer_interaction_opportunities
+      label: Peer Interaction Opportunities
+      hint: Were there sufficient opportunities to interact with peers?
+      type: select_one
+      options:
+      - true
+      - Somewhat
+      - false
+      required: false
+    - id: 24
+      name: expert_access_opportunities
+      label: Expert Access Opportunities
+      hint: Were there sufficient opportunities to interact with experts?
+      type: select_one
+      options:
+      - true
+      - Somewhat
+      - false
+      required: false
+    - id: 25
+      name: logistics_facilities_section
+      label: Logistics and Facilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: venue_satisfaction
+      label: Venue Satisfaction
+      hint: How satisfied were you with the venue and facilities?
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: catering_satisfaction
+      label: Catering Satisfaction
+      hint: How satisfied were you with the catering and refreshments?
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: technical_equipment_quality
+      label: Technical Equipment Quality
+      hint: How would you rate the quality of technical equipment provided?
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: improvement_suggestions_section
+      label: Improvement Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: most_valuable_aspect
+      label: Most Valuable Aspect
+      hint: What was the most valuable aspect of the program for you?
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: What improvements would you suggest for future programs?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or comments about the program
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend this program to colleagues?
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Exam Review Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: literature_question
+      label: Which author wrote 'To Kill a Mockingbird'
+      hint: null
+      type: select_one
+      options:
+      - Hemingway
+      - Fitzgerald
+      - Steinbeck
+      - Hawthorne
+      - Twain
+      required: true
+    - id: 6
+      name: literature_question
+      label: Who wrote The Great Gatsby
+      hint: null
+      type: select_one
+      options:
+      - Hemingway
+      - Fitzgerald
+      - Steinbeck
+      - Hawthorne
+      - Twain
+      required: true
+    - id: 7
+      name: literature_question
+      label: Who wrote The Catcher in the Rye
+      hint: null
+      type: select_one
+      options:
+      - Hemingway
+      - Fitzgerald
+      - Steinbeck
+      - Hawthorne
+      - Twain
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: literature_exam_readiness
+      label: How ready are you for the literature exam
+      hint: null
+      type: select_multiple
+      options:
+      - Not Ready
+      - Somewhat Ready
+      - Very Ready
+      required: true
+    - id: 12
+      name: literature_exam_subject
+      label: Which subject do you want to major in
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - History
+      - Math
+      - Science
+      - Other
+      required: true
+    - id: 13
+      name: literature_exam_date
+      label: What date are you taking the exam
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: literature_exam_time
+      label: What time are you taking the exam
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: literature_exam_location
+      label: Where are you taking the exam
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Classroom
+      - Library
+      required: true
+    - id: 16
+      name: literature_exam_notes
+      label: Any other notes
+      hint: null
+      type: text
+      options: []
+      required: true

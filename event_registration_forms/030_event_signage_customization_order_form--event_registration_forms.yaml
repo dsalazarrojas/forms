@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Signage Customization Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: second_page
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: logo_url
+      label: logo_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: font_size
+      label: Font Size
+      hint: null
+      type: select_one
+      options:
+      - 12pt
+      - 18pt
+      - 24pt
+      - 30pt
+      - 36pt
+      - 40pt
+      required: true
+    - id: 5
+      name: font_color
+      label: font_color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - White
+      required: true
+    - id: 6
+      name: background_color
+      label: Background Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Gray
+      - Blue
+      - Red
+      - Yellow
+      required: true
+    - id: 7
+      name: border_color
+      label: Border Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - White
+      required: true
+    - id: 8
+      name: font_family
+      label: Font Family
+      hint: null
+      type: select_one
+      options:
+      - Arial
+      - Times New Roman
+      - Courier
+      - Helvetica
+      - Impact
+      - Verdana
+      required: true
+    - id: 9
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_multiple
+      options:
+      - Bold
+      - Italic
+      - Regular
+      - Strike-through
+      - Underline
+      required: true
+    - id: 10
+      name: font_alignment
+      label: Font Alignment
+      hint: null
+      type: select_multiple
+      options:
+      - Left
+      - Center
+      - Right
+      - Justify
+      required: true
+    - id: 11
+      name: font_kerning
+      label: Font Kerning
+      hint: null
+      type: select_multiple
+      options:
+      - 'On'
+      - 'Off'
+      required: true
+    - id: 12
+      name: font_tracking
+      label: Font Tracking
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Normal
+      - Wide
+      - Proportional
+      required: true
+    - id: 13
+      name: font_weight
+      label: Font Weight
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Bold
+      - Bolder
+      - Black
+      required: true
+    - id: 14
+      name: font_stretch
+      label: Font Stretch
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - UltraCondensed
+      - Condensed
+      - Normal
+      - Expanded
+      - UltraExpanded
+      required: true
+    - id: 15
+      name: font_variant
+      label: Font Variant
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Italic
+      - Oblig
+      required: true
+    - id: 16
+      name: font_slant
+      label: Font Slant
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Italic
+      - Oblig
+      required: true
+    - id: 17
+      name: font_casual
+      label: Font Casual
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Normal
+      - Wide
+      required: true
+    - id: 18
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Conference
+      - Meeting
+      - Seminar
+      - Workshop
+      required: true
+    - id: 19
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 20
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: event_contact
+      label: Event Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: event_phone
+      label: Event Phone
+      hint: null
+      type: text
+      options: []
+      required: true

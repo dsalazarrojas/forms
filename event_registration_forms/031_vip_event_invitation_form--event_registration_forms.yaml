@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: VIP Event Invitation Form
+    pages:
+    - id: 1
+      name: vip_event_invitation_form
+      label: vip_event_invitation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: invitee_list
+      label: invitee_list
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Guest
+      - Staff
+      required: true
+    - id: 8
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer_phone
+      label: event_organizer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_organizer_email
+      label: event_organizer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: event_organizer_address
+      label: event_organizer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_company
+      label: client_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_title
+      label: client_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_invitation
+      label: event_invitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_invitation_status
+      label: event_invitation_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vip_event_invitation
+      label: vip_event_invitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: invitee
+      label: invitee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: invitation_method
+      label: invitation_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vip_status
+      label: vip_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vip_level
+      label: vip_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vip_note
+      label: vip_note
+      hint: null
+      type: note
+      options: []
+      required: false

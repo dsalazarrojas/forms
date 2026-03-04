@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: livestock_biosecurity_program_consent_form
+    pages:
+    - id: 1
+      name: title
+      label: livestock_biosecurity_program_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Participant'', ''value'': ''Participant''}'
+      - '{''label'': ''Farmer'', ''value'': ''Farmer''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - '{''label'': ''None'', ''value'': ''None''}'
+      required: true
+    - id: 3
+      name: farm_name
+      label: farm_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: farm_size
+      label: farm_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: biosecurity_measures
+      label: biosecurity_measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      required: true
+    - id: 9
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_visited
+      label: time_visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: biosecurity_measures_signature
+      label: biosecurity_measures_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: farm_map
+      label: farm_map
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Map 1'', ''value'': ''Map 1''}'
+      - '{''label'': ''Map 2'', ''value'': ''Map 2''}'
+      - '{''label'': ''Map 3'', ''value'': ''Map 3''}'
+      - '{''label'': ''Map 4'', ''value'': ''Map 4''}'
+      required: true
+    - id: 13
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: farm_location
+      label: farm_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: farm_size_units
+      label: farm_size_units
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Acres'', ''value'': ''Acres''}'
+      - '{''label'': ''Hectares'', ''value'': ''Hectares''}'
+      - '{''label'': ''Square Kilometers'', ''value'': ''Square Kilometers''}'
+      - '{''label'': ''Square Miles'', ''value'': ''Square Miles''}'
+      required: false
+    - id: 21
+      name: biosecurity_measures_1
+      label: biosecurity_measures_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      required: false
+    - id: 22
+      name: biosecurity_measures_2
+      label: biosecurity_measures_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      required: false
+    - id: 23
+      name: biosecurity_measures_3
+      label: biosecurity_measures_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      required: false
+    - id: 24
+      name: biosecurity_measures_4
+      label: biosecurity_measures_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      - '{''label'': ''Biosecurity'', ''value'': ''Biosecurity''}'
+      required: false
+    - id: 25
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true

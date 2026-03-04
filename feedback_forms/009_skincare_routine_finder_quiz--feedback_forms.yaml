@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Routine Finder Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Skincare Routine Finder Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: What is your skin type
+      hint: null
+      type: select_one
+      options:
+      - normal
+      - combination
+      - dry
+      - oily
+      - sensitive
+      - acne-prone
+      required: false
+    - id: 3
+      name: skin_concerns
+      label: What are your skin concerns
+      hint: null
+      type: select_multiple
+      options:
+      - acne
+      - aging
+      - hyperpigmentation
+      - redness
+      - sensitivity
+      - uneven texture
+      - dullness
+      required: false
+    - id: 4
+      name: skin_problems
+      label: What problems do you have with your skin
+      hint: null
+      type: select_multiple
+      options:
+      - blackheads
+      - whiteheads
+      - irritation
+      - redness
+      - dullness
+      - uneven texture
+      required: false
+    - id: 5
+      name: routine_frequency
+      label: How often do you use skincare products
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - 2-3 times a week
+      - once a week
+      required: false
+    - id: 6
+      name: current_products
+      label: What skincare products do you use
+      hint: null
+      type: select_multiple
+      options:
+      - cleanser
+      - toner
+      - essence
+      - serum
+      - moisturizer
+      - sunscreen
+      - mask
+      required: false
+    - id: 7
+      name: ideal_products
+      label: What would you like in an ideal skincare routine
+      hint: null
+      type: select_multiple
+      options:
+      - gentle exfoliant
+      - chemical exfoliant
+      - spot treatment
+      - sunscreen
+      - moisturizer
+      - face mask
+      required: false
+    - id: 8
+      name: ideal_frequency
+      label: How often would you like to use your skincare routine
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - 2-3 times a week
+      - once a week
+      required: false
+    - id: 9
+      name: skincare_goals
+      label: What are your skincare goals
+      hint: null
+      type: select_multiple
+      options:
+      - reduce redness
+      - reduce aging
+      - reduce sensitivity
+      - brighten skin
+      - improve texture
+      - improve appearance
+      required: false
+    - id: 10
+      name: result_message
+      label: Result and recommendations
+      hint: null
+      type: note
+      options: []
+      required: false

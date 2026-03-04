@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Performance Evaluation
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 3
+      name: subject_areas
+      label: Subject Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Language Arts
+      - Social Studies
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessment_method
+      label: Assessment Method
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_result
+      label: Evaluation Result
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      - Needs Improvement
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Meeting Space Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Space Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name for contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: If requesting on behalf of a group
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and details
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requested_date
+      label: Requested date
+      hint: Date required for space
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start time
+      hint: Event start time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End time
+      hint: Event end time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: expected_attendance
+      label: Expected attendance
+      hint: Estimated number of people
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: special_requirements
+      label: Special requirements
+      hint: AV, seating, accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_to_terms
+      label: Agreement to terms and conditions
+      hint: Confirm acceptance of venue rules
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true

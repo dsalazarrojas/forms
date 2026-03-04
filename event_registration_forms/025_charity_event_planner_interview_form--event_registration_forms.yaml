@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Planner Interview Form
+    pages:
+    - id: 1
+      name: planner_name
+      label: Planner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: planner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: planner_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years of Experience
+      hint: In event planning
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 6
+      name: charity_events_planned
+      label: Number of Charity Events Planned
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_types
+      label: Types of Events You Plan
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Galas
+      - Auctions
+      - Charity runs
+      - Concerts
+      - Conferences
+      - Community festivals
+      - Virtual events
+      - Other
+      required: true
+    - id: 8
+      name: budget_range
+      label: Budget Range Managed
+      hint: Typical budget size
+      type: select_one
+      options:
+      - Under $10000
+      - $10000 to $50000
+      - $50001 to $100000
+      - $100001 to $500000
+      - Over $500000
+      required: true
+    - id: 9
+      name: services_offered
+      label: Services Offered
+      hint: What you provide
+      type: select_multiple
+      options:
+      - Full event planning
+      - Day-of coordination
+      - Venue selection
+      - Vendor management
+      - Budget management
+      - Marketing support
+      - Registration management
+      - Other
+      required: true
+    - id: 10
+      name: vendor_network
+      label: Do you have a vendor network
+      hint: Established contacts
+      type: select_one
+      options:
+      - Yes extensive
+      - Yes some
+      - Building network
+      - false
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: When available
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - Flexible
+      required: true
+    - id: 12
+      name: pricing_structure
+      label: Pricing Structure
+      hint: How you charge
+      type: select_one
+      options:
+      - Flat fee
+      - Hourly rate
+      - Percentage of budget
+      - Package pricing
+      - Custom quote
+      required: true
+    - id: 13
+      name: portfolio_link
+      label: Portfolio Website
+      hint: URL if available
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: references_available
+      label: Can you provide references
+      hint: Past clients
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: approach_description
+      label: Describe Your Planning Approach
+      hint: Your methodology
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: challenge_example
+      label: Describe a Challenge You Overcame
+      hint: Problem-solving example
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: why_choose_you
+      label: Why Should We Choose You
+      hint: Your unique value
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

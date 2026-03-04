@@ -1,0 +1,402 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christening Invitation Form
+    pages:
+    - id: 1
+      name: child_information
+      label: Child Information
+      hint: About the child being christened
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child's First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_middle_name
+      label: Child's Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: child_last_name
+      label: Child's Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_gender
+      label: Child's Gender
+      hint: null
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      required: true
+    - id: 7
+      name: parents_information
+      label: Parents Information
+      hint: Host details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_first_name_1
+      label: First Parent's First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_last_name_1
+      label: First Parent's Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_first_name_2
+      label: Second Parent's First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_last_name_2
+      label: Second Parent's Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: family_name
+      label: Family Name
+      hint: For invitation heading
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ceremony_details
+      label: Ceremony Details
+      hint: Event information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ceremony_date
+      label: Ceremony Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: ceremony_time
+      label: Ceremony Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: church_name
+      label: Church or Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: church_address
+      label: Church or Venue Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: officiant_name
+      label: Officiant Name
+      hint: Priest, minister, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reception_details
+      label: Reception Details
+      hint: After ceremony
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reception_held
+      label: Will there be a reception
+      hint: null
+      type: select_one
+      options:
+      - Yes, immediately after
+      - Yes, at a later time
+      - No reception
+      required: true
+    - id: 21
+      name: reception_location
+      label: Reception Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reception_address
+      label: Reception Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reception_time
+      label: Reception Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: godparents_information
+      label: Godparents Information
+      hint: If applicable
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: have_godparents
+      label: Will the child have godparents
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - To be determined
+      required: false
+    - id: 26
+      name: godparent_names
+      label: Godparent Names
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: rsvp_information
+      label: RSVP Information
+      hint: Response details
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: rsvp_required
+      label: Is RSVP Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Optional
+      required: true
+    - id: 29
+      name: rsvp_deadline
+      label: RSVP Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: rsvp_contact
+      label: RSVP Contact
+      hint: Name and phone or email
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: rsvp_method
+      label: Preferred RSVP Method
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Online form
+      - Mail
+      required: false
+    - id: 32
+      name: guest_response
+      label: Guest Response
+      hint: For RSVP
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: guest_name
+      label: Guest Name
+      hint: Who is responding
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: will_attend
+      label: Will you attend the christening
+      hint: null
+      type: select_one
+      options:
+      - Yes, with joy
+      - No, regretfully cannot attend
+      - Maybe, will confirm later
+      required: false
+    - id: 35
+      name: number_of_guests
+      label: Number of Guests Attending
+      hint: Including yourself
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: attending_ceremony
+      label: Will you attend the ceremony
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Reception only
+      required: false
+    - id: 37
+      name: attending_reception
+      label: Will you attend the reception
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Ceremony only
+      required: false
+    - id: 38
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For reception
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: song_requests
+      label: Song Requests or Dedications
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: invitation_customization
+      label: Invitation Customization
+      hint: Personal touches
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: invitation_style
+      label: Invitation Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Religious
+      - Simple
+      - Elegant
+      - Playful
+      required: false
+    - id: 42
+      name: preferred_colors
+      label: Preferred Colors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: include_photo
+      label: Will you include a photo of the child
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 44
+      name: special_message
+      label: Special Message or Verse
+      hint: For the invitation
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: additional_information
+      label: Additional Information
+      hint: For guests
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: dress_code
+      label: Dress Code
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: parking_information
+      label: Parking Information
+      hint: For guests
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: accommodation_info
+      label: Accommodation Information
+      hint: For out-of-town guests
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: gift_preferences
+      label: Gift Preferences
+      hint: If you want to specify
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: additional_notes
+      label: Additional Notes for Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: parent_signature
+      label: Parent Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: invitation_date
+      label: Date of Invitation
+      hint: null
+      type: date
+      options: []
+      required: true

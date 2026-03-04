@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: event-planning-checklist-form
+    pages:
+    - id: 1
+      name: planning_checklist_page
+      label: event-planning-checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_and_entertainment_page
+      label: venue-and-entertainment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: event_schedule_page
+      label: event-schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_budget_page
+      label: event-budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_logistics_page
+      label: event-logistics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_communication_page
+      label: event-communication
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_evaluation_page
+      label: event-evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: notes_page
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attachments_page
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_status_page
+      label: event-status
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter_page
+      label: form-submitter
+      hint: null
+      type: text
+      options: []
+      required: false

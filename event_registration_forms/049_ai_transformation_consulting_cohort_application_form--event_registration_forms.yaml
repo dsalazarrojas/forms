@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Transformation Consulting Cohort Application Form
+    pages:
+    - id: 1
+      name: --applicant_information--
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Required for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: role_and_responsibilities
+      label: Current role and responsibilities
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: motivation_for_application
+      label: Motivation for application
+      hint: Why do you want to join the cohort
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expected_outcomes
+      label: Expected outcomes from the cohort
+      hint: Select up to three
+      type: select_multiple
+      options:
+      - Strategic planning
+      - Team capability building
+      - Proof of concept development
+      - Implementation roadmap
+      required: true
+    - id: 8
+      name: time_commitment
+      label: Time commitment available per week
+      hint: Hours per week
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: approval_from_employer
+      label: Approval from employer
+      hint: Select one
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not required
+      required: true
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Optional
+      type: text
+      options: []
+      required: false

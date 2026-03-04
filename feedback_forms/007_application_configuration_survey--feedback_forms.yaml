@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Configuration Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date when feedback is provided
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: user_name
+        label: User Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: user_email
+        label: User Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: application_name
+        label: Application Name
+        hint: Name of the application you are reviewing
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: usage_frequency
+        label: Usage Frequency
+        hint: How often do you use this application
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times weekly
+          - Once weekly
+          - Occasionally
+        required: true
+      - id: 6
+        name: user_role
+        label: User Role
+        hint: Your role in the organization
+        type: select_one
+        options:
+          - End User
+          - Administrator
+          - Manager
+          - Developer
+          - IT Support
+          - Executive
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall satisfaction
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy is the application to use
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 9
+        name: interface_design
+        label: Interface Design
+        hint: Rate the user interface design
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: navigation_clarity
+        label: Navigation Clarity
+        hint: How clear is the navigation
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Neutral
+          - Confusing
+          - Very Confusing
+        required: true
+      - id: 11
+        name: feature_completeness
+        label: Feature Completeness
+        hint: Does the application have all features you need
+        type: select_one
+        options:
+          - Yes - All Features Present
+          - Mostly - Some Features Missing
+          - No - Many Features Missing
+        required: true
+      - id: 12
+        name: missing_features
+        label: Missing Features
+        hint: What features are missing
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: performance_rating
+        label: Performance Rating
+        hint: Rate the application performance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 14
+        name: loading_speed
+        label: Loading Speed
+        hint: How would you rate loading speed
+        type: select_one
+        options:
+          - Very Fast
+          - Fast
+          - Average
+          - Slow
+          - Very Slow
+        required: true
+      - id: 15
+        name: reliability_rating
+        label: Reliability Rating
+        hint: How reliable is the application
+        type: select_one
+        options:
+          - Very Reliable
+          - Reliable
+          - Neutral
+          - Unreliable
+          - Very Unreliable
+        required: true
+      - id: 16
+        name: error_frequency
+        label: Error Frequency
+        hint: How often do you encounter errors
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Occasionally
+          - Frequently
+          - Very Frequently
+        required: true
+      - id: 17
+        name: configuration_flexibility
+        label: Configuration Flexibility
+        hint: How flexible are the configuration options
+        type: select_one
+        options:
+          - Very Flexible
+          - Flexible
+          - Neutral
+          - Limited
+          - Very Limited
+        required: true
+      - id: 18
+        name: customization_options
+        label: Customization Options
+        hint: Rate the customization options
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 19
+        name: documentation_quality
+        label: Documentation Quality
+        hint: Quality of help documentation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Available
+        required: true
+      - id: 20
+        name: support_responsiveness
+        label: Support Responsiveness
+        hint: How responsive is technical support
+        type: select_one
+        options:
+          - Very Responsive
+          - Responsive
+          - Neutral
+          - Slow
+          - Very Slow
+          - Not Used
+        required: true
+      - id: 21
+        name: best_features
+        label: Best Features
+        hint: What do you like most about the application
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What should be improved
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this application
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

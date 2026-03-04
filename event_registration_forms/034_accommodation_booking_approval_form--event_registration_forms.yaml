@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Booking Approval Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting accommodation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Email address of the requester
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Phone number of the requester
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of the event requiring accommodation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_in_date
+      label: Check In Date
+      hint: Date when accommodation is needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check Out Date
+      hint: Date when accommodation is no longer needed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Type of accommodation requested
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Suite
+      - Apartment
+      - Cabin
+      - Other
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total number of people requiring accommodation
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: special_accommodation_needs
+      label: Special Accommodation Needs
+      hint: Any special requirements for the accommodation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: budget_approved
+      label: Budget Approved
+      hint: Is the accommodation budget approved?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 12
+      name: budget_amount
+      label: Budget Amount
+      hint: Approved budget amount for accommodation
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: accommodation_provider
+      label: Accommodation Provider
+      hint: Name of the hotel or accommodation provider
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accommodation_address
+      label: Accommodation Address
+      hint: Address of the accommodation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: booking_reference_number
+      label: Booking Reference Number
+      hint: Reference number for the booking
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: Approval Status
+      hint: Current status of the booking approval
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Modified
+      required: true
+    - id: 17
+      name: approval_reason
+      label: Approval Reason
+      hint: Reason for the approval decision
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approved_by
+      label: Approved By
+      hint: Name of the person approving the booking
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: Date when approval was granted
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about the booking
+      type: text
+      options: []
+      required: false

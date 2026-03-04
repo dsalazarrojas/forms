@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Agreement Extension Form
+    pages:
+    - id: 1
+      name: volunteer_agreement_extension_form
+      label: Volunteer Agreement Extension Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: agreement_id
+      label: Agreement Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_id
+      label: Volunteer Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_agreement_extension_form_status
+      label: Volunteer Agreement Extension Form Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reason_for_extension
+      label: Reason for Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: extended_to
+      label: Extended To
+      hint: null
+      type: date
+      options: []
+      required: false

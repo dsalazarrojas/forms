@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: mission_vision
+      label: How do you perceive the schools mission and vision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coursework_quality
+      label: How would you rate the quality of the coursework
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: education_quality
+      label: How would you rate the quality of education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facilities
+      label: How would you rate the facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: How satisfied are you with the overall education you have received
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Satisfied
+      - Not Satisfied
+      required: false

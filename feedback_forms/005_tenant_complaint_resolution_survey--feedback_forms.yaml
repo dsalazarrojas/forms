@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Complaint Resolution Survey
+    pages:
+    - id: 1
+      name: tenant_complaint_resolution_survey_page
+      label: Tenant Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''maintenance_issue'', ''label'': ''Maintenance Issue''}'
+      - '{''id'': 5.2, ''name'': ''rent_issue'', ''label'': ''Rent Issue''}'
+      - '{''id'': 5.3, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_action
+      label: Follow up Action
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8.1, ''name'': ''follow_up_email'', ''label'': ''Send Email''}'
+      - '{''id'': 8.2, ''name'': ''follow_up_phone'', ''label'': ''Call''}'
+      - '{''id'': 8.3, ''name'': ''follow_up_no_action'', ''label'': ''No Follow-Up''}'
+      required: false
+    - id: 9
+      name: follow_up_contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 9.1, ''name'': ''contact_person'', ''label'': ''Maintenance Person''}'
+      - '{''id'': 9.2, ''name'': ''contact_manager'', ''label'': ''Property Manager''}'
+      required: false
+    - id: 10
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: tenant_satisfaction
+      label: Tenant Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13.1, ''name'': ''satisfied'', ''label'': ''Satisfied''}'
+      - '{''id'': 13.2, ''name'': ''not_satisfied'', ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 14
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14.1, ''name'': ''resolved'', ''label'': ''Resolved''}'
+      - '{''id'': 14.2, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 14.3, ''name'': ''unresolved'', ''label'': ''Unresolved''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 16.1, ''name'': ''maintenance_person'', ''label'': ''Maintenance
+        Person''}'
+      - '{''id'': 16.2, ''name'': ''property_manager'', ''label'': ''Property Manager''}'
+      required: false
+    - id: 17
+      name: created
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_transformation_progress_survey
+    pages:
+    - id: 1
+      name: project_progress
+      label: Project Progress
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 2
+      name: project_milestones
+      label: Project Milestones
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Completed''}'
+      - '{''id'': 2, ''label'': ''Not yet''}'
+      - '{''id'': 3, ''label'': ''Delayed''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: true
+    - id: 3
+      name: project_adoption
+      label: Project Adoption
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_adoption_level
+      label: Project Adoption Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''EST''}'
+      - '{''id'': 2, ''label'': ''PST''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: project_start_time
+      label: Project Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: project_end_time
+      label: Project End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: project_category
+      label: Project Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 25
+      name: project_urgency
+      label: Project Urgency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: service_feedback_question
+      label: Service Feedback Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 3
+      name: description
+      label: service_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_time_visited
+      label: date_time_visited
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: feedback_question
+      label: feedback_question
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 7
+      name: service_area
+      label: service_area
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: service_suggestion
+      label: service_suggestion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employee_position
+      label: employee_position
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 14
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false

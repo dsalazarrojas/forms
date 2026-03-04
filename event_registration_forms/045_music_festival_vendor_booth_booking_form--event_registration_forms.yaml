@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Vendor Booth Booking Form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: Vendor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booth_preferences
+      label: Booth Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: booth_location
+      label: Booth Location
+      hint: null
+      type: select_one
+      options:
+      - Main Stage
+      - Side Stage
+      - Tent
+      - Outdoor Area
+      - Vendor Lounge
+      required: true
+    - id: 4
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: booth_type
+      label: Booth Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Custom
+      required: true
+    - id: 9
+      name: booth_size
+      label: Booth Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_services
+      label: Vendor Services
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Drink
+      - Merchandise
+      - Music Equipment
+      - Other
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 13
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vendor_license
+      label: Vendor License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vendor_license_number
+      label: Vendor License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: booth_notes
+      label: Booth Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      - On Invoice
+      required: true
+    - id: 22
+      name: terms_of_agreement
+      label: Terms of Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: terms_of_payment
+      label: Terms of Payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: review_policy
+      label: Review Policy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

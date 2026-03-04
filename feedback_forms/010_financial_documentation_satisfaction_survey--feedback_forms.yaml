@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Documentation Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_documentation
+      label: Financial Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Documents
+      - Reports
+      - Other
+      required: true
+    - id: 3
+      name: report_frequency
+      label: How often do you review financial reports?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: documentation_format
+      label: What format do you prefer for financial documents?
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Paper
+      - Both
+      required: true
+    - id: 5
+      name: documentation_style
+      label: What style of financial documents do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Both
+      required: false
+    - id: 6
+      name: document_quality
+      label: What quality of financial documents do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - High quality
+      - Low quality
+      - Medium
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_frequency_other
+      label: Report Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: document_format_other
+      label: Document Format Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_style_other
+      label: Document Style Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_quality_other
+      label: Document Quality Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission
+      label: How did you find the submission process?
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Difficult
+      - Neutral
+      required: true
+    - id: 15
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 16
+      name: suggestions
+      label: What would you suggest for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_speed
+      label: How fast was the submission process?
+      hint: null
+      type: select_one
+      options:
+      - Very fast
+      - Somewhat fast
+      - Neutral
+      - Somewhat slow
+      - Very slow
+      required: false
+    - id: 18
+      name: submission_clarity
+      label: How clear were the submission instructions?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: false
+    - id: 19
+      name: submission_accuracy
+      label: How accurate was the submission?
+      hint: null
+      type: select_one
+      options:
+      - Very accurate
+      - Somewhat accurate
+      - Neutral
+      - Somewhat inaccurate
+      - Very inaccurate
+      required: false
+    - id: 20
+      name: submission_security
+      label: How secure was the submission?
+      hint: null
+      type: select_one
+      options:
+      - Very secure
+      - Somewhat secure
+      - Neutral
+      - Somewhat insecure
+      - Very insecure
+      required: false
+    - id: 21
+      name: submission_completeness
+      label: Was the submission complete?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: follow_up
+      label: Would you like to receive follow-up surveys?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Both
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

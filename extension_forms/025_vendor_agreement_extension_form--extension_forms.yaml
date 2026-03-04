@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Agreement Extension Form
+    pages:
+    - id: 1
+      name: vendor_agreement_id
+      label: Vendor Agreement ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: extension_date
+      label: Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: extension_reason
+      label: Extension Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: extension_term
+      label: Extension Term
+      hint: null
+      type: select_multiple
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      required: true
+    - id: 9
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: extension_status
+      label: Extension Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: deleted_reason
+      label: Deleted Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: extension_term_length
+      label: Extension Term Length
+      hint: null
+      type: select_multiple
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      required: true
+    - id: 23
+      name: extension_type
+      label: Extension Type
+      hint: null
+      type: select_multiple
+      options:
+      - Contract Renewal
+      - Contract Extension
+      required: true
+    - id: 24
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: vendor_contract_id
+      label: Vendor Contract ID
+      hint: null
+      type: number
+      options: []
+      required: false

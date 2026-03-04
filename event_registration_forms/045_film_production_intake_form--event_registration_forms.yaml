@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: film production intake form
+    pages:
+    - id: 1
+      name: project_details
+      label: project details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: crew_availability
+      label: crew availability
+      hint: Select all relevant crew members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: budget_estimates
+      label: budget estimates
+      hint: Enter budget in dollars
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: filming_locations
+      label: filming locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: filming_dates
+      label: filming dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: filming_times
+      label: filming times
+      hint: Select start time
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: Email for communication
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: Phone number for communication
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_lead
+      label: project lead
+      hint: Name of project lead
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: production_company
+      label: production company
+      hint: Name of production company
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: production_type
+      label: production type
+      hint: Type of production
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: project_notes
+      label: project notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: production_notes
+      label: production notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date
+      label: submission date
+      hint: Submission date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submission_time
+      label: submission time
+      hint: Submission time
+      type: time
+      options: []
+      required: true

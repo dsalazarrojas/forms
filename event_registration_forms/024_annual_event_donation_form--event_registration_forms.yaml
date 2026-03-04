@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Event Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Full Name
+      hint: Name of donor or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_type
+      label: Donor Type
+      hint: Individual or organization?
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Foundation
+      - Organization
+      - Anonymous
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: If donating on behalf of organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: Full address for receipt
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Which event are you supporting?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When is the event?
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: donation_type
+      label: Donation Type
+      hint: What type of donation?
+      type: select_one
+      options:
+      - Monetary
+      - In-Kind
+      - Auction Item
+      - Raffle Prize
+      - Sponsorship
+      - Volunteer Time
+      - Other
+      required: true
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Is this recurring?
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 12
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: If sponsoring, which level?
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Friend
+      - Not Sponsoring
+      required: false
+    - id: 13
+      name: in_kind_description
+      label: In-Kind Description
+      hint: Describe non-monetary donation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: in_kind_value
+      label: Estimated Value
+      hint: Estimated value of in-kind donation
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      - Invoice
+      - Other
+      required: false
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: Type of credit card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Other
+      required: false
+    - id: 17
+      name: honor_memory
+      label: In Honor or Memory Of
+      hint: Is this donation in honor or memory of someone?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recognition_preference
+      label: Recognition Preference
+      hint: How should you be recognized?
+      type: select_one
+      options:
+      - Public Recognition
+      - Anonymous
+      - Name Only
+      - No Recognition
+      required: true
+    - id: 19
+      name: receipt_needed
+      label: Receipt Needed
+      hint: Do you need a tax receipt?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: employer_matching
+      label: Employer Matching
+      hint: Will your employer match?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 21
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer?
+      type: select_one
+      options:
+      - Yes, Interested
+      - Maybe
+      - No, Thank You
+      required: false
+    - id: 22
+      name: marketing_opt_in
+      label: Marketing Communications
+      hint: Receive updates about our work?
+      type: select_one
+      options:
+      - Yes, Please
+      - No, Thank You
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About Us?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Previous Donor
+      - Email
+      - Social Media
+      - Website
+      - Word of Mouth
+      - Event
+      - Media
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

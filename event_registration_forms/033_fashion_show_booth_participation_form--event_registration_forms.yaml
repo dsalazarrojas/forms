@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Show Booth Participation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business name
+      hint: Enter business name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_website
+      label: Business website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media
+      label: Social media
+      hint: Enter social media
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booth_type
+      label: Booth type
+      hint: null
+      type: select_one
+      options:
+      - Fashion Show
+      - Trade Show
+      - Sample Sale
+      required: false
+    - id: 9
+      name: booth_size
+      label: Booth size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: booth_layout
+      label: Booth layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_address
+      label: Business address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip
+      label: Zip code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: business_name_representative
+      label: Business representative name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_email
+      label: Business email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: business_phone
+      label: Business phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: social_security_number
+      label: Social Security number
+      hint: Enter social security number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: business_license
+      label: Business license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_license_state
+      label: Business license state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_description
+      label: Product description
+      hint: Enter product description
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_price
+      label: Product price
+      hint: Enter product price
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_price_range
+      label: Product price range
+      hint: Enter product price range
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: product_price_range_low
+      label: Low price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: product_price_range_high
+      label: High price
+      hint: null
+      type: number
+      options: []
+      required: false

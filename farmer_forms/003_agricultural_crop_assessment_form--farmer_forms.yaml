@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Crop Assessment Form
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of crop assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: farm_name
+      label: Farm Name
+      hint: Name of the farm being assessed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: field_identifier
+      label: Field Identifier
+      hint: Field name or number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: field_size
+      label: Field Size (acres)
+      hint: Size of the field being assessed
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: crop_variety
+      label: Crop Variety
+      hint: Specific variety planted
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: planting_date
+      label: Planting Date
+      hint: When the crop was planted
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: growth_stage
+      label: Current Growth Stage
+      hint: Current stage of crop development
+      type: select_one
+      options:
+      - Germination
+      - Seedling
+      - Vegetative
+      - Flowering
+      - Fruiting
+      - Maturing
+      - Ready for Harvest
+      required: true
+    - id: 9
+      name: crop_health
+      label: Overall Crop Health
+      hint: General health condition of the crop
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: pest_presence
+      label: Pest Presence
+      hint: Are pests currently present
+      type: select_one
+      options:
+      - None observed
+      - Low level
+      - Moderate level
+      - High level
+      - Severe infestation
+      required: true
+    - id: 11
+      name: pest_types
+      label: Pest Types Identified
+      hint: Select all pests observed
+      type: select_multiple
+      options:
+      - Aphids
+      - Caterpillars
+      - Beetles
+      - Mites
+      - Weevils
+      - Grasshoppers
+      - Other
+      required: false
+    - id: 12
+      name: disease_symptoms
+      label: Disease Symptoms
+      hint: Any disease symptoms observed
+      type: select_multiple
+      options:
+      - None
+      - Leaf spots
+      - Wilting
+      - Yellowing
+      - Mold or mildew
+      - Root rot
+      - Stunted growth
+      required: true
+    - id: 13
+      name: irrigation_status
+      label: Irrigation Status
+      hint: Current irrigation condition
+      type: select_one
+      options:
+      - Adequate
+      - Over-irrigated
+      - Under-irrigated
+      - No irrigation
+      required: true
+    - id: 14
+      name: soil_condition
+      label: Soil Condition
+      hint: Current soil condition assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Compacted
+      required: true
+    - id: 15
+      name: nutrient_deficiency
+      label: Nutrient Deficiency Signs
+      hint: Signs of nutrient deficiency
+      type: select_multiple
+      options:
+      - None observed
+      - Nitrogen deficiency
+      - Phosphorus deficiency
+      - Potassium deficiency
+      - Iron deficiency
+      - Other
+      required: false
+    - id: 16
+      name: weed_pressure
+      label: Weed Pressure Level
+      hint: Level of weed competition
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      - Severe
+      required: true
+    - id: 17
+      name: estimated_yield
+      label: Estimated Yield (bushels per acre)
+      hint: Projected yield at harvest
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: recommendations
+      label: Recommendations
+      hint: Recommended actions for the farmer
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_needed
+      label: Follow-up Assessment Needed
+      hint: Is a follow-up visit required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Scheduled date for follow-up
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community League Tournament Enrollment Form
+    pages:
+    - id: 1
+      name: team_information
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team name
+      hint: Official team name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach or manager name
+      hint: Primary contact for the team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For scheduling and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: division
+      label: Division or age group
+      hint: Select division
+      type: select_one
+      options:
+      - Under 12
+      - Under 15
+      - Under 18
+      - Adult
+      required: true
+    - id: 6
+      name: roster_size
+      label: Roster size
+      hint: Number of registered players
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_received
+      label: Entry fee payment received
+      hint: Confirm if payment has been made
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special requests or notes
+      hint: Field for schedule or accommodation needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For team emergencies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_to_rules
+      label: Agree to tournament rules
+      hint: Team representative confirms agreement
+      type: select_one
+      options:
+      - Agree
+      - Do not agree
+      required: true

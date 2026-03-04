@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Question Submission
+    pages:
+    - id: 1
+      name: question_type
+      label: Question Type
+      hint: What category does your question fall under
+      type: select_one
+      options:
+      - General Inquiry
+      - HR Related
+      - IT Support
+      - Policy Question
+      - Training Request
+      - Facilities
+      - Other
+      required: true
+    - id: 2
+      name: question_title
+      label: Question Title
+      hint: A brief title for your question
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_body
+      label: Your Question
+      hint: Please write your question in detail
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: context_provided
+      label: Have you provided enough context
+      hint: Ensure your question can be answered without follow-up
+      type: select_one
+      options:
+      - Yes, complete context provided
+      - Partial context
+      - Need assistance clarifying
+      required: true
+    - id: 5
+      name: related_department
+      label: Related Department
+      hint: Which department should address this
+      type: select_one
+      options:
+      - Human Resources
+      - Information Technology
+      - Finance
+      - Operations
+      - Management
+      - Legal
+      - Not sure
+      required: false
+    - id: 6
+      name: urgency
+      label: How urgent is your question
+      hint: When do you need a response
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within 3 days
+      - Within a week
+      - No rush
+      required: true
+    - id: 7
+      name: preferred_response_format
+      label: Preferred Response Format
+      hint: How would you like to receive the answer
+      type: select_one
+      options:
+      - Email response
+      - Posted FAQ
+      - Team meeting discussion
+      - No preference
+      required: true
+    - id: 8
+      name: similar_questions
+      label: Have you checked existing FAQs
+      hint: Please confirm you have reviewed available resources
+      type: select_one
+      options:
+      - Yes, checked and not found
+      - No, I have not checked
+      required: true
+    - id: 9
+      name: additional_context
+      label: Additional Context or Background
+      hint: Any other information that would help answer your question
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: anonymous_confirmation
+      label: I understand this submission is anonymous
+      hint: Confirm your understanding
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true

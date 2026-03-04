@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Cybersecurity Awareness Session Registration
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Cybersecurity Fundamentals
+      - Advanced Threat Protection
+      - Compliance and Risk Management
+      required: false
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reset_button
+      label: Reset
+      hint: null
+      type: text
+      options: []
+      required: false

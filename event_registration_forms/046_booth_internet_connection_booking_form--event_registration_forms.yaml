@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booth Internet Connection Booking Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Exhibitor Name
+      hint: Your company or name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: booth_number
+      label: Booth Number
+      hint: Your assigned booth
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: connection_type
+      label: Internet Connection Type Needed
+      hint: What type of connection
+      type: select_one
+      options:
+      - WiFi access
+      - Ethernet cable
+      - Both WiFi and Ethernet
+      - Mobile hotspot backup
+      - High-speed dedicated line
+      required: true
+    - id: 9
+      name: internet_usage
+      label: Intended Internet Usage
+      hint: How will you use internet
+      type: select_multiple
+      options:
+      - Point of sale
+      - Video streaming
+      - Live demonstrations
+      - Communication
+      - Data uploads
+      - E-commerce platform
+      - Virtual meetings
+      required: true
+    - id: 10
+      name: bandwidth_requirement
+      label: Estimated Bandwidth Need
+      hint: How much bandwidth needed
+      type: select_one
+      options:
+      - Low (browsing, email)
+      - Medium (video conferencing)
+      - High (video streaming)
+      - Very high (multiple streams)
+      - Not sure
+      required: true
+    - id: 11
+      name: number_of_devices
+      label: Number of Devices to Connect
+      hint: How many devices
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: backup_connectivity
+      label: Need Backup Connectivity
+      hint: Redundancy needed
+      type: select_one
+      options:
+      - Yes, need backup
+      - No, single connection OK
+      - Not sure
+      required: false
+    - id: 13
+      name: setup_support
+      label: Technical Setup Support Needed
+      hint: Do you need help setting up
+      type: select_one
+      options:
+      - Yes, need assistance
+      - No, self-setup
+      - Maybe
+      required: false
+    - id: 14
+      name: connection_priority
+      label: Connection Priority
+      hint: How important is this
+      type: select_one
+      options:
+      - Critical
+      - Important
+      - Standard
+      - Nice to have
+      required: true
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false

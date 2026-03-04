@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sanctuary Visitor Experience Survey
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: visit_time
+      label: Time of Visit
+      hint: null
+      type: select_one
+      options:
+      - Morning (Before 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (After 5 PM)
+      required: true
+    - id: 4
+      name: group_size
+      label: How Many People Were in Your Group
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: group_composition
+      label: Group Composition
+      hint: null
+      type: select_one
+      options:
+      - Family with Young Children
+      - Family with Teenagers
+      - Adults Only
+      - School Group
+      - Tour Group
+      - Solo Visitor
+      - Other
+      required: true
+    - id: 6
+      name: first_visit
+      label: Is This Your First Visit to Our Sanctuary
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: previous_visits_count
+      label: How Many Times Have You Visited Before
+      hint: If not first visit
+      type: select_one
+      options:
+      - 2-3 times
+      - 4-5 times
+      - 6-10 times
+      - More than 10 times
+      required: false
+    - id: 8
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: favorite_exhibit
+      label: What Was Your Favorite Exhibit or Area
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Primate Sanctuary
+      - Big Cat Habitat
+      - Bird Aviary
+      - Reptile House
+      - Farm Animal Area
+      - Wildlife Rehabilitation Center
+      - Education Center
+      - Gift Shop
+      - Cafe or Restaurant
+      - Gardens and Grounds
+      - Other
+      required: true
+    - id: 10
+      name: least_favorite_exhibit
+      label: What Area Could Use Improvement
+      hint: Optional feedback
+      type: select_one
+      options:
+      - Primate Sanctuary
+      - Big Cat Habitat
+      - Bird Aviary
+      - Reptile House
+      - Farm Animal Area
+      - Wildlife Rehabilitation Center
+      - Education Center
+      - Gift Shop
+      - Cafe or Restaurant
+      - Gardens and Grounds
+      - Restrooms
+      - Signage
+      - Nothing - All Were Great
+      - Other
+      required: false
+    - id: 11
+      name: animal_welfare_rating
+      label: How Would You Rate the Care and Welfare of Animals
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: staff_friendliness
+      label: Staff Friendliness and Helpfulness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did Not Interact with Staff
+      required: true
+    - id: 13
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: signage_clarity
+      label: Clarity of Signage and Information
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: value_for_money
+      label: Value for Admission Price
+      hint: null
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Not Applicable
+      required: true
+    - id: 16
+      name: tour_quality
+      label: Quality of Guided Tour (If Applicable)
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did Not Take Tour
+      required: false
+    - id: 17
+      name: educational_value
+      label: Educational Value of Visit
+      hint: What did you learn
+      type: select_one
+      options:
+      - Learned a Great Deal
+      - Learned Something New
+      - Somewhat Educational
+      - Not Very Educational
+      - Not Educational at All
+      required: true
+    - id: 18
+      name: likelihood_to_recommend
+      label: How Likely Are You to Recommend Us to Others
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 19
+      name: likelihood_to_return
+      label: How Likely Are You to Visit Again
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 20
+      name: improvement_suggestions
+      label: What Could We Improve
+      hint: Your suggestions are valuable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false

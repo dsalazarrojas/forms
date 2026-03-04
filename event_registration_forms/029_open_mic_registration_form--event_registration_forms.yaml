@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_mic_registration_form
+    pages:
+    - id: 1
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performer_details
+      label: performer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: event_details
+      label: event_details_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: performance_length
+      label: performance_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false

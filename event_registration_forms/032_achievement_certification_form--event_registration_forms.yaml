@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Achievement Certification Form
+    pages:
+    - id: 1
+      name: recipient_information
+      label: -- Recipient information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient name
+      hint: Full name as it should appear on certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Organization or institution name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: achievement_title
+      label: Achievement title
+      hint: Title or description of achievement
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_awarded
+      label: Date awarded
+      hint: Date to appear on certificate
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cert_id_number
+      label: Certificate ID number
+      hint: Internal tracking number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: awarding_body
+      label: Awarding body
+      hint: Name of person or body issuing certificate
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_method
+      label: Certificate delivery method
+      hint: How the recipient will receive the certificate
+      type: select_one
+      options:
+        - Email PDF
+        - Postal mail
+        - Collect in person
+      required: true
+    - id: 9
+      name: mailing_address
+      label: Mailing address
+      hint: Provide if postal delivery is selected
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: Email for delivery or queries
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Additional notes
+      hint: Any special wording or details for the certificate
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Night Run Helper Registration
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Not Emergency Contact
+      required: true
+    - id: 10
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - All
+      required: true
+    - id: 12
+      name: shift_time
+      label: Shift Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 14
+      name: volunteer_position
+      label: Volunteer Position
+      hint: null
+      type: select_one
+      options:
+      - Event Staff
+      - Medical Support
+      - Volunteer
+      required: true
+    - id: 15
+      name: additional_volunteer_position
+      label: Additional Volunteer Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - Basic First Aid
+      - Advanced First Aid
+      - Both
+      required: true
+    - id: 17
+      name: experience_hours
+      label: Experience Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: experience_date
+      label: Experience Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: experience_time
+      label: Experience Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: medical_certification_details
+      label: Medical Certification Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: first_aid_course_hours
+      label: First Aid Course Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: first_aid_course_date
+      label: First Aid Course Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: first_aid_course_time
+      label: First Aid Course Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: first_aid_certification_date
+      label: First Aid Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

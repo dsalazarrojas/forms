@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Performance Release Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - recordings
+      - photographs
+      - broadcasts
+      required: false
+    - id: 5
+      name: release_organizer
+      label: Release Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_signed_by
+      label: Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_length
+      label: Performance Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: recording_device
+      label: Recording Device
+      hint: null
+      type: select_multiple
+      options:
+      - audio
+      - video
+      - live
+      required: false
+    - id: 13
+      name: broadcast_type
+      label: Broadcast Type
+      hint: null
+      type: select_one
+      options:
+      - internet
+      - radio
+      - television
+      required: false
+    - id: 14
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: agreement_time
+      label: Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: release_terms
+      label: Release Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: performance_start_time
+      label: Performance Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: performance_duration
+      label: Performance Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: broadcast_location
+      label: Broadcast Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

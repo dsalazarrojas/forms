@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: phrase_elimination_survey
+    pages:
+    - id: 1
+      name: intro
+      label: phrase_elimination_survey_form_helps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_phrase
+      label: current_phrase_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: retire_reason
+      label: retire_reason_label
+      hint: Provide a brief explanation of why this phrase should be removed.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggested_alternative
+      label: suggested_alternative_label
+      hint: Please suggest an alternative that should replace the current phrase.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggested_changes
+      label: suggested_changes_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

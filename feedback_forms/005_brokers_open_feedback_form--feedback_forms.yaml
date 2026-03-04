@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brokers Open Feedback Form
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agent_brokerage
+      label: Your Brokerage or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Date of Brokers Open Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Address of the property shown
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_organization
+      label: How well was the event organized
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: property_presentation
+      label: How was the property presented
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: catering_refreshments
+      label: Quality of catering and refreshments
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Not Applicable
+      required: false
+    - id: 9
+      name: event_facilities
+      label: How would you rate the venue and facilities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: likely_to_show
+      label: Are you likely to show this property to clients
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Maybe
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 11
+      name: property_feedback
+      label: Your feedback about the property
+      hint: Positive and constructive comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: improvement_suggestions
+      label: Suggestions for future Brokers Open events
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agent_contact_for_offers
+      label: Contact information if offers are made
+      hint: Phone number or alternative email
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: would_attend_again
+      label: Would you attend a similar event in the future
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Maybe
+      - Probably not
+      - false
+      required: true

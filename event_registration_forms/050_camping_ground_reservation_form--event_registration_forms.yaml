@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Ground Reservation Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: Guest First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Guest Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: check_in_date
+      label: Check-In Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: check_out_date
+      label: Check-Out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total people
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_adults
+      label: Number of Adults
+      hint: Adults 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: number_of_children
+      label: Number of Children
+      hint: Children under 18
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: camping_type
+      label: Type of Camping
+      hint: Select type
+      type: select_one
+      options:
+      - Tent camping
+      - RV camping
+      - Camper van
+      - Cabin rental
+      - Glamping
+      - Backcountry
+      - Group camping
+      required: true
+    - id: 16
+      name: site_selection
+      label: Site Selection
+      hint: Choose your site
+      type: select_one
+      options:
+      - Site A1 - Waterfront
+      - Site A2 - Waterfront
+      - Site B1 - Shaded
+      - Site B2 - Shaded
+      - Site C1 - Open
+      - Site C2 - Open
+      - Site D1 - Near facilities
+      - Site D2 - Near facilities
+      - No preference
+      required: true
+    - id: 17
+      name: rv_specifications
+      label: RV Specifications
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hookup_needs
+      label: Hookup Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Electric 30 amp
+      - Electric 50 amp
+      - Water
+      - Sewer
+      - Cable TV
+      - WiFi
+      required: false
+    - id: 19
+      name: equipment_rental
+      label: Equipment Rental
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Tent rental
+      - Sleeping bags
+      - Camping chairs
+      - Camping table
+      - Cooler
+      - Camp stove
+      - Lantern
+      - Firewood
+      required: false
+    - id: 20
+      name: bringing_pets
+      label: Are You Bringing Pets
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - 1 pet
+      - Yes - 2 pets
+      - Yes - 3 or more
+      required: true
+    - id: 21
+      name: pet_fee_acknowledged
+      label: Pet Fee Acknowledged
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - Not applicable
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Describe if any
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Travel app
+      - Review site
+      - Advertisement
+      - Previous visit
+      - Other
+      required: false
+    - id: 25
+      name: first_time_camper
+      label: Is This Your First Time Camping
+      hint: Yes or no
+      type: select_one
+      options:
+      - No - experienced camper
+      - No - some experience
+      - Yes - first time
+      required: true
+    - id: 26
+      name: camping_tips_needed
+      label: Would You Like Camping Tips
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - please send
+      - No - we are experienced
+      required: false
+    - id: 27
+      name: base_fee
+      label: Base Camping Fee
+      hint: Per night
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: additional_fees
+      label: Additional Fees
+      hint: Extra charges
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: total_amount
+      label: Total Amount
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: deposit_required
+      label: Deposit Required
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Venmo
+      - Pay on arrival
+      required: true
+    - id: 32
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledged
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I have read and understand
+      - false
+      required: true
+    - id: 33
+      name: weather_policy
+      label: Weather Policy Acknowledged
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I understand
+      - false
+      required: true
+    - id: 34
+      name: terms_and_conditions
+      label: Terms and Conditions Accepted
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 35
+      name: guest_signature
+      label: Guest Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

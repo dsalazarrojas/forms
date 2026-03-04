@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paragliding Experience Reservation Form
+    pages:
+    - id: 1
+      name: paragliding_experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - Adventure
+      - Fun
+      - Relaxation
+      required: false
+    - id: 2
+      name: date_and_time
+      label: date_and_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: number_of_people
+      label: number_of_people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: coupon
+      label: coupon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: false
+    - id: 11
+      name: cancellation_terms
+      label: cancellation_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

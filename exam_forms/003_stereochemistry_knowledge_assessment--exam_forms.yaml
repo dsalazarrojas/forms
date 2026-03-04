@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stereochemistry Knowledge Assessment
+    pages:
+    - id: 1
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - Multiple Choice
+      - Short Answer
+      - Checkboxes
+      - Radio Buttons
+      required: false
+    - id: 2
+      name: question_text
+      label: Question Text
+      hint: Enter text here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_answer
+      label: Answer Options
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: question_hint
+      label: Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_points
+      label: Point Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false
+    - id: 7
+      name: time_limit
+      label: Time Limit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

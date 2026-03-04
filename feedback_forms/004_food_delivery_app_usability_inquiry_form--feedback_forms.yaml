@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Delivery App Usability Inquiry Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: form_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_usability_rating
+      label: How would you rate your recent food delivery experience with our app?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      - Very good
+      required: true
+    - id: 6
+      name: form_additional_comments
+      label: Do you have any additional comments or feedback about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_preferred_contact_method
+      label: How would you prefer to be contacted for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-app message
+      - None of the above
+      required: true
+    - id: 8
+      name: form_additional_info
+      label: Is there anything else you'd like to share with us?
+      hint: null
+      type: text
+      options: []
+      required: false

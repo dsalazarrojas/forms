@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Webinar Feedback Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: webinar_title
+      label: Webinar Title Attended
+      hint: Name of the webinar
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: webinar_date
+      label: Webinar Date
+      hint: When did you attend
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: content_relevance
+      label: Relevance of Content to Your Work
+      hint: How applicable was the content
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Very Relevant
+      - Not Relevant at All
+      required: true
+    - id: 8
+      name: speaker_effectiveness
+      label: Speaker Effectiveness
+      hint: Quality of the presentation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: content_depth
+      label: Depth of Content
+      hint: Was it too basic, right level, or too advanced
+      type: select_one
+      options:
+      - Too Basic
+      - Right Level
+      - Too Advanced
+      - Mixed
+      required: true
+    - id: 10
+      name: learning_objectives
+      label: Achievement of Learning Objectives
+      hint: Did you learn what was promised
+      type: select_one
+      options:
+      - Exceeded
+      - Met
+      - Partially Met
+      - Below Expectations
+      required: true
+    - id: 11
+      name: presentation_quality
+      label: Presentation Quality and Materials
+      hint: Slides, handouts, and visuals
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: technical_quality
+      label: Technical Quality of Webinar
+      hint: Audio, video, and platform stability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: time_management
+      label: Time Management During Webinar
+      hint: Did it start and end on time
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: most_valuable
+      label: Most Valuable Takeaway
+      hint: What was most useful for you
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvement_suggestions
+      label: Suggestions for Future Webinars
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recommend_to_others
+      label: Would You Recommend This Webinar
+      hint: Would you suggest it to colleagues
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 17
+      name: future_topics
+      label: Topics for Future Webinars
+      hint: What would you like to see covered
+      type: text
+      options: []
+      required: false

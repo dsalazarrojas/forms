@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Speed Survey Form
+    pages:
+    - id: 1
+      name: place
+      label: Place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: internet_service_provider
+      label: Internet Service Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: download_speed
+      label: Download Speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: upload_speed
+      label: Upload Speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: router_type
+      label: Router Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: place
+      label: Place
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: internet_service_provider
+      label: Internet Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: internet_connection_speed
+      label: Internet Connection Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: internet_connection_speed_id
+      label: Connection Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: router_type
+      label: Router
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

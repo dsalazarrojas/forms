@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Workflow Survey
+    pages:
+    - id: 1
+      name: expense_approval_workflow
+      label: Expense Approval Workflow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver_job_title
+      label: Approver Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approver_rejection_reason
+      label: Approver Rejection Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: approver_approval_status
+      label: Approver Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: approver_decision_date
+      label: Approver Decision Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: approver_comment
+      label: Approver Comment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: approver_decision
+      label: Approver Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: approver_status
+      label: Approver Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: approver_workflow
+      label: Approver Workflow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: approver_process
+      label: Approver Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_review
+      label: Approver Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approver_rejection
+      label: Approver Rejection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: approver_rejection_date
+      label: Approver Rejection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approver_rejection_reason
+      label: Approver Rejection Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: approver_rejection_comments
+      label: Approver Rejection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_rejection_status
+      label: Approver Rejection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: approver_rejection_workflow
+      label: Approver Rejection Workflow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 5K Run Registration Template
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: "--- Registration Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name (as on ID)
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Used to determine age group
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Guardian name (required if under 18)
+      hint: Provide guardian contact if participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email address
+      hint: For confirmation and race info
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: Mobile number preferred
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: shirt_size
+      label: Preferred shirt size
+      hint: Select one
+      type: select_one
+      options:
+        - S
+        - M
+        - L
+        - XL
+        - XXL
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment method used
+      hint: For organizer records
+      type: select_one
+      options:
+        - Credit card
+        - Bank transfer
+        - Cash on pickup
+        - Other
+      required: true
+    - id: 9
+      name: previous_race_experience
+      label: Previous race experience (approximate best 5K time)
+      hint: Enter time in minutes (whole number) or leave blank
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: medical_alerts
+      label: Important medical alerts or medication
+      hint: List any that staff should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: waiver_agreement
+      label: I agree to the event waiver and accept responsibility for participation
+      hint: Must be selected to complete registration
+      type: select_one
+      options:
+        - Agreed (signed)
+        - Not agreed
+      required: true
+    - id: 12
+      name: volunteer_interest
+      label: Interested in volunteering for the event?
+      hint: Select all roles you would consider
+      type: select_multiple
+      options:
+        - Course marshal
+        - Registration desk
+        - Aid station
+        - Finish line crew
+      required: false
+    - id: 13
+      name: notes_for_organizers
+      label: Notes for organizers
+      hint: Anything the team should know before race day
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Sports Combine Registration
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_email
+      label: Athlete Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Enter the name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_number
+      label: Emergency Contact Number
+      hint: Enter the phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sport
+      label: Sports
+      hint: null
+      type: select_multiple
+      options:
+      - American Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      required: true
+    - id: 6
+      name: sport_other
+      label: Other Sport
+      hint: If none of the above, please specify
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date_goals
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_acknowledge
+      label: Participant Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: participant_acknowledge_agreement
+      label: Participant Acknowledgement Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: athlete_agreement
+      label: Athlete Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: emergency_ag_minimalistree
+      label: Emergency Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: coach_agreement
+      label: Coach Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: parent_agreement
+      label: Parent Agreement
+      hint: null
+      type: note
+      options: []
+      required: true

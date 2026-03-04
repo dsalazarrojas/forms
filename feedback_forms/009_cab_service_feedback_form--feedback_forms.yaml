@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cab Service Feedback Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: Your full name optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: For follow-up on your feedback
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ride_date
+      label: Date of Ride
+      hint: When did you take this cab
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ride_time
+      label: Time of Ride
+      hint: Approximate time of service
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pickup_location
+      label: Pickup Location
+      hint: Where did you board the cab
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dropoff_location
+      label: Drop-off Location
+      hint: Where did you exit the cab
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cab_number
+      label: Cab Number
+      hint: Vehicle ID if you have it
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_name
+      label: Driver Name
+      hint: Driver name if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: How would you rate your overall experience
+      type: select_one
+      options:
+      - Excellent - 5 stars
+      - Good - 4 stars
+      - Average - 3 stars
+      - Poor - 2 stars
+      - Very Poor - 1 star
+      required: true
+    - id: 11
+      name: driver_courtesy
+      label: Driver Courtesy
+      hint: How would you rate the driver's politeness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: vehicle_cleanliness
+      label: Vehicle Cleanliness
+      hint: How clean was the cab
+      type: select_one
+      options:
+      - Very clean
+      - Clean
+      - Acceptable
+      - Dirty
+      - Very dirty
+      required: true
+    - id: 13
+      name: driving_safety
+      label: Driving Safety
+      hint: How would you rate the driving behavior
+      type: select_one
+      options:
+      - Very safe
+      - Safe
+      - Average
+      - Reckless
+      - Dangerous
+      required: true
+    - id: 14
+      name: route_efficiency
+      label: Route Efficiency
+      hint: Did the driver take an efficient route
+      type: select_one
+      options:
+      - Most direct route
+      - Reasonable route
+      - Longer than necessary
+      - Suspicious routing
+      required: true
+    - id: 15
+      name: wait_time
+      label: Wait Time
+      hint: How long did you wait for the cab
+      type: select_one
+      options:
+      - Under 5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15-20 minutes
+      - Over 20 minutes
+      required: false
+    - id: 16
+      name: fare_accuracy
+      label: Fare Accuracy
+      hint: Was the fare as expected
+      type: select_one
+      options:
+      - As expected
+      - Slightly higher
+      - Much higher
+      - Lower than expected
+      - Not sure
+      required: false
+    - id: 17
+      name: feedback_category
+      label: Feedback Category
+      hint: What best describes your feedback
+      type: select_one
+      options:
+      - Compliment
+      - Suggestion
+      - Complaint
+      - Lost item report
+      - Other
+      required: true
+    - id: 18
+      name: detailed_feedback
+      label: Detailed Feedback
+      hint: Please share details about your experience
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend Our Service
+      hint: Would you use our cab service again
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 20
+      name: follow_up_permission
+      label: May We Contact You
+      hint: Can we follow up about your feedback
+      type: select_one
+      options:
+      - Yes, please contact me
+      - Only if necessary
+      - No, thank you
+      required: false

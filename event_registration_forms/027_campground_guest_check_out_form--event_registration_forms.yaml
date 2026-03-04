@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campground Guest Check Out Form
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reservation_number
+      label: Reservation Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: campground_site
+      label: Campsite Number or Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_checkout_details
+      label: -- Check-Out Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: checkout_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: checkout_time
+      label: Actual Check-Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: length_of_stay
+      label: Length of Stay
+      hint: Number of nights
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_campsite_inspection
+      label: -- Campsite Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: site_cleanliness
+      label: Campsite cleanliness upon departure
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Requires Cleaning
+      required: true
+    - id: 13
+      name: damage_present
+      label: Any damage to campsite or equipment
+      hint: null
+      type: select_one
+      options:
+      - No damage
+      - Minor damage
+      - Major damage
+      required: true
+    - id: 14
+      name: damage_description
+      label: Describe any damage found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trash_properly_disposed
+      label: Trash properly disposed of
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: campfire_extinguished
+      label: Campfire properly extinguished
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 17
+      name: section_satisfaction
+      label: -- Guest Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall satisfaction with stay
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Extremely Dissatisfied
+      required: true
+    - id: 19
+      name: most_enjoyed
+      label: What did you most enjoy about your stay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_improvements
+      label: -- Feedback for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: improvements_suggested
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: would_return
+      label: Would you return to our campground
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 23
+      name: section_billing
+      label: -- Billing and Charges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: final_charges_agreed
+      label: Final charges have been explained and agreed upon
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or feedback
+      hint: null
+      type: text
+      options: []
+      required: false

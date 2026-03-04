@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Technology Adoption Farmer Insights Survey
+    pages:
+    - id: 1
+      name: farmer_name
+      label: Farmer Name
+      hint: Full name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Name of farming operation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_size
+      label: Farm Size (acres)
+      hint: Total acreage
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_commodity
+      label: Primary Commodity
+      hint: Main agricultural product
+      type: select_one
+      options:
+      - Row crops
+      - Fruits and vegetables
+      - Livestock
+      - Dairy
+      - Poultry
+      - Specialty crops
+      - Mixed
+      required: true
+    - id: 5
+      name: age_range
+      label: Age Range
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 25
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 6
+      name: technology_awareness
+      label: Technology Awareness Level
+      hint: How aware are you of agricultural technologies
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 7
+      name: technologies_used
+      label: Technologies Currently Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - GPS guidance systems
+      - Variable rate technology
+      - Drones
+      - Soil sensors
+      - Weather monitoring stations
+      - Farm management software
+      - Automated irrigation
+      - Livestock monitoring
+      - None
+      required: true
+    - id: 8
+      name: technology_investment
+      label: Technology Investment Level
+      hint: How much have you invested in ag technology
+      type: select_one
+      options:
+      - No investment
+      - Under $5,000
+      - $5,000-$25,000
+      - $25,000-$100,000
+      - Over $100,000
+      required: true
+    - id: 9
+      name: adoption_timeline
+      label: Technology Adoption Timeline
+      hint: When do you typically adopt new technologies
+      type: select_one
+      options:
+      - Early adopter (first to try)
+      - Early majority
+      - Late majority
+      - Laggard (last to adopt)
+      - Never adopt
+      required: true
+    - id: 10
+      name: perceived_benefits
+      label: Perceived Benefits
+      hint: Select all benefits you expect from ag technology
+      type: select_multiple
+      options:
+      - Increased yields
+      - Cost reduction
+      - Labor savings
+      - Better decision making
+      - Environmental sustainability
+      - Improved record keeping
+      - Higher profitability
+      - Risk reduction
+      required: true
+    - id: 11
+      name: adoption_barriers
+      label: Barriers to Adoption
+      hint: Select all barriers you face
+      type: select_multiple
+      options:
+      - High cost
+      - Lack of technical knowledge
+      - Complexity of use
+      - Poor internet connectivity
+      - Lack of training
+      - Uncertain ROI
+      - Equipment compatibility
+      - Data privacy concerns
+      - No barriers
+      required: true
+    - id: 12
+      name: cost_concern
+      label: Cost as Primary Concern
+      hint: Is cost your main barrier
+      type: select_one
+      options:
+      - Yes, primary concern
+      - Yes, but not primary
+      - false
+      required: true
+    - id: 13
+      name: training_availability
+      label: Training Availability
+      hint: Is adequate training available for you
+      type: select_one
+      options:
+      - Yes, plenty of training
+      - Some training available
+      - Limited training
+      - No training available
+      - Not sure
+      required: true
+    - id: 14
+      name: internet_connectivity
+      label: Internet Connectivity on Farm
+      hint: Quality of internet connection
+      type: select_one
+      options:
+      - High-speed broadband
+      - Moderate speed
+      - Slow but functional
+      - Very limited
+      - No internet
+      required: true
+    - id: 15
+      name: data_sharing_concerns
+      label: Data Sharing Concerns
+      hint: How concerned are you about data privacy
+      type: select_one
+      options:
+      - Very concerned
+      - Somewhat concerned
+      - Neutral
+      - Not very concerned
+      - Not concerned at all
+      required: true
+    - id: 16
+      name: roi_expectation
+      label: ROI Expectation
+      hint: Expected return on investment timeframe
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      - Not sure
+      required: true
+    - id: 17
+      name: information_sources
+      label: Information Sources
+      hint: Where do you learn about ag technology
+      type: select_multiple
+      options:
+      - Extension services
+      - Other farmers
+      - Equipment dealers
+      - Trade shows
+      - Online resources
+      - Agricultural publications
+      - Social media
+      - None
+      required: true
+    - id: 18
+      name: future_adoption_interest
+      label: Future Adoption Interest
+      hint: Technologies you are interested in
+      type: select_multiple
+      options:
+      - Precision agriculture
+      - Automation and robotics
+      - AI and machine learning
+      - IoT sensors
+      - Blockchain for traceability
+      - Biotechnology
+      - None
+      required: true
+    - id: 19
+      name: government_support
+      label: Government Support Needed
+      hint: What support would help adoption
+      type: select_multiple
+      options:
+      - Financial incentives
+      - Tax credits
+      - Training programs
+      - Infrastructure improvement
+      - Research and development
+      - Technical assistance
+      - None needed
+      required: true
+    - id: 20
+      name: overall_attitude
+      label: Overall Attitude Toward Ag Technology
+      hint: General feeling about agricultural technology
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Skeptical
+      - Very skeptical
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts on ag technology adoption
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commentator Registration Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Legal name for registration
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_name
+      label: Stage Name or On-Air Name
+      hint: Name used during broadcasts
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for event coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: City and state of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_experience
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_experience
+      label: Years of Commentating Experience
+      hint: How long have you been commentating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 8
+      name: sport_or_event_type
+      label: Sport or Event Type
+      hint: What do you specialize in
+      type: select_multiple
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Soccer
+      - Hockey
+      - Tennis
+      - Golf
+      - Motorsports
+      - Combat Sports
+      - Esports
+      - Other
+      required: true
+    - id: 9
+      name: previous_events
+      label: Previous Events Covered
+      hint: List notable events you have commentated
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_skills
+      label: -- Skills and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: commentary_style
+      label: Commentary Style
+      hint: Describe your style
+      type: select_one
+      options:
+      - Play-by-Play
+      - Color Commentary
+      - Analysis
+      - Entertainment-Focused
+      - Educational
+      - Mixed Style
+      required: true
+    - id: 12
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Languages you can commentate in
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Portuguese
+      - Other
+      required: true
+    - id: 13
+      name: technical_skills
+      label: Technical Skills
+      hint: Broadcasting equipment experience
+      type: select_multiple
+      options:
+      - Studio Broadcasting
+      - Remote Broadcasting
+      - Radio
+      - Television
+      - Podcast
+      - Live Streaming
+      - Social Media
+      required: true
+    - id: 14
+      name: section_header_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: availability
+      label: Availability
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - Holidays
+      - Travel Required
+      - Remote Only
+      required: true
+    - id: 16
+      name: travel_willingness
+      label: Willingness to Travel
+      hint: Are you willing to travel for events
+      type: select_one
+      options:
+      - Yes Willing
+      - Limited Travel
+      - No Remote Only
+      required: true
+    - id: 17
+      name: section_header_portfolio
+      label: -- Portfolio and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: demo_reel
+      label: Demo Reel URL
+      hint: Link to your commentary samples
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: portfolio_website
+      label: Portfolio Website
+      hint: Your professional website
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_media
+      label: Social Media Profiles
+      hint: Professional social media accounts
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references
+      label: Professional References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_header_compensation
+      label: -- Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: fee_expectation
+      label: Fee Expectation
+      hint: Your expected compensation per event
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: fee_negotiable
+      label: Is Fee Negotiable
+      hint: Are you open to negotiation
+      type: select_one
+      options:
+      - Yes Flexible
+      - Somewhat
+      - No Fixed Rate
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

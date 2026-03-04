@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Check In Form
+    pages:
+    - id: 1
+      name: section_checkin
+      label: -- Event Attendee Check-In --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Full Name
+      hint: Search for registered name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: Verification email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: registration_id
+      label: Registration or Ticket ID
+      hint: Unique barcode or alphanumeric ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_verification
+      label: -- Access Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: id_type_presented
+      label: ID Type Presented
+      hint: Physical ID shown to staff
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - Institutional ID
+      - Digital Ticket Only
+      required: true
+    - id: 7
+      name: authorized_event_areas
+      label: Authorized Event Areas
+      hint: Based on ticket level
+      type: select_multiple
+      options:
+      - Main Hall
+      - VIP Lounge
+      - Workshop Room B
+      - Dinner Reception
+      required: true
+    - id: 8
+      name: section_logistics
+      label: -- On-site Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parking_permit_issued
+      label: Was a parking permit issued?
+      hint: Car registration check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 10
+      name: welcome_kit_provided
+      label: Was the welcome kit or badge provided?
+      hint: Physical materials check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: section_safety
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: safety_protocols_accepted
+      label: I have read and accepted the event safety protocols
+      hint: Compliance acknowledgement
+      type: select_one
+      options:
+      - I Accept
+      - Other
+      required: true
+    - id: 13
+      name: check_in_time
+      label: Actual Check-in Time
+      hint: Recorded at entry
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: section_official
+      label: -- Official Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: staff_initials
+      label: Staff Initials for Verification
+      hint: Officer performing check-in
+      type: text
+      options: []
+      required: true

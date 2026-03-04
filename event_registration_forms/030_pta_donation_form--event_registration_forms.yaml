@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTA Donation Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false

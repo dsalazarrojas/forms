@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attendance Management Access Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Employee's department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position/Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Corporate email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: Direct Manager Name
+      hint: Name of direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_information
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: Name of the event or activity
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: event_location
+      label: Event Location
+      hint: Where the event takes place
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: access_information
+      label: -- Access Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: access_level_requested
+      label: Access Level Requested
+      hint: What level of access do you need?
+      type: select_one
+      options:
+      - General Access
+      - VIP Access
+      - Speaker/Presenter
+      - Staff/Volunteer
+      - Admin
+      - Other
+      required: true
+    - id: 16
+      name: badgeid_needed
+      label: Badge ID Needed
+      hint: Do you need a badge or ID?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: parking_required
+      label: Parking Required
+      hint: Will you need parking?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: guest_attendance
+      label: Bringing Guests/Family
+      hint: Will you bring guests?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many guests?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs?
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Other
+      - None
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendance_confirmation
+      label: -- Attendance Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: will_attend
+      label: Will You Attend This Event?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - 'No'
+      - Maybe - Uncertain
+      required: true
+    - id: 25
+      name: authorization_signature
+      label: Manager Approval/Authorization
+      hint: Approved by supervisor?
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Not Approved
+      required: true

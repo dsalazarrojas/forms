@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_competition_payment_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fee
+      label: Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bank transfer''}'
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''PayPal''}'
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Paid''}'
+      - '{''name'': ''Unpaid''}'
+      - '{''name'': ''Partially Paid''}'
+      required: false
+    - id: 6
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_state
+      label: Participant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_zip
+      label: Participant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false

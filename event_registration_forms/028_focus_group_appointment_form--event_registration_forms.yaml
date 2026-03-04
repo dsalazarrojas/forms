@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: focus_group_appointment_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 08:00-09:00
+      - 09:00-10:00
+      - 10:00-11:00
+      - 11:00-12:00
+      - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
+      - 16:00-17:00
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: selected_time
+      label: Selected Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00-09:00
+      - 09:00-10:00
+      - 10:00-11:00
+      - 11:00-12:00
+      - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
+      - 16:00-17:00
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Security Training Facility Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_organization
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_employee_id
+      label: Employee ID
+      hint: Required for facility access
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_training_info
+      label: -- Training and Facility Details --
+      hint: Provide the requirements for the training session
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_type
+      label: Type of Training
+      hint: Choose the primary training category
+      type: select_one
+      options:
+      - X-ray Screening Procedures
+      - Dangerous Goods (DG) Awareness
+      - Passenger Profiling and Behavioral Analysis
+      - Cargo and Mail Security
+      - ICAO/Regional Security Standards
+      - Emergency Response Simulation
+      required: true
+    - id: 8
+      name: attendee_count
+      label: Number of Attendees
+      hint: Approximate number of people joining
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: requested_facility
+      label: Preferred Facility or Lab
+      hint: Which space do you need?
+      type: select_one
+      options:
+      - Classroom A (Large)
+      - Classroom B (Small)
+      - Screening Lab (Hands-on)
+      - Simulation Room
+      - Outdoor Training Area
+      required: true
+    - id: 10
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: Choose the duration
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (1pm - 5pm)
+      - Full Day (8am - 5pm)
+      - Evening (6pm - 10pm)
+      required: true
+    - id: 13
+      name: special_equipment
+      label: Special Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Audio/Visual Projector and Screen
+      - Training Laptop/Station
+      - Operational X-ray Machine
+      - Walk-through Metal Detector
+      - Simulated Prohibited Items (Training Aids)
+      required: false
+    - id: 14
+      name: security_clearance_level
+      label: Security Clearance Level of Attendees
+      hint: Minimum level required for the area
+      type: select_one
+      options:
+      - Restricted Area Access (SRA)
+      - Non-Restricted
+      - Background Checked Only
+      - No Clearance (Visitor)
+      required: true
+    - id: 15
+      name: badge_status
+      label: Security Badge Status
+      hint: Do attendees have valid airport ID badges?
+      type: select_one
+      options:
+      - All attendees have valid badges
+      - Some attendees require temporary passes
+      - All attendees require visitor passes
+      required: true
+    - id: 16
+      name: additional_requirements
+      label: Additional Requirements or Comments
+      hint: Any other information for the facility coordinator
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rule_agreement
+      label: I agree to comply with all Facility Security Rules and Regulations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

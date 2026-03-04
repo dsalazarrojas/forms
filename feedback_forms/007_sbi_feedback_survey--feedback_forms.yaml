@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: SBI Feedback Survey
+    pages:
+    - id: 1
+      name: first_visit
+      label: first_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: branch_visit
+      label: branch_visit
+      hint: Tell us about your branch visit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 4
+      name: staff_helpfulness
+      label: staff_helpfulness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: staff_friendliness
+      label: staff_friendliness
+      hint: Tell us about staff friendliness
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: branch_cleanliness
+      label: branch_cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Very Clean
+      - Somewhat Clean
+      - Neutral
+      - Somewhat Dirty
+      - Very Dirty
+      required: true
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: staff_availability
+      label: staff_availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_verify
+      label: email_verify
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_verify
+      label: phone_verify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name_verify
+      label: name_verify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: first_visit_date
+      label: first_visit_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: branch_name
+      label: branch_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shift
+      label: shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: staff_role
+      label: staff_role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: branch_id
+      label: branch_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: branch_id_verify
+      label: branch_id_verify
+      hint: null
+      type: text
+      options: []
+      required: false

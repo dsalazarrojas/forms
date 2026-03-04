@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Smart Grid Project Nomination Form
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_job_title
+      label: Your Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_organization
+      label: Your Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_email_addr
+      label: Your Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: project_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: smart_grid_project_name
+      label: Project Name
+      hint: Official name of the smart grid project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lead_org_name
+      label: Lead Organization
+      hint: Entity primarily responsible for the project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location_region
+      label: Project Location
+      hint: Country and/or specific Region
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_category_select
+      label: Project Category
+      hint: Primary focus area of the smart grid innovation
+      type: select_one
+      options:
+      - Grid Modernization and Automation
+      - Microgrids and Local Power
+      - Renewable Energy Integration
+      - Demand Response and Load Balancing
+      - EV Charging Infrastructure
+      - Advanced Smart Metering (AMI)
+      - Distribution Management Systems (ADMS)
+      - Other
+      required: true
+    - id: 11
+      name: year_of_completion
+      label: Year of Completion or Launch
+      hint: When the project became operational
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: project_performance_header
+      label: -- Project Performance Metrics --
+      hint: Rate from 1 (Low) to 5 (High)
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: innovation_level_rating
+      label: Innovation Level
+      hint: Uniqueness and novelty of the solution
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 14
+      name: scalability_rating
+      label: Scalability and Replicability
+      hint: Ease of applying this solution elsewhere
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: env_impact_rating
+      label: Environmental Impact and Sustainability
+      hint: Carbon reduction and efficiency
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 16
+      name: economic_viability_rating
+      label: Economic Viability
+      hint: Cost-effectiveness and return on investment
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 17
+      name: reliability_improvement_rating
+      label: Reliability and Resilience Improvement
+      hint: Impact on grid uptime and safety
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 18
+      name: nomination_narrative_header
+      label: -- Nomination Narrative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: technical_innovations_desc
+      label: Describe the technical innovations of this project
+      hint: Key hardware, software, or process advances
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: problem_solved_desc
+      label: What was the primary problem this project solved
+      hint: Describe the challenge faced before the project
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: measurable_impact_desc
+      label: What has been the measurable impact on grid efficiency or customer experience
+      hint: Share data points or results
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: award_win_justification
+      label: Why should this project win the Best Smart Grid Project Award
+      hint: Summarize your nomination argument
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: final_details_header
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: professional_reference_contact
+      label: Professional Reference
+      hint: Name and email of someone familiar with the project details
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: nomination_date_timestamp
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Reliability Assessment Form
+    pages:
+    - id: 1
+      name: utility_service_reliability_assessment_form
+      label: service_reliability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: utility_service_reliability_assessment_form_1
+      label: outages_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outages_impact
+      label: outages_impact
+      hint: null
+      type: select_one
+      options:
+      - outages_impact_low
+      - outages_impact_high
+      - outages_impact_none
+      required: false
+    - id: 4
+      name: outages_frequency
+      label: outages_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - outages_frequency_frequent
+      - outages_frequency_occasional
+      - outages_frequency_rare
+      required: false
+    - id: 5
+      name: outages_consequences
+      label: outages_consequences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_response
+      label: customer_service_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_response_1
+      label: timely_response
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_response_2
+      label: communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_response_3
+      label: helpfulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

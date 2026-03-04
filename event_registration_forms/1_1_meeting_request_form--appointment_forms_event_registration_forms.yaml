@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1:1 Meeting Request Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: '--- Your Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Your Full Name
+      hint: Please provide your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Your Email Address
+      hint: This will be used for communication and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Your Phone Number (Optional)
+      hint: Include country code if outside local region
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: requester_organization
+      label: Organization / Company (Optional)
+      hint: If applicable, the name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_meeting_details
+      label: '--- Meeting Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: meeting_purpose
+      label: Meeting Purpose or Topic
+      hint: Briefly describe what you'd like to discuss
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: desired_outcome
+      label: Desired Meeting Outcome (Optional)
+      hint: What do you hope to achieve from this meeting?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: How would you like the meeting to take place?
+      type: select_one
+      options:
+      - Virtual Call
+      - In-person Meeting
+      - Phone Call
+      required: true
+    - id: 10
+      name: virtual_platform_preference
+      label: Preferred Virtual Platform (if applicable)
+      hint: Select all platforms you are comfortable using
+      type: select_multiple
+      options:
+      - Zoom
+      - Google Meet
+      - Microsoft Teams
+      - Other (please specify in notes)
+      required: false
+    - id: 11
+      name: estimated_duration
+      label: Estimated Meeting Duration
+      hint: How long do you anticipate the meeting will take?
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2+ hours
+      required: true
+    - id: 12
+      name: section_header_availability
+      label: '--- Your Availability ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_date_1
+      label: First Preferred Date
+      hint: Your top choice for the meeting date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_time_1
+      label: First Preferred Time
+      hint: "Your top choice for the meeting time (e.g., 10:00 AM)"
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: preferred_date_2
+      label: Second Preferred Date (Optional)
+      hint: An alternative date if your first choice is unavailable
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_time_2
+      label: Second Preferred Time (Optional)
+      hint: An alternative time for your second preferred date
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: preferred_date_3
+      label: Third Preferred Date (Optional)
+      hint: A third option for the meeting date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: preferred_time_3
+      label: Third Preferred Time (Optional)
+      hint: A third option for the meeting time
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: available_days_of_week
+      label: General Days of Week Available
+      hint: Select all days you are generally available
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 20
+      name: available_time_of_day
+      label: General Time of Day Preference
+      hint: Are you more available in the morning or afternoon?
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (1 PM - 5 PM)
+      - Flexible (Anytime)
+      required: false
+    - id: 21
+      name: section_header_additional
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: meeting_urgency
+      label: Urgency of Meeting
+      hint: How soon do you need this meeting to happen?
+      type: select_one
+      options:
+      - Low (within 2-3 weeks)
+      - Medium (within 1 week)
+      - High (as soon as possible)
+      - Urgent (critical, immediate attention)
+      required: true
+    - id: 23
+      name: pre_meeting_documents
+      label: 'Note: Please be prepared to share any relevant documents or materials
+        during the meeting, or via email prior to the scheduled time.'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments_meeting
+      label: Any other comments or special requests?
+      hint: Provide any further context or specific requirements for the meeting
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural-showcase-afterparty-rsvp
+    pages:
+    - id: 1
+      name: guest_quantity
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dietary_need
+      label: Dietary Needs
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: rsvp_response
+      label: RSVP Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 7
+      name: rsvp_dietary_need
+      label: rsvp-dietary-need
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_guest_count
+      label: RSVP Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_attendance_time
+      label: RSVP Attendance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

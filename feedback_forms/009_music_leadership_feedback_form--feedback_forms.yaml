@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Leadership Feedback Form
+    pages:
+    - id: 1
+      name: music_director_form
+      label: Music Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_notes
+      label: Performance Notes
+      hint: Describe the performance and what you liked/disliked about it
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 4
+      name: constructive_feedback
+      label: Constructive Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Your email address for follow up contact
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location_of_event
+      label: Location of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Recital
+      - Rehearsal
+      - Event
+      required: false
+    - id: 11
+      name: music_department
+      label: Music Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: music_ensemble
+      label: Music Ensemble
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: feedback_given_to
+      label: Feedback Given To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_action
+      label: Follow up Action
+      hint: Actions taken as a result of feedback
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_notes
+      label: Follow up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: music_department_instrumental
+      label: Instrumental
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: music_department_vocal
+      label: Vocal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

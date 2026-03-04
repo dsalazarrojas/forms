@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decision Analysis Feedback Form
+    pages:
+    - id: 1
+      name: decision_clarity
+      label: How clear was the decision?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: decision_effectiveness
+      label: How effective was the decision?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: confidence
+      label: How confident are you in the decision?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stakeholder_id
+      label: Stakeholder ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: team_id
+      label: Team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Please enter your email in the format of name@example.com
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Marketing''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      - '{''id'': 3, ''label'': ''IT''}'
+      - '{''id'': 4, ''label'': ''Engineering''}'
+      required: true
+    - id: 10
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team member''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Stakeholder''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Office''}'
+      - '{''id'': 2, ''label'': ''Remote''}'
+      - '{''id'': 3, ''label'': ''Online''}'
+      required: true
+    - id: 14
+      name: submitted_at
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

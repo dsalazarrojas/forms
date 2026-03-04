@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: extension_request
+      label: Extension Request
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''bank_transfer''}'
+      - '{''id'': 2, ''label'': ''cash''}'
+      - '{''id'': 3, ''label'': ''credit_card''}'
+      - '{''id'': 4, ''label'': ''other''}'
+      required: false
+    - id: 5
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: amount_received
+      label: Amount Received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''paid''}'
+      - '{''id'': 2, ''label'': ''pending''}'
+      - '{''id'': 3, ''label'': ''declined''}'
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

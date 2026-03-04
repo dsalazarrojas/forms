@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Speaking Tournament Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Type 1'', ''value'': ''type-1''}'
+      - '{''id'': 11, ''label'': ''Type 2'', ''value'': ''type-2''}'
+      - '{''id'': 12, ''label'': ''Type 3'', ''value'': ''type-3''}'
+      required: true
+    - id: 6
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: speaker_type
+      label: Speaker Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''label'': ''Type 1'', ''value'': ''type-1''}'
+      - '{''id'': 21, ''label'': ''Type 2'', ''value'': ''type-2''}'
+      - '{''id'': 22, ''label'': ''Type 3'', ''value'': ''type-3''}'
+      required: true
+    - id: 11
+      name: speaker_bio
+      label: Speaker Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 30, ''label'': ''Status 1'', ''value'': ''status-1''}'
+      - '{''id'': 31, ''label'': ''Status 2'', ''value'': ''status-2''}'
+      - '{''id'': 32, ''label'': ''Status 3'', ''value'': ''status-3''}'
+      required: true

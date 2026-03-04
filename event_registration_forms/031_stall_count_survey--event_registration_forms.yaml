@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stall Count Survey
+    pages:
+    - id: 1
+      name: stall_name
+      label: Stall Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: stall_count
+      label: Stall Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_attendees
+      label: Total Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: engaged_stalls
+      label: Engaged Stalls
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: average_time_per_stall
+      label: Average Time per Stall
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: engagement_level
+      label: Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

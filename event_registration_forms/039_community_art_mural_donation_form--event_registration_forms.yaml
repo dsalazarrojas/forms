@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Art Mural Donation Form
+    pages:
+    - id: 1
+      name: donation_information
+      label: Donation Information
+      hint: Details about your mural donation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donation_date
+      label: Donation Date
+      hint: Date of this donation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: donation_id
+      label: Donation ID
+      hint: Unique donation reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_information
+      label: Donor Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: donor_name
+      label: Donor Name
+      hint: Full name of the donor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donor_type
+      label: Donor Type
+      hint: What type of donor are you
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Business
+      - Organization
+      - Foundation
+      - Anonymous
+      required: true
+    - id: 7
+      name: donor_email
+      label: Donor Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: donor_phone
+      label: Donor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_address
+      label: Donor Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donor_city
+      label: Donor City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_state
+      label: Donor State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: donor_zip
+      label: Donor ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mural_project
+      label: Mural Project
+      hint: Information about the mural project
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_name
+      label: Project Name
+      hint: Name of the mural project
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_location
+      label: Project Location
+      hint: Where will the mural be located
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: donation_details
+      label: Donation Details
+      hint: Information about your donation
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount you wish to donate in USD
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Is this a one-time or recurring donation
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 19
+      name: donation_purpose
+      label: Donation Purpose
+      hint: What should your donation support
+      type: select_one
+      options:
+      - General Mural Fund
+      - Specific Mural Project
+      - Artist Compensation
+      - Materials and Supplies
+      - Maintenance Fund
+      - Where Needed Most
+      required: true
+    - id: 20
+      name: specific_mural
+      label: Specific Mural
+      hint: If supporting a specific mural - which one
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Cash
+      required: true
+    - id: 22
+      name: tribute_donation
+      label: Tribute Donation
+      hint: Is this donation in honor or memory of someone
+      type: select_one
+      options:
+      - Yes - In Honor Of
+      - Yes - In Memory Of
+      - 'No'
+      required: false
+    - id: 23
+      name: tribute_name
+      label: Tribute Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recognition_preference
+      label: Recognition Preference
+      hint: How would you like to be recognized
+      type: select_one
+      options:
+      - Public Recognition on Plaque
+      - Public Recognition on Website
+      - Social Media Mention
+      - Private Recognition Only
+      - Anonymous - No Recognition
+      required: true
+    - id: 25
+      name: tax_receipt
+      label: Tax Receipt
+      hint: Do you need a tax receipt
+      type: select_one
+      options:
+      - Yes - Email Receipt
+      - Yes - Mail Receipt
+      - 'No'
+      required: true
+    - id: 26
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Would you like to receive project updates
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer for the project
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any message or dedication to include
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: donation_agreement
+      label: Donation Agreement
+      hint: I agree that this donation is final and non-refundable
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true

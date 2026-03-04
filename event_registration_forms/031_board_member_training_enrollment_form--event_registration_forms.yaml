@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Member Training Enrollment Form
+    pages:
+      - id: 1
+        name: training_header
+        label: -- Training Enrollment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name for registration
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: Confirmation and materials will be sent
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: training_session
+        label: Training session
+        hint: Choose preferred session
+        type: select_one
+        options:
+          - Governance basics
+          - Financial oversight
+          - Fundraising strategies
+        required: true
+      - id: 5
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: For catering if applicable
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: accessibility_requirements
+        label: Accessibility requirements
+        hint: Mobility hearing or visual needs
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: payment_required
+        label: Payment required
+        hint: Confirm if payment is needed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone
+        type: text
+        options: []
+        required: false

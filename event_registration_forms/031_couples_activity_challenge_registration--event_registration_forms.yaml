@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Activity Challenge Registration
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_relationship
+      label: Participant Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Married
+      - Partner
+      - Friend
+      - Family
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_info
+      label: Submit Information
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save as Draft
+      required: false
+    - id: 13
+      name: submit_confirmation
+      label: Registration Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: submit_comments
+      label: Registration Comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: confirm_event_details
+      label: Event Details Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false

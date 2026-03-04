@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Retreat Detailed Registration Form 2017
+    pages:
+    - id: 1
+      name: section_registrant
+      label: -- Registrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: For room assignments
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cell_phone
+      label: Cell Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_preferences
+      label: -- Retreat Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: room_preference
+      label: Room Preference
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Shared Room
+      - No Preference
+      required: true
+    - id: 9
+      name: roommate_request_name
+      label: Roommate Request Name
+      hint: If you have a specific person in mind
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 11
+      name: other_medical_concerns
+      label: Other Medical Concerns
+      hint: List any health issues we should know about
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: registration_deposit_status
+      label: Registration Deposit Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      required: true

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair Accessible Door Request Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Building''}'
+      - '{''value'': ''Office''}'
+      - '{''value'': ''Office Building''}'
+      - '{''value'': ''Parking Garage''}'
+      required: true
+    - id: 3
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: door_type
+      label: Door Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Automatic''}'
+      - '{''value'': ''Manual''}'
+      - '{''value'': ''Automatic Door''}'
+      - '{''value'': ''Manual Door''}'
+      required: true
+    - id: 5
+      name: door_location
+      label: Door Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requested_modifications
+      label: Requested Modifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Threshold Reduction''}'
+      - '{''value'': ''Automatic Door Operator''}'
+      - '{''value'': ''Soft Closing''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter_details
+      label: Submitter Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submitter_contact
+      label: Submitter Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: staff_responsible
+      label: Staff Responsible
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Facilities''}'
+      - '{''value'': ''Security''}'
+      required: true

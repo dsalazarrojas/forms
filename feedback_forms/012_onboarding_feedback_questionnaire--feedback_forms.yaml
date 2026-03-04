@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Onboarding Feedback Questionnaire
+    pages:
+    - id: 1
+      name: onboarding_feedback_questionnaire
+      label: onboarding_feedback_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_questions
+      label: feedback_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: open_ended_questions
+      label: open_ended_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department_id
+      label: department_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_length
+      label: onboarding_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_date
+      label: onboarding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Manager 1''}'
+      - '{''label'': ''Manager 2''}'
+      - '{''label'': ''Manager 3''}'
+      - '{''label'': ''Manager 4''}'
+      - '{''label'': ''Manager 5''}'
+      required: false
+    - id: 11
+      name: feedback_score
+      label: feedback_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: manager_score
+      label: manager_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_score
+      label: employee_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
+      - '{''label'': ''Somewhat Unsatisfied''}'
+      - '{''label'': ''Very Unsatisfied''}'
+      required: false
+    - id: 15
+      name: overall_experience_comments
+      label: overall_experience_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Daily''}'
+      required: false
+    - id: 17
+      name: feedback_source
+      label: feedback_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''In-Person''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 18
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_steps_actions
+      label: next_steps_actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Send email''}'
+      - '{''label'': ''Create task''}'
+      - '{''label'': ''Create issue''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 21
+      name: onboarding_length_comments
+      label: onboarding_length_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: onboarding_date_comments
+      label: onboarding_date_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: onboarding_length
+      label: onboarding_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Manager 1''}'
+      - '{''label'': ''Manager 2''}'
+      - '{''label'': ''Manager 3''}'
+      - '{''label'': ''Manager 4''}'
+      - '{''label'': ''Manager 5''}'
+      required: false
+    - id: 25
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
+      - '{''label'': ''Somewhat Unsatisfied''}'
+      - '{''label'': ''Very Unsatisfied''}'
+      required: false

@@ -1,0 +1,46 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Media Release Authorization Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_release
+      label: Media Release
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 3
+      name: likeness_media
+      label: Likeness in Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: The date on which we are asking for the permission.
+      type: date
+      options: []
+      required: false

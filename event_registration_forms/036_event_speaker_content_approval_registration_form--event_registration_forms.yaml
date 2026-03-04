@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Speaker Content Approval Registration Form
+    pages:
+    - id: 1
+      name: speaker_info
+      label: Speaker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_bio
+      label: Speaker Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter speaker's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_info
+      label: Session Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_title
+      label: Session Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: Enter session date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_materials
+      label: Session Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: material_title
+      label: Material Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: material_file
+      label: Material File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: material_url
+      label: Material URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - On Hold
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

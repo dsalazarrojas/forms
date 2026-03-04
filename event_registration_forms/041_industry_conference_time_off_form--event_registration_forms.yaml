@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: industry_conference_time_off_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: User input
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: conference_name
+      label: Conference Name
+      hint: Conference name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conference_dates
+      label: Conference Dates
+      hint: Dates
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: conference_location
+      label: Conference Location
+      hint: Location
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conference_type
+      label: Conference Type
+      hint: Type
+      type: select_one
+      options:
+      - Conference
+      - Trade Show
+      - Seminar
+      - Workshop
+      - Webinar
+      required: false
+    - id: 6
+      name: conference_justification
+      label: Conference Justification
+      hint: Justification
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: Manager Approval
+      hint: Approval
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Review
+      required: true
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: ID
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: department_id
+      label: Department ID
+      hint: Department
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      - Department 4
+      required: false
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Comments
+      type: text
+      options: []
+      required: false

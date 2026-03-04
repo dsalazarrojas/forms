@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Seating Arrangement Complaint Form
+    pages:
+    - id: 1
+      name: seat_arrangement
+      label: seat_arrangement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: seat_number
+      label: seat_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: seat_row
+      label: seat_row
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: What happened?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Stage''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false

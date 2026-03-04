@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: lean_six_sigma_certification_exam_form
+    pages:
+    - id: 1
+      name: exam_submission
+      label: Exam Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_info
+      label: candidate_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exam_location
+      label: exam_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exam_time
+      label: exam_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: exam_duration
+      label: exam_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exam_level
+      label: exam_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: exam_notes
+      label: exam_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: exam_category
+      label: exam_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      - '{''id'': 4, ''label'': ''Option 4''}'
+      - '{''id'': 5, ''label'': ''Option 5''}'
+      required: false
+    - id: 13
+      name: exam_comments
+      label: exam_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

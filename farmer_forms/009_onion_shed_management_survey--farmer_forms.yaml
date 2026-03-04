@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Onion Shed Management Survey
+    pages:
+    - id: 1
+      name: onion_shed_management_survey
+      label: What is the type of onion shed operation your farm does?
+      hint: null
+      type: select_one
+      options:
+      - Onion Farm
+      - Onion Packing
+      - Onion Storage
+      - Other
+      required: false
+    - id: 2
+      name: onion_shed_location_id
+      label: Shed Location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shed_location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shed_capacity
+      label: Shed Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_shed_area
+      label: Total Shed Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: available_shed_area
+      label: Available Shed Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shed_temperature_control
+      label: Shed Temperature Control
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: shed_light_control
+      label: Shed Light Control
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: shed_humidity_control
+      label: Shed Humidity Control
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: shed_water_supply
+      label: Shed Water Supply
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: shed_electrical_power
+      label: Shed Electrical Power
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: shed_electrical_lighting
+      label: Shed Electrical Lighting
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: shed_ventilation
+      label: Shed Ventilation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: shed_ice_packaging
+      label: Shed Ice Packaging
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: shed_other_services
+      label: Other Shed Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shed_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: shed_pesticides
+      label: Shed Pesticides
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: shed_fire_suppression
+      label: Shed Fire Suppression
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: total_shed_value
+      label: Total Shed Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: onion_cost_price
+      label: Onion Cost Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: shed_insurance
+      label: Shed Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: total_insured_value
+      label: Total Insured Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shed_insurance_cost
+      label: Shed Insurance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: shed_insurance_deductible
+      label: Shed Insurance Deductible
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: shed_insurance_limit
+      label: Shed Insurance Limit
+      hint: null
+      type: text
+      options: []
+      required: false

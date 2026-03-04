@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Coverage Registration
+    pages:
+    - id: 1
+      name: event_coverage_form
+      label: event_coverage_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_credential_request
+      label: media_credential_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: coverage_details
+      label: coverage_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm_consent
+      label: confirm_consent
+      hint: null
+      type: text
+      options: []
+      required: false

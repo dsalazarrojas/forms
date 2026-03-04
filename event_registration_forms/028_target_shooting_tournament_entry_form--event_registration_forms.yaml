@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Target Shooting Tournament Entry Form
+    pages:
+    - id: 1
+      name: tournament_details
+      label: Tournament Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_organizers
+      label: Participant Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_waivers
+      label: Participant Waivers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_medical_info
+      label: Participant Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_equipment
+      label: Participant Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

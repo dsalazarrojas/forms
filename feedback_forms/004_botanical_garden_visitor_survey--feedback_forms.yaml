@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botanical Garden Visitor Survey
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: Date of your visit to the botanical garden
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visit_time
+      label: Arrival Time
+      hint: What time did you arrive
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: visitor_type
+      label: Visitor Type
+      hint: How would you describe your visit
+      type: select_one
+      options:
+      - First-time visitor
+      - Occasional visitor (2-3 times per year)
+      - Frequent visitor (monthly)
+      - Member
+      - Annual pass holder
+      required: true
+    - id: 4
+      name: group_composition
+      label: Group Composition
+      hint: Who did you visit with today
+      type: select_one
+      options:
+      - Alone
+      - With spouse or partner
+      - With family including children
+      - With friends
+      - Organized group or tour
+      - Business or educational group
+      required: true
+    - id: 5
+      name: number_in_party
+      label: Number in Party
+      hint: Total number of visitors in your group
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: children_count
+      label: Number of Children
+      hint: How many children under 18 are in your group
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Your home ZIP code for demographic analysis
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visit_purpose
+      label: Primary Purpose of Visit
+      hint: What brought you to the garden today
+      type: select_one
+      options:
+      - Leisure and relaxation
+      - Educational experience
+      - Photography
+      - Exercise and walking
+      - Special event or exhibition
+      - Research or study
+      - Social gathering
+      required: true
+    - id: 9
+      name: information_source
+      label: How Did You Hear About Us
+      hint: What source led you to visit
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family recommendation
+      - Travel guide or brochure
+      - Local advertisement
+      - Hotel concierge
+      - Previous visit
+      - Other
+      required: false
+    - id: 10
+      name: areas_visited
+      label: Garden Areas Visited
+      hint: Select all areas you explored today
+      type: select_multiple
+      options:
+      - Rose Garden
+      - Tropical Conservatory
+      - Japanese Garden
+      - Desert Garden
+      - Native Plant Section
+      - Herb Garden
+      - Children's Garden
+      - Water Features
+      - Sculpture Walk
+      - Gift Shop
+      - Cafe
+      required: true
+    - id: 11
+      name: favorite_area
+      label: Favorite Area
+      hint: Which area did you enjoy most
+      type: select_one
+      options:
+      - Rose Garden
+      - Tropical Conservatory
+      - Japanese Garden
+      - Desert Garden
+      - Native Plant Section
+      - Herb Garden
+      - Children's Garden
+      - Water Features
+      - Sculpture Walk
+      required: false
+    - id: 12
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: How would you rate your visit today
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: value_for_money
+      label: Value for Money
+      hint: Do you feel the admission price was fair
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 14
+      name: facilities_rating
+      label: Facilities Rating
+      hint: Rate our facilities including restrooms, pathways, seating
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: Rate the helpfulness of our staff and volunteers
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - No interaction with staff
+      required: true
+    - id: 16
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: What could we do to improve your experience
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: return_likelihood
+      label: Likelihood to Return
+      hint: How likely are you to visit again
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 18
+      name: membership_interest
+      label: Membership Interest
+      hint: Are you interested in learning about membership benefits
+      type: select_one
+      options:
+      - Yes, please send information
+      - Already a member
+      - Not interested at this time
+      required: false
+    - id: 19
+      name: email_contact
+      label: Email Address
+      hint: Optional - for follow-up and newsletter
+      type: email
+      options: []
+      required: false

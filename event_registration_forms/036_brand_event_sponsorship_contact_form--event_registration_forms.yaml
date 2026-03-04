@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Event Sponsorship Contact Form
+    pages:
+    - id: 1
+      name: sponsor_info_header
+      label: -- Sponsor Contact Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_company
+      label: Sponsor Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_contact
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sponsor_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sponsorship_details_header
+      label: -- Sponsorship Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_lvl
+      label: Interested Sponsorship Level
+      hint: null
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Custom Partnership
+      required: true
+    - id: 8
+      name: sponsor_goals
+      label: What are your primary goals for this sponsorship?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brand Awareness
+      - Lead Generation
+      - Product Launch
+      - Community Support
+      - Networking
+      required: true
+    - id: 9
+      name: sponsor_budget
+      label: Estimated Sponsorship Budget
+      hint: Currency amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_info_header
+      label: -- Event Specifics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: target_event
+      label: Which specific event are you interested in sponsoring?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: past_sponsor_status
+      label: Have you sponsored our events before?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: partnership_brief_header
+      label: -- Partnership Brief --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: activation_ideas
+      label: Briefly describe how you would like to activate your brand at the event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_meth
+      label: How should our team follow up with you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - In-person Meeting
+      required: true
+    - id: 16
+      name: inq_dt
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true

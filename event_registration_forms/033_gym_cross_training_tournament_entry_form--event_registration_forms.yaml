@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Cross Training Tournament Entry Form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: division
+      label: athlete_division
+      hint: null
+      type: select_one
+      options:
+      - Athlete
+      - Coach
+      - Team
+      required: false
+    - id: 3
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: athlete_phone
+      label: Athlete Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: division_name
+      label: Division Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: checkin_time
+      label: Checkin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Canceled
+      - In Progress
+      required: false
+    - id: 12
+      name: division_status
+      label: Division Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 13
+      name: athlete_status
+      label: Athlete Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 14
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Solo
+      required: false
+    - id: 15
+      name: event_format
+      label: Event Format
+      hint: null
+      type: select_one
+      options:
+      - Round Robin
+      - Single Elimination
+      required: false
+    - id: 16
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: select_one
+      options:
+      - Included
+      - Excluded
+      required: false
+    - id: 17
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      required: false
+    - id: 18
+      name: team_division
+      label: Team Division
+      hint: null
+      type: select_one
+      options:
+      - Men
+      - Women
+      - Mixed
+      required: false
+    - id: 19
+      name: team_status
+      label: Team Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 20
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: event_url
+      label: Event URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: event_type_id
+      label: Event Type ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: event_format_id
+      label: Event Format ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: entry_fee_id
+      label: Entry Fee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: team_size_id
+      label: Team Size ID
+      hint: null
+      type: number
+      options: []
+      required: false

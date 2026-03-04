@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Check Out Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question1
+      label: How likely are you to return?
+      hint: null
+      type: select_multiple
+      options:
+      - Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 9
+      name: question2
+      label: How likely do you feel about returning to this event location?
+      hint: null
+      type: select_one
+      options:
+      - Likely
+      - Somewhat Likely
+      - Not Likely
+      - Not Applicable
+      required: false

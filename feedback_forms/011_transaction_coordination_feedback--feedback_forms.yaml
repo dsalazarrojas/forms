@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Coordination Feedback
+    pages:
+    - id: 1
+      name: transaction_coordination_feedback
+      label: Transaction Coordination Feedback
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: transaction_status_what_happened
+      label: What Happened
+      hint: Please describe what happened next
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: agent_feedback
+      label: Agent Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agent_satisfaction
+      label: Agent Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transaction_agent_communication
+      label: Transaction Agent Communication
+      hint: How would you rate the communication with the transaction agent?
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      required: false
+    - id: 10
+      name: transaction_agent_availability
+      label: Transaction Agent Availability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Bad
+      - Poor
+      required: false

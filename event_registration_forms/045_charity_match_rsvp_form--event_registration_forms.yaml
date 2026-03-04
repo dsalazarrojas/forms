@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Match RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or group
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Which match event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When held
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rsvp_status
+      label: Will You Attend
+      hint: Your response
+      type: select_one
+      options:
+      - Yes I will attend
+      - No I cannot attend
+      - Maybe pending confirmation
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_names
+      label: Guest Names
+      hint: List all attendees
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seating_preference
+      label: Seating Preference
+      hint: Table request
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Restrictions or allergies
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 13
+      name: donation_interest
+      label: Interested in Making a Donation
+      hint: Support the cause
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - false
+      required: true
+    - id: 14
+      name: donation_amount
+      label: Donation Amount
+      hint: If donating
+      type: select_one
+      options:
+      - No donation
+      - $50
+      - $100
+      - $250
+      - $500
+      - Other amount
+      required: false
+    - id: 15
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Help at event
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: Marketing source
+      type: select_one
+      options:
+      - Email invitation
+      - Social media
+      - Website
+      - Friend or colleague
+      - Print media
+      - Other
+      required: false
+    - id: 18
+      name: rsvp_deadline
+      label: Do You Understand RSVP Deadline
+      hint: Response due date
+      type: select_one
+      options:
+      - Yes I understand
+      - No need clarification
+      required: true

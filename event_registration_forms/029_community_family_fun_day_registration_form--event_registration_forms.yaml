@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Family Fun Day Registration Form
+    pages:
+    - id: 1
+      name: parent_first_name
+      label: Parent First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_last_name
+      label: Parent Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: family_size
+      label: Family Size
+      hint: Total number attending
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: children_names_ages
+      label: Children Names and Ages
+      hint: List all children attending with ages
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Which date will you attend?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: activities_interest
+      label: Activities of Interest
+      hint: Select activities your family enjoys
+      type: select_multiple
+      options:
+      - Face Painting
+      - Bounce Houses
+      - Petting Zoo
+      - Arts and Crafts
+      - Games and Contests
+      - Live Entertainment
+      - Sports Activities
+      - Storytelling
+      required: true
+    - id: 11
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to help at the event?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: volunteer_role
+      label: Preferred Volunteer Role
+      hint: How can you help?
+      type: select_one
+      options:
+      - Setup Crew
+      - Activity Station
+      - Cleanup Crew
+      - First Aid
+      - Registration
+      - Not Applicable
+      required: false
+    - id: 13
+      name: t_shirt_sizes
+      label: T-Shirt Sizes Needed
+      hint: List sizes and quantities
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or restrictions?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need a ride?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: Allow photos for promotional use
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 20
+      name: waiver_agreement
+      label: Liability Waiver
+      hint: I agree to the liability waiver
+      type: select_one
+      options:
+      - Yes, I Agree
+      - Other
+      required: true

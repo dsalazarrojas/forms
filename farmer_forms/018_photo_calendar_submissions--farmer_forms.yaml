@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_calendar_submissions
+    pages:
+    - id: 1
+      name: upload_field
+      label: Upload a photo
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: photo_description
+      label: Describe your photo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_info
+      label: Your submission information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: submitter_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: submitter_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter
+      label: Submitter
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitter_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photo_upload
+      label: Photo upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_agreed
+      label: Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

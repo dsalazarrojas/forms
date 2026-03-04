@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: soil_sample_information_form
+    pages:
+    - id: 1
+      name: soil_sample_info
+      label: soil_sample_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sample_location
+      label: Sample Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_comments
+      label: sample_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: lab_test_info
+      label: Lab Test Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lab_test_results
+      label: Lab Test Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: soil_characteristics
+      label: Soil Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lab_test_request
+      label: Lab Test Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: lab_test_frequency
+      label: Lab Test Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lab_test_request_reason
+      label: Lab Test Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lab_test_result_comments
+      label: Lab Test Result Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lab_sample_received
+      label: Lab Sample Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: lab_sample_sent
+      label: Lab Sample Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lab_test_cost
+      label: Lab Test Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lab_test_status
+      label: Lab Test Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: farmer_comments
+      label: Farmer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: soil_type
+      label: Soil Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: sample_weight
+      label: Sample Weight
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: sample_weight_unit
+      label: Sample Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: sample_container
+      label: Sample Container
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: sample_container_id
+      label: Sample Container ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lab_contact
+      label: Lab Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lab_test_requesting_physician
+      label: Lab Test Requesting Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lab_test_requesting_physician_email
+      label: Lab Test Requesting Physician E-mail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lab_test_requesting_physician_phone
+      label: Lab Test Requesting Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false

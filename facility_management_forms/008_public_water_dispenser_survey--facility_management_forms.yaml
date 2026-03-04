@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Water Dispenser Survey
+    pages:
+    - id: 1
+      name: water_dispenser_survey_1
+      label: Public Water Dispenser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: water_dispenser_survey_2
+      label: How would you rate this water dispenser's cleanliness?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: water_dispenser_survey_3
+      label: How would you rate this water dispenser's maintenance status?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: water_dispenser_survey_4
+      label: How would you rate this water dispenser's accessibility?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: water_dispenser_survey_5
+      label: Water temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: water_dispenser_survey_6
+      label: Is water temperature suitable for drinking?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: water_dispenser_survey_7
+      label: What type of water is this dispenser providing?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Drinking water''}'
+      - '{''label'': ''Non-potable water''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: water_dispenser_survey_8
+      label: Would you like to report a maintenance request for this water dispenser?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: water_dispenser_survey_9
+      label: What issue do you report for this water dispenser?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: water_dispenser_survey_10
+      label: water dispenser survey 10
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: water_dispenser_survey_11
+      label: How long did you have to wait for the water dispenser?
+      hint: null
+      type: time
+      options: []
+      required: false

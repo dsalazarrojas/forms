@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Seminar Billing Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Cancelled
+      required: false
+    - id: 8
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Waiting List
+      - No Show
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

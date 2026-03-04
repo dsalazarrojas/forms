@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Partner Exit Notice Request Form
+    pages:
+    - id: 1
+      name: retail_partner_exit_notice_request_form
+      label: Retail Partner Exit Notice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: retail_partner_name
+      label: Retail Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exit_reason
+      label: Exit Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: retail_partner_contact
+      label: Retail Partner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: retail_partner_email
+      label: Retail Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: retail_partner_phone
+      label: Retail Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_exit
+      label: Date of Exit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: last_date_of_service
+      label: Last Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_dispute
+      label: Reason for Dispute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: partner_status
+      label: Partner Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: retail_partner_id
+      label: Retail Partner ID
+      hint: null
+      type: text
+      options: []
+      required: false

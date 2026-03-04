@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Additive Manufacturing Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_header
+      label: -- Additive Manufacturing Knowledge Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Valid email for quiz results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_role
+      label: Role/Position
+      hint: Your role in additive manufacturing
+      type: select_one
+      options: ["Engineer", "Designer", "Technician", "Student", "Manager", "Researcher", "Other"]
+      required: false
+    - id: 5
+      name: experience_level
+      label: Experience Level in Additive Manufacturing
+      hint: How experienced are you in this field?
+      type: select_one
+      options: ["Beginner", "Intermediate", "Advanced", "Expert"]
+      required: true
+    - id: 6
+      name: question_1_materials
+      label: Which of the following is NOT a common material used in FDM 3D printing?
+      hint: Select the incorrect option
+      type: select_one
+      options: ["PLA", "ABS", "Nylon", "Concrete"]
+      required: true
+    - id: 7
+      name: question_2_process
+      label: "SLS stands for:"
+      hint: Select the correct definition
+      type: select_one
+      options: ["Selective Laser Sintering", "Solid Layer Stereolithography", "Surface Laser Slicing", "Sequential Layer Synthesis"]
+      required: true
+    - id: 8
+      name: question_3_resolution
+      label: What does layer resolution refer to in 3D printing?
+      hint: Choose the best definition
+      type: select_one
+      options: ["The detail level of each printed layer", "The speed of printing", "The color accuracy", "The temperature control"]
+      required: true
+    - id: 9
+      name: question_4_post_processing
+      label: Which post-processing technique is commonly used for SLA prints?
+      hint: Select the appropriate technique
+      type: select_one
+      options: ["Sanding", "Curing", "Painting", "All of the above"]
+      required: true
+    - id: 10
+      name: question_5_advantages
+      label: What is a major advantage of additive manufacturing over traditional manufacturing?
+      hint: Select the best advantage
+      type: select_one
+      options: ["Lower cost for mass production", "Ability to create complex geometries", "Faster production times", "Better surface finish"]
+      required: true
+    - id: 11
+      name: question_6_technology
+      label: Which additive manufacturing technology uses powder bed fusion?
+      hint: Select all applicable technologies
+      type: select_multiple
+      options: ["SLS", "SLM", "EBM", "FDM"]
+      required: true
+    - id: 12
+      name: question_7_design
+      label: What is a key design consideration for 3D printing?
+      hint: Choose the most important consideration
+      type: select_one
+      options: ["Overhang angles", "Color selection", "Brand compatibility", "Printer location"]
+      required: true
+    - id: 13
+      name: question_8_accuracy
+      label: What factors affect the accuracy of 3D printed parts?
+      hint: Select all that apply
+      type: select_multiple
+      options: ["Layer thickness", "Machine calibration", "Material properties", "Environmental conditions"]
+      required: true
+    - id: 14
+      name: question_9_industries
+      label: Which industries commonly use additive manufacturing?
+      hint: Select all applicable industries
+      type: select_multiple
+      options: ["Aerospace", "Medical", "Automotive", "Consumer products"]
+      required: true
+    - id: 15
+      name: question_10_limitations
+      label: What is a limitation of current additive manufacturing technology?
+      hint: Select the most accurate limitation
+      type: select_one
+      options: ["Limited material options", "High speed of production", "Low precision", "Excessive strength"]
+      required: true
+    - id: 16
+      name: question_11_cost_factors
+      label: Which factor significantly impacts the cost of 3D printing?
+      hint: Select the most impactful factor
+      type: select_one
+      options: ["Part complexity", "Color of material", "Brand of printer", "Operator experience"]
+      required: true
+    - id: 17
+      name: question_12_support_structures
+      label: What are support structures in 3D printing?
+      hint: Choose the correct definition
+      type: select_one
+      options: ["Temporary structures to support overhangs", "Permanent fixtures for strength", "Calibration tools", "Safety equipment"]
+      required: true
+    - id: 18
+      name: question_13_material_properties
+      label: What property is important for biocompatible 3D printing materials?
+      hint: Select the most relevant property
+      type: select_one
+      options: ["Biocompatibility", "Color stability", "Print speed", "Surface texture"]
+      required: true
+    - id: 19
+      name: question_14_quality_control
+      label: How is quality typically controlled in additive manufacturing?
+      hint: Select the appropriate method
+      type: select_one
+      options: ["Post-process inspection", "Real-time monitoring", "Material certification", "All of the above"]
+      required: true
+    - id: 20
+      name: question_15_future_trends
+      label: What is considered a future trend in additive manufacturing?
+      hint: Select the most promising trend
+      type: select_one
+      options: ["Larger scale production", "Reduced material variety", "Slower processes", "Decreased precision"]
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional thoughts about additive manufacturing
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quiz_completion_date
+      label: Quiz Completion Date
+      hint: Date when the quiz was completed
+      type: date
+      options: []
+      required: true

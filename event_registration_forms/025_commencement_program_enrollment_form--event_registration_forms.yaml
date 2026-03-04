@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commencement Program Enrollment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Legal name for program records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: University identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_program_selection
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: Program Type
+      hint: Select your commencement program
+      type: select_one
+      options:
+      - Undergraduate Commencement
+      - Graduate Commencement
+      - Doctoral Commencement
+      - Professional Studies
+      - Online Programs
+      - Combined Ceremony
+      required: true
+    - id: 7
+      name: enrollment_term
+      label: Enrollment Term
+      hint: Term you are completing
+      type: select_one
+      options:
+      - Spring 2026
+      - Summer 2026
+      - Fall 2026
+      - Spring 2027
+      required: true
+    - id: 8
+      name: section_header_academic_details
+      label: -- Academic Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: college_school
+      label: College/School
+      hint: Your academic college
+      type: select_one
+      options:
+      - Arts and Sciences
+      - Business
+      - Engineering
+      - Education
+      - Health Sciences
+      - Law
+      - Medicine
+      - Other
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: Your academic department
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: degree_type
+      label: Degree Type
+      hint: Type of degree
+      type: select_one
+      options:
+      - Bachelor of Arts
+      - Bachelor of Science
+      - Master of Arts
+      - Master of Science
+      - Doctor of Philosophy
+      - Doctor of Medicine
+      - Juris Doctor
+      - Other
+      required: true
+    - id: 12
+      name: major
+      label: Major
+      hint: Primary field of study
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: minor
+      label: Minor
+      hint: Secondary field if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gpa
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_header_ceremony_preferences
+      label: -- Ceremony Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ceremony_date_preference
+      label: Ceremony Date Preference
+      hint: Preferred ceremony date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: ceremony_time_preference
+      label: Ceremony Time Preference
+      hint: Preferred time of day
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - No Preference
+      required: true
+    - id: 18
+      name: regalia_size
+      label: Regalia Size
+      hint: Cap and gown size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 19
+      name: section_header_guest_information
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: How many guests will attend
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: vip_guests
+      label: VIP Guests
+      hint: Any special guests requiring accommodation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Accommodations for you or guests
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: email_notifications
+      label: Email Notifications
+      hint: Receive ceremony updates via email
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: true
+    - id: 25
+      name: sms_notifications
+      label: SMS Notifications
+      hint: Receive text message updates
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: true
+    - id: 26
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: honors_cord_eligibility
+      label: Honors Cord Eligibility
+      hint: Are you eligible for honors cords
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 28
+      name: special_recognition
+      label: Special Recognition
+      hint: Any awards or recognition to note
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For reception if applicable
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Other
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

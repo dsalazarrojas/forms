@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reconciliation Tool Registration
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_info
+      label: Expense Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_registration
+      label: Date Of Registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: registered_by
+      label: Registered By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_reimbursement_policy
+      label: Expense Reimbursement Policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tax_rate_value
+      label: Tax Rate Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: currency_code
+      label: Currency Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: expense_reimbursement_amount
+      label: Expense Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: expense_reimbursement_status
+      label: Expense Reimbursement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

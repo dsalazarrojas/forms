@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Conference Keynote Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_info
+      label: Sponsor Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_position
+      label: Contact Position
+      hint: Your title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_description
+      label: Company Description
+      hint: Brief description of your business
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: conference_info
+      label: Conference Information
+      hint: About the event
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: conference_name
+      label: Conference Name
+      hint: Name of the conference
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conference_date
+      label: Conference Date
+      hint: When is the conference
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: conference_location
+      label: Conference Location
+      hint: Where is it held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_attendees
+      label: Expected Attendees
+      hint: Number of participants
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sponsorship_package
+      label: Sponsorship Package
+      hint: Choose your package
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: package_selection
+      label: Package Selection
+      hint: Which sponsorship level
+      type: select_one
+      options:
+      - Platinum Keynote Sponsor
+      - Gold Keynote Sponsor
+      - Silver Keynote Sponsor
+      - Bronze Keynote Sponsor
+      - Custom Package
+      required: true
+    - id: 16
+      name: keynote_slot_preference
+      label: Keynote Slot Preference
+      hint: When do you want to speak
+      type: select_one
+      options:
+      - Opening Keynote - Day 1
+      - Closing Keynote - Day 1
+      - Opening Keynote - Day 2
+      - Closing Keynote - Day 2
+      - Any Slot
+      required: true
+    - id: 17
+      name: speaker_info
+      label: Speaker Information
+      hint: Who will present
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: speaker_name
+      label: Speaker Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: speaker_title
+      label: Speaker Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: speaker_bio
+      label: Speaker Bio
+      hint: Brief biography
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: keynote_topic
+      label: Keynote Topic
+      hint: Proposed topic or title
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: keynote_description
+      label: Keynote Description
+      hint: Brief description of presentation
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: av_requirements
+      label: AV Requirements
+      hint: Technical needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sponsorship_benefits
+      label: Sponsorship Benefits
+      hint: What benefits do you want
+      type: select_multiple
+      options:
+      - Logo on Conference Materials
+      - Booth Space
+      - Attendee List Access
+      - Social Media Promotion
+      - Press Release Mention
+      - VIP Networking Access
+      - Workshop Session
+      - Panel Participation
+      required: true
+    - id: 25
+      name: marketing_materials
+      label: Marketing Materials
+      hint: Will you provide materials
+      type: select_one
+      options:
+      - Yes - Ready
+      - Yes - In Progress
+      - Need Assistance
+      - false
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Invoice
+      required: true
+    - id: 27
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false

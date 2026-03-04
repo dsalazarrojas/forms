@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hire Boat Agreement Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: boat_number
+      label: Boat Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rental_rate
+      label: Rental Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Boat is available
+      - Boat is not available
+      - Boat is on maintenance
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agreement_number
+      label: Agreement Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 17
+      name: boat_type
+      label: Boat Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 19
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate
+      - Birthday
+      - Other
+      required: true
+    - id: 24
+      name: rental_start
+      label: Rental Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: rental_end
+      label: Rental End
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Honey Harvest Data Collection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farm_details
+      label: Farm Details
+      hint: Enter farm details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: honey_details
+      label: Honey Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clover''}'
+      - '{''id'': 2, ''label'': ''Wild''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: Additional notes about the harvest
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Date of harvest
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: Time of day
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: farm_id
+      label: Farm ID
+      hint: Your farm ID number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

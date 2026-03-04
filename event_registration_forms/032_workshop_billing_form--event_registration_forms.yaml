@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Billing Form
+    pages:
+    - id: 1
+      name: workshop_billing_form_participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_job_title
+      label: Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: billing_total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: billing_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 11
+      name: billing_additional_fees
+      label: Additional Fees
+      hint: null
+      type: number
+      options: []
+      required: false

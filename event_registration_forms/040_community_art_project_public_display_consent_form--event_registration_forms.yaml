@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Art Project Public Display Consent Form
+    pages:
+    - id: 1
+      name: consent_information
+      label: Consent Information
+      hint: Details about the public display consent
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: Consent Date
+      hint: Date of this consent form
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: consent_id
+      label: Consent ID
+      hint: Unique consent reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_information
+      label: Artist Information
+      hint: Details about the artist or creator
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: artist_name
+      label: Artist Name
+      hint: Full name of the artist or creator
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: artist_email
+      label: Artist Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: artist_phone
+      label: Artist Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artist_address
+      label: Artist Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_name
+      label: Organization Name
+      hint: Name of representing organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artwork_information
+      label: Artwork Information
+      hint: Details about the artwork
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: artwork_title
+      label: Artwork Title
+      hint: Title or name of the artwork
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_description
+      label: Artwork Description
+      hint: Brief description of the artwork
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artwork_type
+      label: Artwork Type
+      hint: What type of artwork is this
+      type: select_one
+      options:
+      - Painting
+      - Mural
+      - Sculpture
+      - Installation
+      - Digital Art
+      - Photography
+      - Mixed Media
+      - Performance Art
+      - Other
+      required: true
+    - id: 14
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Size of the artwork
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: creation_date
+      label: Creation Date
+      hint: When was the artwork created
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: display_information
+      label: Display Information
+      hint: Details about the public display
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: display_location
+      label: Display Location
+      hint: Where will the artwork be displayed
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: display_address
+      label: Display Address
+      hint: Full address of display location
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: display_start_date
+      label: Display Start Date
+      hint: When will display begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: display_end_date
+      label: Display End Date
+      hint: When will display end
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: display_type
+      label: Display Type
+      hint: What type of display is this
+      type: select_one
+      options:
+      - Temporary Exhibition
+      - Permanent Installation
+      - Rotating Display
+      - Festival or Event
+      - Public Space Installation
+      - Gallery Exhibition
+      - Outdoor Display
+      required: true
+    - id: 22
+      name: usage_rights
+      label: Usage Rights
+      hint: What rights are being granted
+      type: select_multiple
+      options:
+      - Display Rights
+      - Photography Rights
+      - Reproduction for Promotion
+      - Social Media Use
+      - Press and Media Use
+      - Merchandise Rights
+      - Digital Archive
+      required: true
+    - id: 23
+      name: compensation
+      label: Compensation
+      hint: Is there compensation for this display
+      type: select_one
+      options:
+      - Yes - Fee Payment
+      - Yes - Revenue Share
+      - Yes - Trade or Exchange
+      - No - Volunteer Display
+      - No - Artist Funded
+      required: true
+    - id: 24
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Amount of compensation in USD
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Will the artwork be insured
+      type: select_one
+      options:
+      - Yes - Organizer Insured
+      - Yes - Artist Insured
+      - No Insurance
+      - Not Sure
+      required: true
+    - id: 26
+      name: maintenance_responsibility
+      label: Maintenance Responsibility
+      hint: Who is responsible for maintenance
+      type: select_one
+      options:
+      - Organizer
+      - Artist
+      - Shared Responsibility
+      - Third Party
+      required: true
+    - id: 27
+      name: consent_declaration
+      label: Consent Declaration
+      hint: Do you consent to the public display
+      type: select_one
+      options:
+      - Yes - I Fully Consent
+      - Yes - With Conditions
+      - No - I Do Not Consent
+      required: true
+    - id: 28
+      name: conditions
+      label: Conditions
+      hint: Any conditions for your consent
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_terms
+      label: Additional Terms
+      hint: Any additional terms or agreements
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: I confirm I have read and agree to these terms
+      type: select_one
+      options:
+      - Yes - I Confirm
+      - 'No'
+      required: true

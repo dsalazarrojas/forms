@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Press Table Allocation Request Form
+    pages:
+    - id: 1
+      name: press_table_allocation_request_form
+      label: Press Table Allocation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Event Name
+      hint: The name of the event
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - Press Kit
+      - Press Kit with Photo Op
+      - Press Kit with Video prophets
+      required: false
+    - id: 4
+      name: media_quantity
+      label: Quantity of Media
+      hint: The quantity of prophets expected
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: table_number
+      label: Table Number
+      hint: The number of the table allocated
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: seating_requirements
+      label: Seating Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: A valid email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: A valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: The company associated with the media
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: The date of the event
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_start_time
+      label: Event Start Time
+      hint: The start time of the event
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_end_time
+      label: Event End Time
+      hint: The end time of the event
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_venue
+      label: Event Venue
+      hint: The venue of the event
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Seminar
+      - Workshop
+      required: false
+    - id: 17
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Private
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: event_description
+      label: Event Description
+      hint: A brief description of the event
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: event_status_note
+      label: Event Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: table_allocation_status
+      label: Table Allocation Status
+      hint: prophets allocation status
+      type: select_multiple
+      options:
+      - Allocated
+      - Unallocated
+      - Preliminary Approved
+      - Approved
+      - Rejected
+      required: false
+    - id: 24
+      name: allocation_note
+      label: Allocation Note
+      hint: null
+      type: note
+      options: []
+      required: false

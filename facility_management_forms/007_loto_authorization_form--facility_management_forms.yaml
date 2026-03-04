@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: LOTO Authorization Form
+    pages:
+    - id: 1
+      name: lockout_date
+      label: Lockout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tagout_date
+      label: Tagout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lockout_status
+      label: Lockout Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 7
+      name: tagout_status
+      label: Tagout Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 8
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_page_2
+      label: Tagout Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

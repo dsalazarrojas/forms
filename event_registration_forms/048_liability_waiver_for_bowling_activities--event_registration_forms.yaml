@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liability Waiver For Bowling Activities
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: Prophets or other personal data
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter 9-digit phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Please enter 9-digit phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_age
+      label: Participant Age
+      hint: Please enter age 5-18
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Friend
+      - Other
+      required: false
+    - id: 8
+      name: waiver_acknowledgement
+      label: Waiver Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - I understand the risks involved in bowling activities
+      - I am willing to participate with full knowledge of the risks involved
+      - I have read and understand the waiver and I am aware of the risks involved
+        in bowling activities
+      required: false
+    - id: 9
+      name: emergency_contact_consent
+      label: Emergency Contact Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Please list any medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: waiver_acknowledgement_2
+      label: Waiver Acknowledgement 2
+      hint: null
+      type: select_one
+      options:
+      - I understand the risks involved in bowling activities
+      - I am willing to participate with full knowledge of the risks involved
+      - I have read and understand the waiver and I am aware of the risks involved
+        in bowling activities
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: Please enter email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false

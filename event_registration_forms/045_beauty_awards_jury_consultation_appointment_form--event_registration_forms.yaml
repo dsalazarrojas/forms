@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Awards Jury Consultation Appointment Form
+    pages:
+    - id: 1
+      name: jury_member_name
+      label: Jury Member Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_title
+      label: Professional Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: expertise_area
+      label: Area of Expertise
+      hint: Your specialty
+      type: select_one
+      options:
+      - Skincare
+      - Makeup
+      - Hair Care
+      - Fragrance
+      - Beauty Technology
+      - Beauty Business
+      - Beauty Media
+      - Other
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Industry Experience
+      hint: How long in beauty
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 11-20 years
+      - Over 20 years
+      required: true
+    - id: 8
+      name: previous_jury_experience
+      label: Previous Jury Experience
+      hint: Have you judged before
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Time
+      required: true
+    - id: 9
+      name: consultation_date
+      label: Preferred Consultation Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consultation_time
+      label: Preferred Time
+      hint: Time slot
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consultation_format
+      label: Consultation Format
+      hint: How to meet
+      type: select_one
+      options:
+      - In-Person
+      - Video Call
+      - Phone Call
+      - No Preference
+      required: true
+    - id: 13
+      name: availability
+      label: General Availability
+      hint: When are you free
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: true
+    - id: 14
+      name: categories_to_judge
+      label: Categories Interested In Judging
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Best Skincare Product
+      - Best Makeup Product
+      - Best Hair Care Product
+      - Best Fragrance
+      - Best New Brand
+      - Best Innovation
+      - Best Sustainable Product
+      - Any Category
+      required: true
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: If in-person event
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_required
+      label: Travel Required
+      hint: Do you need travel info
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

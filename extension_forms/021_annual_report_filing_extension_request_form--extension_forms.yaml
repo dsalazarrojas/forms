@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Report Filing Extension Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Legal Name
+      hint: Official registered name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_id
+      label: Company ID or Registration Number
+      hint: Registration or identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for this request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Person Title
+      hint: Position or role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: filing_jurisdiction
+      label: Filing Jurisdiction
+      hint: State or country of filing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: original_deadline
+      label: Original Filing Deadline
+      hint: Original due date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_fiscal_year
+      label: Current Fiscal Year
+      hint: Fiscal year for report being filed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: report_type
+      label: Type of Annual Report
+      hint: null
+      type: select_one
+      options:
+      - Annual Report - 10-K
+      - Annual Report - Form 20-F
+      - Annual Report - State Filing
+      - Annual Report - Non-profit
+      - Annual Report - Charitable
+      - Other annual filing
+      required: true
+    - id: 11
+      name: requested_extension_days
+      label: Number of Days Extension Requested
+      hint: How many additional days needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: new_proposed_deadline
+      label: New Proposed Deadline
+      hint: Target date for submission
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: primary_reason
+      label: Primary Reason for Extension
+      hint: null
+      type: select_one
+      options:
+      - Delayed audit completion
+      - External audit firm delays
+      - Complex financial transactions
+      - System or data issues
+      - Staff changes or illness
+      - Regulatory inquiry
+      - Natural disaster or emergency
+      - Other unforeseen circumstances
+      required: true
+    - id: 14
+      name: reason_details
+      label: Detailed Explanation
+      hint: Provide specific circumstances
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: prior_extensions
+      label: Have prior extensions been requested
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Yes - 1 extension
+      - Yes - 2 extensions
+      - Yes - 3 or more extensions
+      required: true
+    - id: 16
+      name: audit_status
+      label: Audit Status
+      hint: null
+      type: select_one
+      options:
+      - Not yet started
+      - In progress
+      - Substantially complete
+      - Awaiting final review
+      - Complete
+      - Not applicable
+      required: true
+    - id: 17
+      name: auditor_name
+      label: External Auditor Name
+      hint: Name of audit firm or person
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: auditor_contact
+      label: Auditor Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: financial_close_status
+      label: Financial Close Status
+      hint: How complete is year-end close
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - 75% complete
+      - 90% complete
+      - Complete
+      required: true
+    - id: 20
+      name: expected_completion
+      label: Expected Completion Date
+      hint: When will report be ready
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: hardship_circumstances
+      label: Describe any hardship circumstances
+      hint: Any extreme challenges affecting ability to file
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: compliance_history
+      label: Compliance History
+      hint: null
+      type: select_one
+      options:
+      - Always filed on time
+      - Occasionally requested extensions
+      - Multiple extension requests
+      - Prior late filings
+      required: true
+    - id: 23
+      name: board_approval
+      label: Board approval obtained
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      - Not applicable
+      required: false
+    - id: 24
+      name: supporting_documentation
+      label: Supporting documentation attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will provide separately
+      required: true

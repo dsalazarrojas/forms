@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Screening Slot Booking Form
+    pages:
+    - id: 1
+      name: virtual_screening_slot_booking_form
+      label: Virtual screening slot booking form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_time
+      label: Date and time
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      - 00:00
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      - Undecided
+      required: false
+    - id: 10
+      name: reason_for_decline
+      label: Reason for decline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: confirm_date_time
+      label: Confirm Date and time
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      - 00:00
+      required: false
+    - id: 15
+      name: confirm_notes
+      label: Confirm Notes
+      hint: null
+      type: note
+      options: []
+      required: false

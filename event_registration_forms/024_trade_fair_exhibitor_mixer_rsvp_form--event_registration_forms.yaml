@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Fair Exhibitor Mixer RSVP Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_question
+      label: Do you plan to attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 3
+      name: headcount
+      label: Estimated headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: headcount_hint
+      label: Estimated headcount hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_preference
+      label: Food preference
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten free
+      - Meat
+      required: false
+    - id: 6
+      name: food_questions
+      label: Do you have any food questions or requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Do you have any special requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_note
+      label: Any other notes
+      hint: null
+      type: note
+      options: []
+      required: false

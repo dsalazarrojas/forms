@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Vendor Extension Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Enter Vender Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Vender Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_dates
+      label: Desired Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_slots
+      label: Desired Time Slots
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: vendor_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: music_genres
+      label: Music Genres
+      hint: null
+      type: select_multiple
+      options:
+      - Rock
+      - Pop
+      - Classical
+      - Jazz
+      required: true
+    - id: 7
+      name: vendor_image_url
+      label: Vender Image URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vendor_contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: extension_date
+      label: Extension Date
+      hint: null
+      type: date
+      options: []
+      required: true

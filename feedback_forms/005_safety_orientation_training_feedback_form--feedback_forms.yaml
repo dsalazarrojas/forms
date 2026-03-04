@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Orientation Training Feedback Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_info
+      label: Training Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: first_page_2
+      label: More Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: first_page_3
+      label: Training Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Somewhat Effective
+      - Not Effective
+      required: false
+    - id: 8
+      name: first_page_4
+      label: More Comments
+      hint: null
+      type: text
+      options: []
+      required: false

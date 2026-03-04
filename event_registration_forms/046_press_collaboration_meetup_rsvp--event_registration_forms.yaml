@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Press Collaboration Meetup RSVP
+    pages:
+    - id: 1
+      name: press_collaboration_meetup_details
+      label: press collaboration meetup details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accessibility_needs
+      label: accessibility needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: discussion_topics
+      label: discussion topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: attending_status
+      label: attending status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes, definitely'', ''value'': True}'
+      - '{''label'': ''Maybe'', ''value'': ''maybe''}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: rsvp_date
+      label: rsvp date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_time
+      label: rsvp time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false

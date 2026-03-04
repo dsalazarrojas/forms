@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: crypto_analyst_feedback_form
+    pages:
+    - id: 1
+      name: crypto_analysis_quality
+      label: What was the analysis quality?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: analysis_challenges
+      label: What were the main challenges?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: analyst_tools
+      label: What tools were used?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: analyst_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: analyst_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

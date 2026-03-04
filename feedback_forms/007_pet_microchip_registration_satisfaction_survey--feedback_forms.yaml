@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_micchip_registration_satisfaction_survey
+    pages:
+    - id: 1
+      name: pet_micchip_registration_experience
+      label: pet micchip registration experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: what_would_like_to_improve
+      label: what would you like to improve
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments_and_suggestions
+      label: comments and suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: contact information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: how_was_the_experience
+      label: how was the experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: would_recommend
+      label: would you recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

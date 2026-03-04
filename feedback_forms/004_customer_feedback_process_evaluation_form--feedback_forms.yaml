@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Process Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: service_satisfaction
+      label: Service Satisfaction
+      hint: How satisfied are you with our service?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: How would you rate us?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: Do you have any suggestions for us?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_improvement
+      label: Areas for Improvement
+      hint: What areas can we improve on?
+      type: select_multiple
+      options:
+      - Communication
+      - Speed
+      - Quality
+      - Service
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 16
+      name: follow_up_content
+      label: Follow-up Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_website
+      label: Contact Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Not Done
+      required: false
+    - id: 23
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-up Call
+      - Follow-up Message
+      - Follow-up Email
+      - Escalate to Manager
+      required: false
+    - id: 25
+      name: follow_up_next_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

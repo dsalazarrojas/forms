@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Legal Education Attendance Form
+    pages:
+    - id: 1
+      name: attorney_id_header
+      label: -- Attorney Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attorney_full_name
+      label: Attorney Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: state_bar_number
+      label: State Bar Number
+      hint: Including state prefix (e.g., NY-123456)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: registration_state
+      label: Primary State for CLE Credit
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Florida
+      - Illinois
+      - Other (Specify in Notes)
+      required: true
+    - id: 5
+      name: session_details_header
+      label: -- CLE Session Details --
+      hint: Information about the educational event
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: session_title
+      label: Title of CLE Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_date
+      label: Date of Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_provider_name
+      label: Provider/Organization Name
+      hint: e.g., American Bar Association
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: credit_hours_header
+      label: -- Credit Hour Breakdown --
+      hint: Enter hours as specified by the provider
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_cle_hours
+      label: Total CLE Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: ethics_hours
+      label: Ethics Credit Hours (Included in Total)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: bias_elimination_hours
+      label: Elimination of Bias Hours (Included in Total)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: verification_code_header
+      label: -- Verification --
+      hint: To be completed during or after the session
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: session_verification_code
+      label: Verification Code
+      hint: Provided by the instructor during the presentation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: attorney_attestation
+      label: I certify I attended the entire duration of this session
+      hint: null
+      type: select_one
+      options:
+      - I Certify My Attendance
+      - Other
+      required: true
+    - id: 16
+      name: attendance_signature_date
+      label: Date of Attestation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: digital_signature_attorney
+      label: Attorney Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

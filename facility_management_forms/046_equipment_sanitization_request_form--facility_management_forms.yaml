@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Sanitization Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sanitization_date
+      label: Sanitization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sanitization_frequency
+      label: Sanitization Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - High
+      - Medium
+      required: false
+    - id: 8
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Facilities
+      - IT
+      - Operations
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

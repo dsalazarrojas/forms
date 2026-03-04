@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: legislative_advocacy_planning_appointment_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: meeting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: agenda_item
+      label: agenda_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legislative_officer
+      label: legislative_officer
+      hint: null
+      type: select_one
+      options:
+      - Legislative Director
+      - Legislative Assistant
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

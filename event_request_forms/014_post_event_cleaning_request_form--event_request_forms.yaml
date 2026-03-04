@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Cleaning Request Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: preferred_cleaning_time
+      label: Preferred Cleaning Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_needs
+      label: Service Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Premium''}'
+      - '{''label'': ''Custom''}'
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

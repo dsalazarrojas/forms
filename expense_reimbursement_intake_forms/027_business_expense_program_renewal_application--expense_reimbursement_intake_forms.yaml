@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Program Renewal Application
+    pages:
+    - id: 1
+      name: applicant_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager/Supervisor Name
+      hint: Your direct manager
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cost_center
+      label: Cost Center
+      hint: Cost center code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_section
+      label: -- Current Program Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: program_name
+      label: Current Program Name
+      hint: Name of your expense program
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: enrollment_date
+      label: Program Enrollment Date
+      hint: When did you enroll?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: expiration_date
+      label: Current Expiration Date
+      hint: When does current program expire?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: program_usage_section
+      label: -- Program Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: annual_spend
+      label: Annual Expenses Submitted
+      hint: Estimated annual expense amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: reimbursements_received
+      label: Total Reimbursements Received
+      hint: Total amount reimbursed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: program_satisfaction
+      label: Satisfaction with current program
+      hint: How satisfied are you?
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 18
+      name: renewal_section
+      label: -- Renewal Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: renewal_duration
+      label: Requested Renewal Duration
+      hint: How long should renewal be for?
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      required: true
+    - id: 20
+      name: expected_annual_spend
+      label: Expected Annual Expenses (Renewed Period)
+      hint: Anticipated yearly expenses
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: program_changes
+      label: Requested changes to program
+      hint: What improvements do you need?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_info_section
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      label: Suggestions for program improvement
+      hint: How can the program be better?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: compliance_confirmation
+      label: I confirm program usage complies with policy
+      hint: Confirm policy compliance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: approval_ready
+      label: Ready for manager approval
+      hint: Have you discussed with your manager?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

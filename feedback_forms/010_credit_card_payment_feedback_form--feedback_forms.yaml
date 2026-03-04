@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Payment Feedback Form
+    pages:
+    - id: 1
+      name: transaction_id
+      label: Payment Transaction ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: false
+    - id: 6
+      name: payment_location
+      label: Payment Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Physical Store
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

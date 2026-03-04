@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Campus Facility Inquiry Form
+    pages:
+    - id: 1
+      name: campus_name
+      label: campus_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General''}'
+      - '{''label'': ''Classroom''}'
+      - '{''label'': ''Administrative''}'
+      - '{''label'': ''Library''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_condition
+      label: facility_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: facility_issue
+      label: facility_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: Briefly describe the issue or concern
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

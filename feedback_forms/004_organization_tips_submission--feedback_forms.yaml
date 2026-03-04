@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organization Tips Submission
+    pages:
+    - id: 1
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_description
+      label: team_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_location
+      label: team_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_ideas
+      label: team_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_file
+      label: supporting_file
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_file
+      label: uploaded_file
+      hint: null
+      type: text
+      options: []
+      required: false

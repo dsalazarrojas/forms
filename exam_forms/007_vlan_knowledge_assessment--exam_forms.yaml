@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: vlan_knowledge_assessment
+    pages:
+    - id: 1
+      name: vlan_config
+      label: vlan_config
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: network_interfaces
+      label: network_interfaces
+      hint: null
+      type: select_one
+      options:
+      - interface
+      - switch
+      - router
+      required: false
+    - id: 3
+      name: cable_connections
+      label: cable_connections
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vlan_id
+      label: vlan_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: vlan_name
+      label: vlan_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vlan_description
+      label: vlan_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vlan_status
+      label: vlan_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 8
+      name: vlan_priority
+      label: vlan_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vlan_comments
+      label: vlan_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vlan_solutions
+      label: vlan_solutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

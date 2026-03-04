@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Training Feedback Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: workshop_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question1
+      label: Feedback Question 1
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Urgent
+      required: false
+    - id: 4
+      name: feedback_question2
+      label: Feedback Question 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_question3
+      label: Feedback Question 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: workshop_date
+      label: Workshop Date
+      hint: Please use YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: trainer_rating
+      label: Trainer Rating
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: attended_workshop
+      label: Attended Workshop
+      hint: Did you attend the workshop?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attended_workshop_other
+      label: Other
+      hint: If No, please specify
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: 10 digit phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit_date
+      label: Submit Date
+      hint: "24 hour time in HH:MM format"
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: workshop_hours
+      label: Workshop Hours
+      hint: 1-24 hours
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: attendees_gender
+      label: Attendees Gender
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 17
+      name: attendees_age_range
+      label: Attendees Age Range
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false

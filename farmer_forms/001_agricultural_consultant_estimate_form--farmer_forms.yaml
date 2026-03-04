@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Consultant Estimate Form
+    pages:
+    - id: 1
+      name: consultant_name
+      label: Consultant Name
+      hint: Full name of the agricultural consultant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_company
+      label: Consulting Company
+      hint: Name of your consulting firm or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: Farm owner or client name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: farm_location
+      label: Farm Location
+      hint: Address or location of the farm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consultation_date
+      label: Consultation Date
+      hint: Date of the consultation visit
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: farm_size
+      label: Farm Size (acres)
+      hint: Total acreage of the farm
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: crop_type
+      label: Primary Crop Type
+      hint: Main crop being consulted on
+      type: select_one
+      options:
+      - Corn
+      - Wheat
+      - Soybeans
+      - Rice
+      - Cotton
+      - Vegetables
+      - Fruits
+      - Other
+      required: true
+    - id: 8
+      name: services_required
+      label: Services Required
+      hint: Select all consulting services needed
+      type: select_multiple
+      options:
+      - Soil Analysis
+      - Crop Planning
+      - Pest Management
+      - Irrigation Consulting
+      - Organic Certification
+      - Financial Planning
+      - Equipment Recommendations
+      - Market Analysis
+      required: true
+    - id: 9
+      name: current_challenges
+      label: Current Farm Challenges
+      hint: Describe the main challenges you are facing
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: estimated_hours
+      label: Estimated Hours Required
+      hint: Expected hours of consulting work
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hourly_rate
+      label: Hourly Rate (USD)
+      hint: Consultant hourly rate
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_estimate
+      label: Total Estimate (USD)
+      hint: Total estimated cost for services
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: Agreed payment terms
+      type: select_one
+      options:
+      - Due on receipt
+      - Net 15
+      - Net 30
+      - 50% upfront, 50% on completion
+      - Custom terms
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information or special conditions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consultant_signature
+      label: Consultant Signature
+      hint: Digital signature of consultant
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_signature
+      label: Client Signature
+      hint: Digital signature of client
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: estimate_valid_until
+      label: Estimate Valid Until
+      hint: Date until which this estimate is valid
+      type: date
+      options: []
+      required: true

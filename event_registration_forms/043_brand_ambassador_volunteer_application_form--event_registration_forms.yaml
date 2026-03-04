@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Ambassador Volunteer Application Form
+    pages:
+    - id: 1
+      name: section_header_volunteer
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_header_location
+      label: -- Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_zip
+      label: State and ZIP Code
+      hint: State and postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_volunteer_info
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_interest
+      label: What Interests You About This Volunteer Role
+      hint: Why you want to volunteer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Have you volunteered before
+      type: select_one
+      options:
+      - Extensive volunteer background
+      - Some volunteer experience
+      - Limited volunteer experience
+      - First time volunteering
+      required: true
+    - id: 12
+      name: volunteer_hours
+      label: Hours Available to Volunteer Per Week
+      hint: How much time you can commit
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: start_date
+      label: Preferred Start Date
+      hint: When you can begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: commitment_length
+      label: Length of Commitment
+      hint: How long can you commit
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 1 year
+      - Open-ended
+      - Flexible
+      required: true
+    - id: 16
+      name: section_header_skills
+      label: -- Skills and Strengths --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: relevant_skills
+      label: Relevant Skills and Strengths
+      hint: What skills will help you excel
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: language_skills
+      label: Language Skills
+      hint: Languages you can speak
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_commitment
+      label: -- Commitment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_commitment
+      label: I commit to representing the brand professionally
+      hint: Check to confirm commitment
+      type: select_one
+      options:
+      - I fully commit
+      - I need more information
+      - I do not commit
+      required: true
+    - id: 21
+      name: application_submit
+      label: I submit this volunteer application
+      hint: Check to apply
+      type: select_one
+      options:
+      - Submit application
+      - Save as draft
+      - Cancel
+      required: true

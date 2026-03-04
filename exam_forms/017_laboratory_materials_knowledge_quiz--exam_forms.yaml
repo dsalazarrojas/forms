@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Materials Knowledge Quiz
+    pages:
+    - id: 1
+      name: lab_materials_quiz
+      label: Laboratory Materials Knowledge Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Section 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_2
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_3
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: What is your phone?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_2
+      label: Section 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_5
+      label: What is your favorite color?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 9
+      name: question_6
+      label: What is your age group?
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 10
+      name: question_7
+      label: What is your date of birth?
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: question_8
+      label: What time is it?
+      hint: 12h
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: question_9
+      label: How many hours do you spend in lab?
+      hint: null
+      type: number
+      options: []
+      required: false

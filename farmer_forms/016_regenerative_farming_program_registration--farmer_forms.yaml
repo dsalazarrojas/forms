@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: regenerative_farming_program_registration
+    pages:
+    - id: 1
+      name: program_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farmer_name
+      label: Farmer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_details
+      label: Farm Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - 0-5 years
+      - 6-15 years
+      - More than 15 years
+      required: false
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Soil
+      - Crop
+      - Animal
+      - Integrated
+      required: false
+    - id: 6
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 acres
+      - 5-10 acres
+      - More than 10 acres
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: farmer@example.com
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_partner_appreciation_event_rsvp_form
+    pages:
+    - id: 1
+      name: travel_partner_appreciation_event_rsvp_form_page_1
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

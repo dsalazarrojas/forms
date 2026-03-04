@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grant Application Check In Form
+    pages:
+    - id: 1
+      name: grant_application_check_in_form_1
+      label: Grant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grant_application_check_in_form_2
+      label: Applicant Information
+      hint: null
+      type: select_one
+      options:
+      - Name
+      - Address
+      - Phone
+      required: false
+    - id: 3
+      name: grant_application_check_in_form_3
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: grant_application_check_in_form_4
+      label: Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 5
+      name: grant_application_check_in_form_5
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Grant
+      - Fellowship
+      - Award
+      required: false
+    - id: 6
+      name: grant_application_check_in_form_6
+      label: Grant Award Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: grant_application_check_in_form_7
+      label: Grant Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 8
+      name: grant_application_check_in_form_8
+      label: Grant Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: grant_application_check_in_form_9
+      label: Grant Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: grant_application_check_in_form_10
+      label: Grant Time
+      hint: null
+      type: time
+      options: []
+      required: false

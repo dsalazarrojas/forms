@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Delivery Simulation Feedback Form
+    pages:
+      - id: 1
+        name: feedback_header
+        label: Simulation Feedback Form
+        hint: Please provide honest feedback about the cargo delivery simulation
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Optional - for follow-up purposes
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Email Address
+        hint: For receiving simulation results
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: simulation_date
+        label: Simulation Date
+        hint: When did you complete the simulation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: simulation_type
+        label: Type of Simulation Completed
+        hint: Select the scenario you experienced
+        type: select_one
+        options:
+          - Urban delivery scenario
+          - Rural delivery scenario
+          - Emergency delivery scenario
+          - Multi-stop route
+          - Hazardous materials handling
+          - Temperature-controlled delivery
+          - Oversized cargo delivery
+        required: true
+      - id: 6
+        name: overall_experience
+        label: Overall Simulation Experience
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: realism_rating
+        label: How realistic was the simulation
+        hint: Compared to real-world scenarios
+        type: select_one
+        options:
+          - Very realistic
+          - Mostly realistic
+          - Somewhat realistic
+          - Slightly realistic
+          - Not realistic at all
+        required: true
+      - id: 8
+        name: learning_objectives
+        label: Learning Objectives Assessment
+        hint: Rate each aspect
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: objectives_clarity
+        label: Were the learning objectives clear
+        hint: Understanding of goals
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 10
+        name: objectives_met
+        label: Were the learning objectives achieved
+        hint: Goal completion assessment
+        type: select_one
+        options:
+          - Completely achieved
+          - Mostly achieved
+          - Partially achieved
+          - Minimally achieved
+          - Not achieved
+        required: true
+      - id: 11
+        name: simulation_components
+        label: Simulation Components Rating
+        hint: Rate each component
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: scenario_design
+        label: Scenario Design Quality
+        hint: How well was the scenario structured
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: instructions_clarity
+        label: Clarity of Instructions
+        hint: Were directions easy to follow
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 14
+        name: difficulty_level
+        label: Difficulty Level
+        hint: How challenging was the simulation
+        type: select_one
+        options:
+          - Too easy
+          - Appropriately easy
+          - Just right
+          - Appropriately challenging
+          - Too difficult
+        required: true
+      - id: 15
+        name: time_allocation
+        label: Was the time allocation appropriate
+        hint: Time to complete simulation
+        type: select_one
+        options:
+          - Too much time
+          - Adequate time
+          - Slightly rushed
+          - Very rushed
+          - Insufficient time
+        required: true
+      - id: 16
+        name: skills_practiced
+        label: Which skills did you practice
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Route planning
+          - Time management
+          - Cargo handling
+          - Customer communication
+          - Problem solving
+          - Safety procedures
+          - Documentation
+          - Equipment operation
+        required: true
+      - id: 17
+        name: confidence_level
+        label: How confident do you feel applying what you learned
+        hint: Confidence in real-world application
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Slightly confident
+          - Not confident
+        required: true
+      - id: 18
+        name: technical_issues
+        label: Did you experience any technical issues
+        hint: Problems during simulation
+        type: select_one
+        options:
+          - No issues
+          - Minor issues - resolved quickly
+          - Moderate issues - some disruption
+          - Major issues - significant disruption
+          - Critical issues - could not complete
+        required: true
+      - id: 19
+        name: issue_description
+        label: Describe Any Technical Issues
+        hint: Provide details if issues occurred
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: instructor_support
+        label: Quality of Instructor or Facilitator Support
+        hint: If applicable
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: true
+      - id: 21
+        name: recommend_simulation
+        label: Would you recommend this simulation to colleagues
+        hint: Net promoter score
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 22
+        name: improvements_suggested
+        label: What improvements would you suggest
+        hint: Help us improve the simulation
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments or Feedback
+        hint: Any other thoughts to share
+        type: text
+        options: []
+        required: false

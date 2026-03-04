@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: daily_closing_checklist
+    pages:
+    - id: 1
+      name: end_of_day_procedures
+      label: End of Day Procedures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: confirm_shift_handover
+      label: Confirm Shift Handover
+      hint: null
+      type: select_one
+      options:
+      - Handover Done
+      - Not Done
+      required: true
+    - id: 3
+      name: confirm_lockout
+      label: Confirm Lockout
+      hint: null
+      type: select_one
+      options:
+      - Lockout Done
+      - Not Done
+      required: true
+    - id: 4
+      name: confirm_security_checks
+      label: Confirm Security Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Fire
+      - Doors
+      - Windows
+      - Security Cameras
+      - Security Monitors
+      required: true
+    - id: 5
+      name: confirm_system_checks
+      label: Confirm System Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting
+      - Cooling
+      - Heating
+      - Security Alarms
+      required: true
+    - id: 6
+      name: confirm_equipment_checks
+      label: Confirm Equipment Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguishers
+      - First Aid Kit
+      - Power Sources
+      required: true
+    - id: 7
+      name: confirm_waste_disposal
+      label: Confirm Waste Disposal
+      hint: null
+      type: select_multiple
+      options:
+      - Hazardous Waste
+      - Recycling
+      - Non-Hazardous Waste
+      required: true
+    - id: 8
+      name: confirm_staff_safety
+      label: Confirm Staff Safety
+      hint: null
+      type: select_multiple
+      options:
+      - Confined Spaces
+      - Emergency Procedures
+      required: true
+    - id: 9
+      name: confirm_security_logs
+      label: Confirm Security Logs
+      hint: null
+      type: select_multiple
+      options:
+      - Access Logs
+      - Activity Logs
+      required: true
+    - id: 10
+      name: confirm_review_of_records
+      label: Confirm Review of Records
+      hint: null
+      type: select_multiple
+      options:
+      - Attendance Logs
+      - Incident Reports
+      required: true
+    - id: 11
+      name: confirm_review_of_equipment
+      label: Confirm Review of Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment Condition
+      - Maintenance Records
+      required: true
+    - id: 12
+      name: confirm_review_of_security_systems
+      label: Confirm Review of Security Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Security Cameras
+      - Access Control Systems
+      required: true
+    - id: 13
+      name: confirm_closing_report
+      label: Confirm Closing Report
+      hint: null
+      type: note
+      options: []
+      required: true

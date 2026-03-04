@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Destination Information Night RSVP Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee
+      label: attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_one
+      options:
+      - flight
+      - train
+      - driving
+      - bus
+      - other
+      - none
+      required: false
+    - id: 7
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - hotel
+      - airbnb
+      - hostel
+      - home
+      - other
+      - none
+      required: false
+    - id: 10
+      name: accommodation_address
+      label: accommodation_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_cost
+      label: accommodation_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

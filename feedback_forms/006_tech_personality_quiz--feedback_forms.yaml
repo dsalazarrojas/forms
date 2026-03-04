@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Personality Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: tech_interests
+      label: What are your favorite tech topics?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tech_experience
+      label: How much experience do you have with tech?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Beginner''}'
+      - '{''option2'': ''Intermediate''}'
+      - '{''option3'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: tech_personality
+      label: How would you describe your tech personality?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Tech enthusiast''}'
+      - '{''option2'': ''Tech-savvy''}'
+      - '{''option3'': ''Tech expert''}'
+      required: false
+    - id: 5
+      name: tech_uses
+      label: What tech tools do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tech_uses_2
+      label: What tech tools do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback
+      label: How often do you give feedback?
+      hint: How often do you give feedback on our website?
+      type: select_one
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      required: false
+    - id: 8
+      name: tech_ideas
+      label: Do you have any tech ideas?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tech_influencer
+      label: Are you a tech influencer?
+      hint: Do you have a significant online presence as a tech influencer?
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 10
+      name: tech_leadership
+      label: Do you lead tech teams?
+      hint: Do you lead tech teams or have a leadership position in tech?
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 11
+      name: tech_community
+      label: Are you part of a tech community?
+      hint: Are you part of a tech community or online group?
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 12
+      name: tech_support
+      label: How do you usually get tech support?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Online forums''}'
+      - '{''option2'': ''Email''}'
+      - '{''option3'': ''In-person''}'
+      required: false
+    - id: 13
+      name: tech_learning
+      label: How do you usually learn new tech?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Online tutorials''}'
+      - '{''option2'': ''Books''}'
+      - '{''option3'': ''Classes''}'
+      required: false
+    - id: 14
+      name: tech_leadership_level
+      label: What level of tech leadership?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Team leader''}'
+      - '{''option2'': ''Tech lead''}'
+      - '{''option3'': ''Individual contributor''}'
+      required: false
+    - id: 15
+      name: intro_page_2
+      label: What's next?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: feedback
+      label: How can we contact you for feedback?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tech_leadership_2
+      label: Do you lead tech teams?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 21
+      name: tech_leadership_3
+      label: Do you have a tech leadership role?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 22
+      name: tech_leadership_4
+      label: Tech leadership
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 23
+      name: tech_leadership_5
+      label: What tech leadership do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Team leader''}'
+      - '{''option2'': ''Tech lead''}'
+      - '{''option3'': ''Individual contributor''}'
+      required: false
+    - id: 24
+      name: tech_leadership_6
+      label: Tech leadership 6
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Team leader''}'
+      - '{''option2'': ''Tech lead''}'
+      - '{''option3'': ''Individual contributor''}'
+      required: false
+    - id: 25
+      name: tech_leadership_7
+      label: Tech leadership 7
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Team leader''}'
+      - '{''option2'': ''Tech lead''}'
+      - '{''option3'': ''Individual contributor''}'
+      required: false

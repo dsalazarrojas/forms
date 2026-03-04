@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Practice Program Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome to the critical practice program survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: what do you think of the critical practice program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: how do you rate the critical practice program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_name
+      label: program name
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      - option 5
+      required: false
+    - id: 10
+      name: department_name
+      label: department name
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      - option 5
+      required: false

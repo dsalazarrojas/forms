@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saddle Bench Feedback Survey
+    pages:
+    - id: 1
+      name: user_satisfaction
+      label: how_satisfied_with_saddle_bench
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - satisfied
+      - neutral
+      - dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 2
+      name: comfort_rating
+      label: how_comfortable_is_saddle_bench
+      hint: null
+      type: select_one
+      options:
+      - very_comfortable
+      - somewhat_comfortable
+      - neutral
+      - somewhat_uncomfortable
+      - very_uncomfortable
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: any_improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: do_you_have_contact_details_to_share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: feedback
+      label: do_you_have_any_other_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_additional
+      label: additional_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Completion Evaluation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Course materials were adequate
+      - Course materials were excellent
+      - Course materials were poor
+      - Course materials were fair
+      required: false
+    - id: 8
+      name: course_format
+      label: Course Format
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - On-site
+      - Hybrid
+      required: false
+    - id: 9
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_comment
+      label: Student Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_instructors
+      label: Course Instructors
+      hint: null
+      type: select_multiple
+      options:
+      - Instructors were helpful
+      - Instructors were adequate
+      - Instructors were poor
+      - Instructors were not helpful
+      required: false
+    - id: 13
+      name: course_support
+      label: Course Support
+      hint: null
+      type: select_multiple
+      options:
+      - Support was helpful
+      - Support was adequate
+      - Support was poor
+      - Support was not helpful
+      required: false

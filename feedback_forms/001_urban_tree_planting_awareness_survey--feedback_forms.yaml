@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Tree Planting Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Urban Tree Planting Awareness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_score
+      label: What level of awareness do you have about tree planting?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: barriers
+      label: What are some barriers to tree planting in your city?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of funding
+      - Lack of knowledge
+      - Lack of support
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: interest_score
+      label: How interested are you in tree planting?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: benefits
+      label: What benefits do you see from tree planting?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concerns
+      label: What concerns do you have about tree planting?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission
+      label: How can we contact you for further information?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Any comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 11
+      name: tree_planted
+      label: How many trees have you planted in your lifetime?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trees_planted_last_year
+      label: How many trees have you planted in the last year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: trees_planted_last_month
+      label: How many trees have you planted in the last month?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tree_planting_frequency
+      label: How often do you plant trees?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 15
+      name: tree_planting_method
+      label: How do you usually plant trees?
+      hint: null
+      type: select_one
+      options:
+      - Hand
+      - Machine
+      required: false
+    - id: 16
+      name: tree_species
+      label: What kind of trees do you usually plant?
+      hint: null
+      type: select_multiple
+      options:
+      - Native
+      - Non-native
+      - Other (please specify)
+      required: false
+    - id: 17
+      name: tree_species_other
+      label: Other tree species (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tree_age
+      label: What is the age of the trees you usually plant?
+      hint: null
+      type: select_multiple
+      options:
+      - 0-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: false
+    - id: 19
+      name: tree_care
+      label: How do you usually care for your trees?
+      hint: null
+      type: select_multiple
+      options:
+      - No care
+      - Some care
+      - Full care
+      required: false
+    - id: 20
+      name: tree_mortality
+      label: What is the mortality rate of your trees?
+      hint: null
+      type: select_one
+      options:
+      - Less than 10%
+      - 10-20%
+      - 20-30%
+      - Over 30%
+      required: false
+    - id: 21
+      name: tree_diameter
+      label: What is the diameter of the trees you usually plant?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 meter
+      - 1-2 meters
+      - 2-5 meters
+      - Over 5 meters
+      required: false
+    - id: 22
+      name: tree_height
+      label: What is the height of the trees you usually plant?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 meter
+      - 1-2 meters
+      - 2-5 meters
+      - Over 5 meters
+      required: false
+    - id: 23
+      name: tree_species_list
+      label: List the tree species you usually plant
+      hint: null
+      type: select_multiple
+      options:
+      - Oak
+      - Maple
+      - Pine
+      - Other (please specify)
+      required: false
+    - id: 24
+      name: tree_species_list_other
+      label: Other tree species
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tree_diameter_range
+      label: What is the diameter range of the trees you usually plant?
+      hint: null
+      type: text
+      options: []
+      required: false

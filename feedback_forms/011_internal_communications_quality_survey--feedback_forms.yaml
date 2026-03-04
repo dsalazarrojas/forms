@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Communications Quality Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_channels
+      label: How do you typically stay up-to-date with company news and updates?
+      hint: null
+      type: select_one
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''Mobile app''}'
+      - '{''Channel 3'': ''Newsletter''}'
+      - '{''Channel 4'': ''Social media''}'
+      - '{''Channel 5'': ''Meetings and presentations''}'
+      required: true
+    - id: 3
+      name: type_of_info
+      label: What type of information do you typically find in company communications?
+      hint: null
+      type: select_multiple
+      options:
+      - Company announcements and achievements
+      - Company policies and procedures
+      - Important events and deadlines
+      - Other
+      required: false
+    - id: 4
+      name: content_effectiveness
+      label: How effective are company communications?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: engagement_level
+      label: How often do you engage with company communications?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with company communications?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: communication_channels_2
+      label: How do you typically stay up-to-date with company news and updates, 2
+      hint: null
+      type: select_one
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''Mobile app''}'
+      - '{''Channel 3'': ''Newsletter''}'
+      - '{''Channel 4'': ''Social media''}'
+      - '{''Channel 5'': ''Meetings and presentations''}'
+      required: false
+    - id: 8
+      name: communication_content_2
+      label: What type of information do you typically find in company communications,
+        2
+      hint: null
+      type: select_multiple
+      options:
+      - Company announcements and achievements
+      - Company policies and procedures
+      - Important events and deadlines
+      - Other
+      required: false
+    - id: 9
+      name: communication_channels_3
+      label: How do you typically stay up-to-date with company news and updates, 3
+      hint: null
+      type: select_one
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''Mobile app''}'
+      - '{''Channel 3'': ''Newsletter''}'
+      - '{''Channel 4'': ''Social media''}'
+      - '{''Channel 5'': ''Meetings and presentations''}'
+      required: false
+    - id: 10
+      name: communication_content_3
+      label: What type of information do you typically find in company communications,
+        3
+      hint: null
+      type: select_multiple
+      options:
+      - Company announcements and achievements
+      - Company policies and procedures
+      - Important events and deadlines
+      - Other
+      required: false
+    - id: 11
+      name: communication_channels_4
+      label: How do you typically stay up-to-date with company news and updates, 4
+      hint: null
+      type: select_one
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''Mobile app''}'
+      - '{''Channel 3'': ''Newsletter''}'
+      - '{''Channel 4'': ''Social media''}'
+      - '{''Channel 5'': ''Meetings and presentations''}'
+      required: false
+    - id: 12
+      name: communication_content_4
+      label: What type of information do you typically find in company communications,
+        4
+      hint: null
+      type: select_multiple
+      options:
+      - Company announcements and achievements
+      - Company policies and procedures
+      - Important events and deadlines
+      - Other
+      required: false
+    - id: 13
+      name: communication_channels_5
+      label: How do you typically stay up-to-date with company news and updates, 5
+      hint: null
+      type: select_one
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''Mobile app''}'
+      - '{''Channel 3'': ''Newsletter''}'
+      - '{''Channel 4'': ''Social media''}'
+      - '{''Channel 5'': ''Meetings and presentations''}'
+      required: false
+    - id: 14
+      name: communication_content_5
+      label: What type of information do you typically find in company communications,
+        5
+      hint: null
+      type: select_multiple
+      options:
+      - Company announcements and achievements
+      - Company policies and procedures
+      - Important events and deadlines
+      - Other
+      required: false
+    - id: 15
+      name: company_policies_procedures
+      label: Company policies and procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Company announcements and achievements
+      - Company policies and procedures
+      - Important events and deadlines
+      - Other
+      required: false

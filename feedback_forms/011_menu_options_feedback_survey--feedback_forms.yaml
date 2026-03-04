@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: menu_options_feedback_survey
+    pages:
+    - id: 1
+      name: survey_purpose
+      label: How can we improve our menu?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_preferred_items
+      label: Which menu items would you like to see offered more often?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: menu_preferred_items_type
+      label: What type of menu items would you like to see offered more?
+      hint: null
+      type: select_one
+      options:
+      - appetizers
+      - entrees
+      - desserts
+      - drinks
+      - other
+      required: false
+    - id: 4
+      name: price_range
+      label: What price range would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - $0-$5
+      - $5-$10
+      - $10-$15
+      - more than $15
+      required: false
+    - id: 5
+      name: time_of_day
+      label: What time of day would you prefer to dine?
+      hint: null
+      type: select_one
+      options:
+      - breakfast
+      - lunch
+      - dinner
+      - snack
+      - other
+      required: false
+    - id: 6
+      name: days_open
+      label: Which days of the week do you usually dine with us?
+      hint: null
+      type: select_multiple
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      required: false

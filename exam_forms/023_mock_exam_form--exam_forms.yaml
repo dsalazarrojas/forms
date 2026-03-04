@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mock Exam Form
+    pages:
+    - id: 1
+      name: mock_exam_form_page_1
+      label: Mock Exam Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: selected_exam_type
+      label: Selected Exam Type
+      hint: null
+      type: select_one
+      options:
+      - Exam
+      - Practice
+      required: false
+    - id: 5
+      name: exam_questions
+      label: Exam Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_score
+      label: Student Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_answer
+      label: Student Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exam_duration
+      label: Exam Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: selected_exam_date
+      label: Selected Exam Date
+      hint: null
+      type: select_one
+      options:
+      - '720'
+      - '780'
+      - '840'
+      required: false
+    - id: 10
+      name: exam_type
+      label: Exam Type
+      hint: null
+      type: select_one
+      options:
+      - Multiple Choice
+      - True/False
+      - Fill in the Blank
+      - Short Answer
+      required: false
+    - id: 11
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - Multiple Choice
+      - Short Answer
+      - True/False
+      - Essay
+      required: false

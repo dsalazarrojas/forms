@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meat Composition Knowledge Quiz
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meat_nutrient
+      label: Meat Nutrient
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: participant_answer
+      label: Participant Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_and_exit
+      label: Submit and exit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false

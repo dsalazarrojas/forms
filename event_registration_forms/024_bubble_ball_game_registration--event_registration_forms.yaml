@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bubble Ball Game Registration
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: player_age
+      label: Age
+      hint: In years
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_phone
+      label: Player Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_email
+      label: Player Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Required if under 18
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: experience_level
+      label: Bubble Ball Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: team_preference
+      label: Do you have a team preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_date_preference
+      label: Preferred Game Date and Time
+      hint: null
+      type: select_one
+      options:
+      - Saturday Morning
+      - Saturday Afternoon
+      - Saturday Evening
+      - Sunday Morning
+      - Sunday Afternoon
+      required: true
+    - id: 12
+      name: medical_conditions
+      label: Any Medical Conditions or Injuries
+      hint: Important for player safety
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Other than parent or player
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: health_waiver
+      label: I agree to the health and waiver form
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 18
+      name: registration_fee
+      label: Registration Fee Paid
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Honeymoon Travel Information Form
+    pages:
+    - id: 1
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_budget_breakdown
+      label: travel_budget_breakdown
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Anniversary
+      - Romantic
+      required: false
+    - id: 6
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Adventure
+      - Relaxation
+      - Food_and_Drink
+      required: false
+    - id: 7
+      name: travel_group_size
+      label: travel_group_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_location
+      label: travel_location
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Mountains
+      - City
+      required: false
+    - id: 9
+      name: travel_style
+      label: travel_style
+      hint: null
+      type: select_one
+      options:
+      - Nature
+      - Culture
+      - Adventure
+      required: false
+    - id: 10
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

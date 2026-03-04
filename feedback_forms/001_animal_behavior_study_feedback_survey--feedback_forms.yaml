@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Behavior Study Feedback Survey
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: Enter the unique study participant identifier if assigned
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observation_date
+      label: Observation date
+      hint: Select the date the observation took place
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: species_observed
+      label: Species observed
+      hint: Provide common name of the species observed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_duration_hours
+      label: Observation duration hours
+      hint: Enter duration in hours with decimals if needed
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: behaviors_observed
+      label: Behaviors observed
+      hint: Select all behaviors noted during the observation
+      type: select_multiple
+      options:
+      - Feeding
+      - Social interaction
+      - Grooming
+      - Resting
+      - Aggression
+      - Exploratory behavior
+      required: false
+    - id: 6
+      name: behavior_frequency_estimate
+      label: Estimated frequency of target behavior per hour
+      hint: Enter a whole number estimate or leave blank if unknown
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: protocol_rating
+      label: Rating of study procedures
+      hint: Rate how clear and comfortable the procedures were
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: equipment_issues
+      label: Equipment or protocol issues observed
+      hint: Describe any issues with equipment or protocol
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments or recommendations
+      hint: Use this space for any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: Provide an email if follow up is acceptable
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: consent_for_follow_up
+      label: Consent for follow up
+      hint: May the research team contact you for clarification
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: submitter_name
+      label: Submitter name
+      hint: Full name of the person completing the survey
+      type: text
+      options: []
+      required: true

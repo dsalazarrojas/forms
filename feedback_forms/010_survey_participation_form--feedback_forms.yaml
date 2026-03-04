@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_participation_form
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate your overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Can you provide more feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 5
+      name: email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: What is your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: When did you participate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: At what time did you participate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email_confirmation
+      label: Can you confirm your email address
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false

@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Event Giveaway Entry Form
+    pages:
+    - id: 1
+      name: section_header_instructions
+      label: -- City Event Giveaway Entry --
+      hint: Enter for a chance to win tickets to our upcoming events
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will contact the winner at this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: We may call the winner to confirm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_event
+      label: -- Event Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_interest
+      label: Which Event Interested You in This Giveaway
+      hint: null
+      type: select_one
+      options:
+      - Concert or music festival
+      - Theater or performing arts
+      - Sports event
+      - Comedy show
+      - Film festival
+      - Food and wine festival
+      - Family event
+      - Cultural event
+      - Other
+      required: true
+    - id: 7
+      name: preferred_event_date
+      label: Preferred Event Date
+      hint: null
+      type: select_one
+      options:
+      - Any date
+      - Weekend
+      - Weekday
+      - Specific date preference
+      required: false
+    - id: 8
+      name: section_header_motivation
+      label: -- Entry Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: how_heard
+      label: How Did You Hear About This Giveaway
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Email newsletter
+      - Website
+      - Radio or podcast
+      - Newspaper or print
+      - From a friend
+      - Promotional poster
+      - Other
+      required: true
+    - id: 10
+      name: attendance_likelihood
+      label: How Likely Are You to Attend if You Win
+      hint: null
+      type: select_one
+      options:
+      - Definitely will attend
+      - Very likely to attend
+      - Probably will attend
+      - Might attend
+      - Not sure
+      required: false
+    - id: 11
+      name: section_header_demographics
+      label: -- Demographics (Optional) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to say
+      required: false
+    - id: 13
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: For local analysis
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_group
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: party_size
+      label: Number of Tickets Needed
+      hint: How many people would attend with the tickets
+      type: select_one
+      options:
+      - 1 ticket
+      - 2 tickets
+      - 3 tickets
+      - 4 tickets
+      - 4+ tickets
+      required: false
+    - id: 16
+      name: attending_with
+      label: Who Would You Attend With
+      hint: null
+      type: select_one
+      options:
+      - Going alone
+      - With family
+      - With friends
+      - With partner or spouse
+      - With coworkers
+      - Other group
+      required: false
+    - id: 17
+      name: section_header_engagement
+      label: -- Event Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: city_event_attendance
+      label: How Often Do You Attend City Events
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Several times per year
+      - A few times per year
+      - Rarely
+      - First time considering
+      required: false
+    - id: 19
+      name: favorite_event_types
+      label: Your Favorite Event Types (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Music and concerts
+      - Theater and arts
+      - Sports
+      - Comedy
+      - Food events
+      - Family activities
+      - Cultural festivals
+      - Outdoor events
+      required: false
+    - id: 20
+      name: section_header_social
+      label: -- Social Media (Optional) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: social_media_follow
+      label: Follow Our Social Media
+      hint: For updates on future giveaways and events
+      type: select_one
+      options:
+      - Already following
+      - Will follow
+      - Not interested
+      required: false
+    - id: 22
+      name: social_media_share
+      label: Willing to Share This Giveaway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: section_header_legal
+      label: -- Legal Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: rules_agreement
+      label: I Agree to Giveaway Rules and Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: contact_permission
+      label: Permission to Contact Me if I Win
+      hint: null
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      required: true

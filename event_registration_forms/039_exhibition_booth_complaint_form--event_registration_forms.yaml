@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_booth_complaint_form
+    pages:
+    - id: 1
+      name: exhibition_booth_complaint_form
+      label: exhibition_booth_complaint_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exhibitor_name
+      label: exhibitor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_multiple
+      options:
+      - complaint_type_1
+      - complaint_type_2
+      - complaint_type_3
+      required: false
+    - id: 4
+      name: details
+      label: complaint_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - pending
+      - closed
+      required: false
+    - id: 6
+      name: date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false

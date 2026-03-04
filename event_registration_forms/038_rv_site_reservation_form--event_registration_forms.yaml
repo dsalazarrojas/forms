@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Site Reservation Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_id
+      label: Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reservation_message
+      label: Reservation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Verbal Reasoning Assessment
+    pages:
+    - id: 1
+      name: page_one
+      label: page_one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: answer_one
+      label: first_answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: answer_two
+      label: second_answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: answer_three
+      label: third_answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: page_two
+      label: page_two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_one
+      label: question_one
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: question_two
+      label: question_two
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: question_three
+      label: question_three
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: page_three
+      label: page_three
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: final_answer
+      label: final_answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

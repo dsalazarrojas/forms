@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Study Environment Feedback Report
+    pages:
+    - id: 1
+      name: study_environment
+      label: Study Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_id
+      label: study_site
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: study_phase
+      label: study_phase
+      hint: null
+      type: select_one
+      options:
+      - Site Initiation
+      - Study Execution
+      - Site Closure
+      - Other
+      required: false
+    - id: 4
+      name: site_name
+      label: site_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_question
+      label: research_question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: study_setting_feedback
+      label: study_settings
+      hint: null
+      type: select_multiple
+      options:
+      - Environment
+      - Resources
+      - Equipment
+      - Support
+      required: false
+    - id: 8
+      name: support_needed
+      label: support
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Video
+      - Chat
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Jim
+      - Other
+      required: false

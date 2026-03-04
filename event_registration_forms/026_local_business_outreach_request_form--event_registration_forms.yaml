@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Business Outreach Request Form
+    pages:
+    - id: 1
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9.1, ''name'': ''event_type'', ''label'': ''Event Type'', ''value'':
+        ''Trade Show''}'
+      - '{''id'': 9.2, ''name'': ''event_type'', ''label'': ''Trade Show'', ''value'':
+        ''Trade Show''}'
+      - '{''id'': 9.3, ''name'': ''event_type'', ''label'': ''Seminar'', ''value'':
+        ''Seminar''}'
+      required: false
+    - id: 10
+      name: business_services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10.1, ''name'': ''business_services'', ''label'': ''Networking'',
+        ''value'': ''Networking''}'
+      - '{''id'': 10.2, ''name'': ''business_services'', ''label'': ''Marketing'',
+        ''value'': ''Marketing''}'
+      - '{''id'': 10.3, ''name'': ''business_services'', ''label'': ''Sponsorship'',
+        ''value'': ''Sponsorship''}'
+      required: false
+    - id: 11
+      name: collaboration_goals
+      label: Collaboration Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11.1, ''name'': ''collaboration_goals'', ''label'': ''Collaboration'',
+        ''value'': ''Collaboration''}'
+      - '{''id'': 11.2, ''name'': ''collaboration_goals'', ''label'': ''Sponsorship'',
+        ''value'': ''Sponsorship''}'
+      - '{''id'': 11.3, ''name'': ''collaboration_goals'', ''label'': ''Partnership'',
+        ''value'': ''Partnership''}'
+      required: false
+    - id: 12
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_method
+      label: Preferred Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16.1, ''name'': ''email'', ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 16.2, ''name'': ''phone'', ''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 17
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 19.1, ''name'': ''location'', ''label'': ''Online'', ''value'':
+        ''Online''}'
+      - '{''id'': 19.2, ''name'': ''location'', ''label'': ''Local'', ''value'': ''Local''}'
+      required: false
+    - id: 20
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20.1, ''name'': ''event_duration'', ''label'': ''Half-day'', ''value'':
+        ''Half-day''}'
+      - '{''id'': 20.2, ''name'': ''event_duration'', ''label'': ''Full-day'', ''value'':
+        ''Full-day''}'
+      - '{''id'': 20.3, ''name'': ''event_duration'', ''label'': ''All-day'', ''value'':
+        ''All-day''}'
+      required: false

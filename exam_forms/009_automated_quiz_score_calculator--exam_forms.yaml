@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Quiz Score Calculator
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_id
+      label: Participant ID or Student Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_or_class
+      label: Organization or Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_quiz
+      label: -- Quiz Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quiz_title
+      label: Quiz Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_questions
+      label: -- Quiz Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_1
+      label: Question 1 - What is the capital of France?
+      hint: null
+      type: select_one
+      options:
+      - Paris
+      - London
+      - Berlin
+      - Madrid
+      required: true
+    - id: 11
+      name: question_2
+      label: Question 2 - What is the chemical formula for water?
+      hint: null
+      type: select_one
+      options:
+      - H2O
+      - CO2
+      - NaCl
+      - O2
+      required: true
+    - id: 12
+      name: question_3
+      label: Question 3 - Who wrote Romeo and Juliet?
+      hint: null
+      type: select_one
+      options:
+      - William Shakespeare
+      - Jane Austen
+      - Mark Twain
+      - Charles Dickens
+      required: true
+    - id: 13
+      name: question_4
+      label: Question 4 - What year did World War II end?
+      hint: null
+      type: select_one
+      options:
+      - 1945
+      - 1944
+      - 1946
+      - 1943
+      required: true
+    - id: 14
+      name: question_5
+      label: Question 5 - What is the largest planet in our solar system?
+      hint: null
+      type: select_one
+      options:
+      - Jupiter
+      - Saturn
+      - Neptune
+      - Earth
+      required: true
+    - id: 15
+      name: question_6
+      label: Question 6 - Which element has the chemical symbol Au?
+      hint: null
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Copper
+      - Aluminum
+      required: true
+    - id: 16
+      name: question_7
+      label: Question 7 - What is the square root of 144?
+      hint: null
+      type: select_one
+      options:
+      - 12
+      - 10
+      - 14
+      - 11
+      required: true
+    - id: 17
+      name: question_8
+      label: Question 8 - Which country is home to the Great Wall?
+      hint: null
+      type: select_one
+      options:
+      - China
+      - Japan
+      - South Korea
+      - Vietnam
+      required: true
+    - id: 18
+      name: section_header_performance
+      label: -- Performance Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: difficulty_level
+      label: How did you find the quiz difficulty?
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Just Right
+      - Challenging
+      - Too Difficult
+      required: true
+    - id: 20
+      name: time_spent
+      label: Approximate Time Spent (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: feedback_comment
+      label: Additional Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submit_confirmation
+      label: I confirm my answers are complete and accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, submit
+      - No, review again
+      required: true

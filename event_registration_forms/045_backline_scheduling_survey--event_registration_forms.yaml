@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backline Scheduling Survey
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: Name of performing act
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Tour manager or contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for scheduling
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of event or tour
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date of performance
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: venue_name
+      label: Venue Name
+      hint: Name of performance venue
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: stage_assignment
+      label: Stage Assignment
+      hint: Which stage will you perform on
+      type: select_one
+      options:
+      - Main Stage
+      - Second Stage
+      - Acoustic Stage
+      - Club Stage
+      - Other
+      required: true
+    - id: 9
+      name: performance_time
+      label: Scheduled Performance Time
+      hint: Your set time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: set_duration
+      label: Set Duration
+      hint: How long is your set
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 75 minutes
+      - 90 minutes
+      - Other
+      required: true
+    - id: 11
+      name: soundcheck_time
+      label: Preferred Soundcheck Time
+      hint: When do you want to soundcheck
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: backline_requirements
+      label: Backline Equipment Needed
+      hint: Select required equipment
+      type: select_multiple
+      options:
+      - Drum kit
+      - Bass amplifier
+      - Guitar amplifiers
+      - Keyboard stand
+      - DJ booth
+      - Microphones
+      - Monitors
+      - DI boxes
+      - Cables
+      required: true
+    - id: 13
+      name: drum_kit_preference
+      label: Drum Kit Preference
+      hint: Specify if you have preferences
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: amplifier_preferences
+      label: Amplifier Preferences
+      hint: Brand or model preferences
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: keyboard_requirements
+      label: Keyboard Requirements
+      hint: List keyboard needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: monitor_needs
+      label: Monitor Needs
+      hint: How many monitors do you need
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: microphone_count
+      label: Microphone Count
+      hint: How many mics do you need
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: special_requests
+      label: Special Equipment Requests
+      hint: Any unique equipment needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stage_plot_provided
+      label: Stage Plot Provided
+      hint: Will you provide a stage plot
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will send later
+      - No, not needed
+      required: true
+    - id: 20
+      name: input_list_provided
+      label: Input List Provided
+      hint: Will you provide an input list
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will send later
+      - No, not needed
+      required: true
+    - id: 21
+      name: crew_count
+      label: Number of Crew Members
+      hint: How many crew will you have
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: load_in_time
+      label: Preferred Load-In Time
+      hint: When can you load in
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: parking_needs
+      label: Parking Needs
+      hint: How many parking passes needed
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: hospitality_requests
+      label: Hospitality Requests
+      hint: Any food or beverage needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for production
+      type: text
+      options: []
+      required: false

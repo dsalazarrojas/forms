@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Interview Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_departing
+      label: reason_for_leaving
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      - '{''id'': 6}'
+      - '{''id'': 7}'
+      - '{''id'': 8}'
+      - '{''id'': 9}'
+      - '{''id'': 10}'
+      required: true
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_job_evaluation
+      label: date_of_last_job_evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: exit_interview_form_completion_date
+      label: exit_interview_form_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reasons_for_leaving
+      label: reasons_for_leaving
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      - '{''id'': 6}'
+      - '{''id'': 7}'
+      - '{''id'': 8}'
+      - '{''id'': 9}'
+      - '{''id'': 10}'
+      required: true
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: leadership_skills
+      label: leadership_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time_management
+      label: time_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: teamwork_skills
+      label: teamwork_skills
+      hint: null
+      type: number
+      options: []
+      required: false

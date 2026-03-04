@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blade Data Collection Form
+    pages:
+    - id: 1
+      name: project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: collector_name
+      label: Collector name
+      hint: Person completing this form
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_collected
+      label: Date collected
+      hint: When measurements were taken
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: blade_id
+      label: Blade identifier
+      hint: Unique blade serial or tag
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: measurement_1
+      label: Measurement one millimeters
+      hint: Enter decimal value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: measurement_2
+      label: Measurement two millimeters
+      hint: Enter decimal value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: condition_notes
+      label: Condition notes
+      hint: Observations about blade condition
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_required
+      label: Follow up required
+      hint: Does this item need follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: follow_up_actions
+      label: Follow up actions
+      hint: Describe recommended actions
+      type: text
+      options: []
+      required: false

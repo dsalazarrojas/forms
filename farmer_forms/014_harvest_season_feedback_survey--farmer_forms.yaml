@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: harvest_season_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farm_name
+      label: farm_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_location
+      label: farm_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: season_length
+      label: season_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: crop_type
+      label: crop_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: crop_variety
+      label: crop_variety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: yield
+      label: yield
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: harvest_planning
+      label: harvest_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_experience
+      label: team_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_year_planning
+      label: next_year_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

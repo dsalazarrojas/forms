@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Checkout Instructions Form
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructions_affected
+      label: Instructions Affected
+      hint: null
+      type: select_one
+      options:
+      - Confused about how to use self checkout
+      - Could not find the product I was looking for
+      - Could not find the self-checkout
+      - Instructions were not clear or concise
+      - 'Other:'
+      required: true
+    - id: 3
+      name: self_checkout_experience
+      label: Self-Checkout Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false

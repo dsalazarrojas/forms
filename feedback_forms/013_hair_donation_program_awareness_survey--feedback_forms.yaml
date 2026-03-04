@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Donation Program Awareness Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: awareness_program
+      label: awareness_program
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 6
+      name: awareness_program_name
+      label: awareness_program_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: awareness_program_length
+      label: awareness_program_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: awareness_program_description
+      label: awareness_program_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: awareness_program_benefit
+      label: awareness_program_benefit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: awareness_program_benefit_description
+      label: awareness_program_benefit_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: awareness_program_location
+      label: awareness_program_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: awareness_program_website
+      label: awareness_program_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: awareness_program_facebook
+      label: awareness_program_facebook
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': True}'
+      required: false
+    - id: 14
+      name: awareness_program_twitter
+      label: awareness_program_twitter
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': True}'
+      required: false
+    - id: 15
+      name: awareness_program_instagram
+      label: awareness_program_instagram
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': True}'
+      required: false
+    - id: 16
+      name: awareness_program_youtube
+      label: awareness_program_youtube
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': True}'
+      required: false
+    - id: 17
+      name: awareness_program_pinterest
+      label: awareness_program_pinterest
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': True}'
+      required: false
+    - id: 18
+      name: awareness_program_other_social_media
+      label: awareness_program_other_social_media
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': True}'
+      required: false
+    - id: 19
+      name: awareness_program_awareness_source
+      label: awareness_program_awareness_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: awareness_program_source_other
+      label: awareness_program_source_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: awareness_program_source_description
+      label: awareness_program_source_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: awareness_program_other_description
+      label: awareness_program_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

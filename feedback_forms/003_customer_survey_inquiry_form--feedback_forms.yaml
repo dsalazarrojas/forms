@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Survey Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_score
+      label: Customer Service Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Bob
+      - Jim
+      required: false
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - customer
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - customer
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekend Operations Checklist
+    pages:
+    - id: 1
+      name: site_readiness
+      label: Site Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: weekend_tasks
+      label: Weekend Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: site_status
+      label: Site Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: site_readiness_escalations
+      label: Site Readiness Escalations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_completion
+      label: Task Completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: task_responsible
+      label: Task Responsible
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: task_escalations
+      label: Task Escalations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_readiness_notes
+      label: Site Readiness Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Attendee Check In Form
+    pages:
+    - id: 1
+      name: fundraiser_attendee_check_in_form
+      label: Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_name_checkin
+      label: Name Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Not Registered
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

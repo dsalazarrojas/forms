@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Round Review Feedback
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: Event Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Not at all''}'
+      required: false
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: farmers_market_event_rsvp_form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: vendor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_arrival_time
+      label: Vendor Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: market_name
+      label: Market Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: market_date
+      label: Market Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: market_time
+      label: Market Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: vendor_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_one
+      options:
+      - Vendors
+      - Visitors
+      - Both
+      required: true
+    - id: 10
+      name: vendor_id
+      label: Vendors ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vendor_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: visitor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: visitor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: visitor_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

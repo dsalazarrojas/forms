@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_communication_form
+    pages:
+    - id: 1
+      name: survey_communication_form_page_1
+      label: survey_communication_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_method
+      label: communication_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''email''}'
+      - '{''id'': 2, ''name'': ''phone''}'
+      - '{''id'': 3, ''name'': ''in_person''}'
+      required: true
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_response_time
+      label: survey_response_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_survey_completed
+      label: date_survey_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: survey_completed
+      label: survey_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

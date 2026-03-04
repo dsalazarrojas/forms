@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Recycling Fair Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsorship_intro_note
+      label: -- Community Recycling Fair Sponsorship --
+      hint: Partner with us to promote local environmental sustainability!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsoring_organization_name
+      label: Name of Sponsoring Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_full_name
+      label: Primary Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sponsor_contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sponsorship_level_selection
+      label: Select Your Sponsorship Level
+      hint: null
+      type: select_one
+      options:
+      - Platinum - $2500
+      - Gold - $1000
+      - Silver - $500
+      - Bronze - $250
+      - Friend of Fair - $100
+      required: true
+    - id: 7
+      name: recurring_sponsorship_check
+      label: Is this a recurring annual sponsorship?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: company_website_url
+      label: Company Website Address
+      hint: For promotional placement.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_description_text
+      label: Short Company Description
+      hint: For event programs and marketing.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: booth_request_check
+      label: Would you like a promotional booth at the fair?
+      hint: null
+      type: select_one
+      options:
+      - Yes - I want a booth
+      - No - I don - t need a booth
+      required: true
+    - id: 11
+      name: booth_requirements_info
+      label: Special Booth Requirements
+      hint: Required if you answered Yes above.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: promotional_items_check
+      label: Will you be providing items for attendee swag bags?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: promo_items_description
+      label: Description of Promotional Items to be Provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_selection
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card Online
+      - Mail a Check
+      - Request an Invoice
+      required: true
+    - id: 15
+      name: sponsorship_benefits_note
+      label: -- Sponsorship Benefits Summary --
+      hint: All sponsors will receive logo placement on our website and social media.
+        Higher levels include premium booth placement and stage time.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sponsorship_submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

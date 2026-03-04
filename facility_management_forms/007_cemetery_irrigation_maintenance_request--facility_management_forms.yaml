@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Irrigation Maintenance Request
+    pages:
+    - id: 1
+      name: requester_details_header
+      label: -- Requester Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: maintenance_location_header
+      label: -- Maintenance Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: plot_section_info
+      label: Section - Plot Number
+      hint: Specify the exact area requiring maintenance
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cemetery_grounds
+      label: Cemetery Grounds Area
+      hint: Select the general location
+      type: select_one
+      options:
+      - North Sector
+      - South Sector
+      - East Sector
+      - West Sector
+      - Garden of Remembrance
+      required: true
+    - id: 9
+      name: issue_details_header
+      label: -- Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: type_of_issue
+      label: Type of Issue
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Broken Sprinkler Head
+      - Leaking Pipe
+      - Low Water Pressure
+      - Timer Problem
+      - Electrical Issue
+      - Valve Leak
+      required: true
+    - id: 11
+      name: urgency_level
+      label: Urgency of Repair
+      hint: How critical is the maintenance
+      type: select_one
+      options:
+      - Urgent - Flooding
+      - High - Immediate Repair Needed
+      - Medium - Scheduled Maintenance
+      - Low - Non-Urgent
+      required: true
+    - id: 12
+      name: issue_description_header
+      label: -- Description of Issue --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: detailed_issue_description
+      label: Detailed Issue Description
+      hint: Provide any additional context for the maintenance crew
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: site_access_header
+      label: -- Site Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: area_accessibility
+      label: Area Accessibility
+      hint: Can the crew reach the location easily
+      type: select_one
+      options:
+      - true
+      - No - Gate Locked
+      - No - Ceremony in Progress
+      required: true
+    - id: 16
+      name: tracking_header
+      label: -- Tracking and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_comm_method
+      label: Preferred Communication Method
+      hint: How should we contact you for updates
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true

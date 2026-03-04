@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jazz Festival Beverage Sponsorship Application
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sponsorship_details
+      label: sponsorship details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sponsorship_type
+      label: sponsorship type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contract_signed
+      label: contract signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: contract_date
+      label: contract date
+      hint: null
+      type: date
+      options: []
+      required: true

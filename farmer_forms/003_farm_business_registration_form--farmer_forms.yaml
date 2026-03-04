@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Business Registration Form
+    pages:
+    - id: 1
+      name: farm_business_registration_form_page_1
+      label: farm_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farmer_info
+      label: farmer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_name
+      label: farm_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: farm_address
+      label: farm_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: farm_contact_email
+      label: farm_contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: farm_contact_phone
+      label: farm_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: farm_type
+      label: farm_type
+      hint: null
+      type: select_one
+      options:
+      - small_farm
+      - large_scale_farm
+      - organic_farm
+      required: true
+    - id: 8
+      name: farm_business_hours
+      label: farm_business_hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: farm_license_number
+      label: farm_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: farm_registration_date
+      label: farm_registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: farm_registration_number
+      label: farm_registration_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: farm_additional_info
+      label: farm_additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: farm_business_status
+      label: farm_business_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 14
+      name: farm_owners
+      label: farm_owners
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 15
+      name: farm_location
+      label: farm_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: farm_business_category
+      label: farm_business_category
+      hint: null
+      type: select_multiple
+      options:
+      - farm
+      - ranch
+      - orchard
+      required: true
+    - id: 17
+      name: farm_description
+      label: farm_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: farm_equipment
+      label: farm_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: farm_certifications
+      label: farm_certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: farm_insurance
+      label: farm_insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: farm_license_expiration
+      label: farm_license_expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: farm_certification_number
+      label: farm_certification_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: farm_registration_fee
+      label: farm_registration_fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: farm_registration_fees
+      label: farm_registration_fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: farm_registration_note
+      label: farm_registration_note
+      hint: null
+      type: note
+      options: []
+      required: false

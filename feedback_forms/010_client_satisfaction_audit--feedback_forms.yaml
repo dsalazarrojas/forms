@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfaction Audit
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Your Name
+      hint: Person completing this audit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: audit_date
+      label: Date of Audit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: relationship_section
+      label: -- Client Relationship Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_tenure
+      label: How long have you been a client?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 8
+      name: account_type
+      label: Client Account Type
+      hint: null
+      type: select_one
+      options:
+      - New Client
+      - Growing Client
+      - Established Client
+      - Key Account
+      - Declining Client
+      required: true
+    - id: 9
+      name: products_overview
+      label: -- Product and Service Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_quality
+      label: Product or Service Quality Rating - 1 to 10
+      hint: 1 = Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: product_meeting_needs
+      label: Our products/services meet your business needs
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: product_features
+      label: Are there features or capabilities you need that we do not offer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_improvements
+      label: What product improvements would increase your satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_satisfaction
+      label: -- Service and Support Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_quality
+      label: Overall Service Quality Rating - 1 to 10
+      hint: 1 = Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: support_responsiveness
+      label: How responsive is our customer support team?
+      hint: null
+      type: select_one
+      options:
+      - Very Unresponsive
+      - Unresponsive
+      - Adequate
+      - Responsive
+      - Very Responsive
+      required: true
+    - id: 17
+      name: support_resolution
+      label: Our support team resolves issues effectively
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 18
+      name: service_improvements
+      label: What service improvements would enhance your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: value_section
+      label: -- Value and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: pricing_fairness
+      label: Our pricing is fair relative to the value provided
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: roi_satisfaction
+      label: Rate satisfaction with return on investment - 1 to 10
+      hint: 1 = Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: pricing_transparency
+      label: Our pricing structure is transparent and clear
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 23
+      name: relationship_section_two
+      label: -- Relationship and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: account_management
+      label: How would you rate your account management experience?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 25
+      name: communication_frequency
+      label: Communication with your account team is adequate
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 26
+      name: business_understanding
+      label: Our team understands your business and goals
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 27
+      name: recommendations_section
+      label: -- Recommendations and Loyalty --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: recommend_likelihood
+      label: How likely are you to recommend us to others?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: loyalty_rating
+      label: Overall, how loyal are you to our company?
+      hint: null
+      type: select_one
+      options:
+      - Not Loyal
+      - Somewhat Loyal
+      - Neutral
+      - Loyal
+      - Very Loyal
+      required: true
+    - id: 30
+      name: additional_feedback
+      label: Any additional feedback or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_class_release_form
+    pages:
+    - id: 1
+      name: title
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: liability_consent
+      label: have_you_read_and_understand_the_yoga_class_routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: do_you_have_any_medical_conditions
+      hint: Please list any medical conditions that may affect your practice, such
+        as high blood pressure, diabetes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: relationship_to_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: instructor_consent
+      label: instructor_consent
+      hint: null
+      type: select_one
+      options:
+      - instructor_consent_1
+      - instructor_consent_2
+      required: true
+    - id: 15
+      name: waiver
+      label: waiver
+      hint: null
+      type: select_multiple
+      options:
+      - waiver_1
+      - waiver_2
+      - waiver_3
+      required: true
+    - id: 16
+      name: medical_waiver
+      label: medical_waiver
+      hint: null
+      type: select_multiple
+      options:
+      - medical_waiver_1
+      - medical_waiver_2
+      - medical_waiver_3
+      required: true

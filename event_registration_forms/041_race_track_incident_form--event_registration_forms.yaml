@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Track Incident Form
+    pages:
+    - id: 1
+      name: race_track_incident
+      label: What happened?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: time_of_incident
+      label: Time of incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: date_of_incident
+      label: Date of incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: location_of_incident
+      label: Location of incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: involved_participants
+      label: Involved participants
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description_of_incident
+      label: Description of incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cause_of_incident
+      label: Cause of incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: race_track_injuries
+      label: Race track injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: race_track_damages
+      label: Race track damages
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: race_track_violations
+      label: Race track violations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: race_track_comments
+      label: Race track comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: race_track_event_id
+      label: Race Track Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: race_track_name
+      label: Race Track Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: race_track_date
+      label: Race Track Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: race_track_time
+      label: Race Track Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: race_track_location
+      label: Race Track Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: race_track_status
+      label: Race Track Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: race_track_employees_involved
+      label: Race Track Employees Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: race_track_equipment_status
+      label: Race Track Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: race_track_weather_conditions
+      label: Race Track Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: race_track_temperature
+      label: Race Track Temperature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: race_track_humidity
+      label: Race Track Humidity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: race_track_wind_speed
+      label: Race Track Wind Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: race_track_comments
+      label: Race Track Comments
+      hint: null
+      type: text
+      options: []
+      required: false

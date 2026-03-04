@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discussion Guideline Survey
+    pages:
+    - id: 1
+      name: discussion_guideline_survey_form
+      label: discussion_guideline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_quality_rating
+      label: overall_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: clarity_rating
+      label: clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: usefulness_rating
+      label: usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale_1
+      label: rating_scale_1
+      hint: null
+      type: select_multiple
+      options:
+      - Rating Scale 1
+      - Rating Scale 2
+      - Rating Scale 3
+      required: false
+    - id: 7
+      name: rating_scale_2
+      label: rating_scale_2
+      hint: null
+      type: select_multiple
+      options:
+      - Rating Scale 1
+      - Rating Scale 2
+      - Rating Scale 3
+      required: false

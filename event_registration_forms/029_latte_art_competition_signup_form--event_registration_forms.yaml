@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Latte Art Competition Signup Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_skills
+      label: Participant Skills
+      hint: List participant skills (e.g., latte art, latte painting, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_image
+      label: Participant Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_leader_email
+      label: Team Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: team_leader_phone
+      label: Team Leader Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_image
+      label: Team Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: Name of your latte art event
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: Date of your latte art event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: Location of your latte art event
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer
+      label: Event Organizer
+      hint: Name of the event organizer
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_description
+      label: Event Description
+      hint: Description of the event
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_start_time
+      label: Event Start Time
+      hint: Start time of your latte art event
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: event_end_time
+      label: Event End Time
+      hint: End time of your latte art event
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: entry_rules
+      label: Entry Rules
+      hint: Rules for participants
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: entry_fee
+      label: Entry Fee
+      hint: Fee for participant
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: participant_agree
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree with the terms and conditions
+      - I agree with the participant agreement form
+      required: true
+    - id: 21
+      name: participant_terms
+      label: Participant Terms
+      hint: null
+      type: select_multiple
+      options:
+      - I agree with the terms and conditions
+      - I agree with the participant agreement form
+      required: true
+    - id: 22
+      name: event_agree
+      label: Event Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree with the terms and conditions
+      - I agree with the participant agreement form
+      required: true
+    - id: 23
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - Participant Information
+      - Participant Information
+      required: false
+    - id: 24
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 25
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - Notes
+      - Notes
+      required: false

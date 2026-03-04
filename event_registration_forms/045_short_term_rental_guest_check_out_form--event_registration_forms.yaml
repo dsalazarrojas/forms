@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Term Rental Guest Check Out Form
+    pages:
+    - id: 1
+      name: guest_feedback
+      label: Guest Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: additional_charges
+      label: Additional Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: host_email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_total
+      label: Total Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

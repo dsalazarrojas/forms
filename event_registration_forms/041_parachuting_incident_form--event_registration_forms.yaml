@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: parachuting_incident_form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: jump_location
+      label: Jump Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 10
+      name: investigation_conclusion
+      label: Investigation Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: safety_risk_factors
+      label: Safety Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_reported_at
+      label: Incident Reported At
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: incident_reported_to
+      label: Incident Reported To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: investigation_responsible
+      label: Investigation Responsible
+      hint: null
+      type: select_one
+      options:
+      - Safety Team
+      - Skydiver
+      - Instructor
+      required: true
+    - id: 17
+      name: investigation_comments
+      label: Investigation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: skydiver_name
+      label: Skydiver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: skydiver_license
+      label: Skydiver License
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 20
+      name: skydiver_license_expiration
+      label: Skydiver License Expiration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: jump_attendant
+      label: Jump Attendant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: skydiver_rating
+      label: Skydiver Rating
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 23
+      name: skydiver_license_valid
+      label: Skydiver License Valid
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: equipment_inspection
+      label: Equipment Inspection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

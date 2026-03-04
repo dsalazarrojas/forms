@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staple Food Crops Survey
+    pages:
+    - id: 1
+      name: farmer_name
+      label: Farmer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_id
+      label: farm_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: crop_type
+      label: Crop Type
+      hint: Select one or more of the staple foods you produce
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''maize''}'
+      - '{''id'': 2, ''name'': ''wheat''}'
+      - '{''id'': 3, ''name'': ''rice''}'
+      - '{''id'': 4, ''name'': ''potatoes''}'
+      required: false
+    - id: 4
+      name: production_area
+      label: Production Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: land_area_harvested
+      label: Land Area Harvested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: yield_percentage
+      label: Yield Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: farm_size
+      label: Farm Size (ha)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''urban''}'
+      - '{''id'': 2, ''name'': ''rural''}'
+      - '{''id'': 3, ''name'': ''peri-urban''}'
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Permission Form
+    pages:
+    - id: 1
+      name: section_artist
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: permission_date
+      label: Permission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_exhibition
+      label: -- Exhibition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exhibition_name
+      label: Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exhibition_date
+      label: Exhibition Date and Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exhibition_venue
+      label: Exhibition Venue
+      hint: Gallery name and location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_artwork
+      label: -- Artwork Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_medium
+      label: Medium or Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Width x Height x Depth if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artwork_value
+      label: Estimated Value for Insurance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_permissions
+      label: -- Permissions Granted --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: display_permission
+      label: Permission to Display Artwork
+      hint: In the agreed exhibition space
+      type: select_one
+      options:
+      - Yes, I permit
+      - false
+      required: true
+    - id: 17
+      name: photography_permission
+      label: Permission to Photograph Artwork
+      hint: For documentation and promotional use
+      type: select_one
+      options:
+      - Yes, I permit
+      - false
+      required: true
+    - id: 18
+      name: publicity_permission
+      label: Permission to Use in Promotional Materials
+      hint: Website, social media, brochures, advertising
+      type: select_one
+      options:
+      - Yes, I permit
+      - false
+      - With credit only
+      required: true
+    - id: 19
+      name: attribution_requirement
+      label: Require Artist Attribution or Credit
+      hint: null
+      type: select_one
+      options:
+      - Yes, required
+      - false
+      required: true
+    - id: 20
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: insurance_responsibility
+      label: Insurance Responsibility
+      hint: null
+      type: select_one
+      options:
+      - Gallery responsible
+      - Artist responsible
+      - Shared responsibility
+      required: true
+    - id: 22
+      name: commission_agreement
+      label: Commission or Sale Agreement
+      hint: Percentage gallery takes from sales
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: removal_procedures
+      label: Agree to Exhibition Removal Procedures
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 24
+      name: artist_statement
+      label: Artist Statement or Bio Included
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I acknowledge and grant the above permissions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true

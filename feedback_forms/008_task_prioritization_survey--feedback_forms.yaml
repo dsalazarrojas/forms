@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Prioritization Survey
+    pages:
+    - id: 1
+      name: task_list
+      label: Task List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: task_description
+      label: Task Description
+      hint: Please enter a brief description of the task
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_tags
+      label: Task Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: task_comments
+      label: Task Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tags
+      label: Tags
+      hint: Please enter tags for this survey
+      type: text
+      options: []
+      required: false

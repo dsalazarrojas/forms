@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Internet Access At Home Feedback Form
+    pages:
+    - id: 1
+      name: student_internet_access_at_home_feedback_form_page_1
+      label: Internet Access At Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_access_at_home
+      label: At Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: student_internet_access_at_home_feedback_form_internet_access_at_home_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_internet_access_at_home_feedback_form_internet_access_at_home_feedback_options
+      label: Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_internet_access_at_home_feedback_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

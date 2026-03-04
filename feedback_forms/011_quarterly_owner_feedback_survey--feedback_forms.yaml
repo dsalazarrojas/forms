@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Owner Feedback Survey
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Townhouse
+      - Commercial Property
+      - Land
+      - Condo
+      - Office
+      required: true
+    - id: 5
+      name: feedback
+      label: What would you like to feedback about the property
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: satisfaction
+      label: How satisfied are you with our service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Satisfied'', ''value'': 1}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': 2}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Disatisfied'', ''value'': 4}'
+      - '{''label'': ''Satisfied'', ''value'': 5}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true

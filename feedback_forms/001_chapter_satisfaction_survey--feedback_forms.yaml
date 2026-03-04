@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Satisfaction Survey
+    pages:
+      - id: 1
+        name: member_name
+        label: Member Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: chapter_name
+        label: Chapter Name
+        hint: Name of your local chapter
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: membership_duration
+        label: How long have you been a member
+        hint: Select the duration that applies
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - More than 5 years
+        required: true
+      - id: 4
+        name: event_satisfaction
+        label: How satisfied are you with chapter events
+        hint: Rate your overall satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 5
+        name: event_frequency
+        label: How often do you attend chapter events
+        hint: Your attendance pattern
+        type: select_one
+        options:
+          - Every event
+          - Most events
+          - About half
+          - Rarely
+          - Never
+        required: true
+      - id: 6
+        name: leadership_rating
+        label: How would you rate chapter leadership
+        hint: Rate the effectiveness of leadership
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 7
+        name: communication_rating
+        label: How effective is chapter communication
+        hint: Rate communication quality
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 8
+        name: community_engagement
+        label: How engaged do you feel in the chapter community
+        hint: Your sense of belonging
+        type: select_one
+        options:
+          - Very engaged
+          - Engaged
+          - Somewhat engaged
+          - Slightly engaged
+          - Not engaged
+        required: true
+      - id: 9
+        name: improvement_areas
+        label: Which areas need improvement
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Event quality
+          - Event frequency
+          - Communication
+          - Leadership transparency
+          - Member engagement
+          - Resources and support
+          - Networking opportunities
+        required: false
+      - id: 10
+        name: recommend_chapter
+        label: Would you recommend this chapter to others
+        hint: Your likelihood to recommend
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 11
+        name: additional_feedback
+        label: Additional comments or suggestions
+        hint: Share any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false

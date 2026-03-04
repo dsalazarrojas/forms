@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Advocate Exit Offboarding Form
+    pages:
+    - id: 1
+      name: exit_form_data
+      label: Exit Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exit_time
+      label: Exit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reasons_for_departure
+      label: Reasons for Departure
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: exit_reason
+      label: Exit Reason
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: comments_and_feedback
+      label: Comments and Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

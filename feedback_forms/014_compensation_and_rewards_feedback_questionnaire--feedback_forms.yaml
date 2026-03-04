@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation And Rewards Feedback Questionnaire
+    pages:
+      - id: 1
+        name: rewards_feedback_header
+        label: -- Rewards and Recognition Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: structure_clarity
+        label: Is the compensation structure of the company easy to understand?
+        hint: Knowing how pay scales and levels work
+        type: select_one
+        options:
+          - Yes, very clear
+          - Somewhat clear
+          - No, it is confusing
+        required: true
+      - id: 3
+        name: reward_frequency
+        label: How often do you receive non-monetary recognition?
+        hint: e.g., Praise, certificates, small gifts
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Yearly
+          - Rarely or Never
+        required: true
+      - id: 4
+        name: performance_reward_fairness
+        label: Do you believe high performers are rewarded appropriately?
+        hint: Fairness of merit-based rewards
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 5
+        name: reward_preference
+        label: Which type of reward motivates you the most?
+        hint: Select your top preference
+        type: select_one
+        options:
+          - Spot Bonuses (Cash)
+          - Public Recognition (Awards)
+          - Extra Time Off
+          - Gift Cards / Experiences
+          - Professional Training Opportunities
+        required: true
+      - id: 6
+        name: retention_driver
+        label: To what extent does the current reward system influence your decision to stay?
+        hint: 1 is no influence, 5 is major influence
+        type: select_one
+        options:
+          - 1 - No influence
+          - 2
+          - 3
+          - 4
+          - 5 - Major influence
+        required: true
+      - id: 7
+        name: peer_recognition_program
+        label: Would you value a formal peer-to-peer recognition program?
+        hint: Being able to reward/thank your colleagues
+        type: select_one
+        options:
+          - Definitely Yes
+          - Maybe
+          - No
+        required: true
+      - id: 8
+        name: current_rewards_usability
+        label: Are the existing rewards (e.g., discounts, perks) easy to access and use?
+        hint: Awareness and ease of use
+        type: select_one
+        options:
+          - Yes
+          - No
+          - I am not aware of any rewards
+        required: false
+      - id: 9
+        name: open_rewards_suggestions
+        label: How can we improve our rewards and recognition program?
+        hint: Specific ideas or changes
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: general_satisfaction_rating
+        label: Rate your overall satisfaction with the company's reward strategy
+        hint: Final rating
+        type: select_one
+        options:
+          - Highly Satisfied
+          - Satisfied
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true

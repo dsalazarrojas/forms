@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebration Event Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_registration_details
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests Attending
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: guest_names
+      label: Names of Other Guests
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Family
+      - VIP
+      - Volunteer
+      required: true
+    - id: 15
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut-free
+      - No Restrictions
+      required: true
+    - id: 17
+      name: meal_selection
+      label: Meal Selection
+      hint: null
+      type: select_one
+      options:
+      - Standard Meal
+      - Vegetarian Meal
+      - Vegan Meal
+      - Special Diet Meal
+      - No Meal
+      required: false
+    - id: 18
+      name: special_seating
+      label: Special Seating Requests
+      hint: Accessibility, companions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_activities
+      label: -- Activities and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: interested_activities
+      label: Interested in Which Activities?
+      hint: null
+      type: select_multiple
+      options:
+      - Dinner Service
+      - Entertainment
+      - Dancing
+      - Games
+      - Photo Booth
+      - Raffle
+      - Silent Auction
+      required: false
+    - id: 21
+      name: volunteer_interest
+      label: Interested in Volunteering?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 22
+      name: section_consent
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: photo_video_consent
+      label: I consent to photography and videography
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: I agree to the event terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: contact_preference
+      label: Preferred Contact Method for Event Updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No Contact
+      required: true

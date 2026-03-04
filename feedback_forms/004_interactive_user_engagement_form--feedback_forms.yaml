@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interactive User Engagement Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''text''}'
+      - '{''option'': ''photo''}'
+      - '{''option'': ''video''}'
+      required: false
+    - id: 3
+      name: question_1
+      label: question_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_2
+      label: question_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''option_1''}'
+      - '{''option'': ''option_2''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: question_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: question_4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: question_5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: question_6
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''option_1''}'
+      - '{''option'': ''option_2''}'
+      - '{''option'': ''option_3''}'
+      required: false
+    - id: 9
+      name: question_7
+      label: question_7
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: question_8
+      label: question_8
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''option_1''}'
+      - '{''option'': ''option_2''}'
+      required: false
+    - id: 11
+      name: question_9
+      label: question_9
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: question_10
+      label: question_10
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question_11
+      label: question_11
+      hint: null
+      type: time
+      options: []
+      required: false

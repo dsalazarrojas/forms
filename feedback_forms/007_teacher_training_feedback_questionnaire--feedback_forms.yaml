@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_session_satisfaction
+      label: Overall session satisfaction
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: presentation_content
+      label: Session content
+      hint: How did you find the session content?
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: interaction_with_trainer
+      label: Interaction with trainer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: materials
+      label: Session materials
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 6
+      name: time_management
+      label: Time management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 7
+      name: feedback_to_trainer
+      label: Feedback to trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation
+      label: Overall evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 11
+      name: rating_scale
+      label: Rating scale
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: session_length
+      label: Session length
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-2 hours''}'
+      - '{''value'': ''2-3 hours''}'
+      - '{''value'': ''3-4 hours''}'
+      - '{''value'': ''4-5 hours''}'
+      required: false
+    - id: 13
+      name: session_frequency
+      label: Session frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Too few sessions''}'
+      - '{''value'': ''About right''}'
+      - '{''value'': ''Too many sessions''}'
+      required: false
+    - id: 14
+      name: training_topics
+      label: Training topics
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Content delivery''}'
+      - '{''value'': ''Interaction techniques''}'
+      - '{''value'': ''Time management''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 15
+      name: additional_resources
+      label: Additional resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 16
+      name: follow_up_support
+      label: Follow-up support
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 17
+      name: feedback_frequency
+      label: Feedback frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Too rarely''}'
+      - '{''value'': ''About right''}'
+      - '{''value'': ''Too frequently''}'
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: rating_satisfaction
+      label: Rating satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 20
+      name: rating_quality
+      label: Rating quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 21
+      name: rating_value
+      label: Rating value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: session_satisfaction
+      label: Session satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 23
+      name: feedback_to_institution
+      label: Feedback to institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: session_topics
+      label: Session topics
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Content delivery''}'
+      - '{''value'': ''Interaction techniques''}'
+      - '{''value'': ''Time management''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 25
+      name: session_topics_other
+      label: Session topics (other)
+      hint: null
+      type: text
+      options: []
+      required: false

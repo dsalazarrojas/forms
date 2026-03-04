@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name as it should appear on records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dob
+      label: Date of Birth
+      hint: Participant date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: guardian_contact
+      label: Guardian Contact Info
+      hint: Phone or email for guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_choice
+      label: Session Choice
+      hint: Which session or dates the participant will attend
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_info
+      label: Medical Information
+      hint: Allergies, medications, special needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: For urgent communication
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: Registration fee amount
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: How the fee will be paid
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 9
+      name: consent_signed
+      label: Consent Signed
+      hint: Parent or guardian consent confirmation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: Any accommodations or notes for staff
+      type: text
+      options: []
+      required: false

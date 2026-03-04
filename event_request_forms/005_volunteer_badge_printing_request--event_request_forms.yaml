@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Badge Printing Request
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_photo
+      label: Volunteer Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shift_start
+      label: Shift Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shift_end
+      label: Shift End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_level
+      label: Volunteer Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      - '{''id'': 4, ''label'': ''Level 4''}'
+      - '{''id'': 5, ''label'': ''Level 5''}'
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      - '{''id'': 4, ''label'': ''Level 4''}'
+      - '{''id'': 5, ''label'': ''Level 5''}'
+      required: false
+    - id: 16
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

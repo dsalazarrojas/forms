@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_wellness_education_series_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_ratings
+      label: overall_ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workshop_topics
+      label: workshop_topics
+      hint: Which topics do you think should be included in future workshops?
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Mindfulness and Meditation''}'
+      - '{''value'': 2, ''label'': ''Nutrition and Wellness''}'
+      - '{''value'': 3, ''label'': ''Stress Management''}'
+      - '{''value'': 4, ''label'': ''Mindful Movement''}'
+      - '{''value'': 5, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: future_workshops
+      label: future_workshops
+      hint: How can we improve future workshops?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_attendance
+      label: workshop_attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0, ''label'': ''Not Attended''}'
+      - '{''value'': 1, ''label'': ''Partially Attended''}'
+      - '{''value'': 2, ''label'': ''Fully Attended''}'
+      - '{''value'': 3, ''label'': ''Will Attend in the Future''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

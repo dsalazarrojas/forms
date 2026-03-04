@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ramen Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a real email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Food Quality
+      - Service
+      - Ambiance
+      required: true
+    - id: 5
+      name: rating_food
+      label: How would you rate the food
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_service
+      label: How would you rate the service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_ambiance
+      label: How would you rate the ambiance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

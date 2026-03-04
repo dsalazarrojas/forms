@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Promotion Feedback Survey
+    pages:
+    - id: 1
+      name: post_promotion_feedback_survey_page
+      label: What did you think of the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_rating
+      label: Rate the event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_rating_scale
+      label: Event rating scale
+      hint: From 1 to 5
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: true
+    - id: 4
+      name: post_promotion_feedback_survey_page_2
+      label: Do you want to receive more information about this promotion in the future?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_upload
+      label: File upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: post_promotion_feedback_survey_page_3
+      label: Do you have any other comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Evaluation Feedback Survey
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: your_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_subject
+      label: -- Colleague Being Evaluated --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: colleague_name
+      label: Colleague Name
+      hint: Full name of the person you are evaluating
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: relationship_length
+      label: How long have you worked together?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 7
+      name: section_collaboration
+      label: -- Collaboration and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate their effectiveness in communicating ideas
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 9
+      name: teamwork
+      label: Teamwork and Cooperation
+      hint: Rate their ability to work effectively with others
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: reliability
+      label: Reliability and Dependability
+      hint: Rate their consistency in meeting commitments
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: problem_solving
+      label: Problem Solving Ability
+      hint: Rate their approach to handling challenges
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: initiative
+      label: Initiative and Leadership
+      hint: Rate their willingness to take on responsibilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: section_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: strengths
+      label: What are their key strengths?
+      hint: Please describe 2-3 areas where they excel
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: development_areas
+      label: Areas for Development
+      hint: What skills or behaviors could they improve?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specific_examples
+      label: Provide Specific Examples
+      hint: Share concrete examples of collaboration or communication
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendations
+      label: Recommendations for Growth
+      hint: What advice would you give them?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_completion
+      label: -- Survey Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: confidential
+      label: This feedback will be kept confidential
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

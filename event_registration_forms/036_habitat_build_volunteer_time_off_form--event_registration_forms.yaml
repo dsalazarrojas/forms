@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Habitat Build Volunteer Time Off Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: Enter the name of the volunteer.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: time_off_date
+      label: Time Off Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_off_time
+      label: Time Off Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_time_off
+      label: Reason for Time Off
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: select_organizations
+      label: Select Organizations
+      hint: null
+      type: select_multiple
+      options:
+      - Habitat
+      - Home
+      - Other
+      required: false
+    - id: 9
+      name: select_volunteer_roles
+      label: Select Volunteer Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Builder
+      - Organizer
+      - Other
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

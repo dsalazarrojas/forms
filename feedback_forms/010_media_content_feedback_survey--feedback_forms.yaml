@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Content Feedback Survey
+    pages:
+    - id: 1
+      name: video_feedback
+      label: Video Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: podcast_feedback
+      label: Podcast Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: article_feedback
+      label: Article Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_feedback
+      label: Campaign Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: category_options
+      label: Select a category
+      hint: null
+      type: text
+      options: []
+      required: false

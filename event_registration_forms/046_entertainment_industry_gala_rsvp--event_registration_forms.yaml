@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment industry gala rsvp
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: headcount
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, I will attend
+      - No, I regret to inform you that I won't be able to attend
+      - Maybe, I'll see, let me know if I can
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: industry
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - TV
+      - Media
+      - Digital
+      - Music
+      - Theater
+      - Dance
+      - Other
+      required: false
+    - id: 9
+      name: attending_with
+      label: Attending with
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Friend
+      - Colleague
+      - Family
+      - Other
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

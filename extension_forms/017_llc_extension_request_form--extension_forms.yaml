@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: LLC Extension Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: document_1
+      label: Document 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_2
+      label: Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Authorized'', ''value'': ''Authorized''}'
+      - '{''name'': ''Not Authorized'', ''value'': ''Not Authorized''}'
+      required: false
+    - id: 8
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false

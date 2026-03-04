@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: exam_date_voting_form
+    pages:
+    - id: 1
+      name: exam_form_info
+      label: exam_form_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exam_date
+      label: select_examination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exam_time
+      label: select_examination_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: exam_location
+      label: select_examination_location
+      hint: null
+      type: select_one
+      options:
+      - 8:00 am
+      - 10:00 am
+      - 1:00 pm
+      - 3:00 pm
+      required: false
+    - id: 5
+      name: exam_duration
+      label: select_examination_duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      required: false
+    - id: 6
+      name: exam_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exam_form_submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_date
+      label: select_submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submit_time
+      label: select_submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: exam_status
+      label: select_exam_status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 11
+      name: exam_start_date
+      label: select_exam_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: select_submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitter_email
+      label: select_submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: select_submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_form_submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_form_submitted_at
+      label: select_submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitter_form_submitted_by
+      label: select_submitter_submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitter_form_submitted_at
+      label: select_submitter_submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitter_form_submitted_date
+      label: select_submitter_submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: exam_form_submitted_date
+      label: select_exam_submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitter_form_submitted_time
+      label: select_submitter_submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: exam_form_submitted_by
+      label: select_exam_submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: exam_form_submitted_at
+      label: select_exam_submitted_at
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: exam_form_submitted_by_user
+      label: select_exam_submitted_by_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

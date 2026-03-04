@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Process Feedback Questionnaire
+    pages:
+      - id: 1
+        name: section_responder_information
+        label: -- Responder Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: responder_name
+        label: Responder name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: project_name
+        label: Project name
+        hint: Project being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: process_stage
+        label: Process stage
+        hint: Which part of the process are you providing feedback on
+        type: select_one
+        options:
+          - Design
+          - Procurement
+          - Construction
+          - Handover
+        required: true
+      - id: 5
+        name: satisfaction_level
+        label: Satisfaction level
+        hint: Rate your overall satisfaction with this process stage
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 6
+        name: biggest_issues
+        label: Biggest issues encountered
+        hint: Describe the primary issues
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: positive_aspects
+        label: Positive aspects
+        hint: What worked well in the process
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: improvement_recommendations
+        label: Improvement recommendations
+        hint: Practical suggestions for process improvement
+        type: text
+        options: []
+        required: false

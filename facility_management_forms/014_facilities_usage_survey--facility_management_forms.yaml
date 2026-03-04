@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facilities Usage Survey
+    pages:
+    - id: 1
+      name: facility_usage_survey_form
+      label: facility_usage_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usage_patterns
+      label: usage_patterns
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: usage_frequency
+      label: usage_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 5
+      name: facilities_used
+      label: facilities_used
+      hint: null
+      type: select_multiple
+      options:
+      - Gym
+      - Office
+      - Classroom
+      - Community Space
+      - Other
+      required: false
+    - id: 6
+      name: facilities_used_other
+      label: facilities_used_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_last_visited
+      label: date_last_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_last_visited
+      label: time_last_visited
+      hint: null
+      type: time
+      options: []
+      required: false

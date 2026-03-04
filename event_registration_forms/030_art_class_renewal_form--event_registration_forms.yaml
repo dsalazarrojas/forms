@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Renewal Form
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_current_class
+      label: -- Current Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_class_name
+      label: Current Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_term
+      label: Current Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_renewal
+      label: -- Renewal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: renewal_class
+      label: Art Class to Renew
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: renewal_term
+      label: Renewal Term or Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: class_continuation
+      label: Is this a continuation of your current class
+      hint: null
+      type: select_one
+      options:
+      - Yes, same level
+      - Yes, advanced level
+      - No, different class
+      required: true
+    - id: 14
+      name: section_feedback
+      label: -- Feedback on Current Class --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: class_satisfaction
+      label: Satisfaction with Current Class
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 16
+      name: instructor_rating
+      label: Instructor Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: learning_progress
+      label: Progress Made in Class
+      hint: null
+      type: select_one
+      options:
+      - Significant progress
+      - Good progress
+      - Some progress
+      - Minimal progress
+      required: true
+    - id: 18
+      name: section_preferences
+      label: -- Preferences for Renewal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_schedule
+      label: Preferred Class Schedule
+      hint: Days and times
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preference_instructed
+      label: Preference to keep same instructor
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No preference
+      - Would like new instructor
+      required: false
+    - id: 21
+      name: class_size_preference
+      label: Preferred Class Size
+      hint: null
+      type: select_one
+      options:
+      - Small group
+      - Medium group
+      - No preference
+      required: false
+    - id: 22
+      name: section_goals
+      label: -- Goals for Next Term --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: next_term_goals
+      label: Goals for Next Term
+      hint: What do you hope to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: interest_change
+      label: Change in Artistic Interests
+      hint: Any new areas you want to explore
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: payment_method
+      label: Payment Method for Renewal
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Cash
+      - Other
+      required: true
+    - id: 27
+      name: renewal_status
+      label: Confirm Renewal Enrollment
+      hint: null
+      type: select_one
+      options:
+      - Yes, renew now
+      - Not sure yet
+      - No, will not continue
+      required: true

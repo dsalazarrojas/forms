@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: College In Person Event Registration Form
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: affiliation_type
+      label: Affiliation Type
+      hint: Your relationship to the college
+      type: select_one
+      options:
+      - Current Student
+      - Faculty
+      - Staff
+      - Alumni
+      - Parent
+      - Prospective Student
+      - Community Member
+      - Other
+      required: true
+    - id: 6
+      name: institution_name
+      label: Institution or Department
+      hint: Your college or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Which event are you registering for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Building and room number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_1_interested
+      label: Interested in Session 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: session_1_time
+      label: Session 1 Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: session_2_interested
+      label: Interested in Session 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: session_2_time
+      label: Session 2 Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: additional_guest
+      label: Will You Bring a Guest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: guest_name
+      label: Guest Name
+      hint: If bringing a guest
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 18
+      name: dietary_other
+      label: Other Dietary Requirements
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Please describe what you need
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parking_needed
+      label: Parking Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: transportation_arrangement
+      label: Transportation Needs
+      hint: Do you need shuttle service
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: event_experience
+      label: What is Your Expected Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 24
+      name: communication_preference
+      label: Communication Preference
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 25
+      name: event_terms_acceptance
+      label: I agree to the event terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

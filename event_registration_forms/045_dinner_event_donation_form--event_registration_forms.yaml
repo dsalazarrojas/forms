@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: dinner_event_donation_form
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_items
+      label: Requested Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

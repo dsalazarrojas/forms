@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Concepts Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - for follow-up
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: role
+        label: Your Role
+        hint: What is your position
+        type: select_one
+        options:
+          - Student
+          - Teacher or Instructor
+          - Administrator
+          - Trainer
+          - HR Professional
+          - Manager
+          - Other
+        required: true
+      - id: 4
+        name: organization_type
+        label: Organization Type
+        hint: Where do you work or study
+        type: select_one
+        options:
+          - K-12 School
+          - College or University
+          - Corporate
+          - Non-Profit
+          - Government
+          - Healthcare
+          - Other
+        required: true
+      - id: 5
+        name: assessment_experience
+        label: Experience with Assessments
+        hint: How familiar are you
+        type: select_one
+        options:
+          - Very Experienced
+          - Somewhat Experienced
+          - Limited Experience
+          - No Experience
+        required: true
+      - id: 6
+        name: assessment_frequency
+        label: How Often Do You Use Assessments
+        hint: Frequency of use
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Rarely
+          - Never
+        required: true
+      - id: 7
+        name: preferred_assessment_type
+        label: Preferred Assessment Type
+        hint: What do you prefer
+        type: select_one
+        options:
+          - Multiple Choice Tests
+          - Written Essays
+          - Practical Demonstrations
+          - Oral Examinations
+          - Portfolio Reviews
+          - Peer Assessments
+          - Self Assessments
+        required: true
+      - id: 8
+        name: assessment_purpose
+        label: Primary Purpose of Assessments
+        hint: Why do you use assessments
+        type: select_multiple
+        options:
+          - Measure Knowledge
+          - Evaluate Skills
+          - Track Progress
+          - Certification
+          - Hiring Decisions
+          - Performance Review
+          - Program Evaluation
+        required: true
+      - id: 9
+        name: technology_comfort
+        label: Comfort with Digital Assessments
+        hint: How comfortable are you
+        type: select_one
+        options:
+          - Very Comfortable
+          - Somewhat Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 10
+        name: online_assessment_use
+        label: Do You Use Online Assessments
+        hint: Current usage
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 11
+        name: assessment_challenges
+        label: Biggest Assessment Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Time Constraints
+          - Resource Limitations
+          - Cheating Concerns
+          - Technical Issues
+          - Scoring Consistency
+          - Student Anxiety
+          - Lack of Feedback Tools
+        required: true
+      - id: 12
+        name: feedback_importance
+        label: Importance of Immediate Feedback
+        hint: How important is quick feedback
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 13
+        name: assessment_format_preference
+        label: Preferred Assessment Format
+        hint: How should assessments be delivered
+        type: select_one
+        options:
+          - Timed Tests
+          - Untimed Tests
+          - Open Book
+          - Project Based
+          - Collaborative
+          - Individual
+        required: true
+      - id: 14
+        name: grading_method_preference
+        label: Preferred Grading Method
+        hint: How should assessments be graded
+        type: select_one
+        options:
+          - Pass or Fail
+          - Letter Grades A to F
+          - Numeric Score 0-100
+          - Rubric Based
+          - Competency Based
+        required: true
+      - id: 15
+        name: accessibility_needs
+        label: Accessibility Features Needed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Extended Time
+          - Screen Reader Support
+          - Large Print
+          - Audio Version
+          - Simplified Language
+          - None
+        required: true
+      - id: 16
+        name: assessment_improvement
+        label: What Would Improve Assessments
+        hint: Your suggestions
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: technology_tools_used
+        label: Assessment Technology Tools Used
+        hint: What platforms do you use
+        type: select_multiple
+        options:
+          - Learning Management Systems
+          - Online Quiz Platforms
+          - Video Proctoring
+          - Plagiarism Detection
+          - Analytics Dashboards
+          - None
+        required: false
+      - id: 18
+        name: training_interest
+        label: Interest in Assessment Training
+        hint: Would you like training
+        type: select_one
+        options:
+          - Very Interested
+          - Somewhat Interested
+          - Not Interested
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: survey_date
+        label: Survey Date
+        hint: Today date
+        type: date
+        options: []
+        required: true

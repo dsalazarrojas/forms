@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: peacebuilding-workshop-enrollment-form
+    pages:
+    - id: 1
+      name: workshop_enrollment_form
+      label: Workshop Enrollment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: workshop type
+      hint: null
+      type: select_multiple
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: address_line_1
+      label: address line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address_line_2
+      label: address line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: false

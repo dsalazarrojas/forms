@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Minor Consent For Body Art
+    pages:
+    - id: 1
+      name: studio_information
+      label: Studio Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_consent
+      label: Parent Consent
+      hint: Please sign this consent form to give your permission for your child to
+        receive body art services.
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 3
+      name: minor_information
+      label: Minor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_contact
+      label: Parent Contact Info
+      hint: Please enter a valid contact information for parent or guardian.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: minor_name
+      label: Minor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: minor_dob
+      label: Minor DOB
+      hint: Minor's Date of Birth
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: minor_signature
+      label: Minor Signature
+      hint: Minor's Signature
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: parent_signature
+      label: Parent Signature
+      hint: Parent/Guardian Signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: Date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: Time
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: tattoo_designer
+      label: Tattoo Designer
+      hint: null
+      type: text
+      options: []
+      required: false

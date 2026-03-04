@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Promotion Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your mobile or landline number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: how_did_you_hear
+      label: How did you hear about our promotion?
+      hint: Select one option
+      type: select_one
+      options:
+      - Social Media
+      - Television
+      - Radio
+      - Newspaper
+      - Word of Mouth
+      - In-store Display
+      - Email Newsletter
+      - Website
+      - Other
+      required: true
+    - id: 8
+      name: store_visit_frequency
+      label: How often do you visit our store?
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - 2-3 times per month
+      - Weekly
+      - Multiple times per week
+      - Daily
+      required: true
+    - id: 9
+      name: product_interests
+      label: What products interest you most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clothing and Fashion
+      - Electronics
+      - Home and Garden
+      - Beauty and Personal Care
+      - Sports and Outdoors
+      - Food and Groceries
+      - Books and Media
+      - Toys and Games
+      required: true
+    - id: 10
+      name: wish_to_purchase
+      label: What would you like to purchase today?
+      hint: Describe products or categories
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: promotion_interest
+      label: Which promotions interest you most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Discounts on selected items
+      - Buy one get one free
+      - Bundle deals
+      - Loyalty rewards
+      - Free shipping
+      - Seasonal sales
+      - Clearance items
+      required: true
+    - id: 12
+      name: preferred_discount_range
+      label: What discount range would encourage you to shop?
+      hint: null
+      type: select_one
+      options:
+      - 10% off
+      - 15-25% off
+      - 25-50% off
+      - 50%+ off
+      required: false
+    - id: 13
+      name: loyalty_program_interest
+      label: Would you join our loyalty program?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: online_shopping_preference
+      label: Do you prefer shopping online or in-store?
+      hint: null
+      type: select_one
+      options:
+      - Online only
+      - Mostly online
+      - Equally both
+      - Mostly in-store
+      - In-store only
+      required: false
+    - id: 15
+      name: communication_preferences
+      label: How would you like to receive promotions?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email
+      - SMS Text
+      - Phone Call
+      - In-store Newsletter
+      - Social Media
+      - No promotional communication
+      required: true
+    - id: 16
+      name: overall_experience
+      label: Rate your overall shopping experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: improvement_suggestions
+      label: How can we improve your shopping experience?
+      hint: null
+      type: text
+      options: []
+      required: false

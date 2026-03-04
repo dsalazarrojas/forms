@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: pmi_feedback_survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Project Management Information Survey
+      hint: Tell us about your experiences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_management_practices
+      label: Project Management Practices
+      hint: null
+      type: select_one
+      options:
+      - Agile
+      - Waterfall
+      - Hybrid
+      required: true
+    - id: 3
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_team
+      label: Project Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team Members
+      - Stakeholders
+      - Project Manager
+      required: true
+    - id: 6
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: date
+      options: []
+      required: false

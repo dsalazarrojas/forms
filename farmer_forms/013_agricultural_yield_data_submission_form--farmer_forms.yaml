@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Yield Data Submission Form
+    pages:
+    - id: 1
+      name: farmer_name
+      label: Farmer Name
+      hint: Full name of farmer or farm manager
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Name of farming operation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_id
+      label: Farm ID Number
+      hint: Farm identification number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Primary email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_season
+      label: Harvest Season
+      hint: Season of this yield data
+      type: select_one
+      options:
+      - Spring 2025
+      - Summer 2025
+      - Fall 2025
+      - Winter 2025
+      - Spring 2024
+      - Summer 2024
+      - Fall 2024
+      - Winter 2024
+      required: true
+    - id: 7
+      name: crop_type
+      label: Crop Type
+      hint: Primary crop being reported
+      type: select_one
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Rice
+      - Cotton
+      - Barley
+      - Oats
+      - Sorghum
+      - Hay
+      - Vegetables
+      - Fruits
+      - Other
+      required: true
+    - id: 8
+      name: crop_variety
+      label: Crop Variety
+      hint: Specific variety if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: field_name
+      label: Field Name or ID
+      hint: Field identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: field_size
+      label: Field Size (acres)
+      hint: Harvested acreage
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: planting_date
+      label: Planting Date
+      hint: When crop was planted
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: harvest_start_date
+      label: Harvest Start Date
+      hint: When harvest began
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: harvest_end_date
+      label: Harvest End Date
+      hint: When harvest ended
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: total_yield
+      label: Total Yield
+      hint: Total amount harvested
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: yield_unit
+      label: Yield Unit
+      hint: Unit of measurement
+      type: select_one
+      options:
+      - Bushels
+      - Pounds
+      - Tons
+      - Kilograms
+      - Metric tons
+      - Hundredweight
+      - Bales
+      required: true
+    - id: 16
+      name: yield_per_acre
+      label: Yield Per Acre
+      hint: Average yield per acre
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: moisture_content
+      label: Moisture Content (%)
+      hint: Percentage at harvest
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: test_weight
+      label: Test Weight (lbs per bushel)
+      hint: Quality measurement
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: grain_quality
+      label: Grain Quality Grade
+      hint: Official grade if available
+      type: select_one
+      options:
+      - US No. 1
+      - US No. 2
+      - US No. 3
+      - US No. 4
+      - Sample grade
+      - Not graded
+      required: false
+    - id: 20
+      name: storage_location
+      label: Storage Location
+      hint: Where is the harvest stored
+      type: select_one
+      options:
+      - On-farm bin
+      - Commercial elevator
+      - Cooperative facility
+      - Sold immediately
+      - Other
+      required: true
+    - id: 21
+      name: irrigation_used
+      label: Irrigation Used
+      hint: Was irrigation applied
+      type: select_one
+      options:
+      - Yes, full irrigation
+      - Yes, supplemental
+      - No, dryland only
+      required: true
+    - id: 22
+      name: pest_issues
+      label: Pest Issues Encountered
+      hint: Did pests affect yield
+      type: select_one
+      options:
+      - None
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      required: true
+    - id: 23
+      name: weather_impact
+      label: Weather Impact
+      hint: Did weather affect yield
+      type: select_one
+      options:
+      - No impact
+      - Minor positive impact
+      - Major positive impact
+      - Minor negative impact
+      - Major negative impact
+      required: true
+    - id: 24
+      name: weather_details
+      label: Weather Details
+      hint: Describe weather effects
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fertilizer_program
+      label: Fertilizer Program
+      hint: Brief description of fertilizer use
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: yield_comparison
+      label: Yield Comparison to Average
+      hint: How does this compare to your average
+      type: select_one
+      options:
+      - Much above average
+      - Above average
+      - Average
+      - Below average
+      - Much below average
+      required: true
+    - id: 27
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have documents to upload
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: data_accuracy
+      label: Data Accuracy Confirmation
+      hint: I confirm this data is accurate
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 29
+      name: submission_date
+      label: Submission Date
+      hint: Date of data submission
+      type: date
+      options: []
+      required: true

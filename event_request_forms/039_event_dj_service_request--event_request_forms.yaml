@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event DJ Service Request
+    pages:
+    - id: 1
+      name: event_dj_service_request
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_dj_service_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_dj_service_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_dj_service_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Party
+      - Corporate
+      required: false
+    - id: 7
+      name: event_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_dj_service_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_dj_service_special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_dj_service_dj_details
+      label: DJ Details
+      hint: null
+      type: text
+      options: []
+      required: false

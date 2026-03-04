@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom Webinar Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: timezone_options
+      label: Timezone Options
+      hint: null
+      type: select_multiple
+      options:
+      - Pacific Time (UTC-8)
+      - Mountain Time (UTC-7)
+      - Central Time (UTC-6)
+      - Eastern Time (UTC-5)
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: registrant_type
+      label: Registrant Type
+      hint: null
+      type: select_multiple
+      options:
+      - In-house
+      - Out-of-house
+      - Remote
+      required: false
+    - id: 11
+      name: integrations
+      label: Integrations
+      hint: null
+      type: select_multiple
+      options:
+      - Zoom
+      - 100+ Apps
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_tool_options
+      label: Assigned Tool Options
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

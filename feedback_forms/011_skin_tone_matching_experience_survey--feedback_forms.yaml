@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Tone Matching Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_tone_matching_methods
+      label: skinToneMatchingMethods
+      hint: null
+      type: select_multiple
+      options:
+      - Light skin tones
+      - Medium skin tones
+      - Dark skin tones
+      required: false
+    - id: 3
+      name: current_tone
+      label: currentTone
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Dark
+      - Combination
+      required: false
+    - id: 4
+      name: preferred_tone
+      label: preferredTone
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Dark
+      - Combination
+      required: false
+    - id: 5
+      name: matching_method
+      label: matchingMethod
+      hint: null
+      type: select_one
+      options:
+      - Match with AI
+      - Match with human
+      - No matching method
+      required: false
+    - id: 6
+      name: match_satisfied
+      label: matchSatisfied
+      hint: null
+      type: select_one
+      options:
+      - Completely
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 7
+      name: match_accuracy
+      label: matchAccuracy
+      hint: null
+      type: select_one
+      options:
+      - Very accurate
+      - Somewhat accurate
+      - Not very accurate
+      - Not at all accurate
+      required: false
+    - id: 8
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions_value
+      label: suggestions_value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

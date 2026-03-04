@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Exit Feedback Survey
+    pages:
+    - id: 1
+      name: offboarding_reason
+      label: Why did you leave the network?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: What could we improve on your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_with_manager
+      label: How would you rate communication with your manager?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1 - Very Dissatisfied''}'
+      - '{''id'': 2, ''label'': ''2 - Somewhat Dissatisfied''}'
+      - '{''id'': 3, ''label'': ''3 - Neutral''}'
+      - '{''id'': 4, ''label'': ''4 - Somewhat Satisfied''}'
+      - '{''id'': 5, ''label'': ''5 - Very Satisfied''}'
+      required: false
+    - id: 4
+      name: frequency_of_contact
+      label: How often did you contact network team members?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Rarely''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Frequently''}'
+      - '{''id'': 5, ''label'': ''Almost Daily''}'
+      required: false
+    - id: 5
+      name: retention_driver
+      label: What factors led to your decision to leave?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exit_date
+      label: Date of your last day of work?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: How many years did you spend at the network?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: What was your manager's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_to_manager
+      label: What feedback would you give to your manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: network_impact
+      label: How would you rate the impact of our network on your work?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1 - Very Low''}'
+      - '{''id'': 2, ''label'': ''2 - Low''}'
+      - '{''id'': 3, ''label'': ''3 - Neutral''}'
+      - '{''id'': 4, ''label'': ''4 - High''}'
+      - '{''id'': 5, ''label'': ''5 - Very High''}'
+      required: false
+    - id: 11
+      name: communication_with_members
+      label: How would you rate communication with network members?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1 - Very Poor''}'
+      - '{''id'': 2, ''label'': ''2 - Poor''}'
+      - '{''id'': 3, ''label'': ''3 - Neutral''}'
+      - '{''id'': 4, ''label'': ''4 - Good''}'
+      - '{''id'': 5, ''label'': ''5 - Excellent''}'
+      required: false
+    - id: 12
+      name: training_opportunities
+      label: What training or development opportunities would you like to see the
+        network offer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: last_concept
+      label: What is your last contact with the network team?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Less than 1 hour''}'
+      - '{''id'': 3, ''label'': ''1-2 hours''}'
+      - '{''id'': 4, ''label'': ''2-3 hours''}'
+      - '{''id'': 5, ''label'': ''More than 3 hours''}'
+      required: false
+    - id: 14
+      name: feedback_to_network
+      label: What feedback would you give to the network?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_suggestions
+      label: What suggestions do you have for the network manager(s)?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: overall_experience
+      label: Overall, how would you rate your experience in the network?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Bad''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: false
+    - id: 17
+      name: final_comments
+      label: Do you have any final comments about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: What was your job title during your last year at the network?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_role
+      label: What was your last role at the network?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: last_manager
+      label: What was your last manager's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: last_department
+      label: What was your last department name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: last_manager_manager
+      label: What was your last manager's manager name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_position
+      label: What was your last position title?
+      hint: null
+      type: text
+      options: []
+      required: false

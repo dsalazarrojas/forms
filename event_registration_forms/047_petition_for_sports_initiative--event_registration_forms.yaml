@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition For Sports Initiative
+    pages:
+    - id: 1
+      name: petition_for_sports_initiative
+      label: petition_for_sports
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category_id
+      label: category_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_type_id
+      label: event_type_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sport
+      label: sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sweet 16 Event RSVP
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_info
+      label: guest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attending
+      label: Attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_time_zone
+      label: Event Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_note
+      label: Event Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: rsvp
+      label: RSVP Response
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: rsvp_note
+      label: RSVP Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: guest_organizer
+      label: Guest Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guest_organizer_phone
+      label: Guest Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guest_organizer_email
+      label: Guest Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: event_organizer_facebook
+      label: Event Organizer Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

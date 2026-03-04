@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Activity Attendance Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_names
+      label: Participant Names
+      hint: List participant names, one per line
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Participant contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_length
+      label: Program Length
+      hint: Length of program (hours)
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - Staff Name 1
+      - Staff Name 2
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_time
+      label: Time Submitted
+      hint: Time submitted (24 hour clock)
+      type: time
+      options: []
+      required: false

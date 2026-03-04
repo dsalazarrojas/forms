@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibit Opening Night Booking Form
+    pages:
+    - id: 1
+      name: section_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Opening Night Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_rsvp
+      label: -- RSVP and Attendance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe - not sure yet
+      required: true
+    - id: 8
+      name: guest_count
+      label: Number of Guests Including You
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For refreshments if provided
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seating_preference
+      label: Seating or Arrangement Preference
+      hint: null
+      type: select_one
+      options:
+      - Near front
+      - Middle area
+      - Back area
+      - No preference
+      required: false
+    - id: 12
+      name: vip_seating
+      label: VIP or Reserved Seating Requested
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: parking_needed
+      label: Do you need parking information
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, I have parking
+      - Not sure
+      required: false
+    - id: 17
+      name: transportation_assistance
+      label: Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: section_interests
+      label: -- Interests and Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: art_interests
+      label: Types of Art Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Contemporary
+      - Classical
+      - Abstract
+      - Figurative
+      - Photography
+      - Sculpture
+      - Mixed media
+      required: false
+    - id: 20
+      name: artist_interest
+      label: Interested in Meeting the Artists
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: false
+    - id: 21
+      name: section_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: guest_names
+      label: Names of Additional Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true

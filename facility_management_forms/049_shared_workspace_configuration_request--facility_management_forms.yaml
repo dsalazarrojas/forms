@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shared Workspace Configuration Request
+    pages:
+    - id: 1
+      name: shared_workspace_configuration_request_form
+      label: shared workspace configuration request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workspace_needs
+      label: workspace needs
+      hint: null
+      type: select_multiple
+      options:
+      - Workspace needs 1
+      - Workspace needs 2
+      - Workspace needs 3
+      required: false
+    - id: 3
+      name: workspaces
+      label: workspaces
+      hint: null
+      type: select_one
+      options:
+      - Workspace 1
+      - Workspace 2
+      - Workspace 3
+      required: false
+    - id: 4
+      name: dates
+      label: dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: work hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: amenities
+      label: amenities
+      hint: null
+      type: select_multiple
+      options:
+      - Amenity 1
+      - Amenity 2
+      - Amenity 3
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

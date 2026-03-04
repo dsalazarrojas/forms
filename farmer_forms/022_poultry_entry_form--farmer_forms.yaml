@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poultry Entry Form
+    pages:
+    - id: 1
+      name: selling_poultry
+      label: Selling Poultry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buying_poultry
+      label: Buying Poultry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: poultry_type
+      label: Poultry Type
+      hint: null
+      type: select_one
+      options:
+      - Broiler
+      - Layer
+      - Breeder
+      - Turkey
+      - Duck
+      required: false
+    - id: 4
+      name: poultry_weight
+      label: Poultry Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: poultry_price
+      label: Poultry Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: selling_price
+      label: Selling Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_sold
+      label: Date Sold
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_sold
+      label: Time Sold
+      hint: null
+      type: time
+      options: []
+      required: false

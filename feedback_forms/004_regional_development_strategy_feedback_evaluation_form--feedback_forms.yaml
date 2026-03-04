@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Development Strategy Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: development_strategy
+      label: Development strategy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_process
+      label: Evaluation process
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: What are your thoughts on the Regional Development Strategy?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Overall'', ''value'': ''Overall''}'
+      - '{''id'': 2, ''label'': ''Category 1'', ''value'': ''Category 1''}'
+      - '{''id'': 3, ''label'': ''Category 2'', ''value'': ''Category 2''}'
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team A'', ''value'': ''Team A''}'
+      - '{''id'': 2, ''label'': ''Team B'', ''value'': ''Team B''}'
+      - '{''id'': 3, ''label'': ''Team C'', ''value'': ''Team C''}'
+      - '{''id'': 4, ''label'': ''Team D'', ''value'': ''Team D''}'
+      required: false

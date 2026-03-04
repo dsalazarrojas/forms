@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisory Program Progress Survey
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: Enter your unique participant identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Advisory Program Name
+      hint: Which advisory program are you participating in?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: advisor_name
+      label: Advisor Name
+      hint: Name of your assigned advisor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_duration_completed
+      label: Program Duration Completed
+      hint: How much of the advisory program have you completed?
+      type: select_one
+      options:
+      - Just started
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 12 months
+      required: true
+    - id: 6
+      name: goal_setting_section
+      label: Goal Setting and Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: initial_goals_set
+      label: Initial Goals Set at Program Start
+      hint: What were your primary goals when you joined the program?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: progress_towards_goals
+      label: Progress Towards Initial Goals
+      hint: Rate your progress towards achieving your initial goals
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: goals_updated
+      label: Have Your Goals Changed Since Starting the Program?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: goals_updated_details
+      label: Details of Updated Goals
+      hint: If your goals changed, please describe the new goals
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: advisor_interaction_section
+      label: Advisor Interaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: meeting_frequency_satisfaction
+      label: Satisfaction with Meeting Frequency
+      hint: How satisfied are you with the frequency of meetings with your advisor?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: advice_quality_rating
+      label: Quality of Advice Received
+      hint: Rate the quality of advice and guidance received from your advisor
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: communication_effectiveness
+      label: Effectiveness of Communication
+      hint: How effective is the communication with your advisor?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: program_impact_section
+      label: Program Impact Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: skills_developed
+      label: Key Skills Developed Through the Program
+      hint: What skills have you developed or improved through this advisory program?
+      type: select_multiple
+      options:
+      - Leadership
+      - Strategic thinking
+      - Communication
+      - Problem-solving
+      - Networking
+      - Financial management
+      - Project management
+      - Industry knowledge
+      - Decision-making
+      - Confidence
+      required: true
+    - id: 17
+      name: measurable_outcomes
+      label: Measurable Outcomes Achieved
+      hint: What measurable outcomes have you achieved through the program?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: program_recommendation_rating
+      label: Overall Program Recommendation Rating
+      hint: How likely are you to recommend this advisory program to others?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: improvement_suggestions
+      label: Suggestions for Program Improvement
+      hint: What suggestions do you have for improving the advisory program?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other feedback about the advisory program
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Trainer Exit Offboarding Form
+    pages:
+    - id: 1
+      name: employment_information
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: Trainer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Position Title
+      hint: Your role/title at this organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team you worked with
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_start_date
+      label: Employment Start Date
+      hint: Date you began employment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employment_end_date
+      label: Last Day of Employment
+      hint: Date of last day
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: length_of_service
+      label: Length of Service
+      hint: Years and months employed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: primary_contact_email
+      label: Personal Email Address
+      hint: For continued communications
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_phone
+      label: Personal Phone Number
+      hint: For continued communications
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: separation_reason
+      label: -- Reason for Departure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_departure
+      label: Primary Reason for Leaving
+      hint: Main reason for separation
+      type: select_one
+      options:
+      - New Opportunity
+      - Relocation
+      - Career Change
+      - Personal Reasons
+      - Compensation
+      - Work Environment
+      - Lack of Growth
+      - Other
+      required: true
+    - id: 12
+      name: departure_details
+      label: Departure Details
+      hint: Please explain your reason in detail
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: feedback_and_comments
+      label: -- Feedback and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: job_satisfaction
+      label: Overall Job Satisfaction
+      hint: Rate your overall satisfaction with the role
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 15
+      name: work_environment_feedback
+      label: Work Environment Feedback
+      hint: Comments on the work environment
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: management_feedback
+      label: Management and Leadership Feedback
+      hint: Comments on your direct supervisor/management
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_dynamics
+      label: Team Dynamics Feedback
+      hint: Comments on your team and colleagues
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: professional_development
+      label: Professional Development Opportunities
+      hint: Were there adequate growth opportunities?
+      type: select_one
+      options:
+      - Very Inadequate
+      - Inadequate
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 19
+      name: compensation_benefits
+      label: Compensation and Benefits
+      hint: Rate the compensation and benefits package
+      type: select_one
+      options:
+      - Unsatisfactory
+      - Below Market
+      - Market Rate
+      - Above Market
+      - Excellent
+      required: false
+    - id: 20
+      name: improvements_suggestions
+      label: Suggested Improvements
+      hint: What could the organization improve?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: would_recommend
+      label: Would You Recommend This Organization?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: knowledge_transition
+      label: -- Knowledge Transition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: documentation_status
+      label: Documentation Status
+      hint: Have you completed all documentation?
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      required: true
+    - id: 24
+      name: final_comments
+      label: Final Comments
+      hint: Any final thoughts or feedback
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stay_in_contact
+      label: May We Stay in Contact?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

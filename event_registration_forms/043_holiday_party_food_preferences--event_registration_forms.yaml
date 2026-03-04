@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Party Food Preferences
+    pages:
+    - id: 1
+      name: party_details
+      label: party_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_info
+      label: RSVP Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Fish
+      - None
+      - Pork
+      - Vegan
+      - Vegetarian
+      - Other
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten
+      - None
+      - Nuts
+      - Other
+      - Peanuts
+      required: false
+    - id: 5
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Italian
+      - Mexican
+      - Other
+      required: false
+    - id: 6
+      name: party_details_2
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: food_choice_1
+      label: Food Choice 1
+      hint: null
+      type: select_one
+      options:
+      - Grapes
+      - Meat
+      - Tofu
+      required: false
+    - id: 8
+      name: food_choice_2
+      label: Food Choice 2
+      hint: null
+      type: select_one
+      options:
+      - Grapes
+      - Meat
+      - Tofu
+      required: false
+    - id: 9
+      name: food_choice_3
+      label: Food Choice 3
+      hint: null
+      type: select_one
+      options:
+      - Grapes
+      - Meat
+      - Tofu
+      required: false
+    - id: 10
+      name: food_choice_4
+      label: Food Choice 4
+      hint: null
+      type: select_one
+      options:
+      - Grapes
+      - Meat
+      - Tofu
+      required: false
+    - id: 11
+      name: food_choice_5
+      label: Food Choice 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: food_choice_6
+      label: Food Choice 6
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Center Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exhibit
+      label: exhibit
+      hint: null
+      type: select_one
+      options:
+      - Science Center
+      - Planetarium
+      - Museum of Science and Technology
+      required: false
+    - id: 7
+      name: program
+      label: program
+      hint: null
+      type: select_multiple
+      options:
+      - Hands-on activities
+      - Guided tours
+      - Lectures
+      required: false
+    - id: 8
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: visit_time
+      label: visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: staff_interaction
+      label: staff interaction
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Booking Appointment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: flight_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''flight_1''}'
+      - '{''id'': 2, ''label'': ''flight_2''}'
+      - '{''id'': 3, ''label'': ''flight_3''}'
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: flight_date
+      label: flight_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: flight_time
+      label: flight_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: flight_id
+      label: flight_id
+      hint: null
+      type: number
+      options: []
+      required: false

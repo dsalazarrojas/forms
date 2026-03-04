@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Create A New Event
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - online
+      - in-person
+      required: false
+    - id: 2
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_multiple
+      options:
+      - workshops
+      - community gatherings
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: Provide additional event details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - scheduled
+      - pending
+      - cancelled
+      required: false

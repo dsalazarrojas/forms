@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Cleanliness Feedback Form
+    pages:
+    - id: 1
+      name: cleanliness_rating
+      label: cleanliness_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: cleanliness_concerns
+      label: cleanliness_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Administrative Forms
+      required: true
+    - id: 6
+      name: sub_category
+      label: sub_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Award Nominee Recommendation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_name
+      label: nominee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominee_email
+      label: nominee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: nominee_phone
+      label: nominee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_title
+      label: nominee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation_text
+      label: recommendation_text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_job_title
+      label: submitter_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_reset
+      label: form_reset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: select_one_nominator
+      label: select_one_nominator
+      hint: null
+      type: select_one
+      options:
+      - Select Nominee
+      - Select Nominees
+      required: true
+    - id: 19
+      name: select_multiple_nominators
+      label: select_multiple_nominators
+      hint: null
+      type: select_multiple
+      options:
+      - Nominator 1
+      - Nominator 2
+      required: false
+    - id: 20
+      name: date_of_nomination
+      label: date_of_nomination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: nomination_type
+      label: nomination_type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Team
+      - Organization
+      required: true

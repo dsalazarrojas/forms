@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Feedback Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presenter
+      label: Presenter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: Write your feedback
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tag
+      label: Tag
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comment
+      label: Comment
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: disagree
+      label: Disagree
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: neutral
+      label: Neutral
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: no_response
+      label: No response
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 19
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_details
+      label: Other details
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_email
+      label: Other email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: other_phone
+      label: Other phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_note
+      label: Other note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: other_service
+      label: Other service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: other_category
+      label: Other category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: other_tag
+      label: Other tag
+      hint: Optional
+      type: text
+      options: []
+      required: false

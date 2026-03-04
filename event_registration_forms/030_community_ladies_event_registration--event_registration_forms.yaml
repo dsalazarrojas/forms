@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Ladies Event Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Event Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact for urgent updates
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_type
+      label: Ticket type
+      hint: Choose ticket category
+      type: select_one
+      options:
+      - General admission
+      - VIP
+      - Student
+      required: true
+    - id: 6
+      name: dietary_preferences
+      label: Dietary preferences
+      hint: For catering arrangements
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide contact for emergencies
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bring_guest
+      label: Bringing a guest
+      hint: Indicate yes if bringing a guest
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests
+      hint: Any other needs or preferences
+      type: text
+      options: []
+      required: false

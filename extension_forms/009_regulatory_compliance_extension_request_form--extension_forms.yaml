@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: regulatory_compliance_extension_request_form
+    pages:
+    - id: 1
+      name: extension_request
+      label: Extension Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: List team members involved
+      type: select_multiple
+      options:
+      - Compliance Team
+      - Operational Team
+      required: true
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expected_date
+      label: Expected Date
+      hint: Date of expected completion
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_workflow
+      label: Review Workflow
+      hint: null
+      type: select_one
+      options:
+      - Compliance Review
+      - Operational Review
+      - Both
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: Name and email address of contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comment
+      label: Comment
+      hint: Additional comment
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true

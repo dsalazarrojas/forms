@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Customer Satisfaction Request Form
+    pages:
+    - id: 1
+      name: policyholder_feedback
+      label: Policyholder Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: How was your experience with our team?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

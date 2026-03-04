@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedestrian Safety Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pedestrian_concerns
+      label: Pedestrian Concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pedestrian_safety
+      label: Pedestrian Safety
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pedestrian_traffic
+      label: Pedestrian Traffic
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pedestrian_safety_risks
+      label: Pedestrian Safety Risks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pedestrian_safety_solutions
+      label: Pedestrian Safety Solutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pedestrian_survey
+      label: Pedestrian Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: pedestrian_safety_improvements
+      label: Pedestrian Safety Improvements
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: pedestrian_safety_surveyed
+      label: Pedestrian Safety Surveyed
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: pedestrian_safety_comments
+      label: Pedestrian Safety Comments
+      hint: null
+      type: note
+      options: []
+      required: false

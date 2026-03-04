@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Office Deduction Form
+    pages:
+    - id: 1
+      name: home_office_deduction_form_section
+      label: Home Office Deduction Form Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gross_income
+      label: gross_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: home_office_location
+      label: home_office_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_office_location_address
+      label: home_office_location_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_office_equipment
+      label: home_office_equipment
+      hint: null
+      type: select_one
+      options:
+      - office_equipment_1
+      - office_equipment_2
+      - office_equipment_3
+      - office_equipment_4
+      - office_equipment_5
+      required: false
+    - id: 8
+      name: home_office_expenses
+      label: home_office_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: home_office_expenses_type
+      label: home_office_expenses_type
+      hint: null
+      type: select_one
+      options:
+      - expense_type_1
+      - expense_type_2
+      - expense_type_3
+      - expense_type_4
+      - expense_type_5
+      required: false
+    - id: 10
+      name: home_office_expenses_amount
+      label: home_office_expenses_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: home_office_expense_frequency
+      label: home_office_expense_frequency
+      hint: null
+      type: select_one
+      options:
+      - expense_frequency_1
+      - expense_frequency_2
+      - expense_frequency_3
+      required: false
+    - id: 12
+      name: total_deduction_amount
+      label: total_deduction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_signoff
+      label: employee_signoff
+      hint: null
+      type: select_multiple
+      options:
+      - employee_1
+      - employee_2
+      - employee_3
+      required: false
+    - id: 14
+      name: manager_signoff
+      label: manager_signoff
+      hint: null
+      type: select_multiple
+      options:
+      - manager_1
+      - manager_2
+      - manager_3
+      required: false

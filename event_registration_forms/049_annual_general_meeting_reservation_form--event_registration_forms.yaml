@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual General Meeting Reservation Form
+    pages:
+    - id: 1
+      name: guest_info_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Your affiliation or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: member_status
+      label: Member Status
+      hint: Your membership status
+      type: select_one
+      options:
+      - Active Member
+      - Associate Member
+      - Emeritus Member
+      - Prospective Member
+      - Guest of Member
+      - Other
+      required: false
+    - id: 7
+      name: reservation_header
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendance_confirmation
+      label: Will you attend the AGM
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe - Still deciding
+      required: true
+    - id: 9
+      name: party_size
+      label: Party Size
+      hint: Number of people in your group
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: additional_guests
+      label: Names of Additional Guests
+      hint: If bringing others, list names
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_header
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: Meeting Date
+      hint: When is the AGM
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_time
+      label: Meeting Time
+      hint: What time does it start
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Meeting Location
+      hint: Where is the meeting
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: seating_header
+      label: -- Seating Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: seating_preference
+      label: Seating Preference
+      hint: Any special seating request
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nearby_seating
+      label: Seating Near Specific Person
+      hint: Prefer to sit near someone
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: meal_header
+      label: -- Meal and Dining --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: meal_service
+      label: Meal Service Attendance
+      hint: Will you be having the meal
+      type: select_one
+      options:
+      - Yes, including meal
+      - No, no meal
+      - Just appetizers
+      - Unsure
+      required: true
+    - id: 20
+      name: entrée_selection
+      label: Entrée Selection
+      hint: Choose your main course
+      type: select_one
+      options:
+      - Chicken Dinner
+      - Beef Dinner
+      - Fish Dinner
+      - Vegetarian Option
+      - Vegan Option
+      - Other
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: beverages
+      label: Beverage Preferences
+      hint: Wine, beer, soft drinks, etc
+      type: select_multiple
+      options:
+      - Red Wine
+      - White Wine
+      - Beer
+      - Soft Drinks
+      - Non-Alcoholic Only
+      - Coffee or Tea
+      required: false
+    - id: 23
+      name: special_needs_header
+      label: -- Special Needs and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility or Special Accommodations
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: Any other information
+      type: text
+      options: []
+      required: false

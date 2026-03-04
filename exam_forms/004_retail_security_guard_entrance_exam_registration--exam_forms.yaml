@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Security Guard Entrance Exam Registration
+    pages:
+    - id: 1
+      name: candidate_info
+      label: candidate_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scheduling_preferences
+      label: scheduling_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 3
+      name: scheduling_date
+      label: scheduling_date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: scheduling_time
+      label: scheduling_time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: eligibility_confirmation
+      label: eligibility_confirmation
+      hint: Do you confirm you meet the eligibility requirements?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

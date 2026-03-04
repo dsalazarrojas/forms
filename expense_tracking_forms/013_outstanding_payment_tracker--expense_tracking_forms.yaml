@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: outstanding_payment_tracker
+    pages:
+    - id: 1
+      name: outstanding_payment_details
+      label: outstanding_payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payer_details
+      label: payer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - paid
+      - pending_payment
+      - payment_processing
+      - overdue
+      required: false
+    - id: 6
+      name: payment_note
+      label: payment_note
+      hint: null
+      type: note
+      options: []
+      required: false

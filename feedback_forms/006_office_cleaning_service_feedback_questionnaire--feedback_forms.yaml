@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_cleaning_service_feedback_questionnaire
+    pages:
+    - id: 1
+      name: office_cleaning_service_feedback_questionnaire_page_1
+      label: office_cleaning_service_feedback_questionnaire
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_score_1
+      label: feedback_score
+      hint: Rate the overall experience
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_score_2
+      label: feedback_score_2
+      hint: Rate the overall experience
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_score_3
+      label: feedback_score_3
+      hint: Rate the overall experience
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_score_4
+      label: feedback_score_4
+      hint: Rate the overall experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_score_5
+      label: feedback_score_5
+      hint: Rate the overall experience
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_quality
+      label: service_quality
+      hint: How satisfied are you with our service quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: service_value
+      label: service_value
+      hint: How valuable did you find our service
+      type: select_multiple
+      options:
+      - Very valuable
+      - Moderately valuable
+      - Not valuable at all
+      - Somewhat valuable
+      required: false
+    - id: 9
+      name: service_timeliness
+      label: service_timeliness
+      hint: How timely was your service
+      type: select_multiple
+      options:
+      - Very timely
+      - Moderately timely
+      - Not timely at all
+      - Somewhat timely
+      required: false
+    - id: 10
+      name: service_timeliness_hint_1
+      label: when_was_it
+      hint: When was it?
+      type: time
+      options: []
+      required: false

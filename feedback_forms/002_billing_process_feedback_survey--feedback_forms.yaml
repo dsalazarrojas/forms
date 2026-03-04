@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billing Process Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: Tell us about yourself for context
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email address
+      hint: For follow up if required
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization name
+      hint: Company or department
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_frequency
+      label: Billing frequency
+      hint: How often you receive invoices
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Per invoice
+      required: true
+    - id: 6
+      name: satisfaction_rating
+      label: Overall satisfaction rating
+      hint: 1 is very dissatisfied and 5 is very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: ease_of_payment
+      label: Ease of payment process
+      hint: Rate how easy it is to pay invoices
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: true
+    - id: 8
+      name: clarity_of_invoices
+      label: Clarity of invoice details
+      hint: Are charges and descriptions clear
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat unclear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 9
+      name: most_challenging_area
+      label: Most challenging area of billing
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Receiving invoices
+      - Understanding charges
+      - Payment options
+      - Dispute handling
+      - Timing of invoices
+      required: false
+    - id: 10
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: Provide any ideas to improve our billing process
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

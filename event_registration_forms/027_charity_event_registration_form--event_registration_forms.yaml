@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization Name
+      hint: Company or group
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When attending
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: Ticket type
+      type: select_one
+      options:
+      - General admission
+      - VIP
+      - Student
+      - Senior
+      - Group rate
+      - Virtual attendee
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_names
+      label: Guest Names
+      hint: List all attendees
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 12
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: If applicable
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not applicable
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      - Invoice requested
+      required: true
+    - id: 15
+      name: donation_amount
+      label: Additional Donation
+      hint: Optional donation
+      type: select_one
+      options:
+      - No donation
+      - $10
+      - $25
+      - $50
+      - $100
+      - Other amount
+      required: false
+    - id: 16
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Marketing source
+      type: select_one
+      options:
+      - Social media
+      - Email
+      - Website
+      - Friend or family
+      - Print media
+      - Radio or TV
+      - Other
+      required: false
+    - id: 17
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Help at event
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 18
+      name: terms_agreement
+      label: Do you agree to terms and conditions
+      hint: Required
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

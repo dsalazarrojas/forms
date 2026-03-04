@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Budget Management Portal Registration Form
+    pages:
+      - id: 1
+        name: applicant_name
+        label: Applicant name
+        hint: Full name for portal account
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: Work email for portal access
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Department or cost center
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role
+        label: Role
+        hint: Role in budget management
+        type: select_one
+        options:
+          - Viewer
+          - Editor
+          - Approver
+          - Admin
+        required: true
+      - id: 5
+        name: requested_permissions
+        label: Requested permissions
+        hint: Specific permissions required
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: justification
+        label: Justification
+        hint: Reason for portal access
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: manager_approval_email
+        label: Manager approval email
+        hint: Email of manager approving access
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: onboarding_notes
+        label: Onboarding notes
+        hint: Any notes for portal setup team
+        type: text
+        options: []
+        required: false

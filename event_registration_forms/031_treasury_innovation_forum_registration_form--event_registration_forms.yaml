@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: treasury_innovation_forum_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_type
+      label: registration_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''attendee'', ''label'': ''Attendee''}'
+      - '{''id'': 11, ''name'': ''speaker'', ''label'': ''Speaker''}'
+      - '{''id'': 12, ''name'': ''exhibitor'', ''label'': ''Exhibitor''}'
+      required: false
+    - id: 8
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13, ''name'': ''online_payment'', ''label'': ''Online Payment''}'
+      - '{''id'': 14, ''name'': ''offline_payment'', ''label'': ''Offline Payment''}'
+      - '{''id'': 15, ''name'': ''no_payment'', ''label'': ''No Payment''}'
+      required: false
+    - id: 9
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_category
+      label: event_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_type
+      label: event_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16, ''name'': ''visa'', ''label'': ''Visa''}'
+      - '{''id'': 17, ''name'': ''mastercard'', ''label'': ''Mastercard''}'
+      - '{''id'': 18, ''name'': ''amex'', ''label'': ''Amex''}'
+      required: false
+    - id: 15
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_method_note
+      label: payment_method_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false

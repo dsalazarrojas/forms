@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Service Inquiry Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dj_info
+      label: DJ Info
+      hint: null
+      type: select_multiple
+      options:
+      - DJ A
+      - DJ B
+      - DJ C
+      required: false
+    - id: 3
+      name: inquiry_details
+      label: Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_time
+      label: Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 9
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event A
+      - Event B
+      - Event C
+      required: false

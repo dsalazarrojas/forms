@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Tour Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_information_section
+      label: -- Subscriber Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for subscription updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_range
+      label: Age Range
+      hint: Which age range best describes you
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: Where are you located (city, state/country)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: adventure_preferences_section
+      label: -- Adventure Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_adventure_types
+      label: Preferred Adventure Types
+      hint: Which types of adventures interest you most
+      type: select_multiple
+      options:
+      - Mountain climbing
+      - Water sports
+      - Jungle expeditions
+      - Desert adventures
+      - Arctic exploration
+      - Cultural tours
+      - Wildlife safaris
+      - Other
+      required: true
+    - id: 9
+      name: experience_level
+      label: Experience Level
+      hint: What is your experience level with adventure activities
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: preferred_trip_duration
+      label: Preferred Trip Duration
+      hint: How long do you prefer your adventure trips to be
+      type: select_one
+      options:
+      - Weekend (2-3 days)
+      - Week-long (4-7 days)
+      - Extended (1-2 weeks)
+      - Long expedition (2+ weeks)
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget Range
+      hint: What is your typical budget range for adventure tours
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2000
+      - $2000-$5000
+      - Over $5000
+      required: true
+    - id: 12
+      name: travel_companions
+      label: Travel Companions
+      hint: Who do you typically travel with
+      type: select_multiple
+      options:
+      - Solo traveler
+      - Partner/spouse
+      - Family
+      - Friends
+      - Organized group
+      - Other
+      required: true
+    - id: 13
+      name: subscription_preferences_section
+      label: -- Subscription Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: communication_frequency
+      label: Communication Frequency
+      hint: How often would you like to receive updates
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 15
+      name: preferred_communication_channel
+      label: Preferred Communication Channel
+      hint: How would you prefer to receive updates
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Both
+      required: true
+    - id: 16
+      name: special_interests_section
+      label: -- Special Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_interests
+      label: Special Interests
+      hint: Do you have any special interests for your adventures
+      type: select_multiple
+      options:
+      - Photography
+      - Wildlife observation
+      - Cultural immersion
+      - Learning new skills
+      - Physical challenges
+      - Relaxation
+      - None
+      required: true
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_considerations
+      label: Medical Considerations
+      hint: Do you have any medical considerations for adventure travel
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: subscription_agreement
+      label: Subscription Agreement
+      hint: I agree to receive updates and offers about adventure tours
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

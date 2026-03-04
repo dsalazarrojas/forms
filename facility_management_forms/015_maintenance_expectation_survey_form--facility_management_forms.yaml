@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Expectation Survey Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: Name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question1
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question2
+      label: What is your department?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question3
+      label: How many days in advance do you submit your work orders for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question4
+      label: What time of day do you usually submit your work orders?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: question5
+      label: How many days in advance do you receive your work orders?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: question6
+      label: What time of day do you usually receive your work orders?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: question7
+      label: How many hours do you spend on maintenance tasks per day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: question8
+      label: How many maintenance staff do you usually work with in a day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: question9
+      label: How many days in advance do you know when the maintenance work will be
+        completed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: question10
+      label: What is the likelihood of the work being completed within the expected
+        time frame?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: question11
+      label: Have you ever had issues or problems with the maintenance work completed?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 18
+      name: question12
+      label: How many times have you had issues or problems with the maintenance work
+        completed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: question13
+      label: How many times do you have to call the maintenance team for help?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: question14
+      label: How would you rate your satisfaction with the maintenance work completed?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very satisfied''}'
+      - '{''text'': ''Somewhat satisfied''}'
+      - '{''text'': ''Neutral''}'
+      - '{''text'': ''Somewhat dissatisfied''}'
+      - '{''text'': ''Very dissatisfied''}'
+      required: false
+    - id: 21
+      name: question15
+      label: What would you suggest we do to improve the maintenance work completed?
+      hint: null
+      type: text
+      options: []
+      required: false

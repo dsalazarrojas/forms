@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Gift Claim Form
+    pages:
+    - id: 1
+      name: event_gift_claim_form
+      label: Event Gift Claim
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_gift_claim_form_attendee_info
+      label: Attendee Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_gift_claim_form_event_info
+      label: Event Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_gift_claim_form_claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: event_gift_claim_form_claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_gift_claim_form_claimed_by
+      label: Claimed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_gift_claim_form_claimed_to
+      label: Claimed To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_gift_claim_form_claim_note
+      label: Claim Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_gift_claim_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: event_gift_claim_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_gift_claim_form_event
+      label: Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

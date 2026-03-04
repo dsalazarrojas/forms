@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Event Expense Claim Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_item
+      label: Expense Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_total
+      label: Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

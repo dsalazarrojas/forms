@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Coil Unit Inspection Survey
+    pages:
+    - id: 1
+      name: page_one
+      label: Fan Coil Unit Inspection Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fan_coil_unit_id
+      label: Fan Coil Unit ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: air_handler_type
+      label: Air Handler Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: fan_coil_unit_capacity
+      label: Fan Coil Unit Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_inspection
+      label: Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 13
+      name: reason_for_status_change
+      label: Reason for Status Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: last_inspection_by
+      label: Last Inspection By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_last_inspection_date
+      label: Equipment Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_due_date
+      label: Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_performed
+      label: Maintenance Performed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 19
+      name: last_maintenance_by
+      label: Last Maintenance By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to_maintenance_team
+      label: Assigned To Maintenance Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sub_category
+      label: Sub Category
+      hint: null
+      type: text
+      options: []
+      required: false

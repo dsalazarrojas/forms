@@ -1,0 +1,120 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Permit Process Feedback Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Permit Process Feedback --
+        hint: Your feedback helps improve permit processing times and clarity
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_type
+        label: Respondent Type
+        hint: Select the option that best describes you
+        type: select_one
+        options:
+          - Applicant
+          - Contractor
+          - Architect or Designer
+          - City Staff
+          - Other
+        required: true
+      - id: 3
+        name: submission_method
+        label: How Did You Submit Your Permit
+        hint: Select the primary submission channel
+        type: select_one
+        options:
+          - Online portal
+          - In person
+          - Email
+          - Third party
+        required: true
+      - id: 4
+        name: clarity_of_requirements
+        label: Clarity of Permit Requirements
+        hint: Rate how clear the required materials and steps were
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 5
+        name: processing_time_satisfaction
+        label: Satisfaction With Processing Time
+        hint: Rate your satisfaction with the time taken to process the permit
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 6
+        name: communication_quality
+        label: Quality of Communication From Staff
+        hint: Rate the helpfulness and timeliness of communication
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: main_issues_encountered
+        label: Main Issues Encountered
+        hint: Briefly describe any problems or delays
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: Provide actionable ideas to improve the process
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: would_recommend
+        label: Would You Recommend Our Permit Service
+        hint: Select your likelihood to recommend
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: follow_up_contact
+        label: May we contact you about your feedback
+        hint: Provide an email if you agree
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: contact_email
+        label: Contact Email
+        hint: Only provide if you consent to follow up
+        type: email
+        options: []
+        required: false

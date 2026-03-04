@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_season_party_donations
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_currency
+      label: Donation Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - USD
+      - CAD
+      - EUR
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      required: true
+    - id: 4
+      name: name_on_card
+      label: Name on Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false

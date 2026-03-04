@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brow Artist Workshop Registration
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Full name of attendee
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: Email for confirmations
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: salon_affiliation
+        label: Salon affiliation
+        hint: Name of salon or employer
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: experience_level
+        label: Experience level
+        hint: Beginner intermediate or advanced
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+        required: true
+      - id: 5
+        name: course_date
+        label: Course date
+        hint: Date of the workshop
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: materials_needed
+        label: Materials needed
+        hint: Tools or supplies participants should bring
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: payment_status
+        label: Payment status
+        hint: Confirm if payment has been made
+        type: select_one
+        options:
+          - Paid
+          - Pending
+          - Waived
+        required: true
+      - id: 8
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: For catered events
+        type: text
+        options: []
+        required: false

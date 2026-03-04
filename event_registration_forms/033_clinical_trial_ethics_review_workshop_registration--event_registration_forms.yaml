@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trial Ethics Review Workshop Registration
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinical Trial Ethics Review Workshop Registration
+      hint: Register for our comprehensive workshop on ethics in clinical trial research
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: professional_role
+      label: Professional Role
+      hint: null
+      type: select_one
+      options:
+      - Principal Investigator
+      - Co-Investigator
+      - Research Coordinator
+      - IRB Member
+      - Ethics Committee Member
+      - Regulatory Affairs
+      - Clinical Monitor
+      - Data Manager
+      - Pharmacist
+      - Nurse Researcher
+      - Student
+      - Administrator
+      - Other
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_experience
+      label: Years of Experience in Clinical Research
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 11
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: workshop_format
+      label: Attendance Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual Live Stream
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 13
+      name: ethics_experience
+      label: Experience with Ethics Review
+      hint: null
+      type: select_one
+      options:
+      - Extensive - Serve on IRB
+      - Moderate - Submit protocols regularly
+      - Basic - Some exposure
+      - Minimal - New to field
+      - None
+      required: true
+    - id: 14
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Informed Consent Process
+      - Vulnerable Populations
+      - Risk-Benefit Analysis
+      - Privacy and Confidentiality
+      - International Research Ethics
+      - Conflict of Interest
+      - Data Safety Monitoring
+      - Community Engagement
+      - Regulatory Requirements
+      - Case Studies
+      - Other
+      required: true
+    - id: 15
+      name: learning_objectives
+      label: What Are Your Learning Objectives
+      hint: What do you hope to gain
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: irb_affiliation
+      label: Are You Affiliated with an IRB
+      hint: null
+      type: select_one
+      options:
+      - Yes - Chair or Member
+      - Yes - Staff
+      - false
+      - Not Sure
+      required: false
+    - id: 17
+      name: certification_goals
+      label: Are You Pursuing Ethics Certification
+      hint: null
+      type: select_one
+      options:
+      - Yes CIP
+      - Yes Other
+      - false
+      - Not Sure
+      required: false
+    - id: 18
+      name: ceu_credits_needed
+      label: Do You Need CEU or CME Credits
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: license_type
+      label: Professional License Type
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: license_number
+      label: License Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: If attending in-person
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_did_you_hear
+      label: How Did You Hear About This Workshop
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Colleague
+      - Professional Organization
+      - Website
+      - Social Media
+      - Conference
+      - Other
+      required: false
+    - id: 24
+      name: registration_fee
+      label: Registration Fee Category
+      hint: null
+      type: select_one
+      options:
+      - Standard Fee
+      - Student Discount
+      - Non-Profit Discount
+      - Group Rate
+      - Waiver Approved
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice to Organization
+      - Purchase Order
+      - Check
+      - Other
+      required: true
+    - id: 26
+      name: questions_for_presenters
+      label: Questions You Would Like Addressed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: case_study_submission
+      label: Would You Like to Submit a Case Study
+      hint: For discussion
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 28
+      name: networking_interest
+      label: Interest in Networking Sessions
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true

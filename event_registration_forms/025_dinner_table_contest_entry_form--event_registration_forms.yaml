@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dinner Table Contest Entry Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dish_name
+      label: Dish Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cooking_method
+      label: Cooking Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ingredients
+      label: Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cooking_time
+      label: Cooking Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cooking_time_unit
+      label: Cooking Time Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''chef'', ''hint'': None}'
+      - '{''id'': 2, ''label'': ''home_cook''}'
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: user_ip
+      label: User IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: referrer
+      label: Referrer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: entry_fee_currency
+      label: Entry Fee Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''usd''}'
+      - '{''id'': 2, ''label'': ''eur''}'
+      - '{''id'': 3, ''label'': ''gbp''}'
+      - '{''id'': 4, ''label'': ''chf''}'
+      - '{''id'': 5, ''label'': ''jpy''}'
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''draft''}'
+      - '{''id'': 2, ''label'': ''submitted''}'
+      - '{''id'': 3, ''label'': ''rejected''}'
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Insurance Request Form
+    pages:
+    - id: 1
+      name: event_insurance_request_form
+      label: Event Insurance Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: event-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: event-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: event-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: event-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_request_amount
+      label: insurance-request-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: risk_assessment
+      label: risk-assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: liability_insurance
+      label: liability-insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: coverage_type
+      label: coverage-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: insurance_coverage_start_date
+      label: insurance-coverage-start-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: insurance_coverage_end_date
+      label: insurance-coverage-end-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone_extension
+      label: contact-phone-extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_street
+      label: contact-street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_city
+      label: contact-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_state
+      label: contact-state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_zip
+      label: contact-zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_country
+      label: contact-country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_company
+      label: contact-company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_position
+      label: contact-position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_description
+      label: risk-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_type
+      label: event-type
+      hint: null
+      type: text
+      options: []
+      required: false

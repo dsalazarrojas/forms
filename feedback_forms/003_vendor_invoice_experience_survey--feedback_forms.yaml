@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Invoice Experience Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: invoice_details
+      label: Invoice Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: payment_experience
+      label: Payment Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_factors
+      label: Factors Affecting Payment Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vendor_comments
+      label: Vendor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button_label
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_methods
+      label: Methods of Payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: payment_methods_label
+      label: Payment Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: vendor_rating_label
+      label: Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vendor_rating_choices
+      label: Vendor Rating Choices
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments_label
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_choices
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments_label
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vendor_name_label
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: vendor_email_label
+      label: Vendor Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: vendor_phone_label
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

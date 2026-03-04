@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Concession Stand Application Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: vendor_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booth_preferences
+      label: booth_preferences
+      hint: null
+      type: select_one
+      options:
+      - kiosk
+      - food
+      - beverages
+      required: true
+    - id: 3
+      name: documents
+      label: documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_details_phone
+      label: contact_details_phone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_details_email
+      label: contact_details_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_details_address
+      label: contact_details_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_details_website
+      label: contact_details_website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_info_prophets
+      label: payment_info_prophets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_info_notes
+      label: payment_info_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true

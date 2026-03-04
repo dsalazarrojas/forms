@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Fridge Temperature Log
+    pages:
+    - id: 1
+      name: fridge_log
+      label: Fridge Log
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: fridge_temp
+      label: Fridge Temp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: freezer_temp
+      label: Freezer Temp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recorded_by
+      label: Recorded By
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Kitchen
+      - Store Room
+      - Other
+      required: false
+    - id: 9
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: temperature_unit
+      label: Temperature Unit
+      hint: null
+      type: select_one
+      options:
+      - C
+      - F
+      - K
+      required: false
+    - id: 11
+      name: recorded_at
+      label: Recorded At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_completed_date
+      label: Form Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false

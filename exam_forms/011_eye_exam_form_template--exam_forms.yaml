@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Exam Form Template
+    pages:
+    - id: 1
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: eye_exam
+      label: eye_exam
+      hint: null
+      type: select_one
+      options:
+      - Eye prophets
+      - Eye exams 1
+      - Eye exams 2
+      - Eye exams 3
+      required: false
+    - id: 3
+      name: prescription
+      label: prescription
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: results
+      label: results
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: eye_exam_date
+      label: eye_exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: results
+      label: results
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: followup_exam_date
+      label: followup_exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medications_2
+      label: medications_2
+      hint: null
+      type: text
+      options: []
+      required: false

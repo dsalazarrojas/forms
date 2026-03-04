@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Site Accommodation Form
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_dates
+      label: -- Booking Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: check_out_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: number_of_nights
+      label: Number of Nights
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_accommodation
+      label: -- Accommodation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Tent Site
+      - RV Site Full Hookup
+      - RV Site Partial Hookup
+      - Cabin
+      - Glamping Tent
+      - Group Site
+      required: true
+    - id: 16
+      name: site_preference
+      label: Preferred Site Number or Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking_requirements
+      label: Parking Requirements
+      hint: null
+      type: select_one
+      options:
+      - Standard Parking
+      - Oversized Vehicle Parking
+      - Handicapped Accessible
+      - Extra Parking Space
+      required: true
+    - id: 18
+      name: section_party_details
+      label: -- Party Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: total_occupants
+      label: Total Number of Occupants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: number_of_vehicles
+      label: Number of Vehicles
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: has_pets
+      label: Bringing Pets
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, one pet
+      - Yes, multiple pets
+      required: true
+    - id: 22
+      name: section_amenities
+      label: -- Amenities and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: amenities_requested
+      label: Additional Amenities Requested
+      hint: null
+      type: select_multiple
+      options:
+      - WiFi
+      - Laundry Facilities
+      - Fire Pit
+      - Picnic Table
+      - Electricity
+      - Water
+      - Sewage
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_agreement
+      label: I agree to campground rules and payment terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

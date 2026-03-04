@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Martial Arts Testing Payment Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''label'': ''1 hour testing''}'
+      - '{''id'': 32, ''label'': ''2 hour testing''}'
+      - '{''id'': 33, ''label'': ''Special testing''}'
+      required: false
+    - id: 4
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 61, ''label'': ''Online payment''}'
+      - '{''id'': 62, ''label'': ''Offline payment''}'
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false

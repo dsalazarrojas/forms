@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Equipment Check Out Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: checkout_date
+      label: Check-out Date
+      hint: Date of equipment checkout
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: expected_return_date
+      label: Expected Return Date
+      hint: When will you return equipment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where is the event
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tables_requested
+      label: Tables Requested
+      hint: Number of tables
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: table_type
+      label: Table Type
+      hint: Type of tables
+      type: select_one
+      options:
+      - Round 60-inch
+      - Round 72-inch
+      - Rectangular 6-foot
+      - Rectangular 8-foot
+      - Cocktail Tables
+      - Mixed
+      required: false
+    - id: 12
+      name: chairs_requested
+      label: Chairs Requested
+      hint: Number of chairs
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: chair_type
+      label: Chair Type
+      hint: Type of chairs
+      type: select_one
+      options:
+      - Folding Chairs
+      - Banquet Chairs
+      - Chiavari Chairs
+      - Bar Stools
+      - Mixed
+      required: false
+    - id: 14
+      name: linens_requested
+      label: Linens Requested
+      hint: Number of linens
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: linen_color
+      label: Linen Color
+      hint: Preferred color
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: serving_equipment
+      label: Serving Equipment
+      hint: Chafing dishes - platters - etc
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: audio_visual
+      label: Audio Visual Equipment
+      hint: Microphones - speakers - projectors
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_equipment
+      label: Other Equipment
+      hint: Any other items needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_required
+      label: Delivery Required
+      hint: Do you need delivery
+      type: select_one
+      options:
+      - true
+      - No - Will Pickup
+      required: true
+    - id: 20
+      name: setup_required
+      label: Setup Required
+      hint: Do you need setup service
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Security deposit
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Has deposit been paid
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 23
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree to the terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff_notes
+      label: Staff Notes
+      hint: For internal use only
+      type: text
+      options: []
+      required: false

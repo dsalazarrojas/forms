@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_enquiry_form
+    pages:
+    - id: 1
+      name: exhibition_enquiry_form_page_1
+      label: exhibition_enquiry_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: exhibition_enquiry_form_page_1_exhibition_details
+      label: exhibition_enquiry_form_page_1_exhibition_details_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exhibition_enquiry_form_page_1_exhibition_type
+      label: exhibition_enquiry_form_page_1_exhibition_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: exhibition_enquiry_form_page_1_exhibition_type_options
+      label: exhibition_enquiry_form_page_1_exhibition_type_options_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exhibition_enquiry_form_page_1_sponsorship_type
+      label: exhibition_enquiry_form_page_1_sponsorship_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exhibition_enquiry_form_page_1_sponsorship_type_options
+      label: exhibition_enquiry_form_page_1_sponsorship_type_options_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: exhibition_enquiry_form_page_1_event_details
+      label: exhibition_enquiry_form_page_1_event_details_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exhibition_enquiry_form_page_1_additional_notes
+      label: exhibition_enquiry_form_page_1_additional_notes_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exhibition_enquiry_form_page_1_organizers
+      label: exhibition_enquiry_form_page_1_organizers_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

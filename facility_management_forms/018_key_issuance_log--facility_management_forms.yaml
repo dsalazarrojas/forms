@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Issuance Log
+    pages:
+    - id: 1
+      name: form_title
+      label: Key Issuance Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_issued
+      label: Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: key_serial_number
+      label: Key Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: key_description
+      label: Key Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: key_condition
+      label: Key Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: key_status
+      label: Key Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

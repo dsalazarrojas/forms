@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Theory Knowledge Quiz
+    pages:
+    - id: 1
+      name: header
+      label: -- Color Theory Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Question 1 - Primary colors
+      hint: Select the primary colors
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: true
+    - id: 4
+      name: question_2
+      label: Question 2 - Complementary of blue
+      hint: Select the complementary color
+      type: select_one
+      options:
+      - Orange
+      - Green
+      - Red
+      - Purple
+      required: true
+    - id: 5
+      name: question_3
+      label: Question 3 - Color temperature refers to
+      hint: Choose best answer
+      type: select_one
+      options:
+      - Warm vs cool
+      - Saturation levels
+      - Hue shifts
+      required: true
+    - id: 6
+      name: question_4
+      label: Question 4 - Mixing red and blue produces
+      hint: Choose the result
+      type: select_one
+      options:
+      - Purple
+      - Green
+      - Orange
+      required: true
+    - id: 7
+      name: question_5
+      label: Question 5 - Neutralizing a color means
+      hint: Select best description
+      type: select_one
+      options:
+      - Reducing intensity
+      - Adding complementary
+      - Changing hue
+      required: true
+    - id: 8
+      name: time_taken
+      label: Time taken in minutes
+      hint: Estimate time to complete quiz
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: score_estimate
+      label: Estimated score
+      hint: Self reported score if known
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: additional_feedback
+      label: Additional feedback
+      hint: Comments about the quiz
+      type: text
+      options: []
+      required: false

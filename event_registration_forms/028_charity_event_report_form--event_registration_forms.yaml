@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Charity name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Event title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When held
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: Venue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: Category
+      type: select_one
+      options:
+      - Gala
+      - Auction
+      - Charity run or walk
+      - Concert
+      - Conference
+      - Community event
+      - Virtual event
+      - Other
+      required: true
+    - id: 8
+      name: total_attendees
+      label: Total Attendees
+      hint: Actual count
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_funds_raised
+      label: Total Funds Raised
+      hint: Amount raised
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_expenses
+      label: Total Expenses
+      hint: Total costs
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: net_profit
+      label: Net Profit
+      hint: Funds after expenses
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fundraising_activities
+      label: Fundraising Activities
+      hint: What raised funds
+      type: select_multiple
+      options:
+      - Ticket sales
+      - Silent auction
+      - Live auction
+      - Raffle
+      - Direct donations
+      - Sponsorships
+      - Merchandise sales
+      - Other
+      required: true
+    - id: 13
+      name: sponsors
+      label: Sponsors
+      hint: List sponsors
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_count
+      label: Number of Volunteers
+      hint: Volunteer total
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: success_metrics
+      label: Key Success Metrics
+      hint: What went well
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What was difficult
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Takeaways
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recommendations
+      label: Recommendations for Future Events
+      hint: Suggestions
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: attendee_feedback_summary
+      label: Attendee Feedback Summary
+      hint: Overall feedback
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: media_coverage
+      label: Media Coverage
+      hint: Press mentions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_videos
+      label: Photos or Videos Available
+      hint: Media assets
+      type: select_one
+      options:
+      - Yes will upload
+      - Yes available on request
+      - false
+      required: false
+    - id: 22
+      name: report_date
+      label: Report Date
+      hint: When submitted
+      type: date
+      options: []
+      required: true

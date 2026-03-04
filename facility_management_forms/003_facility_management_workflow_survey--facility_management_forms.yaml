@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Workflow Survey
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workflow_type
+      label: Workflow Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Administrative
+      - Maintenance
+      - Facilities
+      - Engineering
+      - Security
+      required: false
+    - id: 3
+      name: staff_feedback_satisfaction
+      label: Staff Feedback on Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location_contact
+      label: Location Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workflow_description
+      label: Workflow Description
+      hint: Provide a detailed description of the workflow
+      type: text
+      options: []
+      required: false

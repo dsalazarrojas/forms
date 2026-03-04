@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: film-festival-participation-renewal-form
+    pages:
+    - id: 1
+      name: form_identifier
+      label: form-identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: film_title
+      label: film-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: festival_name
+      label: festival-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: film_year
+      label: film-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: genre
+      label: genre
+      hint: null
+      type: select_multiple
+      options:
+      - action
+      - animation
+      - comedy
+      - drama
+      required: false
+    - id: 6
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - english
+      - french
+      - german
+      - spanish
+      - italian
+      required: false
+    - id: 7
+      name: film_format
+      label: film-format
+      hint: null
+      type: select_multiple
+      options:
+      - 2D
+      - 3D
+      - 4K
+      - 8K
+      required: false
+    - id: 8
+      name: film_duration
+      label: film-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: festival_date
+      label: festival-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_status
+      label: submission-status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - pending
+      - withdrawn
+      required: false
+    - id: 11
+      name: film_file_link
+      label: film-file-link
+      hint: null
+      type: text
+      options: []
+      required: false

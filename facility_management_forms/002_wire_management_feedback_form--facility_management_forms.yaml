@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wire Management Feedback Form
+    pages:
+    - id: 1
+      name: cable_organization
+      label: Cable Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue_area
+      label: Problem Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: recurrence
+      label: Recurrence
+      hint: null
+      type: select_one
+      options:
+      - Cable Organization
+      - Cable Management
+      - Not Applicable
+      required: true
+    - id: 5
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Minor
+      - Not Applicable
+      required: true
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

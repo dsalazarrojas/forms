@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Document Submission Experience Survey
+    pages:
+    - id: 1
+      name: upload_process
+      label: Upload Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: clarity
+      label: Clarity of Upload Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: support
+      label: Level of Support
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: overall_xperience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

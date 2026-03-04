@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_poster_order_form
+    pages:
+    - id: 1
+      name: specification
+      label: Specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Express
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: select_multiple
+      options:
+      - 123 Main St
+      - 456 Oak St
+      - 789 Maple Rd
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

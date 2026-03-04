@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Availability Survey For Observances
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name for scheduling
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Respondent Email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: observance_name
+      label: Observance Name
+      hint: Event or holiday name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: availability_dates
+      label: Available Dates
+      hint: Select dates you are available
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekend days
+      - Specific dates - see notes
+      required: true
+    - id: 5
+      name: preferred_times
+      label: Preferred Times
+      hint: Morning, afternoon or evening
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: maximum_distance
+      label: Maximum Travel Distance
+      hint: Miles willing to travel to attend
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false

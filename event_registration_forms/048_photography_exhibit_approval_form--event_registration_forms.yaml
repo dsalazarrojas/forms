@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Exhibit Approval Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: artist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist_email
+      label: artist_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: artist_phone
+      label: artist_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artist_website
+      label: artist_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: image_title
+      label: Image Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: image_description
+      label: Image Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: image_date
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: image_file
+      label: Image File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image_type
+      label: Image Type
+      hint: null
+      type: select_one
+      options:
+      - Photograph
+      - Print
+      - Painting
+      - Drawing
+      - Sculpture
+      - Other
+      required: false
+    - id: 10
+      name: exhibition_title
+      label: Exhibition Title
+      hint: null
+      type: text
+      options: []
+      required: false

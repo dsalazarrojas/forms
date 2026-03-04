@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Experience Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_rating
+      label: Experience rating
+      hint: On a scale from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: favorite_donation_method
+      label: Favorite donation method
+      hint: null
+      type: select_multiple
+      options:
+      - Donations by check
+      - Online donations
+      - In-person donations
+      - Other
+      required: false
+    - id: 7
+      name: least_favorite_donation_method
+      label: Least favorite donation method
+      hint: null
+      type: select_one
+      options:
+      - By mail
+      - Online
+      - In-person
+      - Other
+      required: false
+    - id: 8
+      name: why_didnt_donate
+      label: Why didn't you donate?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: how_did_we_improve
+      label: How did we improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: what_didnt_improve
+      label: What didn't improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: when_visited
+      label: When did you visit?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: first_interaction
+      label: First interaction
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Phone
+      - In-person
+      - Online
+      required: false
+    - id: 14
+      name: staff_interaction
+      label: Staff interaction
+      hint: null
+      type: select_multiple
+      options:
+      - Friendly
+      - Professional
+      - Unhelpful
+      - None of the above
+      required: false
+    - id: 15
+      name: communication_quality
+      label: Communication quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: how_did_we_help
+      label: How did we help?
+      hint: null
+      type: select_multiple
+      options:
+      - Provided information
+      - Offered solutions
+      - Provided emotional support
+      - None of the above
+      required: false
+    - id: 17
+      name: how_didnt_help
+      label: How didn't we help?
+      hint: null
+      type: select_multiple
+      options:
+      - Provided misinformation
+      - Offered unsuitable solutions
+      - Didn't offer any help
+      - None of the above
+      required: false
+    - id: 18
+      name: staff_helpfulness
+      label: How helpful was the staff?
+      hint: null
+      type: select_one
+      options:
+      - Extremely helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not at all helpful
+      required: false
+    - id: 19
+      name: staff_friendliness
+      label: How friendly was the staff?
+      hint: null
+      type: select_one
+      options:
+      - Extremely friendly
+      - Somewhat friendly
+      - Not very friendly
+      - Not at all friendly
+      required: false
+    - id: 20
+      name: staff_knowledge
+      label: How knowledgeable were the staff?
+      hint: null
+      type: select_one
+      options:
+      - Extremely knowledgeable
+      - Somewhat knowledgeable
+      - Not very knowledgeable
+      - Not at all knowledgeable
+      required: false
+    - id: 21
+      name: would_recommend
+      label: Would you recommend us?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: why_not_recommend
+      label: Why wouldn't you recommend?
+      hint: null
+      type: note
+      options: []
+      required: false

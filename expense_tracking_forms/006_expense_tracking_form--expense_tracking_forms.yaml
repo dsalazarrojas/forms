@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Tracking Form
+    pages:
+    - id: 1
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: transaction_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: transaction_note
+      label: Transaction Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expense_category_id
+      label: Expense Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: company_id
+      label: Company ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: expense_status
+      label: Expense Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

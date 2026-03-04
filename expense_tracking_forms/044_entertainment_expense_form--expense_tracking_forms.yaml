@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment_expense_form
+    pages:
+    - id: 1
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: purpose_of_event
+      label: Purpose of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Business Meal
+      - Business Trip
+      - Business Entertainment
+      required: false
+    - id: 5
+      name: expense_location
+      label: Expense Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_receipt
+      label: Date of Receipt
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: receipt_attachment
+      label: Receipt Attachment
+      hint: null
+      type: note
+      options: []
+      required: false

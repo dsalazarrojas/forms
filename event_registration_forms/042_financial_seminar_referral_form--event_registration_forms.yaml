@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Seminar Referral Form
+    pages:
+    - id: 1
+      name: seminar_details
+      label: Seminar Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: PhoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: JobTitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seminar_type
+      label: SeminarType
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Seminar A''}'
+      - '{''label'': ''Seminar B''}'
+      - '{''label'': ''Seminar C''}'
+      required: false
+    - id: 9
+      name: seminar_date
+      label: SeminarDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: invitation_details
+      label: InvitationDetails
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: NextSteps
+      hint: null
+      type: note
+      options: []
+      required: false

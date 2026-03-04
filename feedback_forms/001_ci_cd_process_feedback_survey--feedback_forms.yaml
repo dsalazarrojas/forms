@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CI/CD Process Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: What is your primary role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - DevOps Engineer
+      - Release Manager
+      - QA Engineer
+      - Technical Lead
+      - Other
+      required: true
+    - id: 2
+      name: team_name
+      label: Which team do you belong to?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pipeline_frequency
+      label: How often do you use the CI/CD pipeline in your daily work?
+      hint: null
+      type: select_one
+      options:
+      - Multiple times per day
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall satisfaction with the CI/CD pipeline
+      hint: 1 - Very Dissatisfied, 5 - Very Satisfied
+      type: select_one
+      options:
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      required: true
+    - id: 5
+      name: deployment_speed
+      label: How would you rate the speed of deployments?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 6
+      name: reliability_score
+      label: Rate the reliability of the pipeline
+      hint: How often do builds fail unexpectedly?
+      type: select_one
+      options:
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      required: true
+    - id: 7
+      name: pain_points
+      label: What are the main pain points with the current pipeline?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Slow build times
+      - Frequent failures
+      - Poor documentation
+      - Difficult to debug
+      - Limited visibility
+      - Lack of tooling
+      required: true
+    - id: 8
+      name: improvement_suggestions
+      label: What improvements would have the most impact?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: monitoring_visibility
+      label: How satisfied are you with pipeline visibility and monitoring?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 10
+      name: tooling_feedback
+      label: Are the current CI/CD tools adequate for your needs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully adequate
+      - Mostly adequate
+      - Adequate with minor gaps
+      - Major gaps exist
+      - Completely inadequate
+      required: true
+    - id: 11
+      name: communication_quality
+      label: How well does the team communicate pipeline changes and updates?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: training_satisfaction
+      label: Are you satisfied with the training provided for the CI/CD pipeline?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Any additional comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_for_followup
+      label: May we contact you for follow-up questions?
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: false
+    - id: 15
+      name: respondent_email
+      label: Email address (optional)
+      hint: null
+      type: email
+      options: []
+      required: false

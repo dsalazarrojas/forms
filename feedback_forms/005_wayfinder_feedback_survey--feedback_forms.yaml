@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wayfinder Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: navigation
+      label: navigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signage_clarity
+      label: signage_clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wayfinding_experience
+      label: wayfinding_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Bad
+      required: true

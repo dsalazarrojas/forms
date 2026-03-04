@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Set Design Service Inquiry Form
+    pages:
+    - id: 1
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Set Design Service
+      - Set Production Service
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Production
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: true

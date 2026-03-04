@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Utilization Feedback Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: Do you use this skill for your current role?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 3
+      name: question2
+      label: How well are your skills used in your current role?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Well
+      - Somewhat Well
+      - Not At All
+      - N/A
+      required: false
+    - id: 4
+      name: question3
+      label: How important is this skill for your current role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

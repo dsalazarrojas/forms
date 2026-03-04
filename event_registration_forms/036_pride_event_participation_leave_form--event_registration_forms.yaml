@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pride Event Participation Leave Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates_of_absence
+      label: Dates Of Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: duration_of_leave
+      label: Duration Of Leave
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 6
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

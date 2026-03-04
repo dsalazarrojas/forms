@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Signature Collection Form
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_consent
+      label: Event Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false
+    - id: 17
+      name: event_attendees
+      label: Event Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: event_files
+      label: Event Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendee_consent
+      label: Attendee Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attendee_signature
+      label: Attendee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attendee_status
+      label: Attendee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false

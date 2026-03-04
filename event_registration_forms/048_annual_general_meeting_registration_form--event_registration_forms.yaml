@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual General Meeting Registration Form
+    pages:
+    - id: 1
+      name: attendee_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_number
+      label: Member Number
+      hint: Your membership ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_role
+      label: Role in Organization
+      hint: Your position or status
+      type: select_one
+      options:
+      - Board Member
+      - Committee Member
+      - Active Member
+      - Associate Member
+      - Guest
+      - Staff Member
+      - Volunteer
+      - Other
+      required: false
+    - id: 7
+      name: meeting_header
+      label: -- Meeting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: AGM Date
+      hint: When is the meeting
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: meeting_time
+      label: Meeting Time
+      hint: What time is it starting
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: meeting_location
+      label: Meeting Location
+      hint: Where the meeting will be held
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendance_header
+      label: -- Attendance Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: attendance_status
+      label: Will you attend the meeting
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend in-person
+      - Yes, I will attend virtually
+      - No, I cannot attend
+      - Still deciding
+      required: true
+    - id: 13
+      name: proxy_voting
+      label: Will you Vote by Proxy
+      hint: Assigning vote to another member
+      type: select_one
+      options:
+      - No, I will vote in person
+      - Yes, I will vote by proxy
+      - Unsure
+      required: false
+    - id: 14
+      name: proxy_designee
+      label: Proxy Designee Name
+      hint: Person authorized to vote for you
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: meal_header
+      label: -- Meal and Refreshments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: meal_attendance
+      label: Will you attend the meal or reception
+      hint: Plans for meal service
+      type: select_one
+      options:
+      - Yes, attending meal
+      - No, not attending meal
+      - Unsure
+      required: true
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_header
+      label: -- Accessibility and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: transportation_assistance
+      label: Need Transportation Assistance
+      hint: Do you need help with transportation
+      type: select_one
+      options:
+      - Yes, need assistance
+      - No, arranging own transportation
+      - Not applicable
+      required: false
+    - id: 21
+      name: agenda_header
+      label: -- Agenda Topics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: agenda_topics_interest
+      label: Topics of Interest on Agenda
+      hint: What you want to discuss
+      type: select_multiple
+      options:
+      - Financial Report
+      - Strategic Plan Updates
+      - Committee Reports
+      - Officer Elections
+      - Member Voting
+      - Special Initiatives
+      - Q and A Session
+      - Networking Opportunity
+      required: false
+    - id: 23
+      name: questions_comments
+      label: Questions or Comments for the Meeting
+      hint: What you want to bring up
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_header
+      label: -- Follow-Up Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: contact_preference
+      label: Preferred Contact Method for Updates
+      hint: How we should contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Mail
+      - No preference
+      required: true

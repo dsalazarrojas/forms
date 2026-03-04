@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: gratitude_and_recognition_voting
+    pages:
+    - id: 1
+      name: nomination_name
+      label: Nomination Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominators_comment
+      label: Nominator's Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: nomination_title
+      label: Nomination Title
+      hint: null
+      type: select_one
+      options:
+      - Nomination
+      - Nomination
+      - Nomination
+      required: true
+    - id: 6
+      name: nomination_text
+      label: Nomination Text
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: vote
+      label: Vote
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: vote_count
+      label: Vote Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: nomination_time
+      label: Nomination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: nomination_time_note
+      label: Nomination Time Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vote_count_note
+      label: Vote Count Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vote_note
+      label: Vote Note
+      hint: null
+      type: note
+      options: []
+      required: false

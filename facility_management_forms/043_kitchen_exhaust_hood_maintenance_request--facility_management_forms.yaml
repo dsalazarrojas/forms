@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Exhaust Hood Maintenance Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: hood_type
+      label: Hood Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hood_status
+      label: Hood Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_team_member
+      label: Assigned Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

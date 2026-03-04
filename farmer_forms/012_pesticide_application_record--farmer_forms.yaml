@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pesticide Application Record
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: applicator_name
+      label: Applicator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_name
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: treated_area
+      label: Treated Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conditions
+      label: Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

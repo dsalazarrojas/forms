@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Cost Review Registration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: assigned_approver
+      label: assigned_approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

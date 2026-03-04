@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Meetup Signup Form
+    pages:
+    - id: 1
+      name: meetup_details
+      label: Meetup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meetup_date
+      label: Meetup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: organizer_info
+      label: Organizer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: developer_info
+      label: Developer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: food_allergies
+      label: Food Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

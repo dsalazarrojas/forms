@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Agricultural Data Collection
+    pages:
+    - id: 1
+      name: farm_id
+      label: Farm Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: crop_name
+      label: Crop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: weather
+      label: Weather
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: soil_condition
+      label: Soil Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - John Smith
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit Form
+      - Save Draft
+      - Cancel
+      required: true

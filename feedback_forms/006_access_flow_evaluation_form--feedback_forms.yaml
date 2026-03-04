@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Flow Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of the evaluation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location_evaluated
+      label: Location Evaluated
+      hint: Name and address of the facility or service location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_purpose
+      label: Evaluation Purpose
+      hint: What type of access evaluation is this?
+      type: select_one
+      options: ["Physical Access", "Digital Access", "Service Access", "Communication Access", "Transportation Access"]
+      required: true
+    - id: 5
+      name: accessibility_rating_overall
+      label: Overall Accessibility Rating
+      hint: Rate the overall accessibility of this location/service
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+      required: true
+    - id: 6
+      name: entrance_accessibility
+      label: Entrance Accessibility
+      hint: How accessible is the main entrance?
+      type: select_one
+      options: ["Fully Accessible", "Mostly Accessible", "Partially Accessible", "Minimally Accessible", "Not Accessible"]
+      required: true
+    - id: 7
+      name: parking_availability
+      label: Parking Availability
+      hint: Are accessible parking spaces available?
+      type: select_one
+      options: ["Ample Accessible Parking", "Some Accessible Parking", "Limited Accessible Parking", "No Accessible Parking", "N/A"]
+      required: true
+    - id: 8
+      name: navigation_assistance
+      label: Navigation Assistance
+      hint: Are wayfinding aids available for people with disabilities?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Not Available"]
+      required: true
+    - id: 9
+      name: physical_barrier_issues
+      label: Physical Barrier Issues
+      hint: What physical barriers were encountered?
+      type: select_multiple
+      options: ["Steps without ramps", "Narrow doorways", "High counters", "Poor lighting", "Inadequate signage", "Uneven surfaces", "None"]
+      required: false
+    - id: 10
+      name: digital_accessibility
+      label: Digital Accessibility
+      hint: How accessible is the digital interface (website, kiosk, app)?
+      type: select_one
+      options: ["Fully Accessible", "Mostly Accessible", "Partially Accessible", "Minimally Accessible", "Not Accessible"]
+      required: true
+    - id: 11
+      name: staff_training_level
+      label: Staff Training Level
+      hint: How well trained are staff in assisting people with disabilities?
+      type: select_one
+      options: ["Highly Trained", "Well Trained", "Moderately Trained", "Minimally Trained", "Not Trained"]
+      required: true
+    - id: 12
+      name: accommodation_options
+      label: Accommodation Options
+      hint: What accommodations are available?
+      type: select_multiple
+      options: ["Wheelchair accessibility", "Visual aids", "Hearing loop", "Large print materials", "Assistance animals welcome", "Sign language interpreters", "None"]
+      required: false
+    - id: 13
+      name: communication_accessibility
+      label: Communication Accessibility
+      hint: How accessible is communication at this location?
+      type: select_one
+      options: ["Excellent", "Good", "Fair", "Poor", "Not Accessible"]
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: What improvements would enhance accessibility?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What aspects of accessibility worked well?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: compliance_rating
+      label: Compliance Rating
+      hint: How well does this location comply with accessibility standards?
+      type: select_one
+      options: ["Exceeds Standards", "Meets Standards", "Partially Meets Standards", "Does Not Meet Standards", "Unknown"]
+      required: true
+    - id: 17
+      name: recommendation_status
+      label: Recommendation Status
+      hint: Would you recommend this location to others with accessibility needs?
+      type: select_one
+      options: ["Strongly Recommend", "Recommend with Conditions", "Neutral", "Do Not Recommend", "Strongly Discourage"]
+      required: true

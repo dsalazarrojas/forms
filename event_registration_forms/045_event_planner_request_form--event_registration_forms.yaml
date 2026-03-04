@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planner Request Form
+    pages:
+    - id: 1
+      name: event_information
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: set_up_information
+      label: Set-up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_information
+      label: Media Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: catering_information
+      label: Catering Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fundraiser_information
+      label: Fundraiser Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: set_up_type
+      label: Set-up Type
+      hint: null
+      type: select_one
+      options:
+      - Setup 1
+      - Setup 2
+      - Setup 3
+      - Setup 4
+      required: false
+    - id: 11
+      name: set_up_location
+      label: Set-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: catering
+      label: Catering
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 13
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Audio
+      - Image
+      required: false
+    - id: 15
+      name: media_url
+      label: Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 17
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 18
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fundraiser_description
+      label: Fundraiser Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: fundraiser_type
+      label: Fundraiser Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 22
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      required: false
+    - id: 23
+      name: event_note
+      label: Event Note
+      hint: null
+      type: note
+      options: []
+      required: false

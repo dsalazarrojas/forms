@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: written_exam_form
+    pages:
+    - id: 1
+      name: question_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_2
+      label: What is your grade level
+      hint: null
+      type: select_one
+      options:
+      - freshman
+      - sophomore
+      - junior
+      - senior
+      required: false
+    - id: 3
+      name: question_3
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question_4
+      label: What is your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_5
+      label: What is your date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: question_6
+      label: What is your time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question_7
+      label: What is your exam performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: question_8
+      label: What is your grade point average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: What is your question 9 answer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_10
+      label: What is your question 10 answer
+      hint: null
+      type: text
+      options: []
+      required: false

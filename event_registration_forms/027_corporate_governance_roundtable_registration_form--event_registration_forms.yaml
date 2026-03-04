@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Governance Roundtable Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Board of Directors
+      - CEO/CFO
+      - Compliance Officer
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-200
+      - 201-500
+      - 501-1000
+      - 1001+
+      - Other
+      required: false
+    - id: 9
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_type
+      label: Company Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_sector
+      label: Company Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      required: false
+    - id: 13
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 17
+      name: participant_interests
+      label: Participant Interests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: what_is_customer_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: customer_satisfaction_principles
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: quiz
+      label: customer_satisfaction_quizz
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 9
+      name: subcategory2
+      label: subcategory2
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: subcategory3
+      label: subcategory3
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moment Recognition Nomination Form
+    pages:
+    - id: 1
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Nomination for Team
+      - Nomination for Individual
+      required: false
+    - id: 4
+      name: award_name
+      label: Award Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 6
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Please describe the reasons why this nominee should be recognized.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about the nominee.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Submitter
+      required: false

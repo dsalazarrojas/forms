@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: BLS Certification Exam
+    pages:
+    - id: 1
+      name: exam_candidate_name
+      label: Full Name
+      hint: Legal name as it should appear on certificate
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: For certificate delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Employer
+      hint: Where do you work or train
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: profession
+      label: Profession or Role
+      hint: Select your healthcare role
+      type: select_one
+      options:
+      - Nurse
+      - Physician
+      - EMT or Paramedic
+      - Dental Professional
+      - Medical Assistant
+      - Student
+      - Other Healthcare Worker
+      - Other
+      required: true
+    - id: 7
+      name: certification_type
+      label: Certification Type
+      hint: Initial or renewal
+      type: select_one
+      options:
+      - Initial Certification
+      - Renewal
+      - Challenge Exam
+      required: true
+    - id: 8
+      name: previous_certification_date
+      label: Previous Certification Date
+      hint: If renewal, when was your last certification
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: exam_date
+      label: Exam Date
+      hint: Date of this exam
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of course instructor
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: training_location
+      label: Training Location
+      hint: Where was training completed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cpr_compression_questions
+      label: CPR Compression Rate Knowledge
+      hint: What is the recommended compression rate for adult CPR
+      type: select_one
+      options:
+      - 60 to 80 per minute
+      - 80 to 100 per minute
+      - 100 to 120 per minute
+      - 120 to 140 per minute
+      required: true
+    - id: 13
+      name: compression_depth_question
+      label: Compression Depth Knowledge
+      hint: What is the recommended compression depth for adults
+      type: select_one
+      options:
+      - At least 1 inch
+      - At least 2 inches
+      - At least 3 inches
+      - At least 4 inches
+      required: true
+    - id: 14
+      name: rescue_breaths_question
+      label: Rescue Breaths Ratio
+      hint: What is the compression to breath ratio for single rescuer
+      type: select_one
+      options:
+      - 15 compressions to 2 breaths
+      - 30 compressions to 2 breaths
+      - 30 compressions to 1 breath
+      - 15 compressions to 1 breath
+      required: true
+    - id: 15
+      name: aed_usage_question
+      label: AED Usage Knowledge
+      hint: When should an AED be used
+      type: select_one
+      options:
+      - Only after 5 minutes of CPR
+      - As soon as available
+      - After rescue breaths fail
+      - Only by medical professionals
+      required: true
+    - id: 16
+      name: choking_response_question
+      label: Choking Response Knowledge
+      hint: What is the first response to a choking adult
+      type: select_one
+      options:
+      - Back slaps
+      - Abdominal thrusts
+      - Chest compressions
+      - Call 911 first
+      required: true
+    - id: 17
+      name: practical_skills_passed
+      label: Practical Skills Assessment
+      hint: Did candidate pass practical skills evaluation
+      type: select_one
+      options:
+      - Yes, passed
+      - No, did not pass
+      required: true
+    - id: 18
+      name: written_exam_score
+      label: Written Exam Score
+      hint: Percentage score on written exam
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: exam_result
+      label: Exam Result
+      hint: Final certification outcome
+      type: select_one
+      options:
+      - Pass - Certified
+      - Fail - Retake Required
+      required: true
+    - id: 20
+      name: instructor_signature
+      label: Instructor Signature
+      hint: Instructor name or signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: certification_number
+      label: Certification Number
+      hint: Assigned certification ID
+      type: text
+      options: []
+      required: false

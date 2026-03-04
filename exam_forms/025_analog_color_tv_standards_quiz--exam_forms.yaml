@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Analog Color TV Standards Quiz
+    pages:
+    - id: 1
+      name: section_instructions
+      label: -- Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_1
+      label: Which standard is primarily used in North America
+      hint: Choose one
+      type: select_one
+      options:
+      - NTSC
+      - PAL
+      - SECAM
+      required: true
+    - id: 4
+      name: question_2
+      label: Number of lines in NTSC standard
+      hint: Enter as integer
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_3
+      label: Color subcarrier frequency in MHz
+      hint: Enter decimal value
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: instructor_comments
+      label: Instructor comments
+      hint: For grading notes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: I agree to have my answers reviewed for grading
+      hint: Select yes to consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

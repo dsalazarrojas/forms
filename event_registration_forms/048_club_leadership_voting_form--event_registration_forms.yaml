@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Leadership Voting Form
+    pages:
+    - id: 1
+      name: section_voter
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email Address
+      hint: For verification purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: To verify membership
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_confirmation
+      label: I am a current club member
+      hint: By voting, you confirm membership
+      type: select_one
+      options: ["Yes, I am a member", "No"]
+      required: true
+    - id: 6
+      name: section_election
+      label: -- Election Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: election_date
+      label: Election Date
+      hint: When is this election being held?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: election_year
+      label: Academic Year - Election Term
+      hint: Which year is this for?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_positions
+      label: -- Leadership Position Votes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: president_vote
+      label: Vote for President
+      hint: Select your choice
+      type: select_one
+      options: ["Candidate A", "Candidate B", "Candidate C", "Abstain - no preference"]
+      required: true
+    - id: 11
+      name: vp_vote
+      label: Vote for Vice President
+      hint: null
+      type: select_one
+      options: ["Candidate A", "Candidate B", "Candidate C", "Abstain - no preference"]
+      required: true
+    - id: 12
+      name: secretary_vote
+      label: Vote for Secretary
+      hint: null
+      type: select_one
+      options: ["Candidate A", "Candidate B", "Candidate C", "Abstain - no preference"]
+      required: true
+    - id: 13
+      name: treasurer_vote
+      label: Vote for Treasurer
+      hint: null
+      type: select_one
+      options: ["Candidate A", "Candidate B", "Candidate C", "Abstain - no preference"]
+      required: true
+    - id: 14
+      name: board_members_vote
+      label: Vote for Board Members - At Large
+      hint: Select up to 3 candidates
+      type: select_multiple
+      options: ["Candidate A", "Candidate B", "Candidate C", "Candidate D", "Candidate E"]
+      required: false
+    - id: 15
+      name: section_additional
+      label: -- Additional Positions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_positions
+      label: Other Positions to Vote On
+      hint: null
+      type: select_one
+      options: ["Yes, more positions follow", "No, voting complete"]
+      required: false
+    - id: 17
+      name: events_director_vote
+      label: Vote for Events Director
+      hint: If applicable
+      type: select_one
+      options: ["Candidate A", "Candidate B", "Candidate C", "Abstain - no preference"]
+      required: false
+    - id: 18
+      name: communications_vote
+      label: Vote for Communications Officer
+      hint: If applicable
+      type: select_one
+      options: ["Candidate A", "Candidate B", "Candidate C", "Abstain - no preference"]
+      required: false
+    - id: 19
+      name: section_verification
+      label: -- Verification and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vote_accuracy
+      label: My votes are accurate and complete
+      hint: I have voted for all positions I wish to vote on
+      type: select_one
+      options: ["Yes, votes are accurate", "No, let me review"]
+      required: true
+    - id: 21
+      name: submission_confirmation
+      label: I confirm submission of this ballot
+      hint: By clicking yes, I submit my ballot to be counted
+      type: select_one
+      options: ["Yes, submit my ballot", "No, cancel"]
+      required: true
+    - id: 22
+      name: voting_time
+      label: Time of Vote Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: anonymous_voting
+      label: Request anonymous voting - do not attach to name
+      hint: null
+      type: select_one
+      options: ["Yes, vote anonymously", "No, identified vote"]
+      required: true

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Tour Consent Form
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Participant's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: tour_details_section
+      label: -- Tour Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tour_name
+      label: Tour Name
+      hint: Name of the adventure tour
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tour_date
+      label: Tour Date
+      hint: Date of the adventure tour
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: tour_location
+      label: Tour Location
+      hint: Location of the adventure tour
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: risk_acknowledgment_section
+      label: -- Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tour_risks_acknowledged
+      label: Tour Risks Acknowledged
+      hint: Do you acknowledge the risks associated with this tour
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: physical_demands_acknowledged
+      label: Physical Demands Acknowledged
+      hint: Do you understand the physical demands of this tour
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that may affect participation
+      type: select_multiple
+      options:
+      - Heart condition
+      - Asthma
+      - Seizures
+      - Joint problems
+      - Back problems
+      - Pregnancy
+      - None
+      - Other
+      required: true
+    - id: 19
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: Do you consent to participate in this adventure tour
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true

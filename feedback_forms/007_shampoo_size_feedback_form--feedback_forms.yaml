@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shampoo Size Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: How do you like the size of this shampoo?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: too_small
+      label: Is the size too small?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 4
+      name: too_large
+      label: Is the size too large?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 5
+      name: perfect_size
+      label: Is this the perfect size?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 6
+      name: size_opinion
+      label: What size do you think this should be?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      - '{''id'': 4, ''label'': ''Extra Large''}'
+      required: false
+    - id: 7
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_purchase_day
+      label: Day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_purchase_month
+      label: Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_purchase_year
+      label: Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitted_via
+      label: Submitted Via
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Web''}'
+      - '{''id'': 2, ''label'': ''Mobile''}'
+      - '{''id'': 3, ''label'': ''In-Person''}'
+      required: false
+    - id: 15
+      name: submitted_to
+      label: Submitted to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Customer Service''}'
+      - '{''id'': 3, ''label'': ''Marketing''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: submitted_from
+      label: Submitted from
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Store''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: store_info
+      label: Store Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: store_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: store_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: store_hours
+      label: Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: store_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

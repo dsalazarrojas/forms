@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lifetime Achievement Nomination Form
+    pages:
+    - id: 1
+      name: nomination_name
+      label: Nomination Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nomination_category
+      label: Nomination Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominee_category
+      label: Nominee Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: nomination_nominator
+      label: Nomination By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reason_nomination
+      label: Reason For Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominee_details
+      label: Nominee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_nomination
+      label: Confirm Nomination
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

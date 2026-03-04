@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Theater Support Donation Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: Donations Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_date
+      label: Date Donated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Other
+      required: true
+    - id: 5
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rotational Grazing Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Rotational Grazing Feedback Survey Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: grazing_goals
+      label: What are your primary goals for rotational grazing?
+      hint: null
+      type: select_multiple
+      options:
+      - Benefits from rotational grazing
+      - Reduced soil erosion
+      - Improved water quality
+      - Increased crop yields
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: grazing_frequency
+      label: How often do you currently rotational graze?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: grazing_duration
+      label: How many hours per day do you rotational graze?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grazing_method
+      label: What method do you use for rotational grazing?
+      hint: null
+      type: select_one
+      options:
+      - No-till
+      - Rotational grazing
+      - Other
+      required: true
+    - id: 6
+      name: grazing_benefits
+      label: What benefits do you get from rotational grazing?
+      hint: null
+      type: select_multiple
+      options:
+      - Improved soil structure
+      - Increased crop yields
+      - Better nutrient cycling
+      - Improved water quality
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: grazing_challenges
+      label: What challenges do you face with rotational grazing?
+      hint: null
+      type: select_multiple
+      options:
+      - Soil erosion
+      - Weed pressure
+      - Pest and disease pressure
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: grazing_satisfaction
+      label: How satisfied are you with your rotational grazing experience?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Please share any additional comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Farmer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

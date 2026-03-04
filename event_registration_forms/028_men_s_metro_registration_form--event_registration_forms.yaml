@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men's Metro Registration Form
+    pages:
+    - id: 1
+      name: event_type
+      label: event type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 8
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Metro-based
+      - Commuter
+      - Event
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_verification
+      label: Email Verification
+      hint: null
+      type: text
+      options: []
+      required: false

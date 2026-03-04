@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Supplies Distribution Survey
+    pages:
+    - id: 1
+      name: distribution_header
+      label: -- Family Support and Baby Supplies Feedback --
+      hint: Help us improve our distribution service to better serve your family
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_family_name
+      label: Family or Primary Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: number_of_infants
+      label: How many infants (0-24 months) are in your household?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: supplies_received
+      label: Which supplies did you receive during the last distribution?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diapers (Newborn to Size 6)
+      - Baby Wipes
+      - Infant Formula
+      - Baby Food Jars
+      - Baby Clothing
+      - Stroller or Car Seat
+      - Hygiene Items (Shampoo, Lotion)
+      required: true
+    - id: 5
+      name: diaper_size_needed
+      label: What is your current most needed diaper size?
+      hint: null
+      type: select_one
+      options:
+      - Newborn
+      - Size 1
+      - Size 2
+      - Size 3
+      - Size 4
+      - Size 5
+      - Size 6
+      - Pull-ups
+      required: false
+    - id: 6
+      name: distribution_frequency_rating
+      label: Is the distribution frequency sufficient for your needs?
+      hint: 1 = Not enough, 5 = More than enough
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quality_satisfaction
+      label: Rate the quality of the supplies received
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 8
+      name: pickup_process_ease
+      label: Was the pickup or distribution process easy to navigate?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very easy
+      - Somewhat easy
+      - Difficult
+      required: true
+    - id: 9
+      name: additional_needs_desc
+      label: Are there any other baby essentials you are struggling to obtain?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestion_for_improvement
+      label: How can we make this program better for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_for_followup
+      label: May we contact you for more information?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

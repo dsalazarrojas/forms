@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Expansion Launch RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: affiliation
+      label: Affiliation
+      hint: Organization or company
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ticket_type
+      label: Ticket type
+      hint: Seating category
+      type: select_one
+      options:
+      - General
+      - VIP
+      - Sponsor
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Number of guests
+      hint: Guests in your party
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: catering_needs
+      label: Catering needs
+      hint: Dietary requirements for reception
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_date
+      label: RSVP date
+      hint: Date of RSVP submission
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: photo_consent
+      label: Photo consent
+      hint: Consent for event photography
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information for organizers
+      type: text
+      options: []
+      required: false

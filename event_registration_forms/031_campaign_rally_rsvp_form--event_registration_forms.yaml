@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Rally RSVP Form
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rally_name
+      label: Rally Name
+      hint: Which rally are you attending
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rally_date
+      label: Rally Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: rally_location
+      label: Rally Location
+      hint: Where is it being held
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_attending
+      label: Number of People Attending
+      hint: Including yourself
+      type: select_one
+      options:
+      - Just me
+      - 2 people
+      - 3-5 people
+      - 6-10 people
+      - More than 10 people
+      required: true
+    - id: 13
+      name: children_attending
+      label: Will You Bring Children
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - 1 child
+      - Yes - 2 children
+      - Yes - 3 or more children
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Do You Have Accessibility Needs
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - wheelchair access
+      - Yes - sign language interpreter
+      - Yes - other accommodation
+      required: true
+    - id: 15
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - need ride
+      - Yes - can offer ride
+      - Yes - need information
+      required: false
+    - id: 17
+      name: volunteer_interest
+      label: Are You Interested in Volunteering
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - definitely
+      - Maybe - need more info
+      - No - just attending
+      required: true
+    - id: 18
+      name: volunteer_tasks
+      label: What Volunteer Tasks Interest You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Setup and teardown
+      - Crowd management
+      - Sign distribution
+      - Registration table
+      - Media and photography
+      - Social media
+      - Childcare
+      - Transportation
+      - Other
+      required: false
+    - id: 19
+      name: signs_materials
+      label: Will You Bring Signs or Materials
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I have signs
+      - Yes - I will make signs
+      - No - need signs provided
+      required: false
+    - id: 20
+      name: how_heard_about_rally
+      label: How Did You Hear About This Rally
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Email
+      - Phone call
+      - Friend or family
+      - Website
+      - Flyer or poster
+      - News media
+      - Other
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If food is provided
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Other
+      required: false
+    - id: 22
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: If rally shirts provided
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
+      - Not needed
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_preference
+      label: How Would You Like to Receive Confirmation
+      hint: Select preference
+      type: select_one
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - No confirmation needed
+      required: true

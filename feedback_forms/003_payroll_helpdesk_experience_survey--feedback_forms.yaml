@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: payroll_helpdesk_experience_survey
+    pages:
+    - id: 1
+      name: response_time
+      label: Response Time
+      hint: How long did it take to get a response?
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: professionalism
+      label: Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Slightly Good
+      - Very Poor
+      required: true
+    - id: 3
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Slightly Good
+      - Very Poor
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: What can we do to improve?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_phone
+      label: Do we need email or phone?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: false

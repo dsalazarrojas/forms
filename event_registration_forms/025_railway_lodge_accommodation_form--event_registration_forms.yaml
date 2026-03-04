@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railway Lodge Accommodation Form
+    pages:
+    - id: 1
+      name: check_in_dates
+      label: Check In Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: room_preferences
+      label: Room Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Single Room
+      - Family Room
+      - Shared Room
+      required: false
+    - id: 3
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Room
+      - Suite
+      - Other
+      required: false
+    - id: 5
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false

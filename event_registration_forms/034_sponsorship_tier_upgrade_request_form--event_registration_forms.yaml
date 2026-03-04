@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Tier Upgrade Request Form
+    pages:
+    - id: 1
+      name: form_submission_form
+      label: Registration form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sponsorship_tier
+      label: Sponsorship tier
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''bronze'', ''name'': ''Bronze''}'
+      - '{''id'': ''silver'', ''name'': ''Silver''}'
+      - '{''id'': ''gold'', ''name'': ''Gold''}'
+      required: false
+    - id: 3
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_name
+      label: Sponsor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_email
+      label: Sponsor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_phone
+      label: Sponsor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upgrade_details
+      label: Upgrade details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_and_comment
+      label: Review and comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_upgrade
+      label: Confirm upgrade
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': False, ''name'': False}'
+      - '{''id'': True, ''name'': True}'
+      required: false

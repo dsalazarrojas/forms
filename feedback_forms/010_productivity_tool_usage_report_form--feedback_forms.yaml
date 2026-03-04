@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Tool Usage Report Form
+    pages:
+    - id: 1
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - Other
+      required: false
+    - id: 2
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tool_usage
+      label: Tool Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_role
+      label: User Role
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - Team Lead
+      - Member
+      required: false

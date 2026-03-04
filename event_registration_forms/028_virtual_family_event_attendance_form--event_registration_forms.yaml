@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_family_event_attendance_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_attendee_info
+      label: Event Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Completed
+      required: false
+    - id: 4
+      name: event_notes
+      label: Event Notes
+      hint: Additional notes about the event.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_first_name
+      label: Attendee First Name
+      hint: First name of the attendee.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_last_name
+      label: Attendee Last Name
+      hint: Last name of the attendee.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email
+      label: Attendee Email
+      hint: Email of the attendee.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: attendee_phone
+      label: Attendee Phone
+      hint: Phone number of the attendee.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_comments
+      label: Attendee Comments
+      hint: Comments from the attendee.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: User who submitted this form.
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 11
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: Date and time of form submission.
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: Time of form submission.
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_start_date
+      label: Event Start Date
+      hint: Date of the event.
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_start_time
+      label: Event Start Time
+      hint: Time of the event.
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_end_date
+      label: Event End Date
+      hint: Date of the event end.
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: event_end_time
+      label: Event End Time
+      hint: Time of the event end.
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: event_rsvp_count
+      label: Event RSVP Count
+      hint: Number of people attending the event.
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: event_capacity
+      label: Event Capacity
+      hint: Maximum number of attendees allowed.
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: event_comments
+      label: Event Comments
+      hint: Comments from the event organizers.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_status
+      label: Event Status
+      hint: Current status of the event.
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Completed
+      required: false
+    - id: 21
+      name: event_notes
+      label: Event Notes
+      hint: Additional notes about the event.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attendee_status
+      label: Attendee Status
+      hint: Current status of the attendee.
+      type: select_multiple
+      options:
+      - Confirmed
+      - Pending
+      - Not Attending
+      required: false
+    - id: 23
+      name: attendee_rsvp_count
+      label: Attendee RSVP Count
+      hint: Number of times this attendee has RSVPed.
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: attendee_comments
+      label: Attendee Comments
+      hint: Comments from the attendee.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attendee_notes
+      label: Attendee Notes
+      hint: Additional notes about the attendee.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighting Design Feedback Questionnaire
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_team
+      label: Design Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: design_style
+      label: Design Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lighting_level
+      label: Lighting Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

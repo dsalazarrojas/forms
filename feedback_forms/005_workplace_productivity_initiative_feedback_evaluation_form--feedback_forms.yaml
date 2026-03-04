@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Productivity Initiative Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: work_initiative_satisfaction
+      label: How satisfied are you with the Workplace Productivity Initiative?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: feedback
+      label: What suggestions do you have for improving the Workplace Productivity
+        Initiative?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Engineering
+      - Management
+      - Sales
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Employee
+      - Director
+      - Other
+      required: true
+    - id: 9
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: job_satisfaction
+      label: How satisfied are you with your job?
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: feedback_frequency
+      label: How often do you use the Workplace Productivity Initiative?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: true
+    - id: 12
+      name: initiative_implementation
+      label: How do you think the Workplace Productivity Initiative should be implemented?
+      hint: null
+      type: select_multiple
+      options:
+      - Centralized
+      - Decentralized
+      - Hybrid
+      required: true
+    - id: 13
+      name: initiative_effectiveness
+      label: How effective do you think the Workplace Productivity Initiative is?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      - Not at all Effective
+      required: true
+    - id: 14
+      name: initiative_impact
+      label: How has the Workplace Productivity Initiative impacted your work experience?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Not at all
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Fantasy League Registration
+    pages:
+    - id: 1
+      name: manager_name
+      label: Manager Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For league communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: What is your fantasy team name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: league_name
+      label: League Name
+      hint: Which league are you joining
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience_level
+      label: Fantasy Baseball Experience
+      hint: How experienced are you
+      type: select_one
+      options:
+      - First time player
+      - 1 to 2 seasons
+      - 3 to 5 seasons
+      - 6 to 10 seasons
+      - More than 10 seasons
+      required: true
+    - id: 7
+      name: league_format
+      label: Preferred League Format
+      hint: Type of scoring
+      type: select_one
+      options:
+      - Head to head
+      - Rotisserie
+      - Points based
+      - No preference
+      required: true
+    - id: 8
+      name: team_count
+      label: Number of Teams in League
+      hint: League size
+      type: select_one
+      options:
+      - 8 teams
+      - 10 teams
+      - 12 teams
+      - 14 teams
+      - 16 teams
+      required: true
+    - id: 9
+      name: draft_type
+      label: Draft Type Preference
+      hint: How should draft be conducted
+      type: select_one
+      options:
+      - Live online draft
+      - In person draft
+      - Autopick draft
+      - No preference
+      required: true
+    - id: 10
+      name: draft_date_preference
+      label: Preferred Draft Date
+      hint: When can you draft
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: draft_time_preference
+      label: Preferred Draft Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 12
+      name: budget
+      label: Entry Fee Budget
+      hint: How much will you spend
+      type: select_one
+      options:
+      - Free league
+      - 1 to 25 dollars
+      - 26 to 50 dollars
+      - 51 to 100 dollars
+      - More than 100 dollars
+      required: true
+    - id: 13
+      name: keeper_league
+      label: Keeper League Preference
+      hint: Keep players year to year
+      type: select_one
+      options:
+      - Yes, prefer keeper
+      - No, redraft only
+      - No preference
+      required: true
+    - id: 14
+      name: trade_settings
+      label: Trade Settings
+      hint: How should trades work
+      type: select_one
+      options:
+      - Unlimited trades
+      - Limited trades
+      - No trades
+      - Commissioner approval
+      required: true
+    - id: 15
+      name: waiver_type
+      label: Waiver Wire Preference
+      hint: How to acquire free agents
+      type: select_one
+      options:
+      - Rolling waivers
+      - FAAB budget
+      - First come first served
+      - No preference
+      required: true
+    - id: 16
+      name: scoring_categories
+      label: Scoring Categories
+      hint: Standard or custom
+      type: select_one
+      options:
+      - Standard 5x5
+      - Standard 6x6
+      - Custom scoring
+      - No preference
+      required: true
+    - id: 17
+      name: playoff_format
+      label: Playoff Format
+      hint: How should playoffs work
+      type: select_one
+      options:
+      - Standard playoffs
+      - Expanded playoffs
+      - No playoffs
+      - No preference
+      required: true
+    - id: 18
+      name: communication_platform
+      label: Communication Platform
+      hint: How will league communicate
+      type: select_one
+      options:
+      - League message board
+      - Group chat
+      - Email
+      - Discord
+      - No preference
+      required: true
+    - id: 19
+      name: league_rules_agreement
+      label: League Rules Agreement
+      hint: I agree to follow all league rules
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method for Entry Fee
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Venmo
+      - Cash
+      - League does not require payment
+      required: true
+    - id: 21
+      name: previous_championships
+      label: Previous Fantasy Championships
+      hint: Have you won before
+      type: select_one
+      options:
+      - Yes, multiple
+      - Yes, once
+      - No, first championship
+      - First time playing
+      required: true
+    - id: 22
+      name: favorite_mlb_team
+      label: Favorite MLB Team
+      hint: Who do you root for
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: favorite_player
+      label: Favorite Player
+      hint: Current favorite
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: draft_strategy
+      label: Draft Strategy
+      hint: What is your approach
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: trash_talk_level
+      label: Trash Talk Level
+      hint: How active will you be
+      type: select_one
+      options:
+      - Very active
+      - Moderately active
+      - Occasionally
+      - Never
+      required: true
+    - id: 26
+      name: how_did_you_hear
+      label: How Did You Hear About This League
+      hint: We appreciate knowing
+      type: select_one
+      options:
+      - Friend invitation
+      - Social media
+      - Online search
+      - Previous league
+      - Other
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Policy Review Registration
+    pages:
+    - id: 1
+      name: attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For event updates and materials
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 11
+      name: registration_section
+      label: -- Workshop Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Which session would you prefer?
+      type: select_one
+      options:
+      - Monday, 2PM - 4PM
+      - Tuesday, 10AM - 12PM
+      - Wednesday, 2PM - 4PM
+      - Thursday, 10AM - 12PM
+      required: true
+    - id: 13
+      name: workshop_format
+      label: Preferred Format
+      hint: How would you like to attend?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Either
+      required: true
+    - id: 14
+      name: experience_section
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: policy_familiarity
+      label: Familiarity with current expense policy
+      hint: How well do you know current policy?
+      type: select_one
+      options:
+      - Not familiar
+      - Somewhat familiar
+      - Very familiar
+      - Expert
+      required: true
+    - id: 16
+      name: policy_questions
+      label: Do you have questions about current policy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: specific_questions
+      label: Specific questions about policy
+      hint: What would you like to learn about?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: interests_section
+      label: -- Topics of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: topic_interests
+      label: Topics of interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reimbursement Procedures
+      - Travel Expense Guidelines
+      - Meal and Entertainment Rules
+      - Technology and Tools
+      - Process Changes
+      - Approval Workflow
+      required: false
+    - id: 20
+      name: challenges_section
+      label: -- Current Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: expense_challenges
+      label: Challenges with expense reporting
+      hint: What difficulties do you face?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: process_feedback
+      label: Feedback on current process
+      hint: What could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: logistics_section
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: Select if applicable
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Other
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility accommodations needed
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Yes - please specify
+      required: false
+    - id: 26
+      name: accessibility_details
+      label: Accessibility details
+      hint: Describe what you need
+      type: text
+      options: []
+      required: false

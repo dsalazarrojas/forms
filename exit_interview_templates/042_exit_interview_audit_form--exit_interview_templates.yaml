@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: exit-interview-audit-form
+    pages:
+    - id: 1
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_history
+      label: Work History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_relationship
+      label: Manager Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_culture
+      label: Company Culture
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 7
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: exit_interview_schedule
+      label: Exit Interview Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: exit_interview_location
+      label: Exit Interview Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      - option9
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

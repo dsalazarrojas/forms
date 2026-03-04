@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Winning Move Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team Lead''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Employee''}'
+      required: false
+    - id: 3
+      name: communicated
+      label: Who Communicated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''In Person''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: communicated_method
+      label: Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Chat''}'
+      required: false
+    - id: 5
+      name: communicated_to
+      label: Who Was Communicated To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Employee''}'
+      required: false
+    - id: 6
+      name: communicated_with
+      label: How Was It Communicated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: improvement_area
+      label: Area For Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication''}'
+      - '{''id'': 2, ''label'': ''Clarity''}'
+      - '{''id'': 3, ''label'': ''Timeliness''}'
+      required: false
+    - id: 9
+      name: improvement_action
+      label: Improvements To Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

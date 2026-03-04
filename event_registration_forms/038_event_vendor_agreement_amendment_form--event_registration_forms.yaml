@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Vendor Agreement Amendment Form
+    pages:
+    - id: 1
+      name: event_vendor_agreement_amendment_form_1
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_date
+      label: date_of_agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: agreement_version
+      label: agreement_version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vendor_name_change
+      label: vendor_name_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_contact
+      label: vendor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement_term_change
+      label: agreement_term_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: text
+      options: []
+      required: false

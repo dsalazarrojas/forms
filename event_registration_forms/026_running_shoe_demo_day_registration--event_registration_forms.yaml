@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Running Shoe Demo Day Registration
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_session
+      label: Schedule a Session
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Session 1''}'
+      - '{''id'': 2, ''label'': ''Session 2''}'
+      - '{''id'': 3, ''label'': ''Session 3''}'
+      required: false
+    - id: 3
+      name: waiver
+      label: Waiver
+      hint: Please fill out the waiver before proceeding
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I have read and agreed to the waiver''}'
+      - '{''id'': 2, ''label'': ''I have not read and agreed to the waiver''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

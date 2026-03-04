@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: yay_it_s_turkey_day
+    pages:
+    - id: 1
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: will_bringing
+      label: what_will_guest_bring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: coming_with
+      label: coming_with_guest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: when_is_your_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: what_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

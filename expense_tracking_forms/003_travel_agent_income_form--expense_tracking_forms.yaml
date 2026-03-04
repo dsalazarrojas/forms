@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Income Form
+    pages:
+    - id: 1
+      name: travel_agent_income_form
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agent_income_form_1
+      label: Travel Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_agent_income_form_2
+      label: Total Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent_income_form_3
+      label: Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_agent_income_form_4
+      label: Income Type
+      hint: null
+      type: select_one
+      options:
+      - Commissions
+      - Fees
+      - Other
+      required: false
+    - id: 6
+      name: travel_agent_income_form_5
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Transportation
+      - Accommodation
+      - Food
+      - Miscellaneous
+      required: false
+    - id: 7
+      name: travel_agent_income_form_6
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_agent_income_form_7
+      label: Travel Duration
+      hint: null
+      type: text
+      options: []
+      required: false

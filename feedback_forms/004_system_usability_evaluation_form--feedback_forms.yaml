@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Usability Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: System Usability Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_usability
+      label: productusability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: navigation
+      label: navigation
+      hint: null
+      type: select_one
+      options:
+      - User Friendly
+      - Easy to use
+      - Difficult to use
+      required: false
+    - id: 4
+      name: searchability
+      label: searchability
+      hint: null
+      type: select_multiple
+      options:
+      - Search is not available
+      - Search is available
+      - I don't know
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: improvement
+      label: improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

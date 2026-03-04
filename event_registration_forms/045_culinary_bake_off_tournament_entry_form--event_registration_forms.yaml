@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Bake Off Tournament Entry Form
+    pages:
+    - id: 1
+      name: registration_info
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: entry_info
+      label: Entry Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: entry_name
+      label: Entry Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: entry_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cake''}'
+      - '{''id'': 2, ''label'': ''Cookie''}'
+      required: true
+    - id: 9
+      name: entry_subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Chocolate''}'
+      - '{''id'': 2, ''label'': ''Fruits''}'
+      - '{''id'': 3, ''label'': ''Cakes''}'
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_phone
+      label: Submitter's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: bakery
+      label: Bakery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: rules
+      label: Rules
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Follow''}'
+      - '{''id'': 2, ''label'': ''No Follow''}'
+      required: false
+    - id: 25
+      name: terms
+      label: Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      required: false

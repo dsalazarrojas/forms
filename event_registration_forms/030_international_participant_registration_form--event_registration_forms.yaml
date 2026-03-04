@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_participant_registration_form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Conference
+      - Workshop
+      - Seminar
+      - Exhibition
+      - Trade Show
+      required: false
+    - id: 10
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Speaker
+      - Exhibitor
+      - Sponsor
+      - Attendee
+      - Vendor
+      required: true
+    - id: 11
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: category_id
+      label: Category ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false

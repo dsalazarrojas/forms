@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Feedback Group Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Development'', ''value'': ''development''}'
+      - '{''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''label'': ''Support'', ''value'': ''support''}'
+      required: false
+    - id: 5
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role_in_group
+      label: Role in Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      - '{''label'': ''Member'', ''value'': ''member''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: feedback_group
+      label: Feedback Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Product'', ''value'': ''product''}'
+      - '{''label'': ''Customer Success'', ''value'': ''customer_satisfaction''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      - '{''label'': ''Member'', ''value'': ''member''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: role_in_group_in_project
+      label: Role in Group in Project
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      - '{''label'': ''Member'', ''value'': ''member''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 13
+      name: role_in_project
+      label: Role in Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: team_size
+      label: Team Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 17
+      name: team_status
+      label: Team Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 18
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product'', ''value'': ''product''}'
+      - '{''label'': ''Service'', ''value'': ''service''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 19
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit Now'', ''value'': ''submit_now''}'
+      - '{''label'': ''Save and Continue'', ''value'': ''save_and_continue''}'
+      required: false
+    - id: 21
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Satisfaction Survey
+    pages:
+    - id: 1
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate Our Site
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: improvement
+      label: What would you like to improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Do you have suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: How likely are you to contact us via email?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_form
+      label: Contact us
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 7
+      name: other_contact_method
+      label: Other contact method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website_satisfaction
+      label: How satisfied are you with our website?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: website_usability
+      label: How easy was it to navigate on our website?
+      hint: null
+      type: select_multiple
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 10
+      name: website_usability_comment
+      label: Do you have any comments on website usability?
+      hint: null
+      type: text
+      options: []
+      required: false

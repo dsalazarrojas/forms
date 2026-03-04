@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Bingo Challenge Entry Form
+    pages:
+    - id: 1
+      name: photo_bingo_challenge_entry_form
+      label: Photo Bingo Challenge Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_entries
+      label: Photo Entries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: permissions
+      label: Permissions
+      hint: null
+      type: text
+      options: []
+      required: false

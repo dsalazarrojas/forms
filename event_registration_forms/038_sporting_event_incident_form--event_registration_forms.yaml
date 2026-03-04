@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sporting Event Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: Event Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Incident
+      - Injury
+      - Other
+      required: false
+    - id: 5
+      name: sport
+      label: Sport
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Hockey
+      - Golf
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_one
+      options:
+      - Head
+      - Neck
+      - Back
+      - Joint
+      - Other
+      required: false
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency medical treatment
+      - First aid
+      - Both
+      required: false
+    - id: 10
+      name: reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

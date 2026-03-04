@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Process Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      - Department D
+      required: false
+    - id: 3
+      name: feedback_category
+      label: feedback_category
+      hint: null
+      type: select_multiple
+      options:
+      - Quality Control
+      - Production
+      - Maintenance
+      - Quality Management
+      required: false
+    - id: 4
+      name: process_name
+      label: process_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: question_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_2
+      label: question_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_3
+      label: question_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: question_4
+      label: question_4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: quality_control_process
+      label: quality_control_process
+      hint: null
+      type: select_multiple
+      options:
+      - Process A
+      - Process B
+      - Process C
+      - Process D
+      required: false
+    - id: 10
+      name: review
+      label: review
+      hint: null
+      type: select_one
+      options:
+      - Review 1
+      - Review 2
+      - Review 3
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

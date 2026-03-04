@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Coverage Records Release Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_usage
+      label: Media Usage
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Print Media
+      - Video
+      - Audio
+      required: false
+    - id: 7
+      name: media_description
+      label: Media Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: usage_details
+      label: Usage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - Release
+      - Use
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Rental Service Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: laptop_condition
+      label: Laptops Condition
+      hint: How is the laptop?
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: support_quality
+      label: Support Quality
+      hint: How satisfied with our support team?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

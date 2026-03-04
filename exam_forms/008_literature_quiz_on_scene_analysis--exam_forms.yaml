@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Quiz On Scene Analysis
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scene_question
+      label: scene
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: scene_question_answer
+      label: answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_identification
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_evaluation
+      label: teachers evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_answer_comment
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: teacher_comment
+      label: teacher comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_completion_status
+      label: form completion status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: teacher_evaluation_date
+      label: teacher evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: teacher_evaluation_time
+      label: teacher evaluation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: teacher_evaluation_status
+      label: evaluation status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

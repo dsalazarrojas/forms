@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Exam Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exam_id
+      label: Exam ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_clearance
+      label: Security Clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      - night
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - security-camera
+      - motion-detector
+      - fire-alarm
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: security_level
+      label: Security Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 14
+      name: security_guard_level
+      label: Security Guard Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 15
+      name: security_area
+      label: Security Area
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 16
+      name: first_language
+      label: First Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: second_language
+      label: Second Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: exam_status
+      label: Exam Status
+      hint: null
+      type: select_one
+      options:
+      - Not Passed
+      - Passed
+      - Failed
+      required: true
+    - id: 19
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: exam_location
+      label: Exam Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: exam_duration
+      label: Exam Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: exam_comment
+      label: Exam Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Car Expense Tracking Form
+    pages:
+    - id: 1
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: select_one
+      options:
+      - Petrol
+      - Diesel
+      - Hybrid
+      - Electric
+      required: true
+    - id: 4
+      name: fuel_price
+      label: fuel_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fuel_consumed
+      label: fuel_consumed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: distance_driven
+      label: distance_driven
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_repair_cost
+      label: vehicle_repair_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parking_fees
+      label: parking_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tolls_taxes
+      label: tolls_taxes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_cost
+      label: maintenance_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_expenses
+      label: other_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

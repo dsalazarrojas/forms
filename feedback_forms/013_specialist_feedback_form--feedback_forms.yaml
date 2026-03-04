@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialist Feedback Form
+    pages:
+    - id: 1
+      name: specialist_feedback_form
+      label: specialist_feedback_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_feedback
+      label: client_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - category1
+      - category2
+      - category3
+      - category4
+      - category5
+      required: false
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 10
+      name: rating_2
+      label: rating2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

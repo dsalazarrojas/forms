@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Volunteer Attendance Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_id
+      label: Volunteer ID Number
+      hint: If assigned
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_in_time
+      label: Check-In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: check_out_time
+      label: Check-Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: total_hours
+      label: Total Hours Served
+      hint: Calculated from times above
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department or Area
+      hint: Where did you volunteer
+      type: select_one
+      options:
+      - Dog Care
+      - Cat Care
+      - Small Animals
+      - Medical
+      - Administrative
+      - Adoption Services
+      - Cleaning and Maintenance
+      - Foster Care
+      - Transport
+      - Events
+      - Other
+      required: true
+    - id: 10
+      name: activity_type
+      label: Primary Activity
+      hint: What did you work on
+      type: select_one
+      options:
+      - Animal Socialization
+      - Dog Walking
+      - Feeding
+      - Cleaning
+      - Laundry
+      - Administrative Tasks
+      - Customer Service
+      - Medical Care
+      - Training
+      - Transportation
+      - Event Support
+      - Other
+      required: true
+    - id: 11
+      name: activity_details
+      label: Activity Details
+      hint: Describe your tasks
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: animals_served
+      label: Number of Animals Served
+      hint: Approximate count
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: animals_worked_with
+      label: Which Animals Did You Work With
+      hint: Names or IDs if possible
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Staff member who supervised
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: Location of Service
+      hint: null
+      type: select_one
+      options:
+      - Main Shelter
+      - Satellite Location
+      - Off-Site Event
+      - Foster Home
+      - Transport
+      - Remote - Administrative
+      - Other
+      required: true
+    - id: 16
+      name: issues_encountered
+      label: Were There Any Issues or Concerns
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: issues_details
+      label: Please Describe Issues
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accomplishments
+      label: Notable Accomplishments
+      hint: Anything special achieved
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_completed
+      label: Did You Complete Any Training Today
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: training_details
+      label: Training Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supplies_used
+      label: Did You Use Any Special Supplies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: supplies_details
+      label: Supplies Details
+      hint: If yes list
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_needed
+      label: Is Follow-up Action Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Urgent
+      - Yes - Routine
+      - false
+      required: true
+    - id: 24
+      name: follow_up_details
+      label: Follow-up Details
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: volunteer_feedback
+      label: Any Feedback or Suggestions
+      hint: Your input is valued
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: next_availability
+      label: When Are You Next Available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: volunteer_signature
+      label: Volunteer Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: supervisor_signature
+      label: Supervisor Electronic Signature
+      hint: Type full name - if required
+      type: text
+      options: []
+      required: false

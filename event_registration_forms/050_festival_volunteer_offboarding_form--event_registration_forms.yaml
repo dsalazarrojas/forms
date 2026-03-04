@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Volunteer Offboarding Form
+    pages:
+    - id: 1
+      name: volunteer_offboarding_form_page_1
+      label: Volunteer Offboarding
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: confirm_hours_worked
+      label: Have you worked hours on site?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''On site''}'
+      - '{2: ''Off site''}'
+      - '{3: ''Hybrid''}'
+      required: false
+    - id: 3
+      name: materials_returned
+      label: All materials have been returned
+      hint: null
+      type: select_multiple
+      options:
+      - All materials have been returned
+      - Partially returned
+      - Not returned
+      required: false
+    - id: 4
+      name: feedback
+      label: Any feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hours_worked
+      label: Hours worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_last_worked
+      label: Last worked date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_last_worked
+      label: Last worked time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_offboarding_form_page_2
+      label: Volunteer Offboarding
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_volunteer_name
+      label: Confirm volunteer name
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Name
+      - Volunteer Name
+      - Volunteer Name
+      required: false
+    - id: 10
+      name: confirm_volunteer_contact
+      label: Confirm volunteer contact
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Contact
+      - Volunteer Contact
+      - Volunteer Contact
+      required: false

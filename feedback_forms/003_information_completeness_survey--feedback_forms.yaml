@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Completeness Survey
+    pages:
+    - id: 1
+      name: main_info
+      label: Main information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: info_type
+      label: info_type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: info_source
+      label: info_source
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: info_clarity
+      label: info_clarity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: info_thoroughness
+      label: info_thoroughness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: info_usefulness
+      label: info_usefulness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: info_relevance
+      label: info_relevance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: info_accuracy
+      label: info_accuracy
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 16
+      name: info_precision
+      label: info_precision
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: info_completeness
+      label: info_completeness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 18
+      name: info_timeliness
+      label: info_timeliness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 19
+      name: info_quantitative
+      label: info_quantitative
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 20
+      name: info_sufficiency
+      label: info_sufficiency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 21
+      name: info_cohesion
+      label: info_cohesion
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 22
+      name: info_urgency
+      label: info_urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 23
+      name: info_certainty
+      label: info_certainty
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 24
+      name: info_precision_certainty
+      label: info_precision_certainty
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 25
+      name: info_reproducibility
+      label: info_reproducibility
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

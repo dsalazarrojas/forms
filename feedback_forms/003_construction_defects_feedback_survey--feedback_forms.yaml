@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Defects Feedback Survey
+    pages:
+      - id: 1
+        name: section_reporter_information
+        label: -- Reporter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Reporter name
+        hint: Name of person submitting the defect report
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_contact
+        label: Reporter contact email
+        hint: Email for follow up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: project_reference
+        label: Project reference or ID
+        hint: Provide job number or project name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: defect_location
+        label: Defect location
+        hint: Where on-site the defect was observed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: defect_type
+        label: Defect type
+        hint: Select most applicable category
+        type: select_one
+        options:
+          - Structural
+          - Finish
+          - Mechanical
+          - Electrical
+          - Other
+        required: true
+      - id: 7
+        name: severity
+        label: Severity level
+        hint: Rate severity of the defect
+        type: select_one
+        options:
+          - Low
+          - Moderate
+          - High
+          - Critical
+        required: true
+      - id: 8
+        name: date_observed
+        label: Date observed
+        hint: When the defect was first noticed
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: description
+        label: Defect description
+        hint: Provide a detailed description and any immediate risks
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: photos_provided
+        label: Photos provided
+        hint: Note whether photos will be uploaded separately
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 11
+        name: recommended_action
+        label: Recommended action
+        hint: Suggest immediate next steps if known
+        type: text
+        options: []
+        required: false

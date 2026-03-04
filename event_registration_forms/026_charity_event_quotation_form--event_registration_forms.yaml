@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Quotation Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Charity name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Event title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: Category
+      type: select_one
+      options:
+      - Gala dinner
+      - Charity auction
+      - Charity run or walk
+      - Concert or performance
+      - Conference or seminar
+      - Community festival
+      - Virtual event
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When scheduled
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Venue name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: Attendance estimate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: venue_rental
+      label: Venue Rental Cost
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: catering_cost
+      label: Catering Cost Estimate
+      hint: Food and beverage
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: audio_visual_cost
+      label: Audio Visual Equipment Cost
+      hint: Sound and projection
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: decoration_cost
+      label: Decoration Cost Estimate
+      hint: Flowers and decor
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: entertainment_cost
+      label: Entertainment Cost
+      hint: Performers or DJ
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: marketing_cost
+      label: Marketing and Promotion Cost
+      hint: Advertising
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: staffing_cost
+      label: Staffing Cost
+      hint: Event staff
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: miscellaneous_cost
+      label: Miscellaneous Costs
+      hint: Other expenses
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_estimate
+      label: Total Estimated Cost
+      hint: Sum of all costs
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment due
+      type: select_one
+      options:
+      - 50 percent deposit 50 percent after
+      - Full payment upfront
+      - Net 30 days
+      - Net 60 days
+      - Custom terms
+      required: true
+    - id: 20
+      name: quotation_valid_until
+      label: Quotation Valid Until
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Terms or conditions
+      type: text
+      options: []
+      required: false

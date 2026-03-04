@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Opera Rehearsal Space Booking Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: production_start_date
+      label: Production Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: production_end_date
+      label: Production End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rehearsal_start_time
+      label: Rehearsal Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rehearsal_end_time
+      label: Rehearsal End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: rehearsal_start_date
+      label: Rehearsal Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rehearsal_end_date
+      label: Rehearsal End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: venue
+      label: Venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: space
+      label: Space
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: seats
+      label: Seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: space_type
+      label: Space Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: booking_start_date
+      label: Booking Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: booking_end_date
+      label: Booking End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false

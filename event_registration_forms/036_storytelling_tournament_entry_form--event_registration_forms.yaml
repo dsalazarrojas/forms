@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storytelling Tournament Entry Form
+    pages:
+    - id: 1
+      name: story_form
+      label: Story Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: uploads
+      label: File Uploads
+      hint: Upload your stories in 5MB size limit per file
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Email
+      hint: participant@company.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 8
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_city
+      label: City
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      required: false
+    - id: 10
+      name: participant_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - NY
+      - TX
+      required: false
+    - id: 11
+      name: participant_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Mexico
+      - Canada
+      required: false

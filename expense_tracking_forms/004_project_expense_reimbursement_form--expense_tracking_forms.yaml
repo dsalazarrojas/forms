@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_expense_reimbursement_form
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 6
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - Travel
+      - Food
+      - Accommodation
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

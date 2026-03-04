@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_festival_volunteer_application_form
+    pages:
+    - id: 1
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_shift
+      label: volunteer_shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - event_manager
+      - festival_staff
+      - event_staff
+      - stage_support
+      - merchandise_team
+      - security_team
+      - stage_hands
+      - parking_team
+      - volunteer_coordinator
+      required: false
+    - id: 7
+      name: volunteer_experience
+      label: volunteer_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      - all_days
+      required: false
+    - id: 9
+      name: availability_date
+      label: availability_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: availability_time
+      label: availability_time
+      hint: null
+      type: time
+      options: []
+      required: false

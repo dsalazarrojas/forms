@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Area Evaluation
+    pages:
+    - id: 1
+      name: evaluation_header
+      label: -- Administrative Area Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_department
+      label: Evaluator Department
+      hint: Which department do you belong to?
+      type: select_one
+      options: ["Administration", "Human Resources", "Finance", "Marketing", "Operations", "IT", "Sales", "Customer Service", "Executive", "Other"]
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of the evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: area_evaluated
+      label: Area Evaluated
+      hint: Which administrative area is being evaluated?
+      type: select_one
+      options: ["Main Office", "Executive Offices", "Conference Rooms", "Break Room/Kitchen", "Reception Area", "Restrooms", "Storage Areas", "Other"]
+      required: true
+    - id: 6
+      name: area_location
+      label: Location/Room Number
+      hint: Specify the location or room number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: How would you rate the cleanliness of the area?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 8
+      name: maintenance_condition
+      label: Maintenance Condition
+      hint: How would you rate the maintenance condition?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 9
+      name: lighting_quality
+      label: Lighting Quality
+      hint: How would you rate the lighting in the area?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 10
+      name: temperature_comfort
+      label: Temperature Comfort
+      hint: How comfortable is the temperature in the area?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 11
+      name: noise_level
+      label: Noise Level
+      hint: How would you rate the noise level?
+      type: select_one
+      options: ["Too Quiet", "Appropriate", "Slightly Loud", "Loud", "Very Loud"]
+      required: true
+    - id: 12
+      name: furniture_condition
+      label: Furniture Condition
+      hint: How would you rate the condition of furniture?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 13
+      name: equipment_availability
+      label: Equipment Availability
+      hint: Are necessary equipment/tools available?
+      type: select_one
+      options: ["All Available", "Mostly Available", "Partially Available", "Limited", "Not Available"]
+      required: true
+    - id: 14
+      name: equipment_functionality
+      label: Equipment Functionality
+      hint: Are the available equipment/tools functional?
+      type: select_one
+      options: ["All Functional", "Mostly Functional", "Some Issues", "Many Issues", "Not Functional"]
+      required: true
+    - id: 15
+      name: space_utilization
+      label: Space Utilization
+      hint: How well is the space being utilized?
+      type: select_one
+      options: ["Excellent", "Very Good", "Good", "Fair", "Poor"]
+      required: true
+    - id: 16
+      name: safety_compliance
+      label: Safety Compliance
+      hint: Does the area meet safety standards?
+      type: select_one
+      options: ["Fully Compliant", "Mostly Compliant", "Partially Compliant", "Minimally Compliant", "Not Compliant"]
+      required: true
+    - id: 17
+      name: accessibility_compliance
+      label: Accessibility Compliance
+      hint: Does the area meet accessibility standards?
+      type: select_one
+      options: ["Fully Compliant", "Mostly Compliant", "Partially Compliant", "Minimally Compliant", "Not Compliant"]
+      required: true
+    - id: 18
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What do you like about the area?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs improvement in the area?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_issues
+      label: Maintenance Issues
+      hint: Are there any specific maintenance issues to report?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: What suggestions do you have for improvement?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: priority_level
+      label: Priority Level for Improvements
+      hint: How urgent are the improvements needed?
+      type: select_one
+      options: ["Immediate", "High", "Medium", "Low", "Not Urgent"]
+      required: true

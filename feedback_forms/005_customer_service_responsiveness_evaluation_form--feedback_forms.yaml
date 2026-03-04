@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Responsiveness Evaluation Form
+    pages:
+    - id: 1
+      name: customer_service_responsiveness_rating
+      label: Overall Service Responsiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_attitude
+      label: Customer Service Attitude
+      hint: How would you describe the customer service representative's attitude?
+      type: select_multiple
+      options:
+      - Very friendly and welcoming
+      - Somewhat friendly and welcoming
+      - Not very friendly or welcoming
+      - Very unfriendly and unwelcoming
+      required: false
+    - id: 3
+      name: customer_service_knowledge
+      label: Service Representative Knowledge
+      hint: Were they knowledgeable about the service or product?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resolution_time
+      label: Time Taken to Resolve Issue
+      hint: How long did it take for the representative to resolve the issue?
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: resolution_success
+      label: Was the Issue Resolved?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: resolution_success_had_other_solution
+      label: Other
+      hint: If yes, what was the other solution?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_responsiveness_rating_2
+      label: Overall Service Responsiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_attitude_2
+      label: Customer Service Attitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_knowledge_2
+      label: Service Representative Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_knowledge_3
+      label: Did you feel like the representative was trying to help you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: customer_service_knowledge_4
+      label: Did you feel like the representative was trying to help you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: customer_service_knowledge_5
+      label: Were you able to get the help you needed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

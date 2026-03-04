@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Access Authorization Form
+    pages:
+    - id: 1
+      name: attendee_access
+      label: attendee access
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_access
+      label: staff access
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''admin'', ''label'': ''Admin''}'
+      - '{''value'': ''super-admin'', ''label'': ''Super Admin''}'
+      - '{''value'': ''user'', ''label'': ''User''}'
+      required: false
+    - id: 3
+      name: vendor_access
+      label: vendor access
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''restricted'', ''label'': ''Restricted''}'
+      - '{''value'': ''general'', ''label'': ''General''}'
+      - '{''value'': ''public'', ''label'': ''Public''}'
+      required: false
+    - id: 4
+      name: attendee_email
+      label: attendee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: staff_email
+      label: staff email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: vendor_email
+      label: vendor email
+      hint: null
+      type: email
+      options: []
+      required: false

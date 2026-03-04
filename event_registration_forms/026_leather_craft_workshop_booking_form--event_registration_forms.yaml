@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leather Craft Workshop Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter participant's first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter participant's last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participants_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Leather Craft Beginner
+      - Leather Craft Intermediate
+      - Leather Craft Advanced
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional information about the participant
+      type: note
+      options: []
+      required: false

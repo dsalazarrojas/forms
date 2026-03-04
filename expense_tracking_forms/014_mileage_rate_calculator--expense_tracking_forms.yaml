@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Rate Calculator
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_selection
+      label: Vehicle Selection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Sedan''}'
+      - '{''id'': 2, ''value'': ''Truck''}'
+      - '{''id'': 3, ''value'': ''SUV''}'
+      required: false
+    - id: 3
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_mileage
+      label: Total Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mileage_rate
+      label: Mileage Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reimbursement_request
+      label: Reimbursement Request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expense_type
+      label: Type of Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expense_amount
+      label: Amount of Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: expense_category
+      label: Category of Expense
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Business''}'
+      - '{''id'': 2, ''value'': ''Personal''}'
+      required: false
+    - id: 21
+      name: expense_subcategory
+      label: Subcategory of Expense
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Carpooling''}'
+      - '{''id'': 2, ''value'': ''Business Travel''}'
+      - '{''id'': 3, ''value'': ''Gas''}'
+      required: false
+    - id: 22
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Approved''}'
+      - '{''id'': 2, ''value'': ''Rejected''}'
+      - '{''id'': 3, ''value'': ''Pending''}'
+      required: false

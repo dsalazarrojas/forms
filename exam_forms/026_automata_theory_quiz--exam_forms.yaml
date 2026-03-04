@@ -1,0 +1,288 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Automata Theory Quiz
+    pages:
+      - id: 1
+        name: introduction
+        label: Automata Theory Quiz
+        hint: Answer the following questions about automata and formal languages
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_info
+        label: Student Information
+        hint: Provide your details
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: last_name
+        label: Last Name
+        hint: Your last name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: student_id
+        label: Student ID
+        hint: Your student identification number
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: email
+        label: Email Address
+        hint: Your student email
+        type: email
+        options: []
+        required: true
+      - id: 7
+        name: course_name
+        label: Course Name
+        hint: Course or class name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: quiz_date
+        label: Quiz Date
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: questions_section_1
+        label: Section 1 - Basic Concepts
+        hint: Fundamental automata concepts
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: q1
+        label: Question 1 - What is a Finite Automaton
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A mathematical model of computation
+          - A type of programming language
+          - A database system
+          - A network protocol
+        required: true
+      - id: 11
+        name: q2
+        label: Question 2 - What does DFA stand for
+        hint: Select the correct expansion
+        type: select_one
+        options:
+          - Deterministic Finite Automaton
+          - Dynamic Finite Automaton
+          - Distributed Finite Automaton
+          - Dual Finite Automaton
+        required: true
+      - id: 12
+        name: q3
+        label: Question 3 - What is the main difference between DFA and NFA
+        hint: Select the best answer
+        type: select_one
+        options:
+          - NFA can have multiple transitions for same input
+          - DFA is more powerful than NFA
+          - NFA cannot accept regular languages
+          - There is no difference
+        required: true
+      - id: 13
+        name: q4
+        label: Question 4 - What is a regular language
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - A language accepted by a finite automaton
+          - A language with simple grammar
+          - A language with finite words
+          - A language used in regular expressions only
+        required: true
+      - id: 14
+        name: q5
+        label: Question 5 - What is the purpose of epsilon transitions
+        hint: Select the best answer
+        type: select_one
+        options:
+          - To allow state changes without input
+          - To speed up computation
+          - To reduce memory usage
+          - To handle errors
+        required: true
+      - id: 15
+        name: questions_section_2
+        label: Section 2 - Formal Languages
+        hint: Questions about formal languages
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: q6
+        label: Question 6 - What is a formal grammar
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - A set of production rules for strings
+          - A type of programming language
+          - A documentation standard
+          - A language specification
+        required: true
+      - id: 17
+        name: q7
+        label: Question 7 - Which Chomsky hierarchy level is most restrictive
+        hint: Select the correct type
+        type: select_one
+        options:
+          - Type 3 - Regular
+          - Type 2 - Context-Free
+          - Type 1 - Context-Sensitive
+          - Type 0 - Recursively Enumerable
+        required: true
+      - id: 18
+        name: q8
+        label: Question 8 - What is a context-free grammar
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Grammar where production rules have single non-terminal on left
+          - Grammar without context rules
+          - Grammar for programming languages only
+          - Grammar with no restrictions
+        required: true
+      - id: 19
+        name: q9
+        label: Question 9 - What is a pushdown automaton
+        hint: Select the correct description
+        type: select_one
+        options:
+          - An automaton with a stack for memory
+          - An automaton that pushes buttons
+          - An automaton with infinite states
+          - An automaton for regular languages
+        required: true
+      - id: 20
+        name: q10
+        label: Question 10 - What languages can a Turing machine recognize
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - Recursively enumerable languages
+          - Only regular languages
+          - Only context-free languages
+          - Finite languages only
+        required: true
+      - id: 21
+        name: questions_section_3
+        label: Section 3 - Advanced Concepts
+        hint: More complex automata questions
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: q11
+        label: Question 11 - What is the pumping lemma used for
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Proving languages are not regular
+          - Proving languages are regular
+          - Simplifying automata
+          - Converting NFA to DFA
+        required: true
+      - id: 23
+        name: q12
+        label: Question 12 - What is a Turing complete system
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Can simulate any Turing machine
+          - Has infinite memory
+          - Can solve all problems
+          - Uses Turing algorithm
+        required: true
+      - id: 24
+        name: q13
+        label: Question 13 - What is the halting problem
+        hint: Select the best description
+        type: select_one
+        options:
+          - Determining if a program will stop
+          - Stopping a running process
+          - A problem that halts computation
+          - A memory allocation issue
+        required: true
+      - id: 25
+        name: q14
+        label: Question 14 - What is a regular expression
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - A pattern describing a regular language
+          - A programming expression
+          - A mathematical equation
+          - A type of automaton
+        required: true
+      - id: 26
+        name: q15
+        label: Question 15 - What is minimization of automata
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Reducing states while preserving language
+          - Making automata smaller in size
+          - Simplifying the alphabet
+          - Removing transitions
+        required: true
+      - id: 27
+        name: bonus_question
+        label: Bonus Question
+        hint: Optional extra credit
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: q16
+        label: Question 16 - Explain the relationship between regular expressions and finite automata
+        hint: Brief explanation
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any notes about the quiz
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: academic_honesty
+        label: Academic Honesty
+        hint: I completed this quiz honestly
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true

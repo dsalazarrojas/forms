@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Access Request Form
+    pages:
+    - id: 1
+      name: event_access_request_form
+      label: Event Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Guest
+      - Speaker
+      - Vendor
+      - All
+      required: false
+    - id: 14
+      name: access_notes
+      label: Access Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

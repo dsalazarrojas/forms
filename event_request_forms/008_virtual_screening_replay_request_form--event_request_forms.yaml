@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Screening Replay Request Form
+    pages:
+    - id: 1
+      name: screening_type
+      label: Screening Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: viewer_email
+      label: Viewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: name_of_festival
+      label: Name of Festival
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name_of_screening
+      label: Name of Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: viewer_comments
+      label: Viewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name_of_distributor
+      label: Name of Distributor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name_of_event_organizer
+      label: Name of Event Organiser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_organiser_email
+      label: Event Organiser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer_phone
+      label: Event Organiser Phone
+      hint: null
+      type: text
+      options: []
+      required: false

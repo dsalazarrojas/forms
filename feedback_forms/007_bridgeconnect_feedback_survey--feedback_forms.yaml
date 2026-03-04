@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: BridgeConnect Feedback Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: Enter your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter your email for follow-up (optional)
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: respondent_type
+      label: I am a
+      hint: Select your role
+      type: select_one
+      options:
+      - Current Customer
+      - Potential Customer
+      - Partner
+      - Vendor
+      - Employee
+      required: true
+    - id: 5
+      name: how_long_customer
+      label: How long have you been a customer
+      hint: Select the duration of your relationship
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      - Not a customer yet
+      required: true
+    - id: 6
+      name: section_satisfaction
+      label: -- Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction Rating
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 8
+      name: product_quality_rating
+      label: Product Quality Rating
+      hint: Rate the quality of our products
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 9
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: Rate your experience with customer service
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: value_for_money
+      label: Value for Money Rating
+      hint: Rate how well our offerings match the price
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      required: true
+    - id: 11
+      name: ease_of_use_rating
+      label: Ease of Use Rating
+      hint: Rate how easy our products are to use
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 12
+      name: section_experience
+      label: -- Experience Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: most_liked_features
+      label: What features do you like most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - User Interface
+      - Speed and Performance
+      - Customer Support
+      - Pricing
+      - Features and Functionality
+      - Reliability
+      required: false
+    - id: 14
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Select areas where we can improve
+      type: select_multiple
+      options:
+      - Product Quality
+      - Customer Service
+      - Pricing
+      - Documentation
+      - Speed and Performance
+      - User Interface
+      required: false
+    - id: 15
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend us to others
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 16
+      name: section_comments
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: specific_feedback
+      label: Specific Feedback or Suggestions
+      hint: Share any specific feedback or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: would_like_contacted
+      label: Would you like to be contacted about your feedback
+      hint: Indicate if you would like follow-up
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any other comments or questions
+      type: text
+      options: []
+      required: false

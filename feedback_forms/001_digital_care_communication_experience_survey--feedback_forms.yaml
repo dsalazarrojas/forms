@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_care_communication_experience_survey
+    pages:
+    - id: 1
+      name: first_page
+      label: digital_care_communication_experience_survey_first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''What is the primary issue with your recent visit?'', ''value'':
+        ''''}'
+      - '{''label'': ''Select one of the following options'', ''value'': None}'
+      - '{''label'': ''Please choose at least 2 from the list'', ''value'': None}'
+      required: false
+    - id: 3
+      name: third_page
+      label: third_page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fourth_page
+      label: fourth_page
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Please select one'', ''value'': ''''}'
+      - Other
+      required: false
+    - id: 5
+      name: fifth_page
+      label: fifth_page
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: sixth_page
+      label: sixth_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seventh_page
+      label: seventh_page
+      hint: null
+      type: email
+      options: []
+      required: false

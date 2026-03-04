@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Renewal Experience Survey
+    pages:
+    - id: 1
+      name: lease_renewal_process
+      label: lease_renewal_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_renewal
+      label: satisfaction_with_renewal
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 3
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_for_renewal
+      label: contact_for_renewal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_frequency
+      label: communication_frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: renewal_date
+      label: renewal_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: lease_length
+      label: lease_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: renewal_process_ease
+      label: renewal_process_ease
+      hint: null
+      type: select_multiple
+      options:
+      - very_eager
+      - somewhat_eager
+      - not_very_eager
+      - not_at_all
+      required: false
+    - id: 9
+      name: lease_terms
+      label: lease_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

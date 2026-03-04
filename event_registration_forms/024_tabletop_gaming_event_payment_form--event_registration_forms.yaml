@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tabletop Gaming Event Payment Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Tabletop
+      - Boardgame
+      - Card Game
+      - Role Playing
+      - Miniatures Game
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: Payment status
+      type: select_one
+      options:
+      - Paid
+      - Partial
+      - Pending
+      required: true
+    - id: 12
+      name: registration_status
+      label: Registration Status
+      hint: Registration status
+      type: select_one
+      options:
+      - Registered
+      - Pending
+      - Declined
+      required: true
+    - id: 13
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Payment gateway
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: true
+    - id: 15
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: event_info
+      label: Event Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_refund
+      label: Payment Refund
+      hint: Refund status
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: payment_refund_reason
+      label: Refund Reason
+      hint: Reason for payment refund
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Histogram Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_grade
+      label: Class or Grade
+      hint: Student grade level
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Which chart shows frequency of scores
+      hint: Select the correct option
+      type: select_one
+      options:
+      - Bar chart
+      - Histogram
+      - Pie chart
+      - Line chart
+      required: true
+    - id: 4
+      name: question_2
+      label: A histogram groups data by
+      hint: Choose the correct answer
+      type: select_one
+      options:
+      - Categories
+      - Ranges of values
+      - Individual names
+      required: true
+    - id: 5
+      name: question_3
+      label: Histograms are useful for
+      hint: Select the best purpose
+      type: select_one
+      options:
+      - Showing distribution
+      - Comparing proportions
+      - Showing trends over time
+      required: true
+    - id: 6
+      name: teacher_comments
+      label: Teacher Comments
+      hint: Optional feedback on student performance
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: Numeric score for the quiz
+      type: number
+      options: []
+      required: false

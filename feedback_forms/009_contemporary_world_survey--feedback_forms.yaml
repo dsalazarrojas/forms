@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contemporary World Survey
+    pages:
+      - id: 1
+        name: respondent_id
+        label: Respondent ID
+        hint: Unique identifier for this respondent
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date when survey was completed
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to self-describe
+          - Prefer not to say
+        required: true
+      - id: 5
+        name: country_of_residence
+        label: Country of Residence
+        hint: Where do you currently live?
+        type: select_one
+        options:
+          - United States
+          - Canada
+          - United Kingdom
+          - Germany
+          - France
+          - Japan
+          - Australia
+          - Brazil
+          - India
+          - China
+          - Other
+        required: true
+      - id: 6
+        name: education_level
+        label: Education Level
+        hint: Highest level of education completed
+        type: select_one
+        options:
+          - High School or Less
+          - Some College
+          - Bachelor's Degree
+          - Master's Degree
+          - Doctorate or Professional Degree
+        required: true
+      - id: 7
+        name: employment_status
+        label: Employment Status
+        hint: Current employment situation
+        type: select_one
+        options:
+          - Employed Full-Time
+          - Employed Part-Time
+          - Self-Employed
+          - Unemployed
+          - Student
+          - Retired
+          - Homemaker
+        required: true
+      - id: 8
+        name: global_issues_concern
+        label: Most Concerning Global Issue
+        hint: Which global issue concerns you most?
+        type: select_one
+        options:
+          - Climate Change
+          - Economic Inequality
+          - Political Instability
+          - Public Health
+          - Immigration
+          - Terrorism
+          - Cyber Security
+          - Nuclear Proliferation
+        required: true
+      - id: 9
+        name: climate_change_priority
+        label: Climate Change Priority
+        hint: How important is addressing climate change?
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+          - Not Sure
+        required: true
+      - id: 10
+        name: international_cooperation
+        label: International Cooperation
+        hint: How effective is international cooperation on global issues?
+        type: select_one
+        options:
+          - Very Effective
+          - Somewhat Effective
+          - Neutral
+          - Somewhat Ineffective
+          - Very Ineffective
+        required: true
+      - id: 11
+        name: technology_impact
+        label: Technology Impact on Society
+        hint: Overall, how has technology impacted society?
+        type: select_one
+        options:
+          - Very Positive
+          - Somewhat Positive
+          - Neutral
+          - Somewhat Negative
+          - Very Negative
+        required: true
+      - id: 12
+        name: globalization_view
+        label: View on Globalization
+        hint: What is your overall view of globalization?
+        type: select_one
+        options:
+          - Very Positive
+          - Somewhat Positive
+          - Neutral
+          - Somewhat Negative
+          - Very Negative
+        required: true
+      - id: 13
+        name: cultural_diversity_value
+        label: Value of Cultural Diversity
+        hint: How important is cultural diversity?
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 14
+        name: media_trust
+        label: Trust in Media
+        hint: How much do you trust mainstream media?
+        type: select_one
+        options:
+          - A Great Deal
+          - Quite a Lot
+          - Some
+          - Very Little
+          - None at All
+        required: true
+      - id: 15
+        name: government_trust
+        label: Trust in Government
+        hint: How much do you trust your national government?
+        type: select_one
+        options:
+          - A Great Deal
+          - Quite a Lot
+          - Some
+          - Very Little
+          - None at All
+        required: true
+      - id: 16
+        name: future_optimism
+        label: Future Optimism
+        hint: How optimistic are you about the future?
+        type: select_one
+        options:
+          - Very Optimistic
+          - Somewhat Optimistic
+          - Neutral
+          - Somewhat Pessimistic
+          - Very Pessimistic
+        required: true
+      - id: 17
+        name: personal_action_willingness
+        label: Willingness to Take Personal Action
+        hint: How willing are you to take personal action on global issues?
+        type: select_one
+        options:
+          - Very Willing
+          - Somewhat Willing
+          - Neutral
+          - Somewhat Unwilling
+          - Very Unwilling
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts on contemporary world issues?
+        type: text
+        options: []
+        required: false

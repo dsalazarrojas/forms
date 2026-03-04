@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Workshop Volunteer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Workshops
+      - Seminars
+      - Webinars
+      - Training
+      required: true
+    - id: 8
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_end_date
+      label: Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 13
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: confirm_volunteer_hours
+      label: Confirm Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: confirm_volunteer_start_date
+      label: Confirm Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: confirm_volunteer_end_date
+      label: Confirm Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: confirm_assigned_tool
+      label: Confirm Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: back_to_previous_page
+      label: Back to previous page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: save_and_print
+      label: Save and print
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: save_and_share
+      label: Save and share
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reset
+      label: Reset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

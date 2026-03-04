@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Faith And Wonders Tour Registration
+    pages:
+    - id: 1
+      name: tour_participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tour_preferred_date
+      label: Preferred Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tour_preferred_time
+      label: Preferred Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: tour_emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tour_consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to the terms and conditions
+      - I do not consent to the terms and conditions
+      required: true
+    - id: 6
+      name: tour_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Parent
+      - Family member
+      - Friend
+      - Other
+      required: false
+    - id: 7
+      name: tour_communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Other
+      required: false
+    - id: 8
+      name: tour_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: tour_agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

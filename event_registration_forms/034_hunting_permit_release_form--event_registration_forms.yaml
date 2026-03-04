@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunting Permit Release Form
+    pages:
+    - id: 1
+      name: event_registration_forms
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: Phone number of participant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hunting_permit_details
+      label: Hunting Permit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: Date the permit is released
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: Participant's consent
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: Enter event details
+      type: text
+      options: []
+      required: false

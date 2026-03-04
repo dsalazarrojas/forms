@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Exit Communication Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employment_info
+      label: Employment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_exit
+      label: Reason for Exit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New opportunity''}'
+      - '{''value'': ''Career Change''}'
+      - '{''value'': ''Job not available''}'
+      - '{''value'': ''Health issues''}'
+      - '{''value'': ''Family obligations''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: company_contributions
+      label: Company Contributions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Helped others''}'
+      - '{''value'': ''Improved processes''}'
+      - '{''value'': ''Increased productivity''}'
+      - '{''value'': ''Reduced costs''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 6
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: communication_with_manager
+      label: Communication with Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular meetings''}'
+      - '{''value'': ''Irregular meetings''}'
+      - '{''value'': ''E-mail''}'
+      - '{''value'': ''Phone calls''}'
+      - '{''value'': ''Text messages''}'
+      required: true
+    - id: 8
+      name: open_ended_comments
+      label: Open-Ended Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

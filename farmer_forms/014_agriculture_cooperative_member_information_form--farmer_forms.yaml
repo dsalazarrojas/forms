@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Cooperative Member Information Form
+    pages:
+    - id: 1
+      name: member_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Farm Name
+      hint: Name of farming business
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_type
+      label: Member Type
+      hint: Type of membership
+      type: select_one
+      options:
+      - Individual farmer
+      - Family farm
+      - Corporation
+      - LLC
+      - Partnership
+      - Other entity
+      required: true
+    - id: 5
+      name: membership_status
+      label: Membership Status
+      hint: Current membership status
+      type: select_one
+      options:
+      - New member application
+      - Existing member update
+      - Returning member
+      required: true
+    - id: 6
+      name: membership_date
+      label: Membership Start Date
+      hint: When did you join or want to join
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Primary address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: county
+      label: County
+      hint: County of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone_primary
+      label: Primary Phone
+      hint: Main contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone_secondary
+      label: Secondary Phone
+      hint: Alternative number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: farm_size
+      label: Farm Size (acres)
+      hint: Total acreage operated
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: primary_commodity
+      label: Primary Commodity
+      hint: Main agricultural product
+      type: select_one
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Cotton
+      - Rice
+      - Livestock
+      - Dairy
+      - Poultry
+      - Fruits
+      - Vegetables
+      - Specialty crops
+      - Mixed
+      required: true
+    - id: 17
+      name: secondary_commodities
+      label: Secondary Commodities
+      hint: Other products grown
+      type: select_multiple
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Cotton
+      - Rice
+      - Livestock
+      - Dairy
+      - Poultry
+      - Fruits
+      - Vegetables
+      - Hay
+      - None
+      required: false
+    - id: 18
+      name: organic_certified
+      label: Organic Certified
+      hint: Are you organic certified
+      type: select_one
+      options:
+      - Yes, fully certified
+      - In transition
+      - false
+      required: true
+    - id: 19
+      name: services_interested
+      label: Services Interested In
+      hint: Select cooperative services of interest
+      type: select_multiple
+      options:
+      - Bulk input purchasing
+      - Marketing assistance
+      - Equipment sharing
+      - Storage facilities
+      - Transportation
+      - Technical support
+      - Financial services
+      - Insurance programs
+      - Training and education
+      required: true
+    - id: 20
+      name: current_suppliers
+      label: Current Input Suppliers
+      hint: Where do you currently purchase inputs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: annual_input_spending
+      label: Annual Input Spending Range
+      hint: Approximate annual spending on inputs
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - Over $500,000
+      required: false
+    - id: 22
+      name: marketing_needs
+      label: Marketing Assistance Needs
+      hint: What marketing help do you need
+      type: select_multiple
+      options:
+      - Price information
+      - Contract negotiation
+      - Direct marketing
+      - Export assistance
+      - Branding support
+      - None
+      required: false
+    - id: 23
+      name: equipment_owned
+      label: Major Equipment Owned
+      hint: List significant farm equipment
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_sharing_interest
+      label: Equipment Sharing Interest
+      hint: Would you participate in equipment sharing
+      type: select_one
+      options:
+      - Yes, willing to share
+      - Yes, interested in using
+      - Both
+      - false
+      required: true
+    - id: 25
+      name: references
+      label: Professional References
+      hint: Names and contact info of references
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Another member
+      - Extension office
+      - Online search
+      - Social media
+      - Trade show
+      - Advertisement
+      - Other
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: member_signature
+      label: Member Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

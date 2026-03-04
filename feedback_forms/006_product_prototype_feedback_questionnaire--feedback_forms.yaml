@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Prototype Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: This is just a demo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_prototype
+      label: Product Prototype
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: Product Description
+      hint: Please describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_satisfaction
+      label: Product Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_score
+      label: Product Score
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Bad
+      - Neutral
+      - Unsatisfied
+      required: false
+    - id: 7
+      name: product_score_options
+      label: Product Score Options
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Bad
+      - Neutral
+      - Unsatisfied
+      required: false
+    - id: 8
+      name: product_comments
+      label: Product Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_website
+      label: Your Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_email
+      label: Your Email
+      hint: Please enter a real email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: product_phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_prototype_feedback
+      label: Prototype Feedback
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: product_prototype_feedback_time
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: product_agreed_comments
+      label: Agreed Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_agreed_comments_email
+      label: Agreed Comments Email
+      hint: null
+      type: email
+      options: []
+      required: false

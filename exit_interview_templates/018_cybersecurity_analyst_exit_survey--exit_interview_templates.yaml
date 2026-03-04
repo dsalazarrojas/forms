@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Analyst Exit Survey
+    pages:
+    - id: 1
+      name: form_data_1
+      label: What is your primary job function
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_data_2
+      label: How long have you worked in your role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_data_3
+      label: What tools did you use on a daily basis
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: form_data_4
+      label: What was the most challenging project you worked on
+      hint: Please provide more details about the project
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_data_5
+      label: What was the most rewarding project you worked on
+      hint: Please provide more details about the project
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_data_6
+      label: What was your favorite tool to use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_data_7
+      label: What did you like most about your work environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_data_8
+      label: What did you like most about the company
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_data_9
+      label: What did you like least about your work environment
+      hint: Please provide more details about your work environment
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_data_10
+      label: What did you least like about the company
+      hint: Please provide more details about the company
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_data_11
+      label: Any other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_data_12
+      label: What is your expected date of departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_data_13
+      label: What time do you plan to leave
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_data_14
+      label: Do you plan to stay in contact with any coworkers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_data_15
+      label: Would you recommend this company as a good place to work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_data_16
+      label: Why would you not recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_data_17
+      label: How will you stay in contact with the company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_data_18
+      label: How will you keep in touch with your team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_data_19
+      label: Will you be available for an exit interview
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: form_data_20
+      label: How many years have you worked here
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: form_data_21
+      label: How many projects did you work on in the last year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: form_data_22
+      label: What was the main reason for your decision to leave
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: form_data_23
+      label: What is your salary or hourly rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: form_data_24
+      label: What is your manager's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_data_25
+      label: What is your manager's email
+      hint: null
+      type: email
+      options: []
+      required: false

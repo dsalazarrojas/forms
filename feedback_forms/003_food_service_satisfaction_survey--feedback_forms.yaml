@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: food_service_satisfaction_survey_page_1
+      label: what_do_you_like
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: food_service_rating
+      label: rate_your_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_service_comment
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: food_service_satisfaction_survey_page_2
+      label: how_do_you_feel
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 10
+      name: food_service_satisfaction_survey_page_3
+      label: would_you_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Likely
+      - Somewhat Likely
+      - Neither Likely nor Unlikely
+      - Somewhat Unlikely
+      - Very Unlikely
+      required: false

@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfaction Survey Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: Client Satisfaction Survey and Consent
+      hint: We appreciate your feedback and commit to protecting your privacy
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consent_section
+      label: -- Consent and Privacy Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: voluntary_participation
+      label: I understand this survey is voluntary and I can withdraw at any time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: data_collection_consent
+      label: I consent to the collection of my personal information for survey purposes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: data_use_consent
+      label: I consent to my feedback being used to improve services and products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: confidentiality_consent
+      label: I understand my responses will be kept confidential and used only for
+        stated purposes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: anonymity_option
+      label: I prefer to complete this survey anonymously
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: contact_consent
+      label: You may contact me for follow-up questions about my responses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: satisfaction_section
+      label: -- Service Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: overall_satisfaction
+      label: Overall satisfaction with our service or product
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 16
+      name: satisfaction_rating
+      label: Rate your satisfaction - 1 to 10
+      hint: 1 = Very unsatisfied, 10 = Very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: quality_rating
+      label: Quality of service or product
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 18
+      name: expectations_met
+      label: Services met or exceeded my expectations
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: value_section
+      label: -- Value and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: value_for_money
+      label: I received good value for my money
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: support_quality
+      label: Quality of customer support provided
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 22
+      name: responsiveness
+      label: Support team was responsive to my needs
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 23
+      name: loyalty_section
+      label: -- Loyalty and Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: recommendation_likelihood
+      label: I would recommend this company to others
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 25
+      name: repeat_purchase_likelihood
+      label: Likelihood of using services again - 1 to 10
+      hint: 1 = Not at all likely, 10 = Extremely likely
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: feedback_section
+      label: -- Feedback and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: what_went_well
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: improvement_areas
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Marketing Event Registration Form
+    pages:
+    - id: 1
+      name: attendee_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_details_header
+      label: -- Event Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your pass level.
+      type: select_one
+      options:
+      - General Admission
+      - VIP Pass (All Access)
+      - Virtual Attendee
+      - Speaker / Presenter
+      required: true
+    - id: 10
+      name: days_attending
+      label: Days Attending
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Day 1: Keynotes & Networking
+      - Day 2: Workshops & Breakouts
+      - Day 3: Mastermind Sessions
+      required: true
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Restrictions
+      hint: For catered meals.
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Kosher/Halal
+      required: false
+    - id: 12
+      name: topics_interest
+      label: Topics of Interest
+      hint: What do you want to learn about?
+      type: select_multiple
+      options:
+      - SEO Strategies
+      - Influencer Marketing
+      - Conversion Rate Optimization
+      - Email Marketing Automation
+      - Compliance & Regulation
+      required: false
+    - id: 13
+      name: payment_info_header
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Invoice (Corporate Only)
+      required: true
+    - id: 15
+      name: referral_source
+      label: How did you hear about this event?
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague
+      - Website Search
+      required: false

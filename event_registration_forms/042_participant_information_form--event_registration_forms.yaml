@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Information Form
+    pages:
+    - id: 1
+      name: primary_contact
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: on_site_contact
+      label: on_site_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in_time
+      label: check_in_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: check_out_time
+      label: check_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Maintenance Log
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: Select equipment type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: next_inspection
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Offboarding Survey
+    pages:
+    - id: 1
+      name: property_management_offboarding_survey
+      label: What is your current rent status
+      hint: null
+      type: select_one
+      options:
+      - Rent Paid
+      - Rent Late
+      - Rent Negotiable
+      - Rent Not Paid
+      required: false
+    - id: 2
+      name: tenant_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_location
+      label: What is the property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_start_date
+      label: What date did you start your lease
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: lease_end_date
+      label: What date did you end your lease
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leaving
+      label: What reason did you leave the property
+      hint: null
+      type: select_multiple
+      options:
+      - Job Change
+      - Financial Reasons
+      - Relationship Issues
+      - Health Issues
+      - Other
+      required: false
+    - id: 7
+      name: comments
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_manager
+      label: What is the property manager's name
+      hint: null
+      type: text
+      options: []
+      required: false

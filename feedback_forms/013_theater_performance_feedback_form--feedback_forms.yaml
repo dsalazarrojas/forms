@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Performance Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form_1
+      label: theater_performance
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: feedback_form_2
+      label: overall_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: performance_quality
+      label: performance_quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: cast_performance
+      label: cast_performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: theater_atmosphere
+      label: theater_atmosphere
+      hint: null
+      type: select_multiple
+      options:
+      - Cozy
+      - Comfortable
+      - Uninviting
+      required: true
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Clear
+      - Unclear
+      - Not clear at all
+      required: true
+    - id: 7
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 8
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Irrigation Audit Form
+    pages:
+    - id: 1
+      name: irrigation_equipment_checked
+      label: Is irrigation equipment checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: water_flow_checked
+      label: Is water flow checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pump_performance_checked
+      label: Is pump performance checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pipe_leakages_checked
+      label: Are pipe leakages checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

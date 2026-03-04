@@ -1,0 +1,272 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civil Procedure Study Quiz
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: Your student identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: For quiz results and feedback
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: course_name
+        label: Course Name or Number
+        hint: e.g. CIVPROC 101
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: study_level
+        label: Your Study Level
+        hint: Select your current level
+        type: select_one
+        options:
+          - 1L First Year
+          - 2L Second Year
+          - 3L Third Year
+          - LLM Student
+          - Bar Exam Prep
+          - Paralegal Student
+          - Other
+        required: true
+      - id: 6
+        name: question_1
+        label: What must a complaint contain to state a claim
+        hint: Under federal rules
+        type: select_one
+        options:
+          - Short and plain statement showing entitlement to relief
+          - Detailed evidence and witness lists
+          - Legal brief with case citations
+          - Sworn affidavit from plaintiff
+          - Motion for summary judgment
+        required: true
+      - id: 7
+        name: question_2
+        label: What is the standard for granting a motion to dismiss under Rule 12(b)(6)
+        hint: Federal civil procedure
+        type: select_one
+        options:
+          - No set of facts could support the claim
+          - Evidence is insufficient
+          - Defendant claims innocence
+          - Plaintiff lacks funds
+          - Case is too complex
+        required: true
+      - id: 8
+        name: question_3
+        label: What is the purpose of Rule 11
+        hint: Federal Rules of Civil Procedure
+        type: select_one
+        options:
+          - Ensure filings are well-grounded and not frivolous
+          - Set time limits for discovery
+          - Define jury selection procedures
+          - Establish appeal deadlines
+          - Govern evidence admissibility
+        required: true
+      - id: 9
+        name: question_4
+        label: What is the scope of discovery under Rule 26
+        hint: Federal civil procedure
+        type: select_one
+        options:
+          - Any nonprivileged matter relevant to a claim or defense
+          - Only documents favorable to requesting party
+          - Only witness statements
+          - Only expert reports
+          - Only physical evidence
+        required: true
+      - id: 10
+        name: question_5
+        label: What is a mandatory counterclaim
+        hint: Under Rule 13
+        type: select_one
+        options:
+          - Arises from same transaction as opposing party claim
+          - Any claim defendant wants to add
+          - Claim against a third party
+          - Claim for attorney fees
+          - Claim for court costs
+        required: true
+      - id: 11
+        name: question_6
+        label: When is joinder of parties permitted
+        hint: Under Rule 19 and 20
+        type: select_one
+        options:
+          - When claims arise from same transaction and share common questions
+          - Only with unanimous consent
+          - Only in diversity cases
+          - Only for class actions
+          - Never without court approval
+        required: true
+      - id: 12
+        name: question_7
+        label: What is the Erie doctrine
+        hint: Federal courts principle
+        type: select_one
+        options:
+          - Federal courts apply state substantive law in diversity cases
+          - Federal law always preempts state law
+          - State courts must follow federal procedure
+          - Appeals go to state supreme court
+          - Diversity jurisdiction is unconstitutional
+        required: true
+      - id: 13
+        name: question_8
+        label: What is supplemental jurisdiction
+        hint: Under 28 USC 1367
+        type: select_one
+        options:
+          - Court can hear related state claims with federal claims
+          - Additional judges join the case
+          - Extra time for discovery
+          - More damages can be awarded
+          - Additional parties must be added
+        required: true
+      - id: 14
+        name: question_9
+        label: What standard applies for preliminary injunctions
+        hint: Equitable relief standard
+        type: select_one
+        options:
+          - Likelihood of success and irreparable harm
+          - Preponderance of evidence
+          - Beyond reasonable doubt
+          - Clear error standard
+          - Abuse of discretion
+        required: true
+      - id: 15
+        name: question_10
+        label: What is the purpose of a scheduling order under Rule 16
+        hint: Pretrial conference
+        type: select_one
+        options:
+          - Set deadlines and manage the case
+          - Schedule the trial date only
+          - Order discovery to begin
+          - Set attorney fee deadlines
+          - Schedule depositions only
+        required: true
+      - id: 16
+        name: question_11
+        label: What happens if a party fails to respond to discovery
+        hint: Under Rule 37
+        type: select_one
+        options:
+          - Court may impose sanctions
+          - Case is automatically dismissed
+          - Party wins by default
+          - Discovery period is extended
+          - Nothing happens
+        required: true
+      - id: 17
+        name: question_12
+        label: What is the final pretrial order
+        hint: Under Rule 16
+        type: select_one
+        options:
+          - Controls the course of trial and supersedes pleadings
+          - Final judgment in the case
+          - Order dismissing the case
+          - Order for new trial
+          - Order for mediation
+        required: true
+      - id: 18
+        name: question_13
+        label: When can a default judgment be entered
+        hint: Under Rule 55
+        type: select_one
+        options:
+          - When defendant fails to plead or defend
+          - When plaintiff requests it
+          - After discovery closes
+          - When jury cannot decide
+          - When evidence is overwhelming
+        required: true
+      - id: 19
+        name: question_14
+        label: What is the standard for granting a new trial
+        hint: Under Rule 59
+        type: select_one
+        options:
+          - Error of law or fact that affected substantial rights
+          - Any party requests it
+          - New evidence is found
+          - Jury took too long
+          - Judge was absent
+        required: true
+      - id: 20
+        name: question_15
+        label: What is the time limit to appeal a final judgment
+        hint: Under Federal Rules
+        type: select_one
+        options:
+          - 30 days from entry of judgment
+          - 10 days from verdict
+          - 60 days from trial end
+          - 90 days from judgment
+          - 6 months from filing
+        required: true
+      - id: 21
+        name: self_assessment
+        label: How well do you understand civil procedure
+        hint: Self-evaluation
+        type: select_one
+        options:
+          - Excellent understanding
+          - Good understanding
+          - Fair understanding
+          - Poor understanding
+          - Very poor understanding
+        required: true
+      - id: 22
+        name: study_areas
+        label: Which areas do you need to study more
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Pleadings and motions
+          - Jurisdiction and venue
+          - Discovery procedures
+          - Pretrial conferences
+          - Trial procedure
+          - Post-trial motions
+          - Appeals
+          - None need improvement
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any questions or feedback
+        type: text
+        options: []
+        required: false

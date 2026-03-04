@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voting Closure Survey
+    pages:
+    - id: 1
+      name: role_selection
+      label: Role Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fairness_rating
+      label: Fairness Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: organization_rating
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: roles
+      label: Roles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fairness
+      label: Fairness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: process
+      label: Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

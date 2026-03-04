@@ -1,0 +1,179 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Break Room Photo Submission
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or team
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: submission_date
+        label: Submission Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: break_room_location
+        label: Break Room Location
+        hint: Which break room does this photo show
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: building_floor
+        label: Building and Floor
+        hint: Building number and floor level
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: photo_subject
+        label: What does this photo show
+        hint: Describe the subject of the photo
+        type: select_one
+        options:
+          - Overall break room condition
+          - Cleanliness issue
+          - Maintenance needed
+          - Equipment damage
+          - Amenity request
+          - Safety concern
+          - Other
+        required: true
+      - id: 8
+        name: condition_rating
+        label: Overall Break Room Condition
+        hint: Rate the condition on submission date
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Needs improvement
+          - Poor
+        required: true
+      - id: 9
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: How clean is the break room
+        type: select_one
+        options:
+          - Spotless
+          - Very clean
+          - Clean
+          - Needs cleaning
+          - Dirty
+        required: true
+      - id: 10
+        name: issue_description
+        label: Describe Any Issues or Concerns
+        hint: Detailed description of what the photo shows
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: facility_issues
+        label: Facility Issues Observed
+        hint: Select all applicable issues
+        type: select_multiple
+        options:
+          - Broken furniture
+          - Damaged equipment
+          - Spills or stains
+          - Trash overflow
+          - Broken appliances
+          - Lighting problems
+          - Temperature issues
+          - No issues
+        required: false
+      - id: 12
+        name: amenities_needed
+        label: Missing or Needed Amenities
+        hint: What amenities would improve the break room
+        type: select_multiple
+        options:
+          - Coffee maker
+          - Microwave
+          - Refrigerator
+          - Seating
+          - Tables
+          - Vending machine
+          - Entertainment
+          - Plants
+        required: false
+      - id: 13
+        name: maintenance_priority
+        label: Maintenance Priority Level
+        hint: How urgent is this issue
+        type: select_one
+        options:
+          - Immediate attention needed
+          - High priority
+          - Normal priority
+          - Low priority
+          - Informational only
+        required: true
+      - id: 14
+        name: frequency_issue
+        label: How often have you observed this issue
+        hint: Is this a recurring problem
+        type: select_one
+        options:
+          - First time
+          - Occasionally
+          - Frequently
+          - Always
+        required: false
+      - id: 15
+        name: suggestions
+        label: Suggestions for Improvement
+        hint: Any recommendations to improve the break room
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: follow_up_contact
+        label: May we contact you for follow-up
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes, please contact me
+          - No, do not contact
+        required: false
+      - id: 17
+        name: contact_email
+        label: Contact Email
+        hint: Email for follow-up if needed
+        type: email
+        options: []
+        required: false

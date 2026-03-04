@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_workshop_registration_form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Photography Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      - Cash
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workshop_attendance
+      label: Workshop Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: workshop_comments
+      label: Workshop Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workshop_rating
+      label: Workshop Rating
+      hint: null
+      type: number
+      options: []
+      required: false

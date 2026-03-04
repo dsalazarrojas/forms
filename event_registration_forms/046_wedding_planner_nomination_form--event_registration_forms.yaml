@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planner Nomination Form
+    pages:
+    - id: 1
+      name: nominating_wedding_planner
+      label: Nominate Wedding Planner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: planner_name
+      label: planners_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: planner_experience
+      label: planners_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: projects_completed
+      label: projects_completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: planner_achievements
+      label: planners_achievements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: planner_contact
+      label: planners_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: planners_email
+      label: planners_email
+      hint: null
+      type: email
+      options: []
+      required: false

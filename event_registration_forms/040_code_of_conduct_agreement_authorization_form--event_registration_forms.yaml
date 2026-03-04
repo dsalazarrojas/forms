@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Code Of Conduct Agreement Authorization Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Affiliation
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Volunteer
+      - Staff
+      - Speaker
+      - Other
+      required: true
+    - id: 7
+      name: section_conduct_principles
+      label: -- Code of Conduct Principles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: principle_1
+      label: I will treat all participants with respect and dignity
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 9
+      name: principle_2
+      label: I will not engage in harassment or discrimination
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 10
+      name: principle_3
+      label: I will follow all safety and security guidelines
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 11
+      name: principle_4
+      label: I will not use substances that impair judgment
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 12
+      name: principle_5
+      label: I will respect intellectual property and confidentiality
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 13
+      name: section_prohibited
+      label: -- Prohibited Behaviors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: understand_prohibited
+      label: I understand the following are prohibited
+      hint: Illegal activities, violence, harassment, theft, etc.
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 15
+      name: section_consequences
+      label: -- Understanding of Consequences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: understand_consequences
+      label: I understand violations may result in removal or legal action
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 17
+      name: section_incident_reporting
+      label: -- Incident Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: will_report_incidents
+      label: I agree to report conduct violations to organizers
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: confidentiality_protection
+      label: I understand reports will be treated confidentially
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: section_declaration
+      label: -- Declaration and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: signature_declaration
+      label: I hereby declare that I have read and agree to the code of conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: truthfulness
+      label: I certify that all information provided is accurate and truthful
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true
+    - id: 23
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: parent_consent
+      label: Parent or Guardian Consent (if under 18)
+      hint: null
+      type: select_one
+      options:
+      - I Have Parental Consent
+      - I Am an Adult
+      - Not Applicable
+      required: true
+    - id: 25
+      name: acknowledgment_date
+      label: Date of Acknowledgment
+      hint: null
+      type: date
+      options: []
+      required: true

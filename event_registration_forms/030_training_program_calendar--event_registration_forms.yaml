@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Program Calendar
+    pages:
+    - id: 1
+      name: training_program_calendar
+      label: training_program_calendar
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_training_sessions
+      label: Schedule Training Sessions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: collect_participant_info
+      label: Collect Participant Info
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Trainer
+      required: false
+    - id: 4
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collect_participant_info
+      label: Collect Participant Info
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Other
+      required: false
+    - id: 6
+      name: collect_participant_name
+      label: Name
+      hint: Please provide participant name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collect_participant_email
+      label: Email
+      hint: Please provide participant email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: collect_participant_phone
+      label: Phone
+      hint: Please provide participant phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collect_participant_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

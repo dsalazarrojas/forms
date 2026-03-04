@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headphone Purchase Feedback
+    pages:
+    - id: 1
+      name: headphone_purchase_feedback
+      label: How would you rate your purchase experience
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: headphones
+      label: What headphones did you buy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_time
+      label: Purchase time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction rating
+      hint: On a scale of 1 to 5
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: feedback
+      label: Do you have any feedback for us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Your contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Your contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

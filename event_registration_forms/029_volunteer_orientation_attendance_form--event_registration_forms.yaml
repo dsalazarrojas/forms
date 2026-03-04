@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_orientation_attendance_form
+    pages:
+    - id: 1
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Support
+      - Other
+      required: false
+    - id: 4
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_location
+      label: session_location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 9
+      name: session_attendance
+      label: session_attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: session_attendance_reason_no
+      label: session_attendance_reason_no
+      hint: null
+      type: text
+      options: []
+      required: false

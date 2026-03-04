@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Open House RSVP
+    pages:
+    - id: 1
+      name: holiday_open_house_rsvp_form
+      label: Holiday Open House RSVP Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_attendee
+      label: Event Attendee
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Attendee 1'', ''value'': ''Attendee 1''}'
+      - '{''label'': ''Attendee 2'', ''value'': ''Attendee 2''}'
+      - '{''label'': ''Attendee 3'', ''value'': ''Attendee 3''}'
+      - '{''label'': ''Other (Please Specify)'', ''value'': ''other''}'
+      required: true
+    - id: 4
+      name: guests_attending
+      label: Guests Attending
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1, ''value'': ''1''}'
+      - '{''label'': 2, ''value'': ''2''}'
+      - '{''label'': 3, ''value'': ''3''}'
+      - '{''label'': ''4-6'', ''value'': ''4-6''}'
+      - '{''label'': ''7-12'', ''value'': ''7-12''}'
+      - '{''label'': ''More'', ''value'': ''more''}'
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': ''Undecided'', ''value'': ''undecided''}'
+      required: true
+    - id: 13
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: host_email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: host_phone
+      label: Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: host_company
+      label: Host Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_date_time
+      label: Event Date Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

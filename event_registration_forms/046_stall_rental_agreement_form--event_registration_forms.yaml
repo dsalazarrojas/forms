@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stall Rental Agreement Form
+    pages:
+    - id: 1
+      name: stall_rental_details
+      label: Stall Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_term
+      label: Rental Term
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Month''}'
+      - '{''label'': ''3 months''}'
+      - '{''label'': ''6 months''}'
+      - '{''label'': ''12 months''}'
+      required: false
+    - id: 3
+      name: rental_rate
+      label: Rental Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_signature
+      label: Vendor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer_info
+      label: Event Organizer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_organizer_signature
+      label: Event Organizer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_agreement
+      label: Vendor Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms_2
+      label: Payment Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Unpaid''}'
+      - '{''label'': ''Partially Paid''}'
+      required: false
+    - id: 18
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vendor_signature_2
+      label: Vendor Signature 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_organizer_notes
+      label: Event Organizer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 24
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Insufficient Demand''}'
+      - '{''label'': ''Unplanned Event Cancelation''}'
+      - '{''label'': ''Unexpected Event Cancelation''}'
+      required: false
+    - id: 25
+      name: cancellation_notes
+      label: Cancellation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

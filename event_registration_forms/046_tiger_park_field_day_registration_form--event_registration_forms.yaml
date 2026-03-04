@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tiger Park Field Day Registration Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Event Registration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email_alternate
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event
+      label: event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_entrance_fee
+      label: event_entrance_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_entrance_fee_currency
+      label: event_entrance_fee_currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_registration_type
+      label: event_registration_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: event_registration_type_options
+      label: event_registration_type_options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_registration_type_label
+      label: event_registration_type_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_attendee_count
+      label: event_attendee_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: event_attendee_count_description
+      label: event_attendee_count_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_attendee_count
+      label: event_attendee_count
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: event_attendee_count_options
+      label: event_attendee_count_options
+      hint: null
+      type: text
+      options: []
+      required: false

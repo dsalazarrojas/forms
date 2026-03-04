@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Delivery Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: delivery_area
+      label: Delivery Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: Describe the reason for your feedback
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: area_of_service
+      label: Area of Service
+      hint: Please select your area of service
+      type: select_multiple
+      options:
+      - Grocery
+      - Pharmacy
+      - Dining
+      - Pet supply
+      - Other
+      required: false

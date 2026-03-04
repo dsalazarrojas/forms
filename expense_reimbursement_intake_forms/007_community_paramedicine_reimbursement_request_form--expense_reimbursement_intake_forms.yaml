@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Paramedicine Reimbursement Request Form
+    pages:
+    - id: 1
+      name: reimbursement_intro
+      label: -- Reimbursement Request Form --
+      hint: Please submit one form per expense category.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Paramedic Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: employee_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_selection
+      label: Select Your Department
+      hint: null
+      type: select_one
+      options:
+      - Emergency Medical Services
+      - Mobile Integrated Healthcare
+      - Community Paramedicine
+      - Community Health Outreach
+      - Other
+      required: true
+    - id: 7
+      name: expense_date
+      label: Date of Expense Occurrence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: expense_category
+      label: Expense Category
+      hint: Select the most appropriate category for this expense.
+      type: select_one
+      options:
+      - Mileage Reimbursement
+      - Medical Supplies
+      - Equipment Purchase
+      - Uniform Maintenance
+      - Training and Certifications
+      - Travel and Meals
+      - Other
+      required: true
+    - id: 9
+      name: expense_amount
+      label: Total Amount to be Reimbursed
+      hint: Enter numerical value without symbols.
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: expense_description
+      label: Detailed Description of Expense
+      hint: Please specify items or services purchased.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expense_purpose
+      label: Business Purpose for Expense
+      hint: How does this benefit the community paramedicine program?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vendor_name
+      label: Vendor or Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: receipt_attached_check
+      label: Have you attached a copy of the receipt?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: missing_receipt_reason
+      label: Reason for Missing Receipt
+      hint: Required if you answered No above.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approval_note
+      label: -- Supervisor Approval Section --
+      hint: To be completed by the submitting employee.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_name
+      label: Supervisor or Department Head Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

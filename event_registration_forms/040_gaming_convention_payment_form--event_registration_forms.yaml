@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_convention_payment_form
+    pages:
+    - id: 1
+      name: payment_amount
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_tshirt_size
+      label: T-shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 6
+      name: attendee_tshirt_color
+      label: T-shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 7
+      name: attendee_diet
+      label: Special Dietary Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendee_shirt_color_preference
+      label: Shirt Color Preference
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Dark
+      - Any
+      required: false
+    - id: 9
+      name: attendee_diet_special_request
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attendee_tshirt_design
+      label: T-shirt Design
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attendee_tshirt_design_color
+      label: T-shirt Design Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: attendee_tshirt_design_size
+      label: T-shirt Design Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: attendee_tshirt_design_type
+      label: T-shirt Design Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: attendee_tshirt_design_color_preference
+      label: T-shirt Design Color Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

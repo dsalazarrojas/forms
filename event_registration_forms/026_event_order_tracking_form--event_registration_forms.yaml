@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Order Tracking Form
+    pages:
+    - id: 1
+      name: event_order_tracking_form_page
+      label: Event Order Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: attendee information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Not Paid''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 4
+      name: specific_requests
+      label: specific requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: Tool assigned to order
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 13
+      name: order_comments
+      label: order comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: payment method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_id
+      label: order id
+      hint: null
+      type: text
+      options: []
+      required: false

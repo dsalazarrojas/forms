@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Chatbot Name Suggestions
+    pages:
+    - id: 1
+      name: intro
+      label: -- Naming Brief --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter name
+      hint: Optional name for credit
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project description
+      hint: Brief description of the chatbot and its audience
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tone_and_style
+      label: Preferred tone and style
+      hint: e.g., friendly professional witty
+      type: select_one
+      options: [Friendly,Professional,Playful,Authoritative]
+      required: true
+    - id: 5
+      name: naming_constraints
+      label: Naming constraints
+      hint: Length trademark or brand constraints
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggested_names
+      label: Suggested names
+      hint: Provide up to five name suggestions
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rationale
+      label: Rationale for suggestions
+      hint: Explain why each name suits the project
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_markets
+      label: Target markets or languages
+      hint: Regions or languages to consider
+      type: select_multiple
+      options: [North America,Europe,APAC,Latin America]
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email for follow up
+      hint: Optional
+      type: email
+      options: []
+      required: false

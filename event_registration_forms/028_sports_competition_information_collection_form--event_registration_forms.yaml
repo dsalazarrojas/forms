@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Competition Information Collection Form
+    pages:
+    - id: 1
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 9
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_postal_code
+      label: Participant Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: participant_province
+      label: Participant Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: participant_licence
+      label: Participant Licence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: event_city
+      label: Event City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: event_province
+      label: Event Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: event_country
+      label: Event Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: participant_registrations
+      label: Participant Registrations
+      hint: null
+      type: select_multiple
+      options:
+      - Registration 1
+      - Registration 2
+      - Registration 3
+      required: true
+    - id: 25
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

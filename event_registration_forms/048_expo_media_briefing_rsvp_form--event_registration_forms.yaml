@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expo Media Briefing RSVP Form
+    pages:
+    - id: 1
+      name: media_confirmation
+      label: media_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Press Briefing
+      - Video Conference
+      - Phone Call
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: text
+      options: []
+      required: false

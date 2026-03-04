@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quantum Numbers Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_answers
+      label: Student Answers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: quiz_comments
+      label: Quiz Comments
+      hint: null
+      type: text
+      options: []
+      required: false

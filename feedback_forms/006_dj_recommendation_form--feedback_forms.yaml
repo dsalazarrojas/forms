@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Recommendation Form
+    pages:
+    - id: 1
+      name: dj_name
+      label: Enter DJ Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dj_email
+      label: DJ Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_planner_name
+      label: Event Planner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: recommended_djs
+      label: Recommended DJS List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''DJ1''}'
+      - '{''name'': ''DJ2''}'
+      - '{''name'': ''DJ3''}'
+      required: true
+    - id: 5
+      name: event_planner_email
+      label: Event Planner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Music Festival''}'
+      - '{''name'': ''Birthday Party''}'
+      required: false
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dj_description
+      label: DJ Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: event_length
+      label: Event Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Music Festival''}'
+      - '{''name'': ''Birthday Party''}'
+      required: false
+    - id: 20
+      name: event_format
+      label: Event Format
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Live''}'
+      - '{''name'': ''Pre-recorded''}'
+      required: false
+    - id: 21
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Upcoming''}'
+      - '{''name'': ''Passed''}'
+      required: false
+    - id: 22
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: note_3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: note_4
+      label: Note 4
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Incident Form
+    pages:
+    - id: 1
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Theater Incident
+      - Stage Incident
+      - Other
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_safety
+      label: Incident Safety
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: incident_satisfaction
+      label: Incident Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Not Satisfied
+      - Not Applicable
+      required: false
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - Resolved
+      - In Progress
+      - Pending
+      required: false
+    - id: 10
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_employees
+      label: Incident Involvement of Theater Employees
+      hint: null
+      type: select_multiple
+      options:
+      - Involvement of Theater Employees
+      - No Involvement of Theater Employees
+      - Not Applicable
+      required: false
+    - id: 12
+      name: incident_attendees
+      label: Incident Involvement of Theater Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Involvement of Theater Attendees
+      - No Involvement of Theater Attendees
+      - Not Applicable
+      required: false

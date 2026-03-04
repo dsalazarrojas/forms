@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_motivation_during_hybrid_classes_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What_is_the_important_thing_you_did_during_class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How_did_you_feel_during_class
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very_satisfied''}'
+      - '{''label'': ''Somewhat_satisfied''}'
+      - '{''label'': ''Not_satisfied''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How_much_time_did_you_spend_on_homework
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: What_did_you_learn_during_class
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Learned_new_concepts''}'
+      - '{''label'': ''Applied_previous_knowledge''}'
+      - '{''label'': "Didn''t_learn_anything"}'
+      required: false
+    - id: 6
+      name: question_5
+      label: How_did_you_feel_during_class
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: How_well_did_you_understand_the_material
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very_well''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Not_at_all''}'
+      required: false
+    - id: 8
+      name: question_7
+      label: How_much_attention_did_you_get_from_the_teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A_lot''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 9
+      name: question_8
+      label: How_much_support_did_you_get_from_classmates
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A_lot''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 10
+      name: question_9
+      label: What_did_you_find_most_helpful
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: What_did_you_find_most_difficult
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: Do_you_like_hybrid_classes
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: question_12
+      label: Any_comments
+      hint: null
+      type: note
+      options: []
+      required: false

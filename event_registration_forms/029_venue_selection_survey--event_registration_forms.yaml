@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: venue_selection_survey
+    pages:
+    - id: 1
+      name: venue_selection
+      label: venue_selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: venue_name
+      label: venue_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: venue_address
+      label: venue_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: venue_capacity
+      label: venue_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: venue_rating
+      label: venue_rating
+      hint: null
+      type: number
+      options: []
+      required: false

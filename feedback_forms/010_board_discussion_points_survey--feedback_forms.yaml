@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Discussion Points Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name (optional for anonymous feedback)
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Your Role
+        hint: Select your position
+        type: select_one
+        options:
+          - Board Member
+          - Board Chair
+          - Executive Director
+          - Staff Member
+          - Observer
+          - Other
+        required: true
+      - id: 3
+        name: meeting_date
+        label: Meeting Date
+        hint: Date of the board meeting
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: meeting_type
+        label: Meeting Type
+        hint: Type of meeting
+        type: select_one
+        options:
+          - Regular Board Meeting
+          - Special Board Meeting
+          - Annual Meeting
+          - Committee Meeting
+          - Retreat
+        required: true
+      - id: 5
+        name: discussion_topics
+        label: Key Discussion Topics
+        hint: Select topics discussed
+        type: select_multiple
+        options:
+          - Strategic Planning
+          - Financial Review
+          - Governance Matters
+          - Executive Compensation
+          - Risk Management
+          - Committee Reports
+          - New Business
+          - Old Business
+        required: true
+      - id: 6
+        name: most_important_topic
+        label: Most Important Topic
+        hint: Which topic was most critical?
+        type: select_one
+        options:
+          - Strategic Planning
+          - Financial Review
+          - Governance Matters
+          - Executive Compensation
+          - Risk Management
+          - Committee Reports
+          - New Business
+        required: true
+      - id: 7
+        name: discussion_quality
+        label: Quality of Discussion
+        hint: Rate the overall discussion quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 8
+        name: time_allocation
+        label: Time Allocation
+        hint: Was time allocated appropriately?
+        type: select_one
+        options:
+          - Yes, well balanced
+          - Some topics needed more time
+          - Some topics needed less time
+          - Poor time management
+        required: true
+      - id: 9
+        name: topics_needing_more_time
+        label: Topics Needing More Discussion
+        hint: Select topics that needed more attention
+        type: select_multiple
+        options:
+          - Strategic Planning
+          - Financial Review
+          - Governance Matters
+          - Executive Compensation
+          - Risk Management
+          - Committee Reports
+          - New Business
+          - None
+        required: false
+      - id: 10
+        name: topics_rushed
+        label: Topics That Felt Rushed
+        hint: Any topics that felt hurried?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: information_provided
+        label: Quality of Pre-Meeting Materials
+        hint: Were materials provided in advance?
+        type: select_one
+        options:
+          - Excellent - Comprehensive and timely
+          - Good - Adequate preparation
+          - Average - Could be improved
+          - Poor - Insufficient information
+        required: true
+      - id: 12
+        name: action_items_clarity
+        label: Clarity of Action Items
+        hint: Were action items clearly defined?
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Unclear
+          - No Action Items Defined
+        required: true
+      - id: 13
+        name: follow_up_needed
+        label: Topics Requiring Follow-Up
+        hint: What needs further discussion?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: next_meeting_suggestions
+        label: Suggestions for Next Meeting
+        hint: Any recommendations?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: overall_meeting_effectiveness
+        label: Overall Meeting Effectiveness
+        hint: Rate this meeting
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

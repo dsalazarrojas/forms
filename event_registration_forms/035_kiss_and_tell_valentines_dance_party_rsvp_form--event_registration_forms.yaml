@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: kiss_and_tell_valentines_dance_party_rsvp_form
+    pages:
+    - id: 1
+      name: name
+      label: Kiss And Tell Valentines Dance Party Guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: guest_email
+      hint: guest email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: guest_phone
+      hint: guest phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_event
+      label: time_of_event
+      hint: time of event
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: dance_party_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: name_of_guests
+      label: names_of_guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

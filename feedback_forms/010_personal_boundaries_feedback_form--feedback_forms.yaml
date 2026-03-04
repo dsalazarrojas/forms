@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Boundaries Feedback Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Feedback Forms
+      - Feedback Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_safety
+      label: User Safety
+      hint: null
+      type: select_multiple
+      options:
+      - User Safety
+      - User Respect
+      - Workplace Safety
+      required: false
+    - id: 5
+      name: boundary_respect
+      label: Boundary Respect
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_at
+      label: Timestamp
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Talent Sign Out Sheet
+    pages:
+    - id: 1
+      name: signout_reason
+      label: Sign-out Reason
+      hint: null
+      type: select_one
+      options:
+      - Backstage
+      - Fittings
+      - Studio
+      required: true
+    - id: 2
+      name: talent_name
+      label: Talent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: talent_agency
+      label: Talent Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: talent_id
+      label: Talent ID
+      hint: null
+      type: number
+      options: []
+      required: true

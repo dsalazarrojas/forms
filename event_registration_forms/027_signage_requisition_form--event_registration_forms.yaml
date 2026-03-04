@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signage Requisition Form
+    pages:
+    - id: 1
+      name: event_registration_forms_title
+      label: Event Registration Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - -.report -presentation -concert
+      - Other
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: signage_type
+      label: Signage Type
+      hint: null
+      type: select_one
+      options:
+      - .report -presentation -concert - banner -video wall -logo -display -name tag
+      - Other
+      required: false
+    - id: 6
+      name: signage_location
+      label: Signage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

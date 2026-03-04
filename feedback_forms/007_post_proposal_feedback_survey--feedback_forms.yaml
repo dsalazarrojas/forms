@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Proposal-Feedback-Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Post Proposal Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - On Hold
+      - Cancelled
+      - Rejected
+      required: false
+    - id: 3
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 4
+      name: reviewer_sentiment
+      label: Reviewer Sentiment
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: project_rating
+      label: Project Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: review_comment
+      label: Review Comment
+      hint: Please provide a brief comment about the project
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_plan
+      label: Action Plan
+      hint: What action do you plan to take based on this feedback?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any additional comments about the project
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_feedback
+      label: Reviewer Feedback
+      hint: Please provide feedback to the reviewer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_owner_name
+      label: Project Owner Name
+      hint: Please enter the name of the project owner
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_owner_email
+      label: Project Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: project_owner_phone
+      label: Project Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Please enter the name of the reviewer
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_status
+      label: Review Status
+      hint: Please enter the review status
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_result
+      label: Review Result
+      hint: Please enter the review result
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_manager
+      label: Project Manager
+      hint: Please enter the project manager name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: department
+      label: Department
+      hint: Please enter the department name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

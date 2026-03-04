@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: outdoor_patio_reservation_form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reservation_time
+      label: reservation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: reservation_party_size
+      label: party_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reservation_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: reservation_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reservation_time_end
+      label: reservation_time_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reservation_date_end
+      label: reservation_date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reservation_method
+      label: reservation_method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Walk-in
+      required: false
+    - id: 17
+      name: reservation_source
+      label: reservation_source
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Referral
+      - Offline
+      - Word of mouth
+      required: false
+    - id: 18
+      name: reservation_area
+      label: reservation_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reservation_notes
+      label: reservation_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reservation_cancellation
+      label: reservation_cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

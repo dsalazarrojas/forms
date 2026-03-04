@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recycling Facility Audit Consent Form
+    pages:
+    - id: 1
+      name: facility_details
+      label: Facility Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_audit_dates
+      label: Preferred Audit Dates
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 3
+      name: authorized_representatives
+      label: Authorized Representatives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: formal_consent
+      label: Formal Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: preferred_audit_date
+      label: Preferred Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Venue Management Report
+    pages:
+    - id: 1
+      name: event_status
+      label: event status
+      hint: null
+      type: select_one
+      options:
+      - Event Open
+      - Event Closed
+      - Event Canceled
+      required: false
+    - id: 2
+      name: incident_details
+      label: incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_needs
+      label: maintenance needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_id
+      label: facility id
+      hint: null
+      type: number
+      options: []
+      required: false

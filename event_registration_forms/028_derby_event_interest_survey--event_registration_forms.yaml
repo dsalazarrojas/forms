@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Derby Event Interest Survey
+    pages:
+    - id: 1
+      name: event_interest_survey_1
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_interest_survey_2
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_dates
+      label: event_dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_venue
+      label: venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_dates_2
+      label: event_dates_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_venue_2
+      label: venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''location1'', ''label'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''location2'', ''label'': ''Location 2''}'
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

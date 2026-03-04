@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Event Sign Up Form
+    pages:
+    - id: 1
+      name: event_sign_up_form_page_1
+      label: event-sign-up-form-page-1-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_signature_image
+      label: user-signature-image-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email-label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time-label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date-label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: event-date-label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_start_time
+      label: event-start-time-label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_end_time
+      label: event-end-time-label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_duration
+      label: event-duration-label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_fee
+      label: event-fee-label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: event-location-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_description
+      label: event-description-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_tags
+      label: event-tags-label
+      hint: null
+      type: select_one
+      options:
+      - Event Type
+      - Event Category
+      - Event Status
+      required: true
+    - id: 16
+      name: user_sign_up_status
+      label: user-sign-up-status-label
+      hint: null
+      type: select_one
+      options:
+      - Signed Up
+      - Not Signed Up
+      - Waiting List
+      required: true
+    - id: 17
+      name: user_sign_up_date
+      label: user-sign-up-date-label
+      hint: null
+      type: date
+      options: []
+      required: false

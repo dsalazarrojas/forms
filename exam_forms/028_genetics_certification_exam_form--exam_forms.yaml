@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: genetics_certification_exam_form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: degree
+      label: degree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': "Bachelor''s Degree"}'
+      - '{''id'': 2, ''label'': "Master''s Degree"}'
+      - '{''id'': 3, ''label'': ''Doctoral Degree''}'
+      required: false
+    - id: 7
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exam_time
+      label: exam_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Indemnity Agreement
+    pages:
+    - id: 1
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_acknowledge
+      label: acknowledge risks
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: risk_details
+      label: risk details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_name
+      label: guest name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_email
+      label: guest email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: guest_phone
+      label: guest phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

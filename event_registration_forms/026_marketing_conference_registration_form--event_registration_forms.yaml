@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Conference Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_type
+      label: attendee_type
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing Team
+      - Sales Team
+      - Other
+      required: false
+    - id: 10
+      name: registration_type
+      label: registration_type
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Exhibitor
+      - Organizer
+      - Sponsor
+      required: false
+    - id: 11
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: false

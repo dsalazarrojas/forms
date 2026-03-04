@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Muay Thai Awards Nomination Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: nominee
+      label: Nominee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: title_nominated_for
+      label: Title Nominated For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_info
+      label: Supporting Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_docs
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nomination_agreement
+      label: Nomination Agreement
+      hint: null
+      type: select_one
+      options:
+      - Nomination Agreement 1
+      - Nomination Agreement 2
+      - Nomination Agreement 3
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

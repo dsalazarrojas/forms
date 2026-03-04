@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Medicine Data Analytics Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: Workshop Type
+      hint: Select one of the options
+      type: select_one
+      options:
+      - Workshop
+      - Conference
+      required: false
+    - id: 6
+      name: medical_specialty
+      label: Medical Specialty
+      hint: Select one or more
+      type: select_one
+      options:
+      - Anesthesiology
+      - Cardiology
+      - Dermatology
+      - Emergency Medicine
+      - Gastroenterology
+      - Nephrology
+      - Oncology
+      - Pathology
+      - Radiology
+      - Urology
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: conference_date
+      label: Conference Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: conference_time
+      label: Conference Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: Select one of the options
+      type: select_one
+      options:
+      - '50'
+      - '100'
+      - '200'
+      - '300'
+      required: false
+    - id: 19
+      name: conference_capacity
+      label: Conference Capacity
+      hint: Select one of the options
+      type: select_one
+      options:
+      - '50'
+      - '100'
+      - '200'
+      - '300'
+      required: false
+    - id: 20
+      name: workshop_fees
+      label: Workshop Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: conference_fees
+      label: Conference Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_insurance
+      label: Medical Insurance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

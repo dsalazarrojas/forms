@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Review & Graphic Upload Form
+    pages:
+    - id: 1
+      name: client_project_info
+      label: -- Client and Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: What is this project called?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For correspondence and file sharing
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Logo Design
+      - Marketing Collateral
+      - Website Design
+      - Packaging Design
+      - Brand Identity
+      - Social Media Graphics
+      - Advertising Creative
+      - Other
+      required: true
+    - id: 7
+      name: revision_round
+      label: Revision Round Number
+      hint: First round, second round, etc.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback_section
+      label: -- Design Feedback and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_impression
+      label: What is your overall impression of the current design?
+      hint: null
+      type: select_one
+      options:
+      - Needs Major Revisions
+      - Needs Revisions
+      - Close, Minor Tweaks Needed
+      - Very Close to Final
+      - Ready to Finalize
+      required: true
+    - id: 10
+      name: specific_feedback
+      label: Please provide specific feedback and comments
+      hint: Be as detailed as possible about what works and what needs to change
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: color_feedback
+      label: Feedback on colors and palette
+      hint: Do the colors work for your brand?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: typography_feedback
+      label: Feedback on fonts and typography
+      hint: Are the fonts appropriate?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: layout_feedback
+      label: Feedback on layout and composition
+      hint: Is the design well-organized?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: messaging_feedback
+      label: Feedback on messaging and copy
+      hint: Does the message come across clearly?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: priority_changes
+      label: What are your top 3 priority changes?
+      hint: List in order of importance
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_section
+      label: -- Approval Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: approval_status
+      label: Current Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Needs Review and Approval
+      - Approved with Changes
+      - Approved as Is
+      - Rejected
+      - In Progress
+      required: true
+    - id: 18
+      name: stakeholders_approved
+      label: Have all stakeholders reviewed and approved?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial Approval
+      required: false
+    - id: 19
+      name: revision_deadline
+      label: When do you need the revised version?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: uploads_section
+      label: -- File Uploads --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reference_files
+      label: Upload reference files, inspiration, or comparison images
+      hint: Optional - Images that illustrate your feedback
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: marked_up_design
+      label: Upload marked-up or annotated version if available
+      hint: Optional - Designs with comments or changes marked
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_resources
+      label: Upload any brand guidelines or additional resources
+      hint: Optional - Help the designer understand your brand better
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: final_section
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any additional comments or questions?
+      hint: null
+      type: text
+      options: []
+      required: false

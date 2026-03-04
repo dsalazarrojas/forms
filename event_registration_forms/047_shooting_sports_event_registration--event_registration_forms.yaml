@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shooting Sports Event Registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discipline_choices
+      label: Discipline Choices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''rifle''}'
+      - '{''value'': ''pistol''}'
+      - '{''value'': ''shotgun''}'
+      - '{''value'': ''archery''}'
+      required: false
+    - id: 5
+      name: safety_acknowledgments
+      label: Safety Acknowledgments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

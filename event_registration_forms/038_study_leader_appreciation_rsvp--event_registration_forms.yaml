@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Leader Appreciation RSVP
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: message_of_thanks
+      label: message_of_thanks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: will_attend
+      label: will_attend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 8
+      name: will_cancel
+      label: will_cancel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 9
+      name: reason_for_not_attending
+      label: reason_for_not_attending
+      hint: null
+      type: text
+      options: []
+      required: false

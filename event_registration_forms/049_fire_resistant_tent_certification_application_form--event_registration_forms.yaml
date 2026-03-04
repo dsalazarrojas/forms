@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Resistant Tent Certification Application Form
+    pages:
+    - id: 1
+      name: event_registration_forms
+      label: Event Registration Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      - category4
+      required: false
+    - id: 6
+      name: fire_resistance_test_results
+      label: fire_resistance_test_results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: certification_status
+      label: certification_status
+      hint: null
+      type: select_one
+      options:
+      - certified
+      - not_certified
+      - pending
+      required: false
+    - id: 8
+      name: certification_date
+      label: certification_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planning Billing Form
+    pages:
+    - id: 1
+      name: event_planning_form
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: billing_information
+      label: Billing Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Check
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

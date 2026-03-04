@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_feedback_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Team Member
+      - Intern
+      - Other
+      required: false
+    - id: 3
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: Please provide more specific feedback
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_given
+      label: Date Given
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_given
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 11
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

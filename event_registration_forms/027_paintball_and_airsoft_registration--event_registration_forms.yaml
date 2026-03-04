@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paintball And Airsoft Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_acknowledgement
+      label: Safety Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Home
+      - Work
+      - Mobile
+      - Both
+      required: false
+    - id: 7
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule_end_date
+      label: Schedule End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: schedule_start_time
+      label: Schedule Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: schedule_end_time
+      label: Schedule End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: event_organiser
+      label: Event Organiser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organiser_phone
+      label: Event Organiser Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_organiser_email
+      label: Event Organiser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: event_organiser_address
+      label: Event Organiser Address
+      hint: null
+      type: text
+      options: []
+      required: false

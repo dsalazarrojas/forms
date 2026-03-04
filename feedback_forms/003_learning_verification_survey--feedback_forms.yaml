@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_verification_survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: training_program_name
+      label: training_program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_effectiveness
+      label: effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 1 - Highly effective
+      - 2 - Moderately effective
+      - 3 - Not effective
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_rating
+      label: participant_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: program_improvements
+      label: program_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_category
+      label: program_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_duration
+      label: program_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Mechanization Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the agricultural course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz administration
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: q1_tractor_safety
+      label: Question 1 - What is the most important safety feature on a tractor
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Rollover Protection Structure (ROPS)
+      - Seat belt
+      - Headlights
+      - Horn
+      required: true
+    - id: 7
+      name: q2_pto_shield
+      label: Question 2 - Why should PTO shields always be in place
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To prevent clothing and body parts from getting caught
+      - To keep dirt off the shaft
+      - To improve fuel efficiency
+      - To reduce noise
+      required: true
+    - id: 8
+      name: q3_hydraulic_leak
+      label: Question 3 - What should you do if you discover a hydraulic leak
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Stop operation and repair immediately
+      - Continue working until the job is done
+      - Add more fluid and continue
+      - Ignore it if it is small
+      required: true
+    - id: 9
+      name: q4_implement_type
+      label: Question 4 - Which of these is a primary tillage implement
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Moldboard plow
+      - Cultivator
+      - Harrow
+      - Planter
+      required: true
+    - id: 10
+      name: q5_engine_coolant
+      label: Question 5 - How often should engine coolant be checked
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Daily before operation
+      - Once a month
+      - Once a year
+      - Only when overheating occurs
+      required: true
+    - id: 11
+      name: q6_tire_pressure
+      label: Question 6 - What is the effect of improper tire pressure on a tractor
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Reduced traction and increased fuel consumption
+      - Improved speed
+      - Better fuel economy
+      - No significant effect
+      required: true
+    - id: 12
+      name: q7_lubrication
+      label: Question 7 - What is the primary purpose of lubrication in farm machinery
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Reduce friction and wear between moving parts
+      - Make the machine look clean
+      - Increase engine noise
+      - Improve appearance
+      required: true
+    - id: 13
+      name: q8_battery_maintenance
+      label: Question 8 - What should be done to maintain a tractor battery
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Keep terminals clean and tight
+      - Check electrolyte levels regularly
+      - Store in extreme temperatures
+      - Disconnect when not in use for long periods
+      required: true
+    - id: 14
+      name: q9_hitch_category
+      label: Question 9 - What determines the category of a three-point hitch
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Tractor horsepower and size
+      - Color of the tractor
+      - Brand of tractor
+      - Year of manufacture
+      required: true
+    - id: 15
+      name: q10_pre_operation
+      label: Question 10 - What should be included in a pre-operation inspection
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Check fluid levels
+      - Inspect tires for damage
+      - Test lights and signals
+      - Check brake function
+      - Skip inspection if in a hurry
+      required: true
+    - id: 16
+      name: q11_combine_harvester
+      label: Question 11 - When is the best time to service a combine harvester
+      hint: Select the best answer
+      type: select_one
+      options:
+      - After harvest season before storage
+      - During peak harvest
+      - Only when it breaks down
+      - Never, replace instead
+      required: true
+    - id: 17
+      name: q12_safety_symbol
+      label: Question 12 - What does a yellow triangle with an exclamation mark indicate
+      hint: Select the best answer
+      type: select_one
+      options:
+      - General warning or caution
+      - Stop immediately
+      - Emergency exit
+      - First aid station
+      required: true
+    - id: 18
+      name: q13_fuel_storage
+      label: Question 13 - What is the proper way to store diesel fuel on a farm
+      hint: Select the best answer
+      type: select_one
+      options:
+      - In approved containers away from ignition sources
+      - In any available container
+      - Next to the tractor for convenience
+      - In direct sunlight
+      required: true
+    - id: 19
+      name: q14_air_filter
+      label: Question 14 - A clogged air filter will cause
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Reduced engine power and increased fuel consumption
+      - Improved engine performance
+      - Better acceleration
+      - Lower emissions
+      required: true
+    - id: 20
+      name: q15_rollover
+      label: Question 15 - In case of a tractor rollover with ROPS you should
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Stay inside and hold on tight with seatbelt fastened
+      - Jump out immediately
+      - Try to steer out of it
+      - Stand up to brace yourself
+      required: true
+    - id: 21
+      name: completion_time
+      label: Completion Time (minutes)
+      hint: Time taken to complete the quiz
+      type: number
+      options: []
+      required: false

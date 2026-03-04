@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Mentorship Expense Claim Form
+    pages:
+    - id: 1
+      name: mentorship_program
+      label: Mentorship Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_claim
+      label: Date Of Claim
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: amount_claimed
+      label: Amount Claimed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: purpose_of_claim
+      label: Purpose Of Claim
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Program Development'', ''label'': ''Program Development''}'
+      - '{''id'': 2, ''name'': ''Program Management'', ''label'': ''Program Management''}'
+      - '{''id'': 3, ''name'': ''Travel'', ''label'': ''Travel''}'
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false

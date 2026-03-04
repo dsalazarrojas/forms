@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_innovation_showcase_rsvp
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_interest
+      label: session_interest
+      hint: Select the sessions you are interested in
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_type
+      label: RSVP Type
+      hint: Select the RSVP type
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

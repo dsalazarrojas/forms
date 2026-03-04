@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraction Concepts Quiz
+    pages:
+    - id: 1
+      name: concept
+      label: concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: problem_type
+      label: problem type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 3
+      name: numerator_value
+      label: numerator value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: denominator_value
+      label: denominator value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equivalent_ratio
+      label: equivalent ratio
+      hint: null
+      type: select_multiple
+      options:
+      - '{5: 1}'
+      - '{10: 2}'
+      - '{15: 3}'
+      required: false
+    - id: 6
+      name: comparison_question
+      label: comparison question
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 7
+      name: solution_type
+      label: solution type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: word_problem
+      label: word problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: result
+      label: result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: teacher_id
+      label: teacher id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - ChatJimmy
+      - ChatJimmy
+      - Jimmy
+      required: false

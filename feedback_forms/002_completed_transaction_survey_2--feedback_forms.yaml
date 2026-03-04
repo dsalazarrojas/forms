@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Completed Transaction Survey 2
+    pages:
+    - id: 1
+      name: transaction_id
+      label: Transaction ID
+      hint: Enter the ID from your receipt
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_rating
+      label: -- Service Ratings --
+      hint: Please rate each of the following.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: efficiency_rating
+      label: Efficiency of Transaction
+      hint: How quickly was your transaction processed?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 5
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: Were the staff members helpful and polite?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 6
+      name: clarity_of_information
+      label: Clarity of Information
+      hint: Was the information provided during the transaction clear?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 7
+      name: ease_of_payment
+      label: Ease of Payment Process
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 8
+      name: issues_encountered
+      label: Did you encounter any issues?
+      hint: null
+      type: select_one
+      options:
+      - No Issues
+      - System Delay
+      - Staff Error
+      - Unclear Instructions
+      - Other
+      required: true
+    - id: 9
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: We appreciate your honesty.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: On a scale of 1-10, how likely are you to recommend us?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: add_comments
+      label: Additional Comments
+      hint: Any other thoughts?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_consent
+      label: Can we contact you for more details?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

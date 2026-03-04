@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Support Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: What was your satisfaction with our support service?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: support_type
+      label: How did you contact us?
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Chat
+      - Other
+      required: false
+    - id: 4
+      name: contact_time
+      label: What time of day did you contact us?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: resolution_time
+      label: How long did it take us to resolve your issue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resolution_method
+      label: How was your issue resolved?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - In Person
+      - Other
+      required: false
+    - id: 7
+      name: comments
+      label: Do you have any further comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: How did you contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - Call
+      - Email
+      - Live Chat
+      - Other
+      required: false
+    - id: 12
+      name: resolution_method_details
+      label: Please describe how your issue was resolved.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolution_time_details
+      label: Please describe how long it took for your issue to be resolved.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: support_rating
+      label: Overall Support Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Would you like to be contacted again for support?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: follow_up_details
+      label: Please describe how you would like to be contacted.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: support_rating
+      label: Support Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - In Person
+      - Other
+      required: false
+    - id: 24
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: follow_up_details
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false

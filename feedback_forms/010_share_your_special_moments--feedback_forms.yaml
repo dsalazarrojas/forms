@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Share Your Special Moments
+    pages:
+    - id: 1
+      name: special_moment
+      label: Share a Special Moment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: share_type
+      label: How do you want to share it
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - photo
+      - video
+      - audio
+      required: false
+    - id: 3
+      name: share_with
+      label: With Whom
+      hint: null
+      type: select_one
+      options:
+      - family
+      - friends
+      - colleagues
+      - public
+      required: false
+    - id: 4
+      name: share_date
+      label: Share Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: share_time
+      label: Share Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: share_note
+      label: Share Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: share_email
+      label: Share Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: share_phone
+      label: Share Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: share_file
+      label: Share File
+      hint: null
+      type: text
+      options: []
+      required: false

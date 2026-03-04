@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mergers And Acquisitions Feedback Form
+    pages:
+    - id: 1
+      name: merger_details
+      label: Merger Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acquisition_cost
+      label: Acquisition Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: financial_impact
+      label: Financial Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: integration_status
+      label: Integration Status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - Behind Schedule
+      - Completed
+      required: true
+    - id: 5
+      name: integration_risks
+      label: Integration Risks
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Major
+      - Minor
+      required: true
+    - id: 6
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In Person
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

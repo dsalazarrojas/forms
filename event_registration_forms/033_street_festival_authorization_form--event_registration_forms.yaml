@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Street Festival Authorization Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_organization
+      label: Contact Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: event_authorized_official
+      label: Authorized Official
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_issuer
+      label: Form Issuer
+      hint: null
+      type: text
+      options: []
+      required: false

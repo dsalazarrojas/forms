@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Registration Form
+    pages:
+    - id: 1
+      name: registration_details_header
+      label: -- Contest Registration --
+      hint: Complete this form to officially register for the upcoming event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Participant
+      - Team Entry (Leader Registration)
+      - School/Organization Delegation
+      required: true
+    - id: 3
+      name: registrant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: team_name_optional
+      label: Team Name (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: competition_category
+      label: Select Contest Event
+      hint: Which specific contest are you joining
+      type: select_one
+      options:
+      - General Knowledge Trivia
+      - Technical Skills Challenge
+      - Creative Arts Showcase
+      - Athletic Competition
+      - Business Pitch Contest
+      required: true
+    - id: 7
+      name: age_group_header
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Junior (Under 15)
+      - Senior (15-18)
+      - Adult (19-64)
+      - Professional (Open)
+      required: true
+    - id: 9
+      name: previous_participation
+      label: Have you participated in our contests before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: waiver_agreement_header
+      label: -- Waiver and Release --
+      hint: Please read and agree to the participation waiver
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: liability_waiver_agreed
+      label: I agree to the liability waiver and contest terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: registrant_signature
+      label: Registrant/Guardian Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

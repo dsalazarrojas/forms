@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: udon_making_class_registration
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: Select a date for your session
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: Enter the name of your instructor
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Session Start Time
+      hint: Select your desired session start time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: Session End Time
+      hint: Select your desired session end time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: class_capacity
+      label: Class Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: instructor_phone
+      label: Instructor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_enrollment
+      label: Class Enrollment
+      hint: null
+      type: select_one
+      options:
+      - '{''Class Size'': ''1-10''}'
+      - '{''Class Size'': ''11-20''}'
+      - '{''Class Size'': ''21-25''}'
+      required: false
+    - id: 11
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: registration_fee_label
+      label: Session Fee Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: instructor_fee
+      label: Instructor Fee
+      hint: Enter the instructor's fee
+      type: number
+      options: []
+      required: false

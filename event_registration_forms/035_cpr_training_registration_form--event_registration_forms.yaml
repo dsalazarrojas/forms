@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPR Training Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For training confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Institution
+      hint: Employer or affiliated organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_session
+      label: Preferred Training Session
+      hint: Select date and time
+      type: select_one
+      options:
+      - Session 1 - Morning
+      - Session 2 - Afternoon
+      - Session 3 - Evening
+      - Weekend session
+      required: true
+    - id: 8
+      name: training_date
+      label: Training Date Preference
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: cpr_course_type
+      label: CPR Course Type
+      hint: null
+      type: select_one
+      options:
+      - Basic CPR
+      - CPR with AED
+      - Advanced CPR
+      - Healthcare Provider CPR
+      - Pediatric CPR
+      - Instructor Certification
+      required: true
+    - id: 10
+      name: certification_status
+      label: Current CPR Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Never certified
+      - Expired
+      - Currently certified
+      - Unknown
+      required: true
+    - id: 11
+      name: previous_training_date
+      label: Date of Last CPR Training
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: training_reason
+      label: Reason for Training
+      hint: null
+      type: select_one
+      options:
+      - Job requirement
+      - Renewal
+      - Personal interest
+      - Healthcare career
+      - Volunteer position
+      - Other
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions or Limitations
+      hint: Any physical limitations for training
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For training day meals
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Wheelchair access
+      - Sign language interpreter
+      - Large print materials
+      - Assistive listening device
+      - Parking assistance
+      - Other
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Money order
+      - Paid by organization
+      required: true
+    - id: 17
+      name: training_fee
+      label: Training Fee Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: consent_agreement
+      label: I agree to the training terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

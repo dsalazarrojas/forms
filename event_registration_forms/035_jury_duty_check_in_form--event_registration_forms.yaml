@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jury Duty Check In Form
+    pages:
+    - id: 1
+      name: event_registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: juror_name
+      label: Juror Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: juror_email
+      label: Juror Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: juror_phone
+      label: Juror Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: juror_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: juror_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: check_in_method
+      label: Check In Method
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      required: false
+    - id: 8
+      name: check_in_method_other
+      label: Check In Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: juror_signature
+      label: Juror Signature
+      hint: null
+      type: note
+      options: []
+      required: false

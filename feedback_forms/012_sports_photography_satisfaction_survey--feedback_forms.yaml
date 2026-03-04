@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_photography_satisfaction_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Sports Photography Satisfaction Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: image_quality
+      label: What was the image quality of the photos?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: professionalism
+      label: How would you rate the professionalism of the photographer?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: delivery_time
+      label: What was the delivery time of the photos?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''Fast''}'
+      - '{''id'': 2, ''label'': ''Average'', ''value'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Slow'', ''value'': ''Slow''}'
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: What was your overall satisfaction with the photography service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Satisfied'', ''value'': ''Satisfied''}'
+      - '{''id'': 2, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Dissatisfied'', ''value'': ''Dissatisfied''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Your E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false

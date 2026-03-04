@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Exit Survey Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Client Exit Feedback --
+        hint: Please complete this brief survey to help us improve
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: account_id
+        label: account id or reference
+        hint: Optional internal reference
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_service_received
+        label: last service received
+        hint: Describe the main service or product involved
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: reason_for_leaving
+        label: primary reason for leaving
+        hint: Select the most relevant reason
+        type: select_one
+        options:
+          - Price concerns
+          - Product or service issues
+          - Found alternative
+          - Poor customer service
+          - Other
+        required: true
+      - id: 5
+        name: satisfaction_rating
+        label: overall satisfaction rating
+        hint: 1 equals very dissatisfied and 5 equals very satisfied
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 6
+        name: most_important_issue
+        label: most important issue experienced
+        hint: Brief description of the primary concern
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: would_recommend
+        label: would you recommend us to others
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: suggestions_for_improvement
+        label: suggestions for improvement
+        hint: What could we do differently to retain clients
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_permission
+        label: permission to follow up
+        hint: May we contact you to discuss further
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: exit_date
+        label: exit date
+        hint: Date the account was closed or service ended
+        type: date
+        options: []
+        required: false

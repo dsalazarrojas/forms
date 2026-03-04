@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: After Hours Access Request Form
+    pages:
+    - id: 1
+      name: requester_information_section
+      label: Requester Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID or Student ID
+      hint: Your employee or student identification number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Email for access confirmation and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for access coordination
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_affiliation
+      label: Department or Affiliation
+      hint: Your department, faculty, or organizational affiliation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: access_request_details_section
+      label: Access Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: requested_access_date
+      label: Requested Access Date
+      hint: Date when you need after-hours access
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: access_start_time
+      label: Access Start Time
+      hint: What time do you need access to begin?
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: access_end_time
+      label: Access End Time
+      hint: What time will you finish and return access?
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: facility_building_requested
+      label: Facility or Building Requested
+      hint: Which facility or building do you need access to?
+      type: select_one
+      options:
+      - Main Office Building
+      - Laboratory Complex
+      - Library
+      - Conference Center
+      - Warehouse
+      - Data Center
+      - Gymnasium
+      - Dormitory
+      - Other
+      required: true
+    - id: 12
+      name: specific_rooms_areas
+      label: Specific Rooms or Areas
+      hint: Which specific rooms or areas within the facility do you need access to?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: access_reason_section
+      label: Reason for Access Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_after_hours_access
+      label: Reason for After-Hours Access
+      hint: Why do you need access outside regular hours?
+      type: select_one
+      options:
+      - Emergency situation
+      - Urgent project deadline
+      - Special event preparation
+      - Maintenance work
+      - Research requirements
+      - Client meeting
+      - Personal convenience
+      - Other
+      required: true
+    - id: 15
+      name: detailed_access_purpose
+      label: Detailed Purpose of Access
+      hint: Provide a detailed explanation of why you need after-hours access
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: How many people will be accessing the facility?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: safety_security_section
+      label: Safety and Security Considerations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: safety_officer_notification
+      label: Safety Officer Notification
+      hint: Does your activity require notification of the safety officer?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: security_assessment_required
+      label: Security Assessment Required
+      hint: Does your activity require a security assessment?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: Provide contact information for emergency contacts during your access
+        period
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Are there any potential risks associated with your after-hours access?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: risk_details
+      label: Details of Potential Risks
+      hint: If yes, please describe the potential risks and mitigation measures
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: equipment_materials_section
+      label: Equipment and Materials
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: equipment_bringing
+      label: Equipment to Bring In
+      hint: What equipment or materials will you bring into the facility?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: equipment_removing
+      label: Equipment to Remove
+      hint: Will you be removing any equipment or materials from the facility?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: equipment_details
+      label: Details of Equipment to Remove
+      hint: If yes, please describe the equipment or materials to be removed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: approval_authorization_section
+      label: Approval and Authorization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: supervisor_approval_required
+      label: Supervisor Approval Required
+      hint: Does this request require supervisor approval?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your supervisor (if approval required)
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Email address of your supervisor (if approval required)
+      type: email
+      options: []
+      required: false
+    - id: 31
+      name: authorization_agreement
+      label: Authorization Agreement
+      hint: I agree to follow all facility rules and safety protocols during after-hours
+        access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: liability_acknowledgment
+      label: Liability Acknowledgment
+      hint: I acknowledge that I am responsible for any damages or incidents during
+        my after-hours access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: signature
+      label: Electronic Signature
+      hint: Sign to submit your access request
+      type: text
+      options: []
+      required: true

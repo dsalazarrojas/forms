@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Expense Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant name
+      hint: Name of person submitting expenses
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For reimbursement communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: expense_date
+      label: Expense date
+      hint: Date the expense was incurred
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: expense_type
+      label: Expense type
+      hint: Travel, meals, lodging, or other
+      type: select_one
+      options:
+      - Travel
+      - Meals
+      - Lodging
+      - Materials
+      - Other
+      required: true
+    - id: 5
+      name: amount
+      label: Amount claimed
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: receipt_reference
+      label: Receipt reference
+      hint: Upload name or reference number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_code
+      label: Project code or account
+      hint: Budget code for billing
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_details
+      label: Travel details
+      hint: Flight or mileage details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval status
+      hint: For finance team use
+      type: select_one
+      options:
+      - Submitted
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any notes related to the claim
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awards Nominations Event Registration Form
+    pages:
+    - id: 1
+      name: section_primary_registration
+      label: -- Primary Attendee Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name of Primary Attendee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: For event ticket and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Best contact for event updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_type
+      label: Registration Type
+      hint: Choose the appropriate ticket type
+      type: select_one
+      options:
+      - Individual Ticket
+      - Group/Team Table (8 Persons)
+      - VIP Corporate Table (10 Persons)
+      - Student/Non-Profit Rate
+      required: true
+    - id: 7
+      name: section_guests_dietary
+      label: -- Guests and Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guest_count
+      label: Number of Additional Guests
+      hint: If registering for more than one person
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: guest_names_list
+      label: Additional Guest Names
+      hint: Separate names by a comma
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions_event
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      required: true
+    - id: 11
+      name: meal_preference_event
+      label: Primary Meal Preference
+      hint: Choose the main course for the primary attendee
+      type: select_one
+      options:
+      - Roast Beef with Red Wine Jus
+      - Roasted Chicken Breast with Herbs
+      - Pan-Seared Salmon with Lemon
+      - Mediterranean Grilled Vegetable Risotto
+      required: true
+    - id: 12
+      name: seating_preference
+      label: Preferred Seating Location
+      hint: Select a general area
+      type: select_one
+      options:
+      - Front Row/Near Stage
+      - Center/Main Hall
+      - Back/Quiet Area
+      - Any/No Preference
+      required: true
+    - id: 13
+      name: special_assistance
+      label: Special Assistance Needed?
+      hint: Briefly describe any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_payment_terms
+      label: -- Payment and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_method_event
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card (Online)
+      - PayPal Account
+      - Request Invoice/PO
+      required: true
+    - id: 16
+      name: discount_code
+      label: Discount or Promo Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_total_amount
+      label: Total Amount Due
+      hint: Calculated based on registration type and guests
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: event_terms_agreement
+      label: I agree to the Event Terms and Cancellation Policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: attendee_signature
+      label: Attendee Digital Signature
+      hint: Type full name as a digital signature
+      type: text
+      options: []
+      required: true

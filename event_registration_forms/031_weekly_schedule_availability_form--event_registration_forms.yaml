@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Schedule Availability Form
+    pages:
+    - id: 1
+      name: week_days
+      label: week_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: available_time
+      label: available_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: timezone
+      label: timezone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CST
+      - PST
+      - MST
+      - CST
+      - PST
+      - EST
+      - MST
+      required: false
+    - id: 6
+      name: timezone_offset
+      label: timezone_offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timezone_name
+      label: timezone_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: timezone_offset_hours
+      label: timezone_offset_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: timezone_offset_minutes
+      label: timezone_offset_minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: timezone_dst
+      label: timezone_dst
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - DST
+      - Standard Time
+      required: false
+    - id: 11
+      name: timezone_name
+      label: timezone_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: timezone_offset
+      label: timezone_offset_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: timezone_tz
+      label: timezone_tz
+      hint: null
+      type: select_one
+      options:
+      - America/New_York
+      - America/Los_Angeles
+      - Asia/Tokyo
+      required: false
+    - id: 14
+      name: timezone_offset_minutes_2
+      label: timezone_offset_minutes_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_timezone
+      label: event_timezone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - PST
+      - CST
+      - MST
+      - MST
+      - PST
+      - EST
+      - CST
+      required: false
+    - id: 21
+      name: event_timezone_offset
+      label: event_timezone_offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: event_timezone_name
+      label: event_timezone_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_timezone_offset_hours
+      label: event_timezone_offset_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: event_timezone_offset_minutes
+      label: event_timezone_offset_minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: event_timezone_dst
+      label: event_timezone_dst
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - DST
+      - Standard Time
+      required: false

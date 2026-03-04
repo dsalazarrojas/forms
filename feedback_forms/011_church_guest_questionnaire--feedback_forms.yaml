@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Guest Questionnaire
+    pages:
+    - id: 1
+      name: guest_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: So we can stay in touch
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: first_visit_date
+      label: When Was Your First Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: visit_count
+      label: How Many Times Have You Visited
+      hint: Including today
+      type: select_one
+      options:
+      - This is my first time
+      - 2-3 times
+      - 4-5 times
+      - More than 5 times
+      required: true
+    - id: 8
+      name: how_heard
+      label: How Did You Hear About Our Church
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friend or family member
+      - Church website
+      - Social media
+      - Online search
+      - Drive by location
+      - Church sign
+      - Community event
+      - Pastor referral
+      - Other
+      required: true
+    - id: 9
+      name: music_rating
+      label: How Would You Rate the Music
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: teaching_rating
+      label: How Would You Rate the Teaching
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: atmosphere_rating
+      label: How Would You Rate the Atmosphere
+      hint: Friendliness and welcome
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: facilities_rating
+      label: How Would You Rate Our Facilities
+      hint: Cleanliness and comfort
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: best_part
+      label: What Did You Like Best
+      hint: Share your highlights
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: suggestions
+      label: Do You Have Any Suggestions
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: return_visit
+      label: Do You Plan to Return
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 16
+      name: interested_in
+      label: What Are You Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Membership classes
+      - Bible study groups
+      - Youth programs
+      - Volunteer opportunities
+      - Small groups
+      - Prayer ministry
+      - Community service
+      - Nothing specific
+      required: false
+    - id: 17
+      name: prayer_request
+      label: Do You Have a Prayer Request
+      hint: Share if you would like
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: connect_card
+      label: Would You Like to Receive Information
+      hint: About church activities and events
+      type: select_one
+      options:
+      - Yes, please send me information
+      - No, thank you
+      required: true

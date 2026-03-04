@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_personnel_evaluation_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: select_multiple
+      options:
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Server
+      - Barista
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: true

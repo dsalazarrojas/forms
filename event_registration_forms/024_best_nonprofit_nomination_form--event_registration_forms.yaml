@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Nonprofit Nomination Form
+    pages:
+    - id: 1
+      name: nominator_profile_header
+      label: -- Nominator Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_organization
+      label: Your Organization or Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominator_email_addr
+      label: Your Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: nonprofit_nominee_header
+      label: -- Nonprofit Nominee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nonprofit_name_text
+      label: Nonprofit Name
+      hint: The official name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nonprofit_website_url
+      label: Nonprofit Website
+      hint: URL for organization information
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nonprofit_mission_statement
+      label: Mission Statement
+      hint: Briefly describe the organization's core purpose
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nonprofit_sector_choice
+      label: Primary Sector
+      hint: What is the main focus of the organization
+      type: select_one
+      options:
+      - Education and Literacy
+      - Healthcare and Wellness
+      - Environmental Protection
+      - Social Services and Welfare
+      - Arts and Culture
+      - Animal Welfare
+      - Community Development
+      - Other
+      required: true
+    - id: 10
+      name: year_nonprofit_established
+      label: Year Established
+      hint: When was the organization founded
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_metrics_header
+      label: -- Performance Evaluation --
+      hint: Rate from 1 (Low) to 5 (High)
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: transparency_rating
+      label: Transparency and Accountability
+      hint: Openness about funding and results
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 13
+      name: program_effectiveness_rating
+      label: Effectiveness of Programs
+      hint: How well are they achieving their goals
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 14
+      name: community_impact_rating
+      label: Community Impact
+      hint: Extent of positive change in the community
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: volunteer_engagement_rating
+      label: Volunteer Engagement
+      hint: Quality of volunteer participation and support
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 16
+      name: impact_narrative_header
+      label: -- Impact and Case Study --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: recent_achievement_desc
+      label: Describe a specific project or achievement from the last year
+      hint: Provide details on a major milestone
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: change_impact_narrative
+      label: How has this nonprofit changed lives or the community
+      hint: Share a brief story or impact statement
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: award_justification_text
+      label: Why should this nonprofit win the Best Nonprofit Award
+      hint: Summarize your nomination
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: final_submission_header
+      label: -- Verification and Finalize --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: nonprofit_reference_contact
+      label: Professional Reference
+      hint: Name and email of someone familiar with the nonprofit's work
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: nomination_submission_timestamp
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

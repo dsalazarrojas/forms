@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Township Ride Registration Form
+    pages:
+    - id: 1
+      name: event_registration
+      label: Event Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ride'', ''value'': ''Ride''}'
+      - '{''id'': 2, ''name'': ''Event'', ''value'': ''Event''}'
+      - '{''id'': 3, ''name'': ''Tour'', ''value'': ''Tour''}'
+      required: false
+    - id: 6
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: capacity
+      label: Capacity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 20, ''value'': 20}'
+      - '{''id'': 2, ''name'': 50, ''value'': 50}'
+      - '{''id'': 3, ''name'': 100, ''value'': 100}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

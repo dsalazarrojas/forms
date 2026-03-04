@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Site Booking Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_booking_period
+      label: -- Booking Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_nights
+      label: Total Number of Nights
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_camping_type
+      label: -- Camping Type Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: camping_style
+      label: Camping Style
+      hint: null
+      type: select_one
+      options:
+      - Tent Camping
+      - RV Camping
+      - Cabin Rental
+      - Glamping
+      - Car Camping
+      required: true
+    - id: 12
+      name: site_category
+      label: Site Category
+      hint: null
+      type: select_one
+      options:
+      - Standard Site
+      - Premium Site
+      - Waterfront Site
+      - Secluded Site
+      - Accessible Site
+      required: true
+    - id: 13
+      name: hookup_requirements
+      label: Hookup Requirements for RV
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Water
+      - Sewage
+      - Cable TV
+      - WiFi
+      - None
+      required: false
+    - id: 14
+      name: section_guest_details
+      label: -- Guest Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: adults_count
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: children_count
+      label: Number of Children (5-17)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: toddlers_count
+      label: Number of Toddlers (under 5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_special_requests
+      label: -- Special Requests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_location
+      label: Preferred Location or View
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: select_one
+      options:
+      - No special needs
+      - Wheelchair accessible
+      - Mobility assistance
+      - Other
+      required: false
+    - id: 21
+      name: pet_information
+      label: Bringing Pets
+      hint: null
+      type: select_one
+      options:
+      - No pets
+      - 1 pet
+      - 2 pets
+      - 3+ pets
+      required: true
+    - id: 22
+      name: section_amenities
+      label: -- Desired Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: amenities_list
+      label: Amenities Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Pit
+      - Picnic Table
+      - BBQ Grill
+      - Campfire Ring
+      - Bathroom Facilities
+      - Laundry
+      - Store
+      required: false
+    - id: 24
+      name: additional_requests
+      label: Additional Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_preference
+      label: How to Receive Booking Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - Email and Phone
+      required: true

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Friendly Lifestyle Campaign Consent Form
+    pages:
+    - id: 1
+      name: event_registration
+      label: Event Registration
+      hint: null
+      type: select_one
+      options:
+      - Event Registration
+      - Other
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_interest
+      label: Participant Interest
+      hint: null
+      type: select_one
+      options:
+      - Eco-Friendly
+      - Lifestyle
+      - Community
+      - Sustainability
+      required: false
+    - id: 9
+      name: participant_consent
+      label: Consent
+      hint: Participant Consent
+      type: select_multiple
+      options:
+      - I agree
+      - I disagree
+      - Decline to answer
+      required: false
+    - id: 10
+      name: participant_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_feedback_and_personality_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_description
+      label: What do you think about this photo?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: personality_scale
+      label: Which personality trait?
+      hint: Select one option
+      type: select_one
+      options:
+      - '{1: ''Agreeable''}'
+      - '{2: ''Conscientious''}'
+      - '{3: ''Neurotic''}'
+      required: false
+    - id: 4
+      name: emotion
+      label: How does this photo make you feel?
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Bored
+      - Confused
+      required: false
+    - id: 5
+      name: image_reactions
+      label: What do you react to this photo?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: demographics
+      label: About you
+      hint: Your personal details
+      type: select_multiple
+      options:
+      - '{1: ''Male''}'
+      - '{2: ''Female''}'
+      - '{3: ''Other''}'
+      required: false
+    - id: 7
+      name: age
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_details
+      label: Do you want to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_rating
+      label: How good is this survey?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreeable_likertscale
+      label: Agreeableness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: conscientious_likertscale
+      label: Conscientiousness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: neurotic_likertscale
+      label: Neuroticism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: extraversion_likertscale
+      label: Extraversion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: openness_likertscale
+      label: Openness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: agreeableness_likertscale
+      label: Agreeableness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: conscientiousness_likertscale
+      label: Conscientiousness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: neuroticism_likertscale
+      label: Neuroticism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: extraversion_likertscale
+      label: Extraversion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: openess_likertscale
+      label: Openess
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: survey_rating_likertscale
+      label: How good is this survey?
+      hint: null
+      type: number
+      options: []
+      required: true

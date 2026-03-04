@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nerf Event Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_details_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_details_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_details_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_waivers
+      label: Waivers
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the prophets of safety
+      - No waivers required
+      - Other waivers
+      - No waivers
+      required: false
+    - id: 6
+      name: equipment_needs
+      label: Equipment Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Nerf Guns
+      - Blasters
+      - Nerf Blasters
+      - No Equipment Needed
+      required: false
+    - id: 7
+      name: prophets_of_safety
+      label: Prophets of Safety
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the prophets of safety
+      - I have read but not understood the prophets of safety
+      - I have not read the prophets of safety
+      required: false

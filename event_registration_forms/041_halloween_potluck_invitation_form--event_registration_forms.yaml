@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Potluck Invitation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''label'': True}'
+      - '{''name'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: rsvp_others
+      label: If Yes, how many are coming?
+      hint: null
+      type: number
+      options: []
+      required: false

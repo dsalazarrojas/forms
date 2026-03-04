@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Business Review Request
+    pages:
+    - id: 1
+      name: shop_name
+      label: shop name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      required: true
+    - id: 4
+      name: testimonial
+      label: testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shop_id
+      label: shop id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - feedback_forms
+      - Other
+      required: true
+    - id: 13
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_description
+      label: form description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_category
+      label: form category
+      hint: null
+      type: select_one
+      options:
+      - feedback_forms
+      - Other
+      required: true
+    - id: 17
+      name: form_assigned_tool
+      label: form assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 18
+      name: form_output_file
+      label: form output file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_form_id
+      label: form form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_form_title
+      label: form form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_description
+      label: form form description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_category
+      label: form category
+      hint: null
+      type: select_one
+      options:
+      - feedback_forms
+      - Other
+      required: true
+    - id: 23
+      name: form_output_file
+      label: form output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_assigned_tool
+      label: form assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 25
+      name: form_form_title
+      label: form form title
+      hint: null
+      type: text
+      options: []
+      required: false

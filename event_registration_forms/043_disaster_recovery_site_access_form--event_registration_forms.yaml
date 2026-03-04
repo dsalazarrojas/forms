@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Site Access Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_date
+      label: Access Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_time
+      label: Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorized_personnel
+      label: Authorized Personnel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Bob Smith''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

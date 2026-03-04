@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: primary_stage_letter_recognition_quiz
+    pages:
+    - id: 1
+      name: primary_stage_letter_recognition_quiz_form
+      label: Primary Stage Letter Recognition Quiz Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_age
+      label: Teacher's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_age
+      label: Student's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_gender
+      label: Student Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: student_confidence_level
+      label: Student Confidence Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: teacher_experience
+      label: Teacher's Experience
+      hint: null
+      type: select_one
+      options:
+      - Years 1-2
+      - Years 3-5
+      - Years 6-10
+      - 10+
+      required: false
+    - id: 9
+      name: student_grade
+      label: Student's Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      - High School
+      - College
+      required: false
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

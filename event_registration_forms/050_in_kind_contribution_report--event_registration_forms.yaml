@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: in_kind_contribution_report
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: in_kind_contribution_description
+      label: In-Kind Contribution Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: non_cash_donations
+      label: Non-Cash Donations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: non_cash_value
+      label: Non-Cash Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event Type 1
+      - Event Type 2
+      - Event Type 3
+      required: false
+    - id: 7
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_multiple
+      options:
+      - Event Status 1
+      - Event Status 2
+      - Event Status 3
+      required: true
+    - id: 8
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false

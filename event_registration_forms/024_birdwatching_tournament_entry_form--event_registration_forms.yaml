@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birdwatching Tournament Entry Form
+    pages:
+    - id: 1
+      name: section_tournament_info
+      label: -- Tournament Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tournament_name
+      label: Tournament Name
+      hint: Which tournament are you entering
+      type: select_one
+      options:
+      - Spring Bird Championship
+      - Summer Migration Count
+      - Fall Species Challenge
+      - Winter Hawk Watch
+      - Annual Community Count
+      required: true
+    - id: 3
+      name: tournament_date
+      label: Tournament Date
+      hint: When is the tournament
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_entry_type
+      label: -- Entry Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: entry_type
+      label: Entry Type
+      hint: Solo or team entry
+      type: select_one
+      options:
+      - Individual
+      - Team
+      required: true
+    - id: 7
+      name: section_primary_info
+      label: -- Primary Entrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: primary_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: primary_experience
+      label: Birdwatching Experience Level
+      hint: Your skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: section_team_info
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: team_name
+      label: Team Name
+      hint: Name for your team
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_size
+      label: Number of Team Members
+      hint: Total count including yourself
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: member2_name
+      label: Team Member 2 - Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: member2_email
+      label: Team Member 2 - Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: member3_name
+      label: Team Member 3 - Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: member3_email
+      label: Team Member 3 - Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: member4_name
+      label: Team Member 4 - Name
+      hint: Full name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_participation
+      label: -- Tournament Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participation_category
+      label: Participation Category
+      hint: Select your category
+      type: select_one
+      options:
+      - Local Area Count
+      - Regional Count
+      - Statewide Competition
+      - National Competition
+      - Virtual Participation
+      required: true
+    - id: 23
+      name: count_location
+      label: Counting Location or Area
+      hint: Where will you be observing
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: habitat_type
+      label: Primary Habitat Type
+      hint: Where you will count
+      type: select_multiple
+      options:
+      - Forest
+      - Wetlands
+      - Grasslands
+      - Coastal Areas
+      - Parks and Gardens
+      - Urban Areas
+      - Mixed Habitats
+      required: true
+    - id: 25
+      name: equipment_available
+      label: Equipment Available for Tournament
+      hint: What observation gear do you have
+      type: select_multiple
+      options:
+      - Binoculars
+      - Spotting Scope
+      - Field Guide
+      - Camera or Telephoto Lens
+      - Recording Device
+      - GPS Unit
+      required: true
+    - id: 26
+      name: section_experience
+      label: -- Previous Tournament Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: tournament_experience
+      label: Previous Tournament Participation
+      hint: Have you participated before
+      type: select_one
+      options:
+      - First Time
+      - Participated Once
+      - Participated 2-5 Times
+      - Regular Participant
+      - Tournament Winner
+      required: true
+    - id: 28
+      name: best_result
+      label: Best Previous Result
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: goals
+      label: Goals for This Tournament
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_rules
+      label: -- Rules and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: rules_acknowledge
+      label: I have read and understand the tournament rules
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 32
+      name: ethics_commit
+      label: I commit to ethical birdwatching practices
+      hint: Promise to follow ethics code
+      type: select_one
+      options:
+      - I Commit
+      - I Do Not Commit
+      required: true
+    - id: 33
+      name: fair_play
+      label: I will participate fairly and honestly
+      hint: Promise fair play
+      type: select_one
+      options:
+      - I Promise
+      - I Do Not Promise
+      required: true
+    - id: 34
+      name: section_fees
+      label: -- Registration and Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: registration_fee_amount
+      label: Registration Fee Amount
+      hint: Fee for your entry
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Online Payment
+      - Check
+      - Cash at Event
+      - Bank Transfer
+      required: true
+    - id: 37
+      name: additional_notes
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

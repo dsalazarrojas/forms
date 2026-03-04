@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stadium Visitor Check Out Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - Event1
+      - Event2
+      - Event3
+      - Event4
+      - Event5
+      required: false
+    - id: 9
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: select_one
+      options:
+      - Venue1
+      - Venue2
+      - Venue3
+      - Venue4
+      - Venue5
+      required: false
+    - id: 10
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

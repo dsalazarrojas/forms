@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibit Promotion Release Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exhibit_name
+      label: Exhibit name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exhibitor_name
+      label: Exhibitor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exhibitor_email
+      label: Exhibitor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: exhibitor_phone
+      label: Exhibitor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: promotional_channels
+      label: Promotional channels
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: other_channels
+      label: Other promotional channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_comments
+      label: Form comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: exhibition_team
+      label: Exhibition team
+      hint: Name and role of team members
+      type: text
+      options: []
+      required: false

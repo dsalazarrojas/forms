@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_development_attendance_form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendees_list
+      label: list_of_attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attended
+      label: attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attended_date
+      label: attended_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: attended_time
+      label: attended_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: attended_session_date
+      label: attended_session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: attended_session_time
+      label: attended_session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: session_id
+      label: session_id
+      hint: null
+      type: text
+      options: []
+      required: false

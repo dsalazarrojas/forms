@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Referee Examination Form
+    pages:
+    - id: 1
+      name: football_referee_examination_form_questions
+      label: football referee examination form questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decision_making_skills
+      label: decision making skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: game_knowledge
+      label: game knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: football_referee_examination_form_answers
+      label: football referee examination form answers
+      hint: null
+      type: select_multiple
+      options:
+      - answer1
+      - answer2
+      - answer3
+      required: true
+    - id: 5
+      name: referee_training_hours
+      label: referee training hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: referee_experience_years
+      label: referee experience years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: referees_certificates
+      label: referees certificates
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: referees_license_numbers
+      label: referees license numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referees_address
+      label: referees address
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Physical Exam Form
+    pages:
+    - id: 1
+      name: exam_header
+      label: -- Physical Exam --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: height_cm
+      label: Height in centimeters
+      hint: Measured height
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: weight_kg
+      label: Weight in kilograms
+      hint: Measured weight
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: blood_pressure
+      label: Blood pressure reading
+      hint: Systolic over diastolic
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: heart_rate
+      label: Resting heart rate bpm
+      hint: Beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: respiratory_rate
+      label: Respiratory rate breaths per minute
+      hint: If relevant
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: general_exam_findings
+      label: General exam findings
+      hint: Notes from clinician
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_follow_up
+      label: Recommended follow up actions
+      hint: Tests, referrals, or treatments recommended
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: examiner_name
+      label: Examiner name
+      hint: Clinician performing exam
+      type: text
+      options: []
+      required: true

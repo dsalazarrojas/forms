@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: rankings_submission_form
+    pages:
+    - id: 1
+      name: rankings_submission
+      label: Rankings Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_ratings
+      label: User Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: scores
+      label: Scores
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ordered_list
+      label: Ordered List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ordered_list_item
+      label: Ordered List Item
+      hint: null
+      type: text
+      options: []
+      required: false

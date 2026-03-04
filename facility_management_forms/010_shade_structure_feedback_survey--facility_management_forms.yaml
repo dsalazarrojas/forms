@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shade Structure Feedback Survey
+    pages:
+    - id: 1
+      name: shade_structure_feedback_survey
+      label: shade-structure-feedback-survey
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 2
+      name: shade_canopy_rating
+      label: shade-canopy-rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: covered_area_feedback
+      label: covered-area-feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comfort_rating
+      label: comfort-rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_planning
+      label: maintenance-planning
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shade_canopy_photo
+      label: shade-canopy-photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: covered_area_photo
+      label: covered-area-photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shade_structure_photo
+      label: shade-structure-photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shade_structure_plan_photo
+      label: shade-structure-plan-photo
+      hint: null
+      type: text
+      options: []
+      required: false

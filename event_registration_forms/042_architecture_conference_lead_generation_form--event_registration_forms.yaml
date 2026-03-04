@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architecture Conference Lead Generation Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Freelancer
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 200+ employees
+      required: true
+    - id: 10
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Architecture firm
+      - Design studio
+      - Engineering firm
+      - Construction company
+      - Developer
+      - Supplier
+      - Media or publication
+      - Other
+      required: true
+    - id: 11
+      name: specialization
+      label: Specialization or Services
+      hint: What do you focus on?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_interests
+      label: -- Conference Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: conference_interests
+      label: Topics of Interest
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Sustainable design
+      - Technology trends
+      - Urban planning
+      - Commercial projects
+      - Residential projects
+      - Interior design
+      - Professional development
+      - Networking
+      required: true
+    - id: 14
+      name: reasons_attending
+      label: Why are you attending this conference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_engagement
+      label: -- Engagement Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: first_conference
+      label: Is this your first conference?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: past_attendance
+      label: How many conferences attended in past year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: interest_in_partnerships
+      label: Interested in partnerships or collaborations?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 19
+      name: willing_to_be_contacted
+      label: Willing to be contacted about opportunities?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - LinkedIn
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: kids-monopoly-game-registration
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: kid_info
+      label: Kid Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_sessions
+      label: Event Sessions
+      hint: null
+      type: select_one
+      options:
+      - Monopoly Event 1
+      - Monopoly Event 2
+      - Monopoly Event 3
+      required: true
+    - id: 4
+      name: guardian_questions
+      label: Guardian Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Do you give permission for your child to participate in the Monopoly game?
+      - How do you plan to transport your child to and from the game session?
+      - Are there any medical conditions we should be aware of?
+      required: true
+    - id: 5
+      name: kid_consent
+      label: Kid Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent for my child to participate in the Monopoly game
+      - I do not consent for my child to participate in the Monopoly game
+      required: true
+    - id: 6
+      name: preferred_sessions
+      label: Preferred Game Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Monopoly Event 1'', ''label'': ''Monopoly Event 1'',
+        ''type'': ''date''}'
+      - '{''id'': 2, ''name'': ''Monopoly Event 2'', ''label'': ''Monopoly Event 2'',
+        ''type'': ''date''}'
+      - '{''id'': 3, ''name'': ''Monopoly Event 3'', ''label'': ''Monopoly Event 3'',
+        ''type'': ''date''}'
+      required: false
+    - id: 7
+      name: guardian_contact
+      label: Guardian Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kid_contact
+      label: Kid Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: kid_date
+      label: Kid Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: kid_time
+      label: Kid Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: guardian_note
+      label: Guardian Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: kid_note
+      label: Kid Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_questions
+      label: Event Questions
+      hint: null
+      type: select_multiple
+      options:
+      - How do you know about this event?
+      - Have you participated in other events at this location?
+      required: false
+    - id: 20
+      name: event_comments
+      label: Event Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guardian_comments
+      label: Guardian Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: kid_comments
+      label: Kid Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: kid_relationship
+      label: Kid Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

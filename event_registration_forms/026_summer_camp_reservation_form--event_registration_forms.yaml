@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Reservation Form
+    pages:
+    - id: 1
+      name: summer_camp_reservation_form
+      label: Summer Camp Reservation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_child
+      label: Name of Child
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_of_child
+      label: Age of Child
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_diet
+      label: Preferred Diet
+      hint: Please select one of the following
+      type: select_one
+      options:
+      - Standard
+      - Gluten Free
+      - Vegetarian
+      required: false
+    - id: 8
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: preferred_schedule_option
+      label: None
+      hint: Select one of the following options
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 10
+      name: preferred_schedule_option
+      label: Select one of the following options
+      hint: null
+      type: select_multiple
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

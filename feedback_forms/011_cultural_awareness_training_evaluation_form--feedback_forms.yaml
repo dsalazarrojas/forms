@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural-awareness-training-evaluation-form
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Cultural Awareness Training
+      - Other
+      required: false
+    - id: 6
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Program Evaluation
+      - Session Evaluation
+      - Feedback
+      required: false
+    - id: 7
+      name: instructional_methods
+      label: Instructional Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_evaluation
+      label: Instructor Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_ethnicity
+      label: Participant Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black or African American
+      - Native American
+      - White
+      - Hispanic or Latino
+      required: false
+    - id: 11
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 12
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: country_of_residence
+      label: Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_training_evaluation
+      label: Previous Training Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Not Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 15
+      name: previous_training_evaluation_reason
+      label: Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of engagement
+      - Insufficient information
+      - Other
+      required: false
+    - id: 16
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 17
+      name: training_evaluation
+      label: Training Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: training_evaluation_reason
+      label: Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Sufficiently met the training objectives
+      - Did not sufficiently met the training objectives
+      - Other
+      required: false
+    - id: 19
+      name: areas_to_improve
+      label: Areas to Improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instructional_effectiveness
+      label: Instructional Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: instructional_effectiveness_reason
+      label: Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Engaging and interesting
+      - Well-structured and logical
+      - Other
+      required: false
+    - id: 22
+      name: enjoyment
+      label: Enjoyment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: enjoyment_reason
+      label: Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Relevant and practical
+      - Enjoyable and interesting
+      - Other
+      required: false
+    - id: 24
+      name: liking
+      label: Liking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: liking_reason
+      label: Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Well-organized and well-structured
+      - Clearly and concisely presented
+      - Other
+      required: false

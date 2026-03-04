@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Flight Experience Inquiry Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: origin_city
+      label: Departure City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: destination_city
+      label: Arrival City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cabin_class
+      label: Cabin Class
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Premium Economy
+      - Business
+      - First Class
+      required: true
+    - id: 8
+      name: section_experience
+      label: -- Your Experience --
+      hint: Please rate the following aspects
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: check_in_satisfaction
+      label: Check-in and Boarding Satisfaction
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cabin_cleanliness
+      label: Cabin Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: seat_comfort
+      label: Seat Comfort
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: staff_professionalism
+      label: Staff Professionalism and Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: meal_quality
+      label: Food and Beverage Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: entertainment_options
+      label: In-flight Entertainment Options
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: overall_rating
+      label: Overall Flight Experience Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommend_airline
+      label: Would you recommend our airline?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Observation Form
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_areas
+      label: Performance Areas
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_feedback
+      label: Supervisor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_steps
+      label: Action Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observation_comments
+      label: Observation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Average
+      - Poor
+      required: true
+    - id: 9
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: observation_form_submitted
+      label: Observation Form Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: employee_feedback_comments
+      label: Employee Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_position
+      label: Supervisor Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_signature_date
+      label: Supervisor Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: observation_form_completed
+      label: Observation Form Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_acknowledgement
+      label: Supervisor Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false

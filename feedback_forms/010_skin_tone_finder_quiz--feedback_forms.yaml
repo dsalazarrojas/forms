@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: skin_tone_finder_quiz
+    pages:
+    - id: 1
+      name: skin_tone_finder_quiz_page_1
+      label: Skin Tone Finder Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_skin_tone
+      label: Select Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Dark
+      required: false
+    - id: 3
+      name: select_undertone
+      label: Select Undertone
+      hint: null
+      type: select_one
+      options:
+      - Cool
+      - Warm
+      - Cool
+      - Neutral
+      required: false
+    - id: 4
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Porcelain
+      - Olive
+      - Golden
+      - Light
+      - Medium
+      - Dark
+      required: false
+    - id: 5
+      name: select_beauty_type
+      label: Select Beauty Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Porcelain
+      - Olive
+      - Golden
+      required: false
+    - id: 6
+      name: select_accurate_recommendation
+      label: Select Accurate Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Porcelain
+      - Olive
+      - Golden
+      required: false
+    - id: 7
+      name: select_product_type
+      label: Select Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Porcelain
+      - Olive
+      - Golden
+      required: false
+    - id: 8
+      name: results_summary
+      label: Results Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: select_quiz_completed
+      label: Select Quiz Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

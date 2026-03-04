@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Space Usage Application Form
+    pages:
+    - id: 1
+      name: event_type
+      label: What type of event
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Workshop
+      - Meeting
+      - Other
+      required: false
+    - id: 2
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: policy_implementation_feedback_form
+    pages:
+    - id: 1
+      name: policy_implementation_feedback
+      label: policy_implementation_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Select One Category
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

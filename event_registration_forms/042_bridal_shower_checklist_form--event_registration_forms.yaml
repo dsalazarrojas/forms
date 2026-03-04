@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Shower Checklist Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bride_name
+      label: Bride Name
+      hint: Name of bride being celebrated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shower_date
+      label: Bridal Shower Date
+      hint: Date of the shower
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shower_time
+      label: Shower Start Time
+      hint: What time does it start
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: Where will the shower be held
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expected_guest_count
+      label: Expected Guest Count
+      hint: Approximate number of guests
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: budget_available
+      label: Total Budget Available
+      hint: Your budget for the event
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shower_theme
+      label: Shower Theme
+      hint: Theme or style of shower
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: -- Venue and Logistics --
+      label: -- Venue and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: venue_reserved
+      label: Venue Reserved
+      hint: Is venue confirmed
+      type: select_one
+      options:
+      - Yes, confirmed
+      - Pending confirmation
+      - Still looking
+      - TBD
+      required: true
+    - id: 13
+      name: catering_arranged
+      label: Catering or Food Arranged
+      hint: Food service status
+      type: select_one
+      options:
+      - Yes, arranged
+      - Pending
+      - Bringing home-made food
+      - Still planning
+      - TBD
+      required: true
+    - id: 14
+      name: beverages_planned
+      label: Beverages Planned
+      hint: Drinks and alcohol status
+      type: select_one
+      options:
+      - Yes, arranged
+      - Bringing own
+      - Still planning
+      - TBD
+      required: false
+    - id: 15
+      name: cake_desserts
+      label: Cake and Desserts Arranged
+      hint: Sweets status
+      type: select_one
+      options:
+      - Yes, ordered
+      - Making homemade
+      - Still planning
+      - Not doing cake
+      - TBD
+      required: false
+    - id: 16
+      name: decorations_planned
+      label: Decorations Planned
+      hint: Decor status
+      type: select_one
+      options:
+      - Yes, planned
+      - Gathering items
+      - Still planning
+      - Minimal decorations
+      - TBD
+      required: true
+    - id: 17
+      name: invitations_sent
+      label: Invitations Sent
+      hint: Invite status
+      type: select_one
+      options:
+      - Yes, all sent
+      - Some sent, some pending
+      - Still drafting
+      - Not yet started
+      - TBD
+      required: true
+    - id: 18
+      name: guest_list_compiled
+      label: Guest List Compiled
+      hint: Do you have final list
+      type: select_one
+      options:
+      - Yes, finalized
+      - Nearly complete
+      - Still gathering names
+      - Not started
+      required: true
+    - id: 19
+      name: -- Activities and Entertainment --
+      label: -- Activities and Entertainment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: games_planned
+      label: Games or Activities Planned
+      hint: Entertainment status
+      type: select_one
+      options:
+      - Yes, planned
+      - A few ideas
+      - Still planning
+      - No games planned
+      required: false
+    - id: 21
+      name: music_entertainment
+      label: Music or Entertainment Arranged
+      hint: Entertainment provider status
+      type: select_one
+      options:
+      - Yes, arranged
+      - Using playlist
+      - Still planning
+      - No entertainment
+      - TBD
+      required: false
+    - id: 22
+      name: -- Gifts and Registry --
+      label: -- Gifts and Registry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: registry_info_obtained
+      label: Registry Information Obtained
+      hint: Do you have registry details
+      type: select_one
+      options:
+      - Yes, collected
+      - Yes, but incomplete
+      - Still gathering
+      - Not needed
+      required: false
+    - id: 24
+      name: gift_table_setup
+      label: Gift Display Table Arranged
+      hint: Space for gifts prepared
+      type: select_one
+      options:
+      - Yes, arranged
+      - Will arrange day-of
+      - Not arranging
+      - TBD
+      required: false
+    - id: 25
+      name: gift_wrap_supplies
+      label: Gift Wrap and Supplies
+      hint: Wrapping materials status
+      type: select_one
+      options:
+      - Yes, purchased
+      - Have enough
+      - Still need to buy
+      - Not providing
+      required: false
+    - id: 26
+      name: -- Miscellaneous --
+      label: -- Miscellaneous Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: photography_arranged
+      label: Photography Arranged
+      hint: Photo coverage planned
+      type: select_one
+      options:
+      - Professional photographer
+      - Friend taking photos
+      - Guest photos only
+      - Not planning photos
+      required: false
+    - id: 28
+      name: thank_you_cards
+      label: Thank You Cards Prepared
+      hint: Gratitude cards status
+      type: select_one
+      options:
+      - Yes, ready
+      - Purchased, need to write
+      - Still planning
+      - Not doing cards
+      required: false
+    - id: 29
+      name: contingency_plan
+      label: Contingency Plan for Issues
+      hint: Backup plans in place
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: final_notes
+      label: Final Notes and Reminders
+      hint: Any other details to track
+      type: text
+      options: []
+      required: false

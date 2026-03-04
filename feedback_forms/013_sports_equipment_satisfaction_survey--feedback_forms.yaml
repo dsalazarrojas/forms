@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Equipment Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Sports Equipment Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: What type of equipment did you use?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Treadmill''}'
+      - '{''label'': ''Stationary Bike''}'
+      - '{''label'': ''Free Weights''}'
+      - '{''label'': ''Resistance Bands''}'
+      - '{''label'': ''Yoga Ball''}'
+      - '{''label'': ''Other (please specify)''}'
+      - '{''label'': ''Please select one''}'
+      required: false
+    - id: 3
+      name: equipment_quality
+      label: How would you rate the quality of the equipment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Very Poor''}'
+      required: false
+    - id: 4
+      name: durability
+      label: How would you rate the durability of the equipment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Very Poor''}'
+      required: false
+    - id: 5
+      name: recommend_equipment
+      label: Would you recommend using this equipment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Any additional comments?
+      hint: Enter any other comments or feedback here
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Your email address
+      hint: Enter your email address for feedback
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Your phone number
+      hint: Enter your phone number for follow up
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_last_used
+      label: Date last used the equipment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_used_equipment
+      label: Time used equipment last
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: hours_used
+      label: Hours used equipment last
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: equipment_name
+      label: Equipment name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_used_for
+      label: Equipment used for?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Physical Fitness''}'
+      - '{''label'': ''Yoga or Pilates''}'
+      - '{''label'': ''Strength Training''}'
+      - '{''label'': ''Stretching or Flexibility''}'
+      - '{''label'': ''Rehabilitation''}'
+      required: false

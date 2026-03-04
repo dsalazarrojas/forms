@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_league_fan_experience_survey
+    pages:
+    - id: 1
+      name: fan_satisfaction
+      label: How would you rate your overall fan satisfaction with the sports league?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Somewhat good
+      - Neutral
+      - Somewhat bad
+      - Very bad
+      required: false
+    - id: 2
+      name: engagement
+      label: How often do you attend sports events?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: fan_engagement_activities
+      label: What activities do you enjoy during sports events?
+      hint: null
+      type: select_multiple
+      options:
+      - Food and Beverage Sales
+      - Promotions and Giveaways
+      - Social Media Engagement
+      - Meet and Greet with Players
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: game_day_experiences
+      label: What experiences would you like to see on game day?
+      hint: null
+      type: select_multiple
+      options:
+      - Food and Beverage Sales
+      - Live Music or Performances
+      - Interactive Fan Activites
+      - Player Meet and Greet
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: communication_channels
+      label: What methods do you prefer for league communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Mobile App
+      - Text Messaging
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any additional feedback or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

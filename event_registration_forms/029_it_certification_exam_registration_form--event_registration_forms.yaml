@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_certification_exam_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: Payment date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: Payment time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: exam_date
+      label: Exam Date
+      hint: Select exam date
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - All days
+      required: false
+    - id: 10
+      name: exam_time
+      label: Exam Time
+      hint: Select exam time
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - All times
+      required: false
+    - id: 11
+      name: exam_dollars
+      label: Exam Fee (Dollars)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: exam_currency
+      label: Exam Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - All currencies
+      - Currencies
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not paid
+      - Partially paid
+      required: false
+    - id: 14
+      name: exam_status
+      label: Exam Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not completed
+      - Partially completed
+      required: false
+    - id: 15
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Advanced
+      - Expert
+      required: false
+    - id: 17
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_details
+      label: Payment details
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - All methods
+      required: false
+    - id: 22
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - AUD
+      - All currencies
+      required: false
+    - id: 23
+      name: exam_location
+      label: Exam Location
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - Offline
+      - All locations
+      required: false
+    - id: 24
+      name: exam_duration
+      label: Exam duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - All durations
+      required: false
+    - id: 25
+      name: exam_type
+      label: Exam type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - All types
+      required: false

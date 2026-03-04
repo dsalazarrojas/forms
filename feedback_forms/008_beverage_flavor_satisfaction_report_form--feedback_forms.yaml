@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Flavor Satisfaction Report Form
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up communications
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: location
+        label: Location or Store Name
+        hint: Where did you purchase or consume this beverage?
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: purchase_date
+        label: Date of Purchase or Consumption
+        hint: When did you try this beverage?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_product
+        label: -- Product Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: product_name
+        label: Product Name or Brand
+        hint: What beverage did you purchase?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: flavor_name
+        label: Flavor Name
+        hint: Specific flavor variety
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: container_size
+        label: Container Size
+        hint: What size package did you purchase?
+        type: select_one
+        options:
+          - Single serve (8-12 oz)
+          - Medium (16-20 oz)
+          - Large (32 oz)
+          - Extra large (64 oz)
+          - Multi-pack
+          - Bulk/Family size
+        required: true
+      - id: 10
+        name: purchase_location_type
+        label: Type of Purchase Location
+        hint: Where did you buy this?
+        type: select_one
+        options:
+          - Grocery store
+          - Convenience store
+          - Restaurant or cafe
+          - Online retailer
+          - Direct from producer
+          - Other
+        required: true
+      - id: 11
+        name: section_header_satisfaction
+        label: -- Flavor Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: overall_satisfaction
+        label: Overall Satisfaction with Flavor
+        hint: How satisfied are you with this flavor?
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 13
+        name: flavor_authenticity
+        label: How Authentic is the Flavor
+        hint: Does it taste like the real fruit or ingredient?
+        type: select_one
+        options:
+          - Very authentic
+          - Mostly authentic
+          - Somewhat authentic
+          - Not very authentic
+          - Not authentic at all
+        required: true
+      - id: 14
+        name: flavor_intensity
+        label: Flavor Intensity
+        hint: Is the flavor strong enough?
+        type: select_one
+        options:
+          - Much too strong
+          - Too strong
+          - Just right
+          - Too weak
+          - Much too weak
+        required: true
+      - id: 15
+        name: sweetness_level
+        label: Sweetness Level
+        hint: Is the sweetness appropriate?
+        type: select_one
+        options:
+          - Much too sweet
+          - Too sweet
+          - Just right
+          - Not sweet enough
+          - Not sweet at all
+        required: true
+      - id: 16
+        name: aftertaste
+        label: Aftertaste Quality
+        hint: How would you describe the aftertaste?
+        type: select_one
+        options:
+          - Excellent, no unpleasant aftertaste
+          - Good, mild aftertaste
+          - Neutral
+          - Unpleasant aftertaste
+          - Very unpleasant aftertaste
+        required: true
+      - id: 17
+        name: section_header_comparison
+        label: -- Comparison & Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: compared_to_competitors
+        label: Compared to Competitor Products
+        hint: How does this compare to similar products?
+        type: select_one
+        options:
+          - Much better
+          - Better
+          - About the same
+          - Worse
+          - Much worse
+        required: false
+      - id: 19
+        name: repurchase_intention
+        label: Would You Repurchase This Flavor
+        hint: null
+        type: select_one
+        options:
+          - Definitely would repurchase
+          - Probably would repurchase
+          - Unsure
+          - Probably would not repurchase
+          - Definitely would not repurchase
+        required: true
+      - id: 20
+        name: recommend_to_others
+        label: Would You Recommend to Others
+        hint: null
+        type: select_one
+        options:
+          - Definitely recommend
+          - Probably recommend
+          - Unsure
+          - Probably would not recommend
+          - Definitely would not recommend
+        required: true
+      - id: 21
+        name: section_header_improvements
+        label: -- Feedback for Improvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: flavor_improvements
+        label: What Would Improve This Flavor
+        hint: Suggestions for enhancement
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: price_fairness
+        label: Is the Price Fair for the Quality
+        hint: null
+        type: select_one
+        options:
+          - Very fair
+          - Fair
+          - Neutral
+          - Somewhat unfair
+          - Very unfair
+        required: true
+      - id: 24
+        name: likely_purchase_variants
+        label: Other Flavors You Would Try
+        hint: Any other flavors interest you?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or suggestions?
+        type: text
+        options: []
+        required: false

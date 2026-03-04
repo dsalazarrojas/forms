@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campground Reservation Form Template
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_reservation_dates
+      label: -- Reservation Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: check_out_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: number_of_nights
+      label: Number of Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_campsite_selection
+      label: -- Campsite Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: campsite_type
+      label: Campsite Type
+      hint: null
+      type: select_one
+      options:
+      - Full Hookup - RV
+      - Partial Hookup - RV
+      - Tent Site
+      - Cabin
+      - Glamping Tent
+      required: true
+    - id: 16
+      name: campsite_preference
+      label: Specific Campsite Number or Preference
+      hint: Leave blank for no preference
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_party_info
+      label: -- Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: number_of_adults
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: pets_bringing
+      label: Bringing Pets
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, one pet
+      - Yes, multiple pets
+      required: true
+    - id: 21
+      name: pet_type_details
+      label: Pet Type and Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: amenities_interested
+      label: Interested Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - WiFi
+      - Picnic Table
+      - Fire Pit
+      - Electric Hookup
+      - Water Hookup
+      - Sewage Hookup
+      - Laundry Facilities
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_required
+      label: How would you like to receive reservation confirmation
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: true

@@ -1,0 +1,67 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Check Out Form
+    pages:
+      - id: 1
+        name: volunteer_name
+        label: Volunteer name
+        hint: Full name for check out
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: check_in_time
+        label: Check in time
+        hint: Time volunteer started
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: check_out_time
+        label: Check out time
+        hint: Time volunteer finished
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: tasks_completed
+        label: Tasks completed
+        hint: Notes on activities performed
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: equipment_returned
+        label: Equipment returned
+        hint: Confirm all items returned
+        type: select_one
+        options:
+          - Yes all returned
+          - No items missing
+        required: true
+      - id: 6
+        name: incidents_reported
+        label: Incidents reported during shift
+        hint: Any safety or medical incidents
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: feedback
+        label: Volunteer feedback on event
+        hint: Suggestions for improvement
+        type: text
+        options: []
+        required: false

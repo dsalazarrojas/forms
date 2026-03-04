@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: surgical_ward_donation_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donation_details
+      label: Donation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: donation_duration
+      label: Donation Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac
+      - Pulmonary
+      - Neurological
+      - Gastrointestinal
+      - Renal
+      - Musculoskeletal
+      - Dermatological
+      - Immunologic
+      - Infectious
+      required: false
+    - id: 17
+      name: surgical_details
+      label: Surgical Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: acknowledgement
+      label: Acknowledge
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge that I have read and understand the terms and conditions of
+        this form.
+      - I understand that the information I provide will be kept confidential.
+      - I understand that I am providing this information voluntarily.
+      required: false
+    - id: 21
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Under Review
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 22
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Modernization Survey
+    pages:
+    - id: 1
+      name: facility_management_modernization_survey_page_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_management_modernization_initiatives_page_2
+      label: facility_management_modernization_initiatives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_management_challenges_page_3
+      label: facility_management_challenges
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''technology'', ''label'': ''Technology'', ''value'':
+        ''Technology''}'
+      - '{''id'': 2, ''name'': ''policy'', ''label'': ''Policy'', ''value'': ''Policy''}'
+      - '{''id'': 3, ''name'': ''people'', ''label'': ''People'', ''value'': ''People''}'
+      required: true
+    - id: 4
+      name: facility_management_roadmap_page_4
+      label: facility_management_roadmap
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_management_feedback_page_5
+      label: facility_management_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_management_survey_form_comments_page_6
+      label: facility_management_survey_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: facility_management_modernization_priorities_page_7
+      label: facility_management_modernization_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''low'', ''label'': ''Low'', ''value'': ''Low''}'
+      required: true
+    - id: 8
+      name: facility_management_modernization_budget_page_8
+      label: facility_management_modernization_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: facility_management_modernization_resources_page_9
+      label: facility_management_modernization_resources
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''human'', ''label'': ''Human'', ''value'': ''Human''}'
+      - '{''id'': 2, ''name'': ''equipment'', ''label'': ''Equipment'', ''value'':
+        ''Equipment''}'
+      - '{''id'': 3, ''name'': ''technology'', ''label'': ''Technology'', ''value'':
+        ''Technology''}'
+      required: true
+    - id: 10
+      name: facility_management_modernization_solutions_page_10
+      label: facility_management_modernization_solutions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''automation'', ''label'': ''Automation'', ''value'':
+        ''Automation''}'
+      - '{''id'': 2, ''name'': ''artificial_intelligence'', ''label'': ''Artificial
+        Intelligence'', ''value'': ''Artificial Intelligence''}'
+      - '{''id'': 3, ''name'': ''robotics'', ''label'': ''Robotics'', ''value'': ''Robotics''}'
+      - '{''id'': 4, ''name'': ''virtualization'', ''label'': ''Virtualization'',
+        ''value'': ''Virtualization''}'
+      required: true
+    - id: 11
+      name: facility_management_modernization_risks_page_11
+      label: facility_management_modernization_risks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''financial'', ''label'': ''Financial'', ''value'':
+        ''Financial''}'
+      - '{''id'': 2, ''name'': ''regulatory'', ''label'': ''Regulatory'', ''value'':
+        ''Regulatory''}'
+      - '{''id'': 3, ''name'': ''reputational'', ''label'': ''Reputational'', ''value'':
+        ''Reputational''}'
+      - '{''id'': 4, ''name'': ''operational'', ''label'': ''Operational'', ''value'':
+        ''Operational''}'
+      - '{''id'': 5, ''name'': ''technological'', ''label'': ''Technological'', ''value'':
+        ''Technological''}'
+      required: true
+    - id: 12
+      name: facility_management_modernization_solutions_implementation_page_12
+      label: facility_management_modernization_solutions_implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_management_modernization_project_status_page_13
+      label: facility_management_modernization_project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''ongoing'', ''label'': ''Ongoing'', ''value'': ''Ongoing''}'
+      - '{''id'': 2, ''name'': ''completed'', ''label'': ''Completed'', ''value'':
+        ''Completed''}'
+      - '{''id'': 3, ''name'': ''cancelled'', ''label'': ''Cancelled'', ''value'':
+        ''Cancelled''}'
+      - '{''id'': 4, ''name'': ''not_starting'', ''label'': ''Not Starting'', ''value'':
+        ''Not Starting''}'
+      required: false
+    - id: 14
+      name: facility_management_modernization_project_budget_page_14
+      label: facility_management_modernization_project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: facility_management_modernization_project_resources_page_15
+      label: facility_management_modernization_project_resources
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''human'', ''label'': ''Human'', ''value'': ''Human''}'
+      - '{''id'': 2, ''name'': ''equipment'', ''label'': ''Equipment'', ''value'':
+        ''Equipment''}'
+      - '{''id'': 3, ''name'': ''technology'', ''label'': ''Technology'', ''value'':
+        ''Technology''}'
+      required: false
+    - id: 16
+      name: facility_management_modernization_project_solutions_page_16
+      label: facility_management_modernization_project_solutions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''automation'', ''label'': ''Automation'', ''value'':
+        ''Automation''}'
+      - '{''id'': 2, ''name'': ''artificial_intelligence'', ''label'': ''Artificial
+        Intelligence'', ''value'': ''Artificial Intelligence''}'
+      - '{''id'': 3, ''name'': ''robotics'', ''label'': ''Robotics'', ''value'': ''Robotics''}'
+      - '{''id'': 4, ''name'': ''virtualization'', ''label'': ''Virtualization'',
+        ''value'': ''Virtualization''}'
+      required: true
+    - id: 17
+      name: facility_management_modernization_project_risks_page_17
+      label: facility_management_modernization_project_risks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''financial'', ''label'': ''Financial'', ''value'':
+        ''Financial''}'
+      - '{''id'': 2, ''name'': ''regulatory'', ''label'': ''Regulatory'', ''value'':
+        ''Regulatory''}'
+      - '{''id'': 3, ''name'': ''reputational'', ''label'': ''Reputational'', ''value'':
+        ''Reputational''}'
+      - '{''id'': 4, ''name'': ''operational'', ''label'': ''Operational'', ''value'':
+        ''Operational''}'
+      - '{''id'': 5, ''name'': ''technological'', ''label'': ''Technological'', ''value'':
+        ''Technological''}'
+      required: false
+    - id: 18
+      name: facility_management_modernization_project_solutions_implementation_page_18
+      label: facility_management_modernization_project_solutions_implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_management_modernization_project_timeline_page_19
+      label: facility_management_modernization_project_timeline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: facility_management_modernization_project_completion_page_20
+      label: facility_management_modernization_project_completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: facility_management_modernization_project_employees_page_21
+      label: facility_management_modernization_project_employees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''internal'', ''label'': ''Internal'', ''value'': ''Internal''}'
+      - '{''id'': 2, ''name'': ''external'', ''label'': ''External'', ''value'': ''External''}'
+      - '{''id'': 3, ''name'': ''contractor'', ''label'': ''Contractor'', ''value'':
+        ''Contractor''}'
+      required: false
+    - id: 22
+      name: facility_management_modernization_project_phases_page_22
+      label: facility_management_modernization_project_phases
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''design'', ''label'': ''Design'', ''value'': ''Design''}'
+      - '{''id'': 2, ''name'': ''development'', ''label'': ''Development'', ''value'':
+        ''Development''}'
+      - '{''id'': 3, ''name'': ''testing'', ''label'': ''Testing'', ''value'': ''Testing''}'
+      - '{''id'': 4, ''name'': ''deployment'', ''label'': ''Deployment'', ''value'':
+        ''Deployment''}'
+      - '{''id'': 5, ''name'': ''maintenance'', ''label'': ''Maintenance'', ''value'':
+        ''Maintenance''}'
+      required: true
+    - id: 23
+      name: facility_management_modernization_project_phases_description_page_23
+      label: facility_management_modernization_project_phases_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_management_modernization_project_notes_page_24
+      label: facility_management_modernization_project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_management_modernization_project_comments_page_25
+      label: facility_management_modernization_project_comments
+      hint: null
+      type: text
+      options: []
+      required: false

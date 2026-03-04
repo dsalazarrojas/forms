@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notation Knowledge Quiz
+    pages:
+    - id: 1
+      name: notation_type
+      label: Notation Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 2
+      name: time_signature
+      label: Time Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: beat_pattern
+      label: Beat Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: note_value
+      label: Note Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: staff_size
+      label: Staff Size
+      hint: null
+      type: select_one
+      options:
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      required: false
+    - id: 6
+      name: note_position
+      label: Note Position
+      hint: null
+      type: select_multiple
+      options:
+      - top
+      - middle
+      - bottom
+      required: false
+    - id: 7
+      name: clef_sign
+      label: Clef Sign
+      hint: null
+      type: select_multiple
+      options:
+      - left
+      - right
+      required: false
+    - id: 8
+      name: key_signature
+      label: Key Signature
+      hint: null
+      type: select_one
+      options:
+      - 3/4
+      - 6/8
+      - 4/4
+      - 3/8
+      required: false
+    - id: 9
+      name: time_signature_2
+      label: Time Signature 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: note_value_2
+      label: Note Value 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: staff_size_2
+      label: Staff Size 2
+      hint: null
+      type: select_one
+      options:
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      required: false
+    - id: 12
+      name: note_position_2
+      label: Note Position 2
+      hint: null
+      type: select_multiple
+      options:
+      - top
+      - middle
+      - bottom
+      required: false
+    - id: 13
+      name: clef_sign_2
+      label: Clef Sign 2
+      hint: null
+      type: select_multiple
+      options:
+      - left
+      - right
+      required: false
+    - id: 14
+      name: key_signature_2
+      label: Key Signature 2
+      hint: null
+      type: select_one
+      options:
+      - 3/4
+      - 6/8
+      - 4/4
+      - 3/8
+      required: false
+    - id: 15
+      name: score
+      label: Score
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

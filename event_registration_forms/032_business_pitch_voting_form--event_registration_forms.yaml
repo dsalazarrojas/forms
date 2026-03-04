@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Pitch Voting Form
+    pages:
+    - id: 1
+      name: judge_name
+      label: Judge Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: judge_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: judge_affiliation
+      label: Judge Affiliation
+      hint: Your organization or role
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of pitch event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of pitch competition
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pitch_number
+      label: Pitch Number
+      hint: Which pitch are you judging?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Name of pitching company
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pitch_category
+      label: Pitch Category
+      hint: Technology, retail, services, etc.
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Services
+      - Food and Beverage
+      - Other
+      required: false
+    - id: 9
+      name: business_idea_clarity
+      label: Business Idea Clarity
+      hint: Rate clarity (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: market_opportunity
+      label: Market Opportunity
+      hint: Rate market potential (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: business_model_viability
+      label: Business Model Viability
+      hint: Rate viability (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: team_capability
+      label: Team Capability and Experience
+      hint: Rate team (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: Rate differentiation (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: financial_projections
+      label: Financial Projections
+      hint: Rate realism (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: presentation_quality
+      label: Presentation Quality
+      hint: Rate presentation (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: funding_request_reasonableness
+      label: Funding Request Reasonableness
+      hint: Rate request (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: overall_score
+      label: Overall Score
+      hint: Final score (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: strengths
+      label: Pitch Strengths
+      hint: What impressed you?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: would_invest
+      label: Would You Invest or Support?
+      hint: Your likelihood to support
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Maybe, with conditions
+      - No, Not at this time
+      - Need more information
+      required: false

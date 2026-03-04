@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Room Blinds Installation Request
+    pages:
+    - id: 1
+      name: user_contact
+      label: user_contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: meeting_room
+      label: meeting_room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_room_number
+      label: meeting_room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: blind_type
+      label: blind_type
+      hint: null
+      type: select_one
+      options:
+      - Roller
+      - Vertical
+      - Horizontal
+      required: false
+    - id: 7
+      name: blind_size
+      label: blind_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: blind_color
+      label: blind_color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Brown
+      required: false
+    - id: 9
+      name: installation_date
+      label: installation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: preferred_installation_day
+      label: preferred_installation_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false

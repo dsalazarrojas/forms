@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Financial Fitness Seminar Economic Development
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For seminar communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Homemaker
+      required: true
+    - id: 9
+      name: annual_income
+      label: Annual Income Range
+      hint: Approximate household income
+      type: select_one
+      options:
+      - Less than $25,000
+      - $25,000-$50,000
+      - $50,001-$75,000
+      - $75,001-$100,000
+      - More than $100,000
+      - Prefer Not to Say
+      required: false
+    - id: 10
+      name: seminar_topic
+      label: Seminar Topics of Interest
+      hint: Which topics interest you?
+      type: select_multiple
+      options:
+      - Budgeting Basics
+      - Credit Score Improvement
+      - Debt Management
+      - Saving Strategies
+      - Investment Basics
+      - Retirement Planning
+      - Small Business Finance
+      - Home Buying
+      required: true
+    - id: 11
+      name: seminar_date
+      label: Preferred Seminar Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: attendance_type
+      label: Attendance Type
+      hint: How will you attend?
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 13
+      name: financial_goals
+      label: Primary Financial Goal
+      hint: What do you want to achieve?
+      type: select_one
+      options:
+      - Improve Credit Score
+      - Reduce Debt
+      - Build Savings
+      - Learn Investing
+      - Plan for Retirement
+      - Start a Business
+      - Buy a Home
+      required: true
+    - id: 14
+      name: current_challenges
+      label: Current Financial Challenges
+      hint: What obstacles do you face?
+      type: select_multiple
+      options:
+      - High Debt
+      - Low Income
+      - Poor Credit
+      - Lack of Savings
+      - Unemployment
+      - Medical Expenses
+      - Lack of Knowledge
+      required: false
+    - id: 15
+      name: childcare_needed
+      label: Childcare Needed
+      hint: Do you need childcare services?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referral_source
+      label: How Did You Hear About Seminar
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Community Organization
+      - Friend or Family
+      - Financial Institution
+      - Employer
+      - Other
+      required: false
+    - id: 18
+      name: follow_up_interest
+      label: Interested in Follow-Up Services
+      hint: Would you like one-on-one counseling?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

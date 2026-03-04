@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: exam_id
+      label: exam id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: exam_date
+      label: exam date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: exam_time
+      label: exam time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: exam_location
+      label: exam location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exam_details
+      label: exam details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exam_status
+      label: exam status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 10
+      name: exam_type
+      label: exam type
+      hint: null
+      type: select_one
+      options:
+      - Theory
+      - Practical
+      - Theory-Practical
+      required: true
+    - id: 11
+      name: exam_center
+      label: exam center
+      hint: null
+      type: select_multiple
+      options:
+      - center1
+      - center2
+      - center3
+      required: true
+    - id: 12
+      name: exam_comments
+      label: exam comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitted_on
+      label: submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: exam_center_name
+      label: exam center name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exam_type_name
+      label: exam type name
+      hint: null
+      type: text
+      options: []
+      required: false

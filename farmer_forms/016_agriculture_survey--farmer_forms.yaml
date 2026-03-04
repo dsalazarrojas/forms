@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Name of farming operation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_location
+      label: Farm Location
+      hint: Address or general location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: total_acreage
+      label: Total Acreage
+      hint: Total farm size in acres
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: farming_experience
+      label: Years of Farming Experience
+      hint: How long have you been farming
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-20 years
+      - 20-30 years
+      - More than 30 years
+      required: true
+    - id: 6
+      name: primary_focus
+      label: Primary Farming Focus
+      hint: Main agricultural activity
+      type: select_one
+      options:
+      - Crop production
+      - Livestock
+      - Dairy
+      - Poultry
+      - Aquaculture
+      - Mixed operation
+      required: true
+    - id: 7
+      name: crops_grown
+      label: Crops Grown
+      hint: Select all crops you grow
+      type: select_multiple
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Rice
+      - Cotton
+      - Hay
+      - Vegetables
+      - Fruits
+      - Nuts
+      - Other
+      - Not applicable
+      required: true
+    - id: 8
+      name: livestock_raised
+      label: Livestock Raised
+      hint: Select all livestock you raise
+      type: select_multiple
+      options:
+      - Cattle
+      - Hogs
+      - Sheep
+      - Goats
+      - Poultry
+      - Horses
+      - Other
+      - Not applicable
+      required: false
+    - id: 9
+      name: irrigation_method
+      label: Primary Irrigation Method
+      hint: Main irrigation approach used
+      type: select_one
+      options:
+      - No irrigation
+      - Flood irrigation
+      - Sprinkler
+      - Drip irrigation
+      - Center pivot
+      required: true
+    - id: 10
+      name: technology_usage
+      label: Agricultural Technology Usage
+      hint: How would you describe your tech adoption
+      type: select_one
+      options:
+      - Early adopter
+      - Moderate user
+      - Traditional methods
+      - Minimal technology
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Annual Farm Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - Over $500,000
+      required: false
+    - id: 12
+      name: labor_source
+      label: Primary Labor Source
+      hint: Main source of farm labor
+      type: select_one
+      options:
+      - Family only
+      - Family and hired workers
+      - Hired workers only
+      - Migrant workers
+      - Contract labor
+      required: true
+    - id: 13
+      name: marketing_channels
+      label: Marketing Channels Used
+      hint: How do you sell your products
+      type: select_multiple
+      options:
+      - Direct to consumer
+      - Farmers markets
+      - CSA program
+      - Wholesale buyers
+      - Processing companies
+      - Auctions
+      - Cooperatives
+      - Online sales
+      required: true
+    - id: 14
+      name: certification_held
+      label: Certifications Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - USDA Organic
+      - Non-GMO Project
+      - GlobalGAP
+      - Fair Trade
+      - Animal Welfare Approved
+      - None
+      required: true
+    - id: 15
+      name: biggest_challenge
+      label: Biggest Farming Challenge
+      hint: What is your primary challenge
+      type: select_one
+      options:
+      - Weather and climate
+      - Pest and disease management
+      - Labor availability
+      - Market prices
+      - Input costs
+      - Water availability
+      - Regulations
+      - Land access
+      required: true
+    - id: 16
+      name: government_programs
+      label: Participation in Government Programs
+      hint: Do you participate in any programs
+      type: select_one
+      options:
+      - Yes, multiple programs
+      - Yes, one program
+      - false
+      - Not aware of programs
+      required: true
+    - id: 17
+      name: sustainability_practices
+      label: Sustainability Practices Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cover cropping
+      - Crop rotation
+      - Reduced tillage
+      - Integrated pest management
+      - Water conservation
+      - Renewable energy
+      - None
+      required: true
+    - id: 18
+      name: succession_plan
+      label: Succession Plan Status
+      hint: Do you have a farm succession plan
+      type: select_one
+      options:
+      - Yes, documented plan
+      - In progress
+      - No plan
+      - Not applicable
+      required: true
+    - id: 19
+      name: additional_income
+      label: Additional Income Sources
+      hint: Do you have off-farm income
+      type: select_one
+      options:
+      - Yes, primary income is off-farm
+      - Yes, supplemental
+      - No, farm is primary income
+      required: true
+    - id: 20
+      name: future_goals
+      label: Future Farm Goals
+      hint: What are your main goals for next 5 years
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assistance_needed
+      label: Assistance or Resources Needed
+      hint: What would help your farm most
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true

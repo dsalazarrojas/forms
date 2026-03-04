@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Trial Release Form
+    pages:
+    - id: 1
+      name: technology_trial_release_form
+      label: What is your role in your company?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company Name
+      hint: Enter company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: (123) 456-7890'
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: technology_category
+      label: Which technology category are we evaluating?
+      hint: null
+      type: select_one
+      options:
+      - Audio/Video
+      - IT & Networking
+      - Software Development
+      - Web Development
+      - AI/ML
+      - Other (please specify)
+      required: true
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: Enter number of employees
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: feedback
+      label: What do you think about this technology?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blastocyst Development Quiz
+    pages:
+      - id: 1
+        name: quiz_header
+        label: Blastocyst Development Quiz
+        hint: Test your knowledge of embryology and blastocyst formation
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: Your student identification number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: course_name
+        label: Course Name
+        hint: Which course is this for
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: question_1
+        label: Question 1 - When Does Blastocyst Formation Begin
+        hint: Select the correct day after fertilization
+        type: select_one
+        options:
+          - Day 1-2
+          - Day 3-4
+          - Day 5-6
+          - Day 7-8
+        required: true
+      - id: 6
+        name: question_2
+        label: Question 2 - What Is the Outer Layer Called
+        hint: The outer cell layer of the blastocyst
+        type: select_one
+        options:
+          - Inner Cell Mass
+          - Trophoblast
+          - Blastocoel
+          - Zona Pellucida
+        required: true
+      - id: 7
+        name: question_3
+        label: Question 3 - What Does the Inner Cell Mass Become
+        hint: The inner cell mass develops into
+        type: select_one
+        options:
+          - Placenta
+          - Embryo
+          - Amniotic Sac
+          - Umbilical Cord
+        required: true
+      - id: 8
+        name: question_4
+        label: Question 4 - What Is the Fluid Filled Cavity
+        hint: Name of the cavity inside blastocyst
+        type: select_one
+        options:
+          - Blastocoel
+          - Amniotic Cavity
+          - Yolk Sac
+          - Chorionic Cavity
+        required: true
+      - id: 9
+        name: question_5
+        label: Question 5 - When Does Implantation Occur
+        hint: Timing of uterine implantation
+        type: select_one
+        options:
+          - Day 3-4
+          - Day 5-6
+          - Day 6-7
+          - Day 10-12
+        required: true
+      - id: 10
+        name: question_6
+        label: Question 6 - What Hormone Is Produced
+        hint: Hormone produced by trophoblast cells
+        type: select_one
+        options:
+          - Estrogen
+          - Progesterone
+          - hCG
+          - FSH
+        required: true
+      - id: 11
+        name: question_7
+        label: Question 7 - Zona Pellucida Function
+        hint: What happens to the zona pellucida
+        type: select_one
+        options:
+          - Thickens
+          - Disappears or Hatches
+          - Becomes Placenta
+          - Forms Amnion
+        required: true
+      - id: 12
+        name: question_8
+        label: Question 8 - Morula Stage
+        hint: The morula precedes which stage
+        type: select_one
+        options:
+          - Zygote
+          - Blastocyst
+          - Gastrula
+          - Neurula
+        required: true
+      - id: 13
+        name: question_9
+        label: Question 9 - Trophoblast Derivatives
+        hint: The trophoblast contributes to
+        type: select_one
+        options:
+          - Embryo Only
+          - Placenta and Fetal Membranes
+          - Yolk Sac Only
+          - Amniotic Fluid
+        required: true
+      - id: 14
+        name: question_10
+        label: Question 10 - Clinical Significance
+        hint: Why is blastocyst quality important in IVF
+        type: select_one
+        options:
+          - Determines Baby Gender
+          - Predicts Implantation Success
+          - Affects Pregnancy Duration
+          - Controls Birth Weight
+        required: true
+      - id: 15
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident are you in your answers
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Neutral
+          - Unsure
+        required: false
+      - id: 16
+        name: study_time
+        label: Study Time
+        hint: How long did you study for this quiz
+        type: select_one
+        options:
+          - Less than 1 hour
+          - 1-2 hours
+          - 3-5 hours
+          - More than 5 hours
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any feedback about this quiz
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mailbox Usage Log
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: facility_floor
+      label: Facility Floor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: access_count
+      label: Access Count
+      hint: null
+      type: number
+      options: []
+      required: false

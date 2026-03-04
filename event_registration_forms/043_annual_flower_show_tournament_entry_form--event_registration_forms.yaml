@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Flower Show Tournament Entry Form
+    pages:
+    - id: 1
+      name: exhibitor_info_header
+      label: -- Exhibitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exhibitor_name
+      label: Exhibitor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: garden_club
+      label: Garden Club or Organization
+      hint: Your affiliated garden club
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_categories_header
+      label: -- Entry Categories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_category
+      label: Primary Entry Category
+      hint: Select your main category
+      type: select_one
+      options:
+      - Roses
+      - Perennials
+      - Annuals
+      - Heirloom Flowers
+      - Orchids
+      - Tropical Plants
+      - Succulents
+      - Vegetables
+      - Floral Arrangements
+      - Container Gardens
+      - Specialty Plants
+      required: true
+    - id: 8
+      name: additional_categories
+      label: Additional Entry Categories
+      hint: Other categories you want to enter
+      type: select_multiple
+      options:
+      - Roses
+      - Perennials
+      - Annuals
+      - Heirloom Flowers
+      - Orchids
+      - Tropical Plants
+      - Succulents
+      - Vegetables
+      - Floral Arrangements
+      - Container Gardens
+      required: false
+    - id: 9
+      name: flower_details_header
+      label: -- Flower Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: variety_name
+      label: Flower or Plant Variety Name
+      hint: Specific variety you are entering
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: color_or_type
+      label: Color or Type
+      hint: Color or specific type
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cultivar_information
+      label: Cultivar or Hybrid Information
+      hint: Specific cultivar or hybrid name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: entry_details_header
+      label: -- Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: number_of_specimens
+      label: Number of Specimens Entering
+      hint: How many plants or arrangements
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: arrangement_size
+      label: Arrangement Size or Scale
+      hint: Small, medium, large
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Not Applicable
+      required: false
+    - id: 16
+      name: special_features
+      label: Special Features or Achievements
+      hint: Awards, unique characteristics
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_header
+      label: -- Submission Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_or_display
+      label: Delivery or Self-Display
+      hint: How will plants be delivered
+      type: select_one
+      options:
+      - Delivery provided
+      - Will deliver myself
+      - Pickup available
+      - Other arrangement
+      required: true
+    - id: 19
+      name: delivery_time
+      label: Preferred Delivery or Setup Time
+      hint: When you plan to deliver or setup
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_setup_requirements
+      label: Special Setup or Display Requirements
+      hint: Any special needs for display
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_header
+      label: -- Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: entry_fee
+      label: Entry Fee Amount
+      hint: Fee per entry
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: fee_paid
+      label: Entry Fee Paid
+      hint: Have you paid the entry fee
+      type: select_one
+      options:
+      - Yes, paid
+      - No, will pay at registration
+      - Payment plan arranged
+      required: true
+    - id: 24
+      name: consent_header
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: rules_acknowledgement
+      label: I acknowledge the show rules and judging criteria
+      hint: You agree to tournament guidelines
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual General Meeting Communication Form
+    pages:
+    - id: 1
+      name: member_info_header
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_id
+      label: Member ID
+      hint: Your membership number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_header
+      label: -- Meeting Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: meeting_topics
+      label: Topics You Want Discussed at AGM
+      hint: Select areas of interest
+      type: select_multiple
+      options:
+      - Financial Report
+      - Strategic Direction
+      - Membership Updates
+      - Committee Reports
+      - New Initiatives
+      - Governance Changes
+      - Budget Planning
+      - Member Concerns
+      required: false
+    - id: 8
+      name: discussion_topic
+      label: Specific Discussion Topic
+      hint: Describe what you want discussed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: questions_header
+      label: -- Questions and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: member_questions
+      label: Questions for Organization Leadership
+      hint: Ask any questions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: concerns_suggestions
+      label: Concerns or Suggestions
+      hint: Share feedback or ideas
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: proposal_header
+      label: -- Proposals or Ideas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: has_proposal
+      label: Do you have a proposal for the AGM
+      hint: Want to present something
+      type: select_one
+      options:
+      - Yes, I have a proposal
+      - Yes, I want to discuss an idea
+      - No, but interested in learning about proposals
+      - No proposals at this time
+      required: true
+    - id: 14
+      name: proposal_description
+      label: Proposal Description
+      hint: Describe your proposal or idea
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: impact_statement
+      label: Expected Impact or Benefits
+      hint: How will this benefit the organization
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: involvement_header
+      label: -- Involvement and Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: committee_interest
+      label: Committee or Volunteer Interest
+      hint: Interested in getting more involved
+      type: select_multiple
+      options:
+      - Board Service
+      - Committee Work
+      - Volunteer Activities
+      - Event Planning
+      - Membership Recruitment
+      - Fundraising
+      - Communications
+      - Not interested at this time
+      required: false
+    - id: 18
+      name: leadership_interest
+      label: Leadership Position Interest
+      hint: Interested in leadership role
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe, tell me more
+      - No, not at this time
+      - Unsure
+      required: false
+    - id: 19
+      name: skill_expertise
+      label: Skills or Expertise to Contribute
+      hint: What you can offer
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: communication_prefs_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_update_method
+      label: Preferred Communication Method
+      hint: How you want to receive updates
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      - Social Media
+      - In-person
+      required: true
+    - id: 22
+      name: frequency_preference
+      label: Communication Frequency
+      hint: How often you want to hear from us
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed only
+      required: false
+    - id: 23
+      name: newsletter_subscription
+      label: Subscribe to Newsletter
+      hint: Want to receive organization newsletter
+      type: select_one
+      options:
+      - Yes, subscribe
+      - No, do not subscribe
+      - Already subscribed
+      required: false
+    - id: 24
+      name: follow_up
+      label: Request Follow-Up Conversation
+      hint: Can someone contact you
+      type: select_one
+      options:
+      - Yes, please follow up
+      - No, no follow-up needed
+      - Only if concerning proposal
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or thoughts
+      type: text
+      options: []
+      required: false

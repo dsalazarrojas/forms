@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Application Form
+    pages:
+    - id: 1
+      name: main_info
+      label: Sponsorship Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_phone
+      label: applicant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_email
+      label: applicant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: applicant_address
+      label: applicant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: credit_card_number
+      label: credit card number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: credit_card_cvv
+      label: credit card cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: credit_card_exp_month
+      label: credit card expiration month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 9
+      name: credit_card_exp_year
+      label: credit card expiration year
+      hint: null
+      type: select_one
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - '2029'
+      - '2030'
+      required: false
+    - id: 10
+      name: applicant_business_name
+      label: applicant business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_email
+      label: business email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: business_phone
+      label: business phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: applicant_job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false

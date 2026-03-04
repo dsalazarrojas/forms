@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Rock Background
+    pages:
+    - id: 1
+      name: header_note
+      label: -- Feedback Form --
+      hint: Share your thoughts about our site or event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback_category
+      label: Feedback category
+      hint: Choose category of feedback
+      type: select_one
+      options:
+      - Website design
+      - Content
+      - Functionality
+      - Other
+      required: true
+    - id: 5
+      name: rating
+      label: Overall rating
+      hint: Rate your experience from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Detailed feedback
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up
+      label: Would you like a follow up
+      hint: Select yes if you want our team to contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Choose how we should reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 9
+      name: additional_details
+      label: Additional details
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

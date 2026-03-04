@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Culture Award Nomination Form
+    pages:
+    - id: 1
+      name: nominator_name
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominator_phone
+      label: Nominator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominator_relationship
+      label: Your Relationship to Nominee
+      hint: Colleague, friend, supervisor, etc.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominee_name
+      label: Nominee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_email
+      label: Nominee Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: nominee_organization
+      label: Nominee Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Visual Arts
+      - Performing Arts
+      - Literature
+      - Music
+      - Dance
+      - Film and Media
+      - Cultural Heritage
+      - Community Engagement
+      - Emerging Artist
+      required: true
+    - id: 9
+      name: nomination_reason
+      label: Reason for Nomination
+      hint: Why does this person deserve this award
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contributions_made
+      label: Specific Contributions or Achievements
+      hint: Describe their impact and work
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_in_field
+      label: Years of Contribution to Arts and Culture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: impact_on_community
+      label: Impact on Community or Field
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: awards_recognition
+      label: Previous Awards or Recognition Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_materials
+      label: Supporting Materials Attached
+      hint: Portfolio, portfolio link, press articles
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: nomination_submitted_before
+      label: First Time Nominating This Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: additional_references
+      label: Additional References or Supporters
+      hint: Other people who can speak to this nomination
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nomination_deadline
+      label: Nomination Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: award_ceremony_date
+      label: Expected Award Ceremony Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: confidentiality_agreement
+      label: I Agree to Confidentiality of Nomination Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

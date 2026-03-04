@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restroom Supplies Reorder Form
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Same Day''}'
+      - '{''id'': 2, ''name'': ''2-5 Business Days''}'
+      - '{''id'': 3, ''name'': ''1-2 weeks''}'
+      required: false
+    - id: 3
+      name: reorder_item
+      label: Reorder Item
+      hint: Enter items in your facility's inventory
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Paper Towels''}'
+      - '{''id'': 2, ''name'': ''Toilet Paper''}'
+      - '{''id'': 3, ''name'': ''Air Freshener''}'
+      - '{''id'': 4, ''name'': ''Soap''}'
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

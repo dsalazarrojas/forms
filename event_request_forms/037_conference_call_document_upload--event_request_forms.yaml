@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Call Document Upload
+    pages:
+      - id: 1
+        name: uploader_name
+        label: Uploader name
+        hint: Person uploading documents
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: meeting_date
+        label: Meeting date
+        hint: Date of the conference call
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: document_purpose
+        label: Document purpose
+        hint: Agenda, minutes, or reference
+        type: select_one
+        options:
+          - Agenda
+          - Minutes
+          - Presentation
+          - Supporting document
+        required: true
+      - id: 4
+        name: upload_reference
+        label: Upload reference
+        hint: File name or attachment ID
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: access_permissions
+        label: Access permissions
+        hint: Who can view these documents
+        type: select_one
+        options:
+          - Public
+          - Internal only
+          - Restricted
+        required: true
+      - id: 6
+        name: notes
+        label: Notes for participants
+        hint: Any instructions for the viewers
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: contact_email
+        label: Contact email
+        hint: Email for document questions
+        type: email
+        options: []
+        required: false
+      - id: 8
+        name: confidentiality_notice
+        label: Confidentiality notice
+        hint: Read only guidance on handling documents
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: version_number
+        label: Version number
+        hint: File version for tracking
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: submission_reference
+        label: Submission reference
+        hint: System generated ID after upload
+        type: text
+        options: []
+        required: false

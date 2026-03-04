@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Insurance Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Name of the insured party
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_type
+      label: Policy type
+      hint: Type of insurance coverage requested
+      type: select_one
+      options:
+      - Crop insurance
+      - Livestock insurance
+      - Equipment insurance
+      - Multi-peril
+      required: true
+    - id: 3
+      name: insured_area_hectares
+      label: Insured area in hectares
+      hint: Area to be insured
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: value_of_crops
+      label: Value of crops to be insured
+      hint: Estimated monetary value
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: coverage_start_date
+      label: Coverage start date
+      hint: Requested start of insurance coverage
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: perils_to_cover
+      label: Perils to cover
+      hint: Select perils to include in the policy
+      type: select_multiple
+      options:
+      - Drought
+      - Flood
+      - Pest outbreak
+      - Fire
+      - Theft
+      required: true
+    - id: 7
+      name: previous_claims
+      label: Previous claims history
+      hint: Summary of any prior insurance claims
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: broker_name
+      label: Insurance broker name
+      hint: If using an insurance broker
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for policy communications
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: declaration_signature
+      label: Declaration and signature
+      hint: Confirm the information provided is accurate
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Experience Feedback Form
+    pages:
+    - id: 1
+      name: attendee_information
+      label: Attendee Information
+      hint: Please provide your basic information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We may contact you for follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concert_details
+      label: Concert Details
+      hint: Tell us about the concert you attended
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: concert_date
+      label: Concert Date
+      hint: Select the date of the concert
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: concert_venue
+      label: Concert Venue
+      hint: Where was the concert held
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ticket_type
+      label: Ticket Type
+      hint: What type of ticket did you purchase
+      type: select_one
+      options:
+      - General Admission
+      - VIP
+      - Premium Seating
+      - Balcony
+      - Orchestra
+      required: true
+    - id: 9
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: How would you rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: sound_quality
+      label: Sound Quality
+      hint: Rate the audio and sound system
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: lighting_visuals
+      label: Lighting and Visuals
+      hint: Rate the lighting and visual effects
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: venue_comfort
+      label: Venue Comfort
+      hint: How comfortable was the venue
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: false
+    - id: 13
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate the friendliness of venue staff
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: performance_feedback
+      label: Performance Feedback
+      hint: Share your thoughts about the performance
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: favorite_songs
+      label: Favorite Songs or Performances
+      hint: What were your favorite moments
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: performance_rating
+      label: Performance Rating
+      hint: How would you rate the overall performance
+      type: select_one
+      options:
+      - Outstanding
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      required: true
+    - id: 17
+      name: would_recommend
+      label: Would You Recommend
+      hint: Would you recommend this concert to others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_attendance
+      label: Future Attendance
+      hint: Would you attend future concerts at this venue
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably Not
+      - Definitely Not
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Turkey Pre Order Form
+    pages:
+    - id: 1
+      name: thanksgiving_turkey_pre_order
+      label: thanksgiving_turkey_pre_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: thanksgiving_date
+      label: thanksgiving_date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: turkey_breed
+      label: turkey_breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: turkey_number
+      label: turkey_number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: turkey_size
+      label: turkey_size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false

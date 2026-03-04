@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marathon Sponsorship Donation Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_card_type
+      label: Payment Card Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_card_number
+      label: Payment Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_card_cvc
+      label: Payment Card CVC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_expiration_date
+      label: Payment Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_expiration_month
+      label: Payment Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: payment_expiration_year
+      label: Payment Expiration Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: payment_gateway_id
+      label: Payment Gateway Id
+      hint: null
+      type: text
+      options: []
+      required: false

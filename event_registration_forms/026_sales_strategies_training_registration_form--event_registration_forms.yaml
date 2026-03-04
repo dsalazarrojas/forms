@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Strategies Training Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_strategies_training
+      label: Sales Strategies Training
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Basic Training''}'
+      - '{''id'': 2, ''name'': ''Advanced Training''}'
+      - '{''id'': 3, ''name'': ''Master Training''}'
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 10
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''Credit Card''}'
+      - '{''id'': 3, ''name'': ''Cash''}'
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 14
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: company_agreement
+      label: Company Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 16
+      name: event_terms
+      label: Event Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 17
+      name: company_terms
+      label: Company Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 18
+      name: billing_terms
+      label: Billing Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 19
+      name: participant_discount
+      label: Participant Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: false
+    - id: 22
+      name: participant_start_date
+      label: Participant Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: participant_end_date
+      label: Participant End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: participant_created_at
+      label: Participant Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: participant_updated_at
+      label: Participant Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

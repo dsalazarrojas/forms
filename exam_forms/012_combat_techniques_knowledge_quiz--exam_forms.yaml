@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Combat Techniques Knowledge Quiz
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Full name of the student taking the quiz
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_email
+        label: Email Address
+        hint: For quiz results and feedback
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: training_program
+        label: Training Program
+        hint: Which program are you enrolled in
+        type: select_one
+        options:
+          - Beginner Combat Fundamentals
+          - Intermediate Techniques
+          - Advanced Combat Skills
+          - Professional Fighter Training
+          - Self-Defense Course
+        required: true
+      - id: 4
+        name: quiz_date
+        label: Quiz Date
+        hint: Date of quiz submission
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: section_header_striking_techniques
+        label: -- Striking Techniques --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: question_1
+        label: What is the proper stance for a right-handed boxer
+        type: select_one
+        options:
+          - Orthodox
+          - Southpaw
+          - Neutral
+          - Wide Stance
+        required: true
+      - id: 7
+        name: question_2
+        label: Which punch is considered the most powerful in boxing
+        type: select_one
+        options:
+          - Jab
+          - Cross
+          - Hook
+          - Uppercut
+        required: true
+      - id: 8
+        name: question_3
+        label: What is the primary target area in Muay Thai clinch
+        type: select_one
+        options:
+          - Legs
+          - Body
+          - Head and Neck
+          - Arms
+        required: true
+      - id: 9
+        name: section_header_grappling_techniques
+        label: -- Grappling Techniques --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: question_4
+        label: What is the first step in executing a proper takedown
+        type: select_one
+        options:
+          - Change levels
+          - Grab the opponent
+          - Push forward
+          - Jump forward
+        required: true
+      - id: 11
+        name: question_5
+        label: Which position is considered most dominant in Brazilian Jiu-Jitsu
+        type: select_one
+        options:
+          - Guard
+          - Side Control
+          - Mount
+          - Back Control
+        required: true
+      - id: 12
+        name: question_6
+        label: What is the purpose of bridging in grappling
+        type: select_one
+        options:
+          - To escape from bottom position
+          - To submit the opponent
+          - To rest
+          - To stand up
+        required: true
+      - id: 13
+        name: section_header_defense
+        label: -- Defense Techniques --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: question_7
+        label: What is the best defense against a rear naked choke
+        type: select_one
+        options:
+          - Tuck chin and grab collar
+          - Push opponent away
+          - Stand up quickly
+          - Roll forward
+        required: true
+      - id: 15
+        name: question_8
+        label: How should you block a high kick
+        type: select_one
+        options:
+          - Raise arms and absorb on forearms
+          - Duck under it
+          - Catch the leg
+          - Step back
+        required: true
+      - id: 16
+        name: question_9
+        label: What is the primary rule of defensive positioning
+        type: select_one
+        options:
+          - Keep your hands up
+          - Keep your eyes closed
+          - Turn your back
+          - Stand still
+        required: true
+      - id: 17
+        name: section_header_strategy
+        label: -- Strategy and Rules --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: question_10
+        label: What is a knockout in combat sports
+        type: select_one
+        options:
+          - When a fighter cannot continue after a strike
+          - When a fighter submits
+          - When the referee stops the fight
+          - When time runs out
+        required: true
+      - id: 19
+        name: question_11
+        label: How many rounds are in a standard professional boxing match
+        type: select_one
+        options:
+          - 3 rounds
+          - 6 rounds
+          - 10 or 12 rounds
+          - 15 rounds
+        required: true
+      - id: 20
+        name: question_12
+        label: What does tapping out signify
+        type: select_one
+        options:
+          - Submission
+          - Timeout
+          - Victory
+          - Rest break
+        required: true
+      - id: 21
+        name: section_header_self_assessment
+        label: -- Self Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: confidence_level
+        label: Confidence in Combat Techniques
+        hint: How confident do you feel about your skills
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Neutral
+          - Not Very Confident
+          - Not Confident At All
+        required: true
+      - id: 23
+        name: areas_for_improvement
+        label: Areas You Want to Improve
+        hint: Which areas need more work
+        type: select_multiple
+        options:
+          - Striking
+          - Grappling
+          - Defense
+          - Conditioning
+          - Strategy
+          - Mental Toughness
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any questions or feedback about the quiz
+        type: text
+        options: []
+        required: false

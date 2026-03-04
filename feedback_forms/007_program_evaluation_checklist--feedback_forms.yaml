@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Evaluation Checklist
+    pages:
+    - id: 1
+      name: program_evaluation_checklist_program_1
+      label: What is the program’s purpose?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_evaluation_checklist_program_2
+      label: How well does the program meet its purpose?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_evaluation_checklist_program_3
+      label: What are the most effective strategies or tools used?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_evaluation_checklist_program_4
+      label: How would you rate your satisfaction with the overall program quality?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_evaluation_checklist_program_5
+      label: How well does the program meet its goals and objectives?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_evaluation_checklist_program_6
+      label: What are the most significant areas of improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_evaluation_checklist_program_7
+      label: How will you apply what you have learned from this program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_evaluation_checklist_program_8
+      label: Do you have any additional comments or suggestions for the program team?
+      hint: null
+      type: note
+      options: []
+      required: false

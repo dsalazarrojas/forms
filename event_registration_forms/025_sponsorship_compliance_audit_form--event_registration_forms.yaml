@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Compliance Audit Form
+    pages:
+    - id: 1
+      name: event_registration_forms_data
+      label: Event Registration Forms Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_registration_forms_details
+      label: Event Registration Forms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsorships
+      label: Sponsorships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sponsorships_details
+      label: Sponsorship Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false

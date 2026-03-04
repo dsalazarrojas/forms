@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Control Number Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Full Name
+      hint: Legal name of the person registering
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization Name
+      hint: Company or institution name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_event_info
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Where will the event take place
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - Standard
+      - VIP
+      - Student
+      - Group
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 10
+      name: section_participant_details
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Government
+      - Manufacturing
+      - Retail
+      - Other
+      required: false
+    - id: 13
+      name: years_experience
+      label: Years of Experience
+      hint: In your field
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: false
+    - id: 14
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: session_preferences
+      label: Preferred Sessions
+      hint: Select sessions you want to attend
+      type: select_multiple
+      options:
+      - Morning Session
+      - Afternoon Session
+      - Workshop A
+      - Workshop B
+      - Panel Discussion
+      - Networking Event
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Bank Transfer
+      - Check
+      - Waived
+      required: true
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: Current payment status
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - To Be Invoiced
+      - Waived
+      required: true
+    - id: 21
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: how_did_you_hear
+      label: How did you hear about this event
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Social Media
+      - Colleague
+      - Advertisement
+      - Other
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_accepted
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: control_number
+      label: Control Number
+      hint: Auto-generated control number
+      type: text
+      options: []
+      required: false

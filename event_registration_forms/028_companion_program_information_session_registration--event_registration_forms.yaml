@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Companion Program Information Session Registration
+    pages:
+    - id: 1
+      name: attendee_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: What best describes you?
+      hint: Your relationship to the program
+      type: select_one
+      options:
+      - Potential Volunteer
+      - Potential Participant
+      - Family Member
+      - Caregiver
+      - Healthcare Professional
+      - Community Partner
+      - Student
+      - Other
+      required: true
+    - id: 6
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_interest
+      label: Which companion program interests you?
+      hint: Select your interest
+      type: select_one
+      options:
+      - Senior Companion Program
+      - Pet Companion Program
+      - Library Companion Program
+      - Hospital Companion Program
+      - School Reading Companion
+      - Community Garden Companion
+      - Not sure yet
+      - Other
+      required: true
+    - id: 8
+      name: session_preference
+      label: Preferred Information Session Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: alternative_session
+      label: Alternative Session Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_format
+      label: Preferred Session Format
+      hint: How would you like to attend?
+      type: select_one
+      options:
+      - In-person
+      - Virtual (online)
+      - Either format
+      required: true
+    - id: 11
+      name: time_preference
+      label: Preferred Time of Day
+      hint: When works best?
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Weekend
+      - No preference
+      required: true
+    - id: 12
+      name: how_heard_about
+      label: How did you hear about this program?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Community Organization
+      - Healthcare Provider
+      - School
+      - Workplace
+      - Newspaper/Magazine
+      - Previous Participant
+      - Other
+      required: true
+    - id: 13
+      name: prior_knowledge
+      label: How familiar are you with companion programs?
+      hint: Your knowledge level
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Heard of it but not familiar
+      - First time hearing about it
+      required: true
+    - id: 14
+      name: motivation
+      label: What motivates you to attend this session?
+      hint: Your reason for interest
+      type: select_one
+      options:
+      - Considering volunteering
+      - Looking for services for myself
+      - Looking for services for family member
+      - Professional interest
+      - Academic interest
+      - General curiosity
+      - Other
+      required: true
+    - id: 15
+      name: motivation_details
+      label: Please elaborate on your motivation
+      hint: More details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability_to_volunteer
+      label: If volunteering, what is your availability?
+      hint: Time commitment
+      type: select_one
+      options:
+      - Weekdays only
+      - Weekends only
+      - Both weekdays and weekends
+      - Evenings only
+      - Flexible
+      - Not applicable
+      required: false
+    - id: 17
+      name: hours_per_week
+      label: How many hours per week could you volunteer?
+      hint: If applicable
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-5 hours
+      - 6-10 hours
+      - 11-15 hours
+      - More than 15 hours
+      - Not applicable
+      required: false
+    - id: 18
+      name: special_skills
+      label: Do you have any special skills or experience?
+      hint: Relevant background
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Do you have any accessibility needs for the session?
+      hint: Accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: language_preference
+      label: Preferred Language for Session
+      hint: If other than English
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese (Mandarin)
+      - Chinese (Cantonese)
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - Arabic
+      - French
+      - Other
+      required: true
+    - id: 21
+      name: interpreter_needed
+      label: Do you need an interpreter?
+      hint: Language assistance
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 22
+      name: childcare_needed
+      label: Will you need childcare during the session?
+      hint: If available
+      type: select_one
+      options:
+      - false
+      - Yes, for 1 child
+      - Yes, for 2 children
+      - Yes, for 3+ children
+      required: false
+    - id: 23
+      name: transportation_needed
+      label: Will you need transportation assistance?
+      hint: Getting to the session
+      type: select_one
+      options:
+      - false
+      - Yes, need ride
+      - Yes, need parking info
+      - Yes, need transit info
+      required: false
+    - id: 24
+      name: questions_for_session
+      label: Do you have specific questions you'd like addressed?
+      hint: Questions for the presenter
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: materials_preference
+      label: How would you like to receive session materials?
+      hint: Format preference
+      type: select_one
+      options:
+      - Email (digital)
+      - Mail (printed)
+      - Both
+      - Pick up at session
+      required: true
+    - id: 26
+      name: follow_up_contact
+      label: May we contact you after the session?
+      hint: Follow-up permission
+      type: select_one
+      options:
+      - Yes, by email
+      - Yes, by phone
+      - Yes, by either
+      - No, thank you
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Any additional comments or requests?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Presentation Follow Up Survey
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name as recorded in medical records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number or patient identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: Date of Last Clinical Presentation
+      hint: Date of your previous visit
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_symptoms
+      label: -- Current Symptom Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_symptom_status
+      label: How is your primary symptom or condition?
+      hint: null
+      type: select_one
+      options:
+      - Significantly improved
+      - Moderately improved
+      - Unchanged
+      - Slightly worse
+      - Significantly worse
+      required: true
+    - id: 7
+      name: symptom_severity
+      label: Current symptom severity rating
+      hint: Rate from 0 (none) to 10 (worst)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: new_symptoms_developed
+      label: Have any new symptoms developed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 9
+      name: new_symptoms_description
+      label: Please describe any new symptoms
+      hint: Leave blank if no new symptoms
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_treatment
+      label: -- Treatment and Medication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: treatment_adherence
+      label: How well have you followed the treatment plan?
+      hint: null
+      type: select_one
+      options:
+      - Perfectly
+      - Mostly
+      - Partially
+      - Minimally
+      - Not at all
+      required: true
+    - id: 12
+      name: medication_compliance
+      label: Have you taken all prescribed medications as directed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Mostly
+      required: true
+    - id: 13
+      name: side_effects_experienced
+      label: Have you experienced any side effects from medications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: side_effects_description
+      label: Describe any side effects
+      hint: Include when they occurred and severity
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_impact
+      label: -- Functional Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: daily_activities
+      label: Impact on daily activities and work
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Unable to perform activities
+      required: true
+    - id: 17
+      name: sleep_quality
+      label: How has your sleep been?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: quality_of_life
+      label: Overall quality of life rating
+      hint: Rate from 1 (poor) to 10 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_followup
+      label: -- Follow-up Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: further_treatment_needed
+      label: Do you need further treatment or evaluation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 21
+      name: followup_concerns
+      label: Additional concerns or questions for clinician
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone
+      label: Phone Number for Follow-up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_email
+      label: Email Address for Follow-up
+      hint: null
+      type: email
+      options: []
+      required: true

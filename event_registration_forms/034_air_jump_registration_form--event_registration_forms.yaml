@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Jump Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: Participant age for eligibility
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide contact for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical conditions or restrictions
+      hint: Any conditions organizers should know about
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_session_date
+      label: Preferred session date
+      hint: Date of jump session choice
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: waiver_acknowledgement
+      label: Waiver acknowledgement
+      hint: Participant agrees to risk waiver terms
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: experience_level
+      label: Experience level with jumps
+      hint: Indicate prior experience if any
+      type: select_one
+      options:
+      - None
+      - Some
+      - Experienced
+      required: false
+    - id: 8
+      name: equipment_needed
+      label: Equipment required
+      hint: Select if participant needs equipment provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: photo_consent
+      label: Consent for photos and video
+      hint: Permission to use media for promotion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

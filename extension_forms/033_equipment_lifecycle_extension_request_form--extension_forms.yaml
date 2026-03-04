@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_lifecycle_extension_request_form
+    pages:
+    - id: 1
+      name: aging_asset
+      label: Is the asset aging
+      hint: Is the asset aging
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: asset_description
+      label: Equipment description
+      hint: Equipment description
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: approval_date
+      label: Approval date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_confirmation_date
+      label: Supervisor confirmation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_name
+      label: Supervisor name
+      hint: Supervisor name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_email
+      label: Supervisor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: asset_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: asset_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: asset_number
+      label: Asset number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requestor_name
+      label: Requestor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestor_phone
+      label: Requestor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requestor_email
+      label: Requestor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_condition
+      label: Asset condition
+      hint: null
+      type: text
+      options: []
+      required: false

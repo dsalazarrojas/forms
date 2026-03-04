@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Itinerary Extension Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Client name is required
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Client Address
+      hint: Client street, city, state
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cruise_id
+      label: Cruise Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cabin_id
+      label: Cabin Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: cruise_details
+      label: Cruise Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Assigned tool name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: Submitted by
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Approved''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3''}'
+      required: false
+    - id: 19
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3''}'
+      required: false
+    - id: 22
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_full_name
+      label: Submitted By Full Name
+      hint: Submitted by full name
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Panelist Dinner RSVP Form
+    pages:
+    - id: 1
+      name: panelist_dinner_rsvp_form
+      label: Panelist Dinner RSVP Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: panelist_attendance
+      label: Panelist Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 3
+      name: dietary_needs
+      label: Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''Gluten-free''}'
+      required: false
+    - id: 4
+      name: guest_details
+      label: Guest Details
+      hint: Please enter guest details here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_attendance
+      label: Guest Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: guest_dietary_needs
+      label: Guest Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''Gluten-free''}'
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

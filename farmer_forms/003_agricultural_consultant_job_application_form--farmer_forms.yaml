@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Consultant Job Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For contacting regarding the application
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_address
+      label: Current address
+      hint: City, state, and country
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied_for
+      label: Position applied for
+      hint: Example roles include advisor or field consultant
+      type: select_one
+      options:
+      - Field consultant
+      - Agronomy advisor
+      - Research specialist
+      - Project manager
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of relevant experience
+      hint: Whole years in agricultural consulting or related work
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: qualifications
+      label: Qualifications and certifications
+      hint: Degree, licenses, or certifications related to agriculture
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_date
+      label: Availability start date
+      hint: Date when applicant can begin work
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: Professional references
+      hint: Provide name and contact for up to two references
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cover_letter
+      label: Cover letter
+      hint: Brief statement about suitability for the role
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_background_check
+      label: Consent for background check
+      hint: Applicant consent for reference and background checks
+      type: note
+      options: []
+      required: true

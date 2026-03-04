@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Management Strategy Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wildlife_policies
+      label: What is your biggest concern about wildlife policies?
+      hint: null
+      type: select_multiple
+      options:
+      - Habitat destruction
+      - Hunting regulations
+      - Conservation funding
+      - Species extinction
+      - Climate change
+      - Human-wildlife conflict
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: conservation_plans
+      label: What conservation plans do you think should be implemented?
+      hint: null
+      type: select_multiple
+      options:
+      - Increase funding
+      - Improve regulations
+      - Enhance research
+      - Community engagement
+      - Habitat preservation
+      - Other (please specify)
+      - None
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

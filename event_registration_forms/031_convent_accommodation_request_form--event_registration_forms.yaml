@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Convent Accommodation Request Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Full Name
+      hint: Legal name of the guest
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_stay_details
+      label: -- Stay Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check-in Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check-out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights staying
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total people in party
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: room_type_preference
+      label: Room Type Preference
+      hint: Type of accommodation
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Suite
+      - Shared Room
+      required: true
+    - id: 11
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Why are you visiting
+      type: select_one
+      options:
+      - Religious Retreat
+      - Pilgrimage
+      - Tourism
+      - Business
+      - Family Visit
+      - Other
+      required: true
+    - id: 13
+      name: group_affiliation
+      label: Group Affiliation
+      hint: Are you part of a group
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_occasion
+      label: Special Occasion
+      hint: Is this for a special event
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: meal_preference
+      label: Meal Plan Preference
+      hint: null
+      type: select_one
+      options:
+      - No Meals
+      - Breakfast Only
+      - Half Board
+      - Full Board
+      required: true
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Other
+      required: false
+    - id: 18
+      name: smoking_preference
+      label: Smoking Preference
+      hint: null
+      type: select_one
+      options:
+      - Non-Smoking
+      - Smoking Area Access
+      required: true
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_additional_services
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: chapel_attendance
+      label: Will you attend chapel services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 22
+      name: guided_tour_interest
+      label: Interested in guided tours
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: transportation_needed
+      label: Transportation Needed
+      hint: From airport or station
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: parking_required
+      label: Parking Required
+      hint: Will you need parking
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash on Arrival
+      - Check
+      required: true
+    - id: 27
+      name: deposit_paid
+      label: Has deposit been paid
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: false
+    - id: 28
+      name: section_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: understand_rules
+      label: I understand and agree to follow convent rules
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: quiet_hours_respect
+      label: I will respect quiet hours
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: additional_requests
+      label: Additional Requests or Comments
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: referral_source
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Recommendation
+      - Travel Agency
+      - Religious Organization
+      - Social Media
+      - Other
+      required: false

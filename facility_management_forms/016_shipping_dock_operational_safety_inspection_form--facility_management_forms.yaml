@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Dock Operational Safety Inspection Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: safety_equipment
+      label: Safety Equipment
+      hint: List safety equipment used during this shift
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_equipment_options
+      label: Safety Equipment Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hazardous_hazards
+      label: Hazardous Hazards
+      hint: List any hazards found during this inspection
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: hazardous_hazards_options
+      label: Hazardous Hazards Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: finding_followup_status
+      label: Finding Follow-up Status
+      hint: Select if this finding needs follow-up and what the status is
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - In Progress
+      - Completed
+      required: false
+    - id: 10
+      name: finding_followup_status_options
+      label: Finding Follow-up Status Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional notes about this inspection
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

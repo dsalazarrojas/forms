@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibit Storage Inspection Form
+    pages:
+    - id: 1
+      name: facility_management_forms_exhibit_storage_inspection_form_1
+      label: exhibit_storage_inspection_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_management_forms_exhibit_storage_inspection_form_2
+      label: storage_location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''location_1''}'
+      - '{''value'': ''location_2''}'
+      - '{''value'': ''location_3''}'
+      - '{''value'': ''location_4''}'
+      required: true
+    - id: 3
+      name: facility_management_forms_exhibit_storage_inspection_form_3
+      label: storage_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''storage_conditions_1''}'
+      - '{''value'': ''storage_conditions_2''}'
+      - '{''value'': ''storage_conditions_3''}'
+      required: true
+    - id: 4
+      name: facility_management_forms_exhibit_storage_inspection_form_4
+      label: storage_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''storage_status_1''}'
+      - '{''value'': ''storage_status_2''}'
+      - '{''value'': ''storage_status_3''}'
+      required: true
+    - id: 5
+      name: facility_management_forms_exhibit_storage_inspection_form_5
+      label: maintenance_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_management_forms_exhibit_storage_inspection_form_6
+      label: next_check_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facility_management_forms_exhibit_storage_inspection_form_7
+      label: last_check
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: facility_management_forms_exhibit_storage_inspection_form_8
+      label: storage_capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: facility_management_forms_exhibit_storage_inspection_form_9
+      label: storage_capacity_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facility_management_forms_exhibit_storage_inspection_form_10
+      label: facility_storage
+      hint: null
+      type: note
+      options: []
+      required: false

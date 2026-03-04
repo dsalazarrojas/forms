@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Workshop Feedback Form
+    pages:
+    - id: 1
+      name: scholarship_workshop_feedback_form_1
+      label: What did you think of the scholarship workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_score
+      label: feedback_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_comment
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_category
+      label: What category does this feedback fall under?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

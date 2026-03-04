@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bachelorette Weekend Registration
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weekend_package
+      label: Weekend package selected
+      hint: Choose package
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - VIP
+      required: true
+    - id: 5
+      name: accommodation_needed
+      label: Accommodation needed
+      hint: Number of nights and room type
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Allergies restrictions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For weekend coordination
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_status
+      label: Payment status
+      hint: Paid pending or deposit
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Deposit only
+      required: true
+    - id: 9
+      name: special_requests
+      label: Special requests
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

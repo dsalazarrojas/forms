@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Exam Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performance_questions
+      label: Performance Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rubric_score
+      label: Rubric Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_designs
+      label: Student Designs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: text
+      options: []
+      required: false

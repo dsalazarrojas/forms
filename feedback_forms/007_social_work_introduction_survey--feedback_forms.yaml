@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Introduction Survey
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''case_management'', ''value'': ''Case Management''}'
+      - '{''id'': 2, ''name'': ''counseling'', ''value'': ''Counseling''}'
+      - '{''id'': 3, ''name'': ''support_group'', ''value'': ''Support Group''}'
+      required: true
+    - id: 4
+      name: social_support
+      label: Social Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: relationship
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''single'', ''value'': ''Single''}'
+      - '{''id'': 2, ''name'': ''married'', ''value'': ''Married''}'
+      - '{''id'': 3, ''name'': ''divorced'', ''value'': ''Divorced''}'
+      - '{''id'': 4, ''name'': ''widowed'', ''value'': ''Widowed''}'
+      required: false
+    - id: 7
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''employed'', ''value'': ''Employed''}'
+      - '{''id'': 2, ''name'': ''student'', ''value'': ''Student''}'
+      - '{''id'': 3, ''name'': ''retired'', ''value'': ''Retired''}'
+      required: true
+    - id: 9
+      name: employment_income
+      label: Employment Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hours_paid
+      label: Hours Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: social_security
+      label: Social Security
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
+      - '{''id'': 3, ''name'': ''unsure'', ''value'': ''Unsure''}'
+      - '{''id'': 4, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
+      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      required: true
+    - id: 13
+      name: disability_status
+      label: Disability Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
+      - '{''id'': 3, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
+      - '{''id'': 4, ''name'': ''unsure'', ''value'': ''Unsure''}'
+      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      required: false
+    - id: 14
+      name: veterans_benefits
+      label: Veterans Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
+      - '{''id'': 3, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
+      - '{''id'': 4, ''name'': ''unsure'', ''value'': ''Unsure''}'
+      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      required: false
+    - id: 15
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_condition
+      label: Mental Health Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_services
+      label: Medical Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_expenses
+      label: Medical Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: medical_bills
+      label: Medical Bills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''name'': False, ''value'': ''No''}'
+      - '{''id'': 3, ''name'': ''pending_review'', ''value'': ''Pending Review''}'
+      - '{''id'': 4, ''name'': ''unsure'', ''value'': ''Unsure''}'
+      - '{''id'': 5, ''name'': ''not_applicable'', ''value'': ''Not Applicable''}'
+      required: true
+    - id: 24
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

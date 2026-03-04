@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_workshop_participant_evaluation_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_title
+      label: workshop_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_id
+      label: session_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''option_1'', ''label'': ''Option 1'', ''value'': ''''}'
+      - '{''id'': ''option_2'', ''label'': ''Option 2'', ''value'': ''''}'
+      - '{''id'': ''option_3'', ''label'': ''Option 3'', ''value'': ''''}'
+      required: false
+    - id: 8
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: division
+      label: division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

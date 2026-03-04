@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expo Networking Cocktail RSVP Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Enter event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_status
+      label: RSVP status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Attending''}'
+      - '{''id'': 2, ''name'': ''Not Attending''}'
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_note
+      label: RSVP Note
+      hint: null
+      type: note
+      options: []
+      required: false

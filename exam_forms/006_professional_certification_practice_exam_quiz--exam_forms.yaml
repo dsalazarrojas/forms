@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_certification_practice_exam_quiz
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: multiple_choice
+      label: select_multiple_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: single_choice
+      label: select_one_field
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date_field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time_field
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: text
+      label: text_field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: integer
+      label: integer_field
+      hint: null
+      type: number
+      options: []
+      required: false

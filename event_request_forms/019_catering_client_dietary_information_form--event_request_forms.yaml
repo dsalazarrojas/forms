@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Client Dietary Information Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_guests
+      label: Total Number of Guests
+      hint: Expected guest count
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: has_dietary_restrictions
+      label: Are There Dietary Restrictions
+      hint: Do any guests have dietary needs
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: vegetarian_count
+      label: Vegetarian Guests
+      hint: Number of vegetarian meals
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vegan_count
+      label: Vegan Guests
+      hint: Number of vegan meals
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gluten_free_count
+      label: Gluten-Free Guests
+      hint: Number of gluten-free meals
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dairy_free_count
+      label: Dairy-Free Guests
+      hint: Number of dairy-free meals
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: nut_allergy_count
+      label: Nut Allergy Guests
+      hint: Number of nut-free meals
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shellfish_allergy_count
+      label: Shellfish Allergy Guests
+      hint: Number of shellfish-free meals
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: religious_dietary_count
+      label: Religious Dietary Requirements
+      hint: Halal - Kosher - etc
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: religious_dietary_details
+      label: Religious Dietary Details
+      hint: Specify the requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_dietary_count
+      label: Medical Dietary Requirements
+      hint: Diabetes - celiac - etc
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: medical_dietary_details
+      label: Medical Dietary Details
+      hint: Specify the medical needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_dietary_count
+      label: Other Dietary Requirements
+      hint: Any other restrictions
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: other_dietary_details
+      label: Other Dietary Details
+      hint: Describe the restrictions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: guest_list_provided
+      label: Guest List with Dietary Info Provided
+      hint: Will you provide a detailed guest list
+      type: select_one
+      options:
+      - Yes - Attached
+      - Yes - Will Send Later
+      - false
+      required: true
+    - id: 21
+      name: buffet_labels_needed
+      label: Buffet Labels Needed
+      hint: Do you need allergen labels
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: separate_preparation
+      label: Separate Preparation Required
+      hint: For severe allergies
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

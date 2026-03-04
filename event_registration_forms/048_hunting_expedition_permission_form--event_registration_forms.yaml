@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunting Expedition Permission Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permission_form_participant
+      label: Has Permission Form?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_license
+      label: Participant License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 5
+      name: participant_vehicle
+      label: Participant Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_equipment
+      label: Participant Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guide_permission
+      label: Guide Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: guide_experience
+      label: Guide Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guide_equipment
+      label: Guide Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guide_vehicle
+      label: Guide Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guide_license
+      label: Guide License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I have read and understand the terms and conditions''}'
+      - '{''id'': 2, ''label'': ''I have not read and not understand the terms and
+        conditions''}'
+      required: false
+    - id: 13
+      name: guide_agreement
+      label: Guide Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I have read and understand the terms and conditions''}'
+      - '{''id'': 2, ''label'': ''I have not read and not understand the terms and
+        conditions''}'
+      required: false
+    - id: 14
+      name: participant_vehicle_details
+      label: Participant Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guide_vehicle_details
+      label: Guide Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_equipment_details
+      label: Participant Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: guide_equipment_details
+      label: Guide Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_agreed_to_terms
+      label: Participant Agreed to Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 19
+      name: guide_agreed_to_terms
+      label: Guide Agreed to Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 20
+      name: participant_vehicle_type
+      label: Participant Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''2-Wheel''}'
+      - '{''id'': 2, ''label'': ''4-Wheel''}'
+      - '{''id'': 3, ''label'': ''All-Terrain''}'
+      required: false
+    - id: 21
+      name: guide_vehicle_type
+      label: Guide Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''2-Wheel''}'
+      - '{''id'': 2, ''label'': ''4-Wheel''}'
+      - '{''id'': 3, ''label'': ''All-Terrain''}'
+      required: false
+    - id: 22
+      name: participant_vehicle_make
+      label: Participant Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guide_vehicle_make
+      label: Guide Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_vehicle_year
+      label: Participant Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: guide_vehicle_year
+      label: Guide Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false

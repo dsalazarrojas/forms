@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: dance_festival_performer_rsvp_form
+    pages:
+    - id: 1
+      name: performer_details
+      label: Performer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_details
+      label: Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: production_needs
+      label: Production Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreements
+      label: Agreements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_status
+      label: RSVP Status
+      hint: Please respond to this form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: performance_length
+      label: Performance Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: production_needs_list
+      label: Production Needs List
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stage
+      - Sound
+      - Lighting
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special Requirements
+      hint: Please specify any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_terms
+      label: Agreement Terms
+      hint: Please read and agree
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: Please enter contact info
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: Please enter a phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: rsvp_note
+      label: RSVP Note
+      hint: Please provide any additional information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: performer_id
+      label: Performer ID
+      hint: Performer ID number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: event_location
+      label: Event Location
+      hint: Name of the event location
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: rsvp_status_note
+      label: RSVP Status Note
+      hint: Please provide any additional information
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: production_team
+      label: Production Team
+      hint: Name of the production team
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rsvp_confirmed
+      label: RSVP Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: confirmation_note
+      label: Confirmation Note
+      hint: Please enter confirmation note
+      type: text
+      options: []
+      required: true

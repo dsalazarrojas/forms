@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Protein Consortium Registration Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Member''}'
+      - '{''id'': 2, ''label'': ''Non-Member''}'
+      - '{''id'': 3, ''label'': ''Sponsor''}'
+      required: true
+    - id: 7
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: data_protection_policy
+      label: Data Protection Policy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: true
+    - id: 9
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''I have read and agree to the terms and conditions'',
+        ''value'': 1}'
+      - '{''id'': 2, ''label'': ''I have not read and do not agree to the terms and
+        conditions'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Provided'', ''value'': 3}'
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

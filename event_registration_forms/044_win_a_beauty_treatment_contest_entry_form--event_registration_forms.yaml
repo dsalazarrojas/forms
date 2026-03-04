@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Win A Beauty Treatment Contest Entry Form
+    pages:
+    - id: 1
+      name: salon_name
+      label: salon_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entry_title
+      label: entry_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: entry_time
+      label: entry_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: salon_phone
+      label: salon_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: salon_name_hint
+      label: salon_name_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entry_type
+      label: entry_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: entry_details
+      label: entry_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: salon_address
+      label: salon_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: salon_license
+      label: salon_license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: entry_media
+      label: entry_media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: entry_terms_agreed
+      label: entry_terms_agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: entry_terms_agreed_label
+      label: entry_terms_agreed_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: entry_terms_agreed_label_hint
+      label: entry_terms_agreed_label_hint
+      hint: null
+      type: text
+      options: []
+      required: false

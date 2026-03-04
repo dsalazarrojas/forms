@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actuarial Exam Site Preference Form
+    pages:
+    - id: 1
+      name: candidate_information
+      label: Candidate information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate name
+      hint: Full legal name as on registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Candidate email
+      hint: Used for scheduling confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: preferred_locations
+      label: Preferred exam locations
+      hint: Rank up to three site preferences
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: accommodation_needs
+      label: Accommodation needs
+      hint: Specify any testing accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exam_date_options
+      label: Exam date options
+      hint: Provide 2 to 3 preferred dates
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_plan
+      label: Travel plan
+      hint: Will you require travel assistance
+      type: select_one
+      options:
+      - No travel needed
+      - Local travel
+      - Requires lodging
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special instructions for proctor
+      hint: Any additional notes for test center
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile phone for day of exam contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_terms
+      label: Agreement to testing policies
+      hint: Confirm you will follow exam policies
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

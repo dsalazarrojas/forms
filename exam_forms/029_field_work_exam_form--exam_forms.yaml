@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Work Exam Form
+    pages:
+    - id: 1
+      name: form_group_1
+      label: Fieldwork Exam
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: field_work_exam_field_1
+      label: Fieldwork 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: field_work_exam_field_2
+      label: Field 2
+      hint: null
+      type: select_one
+      options:
+      - Field 1
+      - Field 2
+      - Field 3
+      required: true
+    - id: 4
+      name: date_of_fieldwork
+      label: Date of Fieldwork
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_exam
+      label: Date of Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_exam
+      label: Time of Exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_of_exam
+      label: Location of Exam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: observers_at_exam
+      label: Observers at Exam
+      hint: null
+      type: select_multiple
+      options:
+      - Observer 1
+      - Observer 2
+      - Observer 3
+      required: false
+    - id: 9
+      name: exam_duration
+      label: Exam Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: false

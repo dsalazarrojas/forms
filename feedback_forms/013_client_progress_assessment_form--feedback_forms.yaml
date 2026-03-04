@@ -1,0 +1,293 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Progress Assessment Form
+    pages:
+      - id: 1
+        name: form_header
+        label: Client Progress Assessment
+        hint: This assessment helps track progress and adjust support strategies
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: client_id
+        label: Client ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: service_provider
+        label: Service Provider Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: service_type
+        label: Type of Service
+        hint: null
+        type: select_one
+        options:
+          - Counseling
+          - Coaching
+          - Case Management
+          - Therapy
+          - Training
+          - Support Services
+          - Other
+        required: true
+      - id: 7
+        name: time_in_program
+        label: How Long Has Client Been in Program
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+        required: true
+      - id: 8
+        name: goals_review
+        label: Review of Previous Goals
+        hint: Progress on previously set goals
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: goal_achievement_level
+        label: Overall Goal Achievement Level
+        hint: null
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met All Goals
+          - Met Most Goals
+          - Met Some Goals
+          - Minimal Progress
+          - No Progress
+        required: true
+      - id: 10
+        name: strengths_demonstrated
+        label: Strengths Demonstrated by Client
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Commitment
+          - Communication
+          - Problem-Solving
+          - Resilience
+          - Self-Awareness
+          - Motivation
+          - Adaptability
+          - Time Management
+          - Resourcefulness
+          - Other
+        required: true
+      - id: 11
+        name: areas_of_improvement
+        label: Areas Showing Improvement
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Emotional Regulation
+          - Communication Skills
+          - Coping Strategies
+          - Daily Functioning
+          - Social Skills
+          - Self-Care
+          - Goal Setting
+          - Decision Making
+          - Stress Management
+          - Other
+        required: true
+      - id: 12
+        name: ongoing_challenges
+        label: Ongoing Challenges
+        hint: Areas where client still struggles
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: barriers_to_progress
+        label: Barriers to Progress
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - External Stressors
+          - Lack of Resources
+          - Health Issues
+          - Financial Constraints
+          - Family Dynamics
+          - Work Obligations
+          - Transportation
+          - Motivation
+          - Other
+        required: true
+      - id: 14
+        name: client_engagement_level
+        label: Client Engagement Level
+        hint: null
+        type: select_one
+        options:
+          - Highly Engaged
+          - Engaged
+          - Moderately Engaged
+          - Minimally Engaged
+          - Disengaged
+        required: true
+      - id: 15
+        name: attendance_consistency
+        label: Attendance Consistency
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Never Missed
+          - Very Good - Rarely Missed
+          - Good - Occasionally Missed
+          - Fair - Frequently Missed
+          - Poor - Inconsistent
+        required: true
+      - id: 16
+        name: homework_completion
+        label: Homework or Assignment Completion
+        hint: null
+        type: select_one
+        options:
+          - Always Complete
+          - Usually Complete
+          - Sometimes Complete
+          - Rarely Complete
+          - Never Complete
+          - Not Applicable
+        required: false
+      - id: 17
+        name: support_system
+        label: Strength of Support System
+        hint: Family friends community
+        type: select_one
+        options:
+          - Very Strong
+          - Strong
+          - Moderate
+          - Weak
+          - Very Weak
+          - Unknown
+        required: true
+      - id: 18
+        name: new_goals
+        label: New Goals for Next Period
+        hint: What should client focus on next
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: action_items
+        label: Action Items for Client
+        hint: Specific tasks or activities
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: action_items_provider
+        label: Action Items for Provider
+        hint: What will you do to support client
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: service_adjustments
+        label: Recommended Service Adjustments
+        hint: Changes to frequency approach etc.
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: referrals_needed
+        label: Are Additional Referrals Needed
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: false
+      - id: 23
+        name: referral_details
+        label: Referral Details
+        hint: If yes specify what type
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: risk_assessment
+        label: Current Risk Level
+        hint: null
+        type: select_one
+        options:
+          - Low Risk
+          - Moderate Risk
+          - Elevated Risk
+          - High Risk
+          - Crisis
+        required: true
+      - id: 25
+        name: safety_plan_updated
+        label: Is Safety Plan Updated
+        hint: If applicable
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: false
+      - id: 26
+        name: client_feedback
+        label: Client Feedback on Services
+        hint: How does client feel about progress
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: provider_notes
+        label: Provider Notes and Observations
+        hint: Additional professional observations
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: next_assessment_date
+        label: Next Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: false

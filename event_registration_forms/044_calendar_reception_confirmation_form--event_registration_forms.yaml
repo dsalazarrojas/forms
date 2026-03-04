@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calendar Reception Confirmation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: Time of event
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes, definitely attending
+      - Probably attending
+      - Not sure yet
+      - Probably not attending
+      - No, cannot attend
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total in your party including you
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: guest_names
+      label: Guest Names
+      hint: Names of additional guests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any food restrictions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meal_preference
+      label: Meal Preference
+      hint: Choose your meal option
+      type: select_one
+      options:
+      - No preference
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      required: false
+    - id: 12
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Drink preference
+      type: select_one
+      options:
+      - No preference
+      - Wine
+      - Beer
+      - Soft drinks
+      - Water
+      - Coffee or tea
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need transportation assistance
+      type: select_one
+      options:
+      - false
+      - Yes, need information
+      - Yes, need arrangement
+      required: false
+    - id: 15
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: hotel_accommodation
+      label: Hotel Accommodation Needed
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - false
+      - Yes, please send information
+      - Yes, need booking assistance
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Where did you learn about it
+      type: select_one
+      options:
+      - Invitation
+      - Email
+      - Social media
+      - Website
+      - Friend or colleague
+      - Other
+      required: false
+    - id: 19
+      name: looking_forward
+      label: Looking Forward To
+      hint: What are you most excited about
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Budget Expense Submission Form
+    pages:
+    - id: 1
+      name: form_submit_date
+      label: Form Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: marketing_budget_currency
+      label: Marketing Budget Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 4
+      name: marketing_expense_category
+      label: Marketing Expense Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 5
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: expense_reason
+      label: Expense Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

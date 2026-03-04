@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_policy_panel_sponsorship_form
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Event Type'': ''Policy Event''}'
+      - '{''Event Type'': ''Public Event''}'
+      - '{''Event Type'': ''Meeting''}'
+      - '{''Event Type'': ''Forum''}'
+      - '{''Event Type'': ''Conference''}'
+      - '{''Event Type'': ''Workshop''}'
+      - '{''Event Type'': ''Seminar''}'
+      - '{''Event Type'': ''Webinar''}'
+      - '{''Event Type'': ''Other''}'
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: sponsorship_details
+      label: Sponsorship Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: terms_accepted
+      label: Terms Accepted
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms and conditions
+      - I have read but do not agree to the terms and conditions
+      - Do not show
+      required: true

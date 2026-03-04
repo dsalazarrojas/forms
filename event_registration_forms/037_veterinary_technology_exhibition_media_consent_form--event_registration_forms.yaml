@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Technology Exhibition Media Consent Form
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_types
+      label: What type of media will be recorded?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Video''}'
+      - '{''option'': ''Audio''}'
+      - '{''option'': ''Photos''}'
+      required: false
+    - id: 3
+      name: media_usage
+      label: What would you like to use the recorded media for?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Social Media''}'
+      - '{''option'': ''Press Release''}'
+      - '{''option'': ''Internal Use''}'
+      - '{''option'': ''External Website''}'
+      - '{''option'': ''External Publication''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: Do you consent to the recording of your likeness and image?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 8
+      name: terms
+      label: Have you read and agreed with our Terms and Conditions?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false

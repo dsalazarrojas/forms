@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Championship Results Submission
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: champion
+      label: Champion
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: competition_type
+      label: Competition Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Competition A''}'
+      - '{''id'': 2, ''label'': ''Competition B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: false
+    - id: 8
+      name: competition_type_2
+      label: Competition Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Competition A''}'
+      - '{''id'': 2, ''label'': ''Competition B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: false
+    - id: 9
+      name: judges_score
+      label: Judge Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: scoresheet
+      label: Score Sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional notes about the event
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Approved''}'
+      - '{''id'': 3, ''label'': ''Denied''}'
+      required: false

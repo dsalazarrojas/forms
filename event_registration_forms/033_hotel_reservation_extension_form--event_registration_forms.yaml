@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Extension Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Standard Room''}'
+      - '{''label'': ''Suite''}'
+      - '{''label'': ''Deluxe Room''}'
+      required: false
+    - id: 5
+      name: extension_days
+      label: Extension Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false

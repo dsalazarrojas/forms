@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drug Suffixes Quiz
+    pages:
+    - id: 1
+      name: drug_suffixes_quiz
+      label: Drug Suffixes Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: drug_class
+      label: Drug Class
+      hint: null
+      type: select_one
+      options:
+      - Acetate
+      - Amino
+      - Citrate
+      - Hydrochloride
+      - Lysine
+      - Maleate
+      - Mesylate
+      - Sulfate
+      - Tosylate
+      required: false
+    - id: 3
+      name: drug_suffixes
+      label: Drug Suffixes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: drug_prefix
+      label: Drug Prefix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drug_suffix
+      label: Drug Suffix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: answer
+      label: Drug Answer
+      hint: null
+      type: text
+      options: []
+      required: false

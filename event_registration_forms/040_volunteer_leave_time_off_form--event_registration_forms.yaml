@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Leave Time Off Form
+    pages:
+    - id: 1
+      name: volunteer_leave_time_off_form
+      label: volunteer_leave_time_off_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_leaves
+      label: volunteer_leaves
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_leave
+      label: date_of_leave
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_leave
+      label: time_of_leave
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: Please provide a reason for your leave request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_duration
+      label: leave_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: status
+      hint: Leave status
+      type: select_one
+      options:
+      - pending
+      - approved
+      - denied
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_name
+      label: volunteer_name
+      hint: Please provide the volunteer's name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: assigned_user
+      hint: Assigned User
+      type: select_one
+      options:
+      - Jim
+      - Sarah
+      required: false

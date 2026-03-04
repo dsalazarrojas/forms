@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Event Authorization Form
+    pages:
+    - id: 1
+      name: club_name
+      label: Club or Organization Name
+      hint: Name of club hosting event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_organizer
+      label: Event Organizer Name
+      hint: Primary person organizing event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organizer_phone
+      label: Organizer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event
+      label: -- Event Details --
+      hint: Information about the event
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name or Title
+      hint: What is the event called
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Social gathering
+      - Educational seminar
+      - Fundraiser
+      - Competition
+      - Volunteer activity
+      - Sports activity
+      - Travel or field trip
+      - Other
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When will the event occur
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: Start time of event
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_duration
+      label: Event Duration
+      hint: How long will event last
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_location
+      label: -- Event Location --
+      hint: Where the event will be held
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: Full address or venue name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location_type
+      label: Location Type
+      hint: null
+      type: select_one
+      options:
+      - On campus
+      - Off campus
+      - Virtual
+      - Outdoor
+      - Other
+      required: true
+    - id: 14
+      name: venue_contact
+      label: Venue Contact Person
+      hint: Person at venue for coordination
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_attendance
+      label: -- Attendance Information --
+      hint: Who will attend and how many
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: Approximate number of people
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: attendee_types
+      label: Types of Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Club members only
+      - Campus community
+      - General public
+      - Minors
+      - Guests from outside
+      required: true
+    - id: 18
+      name: section_activities
+      label: -- Event Activities --
+      hint: What will happen at the event
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: activity_description
+      label: Description of Activities
+      hint: What will attendees do
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: alcohol_service
+      label: Will Alcohol Be Served
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: food_service
+      label: Will Food Be Served
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: section_safety
+      label: -- Safety and Risk Assessment --
+      hint: Safety measures and potential risks
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: risk_assessment
+      label: Potential Safety or Liability Risks
+      hint: What could go wrong
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_measures
+      label: Safety Measures or Precautions
+      hint: How will you ensure safety
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approval_status
+      label: Do you request authorization for this event
+      hint: null
+      type: select_one
+      options:
+      - Yes, request authorization
+      - false
+      required: true

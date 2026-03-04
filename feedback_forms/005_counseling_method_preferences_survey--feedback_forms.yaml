@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: counseling_method_preferences_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: approach_to_counseling
+      label: Approach to Counseling
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Solution Focused''}'
+      - '{''label'': ''Cognitive Behavioral''}'
+      - '{''label'': ''Mindfulness''}'
+      required: false
+    - id: 3
+      name: frequency_of_sessions
+      label: Frequency of Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: true
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_length
+      label: Preferred Length of Sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In-person''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 7
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Formal''}'
+      - '{''label'': ''Informal''}'
+      - '{''label'': ''Neutral''}'
+      required: true
+    - id: 8
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''One-time''}'
+      - '{''label'': ''Multiple''}'
+      - '{''label'': ''Continuous''}'
+      required: true
+    - id: 9
+      name: preferred_method
+      label: Preferred Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online chat''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone call''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true

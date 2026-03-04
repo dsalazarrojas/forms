@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Employment Separation Form
+    pages:
+    - id: 1
+      name: global_employment_separation_form
+      label: Global Employment Separation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_separation
+      label: Reason for Separation
+      hint: null
+      type: select_one
+      options:
+      - Termination
+      - Resignation
+      - Other
+      required: false
+    - id: 7
+      name: separation_date
+      label: Separation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: last_day_of_work
+      label: Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: separation_type
+      label: Separation Type
+      hint: null
+      type: select_one
+      options:
+      - Voluntary
+      - Involuntary
+      - Other
+      required: false
+    - id: 10
+      name: reason_for_separation_other
+      label: Reason for Separation (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: separation_effective_date
+      label: Separation Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: select_one
+      options:
+      - Termination
+      - Resignation
+      - Other
+      required: false
+    - id: 14
+      name: termination_type
+      label: Termination Type
+      hint: null
+      type: select_one
+      options:
+      - Voluntary
+      - Involuntary
+      - Other
+      required: false

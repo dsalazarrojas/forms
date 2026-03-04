@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Club Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: user@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: birth_time
+      label: birth time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: dance_style
+      label: dance style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Jazz
+      - Tap
+      - Modern
+      - Contemporary
+      - Hip hop
+      - Ballroom
+      - Latin
+      - Ballroom Latin
+      - Ballroom Standard
+      required: true
+    - id: 8
+      name: membership_length
+      label: membership length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: membership_length_hint
+      label: membership length hint
+      hint: months
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_condition_note
+      label: medical condition note
+      hint: null
+      type: note
+      options: []
+      required: false

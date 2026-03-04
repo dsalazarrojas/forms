@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_space_release_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booth_request
+      label: booth_request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: trade_shows_and_fairs
+      label: trade_shows_and_fairs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''trade show''}'
+      - '{''id'': 2, ''label'': ''fair''}'
+      - '{''id'': 3, ''label'': ''festival''}'
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

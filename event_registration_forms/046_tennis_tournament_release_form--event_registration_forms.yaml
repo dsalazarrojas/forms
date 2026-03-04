@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Tournament Release Form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship To Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_authorization
+      label: Medical Authorization
+      hint: null
+      type: select_one
+      options:
+      - Emergency Medical Services
+      - Non-Emergency Medical Services
+      - No Authorization
+      required: false
+    - id: 12
+      name: emergency_medical_services
+      label: Emergency Medical Services
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid
+      - Medical Doctor
+      - Ambulance
+      - Other (specify)
+      required: false
+    - id: 13
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 14
+      name: emergency_medical_insurance
+      label: Emergency Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 15
+      name: participant_acknowledgement
+      label: Participant Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Acknowledge
+      - Acknowledge and Waive
+      - Do Not Acknowledge
+      required: false
+    - id: 16
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      - Do Not Sign
+      required: false

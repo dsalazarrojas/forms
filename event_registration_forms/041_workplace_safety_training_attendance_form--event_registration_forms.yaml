@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_safety_training_attendance_form
+    pages:
+    - id: 1
+      name: training_session_details
+      label: Training Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_attendance
+      label: Date of Attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_attendance
+      label: Time of Attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_attendance_status
+      label: Training Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Completed
+      - No Attendance
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_attendance_count
+      label: Session Attendance Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_attendance_date
+      label: Training Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: false

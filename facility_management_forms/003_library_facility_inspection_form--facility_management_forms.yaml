@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Facility Inspection Form
+    pages:
+    - id: 1
+      name: library_inspection_form1
+      label: Library Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals_and_objectives
+      label: Goals And Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

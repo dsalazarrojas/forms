@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Fair Closing Reception RSVP Form
+    pages:
+    - id: 1
+      name: guest_rsvp_header
+      label: -- RSVP Details --
+      hint: Please RSVP by Thursday evening
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendance_status
+      label: Will you be attending the closing reception?
+      hint: null
+      type: select_one
+      options:
+      - Yes - I will be there
+      - No - I am unable to attend
+      required: true
+    - id: 4
+      name: guest_count
+      label: Total number of people in your party
+      hint: Including yourself
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email_confirmation
+      label: Email Address for Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: professional_role
+      label: Your Role in the Art Community
+      hint: null
+      type: select_one
+      options:
+      - Exhibiting Artist
+      - Gallery Representative
+      - Collector
+      - Sponsor - Partner
+      - Press - Media
+      - VIP Guest
+      required: true
+    - id: 7
+      name: hospitality_header
+      label: -- Hospitality and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dietary_requirements
+      label: Do you have any dietary requirements?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut Allergy
+      - None
+      required: true
+    - id: 9
+      name: beverage_preference
+      label: Preferred Beverage Category
+      hint: null
+      type: select_one
+      options:
+      - Wine
+      - Beer
+      - Non-alcoholic Cocktails
+      - Soft Drinks - Water
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Any accessibility requirements for the venue?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback_header
+      label: -- Fair Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: favorite_moment
+      label: What was your highlight of the Art Fair this year?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rsvp_submission_date
+      label: Date of RSVP
+      hint: null
+      type: date
+      options: []
+      required: true

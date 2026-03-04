@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stockroom Door Type Survey
+    pages:
+    - id: 1
+      name: stockroom_door_type
+      label: Stockroom Door Type
+      hint: null
+      type: select_multiple
+      options:
+      - 2-Wire
+      - 3-Wire
+      - 4-Wire
+      required: false
+    - id: 2
+      name: stockroom_performance
+      label: Stockroom Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: stockroom_condition
+      label: Stockroom Condition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: stockroom_access
+      label: Stockroom Access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: stockroom_notes
+      label: Stockroom Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 7
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: manager_rating_scale
+      label: Manager Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-20
+      - 21-40
+      - 41-60
+      - 61-80
+      - 81-100
+      required: false
+    - id: 11
+      name: stockroom_door_type_id
+      label: Stockroom Door Type ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stockroom_door_type_name
+      label: Stockroom Door Type Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: facility_website
+      label: Facility Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stockroom_doors_number
+      label: Stockroom Doors Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: stockroom_doors_condition
+      label: Stockroom Doors Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stockroom_doors_access
+      label: Stockroom Doors Access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: stockroom_doors_notes
+      label: Stockroom Doors Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: stockroom_floor_plan
+      label: Stockroom Floor Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stockroom_comments
+      label: Stockroom Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: stockroom_recommendations
+      label: Stockroom Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false

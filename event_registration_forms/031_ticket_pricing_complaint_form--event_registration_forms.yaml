@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Pricing Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ticket_price
+      label: Ticket price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ticket_pricing_date
+      label: Ticket pricing date
+      hint: Date of the ticket pricing event
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: complaint_description
+      label: Complaint description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_info
+      label: Submitter information
+      hint: null
+      type: text
+      options: []
+      required: false

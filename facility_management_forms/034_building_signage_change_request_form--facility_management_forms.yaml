@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Signage Change Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: When submitting this request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_role
+      label: Your Role
+      hint: Tenant, manager, owner, etc
+      type: select_one
+      options:
+      - Tenant
+      - Property Manager
+      - Building Owner
+      - Contractor
+      - Other
+      required: true
+    - id: 6
+      name: building_address
+      label: Building Address
+      hint: Location of the building
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: unit_number
+      label: Unit or Space Number
+      hint: Specific location if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signage_location
+      label: Current Signage Location
+      hint: Where is the sign located
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: change_type
+      label: Type of Change Requested
+      hint: What do you want to do
+      type: select_one
+      options:
+      - Add New Signage
+      - Modify Existing Sign
+      - Remove Signage
+      - Relocate Signage
+      - Replace Signage
+      required: true
+    - id: 10
+      name: current_sign_description
+      label: Description of Current Signage
+      hint: What is the sign currently
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: proposed_sign_description
+      label: Description of Proposed Signage
+      hint: What should the sign be
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sign_content
+      label: Text or Content of Signage
+      hint: Exact text to be displayed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: sign_dimensions
+      label: Sign Dimensions
+      hint: Height and width in inches or cm
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sign_material
+      label: Sign Material
+      hint: What material is the sign
+      type: select_one
+      options:
+      - Metal
+      - Wood
+      - Plastic
+      - Vinyl
+      - Glass
+      - Neon
+      - LED
+      - Other
+      required: false
+    - id: 15
+      name: sign_design
+      label: Design or Mockup Attached
+      hint: Do you have a design
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 16
+      name: business_information
+      label: Business or Tenant Information
+      hint: Company name and details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signage_purpose
+      label: Purpose of Signage
+      hint: What is the sign for
+      type: select_one
+      options:
+      - Business Identification
+      - Directional
+      - Safety or Warning
+      - Informational
+      - Wayfinding
+      - Other
+      required: false
+    - id: 18
+      name: branding_guidelines
+      label: Adheres to Building Branding Guidelines
+      hint: Follows building standards
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - N/A
+      required: false
+    - id: 19
+      name: regulatory_compliance
+      label: Sign Complies With Local Codes
+      hint: Building codes and regulations
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: approvals_obtained
+      label: Approvals Already Obtained
+      hint: Landlord, HOA, municipality
+      type: select_multiple
+      options:
+      - Property Owner Approval
+      - HOA Approval
+      - Municipality Approval
+      - ADA Compliance Review
+      - None Yet
+      required: false
+    - id: 21
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Budget for signage
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: timeline
+      label: Desired Installation Timeline
+      hint: When do you need this
+      type: select_one
+      options:
+      - Urgent - ASAP
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Flexible
+      required: false

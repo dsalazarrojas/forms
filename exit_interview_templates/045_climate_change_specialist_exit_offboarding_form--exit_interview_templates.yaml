@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Change Specialist Exit Offboarding Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Exit Interview and Feedback Form
+      hint: Help us improve through your departure feedback
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_dates
+      label: Start Date of Employment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_working_day
+      label: Last Working Day
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: employment_section
+      label: -- Employment Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall Satisfaction with Employment
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: experience_rating
+      label: Rate Your Overall Experience - 1 to 10
+      hint: 1 = Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: work_environment
+      label: Work Environment and Culture
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: leadership_quality
+      label: Quality of Leadership and Management
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 13
+      name: career_development
+      label: Career Development Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Very Limited
+      - Limited
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: compensation_benefits
+      label: Compensation and Benefits
+      hint: null
+      type: select_one
+      options:
+      - Below Market
+      - Market Average
+      - Above Market
+      required: false
+    - id: 15
+      name: departure_section
+      label: -- Reason for Departure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_reason
+      label: Primary Reason for Leaving
+      hint: null
+      type: select_one
+      options:
+      - Better Opportunity
+      - Compensation or Benefits
+      - Work-Life Balance
+      - Career Growth
+      - Management or Culture Issues
+      - Location or Relocation
+      - Health or Personal Reasons
+      - Retirement
+      - Other
+      required: true
+    - id: 17
+      name: reason_details
+      label: Provide More Details About Your Departure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: stay_improvements
+      label: -- What Would Have Made You Stay? --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: improvement_factors
+      label: Factors That Could Have Made You Stay
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Higher Salary
+      - Better Benefits
+      - Career Growth Path
+      - Better Management
+      - Improved Work Culture
+      - Flexible Schedule
+      - Remote Work Options
+      - Better Equipment or Resources
+      - Other
+      required: false
+    - id: 20
+      name: organizational_feedback
+      label: -- Organizational Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: organizational_strengths
+      label: What Are the Organization's Strengths?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvement_areas
+      label: Areas for Organizational Improvement
+      hint: What could be done better?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: management_feedback
+      label: Feedback on Direct Management
+      hint: What worked well and what could improve?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: climate_mission
+      label: -- Climate Change Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: mission_alignment
+      label: How Aligned Was the Work with Your Values?
+      hint: null
+      type: select_one
+      options:
+      - Not Aligned
+      - Somewhat Aligned
+      - Neutral
+      - Well Aligned
+      - Perfectly Aligned
+      required: true
+    - id: 26
+      name: climate_impact
+      label: Impact on Climate Change Work
+      hint: Did your work make a difference?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: recommendations_section
+      label: -- Recommendations and Advice --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: successor_advice
+      label: Advice for Your Successor
+      hint: What should they know?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: stay_in_touch
+      label: Would You Like to Stay Connected with the Organization?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 30
+      name: return_possibility
+      label: Would You Consider Returning to the Organization?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: false
+    - id: 31
+      name: additional_feedback
+      label: Additional Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

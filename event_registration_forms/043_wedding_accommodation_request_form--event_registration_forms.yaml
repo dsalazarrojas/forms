@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Accommodation Request Form
+    pages:
+    - id: 1
+      name: wedding_accommodation_request_form_1
+      label: wedding_accommodation_request_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: accommodation_request
+      label: accommodation_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_notes
+      label: accommodation_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accommodation_type_other
+      label: accommodation_type_other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: accommodation_type_other_text
+      label: accommodation_type_other_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_type_1
+      label: hotel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: accommodation_type_2
+      label: vacation_rental
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: accommodation_type_3
+      label: bed_bring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: accommodation_type_4
+      label: house_sitting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

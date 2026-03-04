@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Range Improvement Survey
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - $0-$10
+      - $10-$20
+      - $20-$30
+      - $30 or more
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Sports
+      - Fashion
+      - Home
+      required: false
+    - id: 5
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      required: false
+    - id: 10
+      name: how_found_us
+      label: How did you find us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Referral
+      - Ad
+      - Other
+      required: false
+    - id: 11
+      name: visit_us_before
+      label: Did you visit us before?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: visit_us_last_visit
+      label: Last Visit
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Yesterday
+      - 1-2 weeks ago
+      - 2-4 weeks ago
+      - 1-2 months ago
+      - 2-3 months ago
+      - 3-6 months ago
+      - 6 months or more ago
+      required: false
+    - id: 13
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 10 minutes
+      - 10-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      required: false
+    - id: 14
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple times
+      - First time
+      - Never
+      required: false
+    - id: 15
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 2-3
+      - 3-4
+      - 4-5
+      required: false
+    - id: 16
+      name: purchase_again
+      label: Would you purchase again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: recommend_friends
+      label: Would you recommend?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: purchase_price
+      label: Price Range Purchased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Second time
+      - Third time
+      - Fourth time
+      - More than 4 times
+      required: false
+    - id: 20
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 22
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: income
+      label: Income Range
+      hint: null
+      type: select_one
+      options:
+      - Less than $20,000
+      - $20,000-$40,000
+      - $40,000-$60,000
+      - $60,000-$80,000
+      - $80,000 or more
+      required: false
+    - id: 24
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - Postgraduate
+      required: false
+    - id: 25
+      name: visit_source
+      label: Visit Source
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Search Engine
+      - Referral
+      - Ad
+      - Other
+      required: false

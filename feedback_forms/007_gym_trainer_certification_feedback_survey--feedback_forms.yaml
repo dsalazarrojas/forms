@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Trainer Certification Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_certification
+      label: Trainer Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      required: false
+    - id: 3
+      name: training_quality
+      label: Training Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 4
+      name: professionalizm
+      label: Professionalism
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_development
+      label: Staff Development
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Increase''}'
+      - '{''id'': 2, ''name'': ''Improve''}'
+      - '{''id'': 3, ''name'': ''No Action''}'
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Submit''}'
+      - '{''id'': 2, ''name'': ''Do Not Submit''}'
+      - '{''id'': 3, ''name'': ''Save For Later''}'
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Certified''}'
+      - '{''id'': 2, ''name'': ''Non-Certified''}'
+      required: false
+    - id: 16
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Group Class''}'
+      - '{''id'': 2, ''name'': ''One-On-One''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 18
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: certification_duration
+      label: Certification Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: training_schedule
+      label: Training Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: member_id
+      label: Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trainer_id
+      label: Trainer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

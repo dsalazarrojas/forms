@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Talent Quest Tournament Entry Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: performance_type
+      label: Performance Type
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Dance
+      - Music
+      - Theater
+      - Other
+      required: false
+    - id: 5
+      name: performance_details
+      label: Performance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_email
+      label: School Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false

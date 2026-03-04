@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_writing_feedback_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_label
+      label: How would you rate this writing?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Not bad
+      - Poor
+      required: false
+    - id: 7
+      name: read_time
+      label: How much time you spend reading it?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: day
+      label: Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 12
+      name: month
+      label: Month
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 13
+      name: year
+      label: Year
+      hint: null
+      type: select_multiple
+      options:
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - '2029'
+      - '2030'
+      required: false

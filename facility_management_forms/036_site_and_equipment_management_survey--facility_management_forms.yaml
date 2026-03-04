@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site And Equipment Management Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_info
+      label: Site Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - In Good Condition
+      - Needs Regular Maintenance
+      - Requires Immediate Repair
+      - Needs Replacement
+      required: true
+    - id: 5
+      name: safety_practices
+      label: Safety Practices
+      hint: List safety practices observed or not observed during the visit
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Any additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false

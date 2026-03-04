@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Group Transport Inquiry Form
+    pages:
+    - id: 1
+      name: group_details
+      label: Group Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Private'', ''label'': ''Private''}'
+      - '{''value'': ''Public'', ''label'': ''Public''}'
+      required: true
+    - id: 4
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Agency 1'', ''label'': ''Agency 1''}'
+      - '{''value'': ''Agency 2'', ''label'': ''Agency 2''}'
+      required: true
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''user1'', ''label'': ''user1''}'
+      - '{''value'': ''user2'', ''label'': ''user2''}'
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: group_size_2
+      label: Group Size 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: transport_type_2
+      label: Transport Type 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Private'', ''label'': ''Private''}'
+      - '{''value'': ''Public'', ''label'': ''Public''}'
+      required: false
+    - id: 20
+      name: travel_date_2
+      label: Travel Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: travel_time_2
+      label: Travel Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: return_date_2
+      label: Return Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: return_time_2
+      label: Return Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: group_type_2
+      label: Group Type 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Private'', ''label'': ''Private''}'
+      - '{''value'': ''Public'', ''label'': ''Public''}'
+      required: false
+    - id: 25
+      name: transport_2
+      label: Transport 2
+      hint: null
+      type: text
+      options: []
+      required: false

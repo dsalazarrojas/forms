@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Host Event Legal Release Authorization
+    pages:
+    - id: 1
+      name: event_host
+      label: Event Host
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_names
+      label: Participant Names
+      hint: List all participant names here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_services_and_products
+      label: Participant Services and Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_services_and_products_list
+      label: Participant Services and Products List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_responsibilities
+      label: Participant Responsibilities
+      hint: Participant responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_host_permission
+      label: Event Host Permission
+      hint: Give permission to event host
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_host_permission_list
+      label: Event Host Permission List
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: zoo_habitat_inspection_form
+    pages:
+    - id: 1
+      name: habitat_name
+      label: Habitat Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_species
+      label: Animal Species
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''lion'', ''label'': ''Lion''}'
+      - '{''value'': ''elephant'', ''label'': ''Elephant''}'
+      required: false
+    - id: 3
+      name: animal_id
+      label: Animal ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: habitat_size
+      label: Habitat Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: habitat_condition
+      label: Habitat Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''good'', ''label'': ''Good''}'
+      - '{''value'': ''poor'', ''label'': ''Poor''}'
+      - '{''value'': ''average'', ''label'': ''Average''}'
+      required: false
+    - id: 6
+      name: habitat_status
+      label: Habitat Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 7
+      name: animal_care_team
+      label: Animal Care Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Land Use Survey
+    pages:
+    - id: 1
+      name: landowner_name
+      label: Landowner Name
+      hint: Full name of the landowner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Physical address of the property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parcel_number
+      label: Parcel Number
+      hint: Tax parcel or legal identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_acreage
+      label: Total Acreage
+      hint: Total size of the property in acres
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: land_use_type
+      label: Primary Land Use
+      hint: Main use of the agricultural land
+      type: select_one
+      options:
+      - Cropland
+      - Pasture
+      - Rangeland
+      - Orchard
+      - Vineyard
+      - Greenhouse
+      - Aquaculture
+      - Mixed Use
+      required: true
+    - id: 6
+      name: cropland_acres
+      label: Cropland Acres
+      hint: Acres used for crop production
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pasture_acres
+      label: Pasture Acres
+      hint: Acres used for grazing
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fallow_acres
+      label: Fallow Acres
+      hint: Acres currently not in production
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: irrigation_type
+      label: Irrigation Type
+      hint: Primary irrigation method used
+      type: select_one
+      options:
+      - None
+      - Flood irrigation
+      - Sprinkler
+      - Drip irrigation
+      - Center pivot
+      - Subsurface
+      required: true
+    - id: 10
+      name: water_source
+      label: Water Source
+      hint: Primary source of irrigation water
+      type: select_multiple
+      options:
+      - Well
+      - River or stream
+      - Lake or pond
+      - Municipal supply
+      - Rainwater harvesting
+      - Reclaimed water
+      required: false
+    - id: 11
+      name: crops_grown
+      label: Crops Grown (Current Season)
+      hint: Select all crops currently grown
+      type: select_multiple
+      options:
+      - Corn
+      - Wheat
+      - Soybeans
+      - Rice
+      - Cotton
+      - Hay
+      - Vegetables
+      - Fruits
+      - Nuts
+      - Other
+      required: true
+    - id: 12
+      name: livestock_present
+      label: Livestock Present
+      hint: Are livestock kept on the property
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: livestock_types
+      label: Livestock Types
+      hint: Select all livestock present
+      type: select_multiple
+      options:
+      - Cattle
+      - Sheep
+      - Goats
+      - Pigs
+      - Poultry
+      - Horses
+      - None
+      required: false
+    - id: 14
+      name: conservation_practices
+      label: Conservation Practices
+      hint: Select all practices implemented
+      type: select_multiple
+      options:
+      - Cover cropping
+      - Crop rotation
+      - No-till farming
+      - Terracing
+      - Buffer strips
+      - Wetland preservation
+      - Wildlife habitat
+      - None
+      required: true
+    - id: 15
+      name: soil_type
+      label: Primary Soil Type
+      hint: Main soil type on the property
+      type: select_one
+      options:
+      - Clay
+      - Loam
+      - Sandy
+      - Silt
+      - Peat
+      - Rocky
+      required: false
+    - id: 16
+      name: land_slope
+      label: Land Slope
+      hint: General slope of the property
+      type: select_one
+      options:
+      - Flat
+      - Gently sloping
+      - Moderately sloping
+      - Steep
+      - Very steep
+      required: true
+    - id: 17
+      name: organic_certified
+      label: Organic Certified
+      hint: Is any portion organically certified
+      type: select_one
+      options:
+      - Yes, fully certified
+      - Partially certified
+      - In transition
+      - false
+      required: true
+    - id: 18
+      name: years_in_operation
+      label: Years in Agricultural Operation
+      hint: How long has this been a farm
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-25 years
+      - 25-50 years
+      - More than 50 years
+      required: true
+    - id: 19
+      name: future_plans
+      label: Future Land Use Plans
+      hint: Planned changes in the next 5 years
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true

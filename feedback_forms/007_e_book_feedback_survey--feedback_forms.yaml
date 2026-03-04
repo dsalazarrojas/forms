@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_book_feedback_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: would_recommend
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - Would recommend
+      - Would not recommend
+      required: false
+    - id: 7
+      name: how_did_you_find_it
+      label: how_did_you_find_it
+      hint: null
+      type: select_multiple
+      options:
+      - engaging
+      - boring
+      - confusing
+      - clear
+      - too_complex
+      - too_simple
+      required: false
+    - id: 8
+      name: would_like_to_see
+      label: would_like_to_see
+      hint: null
+      type: select_multiple
+      options:
+      - more
+      - more but different
+      - less
+      - no preference
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_one
+      options:
+      - read more from this author
+      - read a different book
+      - read another book from same author
+      - read no books
+      - none of the above
+      required: false

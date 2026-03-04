@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_claim_form
+    pages:
+    - id: 1
+      name: travel_claim
+      label: travel_claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Airfare''}'
+      - '{''id'': 2, ''label'': ''Hotel''}'
+      - '{''id'': 3, ''label'': ''Rental Car''}'
+      - '{''id'': 4, ''label'': ''Restaurants''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: A travel claim form is used by individuals who want reimbursement for
+        travel-related expenses, such as airfare, hotels, restaurants, or rental cars.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false

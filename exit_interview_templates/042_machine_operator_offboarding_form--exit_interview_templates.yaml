@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Operator Offboarding Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_offboarding
+      label: Reason For Offboarding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: machine_operator_position
+      label: Machine Operator Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_day_of_work
+      label: Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_returned
+      label: Equipment Returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

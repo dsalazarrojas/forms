@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Closure Feedback
+    pages:
+    - id: 1
+      name: closure_impact
+      label: Closure Impact
+      hint: null
+      type: select_one
+      options:
+      - Closure has minimal effect on my business
+      - Closure has moderate effect on my business
+      - Closure has significant effect on my business
+      required: false
+    - id: 2
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Effective
+      - Ineffective
+      - Somewhat Effective
+      - Not Effective
+      required: false
+    - id: 3
+      name: intent_to_return
+      label: Intent to Return
+      hint: null
+      type: select_one
+      options:
+      - Strongly Intent to Return
+      - Somewhat Intent to Return
+      - Not Intend to Return
+      required: false
+    - id: 4
+      name: closure_date
+      label: Closure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: closure_duration
+      label: Closure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: closure_reason
+      label: Closure Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_insight
+      label: Member Insight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

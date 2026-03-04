@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_ticket_payment_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Credit Card
+      hint: Payment method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: credit_card_number
+      label: Card number
+      hint: Card number (e.g. 1234-1234-1234-1234)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: cvv
+      label: Security code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name on card
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: ZIP code
+      hint: ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_confirmation
+      label: Payment prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_details
+      label: Payment details
+      hint: null
+      type: note
+      options: []
+      required: false

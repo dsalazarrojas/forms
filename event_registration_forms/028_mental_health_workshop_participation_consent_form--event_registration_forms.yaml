@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_workshop_participation_consent_form
+    pages:
+    - id: 1
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Event Registration Forms
+      - Workshop Registration Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand the workshop will be recorded and I am okay with being recorded.
+      - I do not want to be recorded.
+      required: true
+    - id: 10
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the workshop rules and guidelines
+      - I do not agree to the workshop rules and guidelines
+      required: true
+    - id: 11
+      name: terms_of_service
+      label: terms of service
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the terms of service
+      - I do not agree to the terms of service
+      required: true
+    - id: 12
+      name: participant_informed_consent
+      label: participant informed consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and understood the workshop description and I give my consent
+      - I have not read and understood the workshop description and I do not give
+        my consent
+      required: true
+    - id: 13
+      name: participant_information
+      label: participant information
+      hint: null
+      type: select_multiple
+      options:
+      - I am willing to share my participant information with the workshop organizers
+      - I am not willing to share my participant information with the workshop organizers
+      required: true

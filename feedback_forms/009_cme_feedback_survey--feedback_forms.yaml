@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: CME Feedback Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For certificate delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: profession
+      label: Profession
+      hint: Your healthcare profession
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Pharmacist
+      - Physician Assistant
+      - Nurse Practitioner
+      - Medical Student
+      - Resident
+      - Fellow
+      - Other Healthcare Professional
+      required: true
+    - id: 4
+      name: specialty
+      label: Medical Specialty
+      hint: Your area of specialization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institution
+      label: Institution
+      hint: Your workplace or hospital
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cme_event_name
+      label: CME Event Name
+      hint: Which event did you attend
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When did you attend
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: overall_rating
+      label: Overall Event Rating
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: content_quality
+      label: Content Quality
+      hint: Rate the educational content
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: speaker_quality
+      label: Speaker Quality
+      hint: Rate the presenters
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: relevance_to_practice
+      label: Relevance to Your Practice
+      hint: How applicable to your work
+      type: select_one
+      options:
+      - Highly Relevant
+      - Very Relevant
+      - Somewhat Relevant
+      - Slightly Relevant
+      - Not Relevant
+      required: true
+    - id: 12
+      name: learning_objectives_met
+      label: Learning Objectives Met
+      hint: Were objectives achieved
+      type: select_one
+      options:
+      - Completely
+      - Mostly
+      - Partially
+      - Minimally
+      - Not At All
+      required: true
+    - id: 13
+      name: materials_quality
+      label: Quality of Materials
+      hint: Handouts slides and resources
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: venue_rating
+      label: Venue Rating
+      hint: If in-person event
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Virtual Event
+      required: true
+    - id: 15
+      name: technology_rating
+      label: Technology Platform Rating
+      hint: For virtual or hybrid events
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 16
+      name: practice_change
+      label: Will This Change Your Practice
+      hint: Impact on your work
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 17
+      name: cme_credits_needed
+      label: CME Credits Needed
+      hint: Number of credit hours
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: future_topics
+      label: Topics for Future Events
+      hint: What would you like to learn
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommend_to_colleagues
+      label: Recommend to Colleagues
+      hint: Would you recommend this event
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

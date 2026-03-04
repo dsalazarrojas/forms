@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Survey
+    pages:
+    - id: 1
+      name: farm_survey_page1
+      label: farm_survey_page1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_survey_page2
+      label: farm_survey_page2_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: farm_survey_page3
+      label: farm_survey_page3_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: farm_survey_page4
+      label: farm_survey_page4_label
+      hint: null
+      type: select_one
+      options:
+      - crop_type
+      - soil_type
+      - equipment_type
+      required: false
+    - id: 5
+      name: farm_survey_page5
+      label: farm_survey_page5_label
+      hint: null
+      type: number
+      options: []
+      required: false

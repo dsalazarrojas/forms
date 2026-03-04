@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Tech Conference Participation Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participation_type
+      label: Participation type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendance
+      label: Will you attend HR Tech Conference?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participation_types
+      label: Participation types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: contact_info_1
+      label: Contact info 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_info_2
+      label: Contact info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_info_3
+      label: Contact info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 19
+      name: contact_method_1
+      label: Contact method 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 20
+      name: contact_method_2
+      label: Contact method 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 21
+      name: contact_method_3
+      label: Contact method 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 22
+      name: contact_method_4
+      label: Contact method 4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 23
+      name: contact_method_5
+      label: Contact method 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 24
+      name: contact_method_6
+      label: Contact method 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 25
+      name: contact_method_7
+      label: Contact method 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false

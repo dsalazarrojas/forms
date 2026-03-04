@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Vendor Logo Consent Form
+    pages:
+    - id: 1
+      name: vendor_logo_consent
+      label: Vendor Logo Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 2
+      name: brand_assets
+      label: Brand Assets
+      hint: null
+      type: select_multiple
+      options:
+      - image
+      - video
+      - audio
+      required: false
+    - id: 3
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_promotions
+      label: Event Promotions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: festival_info
+      label: Festival Information
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: vendor_assets
+      label: Vendor Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_info
+      label: Event Information
+      hint: null
+      type: select_multiple
+      options:
+      - location
+      - venue
+      - schedule
+      required: false
+    - id: 14
+      name: logo_assets
+      label: Logo Assets
+      hint: null
+      type: select_multiple
+      options:
+      - image
+      - video
+      - audio
+      required: false
+    - id: 15
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
