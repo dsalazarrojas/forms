@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: online_quiz_competition
+    title: Online Quiz Competition
     pages:
     - id: 1
       name: questions
@@ -13,189 +13,150 @@ inputSchema:
       - 'No'
       required: false
     - id: 2
-      name: name
-      label: participant_name
+      name: participant_name
+      label: Participant Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: score
-      label: score
+      name: participant_score
+      label: Participant Score
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: date_and_time
-      label: date_and_time
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
       name: time
-      label: time
+      label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: note
-      label: note
+      label: Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 8
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+    - id: 7
       name: participant_id
-      label: participant_id
+      label: Participant ID
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 8
       name: category
-      label: category
+      label: Category
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 11
+    - id: 9
       name: sub_category
-      label: sub_category
+      label: Sub Category
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 10
+      name: prize_money
+      label: Prize Money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 12
-      name: prize_money
-      label: prize_money
+      name: questions_count
+      label: Questions Count
       hint: null
       type: number
       options: []
       required: false
     - id: 13
-      name: participant_count
-      label: participant_count
+      name: winner
+      label: Winner
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
-      name: questions_count
-      label: questions_count
+      name: winner_image
+      label: Winner Image
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
-      name: winner
-      label: winner
+      name: prize_image
+      label: Prize Image
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
-      name: winner_image
-      label: winner_image
+      name: winner_message
+      label: Winner Message
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: false
     - id: 17
-      name: prize_image
-      label: prize_image
+      name: questions_2
+      label: Questions 2
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: false
     - id: 18
-      name: winner_message
-      label: winner_message
+      name: winner_name
+      label: Winner Name
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: questions
-      label: questions
+      name: participant_name_2
+      label: Participant Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: winner_name
-      label: winner_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_name
-      label: participant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_id
-      label: participant_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: winner_score
-      label: winner_score
+      label: Winner Score
       hint: null
       type: number
-      options: []
-      required: false
-    - id: 24
-      name: prize
-      label: prize
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description
-      label: description
-      hint: null
-      type: text
       options: []
       required: false

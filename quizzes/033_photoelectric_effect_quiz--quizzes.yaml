@@ -39,12 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: quiz_comments
@@ -64,7 +61,7 @@ inputSchema:
       required: true
     - id: 8
       name: quiz_completed_comments
-      label: Completed
+      label: Quiz Completed Comments
       hint: null
       type: text
       options: []
@@ -154,7 +151,7 @@ inputSchema:
       required: false
     - id: 20
       name: question6
-      label: What is the type of radiation
+      label: Question6
       hint: null
       type: select_one
       options:
@@ -163,7 +160,7 @@ inputSchema:
       required: false
     - id: 21
       name: question7
-      label: What is the type of radiation
+      label: Question7
       hint: null
       type: select_one
       options:
@@ -181,7 +178,7 @@ inputSchema:
       required: false
     - id: 23
       name: question9
-      label: What is the type of radiation
+      label: Question9
       hint: null
       type: select_one
       options:
@@ -190,7 +187,7 @@ inputSchema:
       required: false
     - id: 24
       name: question10
-      label: What is the type of detector
+      label: Question10
       hint: null
       type: select_one
       options:
@@ -199,7 +196,7 @@ inputSchema:
       required: false
     - id: 25
       name: question11
-      label: What is the type of radiation
+      label: Question11
       hint: null
       type: select_one
       options:

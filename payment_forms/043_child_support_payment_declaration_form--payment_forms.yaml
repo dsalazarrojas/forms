@@ -51,14 +51,10 @@ inputSchema:
       hint: Select the mode of transfer
       type: select_one
       options:
-      - label: Cash Payment
-        value: cash
-      - label: Personal or Cashier Check
-        value: check
-      - label: Bank Transfer (ACH)
-        value: bank
-      - label: Money Order
-        value: money_order
+      - Cash Payment
+      - Personal or Cashier Check
+      - Bank Transfer (ACH)
+      - Money Order
       required: true
     - id: 8
       name: section_period_covered
@@ -94,10 +90,8 @@ inputSchema:
       hint: Legal confirmation
       type: select_one
       options:
-      - label: Yes - Confirmed
-        value: true
-      - label: No - Partial Payment
-        value: false
+      - Yes - Confirmed
+      - No - Partial Payment
       required: true
     - id: 13
       name: payment_notes

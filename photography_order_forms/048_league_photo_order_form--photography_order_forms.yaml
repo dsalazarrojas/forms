@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Package A'', ''label'': ''Package A''}'
-      - '{''id'': 2, ''name'': ''Package B'', ''label'': ''Package B''}'
+      - Package A
+      - Package B
       required: true
     - id: 4
       name: appointment_time
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''10-10-2022'', ''label'': ''10-10-2022''}'
-      - '{''id'': 2, ''name'': ''11-10-2022'', ''label'': ''11-10-2022''}'
-      - '{''id'': 3, ''name'': ''12-10-2022'', ''label'': ''12-10-2022''}'
+      - 10-10-2022
+      - 11-10-2022
+      - 12-10-2022
       required: true
     - id: 5
       name: notes
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other'', ''label'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 7
       name: assigned_to
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''admin'', ''label'': ''admin''}'
-      - '{''id'': 2, ''name'': ''manager'', ''label'': ''manager''}'
-      - '{''id'': 3, ''name'': ''user'', ''label'': ''user''}'
+      - admin
+      - manager
+      - user
       required: true
     - id: 8
       name: photo_order_form_8
@@ -117,11 +117,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit-card'', ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''cash'', ''label'': ''Cash''}'
-      - '{''id'': 3, ''name'': ''bank-transfer'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 4, ''name'': ''online-paymen'', ''label'': ''Online Payment''}'
-      - '{''id'': 5, ''name'': ''other'', ''label'': ''Other''}'
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      - Online Payment
+      - Other
       required: true
     - id: 16
       name: photo_order_form_16
@@ -129,10 +129,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pay-at-signup'', ''label'': ''Pay At Signup''}'
-      - '{''id'': 2, ''name'': ''pay-atchartInstance'', ''label'': ''Pay at Form Submission''}'
-      - '{''id'': 3, ''name'': ''pay-later'', ''label'': ''Pay Later''}'
-      - '{''id'': 4, ''name'': ''pay-none'', ''label'': ''None''}'
+      - Pay At Signup
+      - Pay at Form Submission
+      - Pay Later
+      - None
       required: true
     - id: 17
       name: photo_order_form_17
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pay-at-signup'', ''label'': ''Pay At Signup''}'
-      - '{''id'': 2, ''name'': ''pay-at-widgets'', ''label'': ''Pay at Form Submission''}'
-      - '{''id'': 3, ''name'': ''pay-later'', ''label'': ''Pay Later''}'
-      - '{''id'': 4, ''name'': ''pay-none'', ''label'': ''None''}'
+      - Pay At Signup
+      - Pay at Form Submission
+      - Pay Later
+      - None
       required: true
     - id: 18
       name: photo_order_form_18
@@ -179,11 +179,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit-card-formation'', ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''cash-formation'', ''label'': ''Cash''}'
-      - '{''id'': 3, ''name'': ''bank-transfer-formation'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 4, ''name'': ''online-paymen-formation'', ''label'': ''Online Payment''}'
-      - '{''id'': 5, ''name'': ''other-formation'', ''label'': ''Other''}'
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      - Online Payment
+      - Other
       required: true
     - id: 23
       name: photo_order_form_23
@@ -191,11 +191,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pay-at-signup-formation'', ''label'': ''Pay At Signup''}'
-      - '{''id'': 2, ''name'': ''pay-at-widgets-formation'', ''label'': ''Pay at Form
-        Submission''}'
-      - '{''id'': 3, ''name'': ''pay-later-formation'', ''label'': ''Pay Later''}'
-      - '{''id'': 4, ''name'': ''pay-none-formation'', ''label'': ''None''}'
+      - Pay At Signup
+      - Pay at Form Submission
+      - Pay Later
+      - None
       required: true
     - id: 24
       name: photo_order_form_24

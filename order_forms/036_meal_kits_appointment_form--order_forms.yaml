@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pickup''}'
-      - '{''id'': 2, ''name'': ''Delivery''}'
-      - '{''id'': 3, ''name'': ''Self Pick-up''}'
+      - Pickup
+      - Delivery
+      - Self Pick-up
       required: true
     - id: 6
       name: note
@@ -75,12 +75,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Meal Kit A''}'
-      - '{''id'': 2, ''name'': ''Meal Kit B''}'
-      - '{''id'': 3, ''name'': ''Meal Kit C''}'
-      - '{''id'': 4, ''name'': ''Meal Kit D''}'
-      - '{''id'': 5, ''name'': ''Meal Kit E''}'
-      - '{''id'': 6, ''name'': ''Meal Kit F''}'
+      - Meal Kit A
+      - Meal Kit B
+      - Meal Kit C
+      - Meal Kit D
+      - Meal Kit E
+      - Meal Kit F
       required: true
     - id: 11
       name: email

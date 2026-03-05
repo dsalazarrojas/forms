@@ -5,139 +5,100 @@ inputSchema:
     pages:
     - id: 1
       name: user_info
-      label: user_info
-      hint: null
+      label: 1. User Information
+      hint: Please provide your name and email address
       type: text
       options: []
       required: false
     - id: 2
-      name: rating
-      label: feedback_rating
-      hint: null
+      name: feedback_rating
+      label: 2. Feedback Rating (1-5)
+      hint: Rate your feedback on the policy initiative
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: comment
-      label: feedback_comment
-      hint: null
+      name: feedback_comment
+      label: 3. Feedback Comment
+      hint: Please provide a brief comment on the policy initiative
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: policy_areas
-      label: policy_areas
-      hint: null
+      label: 4. Policy Areas of Interest
+      hint: Select all areas that apply
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
-      required: false
+      - Policy Area 1
+      - Policy Area 2
+      - Policy Area 3
+      - Policy Area 4
+      - Policy Area 5
+      required: true
     - id: 5
-      name: email
-      label: feedback_email
-      hint: null
+      name: feedback_email
+      label: 5. Feedback Email
+      hint: Provide your email address for feedback
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: phone
-      label: feedback_phone
-      hint: null
+      name: feedback_phone
+      label: 6. Feedback Phone
+      hint: Provide your phone number for feedback
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: submission_date
-      label: submission_date
-      hint: null
+      label: 7. Submission Date
+      hint: Select the submission date
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: submission_time
-      label: submission_time
-      hint: null
+      label: 8. Submission Time
+      hint: Select the submission time
       type: time
       options: []
-      required: false
+      required: true
     - id: 9
       name: submission_date_time
-      label: submission_date_time
-      hint: null
+      label: 9. Submission Date and Time
+      hint: Select the submission date and time
       type: date
       options: []
-      required: false
+      required: true
     - id: 10
       name: submit
-      label: submit
-      hint: null
+      label: 10. Submit
+      hint: Please submit your feedback
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: email
-      label: feedback_email
-      hint: null
-      type: email
-      options: []
+      name: policy_area_1
+      label: 11. Policy Area 1
+      hint: Select the policy area
+      type: select_one
+      options:
+      - Policy Area 1
+      - Policy Area 2
+      - Policy Area 3
+      - Policy Area 4
+      - Policy Area 5
       required: false
     - id: 12
-      name: phone
-      label: feedback_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: submission_date_time
-      label: submission_date_time
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: policy_area_1
-      label: policy_area_1
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
-      required: false
-    - id: 18
       name: policy_area_2
-      label: policy_area_2
-      hint: null
+      label: 12. Policy Area 2
+      hint: Select the policy area
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Policy Area 1
+      - Policy Area 2
+      - Policy Area 3
+      - Policy Area 4
+      - Policy Area 5
       required: false

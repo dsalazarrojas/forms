@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: tenant_movein_date
-      label: Tenant Movein Date
+      label: Movein Date
       hint: null
       type: date
       options: []
       required: false
     - id: 2
       name: property_status
-      label: property_status
+      label: Property Status
       hint: null
       type: select_one
       options:
@@ -21,17 +21,16 @@ inputSchema:
       required: false
     - id: 3
       name: lease_term
-      label: lease_term
+      label: Lease Term
       hint: null
       type: select_multiple
       options:
       - 6 Months
       - 12 Months
-      - 18 Months
       required: false
     - id: 4
       name: rent_payment_frequency
-      label: rent_payment_frequency
+      label: Rent Payment Frequency
       hint: null
       type: select_multiple
       options:
@@ -40,593 +39,105 @@ inputSchema:
       - Annually
       required: false
     - id: 5
-      name: property_condition
-      label: property_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: movein_status
-      label: movein_status
+      label: Movein Status
       hint: null
       type: select_one
       options:
       - Complete
       - Incomplete
       required: false
-    - id: 7
+    - id: 6
       name: movein_comments
-      label: movein_comments
+      label: Movein Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: property_address
-      label: property_address
+      name: tenant_name
+      label: Tenant Name
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: tenant_name
-      label: tenant_name
+      name: property_notes
+      label: Property Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: property_notes
-      label: property_notes
+      name: property_manager_name
+      label: Property Manager Name
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: property_manager_name
-      label: property_manager_name
+      name: property_manager_phone
+      label: Property Manager Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: property_manager_phone
-      label: property_manager_phone
+      name: property_manager_email
+      label: Property Manager Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 13
-      name: property_manager_email
-      label: property_manager_email
+      name: tenant_signature
+      label: Tenant Signature
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 14
-      name: tenant_signature
-      label: tenant_signature
+      name: tenant_moveout_date
+      label: Tenant Moveout Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 15
-      name: tenant_moveout_date
-      label: Tenant Moveout Date
+      name: tenant_status
+      label: Tenant Status
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 16
-      name: tenant_status
-      label: tenant_status
+      name: consent
+      label: Consent
       hint: null
       type: select_one
       options:
-      - Active
-      - Inactive
+      - I agree
+      - I do not agree
       required: false
     - id: 17
-      name: property_status
-      label: property_status
+      name: property_condition
+      label: Property Condition
       hint: null
-      type: select_one
-      options:
-      - Tenant
-      - Vacant
+      type: text
+      options: []
       required: false
     - id: 18
-      name: lease_term
-      label: lease_term
-      hint: null
-      type: select_multiple
-      options:
-      - 6 Months
-      - 12 Months
-      - 18 Months
-      required: false
-    - id: 19
-      name: rent_payment_frequency
-      label: rent_payment_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Monthly
-      - Quarterly
-      - Annually
-      required: false
-    - id: 20
-      name: property_condition
-      label: property_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: movein_status
-      label: movein_status
-      hint: null
-      type: select_one
-      options:
-      - Complete
-      - Incomplete
-      required: false
-    - id: 22
-      name: movein_comments
-      label: movein_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: property_address
-      label: property_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tenant_name
-      label: tenant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: property_notes
-      label: property_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: property_manager_name
-      label: property_manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: property_manager_phone
-      label: property_manager_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: property_manager_email
-      label: property_manager_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 29
-      name: tenant_signature
-      label: tenant_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: tenant_moveout_date
-      label: Tenant Moveout Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 31
-      name: tenant_status
-      label: tenant_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 32
-      name: property_status
-      label: property_status
-      hint: null
-      type: select_one
-      options:
-      - Tenant
-      - Vacant
-      required: false
-    - id: 33
-      name: lease_term
-      label: lease_term
-      hint: null
-      type: select_multiple
-      options:
-      - 6 Months
-      - 12 Months
-      - 18 Months
-      required: false
-    - id: 34
-      name: rent_payment_frequency
-      label: rent_payment_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Monthly
-      - Quarterly
-      - Annually
-      required: false
-    - id: 35
-      name: property_condition
-      label: property_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: movein_status
-      label: movein_status
-      hint: null
-      type: select_one
-      options:
-      - Complete
-      - Incomplete
-      required: false
-    - id: 37
-      name: movein_comments
-      label: movein_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: property_address
-      label: property_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: tenant_name
-      label: tenant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: property_notes
-      label: property_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: property_manager_name
-      label: property_manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: property_manager_phone
-      label: property_manager_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: property_manager_email
-      label: property_manager_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 44
-      name: tenant_signature
-      label: tenant_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: tenant_moveout_date
-      label: Tenant Moveout Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 46
-      name: tenant_status
-      label: tenant_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 47
-      name: property_status
-      label: property_status
-      hint: null
-      type: select_one
-      options:
-      - Tenant
-      - Vacant
-      required: false
-    - id: 48
-      name: lease_term
-      label: lease_term
-      hint: null
-      type: select_multiple
-      options:
-      - 6 Months
-      - 12 Months
-      - 18 Months
-      required: false
-    - id: 49
-      name: rent_payment_frequency
-      label: rent_payment_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Monthly
-      - Quarterly
-      - Annually
-      required: false
-    - id: 50
-      name: property_condition
-      label: property_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 51
-      name: movein_status
-      label: movein_status
-      hint: null
-      type: select_one
-      options:
-      - Complete
-      - Incomplete
-      required: false
-    - id: 52
-      name: movein_comments
-      label: movein_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: property_address
-      label: property_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: tenant_name
-      label: tenant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 55
-      name: property_notes
-      label: property_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: property_manager_name
-      label: property_manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 57
-      name: property_manager_phone
-      label: property_manager_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: property_manager_email
-      label: property_manager_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 59
-      name: tenant_signature
-      label: tenant_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 60
-      name: tenant_moveout_date
-      label: Tenant Moveout Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 61
-      name: tenant_status
-      label: tenant_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 62
-      name: property_status
-      label: property_status
-      hint: null
-      type: select_one
-      options:
-      - Tenant
-      - Vacant
-      required: false
-    - id: 63
-      name: lease_term
-      label: lease_term
-      hint: null
-      type: select_multiple
-      options:
-      - 6 Months
-      - 12 Months
-      - 18 Months
-      required: false
-    - id: 64
-      name: rent_payment_frequency
-      label: rent_payment_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Monthly
-      - Quarterly
-      - Annually
-      required: false
-    - id: 65
-      name: property_condition
-      label: property_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 66
-      name: movein_status
-      label: movein_status
-      hint: null
-      type: select_one
-      options:
-      - Complete
-      - Incomplete
-      required: false
-    - id: 67
-      name: movein_comments
-      label: movein_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 68
-      name: property_address
-      label: property_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 69
-      name: tenant_name
-      label: tenant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 70
-      name: property_notes
-      label: property_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 71
-      name: property_manager_name
-      label: property_manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 72
-      name: property_manager_phone
-      label: property_manager_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 73
-      name: property_manager_email
-      label: property_manager_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 74
-      name: tenant_signature
-      label: tenant_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 75
-      name: tenant_moveout_date
-      label: Tenant Moveout Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 76
-      name: tenant_status
-      label: tenant_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 77
-      name: property_status
-      label: property_status
-      hint: null
-      type: select_one
-      options:
-      - Tenant
-      - Vacant
-      required: false
-    - id: 78
-      name: lease_term
-      label: lease_term
-      hint: null
-      type: select_multiple
-      options:
-      - 6 Months
-      - 12 Months
-      - 18 Months
-      required: false
-    - id: 79
-      name: rent_payment_frequency
-      label: rent_payment_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Monthly
-      - Quarterly
-      - Annually
-      required: false
-    - id: 80
-      name: property_condition
-      label: property_condition
+      name: tenant_movein_comments
+      label: Tenant Movein Comments
       hint: null
       type: text
       options: []

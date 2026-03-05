@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Non-Active''}'
-      - '{''id'': 3, ''label'': ''No Longer Active''}'
+      - Active
+      - Non-Active
+      - No Longer Active
       required: true
     - id: 3
       name: target_size
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''North America''}'
-      - '{''id'': 2, ''label'': ''South America''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - North America
+      - South America
+      - Other
       required: true
     - id: 5
       name: acquisition_rationale
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Market Risk''}'
-      - '{''id'': 2, ''label'': ''Financial Risk''}'
-      - '{''id'': 3, ''label'': ''Legal Risk''}'
+      - Market Risk
+      - Financial Risk
+      - Legal Risk
       required: true
     - id: 7
       name: acquisition_plan
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Private''}'
-      - '{''id'': 2, ''label'': ''Public''}'
-      - '{''id'': 3, ''label'': ''Consortium''}'
+      - Private
+      - Public
+      - Consortium
       required: true
     - id: 9
       name: valuation_method
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Discounted Cash Flow''}'
-      - '{''id'': 2, ''label'': ''Net Present Value''}'
-      - '{''id'': 3, ''label'': ''Cost of Assets''}'
+      - Discounted Cash Flow
+      - Net Present Value
+      - Cost of Assets
       required: true
     - id: 10
       name: valuation_date
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Acquisition''}'
-      - '{''id'': 2, ''label'': ''Merger''}'
-      - '{''id'': 3, ''label'': ''Valuation''}'
+      - Acquisition
+      - Merger
+      - Valuation
       required: true
     - id: 19
       name: valuation_scope
@@ -167,9 +167,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Other''}'
-      - '{''id'': 2, ''label'': ''Other''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Other
+      - Other
       required: true
     - id: 22
       name: target_ownership_percentage

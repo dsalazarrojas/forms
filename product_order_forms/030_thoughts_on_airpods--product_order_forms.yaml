@@ -5,42 +5,42 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: FirstName
+      label: What is your first name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: first_name
-      label: HowDoYouLikeAirpods
+      name: airpods_like
+      label: How do you like Airpods?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: last_name
-      label: LastName
+      label: What is your last name?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: email
-      label: Email
+      label: What is your email address?
       hint: null
       type: email
       options: []
       required: false
     - id: 5
       name: phone
-      label: Phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: favorite_feature
-      label: WhatsYourFavoriteFeature
+      label: What is your favorite feature of Airpods?
       hint: null
       type: select_one
       options:
@@ -50,8 +50,8 @@ inputSchema:
       - Color
       required: true
     - id: 7
-      name: favorite_feature
-      label: WhatsYourFavoriteFeature
+      name: features
+      label: Which of the following features do you like most?
       hint: null
       type: select_multiple
       options:
@@ -61,22 +61,22 @@ inputSchema:
       - Color
       required: true
     - id: 8
-      name: how_long
-      label: HowLongYouWillUseAirpods
+      name: usage_duration
+      label: How long do you plan to use Airpods for?
       hint: null
       type: time
       options: []
       required: true
     - id: 9
-      name: why_buy
-      label: WhyDoYouWantToBuyAirpods
+      name: purchase_reason
+      label: Why do you want to buy Airpods?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: how_satisfied
-      label: HowSatisfied
+      name: satisfaction
+      label: How satisfied are you with Airpods?
       hint: null
       type: select_one
       options:
@@ -86,36 +86,38 @@ inputSchema:
       required: true
     - id: 11
       name: comments
-      label: Comments
+      label: Do you have any comments about Airpods?
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: first_name
-      label: Firstname
+      name: favorite_color
+      label: What is your favorite Airpods color?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: last_name
-      label: Lastname
+      name: design_pleasing
+      label: Do you like the design of Airpods?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 14
-      name: email
-      label: Email
+      name: durability
+      label: How long do you think Airpods will last?
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 15
-      name: phone
-      label: Phone
+      name: additional_comments
+      label: Do you have any other comments about Airpods?
       hint: null
-      type: text
+      type: note
       options: []
       required: false

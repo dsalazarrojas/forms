@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''powdered_juice_a''}'
-      - '{''id'': 2, ''name'': ''powdered_juice_b''}'
-      - '{''id'': 3, ''name'': ''powdered_juice_c''}'
+      - powdered juice a
+      - powdered juice b
+      - powdered juice c
       required: false
     - id: 5
       name: purchase_frequency
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''neutral''}'
-      - '{''id'': 4, ''name'': ''somewhat_dissatisfied''}'
-      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      - very satisfied
+      - somewhat satisfied
+      - neutral
+      - somewhat dissatisfied
+      - very dissatisfied
       required: false
     - id: 7
       name: recommended
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: purchase_intent
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''purchase''}'
-      - '{''id'': 2, ''name'': ''not_purchase''}'
+      - purchase
+      - not purchase
       required: false
     - id: 9
       name: purchase_channel
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''online''}'
-      - '{''id'': 2, ''name'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 10
       name: comments

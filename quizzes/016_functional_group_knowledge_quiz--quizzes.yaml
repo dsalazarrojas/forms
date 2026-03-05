@@ -1,243 +1,124 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Functional Group Knowledge Quiz
     pages:
     - id: 1
-      name: functional_group_quiz
-      label: What is the functional group
+      name: halogen
+      label: Halogen
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
     - id: 2
-      name: group_1
-      label: alkyl
+      name: pseudohalogen
+      label: Pseudohalogen
       hint: null
       type: select_one
       options:
-      - 1. Alkane
-      - 2. Alkene
-      - 3. Alkene
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 3
-      name: functional_group_quiz_1
-      label: What functional group is this
+      name: alkanes
+      label: Alkanes
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      - 3. Alkene
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 4
-      name: group_2
-      label: alkyl
+      name: alkenes
+      label: Alkenes
       hint: null
       type: select_multiple
       options:
-      - 1. Alkane
-      - 2. Alkene
-      - 3. Alkene
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 5
-      name: functional_group_quiz_2
-      label: What functional group is this
+      name: alkyne
+      label: Alkynes
       hint: null
       type: select_one
       options:
-      - 1. Halogen
-      - 2. Alkene
-      - 3. Alkene
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 6
-      name: group_3
-      label: halogen
+      name: single_bond_halogen
+      label: Single Bond Halogen
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 7
-      name: functional_group_quiz_3
-      label: What functional group is this
+      name: single_bond_pseudohalogen
+      label: Single Bond Pseudohalogen
       hint: null
       type: select_one
       options:
-      - 1. Halogen
-      - 2. Alkene
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 8
-      name: group_4
-      label: pseudohalogen
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 9
-      name: functional_group_quiz_4
-      label: What functional group is this
+      name: single_bond_halogen_2
+      label: Single Bond Halogen 2
       hint: null
       type: select_one
       options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: single_bond_pseudohalogen_2
+      label: Single Bond Pseudohalogen 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 10
-      name: group_5
-      label: alkene
+      name: double_bond_halogen
+      label: Double Bond Halogen
       hint: null
       type: select_multiple
       options:
-      - 1. Alkane
-      - 2. Alkene
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 11
-      name: functional_group_quiz_5
-      label: What functional group is this
+      name: double_bond_pseudohalogen
+      label: Double Bond Pseudohalogen
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 1. Alkane
-      - 2. Alkene
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 12
-      name: group_6
-      label: alkyne
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Alkane
-      - 2. Alkene
-      required: false
-    - id: 13
-      name: functional_group_quiz_6
-      label: What functional group is this
+      name: triple_bond_halogen
+      label: Triple Bond Halogen
       hint: null
       type: select_one
       options:
-      - 1. Alkane
-      - 2. Alkene
-      required: false
-    - id: 14
-      name: group_7
-      label: alkyne
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Alkane
-      - 2. Alkene
-      required: false
-    - id: 15
-      name: functional_group_quiz_7
-      label: What functional group is this
-      hint: null
-      type: select_one
-      options:
-      - 1. Alkane
-      - 2. Alkene
-      required: false
-    - id: 16
-      name: group_8
-      label: halogen
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 17
-      name: functional_group_quiz_8
-      label: What functional group is this
-      hint: null
-      type: select_one
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 18
-      name: group_9
-      label: pseudohalogen
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 19
-      name: functional_group_quiz_9
-      label: What functional group is this
-      hint: null
-      type: select_one
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 20
-      name: group_10
-      label: alkyne
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Alkane
-      - 2. Alkene
-      required: false
-    - id: 21
-      name: functional_group_quiz_10
-      label: What functional group is this
-      hint: null
-      type: select_one
-      options:
-      - 1. Alkane
-      - 2. Alkene
-      required: false
-    - id: 22
-      name: group_11
-      label: halogen
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 23
-      name: functional_group_quiz_11
-      label: What functional group is this
-      hint: null
-      type: select_one
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 24
-      name: group_12
-      label: pseudohalogen
-      hint: null
-      type: select_multiple
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
-      required: false
-    - id: 25
-      name: functional_group_quiz_12
-      label: What functional group is this
-      hint: null
-      type: select_one
-      options:
-      - 1. Halogen
-      - 2. Pseudohalogen
+      - Option 1
+      - Option 2
+      - Option 3
       required: false

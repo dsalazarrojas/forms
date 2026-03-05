@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Food''}'
-      - '{''id'': 2, ''label'': ''Beverages''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Food
+      - Beverages
+      - Both
       required: true
     - id: 7
       name: quantity_food
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: date
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Member''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
+      - Member
+      - Staff
       required: true
     - id: 20
       name: order_number

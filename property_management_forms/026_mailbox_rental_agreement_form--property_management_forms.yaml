@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''customer_name'', ''label'': ''Name''}'
-      - '{''id'': 2, ''name'': ''customer_email'', ''label'': ''Email''}'
-      - '{''id'': 3, ''name'': ''customer_phone'', ''label'': ''Phone''}'
+      - Name
+      - Email
+      - Phone
       required: false
     - id: 3
       name: mailbox_details
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''mailbox_number'', ''label'': ''Mailbox Number''}'
-      - '{''id'': 2, ''name'': ''mailbox_size'', ''label'': ''Mailbox Size''}'
-      - '{''id'': 3, ''name'': ''mailbox_type'', ''label'': ''Mailbox Type''}'
+      - Mailbox Number
+      - Mailbox Size
+      - Mailbox Type
       required: false
     - id: 4
       name: rental_agreement
@@ -50,6 +50,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
+      - Submit
       - Other
       required: false

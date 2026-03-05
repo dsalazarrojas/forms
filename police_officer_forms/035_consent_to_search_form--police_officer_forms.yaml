@@ -131,8 +131,8 @@ inputSchema:
       hint: Was person informed of their rights
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: rights_details
@@ -148,7 +148,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - Freely and Voluntarily Given
-      - false
+      - 'False'
       required: true
     - id: 20
       name: coercion_present
@@ -157,7 +157,7 @@ inputSchema:
       type: select_one
       options:
       - No - Consent is Voluntary
-      - true
+      - 'True'
       required: true
     - id: 21
       name: threats_made
@@ -165,8 +165,8 @@ inputSchema:
       hint: Confirmation of no threats
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 22
       name: promises_made
@@ -174,8 +174,8 @@ inputSchema:
       hint: Confirmation of no improper promises
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 23
       name: person_understanding
@@ -184,7 +184,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - Person Understands Rights
-      - false
+      - 'False'
       - Language Barrier
       required: true
     - id: 24
@@ -193,8 +193,8 @@ inputSchema:
       hint: Was translation services provided
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: interpreter_name
@@ -216,8 +216,8 @@ inputSchema:
       hint: Did anyone witness the consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 28
       name: witness_name

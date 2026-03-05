@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -51,17 +40,17 @@ inputSchema:
       required: false
     - id: 6
       name: schedule_preferences_schedule
-      label: Schedule Preferences
+      label: Schedule Preferences Schedule
       hint: Schedule preferences and schedule conflicts
       type: select_one
       options:
-      - '{''label'': ''Mon''}'
-      - '{''label'': ''Tue''}'
-      - '{''label'': ''Wed''}'
-      - '{''label'': ''Thu''}'
-      - '{''label'': ''Fri''}'
-      - '{''label'': ''Sat''}'
-      - '{''label'': ''Sun''}'
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
       required: false
     - id: 7
       name: participant_preferences_participant_type
@@ -69,13 +58,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 8
       name: participant_preferences_participant_preferences
-      label: Participant Preferences
+      label: Participant Preferences Participant Preferences
       hint: null
       type: text
       options: []
@@ -86,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Credit card''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Bank transfer''}'
+      - Credit card
+      - PayPal
+      - Bank transfer
       required: false
     - id: 10
       name: payment_details_payment_date
@@ -103,8 +92,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''No conflict''}'
-      - '{''label'': ''Conflicted''}'
+      - No conflict
+      - Conflicted
       required: false
     - id: 12
       name: participant_acknowledgements_acknowledgments
@@ -115,7 +104,7 @@ inputSchema:
       required: false
     - id: 13
       name: confirm_session_confirmation
-      label: Confirm Session
+      label: Confirm Session Confirmation
       hint: null
       type: text
       options: []

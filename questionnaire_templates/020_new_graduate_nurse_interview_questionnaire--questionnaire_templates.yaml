@@ -44,12 +44,12 @@ inputSchema:
       hint: What is your highest level of education?
       type: select_one
       options:
-      - '{''label'': ''High School'', ''value'': 1}'
-      - '{''label'': ''Diploma'', ''value'': 2}'
-      - '{''label'': "Associate''s", ''value'': 3}'
-      - '{''label'': "Bachelor''s", ''value'': 4}'
-      - '{''label'': "Master''s", ''value'': 5}'
-      - '{''label'': ''Doctorate'', ''value'': 6}'
+      - High School
+      - Diploma
+      - Associate's
+      - Bachelor's
+      - Master's
+      - Doctorate
       required: false
     - id: 7
       name: years_of_education
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active and Current'', ''value'': 1}'
-      - '{''label'': ''Active and Expired'', ''value'': 2}'
-      - '{''label'': ''Inactive'', ''value'': 3}'
+      - Active and Current
+      - Active and Expired
+      - Inactive
       required: false
     - id: 9
       name: certification
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''BLS (Basic Life Support)'', ''value'': 1}'
-      - '{''label'': ''ACLS (Advanced Life Support)'', ''value'': 2}'
-      - '{''label'': ''PALS (Pediatric Advanced Life Support)'', ''value'': 3}'
-      - '{''label'': ''None'', ''value'': 4}'
+      - BLS (Basic Life Support)
+      - ACLS (Advanced Life Support)
+      - PALS (Pediatric Advanced Life Support)
+      - None
       required: false
     - id: 10
       name: confidence_level
@@ -85,10 +85,10 @@ inputSchema:
       hint: How confident are you with the below areas?
       type: select_multiple
       options:
-      - '{''label'': ''Leadership'', ''value'': 1}'
-      - '{''label'': ''Communication'', ''value'': 2}'
-      - '{''label'': ''Time Management'', ''value'': 3}'
-      - '{''label'': ''None'', ''value'': 4}'
+      - Leadership
+      - Communication
+      - Time Management
+      - None
       required: false
     - id: 11
       name: skills_confidence_level
@@ -96,10 +96,10 @@ inputSchema:
       hint: How confident are you with the below skills?
       type: select_multiple
       options:
-      - '{''label'': ''Basic Life Support'', ''value'': 1}'
-      - '{''label'': ''IV Therapy'', ''value'': 2}'
-      - '{''label'': ''Medication Management'', ''value'': 3}'
-      - '{''label'': ''None'', ''value'': 4}'
+      - Basic Life Support
+      - IV Therapy
+      - Medication Management
+      - None
       required: false
     - id: 12
       name: interview_topics
@@ -108,9 +108,9 @@ inputSchema:
         interview?
       type: select_multiple
       options:
-      - '{''label'': ''Communication'', ''value'': 1}'
-      - '{''label'': ''Time Management'', ''value'': 2}'
-      - '{''label'': ''Leadership'', ''value'': 3}'
-      - '{''label'': ''Problem Solving'', ''value'': 4}'
-      - '{''label'': ''None'', ''value'': 5}'
+      - Communication
+      - Time Management
+      - Leadership
+      - Problem Solving
+      - None
       required: false

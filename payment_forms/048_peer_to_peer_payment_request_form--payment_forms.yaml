@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''label'': ''$10''}'
-      - '{''option'': 2, ''label'': ''$20''}'
-      - '{''option'': 3, ''label'': ''$30''}'
+      - $10
+      - $20
+      - $30
       required: true
     - id: 7
       name: date_of_payment
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': 1, ''label'': ''Send Payment Request via Email''}'
-      - '{''option'': 2, ''label'': ''Send Payment Request via SMS''}'
+      - Send Payment Request via Email
+      - Send Payment Request via SMS
       required: true
     - id: 11
       name: select_multiple_option_1
@@ -118,8 +118,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''label'': True}'
-      - '{''option'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: payment_status
@@ -127,7 +127,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''label'': ''Sent''}'
-      - '{''option'': 2, ''label'': ''Received''}'
-      - '{''option'': 3, ''label'': ''Cancelled''}'
+      - Sent
+      - Received
+      - Cancelled
       required: false

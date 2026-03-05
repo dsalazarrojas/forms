@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''drug_delivery''}'
-      - '{''label'': ''drug_discovery''}'
-      - '{''label'': ''drug_development''}'
+      - drug delivery
+      - drug discovery
+      - drug development
       required: true
     - id: 8
       name: research_location
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''lab''}'
-      - '{''label'': ''university''}'
+      - lab
+      - university
       required: true
     - id: 9
       name: follow_up

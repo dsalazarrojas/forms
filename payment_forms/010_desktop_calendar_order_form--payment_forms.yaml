@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''option1'', ''description'': ''option1''}'
-      - '{''name'': ''option2'', ''description'': ''option2''}'
-      - '{''name'': ''option3'', ''description'': ''option3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 6
       name: select_multiple
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''option1'', ''description'': ''option1''}'
-      - '{''name'': ''option2'', ''description'': ''option2''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 7
       name: date
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit'', ''description'': ''credit''}'
-      - '{''name'': ''cash'', ''description'': ''cash''}'
-      - '{''name'': ''paypal'', ''description'': ''paypal''}'
+      - credit
+      - cash
+      - paypal
       required: false
     - id: 12
       name: confirm_payment_method
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''confirm_credit'', ''description'': ''confirm_credit''}'
-      - '{''name'': ''confirm_cash'', ''description'': ''confirm_cash''}'
-      - '{''name'': ''confirm_paypal'', ''description'': ''confirm_paypal''}'
+      - confirm credit
+      - confirm cash
+      - confirm paypal
       required: false
     - id: 13
       name: payment_amount

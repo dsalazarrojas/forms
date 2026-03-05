@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Short Story''}'
-      - '{''label'': ''Novel''}'
-      - '{''label'': ''Other''}'
+      - Short Story
+      - Novel
+      - Other
       required: true
     - id: 8
       name: feedback
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''On Hold''}'
+      - In Progress
+      - Completed
+      - On Hold
       required: true
     - id: 12
       name: submission_notes
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''UTC''}'
-      - '{''label'': ''Local Time''}'
+      - UTC
+      - Local Time
       required: false
     - id: 19
       name: submission_timezone_offset

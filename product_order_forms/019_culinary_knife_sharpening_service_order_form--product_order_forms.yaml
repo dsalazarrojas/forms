@@ -23,8 +23,8 @@ inputSchema:
       hint: Choose how you'd like to handle your order.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Drop-Off''}'
-      - '{''id'': 2, ''label'': ''Pick-Up''}'
+      - Drop-Off
+      - Pick-Up
       required: false
     - id: 4
       name: order_date
@@ -46,9 +46,9 @@ inputSchema:
       hint: Choose how you'd like to pay.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Credit Card
+      - PayPal
+      - Other
       required: false
     - id: 7
       name: payment_info
@@ -63,9 +63,9 @@ inputSchema:
       hint: What kind of business do you have?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sharpener''}'
-      - '{''id'': 2, ''label'': ''Mobile Sharpening''}'
-      - '{''id'': 3, ''label'': ''Kitchen''}'
+      - Sharpener
+      - Mobile Sharpening
+      - Kitchen
       required: false
     - id: 9
       name: knives

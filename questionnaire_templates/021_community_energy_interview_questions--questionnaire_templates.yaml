@@ -134,9 +134,9 @@ inputSchema:
       hint: EV ownership status
       type: select_one
       options:
-      - true
+      - 'True'
       - No, But Considering
-      - false
+      - 'False'
       required: true
     - id: 14
       name: ev_charging_needs
@@ -146,7 +146,7 @@ inputSchema:
       options:
       - Yes, Home Charging
       - Yes, Public Charging
-      - false
+      - 'False'
       - Not Applicable
       required: true
     - id: 15
@@ -181,7 +181,7 @@ inputSchema:
       - Yes, Up to 5% More
       - Yes, Up to 10% More
       - Yes, Up to 20% More
-      - false
+      - 'False'
       required: true
     - id: 18
       name: additional_comments

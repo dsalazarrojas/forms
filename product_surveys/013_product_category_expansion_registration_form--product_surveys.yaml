@@ -4,109 +4,109 @@ inputSchema:
     title: Product Category Expansion Registration Form
     pages:
     - id: 1
-      name: product_category_expansion_registration_form_1
-      label: Category
+      name: category_expansion_registration_form_page_1
+      label: Product Category Expansion Details
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Active
+      - Inactive
+      required: true
     - id: 2
-      name: product_category_expansion_registration_form_2
-      label: Team
+      name: product_category_expansion_details
+      label: Team Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: product_category_expansion_registration_form_3
-      label: Category
+      name: product_description_registration_form_page_3
+      label: Product Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: product_category_expansion_registration_form_4
-      label: Description
+      name: product_registration_form_page_4
+      label: Product Details
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: product_category_expansion_registration_form_5
-      label: Product
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: product_category_expansion_registration_form_6
-      label: Product
+      name: status_registration_form_page_5
+      label: Review Status
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: product_status_details
+      label: Product Status
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 7
-      name: product_category_expansion_registration_form_7
-      label: Status
+      name: review_registration_form_page_7
+      label: Reviewer Details
       hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
+      type: text
+      options: []
       required: false
     - id: 8
-      name: product_category_expansion_registration_form_8
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: product_category_expansion_registration_form_9
-      label: Status
+      name: review_status_registration_form_page_8
+      label: Review Status Registration Form Page 8
       hint: null
       type: select_one
       options:
-      - Active
-      - Inactive
-      required: false
-    - id: 10
-      name: product_category_expansion_registration_form_10
-      label: Status
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: reviewer_details
+      label: Reviewer Information
       hint: null
       type: text
       options: []
       required: false
+    - id: 10
+      name: review_status
+      label: Review Status (3)
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 11
-      name: product_category_expansion_registration_form_11
-      label: Reviewer
+      name: review_details
+      label: Review Details
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: product_category_expansion_registration_form_12
-      label: Reviewer
+      name: reviewers_info
+      label: Reviewers Info
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: product_category_expansion_registration_form_13
-      label: Reviewer
+      name: review_status_registration_form_page_13
+      label: Review Status Registration Form Page 13
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: product_category_expansion_registration_form_14
-      label: Reviewer
+      name: review_details_registration_form_page_14
+      label: Review Details Registration Form Page 14
       hint: null
       type: text
       options: []

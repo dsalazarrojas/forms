@@ -4,195 +4,273 @@ inputSchema:
     title: Electronic Display Knowledge Quiz
     pages:
     - id: 1
-      name: question_number
-      label: first_question
+      name: display_technology_type
+      label: 1. What is the display technology?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - LCD (Liquid Crystal Display)
+      - LED (Light Emitting Diode)
+      - OLED (Organic Light Emitting Diode)
+      - Other
       required: false
     - id: 2
-      name: question_number
-      label: second_question
+      name: screen_type
+      label: 2. What is the display type?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - CRT (Cathode Ray Tube)
+      - LCD (Liquid Crystal Display)
+      - LED (Light Emitting Diode)
+      - OLED (Organic Light Emitting Diode)
       required: false
     - id: 3
-      name: display_technology
-      label: what_is_the_display_technology
+      name: resolution
+      label: 3. What is the resolution of the display?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 720p
+      - 1080p
+      - 4K
+      - Other
       required: false
     - id: 4
-      name: display_type
-      label: what_is_the_display_type
+      name: screen_size
+      label: 4. What is the screen size in inches?
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      - Other
       required: false
     - id: 5
-      name: resolution_type
-      label: what_is_the_resolution
+      name: refresh_rate
+      label: 5. What is the refresh rate?
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - 30 Hz
+      - 60 Hz
+      - 120 Hz
+      - Other
       required: false
     - id: 6
-      name: size_and_weight
-      label: size_and_weight
+      name: brightness_level
+      label: 6. What is the brightness level?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 200 nits
+      - 300 nits
+      - 400 nits
+      - Other
       required: false
     - id: 7
-      name: color_depth
-      label: color_depth
+      name: display_size
+      label: 7. What is the display size in inches?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - '10'
+      - '12'
+      - '14'
+      - Other
       required: false
     - id: 8
-      name: display_screen_size
-      label: display_screen_size
+      name: screen_type_2
+      label: 8. What is the screen type?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Touchscreen
+      - Non-touchscreen
+      - Hybrid
       required: false
     - id: 9
-      name: refresh_rate
-      label: refresh_rate
+      name: resolution_2
+      label: 9. What is the resolution of the display?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 720p
+      - 4K
+      - Other
       required: false
     - id: 10
-      name: brightness_level
-      label: brightness_level
+      name: refresh_rate_2
+      label: 10. What is the refresh rate?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 30 Hz
+      - 120 Hz
+      - Other
       required: false
     - id: 11
-      name: screen_type
-      label: screen_type
+      name: brightness_level_2
+      label: 11. What is the brightness level?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 200 nits
+      - 300 nits
+      - 400 nits
+      - Other
       required: false
     - id: 12
-      name: screen_size
-      label: screen_size
+      name: screen_size_2
+      label: 12. What is the screen size?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - '10'
+      - '16'
+      - Other
       required: false
     - id: 13
-      name: display_size
-      label: display_size
+      name: display_screen_size
+      label: 13. What is the display screen size?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      - Other
       required: false
     - id: 14
-      name: screen_type
-      label: screen_type
+      name: display_technology
+      label: 14. What is the display technology?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - LCD (Liquid Crystal Display)
+      - LED (Light Emitting Diode)
+      - OLED (Organic Light Emitting Diode)
+      - Other
       required: false
     - id: 15
-      name: display_technology_type
-      label: display_technology_type
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 16
-      name: resolution
-      label: resolution
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: screen_size
-      label: screen_size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: refresh_rate
-      label: refresh_rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: brightness_level
-      label: brightness_level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: screen_size
-      label: screen_size
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      required: false
-    - id: 21
-      name: color_depth
-      label: color_depth
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: display_screen_size
-      label: display_screen_size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: screen_type
-      label: screen_type
+      name: screen_type_3
+      label: 15. What is the screen type?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Touchscreen
+      - Non-touchscreen
+      - Hybrid
+      required: false
+    - id: 16
+      name: resolution_3
+      label: 16. What is the resolution of the display?
+      hint: null
+      type: select_one
+      options:
+      - 1080p
+      - 4K
+      - Other
+      required: false
+    - id: 17
+      name: refresh_rate_3
+      label: 17. What is the refresh rate?
+      hint: null
+      type: select_one
+      options:
+      - 60 Hz
+      - 120 Hz
+      - Other
+      required: false
+    - id: 18
+      name: screen_size_3
+      label: 18. What is the screen size?
+      hint: null
+      type: select_one
+      options:
+      - '12'
+      - '14'
+      - '16'
+      - Other
+      required: false
+    - id: 19
+      name: display_size_2
+      label: 19. What is the display size?
+      hint: null
+      type: select_one
+      options:
+      - '12'
+      - '14'
+      - '16'
+      - Other
+      required: false
+    - id: 20
+      name: display_screen_size_2
+      label: 20. What is the display screen size?
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      - Other
+      required: false
+    - id: 21
+      name: brightness_level_3
+      label: 21. What is the brightness level?
+      hint: null
+      type: select_one
+      options:
+      - 200 nits
+      - 300 nits
+      - 400 nits
+      - Other
+      required: false
+    - id: 22
+      name: resolution_4
+      label: 22. What is the resolution of the display?
+      hint: null
+      type: select_one
+      options:
+      - 720p
+      - 4K
+      - Other
+      required: false
+    - id: 23
+      name: screen_size_4
+      label: 23. What is the screen size?
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      - Other
       required: false
     - id: 24
-      name: resolution
-      label: resolution
+      name: refresh_rate_4
+      label: 24. What is the refresh rate?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 30 Hz
+      - 120 Hz
+      - Other
       required: false
     - id: 25
-      name: screen_size
-      label: screen_size
+      name: display_size_3
+      label: 25. What is the display size?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      - Other
       required: false

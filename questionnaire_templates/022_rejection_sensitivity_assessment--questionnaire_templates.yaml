@@ -15,67 +15,65 @@ inputSchema:
     title: Rejection Sensitivity Assessment
     pages:
     - id: 1
-      name: intro_page
+      name: introduction
       label: Rejection Sensitivity Assessment Form
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: rejection_sensitivity_scale_1
+      name: rejection_sensitivity
       label: How much do you experience rejection sensitivity?
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
+      - Not at all
+      - Somewhat
+      - Moderately
+      - Strongly
+      required: true
     - id: 3
-      name: rejection_sensitivity_scale_2
-      label: How much do you experience rejection sensitivity?
+      name: emotional_reactions
+      label: When feeling rejected or disappointed, I often feel
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
+      - Sad
+      - Angry
+      - Bored
+      - Anxious
+      - Hopeless
+      - Confused
+      required: true
     - id: 4
-      name: rejection_sensitivity_scale_3
-      label: How much do you experience rejection sensitivity?
+      name: feelings_before_rejection
+      label: Before feeling rejected or disappointed, I often feel
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
+      - Sad
+      - Angry
+      - Bored
+      - Anxious
+      - Hopeless
+      - Confused
+      required: true
     - id: 5
-      name: emotional_reactions_1_1
-      label: When feeling rejected or disappointed, I often feel
+      name: reactions_to_rejection
+      label: Reactions to feeling rejected or disappointed
       hint: null
       type: select_multiple
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Run
+      - Hide
+      - Avoid
+      - Attack
+      - Freeze
+      - Stay Calm
+      required: true
     - id: 6
-      name: emotional_reactions_2_2
-      label: When feeling rejected or disappointed, I often feel
+      name: feelings_after_rejection
+      label: After feeling rejected or disappointed, I often feel
       hint: null
       type: select_multiple
       options:
@@ -85,49 +83,41 @@ inputSchema:
       - Anxious
       - Hopeless
       - Confused
-      required: false
+      required: true
     - id: 7
-      name: emotional_reactions_3_3
-      label: When feeling rejected or disappointed, I often feel
+      name: typical_reaction
+      label: What is your typical reaction when faced with rejection or disappointment?
       hint: null
       type: select_multiple
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Run
+      - Hide
+      - Avoid
+      - Attack
+      - Freeze
+      - Stay Calm
+      required: true
     - id: 8
-      name: feelings_after_rejection_1_4
-      label: After feeling rejected or disappointed, I often feel
+      name: take_ownership
+      label: Do you often take responsibility for the rejection or disappointment?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 9
-      name: feelings_after_rejection_2_5
-      label: After feeling rejected or disappointed, I often feel
+      name: rationalize
+      label: Do you often rationalize or intellectualize the rejection or disappointment?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 10
-      name: feelings_after_rejection_3_6
-      label: After feeling rejected or disappointed, I often feel
+      name: typical_emotional_state
+      label: What is your typical emotional state when you feel rejected or disappointed?
       hint: null
       type: select_multiple
       options:
@@ -137,75 +127,103 @@ inputSchema:
       - Anxious
       - Hopeless
       - Confused
-      required: false
+      required: true
     - id: 11
-      name: feelings_before_rejection_1_7
-      label: Before feeling rejected or disappointed, I often feel
+      name: behavioral_response
+      label: What is your typical behavioral response when faced with rejection or
+        disappointment?
       hint: null
       type: select_multiple
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Run
+      - Hide
+      - Avoid
+      - Attack
+      - Freeze
+      - Stay Calm
+      required: true
     - id: 12
-      name: feelings_before_rejection_2_8
-      label: Before feeling rejected or disappointed, I often feel
+      name: take_action
+      label: Do you often try to take action or do something to counter the rejection
+        or disappointment?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 13
-      name: feelings_before_rejection_3_9
-      label: Before feeling rejected or disappointed, I often feel
+      name: feel_stuck
+      label: Do you often feel like you're stuck or frozen in place when feeling rejected
+        or disappointed?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 14
-      name: feelings_after_rejection_1_10
-      label: After feeling rejected or disappointed, I often feel
+      name: feel_overwhelmed
+      label: Do you often feel like you're losing control or are overwhelmed when
+        feeling rejected or disappointed?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 15
-      name: feelings_after_rejection_2_11
-      label: After feeling rejected or disappointed, I often feel
+      name: emotional_shutdown
+      label: Do you often react with a sense of numbness or emotional shutdown?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Sad
-      - Angry
-      - Bored
-      - Anxious
-      - Hopeless
-      - Confused
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 16
-      name: feelings_after_rejection_3_12
-      label: After feeling rejected or disappointed, I often feel
+      name: denial
+      label: Do you often feel like you're stuck in a state of denial when feeling
+        rejected or disappointed?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 17
+      name: fear_anxiety
+      label: Do you often react with fear or anxiety when faced with rejection or
+        disappointment?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 18
+      name: run_away
+      label: Do you often feel like you're running away or escaping when feeling rejected
+        or disappointed?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 19
+      name: hide_avoid
+      label: Do you often feel like you're hiding or avoiding when feeling rejected
+        or disappointed?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 20
+      name: emotional_state
+      label: Emotional State
       hint: null
       type: select_multiple
       options:
@@ -215,62 +233,10 @@ inputSchema:
       - Anxious
       - Hopeless
       - Confused
-      required: false
-    - id: 17
-      name: reactions_to_rejection_1_13
-      label: Reactions to feeling rejected or disappointed
-      hint: null
-      type: select_multiple
-      options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
-    - id: 18
-      name: reactions_to_rejection_2_14
-      label: Reactions to feeling rejected or disappointed
-      hint: null
-      type: select_multiple
-      options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
-    - id: 19
-      name: reactions_to_rejection_3_15
-      label: Reactions to feeling rejected or disappointed
-      hint: null
-      type: select_multiple
-      options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
-    - id: 20
-      name: reactions_to_rejection_1_16
-      label: Reactions to feeling rejected or disappointed
-      hint: null
-      type: select_multiple
-      options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
+      required: true
     - id: 21
-      name: reactions_to_rejection_2_17
-      label: Reactions to feeling rejected or disappointed
+      name: behavioral_response_2
+      label: Behavioral Response 2
       hint: null
       type: select_multiple
       options:
@@ -280,56 +246,40 @@ inputSchema:
       - Attack
       - Freeze
       - Stay Calm
-      required: false
+      required: true
     - id: 22
-      name: reactions_to_rejection_3_18
-      label: Reactions to feeling rejected or disappointed
+      name: take_action_2
+      label: Take Action 2
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 23
-      name: reactions_to_rejection_1_19
-      label: Reactions to feeling rejected or disappointed
+      name: emotional_shutdown_2
+      label: Emotional Shutdown 2
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 24
-      name: reactions_to_rejection_2_20
-      label: Reactions to feeling rejected or disappointed
+      name: denial_2
+      label: Denial 2
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 25
-      name: reactions_to_rejection_3_21
-      label: Reactions to feeling rejected or disappointed
+      name: fear_anxiety_2
+      label: Fear Anxiety 2
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Run
-      - Hide
-      - Avoid
-      - Attack
-      - Freeze
-      - Stay Calm
-      required: false
+      - Option A
+      - Option B
+      required: true

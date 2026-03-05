@@ -4,177 +4,93 @@ inputSchema:
     title: Shipping Waybill Form
     pages:
     - id: 1
-      name: shipment_details
-      label: Shipment Details
-      hint: null
+      name: shipper_info
+      label: Shipper Info
+      hint: Please provide the shipper's information
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: shipper_name
-      label: shipper_name
-      hint: null
+      name: shipper_address
+      label: Shipper Address
+      hint: Please provide the shipper's address
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: shipper_name
-      label: shipper_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: shipper_city
-      label: shipper_city
-      hint: null
+      label: Shipper City
+      hint: Please provide the shipper's city
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: shipper_state
-      label: shipper_state
-      hint: null
+      label: Shipper State
+      hint: Please provide the shipper's state or province
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: shipper_postal_code
-      label: shipper_postal_code
-      hint: null
+      label: Shipper Postal Code
+      hint: Please provide the shipper's postal or zip code
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: shipper_country
-      label: shipper_country
-      hint: null
+      label: Shipper Country
+      hint: Please provide the shipper's country
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: shipper_phone
       label: Shipper Phone
-      hint: null
+      hint: Please provide the shipper's phone number
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: shipper_email
       label: Shipper Email
-      hint: null
+      hint: Please provide the shipper's email address
       type: email
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 9
       name: shipment_info
       label: Shipment Info
-      hint: null
+      hint: Please provide more information about the shipment
       type: text
       options: []
-      required: false
-    - id: 11
-      name: shipper_name
-      label: shipper_name_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 10
       name: shipper_company
-      label: shipper_company
-      hint: null
+      label: Shipper Company
+      hint: Please provide the shipper's company name
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: shipper_address_2
+      label: Shipper Address 2
+      hint: Please provide the shipper's address again
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipper_phone_2
+      label: Shipper Phone 2
+      hint: Please repeat your phone number
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: shipper_address
-      label: shipper_address
-      hint: null
+      name: shipper_email_2
+      label: Shipper Email 2
+      hint: Please repeat your email address
       type: text
       options: []
-      required: false
-    - id: 14
-      name: shipper_city
-      label: shipper_city_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: shipper_state
-      label: shipper_state_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: shipper_postal_code
-      label: shipper_postal_code_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: shipper_country
-      label: shipper_country_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: shipper_phone
-      label: Shipper Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: shipper_email
-      label: Shipper Email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: shipment_info_1
-      label: Shipment Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: shipper_name
-      label: shipper_name_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: shipper_city
-      label: shipper_city_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: shipper_state
-      label: shipper_state_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: shipper_postal_code
-      label: shipper_postal_code_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: shipper_country
-      label: shipper_country_2
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Community Outbreak'', ''value'': 1}'
-      - '{''label'': ''Travel Related'', ''value'': 2}'
-      - '{''label'': ''Occupational'', ''value'': 3}'
-      - '{''label'': ''Household'', ''value'': 4}'
+      - Community Outbreak
+      - Travel Related
+      - Occupational
+      - Household
       required: false
     - id: 3
       name: patient_name
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Home'', ''value'': 1}'
-      - '{''label'': ''Work'', ''value'': 2}'
-      - '{''label'': ''School'', ''value'': 3}'
-      - '{''label'': ''Unknown'', ''value'': 4}'
+      - Home
+      - Work
+      - School
+      - Unknown
       required: false
     - id: 6
       name: healthcare_provider
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': 1}'
-      - '{''label'': ''Resolved'', ''value'': 2}'
-      - '{''label'': ''Recovered'', ''value'': 3}'
-      - '{''label'': ''Removed'', ''value'': 4}'
+      - Active
+      - Resolved
+      - Recovered
+      - Removed
       required: false
     - id: 12
       name: exposure_start_date
@@ -119,10 +119,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Community Outbreak'', ''value'': 1}'
-      - '{''label'': ''Travel Related'', ''value'': 2}'
-      - '{''label'': ''Occupational'', ''value'': 3}'
-      - '{''label'': ''Household'', ''value'': 4}'
+      - Community Outbreak
+      - Travel Related
+      - Occupational
+      - Household
       required: false
     - id: 16
       name: travel_country
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''USA'', ''value'': 1}'
-      - '{''label'': ''Africa'', ''value'': 2}'
-      - '{''label'': ''Asia'', ''value'': 3}'
-      - '{''label'': ''Europe'', ''value'': 4}'
-      - '{''label'': ''Other'', ''value'': 5}'
+      - USA
+      - Africa
+      - Asia
+      - Europe
+      - Other
       required: false

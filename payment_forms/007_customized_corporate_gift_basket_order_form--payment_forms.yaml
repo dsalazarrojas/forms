@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Gift Box A''}'
-      - '{''id'': 2, ''label'': ''Gift Box B''}'
-      - '{''id'': 3, ''label'': ''Gift Box C''}'
+      - Gift Box A
+      - Gift Box B
+      - Gift Box C
       required: false
     - id: 3
       name: gift_item
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Apple''}'
-      - '{''id'': 2, ''label'': ''Banana''}'
-      - '{''id'': 3, ''label'': ''Orange''}'
+      - Apple
+      - Banana
+      - Orange
       required: true
     - id: 4
       name: order_date
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 11
       name: billing_address
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Expedited''}'
-      - '{''id'': 3, ''label'': ''Express''}'
+      - Standard
+      - Expedited
+      - Express
       required: true
     - id: 14
       name: order_note

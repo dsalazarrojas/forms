@@ -16,11 +16,11 @@ inputSchema:
       hint: Rate the overall work environment
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Good'', ''value'': 5}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': 4}'
-      - '{''id'': 3, ''label'': ''Average'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': 2}'
-      - '{''id'': 5, ''label'': ''Very Poor'', ''value'': 1}'
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      - Very Poor
       required: true
     - id: 3
       name: productivity_programs
@@ -28,10 +28,10 @@ inputSchema:
       hint: Select all applicable productivity programs
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Training and Development'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Performance Management'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Employee Wellness'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': 4}'
+      - Training and Development
+      - Performance Management
+      - Employee Wellness
+      - Other
       required: true
     - id: 4
       name: employee_ideas
@@ -137,8 +137,8 @@ inputSchema:
       hint: Would you like to be contacted for follow up questions?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: follow_up_comments

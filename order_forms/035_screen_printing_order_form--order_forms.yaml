@@ -4,186 +4,61 @@ inputSchema:
     title: Screen Printing Order Form
     pages:
     - id: 1
-      name: customer
-      label: customer
+      name: customer_name
+      label: Customer Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: shipping_address
-      label: shipping_address
+      name: customer_email
+      label: Customer Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: product
-      label: product
+      name: customer_phone
+      label: Customer Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: order_comments
-      label: order_comments
+      name: shipping_address
+      label: Shipping Address
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: order_terms
-      label: order_terms
+      name: order_comments
+      label: Order Comments
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 6
-      name: order_terms_label
-      label: order_terms
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: customer_notes
-      label: customer_notes
+      name: order_status
+      label: Order Status
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
     - id: 8
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: payment_method_label
-      label: payment_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: order_total
-      label: order_total
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: order_status
-      label: order_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 12
-      name: order_status_label
-      label: order_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 14
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: billing_address
-      label: billing_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: shipping_address
-      label: shipping_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: order_comments
-      label: order_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: order_status
-      label: order_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 22
-      name: order_total
-      label: order_total
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: order_status_label
-      label: order_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: order_comments
-      label: order_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: customer_notes
-      label: customer_notes
+      label: Customer Notes
       hint: null
       type: note
       options: []

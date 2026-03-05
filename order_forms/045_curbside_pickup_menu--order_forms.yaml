@@ -12,13 +12,13 @@ inputSchema:
       required: false
     - id: 2
       name: item_type
-      label: item_type
+      label: Item Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      required: true
+      - Option 1
+      - Option 2
+      required: false
     - id: 3
       name: item_name
       label: Item Name
@@ -37,170 +37,45 @@ inputSchema:
       name: pickup_time
       label: Pickup Time
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
       required: false
     - id: 6
-      name: pickup_time
-      label: Pickup Time
+      name: pickup_day
+      label: Pickup Day
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
       required: false
     - id: 7
-      name: pickup_day
-      label: Pickup Day
+      name: pickup_time_2
+      label: Pickup Time 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - 08:00
+      - '720'
+      - '960'
       required: false
     - id: 8
-      name: pickup_time
-      label: Pickup Time
+      name: item_type_2
+      label: Item Type 2
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
     - id: 9
-      name: pickup_time
-      label: Pickup Time
+      name: item_name_2
+      label: Item Name 2
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
-    - id: 10
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      required: false
-    - id: 11
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      required: false
-    - id: 15
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      required: false
-    - id: 17
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      required: false
-    - id: 19
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      required: false
-    - id: 22
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      required: false
-    - id: 24
-      name: pickup_time
-      label: Pickup Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: pickup_day
-      label: Pickup Day
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
       required: false

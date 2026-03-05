@@ -4,15 +4,8 @@ inputSchema:
     title: Simple Voting Form Template
     pages:
     - id: 1
-      name: form_control
-      label: simple-voting-form-template
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: vote_category
-      label: select-category
+      name: form_category
+      label: Select a category for your vote
       hint: null
       type: select_one
       options:
@@ -20,9 +13,9 @@ inputSchema:
       - Events
       - Contests
       required: false
-    - id: 3
-      name: vote_question
-      label: select-question
+    - id: 2
+      name: form_question
+      label: Select a question to answer
       hint: null
       type: select_multiple
       options:
@@ -30,94 +23,83 @@ inputSchema:
       - Vote for an event
       - Vote for a contest
       required: false
-    - id: 4
-      name: vote_choice_1
-      label: select-choice-1
+    - id: 3
+      name: form_choice_1
+      label: Select choice 1
       hint: null
       type: select_multiple
       options:
-      - Choice 1
-      - Choice 2
-      - Choice 3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 4
+      name: form_choice_2
+      label: Select choice 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
-      name: vote_choice_2
-      label: select-choice-2
+      name: form_choice_3
+      label: Select choice 3
       hint: null
       type: select_multiple
       options:
-      - Choice 1
-      - Choice 2
-      - Choice 3
+      - 'Yes'
+      - 'No'
       required: false
     - id: 6
-      name: select_choice_3
-      label: select-choice-3
+      name: form_confirm
+      label: Confirm your choice
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Confirm
+      - Decline
       required: false
     - id: 7
-      name: select_choice_4
-      label: select-choice-4
+      name: form_note
+      label: Add a note
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 8
-      name: form_controls
-      label: form-controls
+      name: form_time
+      label: Select time
       hint: null
       type: time
       options: []
       required: false
     - id: 9
-      name: form_controls
-      label: form-controls
+      name: form_email
+      label: Enter email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 10
-      name: form_controls
-      label: form-controls
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: form_controls
-      label: form-controls
+      name: form_text
+      label: Enter text
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_number
+      label: Enter number
+      hint: null
+      type: number
       options: []
       required: false
     - id: 12
-      name: form_controls
-      label: form-controls
+      name: form_date
+      label: Select date
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 13
-      name: form_controls
-      label: form-controls
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: form_controls
-      label: form-controls
-      hint: null
-      type: text
       options: []
       required: false

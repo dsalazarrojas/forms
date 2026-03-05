@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Phone''}'
-      - '{''value'': 2, ''label'': ''Email''}'
-      - '{''value'': 3, ''label'': ''In-person''}'
+      - Phone
+      - Email
+      - In-person
       required: true
     - id: 5
       name: contact_info
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Commercial''}'
-      - '{''value'': 2, ''label'': ''Residential''}'
-      - '{''value'': 3, ''label'': ''Mixed Use''}'
+      - Commercial
+      - Residential
+      - Mixed Use
       required: false
     - id: 10
       name: upload_document
@@ -176,11 +176,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Under Review''}'
-      - '{''value'': 2, ''label'': ''Approved''}'
-      - '{''value'': 3, ''label'': ''Disapproved''}'
-      - '{''value'': 4, ''label'': ''Pending''}'
-      - '{''value'': 5, ''label'': ''Unknown''}'
+      - Under Review
+      - Approved
+      - Disapproved
+      - Pending
+      - Unknown
       required: false
     - id: 25
       name: submit_4

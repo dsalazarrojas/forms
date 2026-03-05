@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''clear''}'
-      - '{''value'': ''not_clear''}'
-      - '{''value'': ''unclear''}'
+      - clear
+      - not clear
+      - unclear
       required: false
     - id: 3
       name: customer_feedback_on_pricing_value_for_money
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''good''}'
-      - '{''value'': ''bad''}'
-      - '{''value'': ''neutral''}'
+      - good
+      - bad
+      - neutral
       required: false
     - id: 4
       name: customer_feedback_on_pricing_recommendations
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_important''}'
-      - '{''value'': ''somewhat_important''}'
-      - '{''value'': ''not_important''}'
+      - very important
+      - somewhat important
+      - not important
       required: false
     - id: 7
       name: customer_feedback_on_pricing_price_range
@@ -67,7 +67,7 @@ inputSchema:
       hint: Provide price comparisons or alternatives
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: false

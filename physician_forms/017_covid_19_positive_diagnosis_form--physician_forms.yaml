@@ -1,99 +1,88 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 Positive Diagnosis Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient name
-        hint: Full name of the person diagnosed
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: date_of_test
-        label: Date of test
-        hint: Date the positive test was recorded
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: test_type
-        label: Test type
-        hint: PCR, antigen, or antibody
-        type: select_one
-        options:
-          - PCR
-          - Antigen
-          - Antibody
-        required: true
-      - id: 4
-        name: symptoms_at_diagnosis
-        label: Symptoms at diagnosis
-        hint: Symptoms experienced when tested positive
-        type: select_multiple
-        options:
-          - Fever
-          - Cough
-          - Shortness of breath
-          - Loss of taste or smell
-          - Fatigue
-          - Other
-        required: false
-      - id: 5
-        name: hospitalization_required
-        label: Hospitalization required
-        hint: Was hospitalization required
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: treating_physician
-        label: Treating physician name
-        hint: Primary clinician for the case
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: isolation_start_date
-        label: Isolation start date
-        hint: Date isolation began
-        type: date
-        options: []
-        required: false
-      - id: 8
-        name: isolation_end_date
-        label: Isolation end date
-        hint: Expected or actual end date
-        type: date
-        options: []
-        required: false
-      - id: 9
-        name: workplace_notified
-        label: Workplace notified
-        hint: Has the employer been informed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: notes
-        label: Additional notes
-        hint: Any other relevant clinical or administrative notes
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: patient_name
+      label: Patient name
+      hint: Full name of the person diagnosed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_test
+      label: Date of test
+      hint: Date the positive test was recorded
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: test_type
+      label: Test type
+      hint: PCR, antigen, or antibody
+      type: select_one
+      options:
+      - PCR
+      - Antigen
+      - Antibody
+      required: true
+    - id: 4
+      name: symptoms_at_diagnosis
+      label: Symptoms at diagnosis
+      hint: Symptoms experienced when tested positive
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of taste or smell
+      - Fatigue
+      - Other
+      required: false
+    - id: 5
+      name: hospitalization_required
+      label: Hospitalization required
+      hint: Was hospitalization required
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: treating_physician
+      label: Treating physician name
+      hint: Primary clinician for the case
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: isolation_start_date
+      label: Isolation start date
+      hint: Date isolation began
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: isolation_end_date
+      label: Isolation end date
+      hint: Expected or actual end date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: workplace_notified
+      label: Workplace notified
+      hint: Has the employer been informed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Any other relevant clinical or administrative notes
+      type: text
+      options: []
+      required: false

@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unknown
       required: true
     - id: 9
@@ -75,8 +75,8 @@ inputSchema:
       hint: Fever, cough, or other symptoms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: severe_allergies
@@ -84,8 +84,8 @@ inputSchema:
       hint: Especially to vaccine components
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: allergy_details
@@ -100,8 +100,8 @@ inputSchema:
       hint: Weakened immune system
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: medical_conditions
@@ -132,7 +132,7 @@ inputSchema:
       options:
       - Yes, pregnant
       - Yes, breastfeeding
-      - false
+      - 'False'
       - Not applicable
       required: false
     - id: 17
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unknown
       required: true
     - id: 18

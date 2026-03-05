@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''credit_card''}'
-      - '{''id'': 2, ''label'': ''bank_transfer''}'
-      - '{''id'': 3, ''label'': ''cash''}'
+      - credit card
+      - bank transfer
+      - cash
       required: false
     - id: 10
       name: confirm_payment
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''paid''}'
-      - '{''id'': 2, ''label'': ''unpaid''}'
+      - paid
+      - unpaid
       required: false
     - id: 11
       name: submit

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Student''}'
-      - '{''label'': ''Educator''}'
-      - '{''label'': ''Other''}'
+      - Student
+      - Educator
+      - Other
       required: true
     - id: 5
       name: e_learning_platform_used
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Udacity''}'
-      - '{''label'': ''Coursera''}'
-      - '{''label'': ''edX''}'
+      - Udacity
+      - Coursera
+      - edX
       required: false
     - id: 6
       name: feedback_on_our_services
@@ -50,12 +50,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
-      - '{''label'': ''Not at all Satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Not at all Satisfied
       required: true
     - id: 7
       name: frequency_of_uses
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 8
       name: total_hours_spent

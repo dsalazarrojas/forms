@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: language_speaking
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Other''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - English
+      - Other
+      - Both
       required: false
     - id: 6
       name: language_spoken_at_home
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - English
+      - Other
       required: false
     - id: 7
       name: years_in_us
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Elementary School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''College''}'
-      - '{''id'': 4, ''label'': ''University''}'
+      - Elementary School
+      - High School
+      - College
+      - University
       required: false
     - id: 9
       name: highest_education_other
@@ -83,11 +83,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed''}'
-      - '{''id'': 2, ''label'': ''Unemployed''}'
-      - '{''id'': 3, ''label'': ''Retired''}'
-      - '{''id'': 4, ''label'': ''Student''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Employed
+      - Unemployed
+      - Retired
+      - Student
+      - Other
       required: false
     - id: 11
       name: income_level
@@ -102,10 +102,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''$0-20,000''}'
-      - '{''id'': 2, ''label'': ''$20,001-50,000''}'
-      - '{''id'': 3, ''label'': ''$50,001-100,000''}'
-      - '{''id'': 4, ''label'': ''$100,001 or more''}'
+      - $0-20,000
+      - $20,001-50,000
+      - $50,001-100,000
+      - $100,001 or more
       required: false
     - id: 13
       name: income_level_other
@@ -120,11 +120,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Single''}'
-      - '{''id'': 2, ''label'': ''Married''}'
-      - '{''id'': 3, ''label'': ''Divorced''}'
-      - '{''id'': 4, ''label'': ''Widowed''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Other
       required: false
     - id: 15
       name: family_size
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1-2''}'
-      - '{''id'': 2, ''label'': ''3-5''}'
-      - '{''id'': 3, ''label'': ''6-10''}'
-      - '{''id'': 4, ''label'': ''11 or more''}'
+      - 1-2
+      - 3-5
+      - 6-10
+      - 11 or more
       required: false
     - id: 17
       name: family_size_other
@@ -157,11 +157,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Asian''}'
-      - '{''id'': 2, ''label'': ''Black or African American''}'
-      - '{''id'': 3, ''label'': ''Hispanic or Latino''}'
-      - '{''id'': 4, ''label'': ''White''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      - Other
       required: false
     - id: 19
       name: ethnic_background
@@ -169,11 +169,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''American Indian or Alaska Native''}'
-      - '{''id'': 2, ''label'': ''Asian''}'
-      - '{''id'': 3, ''label'': ''Black or African American''}'
-      - '{''id'': 4, ''label'': ''Native Hawaiian or Other Pacific Islander''}'
-      - '{''id'': 5, ''label'': ''Some other race or ethnicity''}'
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Other Pacific Islander
+      - Some other race or ethnicity
       required: false
     - id: 20
       name: sex
@@ -181,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Female''}'
-      - '{''id'': 2, ''label'': ''Male''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Female
+      - Male
+      - Other
       required: false
     - id: 21
       name: age
@@ -198,13 +198,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''0-17''}'
-      - '{''id'': 2, ''label'': ''18-24''}'
-      - '{''id'': 3, ''label'': ''25-34''}'
-      - '{''id'': 4, ''label'': ''35-44''}'
-      - '{''id'': 5, ''label'': ''45-54''}'
-      - '{''id'': 6, ''label'': ''55-64''}'
-      - '{''id'': 7, ''label'': ''65 or older''}'
+      - 0-17
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
       required: false
     - id: 23
       name: education_level
@@ -212,11 +212,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Elementary School''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Some college''}'
-      - '{''id'': 4, ''label'': ''College''}'
-      - '{''id'': 5, ''label'': ''Some other''}'
+      - Elementary School
+      - High School
+      - Some college
+      - College
+      - Some other
       required: false
     - id: 24
       name: income_range
@@ -224,10 +224,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''$0-20,000''}'
-      - '{''id'': 2, ''label'': ''$20,001-50,000''}'
-      - '{''id'': 3, ''label'': ''$50,001-100,000''}'
-      - '{''id'': 4, ''label'': ''$100,001 or more''}'
+      - $0-20,000
+      - $20,001-50,000
+      - $50,001-100,000
+      - $100,001 or more
       required: false
     - id: 25
       name: other_income

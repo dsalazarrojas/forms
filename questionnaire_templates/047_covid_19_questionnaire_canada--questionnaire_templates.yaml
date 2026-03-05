@@ -91,7 +91,7 @@ inputSchema:
       - Immunocompromised
       - Essential worker
       - 65 years or older
-      - false
+      - 'False'
       required: true
     - id: 11
       name: medical_conditions
@@ -121,7 +121,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, one dose
       - Yes, two doses
       - Yes, three or more doses
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 19
       name: current_illness
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 20
       name: illness_description
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: consent_vaccination
@@ -207,8 +207,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: questionnaire_date

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''House''}'
-      - '{''value'': ''Condo''}'
-      - '{''value'': ''Townhouse''}'
+      - House
+      - Condo
+      - Townhouse
       required: false
     - id: 3
       name: lighting_type
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''LED''}'
-      - '{''value'': ''Incandescent''}'
-      - '{''value'': ''Halogen''}'
-      - '{''value'': ''Fluorescent''}'
+      - LED
+      - Incandescent
+      - Halogen
+      - Fluorescent
       required: false
     - id: 4
       name: brightness_level
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 8
       name: energy_efficiency
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Energy Star''}'
-      - '{''value'': ''Non-Energy Star''}'
+      - Energy Star
+      - Non-Energy Star
       required: false
     - id: 9
       name: comments

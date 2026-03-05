@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Card payment''}'
-      - '{''id'': 2, ''label'': ''Cash''}'
-      - '{''id'': 3, ''label'': ''Other (please describe)''}'
+      - Card payment
+      - Cash
+      - Other (please describe)
       required: false
     - id: 6
       name: payment_method_other_description
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''VIP''}'
-      - '{''id'': 3, ''label'': ''Premium''}'
+      - Standard
+      - VIP
+      - Premium
       required: false
     - id: 9
       name: total_amount_paid

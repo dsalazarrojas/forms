@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Needs Improvement''}'
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
       required: true
     - id: 5
       name: date_of_birth
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Simulation 1''}'
-      - '{''id'': 2, ''label'': ''Simulation 2''}'
-      - '{''id'': 3, ''label'': ''Simulation 3''}'
-      - '{''id'': 4, ''label'': ''Simulation 4''}'
+      - Simulation 1
+      - Simulation 2
+      - Simulation 3
+      - Simulation 4
       required: true
     - id: 8
       name: course_number
@@ -72,11 +72,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1-2''}'
-      - '{''id'': 2, ''label'': ''3-4''}'
-      - '{''id'': 3, ''label'': ''5-6''}'
-      - '{''id'': 4, ''label'': ''7-8''}'
-      - '{''id'': 5, ''label'': ''9-10''}'
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
       required: false
     - id: 10
       name: training_completed
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: comments
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: rsi_rating_scale
@@ -144,11 +144,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1-2''}'
-      - '{''id'': 2, ''label'': ''3-4''}'
-      - '{''id'': 3, ''label'': ''5-6''}'
-      - '{''id'': 4, ''label'': ''7-8''}'
-      - '{''id'': 5, ''label'': ''9-10''}'
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
       required: false
     - id: 19
       name: rsi_score
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Not Completed''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Completed
+      - Not Completed
+      - In Progress
       required: false
     - id: 23
       name: rsi_evaluation

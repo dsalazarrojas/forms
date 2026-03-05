@@ -40,21 +40,21 @@ inputSchema:
       required: false
     - id: 6
       name: shipping_name
-      label: Name
+      label: Shipping Name
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: shipping_email
-      label: Email
+      label: Shipping Email
       hint: null
       type: email
       options: []
       required: false
     - id: 8
       name: shipping_phone
-      label: Phone
+      label: Shipping Phone
       hint: null
       type: text
       options: []
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 121, ''name'': ''Online Payment'', ''label'': ''Online Payment''}'
-      - '{''id'': 122, ''name'': ''Offline Payment'', ''label'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: false
     - id: 13
       name: preorder_status
@@ -95,11 +95,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 131, ''name'': ''Pre-Order Available'', ''label'': ''Pre-Order Available''}'
-      - '{''id'': 132, ''name'': ''Pre-Order Sold Out'', ''label'': ''Pre-Order Sold
-        Out''}'
-      - '{''id'': 133, ''label'': ''Pre-Order Canceled''}'
-      - '{''id'': 134, ''label'': ''Pre-Order Not Available''}'
+      - Pre-Order Available
+      - Pre-Order Sold Out
+      - Pre-Order Canceled
+      - Pre-Order Not Available
       required: false
     - id: 14
       name: customer_notes

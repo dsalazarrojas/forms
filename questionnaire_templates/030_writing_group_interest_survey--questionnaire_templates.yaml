@@ -15,179 +15,92 @@ inputSchema:
     title: Writing Group Interest Survey
     pages:
     - id: 1
-      name: writing_group_interest_survey_page_1
+      name: intro
       label: Introduction
-      hint: null
+      hint: Welcome to this Writing Group Interest Survey.
       type: note
       options: []
       required: false
     - id: 2
-      name: writing_group_interest_survey_page_2
-      label: About You
-      hint: null
-      type: text
-      options: []
+      name: about_you_1
+      label: What is your primary role in the group?
+      hint: Please select one of the options below.
+      type: select_one
+      options:
+      - I am a writer/author
+      - I am an editor/publisher
+      - I am a reader/fan
+      - Other (please specify)
       required: false
     - id: 3
-      name: writing_group_interest_survey_page_3
-      label: About You (continued)
-      hint: null
+      name: about_you_2
+      label: What brings you here?
+      hint: Please provide a brief explanation.
       type: text
       options: []
       required: false
     - id: 4
-      name: what_brings_you_here
-      label: what brings you here
-      hint: null
-      type: text
-      options: []
+      name: writing_group
+      label: What type of writing group are you interested in?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Creative Writing Group
+      - Non-Fiction Writing Group
+      - Poetry Group
+      - Playwriting Group
       required: false
     - id: 5
-      name: writing_group_interest_survey_page_4
-      label: Writing Group
-      hint: null
-      type: select_one
+      name: writing_group_preferences
+      label: What type of writing group settings would you like?
+      hint: Select all that apply.
+      type: select_multiple
       options:
-      - option1
-      - option2
+      - Online
+      - In-person
+      - Hybrid
+      - Flexible/remote
       required: false
     - id: 6
-      name: writing_group_interest_survey_page_5
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
+      name: writing_group_schedules
+      label: What schedule would you like for your writing group?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Flexible
       required: false
     - id: 7
-      name: writing_group_interest_survey_page_6
-      label: Writing Group (continued)
-      hint: null
+      name: about_me
+      label: About You
+      hint: Please provide a brief description.
       type: text
       options: []
       required: false
     - id: 8
-      name: writing_group_interest_survey_page_7
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
+      name: what_we_can_do
+      label: What would you like to achieve or gain in the group?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Feedback
+      - Networking
+      - Community
+      - Professional growth
       required: false
     - id: 9
-      name: writing_group_interest_survey_page_8
-      label: Writing Group (continued)
-      hint: null
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any other comments or thoughts.
       type: text
       options: []
       required: false
     - id: 10
-      name: writing_group_interest_survey_page_9
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: writing_group_interest_survey_page_10
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: writing_group_interest_survey_page_11
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: writing_group_interest_survey_page_12
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: writing_group_interest_survey_page_13
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: writing_group_interest_survey_page_14
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: writing_group_interest_survey_page_15
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: writing_group_interest_survey_page_16
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: writing_group_interest_survey_page_17
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: writing_group_interest_survey_page_18
-      label: Writing Group (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: what_brings_you_here_continued
-      label: what brings you here (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: writing_group_interest_survey_page_19
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: writing_group_interest_survey_page_20
+      name: thank_you
       label: Thank You
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: writing_group_interest_survey_page_21
-      label: Thank You (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: writing_group_interest_survey_page_22
-      label: Thank You (continued)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: writing_group_interest_survey_page_23
-      label: Thank You (continued)
-      hint: null
+      hint: We value your time and participation.
       type: text
       options: []
       required: false

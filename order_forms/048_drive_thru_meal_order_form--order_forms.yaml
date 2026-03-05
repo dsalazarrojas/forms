@@ -23,10 +23,10 @@ inputSchema:
       hint: Select a pickup type
       type: select_one
       options:
-      - '{''name'': ''Pickup Window'', ''value'': ''Pickup Window''}'
-      - '{''name'': ''DriveThru'', ''value'': ''DriveThru''}'
-      - '{''name'': ''Delivery'', ''value'': ''Delivery''}'
-      - '{''name'': ''Curbside'', ''value'': ''Curbside''}'
+      - Pickup Window
+      - DriveThru
+      - Delivery
+      - Curbside
       required: false
     - id: 4
       name: order_items
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Hamburger'', ''value'': ''Hamburger''}'
-      - '{''name'': ''Fries'', ''value'': ''Fries''}'
-      - '{''name'': ''Sandwich'', ''value'': ''Sandwich''}'
+      - Hamburger
+      - Fries
+      - Sandwich
       required: false
     - id: 5
       name: customer_name

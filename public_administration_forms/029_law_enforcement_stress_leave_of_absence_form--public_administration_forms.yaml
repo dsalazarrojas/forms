@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 3
       name: reason_for_leave
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Stress''}'
-      - '{''value'': ''Burnout''}'
-      - '{''value'': ''Trauma''}'
+      - Stress
+      - Burnout
+      - Trauma
       required: false
     - id: 4
       name: number_of_days_off
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John Doe''}'
-      - '{''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 7
       name: comments

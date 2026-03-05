@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''Yes''}'
-      - '{''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: purchase_frequency
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Local store'', ''value'': ''Local store''}'
-      - '{''label'': ''Online'', ''value'': ''Online''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      - Local store
+      - Online
+      - Other (please specify)
       required: false
     - id: 9
       name: email
@@ -190,7 +190,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''JotForm'', ''value'': ''JotForm''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
-      - '{''label'': ''None'', ''value'': ''None''}'
+      - JotForm
+      - Other
+      - None
       required: false

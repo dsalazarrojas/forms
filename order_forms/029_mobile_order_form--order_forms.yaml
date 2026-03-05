@@ -4,7 +4,7 @@ inputSchema:
     title: Mobile Order Form
     pages:
     - id: 1
-      name: order_form_1
+      name: order_1
       label: Order
       hint: null
       type: text
@@ -29,186 +29,67 @@ inputSchema:
       - 'No'
       required: false
     - id: 4
-      name: customer_name_4
+      name: note_4
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name_5
       label: Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: email_5
+    - id: 6
+      name: email_6
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 6
-      name: phone_6
+    - id: 7
+      name: phone_7
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: message_7
+    - id: 8
+      name: message_8
       label: Message
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: submit_8
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 9
-      name: note_9
-      label: Additional Info
+      name: order_item_9
+      label: Order Item 9
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
       name: note_10
-      label: Additional Info
+      label: Note 10
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: order_item_11
-      label: Order Item
+      name: customer_name_11
+      label: Customer Name 11
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 12
-      name: order_item_12
-      label: Order Item
+      name: phone_12
+      label: Phone 12
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: order_item_13
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: order_item_14
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: order_item_15
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: order_item_16
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: order_item_17
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: order_item_18
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: order_item_19
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: order_item_20
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: order_item_21
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: order_item_22
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: order_item_23
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: order_item_24
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: order_item_25
-      label: Order Item
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false

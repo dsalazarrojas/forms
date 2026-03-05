@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: media_release
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: event_date
@@ -66,7 +66,7 @@ inputSchema:
     - id: 9
       name: event_time
       label: Event Time
-      hint: "12:00 AM"
+      hint: 12:00 AM
       type: time
       options: []
       required: false

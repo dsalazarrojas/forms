@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''6-7 hours''}'
-      - '{''value'': 2, ''label'': ''7-8 hours''}'
-      - '{''value'': 3, ''label'': ''8-9 hours''}'
-      - '{''value'': 4, ''label'': ''10 hours or more''}'
+      - 6-7 hours
+      - 7-8 hours
+      - 8-9 hours
+      - 10 hours or more
       required: false
     - id: 4
       name: sleep_latency
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''None''}'
-      - '{''value'': 2, ''label'': ''Rarely''}'
-      - '{''value'': 3, ''label'': ''Occasionally''}'
-      - '{''value'': 4, ''label'': ''Often''}'
-      - '{''value'': 5, ''label'': ''Almost Every Night''}'
+      - None
+      - Rarely
+      - Occasionally
+      - Often
+      - Almost Every Night
       required: false
     - id: 7
       name: snoring
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''None''}'
-      - '{''value'': 2, ''label'': True}'
-      - '{''value'': 3, ''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: sleep_disorder
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''None''}'
-      - '{''value'': 2, ''label'': ''Sleep Apnea''}'
-      - '{''value'': 3, ''label'': ''Insomnia''}'
-      - '{''value'': 4, ''label'': ''Narcolepsy''}'
-      - '{''value'': 5, ''label'': ''Other''}'
+      - None
+      - Sleep Apnea
+      - Insomnia
+      - Narcolepsy
+      - Other
       required: false
     - id: 9
       name: sleep_treatment
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Medication''}'
-      - '{''value'': 2, ''label'': ''Lifestyle Changes''}'
-      - '{''value'': 3, ''label'': ''Combination''}'
+      - Medication
+      - Lifestyle Changes
+      - Combination
       required: false
     - id: 10
       name: sleep_recommendation
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''None''}'
-      - '{''value'': 2, ''label'': True}'
-      - '{''value'': 3, ''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: comments

@@ -4,85 +4,82 @@ inputSchema:
     title: Professional Board Election Voting Form
     pages:
     - id: 1
-      name: election_form_page_1
-      label: Poll Details
-      hint: null
-      type: note
+      name: introduction
+      label: Introduction
+      hint: Please fill out this form carefully.
+      type: text
       options: []
       required: false
     - id: 2
       name: election_form_page_2
-      label: Eligibility Check
-      hint: null
+      label: Eligibility Check 1
+      hint: Please confirm your eligibility to vote.
       type: text
       options: []
       required: false
     - id: 3
       name: election_form_page_3
-      label: Vote
-      hint: null
+      label: Election Preferences
+      hint: Please select your preferred candidate.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
       name: election_form_page_4
-      label: Vote Record
-      hint: null
-      type: number
-      options: []
-      required: false
+      label: Eligibility Check 2
+      hint: Please confirm your eligibility to vote.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 5
       name: election_form_page_5
-      label: Vote Record
-      hint: null
+      label: Voting Records
+      hint: Please enter the number of votes you plan to cast.
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
       name: election_form_page_6
-      label: Vote Record
-      hint: null
-      type: number
-      options: []
-      required: false
+      label: Vote Options
+      hint: Please select all options that apply.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
       name: election_form_page_7
-      label: Vote Record
-      hint: null
-      type: number
+      label: Eligibility Confirmation
+      hint: Please confirm your eligibility to vote.
+      type: text
       options: []
       required: false
     - id: 8
       name: election_form_page_8
-      label: Eligibility Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: election_form_page_9
       label: Vote Summary
-      hint: null
+      hint: Please confirm your vote.
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 9
+      name: election_form_page_9
+      label: Additional Details
+      hint: Please provide any additional details.
+      type: text
+      options: []
       required: false
     - id: 10
       name: election_form_page_10
-      label: Eligibility Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: election_form_page_11
-      label: Vote Summary
-      hint: null
-      type: select_one
+      label: Review
+      hint: Please review your form carefully.
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true

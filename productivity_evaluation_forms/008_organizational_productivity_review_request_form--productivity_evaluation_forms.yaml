@@ -1,64 +1,67 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Organizational Productivity Review Request Form
     pages:
     - id: 1
-      name: request_form
-      label: Request Form
+      name: intro
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: review_period
-      label: Review Period
-      hint: /resources/defaults/hint_review_period
-      type: date
-      options: []
-      required: false
-    - id: 3
       name: goals
       label: Goals
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - <array>
-      - Other
+      - Short-term goals
+      - Long-term goals
+      - Both
+      - None
       required: false
-    - id: 4
+    - id: 3
       name: focus_areas
       label: Focus Areas
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: preferred_timeline
-      label: Preferred Timeline
+    - id: 4
+      name: timeline
+      label: Timeline
       hint: null
       type: select_one
       options:
-      - <array>
-      - Other
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
       required: false
-    - id: 6
+    - id: 5
       name: manager
       label: Manager
       hint: null
       type: select_one
       options:
-      - <array>
-      - Other
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
       required: false
     - id: 7
-      name: team
-      label: Team
+      name: phone
+      label: Phone
       hint: null
-      type: select_one
-      options:
-      - <array>
-      - Other
+      type: text
+      options: []
       required: false
     - id: 8
       name: submit_button
@@ -68,639 +71,33 @@ inputSchema:
       options: []
       required: false
     - id: 9
-      name: email
-      label: Email
+      name: hours
+      label: Hours
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 10
-      name: phone
-      label: Phone
+      name: meetings
+      label: Meetings
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 11
-      name: notes
-      label: Notes
+      name: targets
+      label: Targets
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 12
-      name: submit_button
-      label: Submit
+      name: submit_button_2
+      label: Submit Button 2
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 13
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 26
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 28
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 30
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 32
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 34
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 36
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 38
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 40
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 42
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 44
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 46
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 48
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 50
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 51
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 52
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 54
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 55
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 56
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 57
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 58
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 59
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 60
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 61
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 62
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 63
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 64
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 65
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 66
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 67
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 68
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 69
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 70
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 71
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 72
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 73
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 74
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 75
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 76
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 77
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 78
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 79
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 80
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 81
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 82
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 83
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 84
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 85
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 86
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 87
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 88
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 89
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 90
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 91
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 92
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 93
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 94
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 95
-      name: notes
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 96
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 97
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 98
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 99
-      name: notes
-      label: Notes
-      hint: null
-      type: note
       options: []
       required: false

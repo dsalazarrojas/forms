@@ -16,10 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''2-1'', ''name'': ''delivery_day'', ''label'': ''Delivery Day'',
-        ''value'': ''Wednesday'', ''required'': False}'
-      - '{''id'': ''2-2'', ''name'': ''pickup_location'', ''label'': ''Pickup Location'',
-        ''value'': ''Home'', ''required'': False}'
+      - Delivery Day
+      - Pickup Location
       required: true
     - id: 3
       name: payment_info
@@ -27,10 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''3-1'', ''name'': ''payment_method'', ''label'': ''Payment Method'',
-        ''value'': ''Credit Card'', ''required'': True}'
-      - '{''id'': ''3-2'', ''name'': ''payment_type'', ''label'': ''Payment Type'',
-        ''value'': ''One Time Payment'', ''required'': False}'
+      - Payment Method
+      - Payment Type
       required: true
     - id: 4
       name: delivery_schedule
@@ -52,12 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''6-1'', ''name'': ''raw_food_type_1'', ''label'': ''Chicken'',
-        ''value'': ''Chicken'', ''required'': False}'
-      - '{''id'': ''6-2'', ''name'': ''raw_food_type_2'', ''label'': ''Fish'', ''value'':
-        ''Fish'', ''required'': False}'
-      - '{''id'': ''6-3'', ''name'': ''beef'', ''label'': ''Beef'', ''required'':
-        False}'
+      - Chicken
+      - Fish
+      - Beef
       required: true
     - id: 7
       name: raw_dog_food_quantity

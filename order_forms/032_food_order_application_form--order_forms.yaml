@@ -30,9 +30,9 @@ inputSchema:
       hint: Select the type of event
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Wedding''}'
-      - '{''id'': 2, ''name'': ''Birthday Party''}'
-      - '{''id'': 3, ''name'': ''Corporate Event''}'
+      - Wedding
+      - Birthday Party
+      - Corporate Event
       required: true
     - id: 5
       name: order_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: Select the types of food you want to order
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Food''}'
-      - '{''id'': 2, ''name'': ''Drinks''}'
-      - '{''id'': 4, ''name'': ''Both''}'
+      - Food
+      - Drinks
+      - Both
       required: true
     - id: 6
       name: quantity
@@ -64,9 +64,9 @@ inputSchema:
       hint: Select the type of minimalist options
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 9
       name: special_request

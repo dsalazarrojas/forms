@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 5
       name: amount
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''One time''}'
-      - '{''id'': 2, ''name'': ''Regularly''}'
+      - One time
+      - Regularly
       required: false
     - id: 7
       name: frequency_interval
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''Bank Transfer''}'
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 9
       name: payment_method_submitted_by
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''User''}'
-      - '{''id'': 2, ''name'': ''Bank''}'
+      - User
+      - Bank
       required: false
     - id: 10
       name: notes

@@ -30,9 +30,9 @@ inputSchema:
       hint: Select print type
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''giclée print''}'
-      - '{''id'': 11, ''name'': ''pigment-based''}'
-      - '{''id'': 12, ''name'': ''other''}'
+      - giclée print
+      - pigment-based
+      - other
       required: false
     - id: 5
       name: artwork_size
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 20, ''name'': ''landscape''}'
-      - '{''id'': 21, ''name'': ''portrait''}'
+      - landscape
+      - portrait
       required: false
     - id: 7
       name: paper_type
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 30, ''name'': ''paper_type_1''}'
-      - '{''id'': 31, ''name'': ''paper_type_2''}'
-      - '{''id'': 32, ''name'': ''paper_type_3''}'
+      - paper type 1
+      - paper type 2
+      - paper type 3
       required: false
     - id: 8
       name: quantity
@@ -66,11 +66,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 40, ''name'': 1}'
-      - '{''id'': 41, ''name'': 2}'
-      - '{''id'': 42, ''name'': 3}'
-      - '{''id'': 43, ''name'': 4}'
-      - '{''id'': 44, ''name'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 9
       name: artwork_details
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 50, ''name'': ''bank_transfer''}'
-      - '{''id'': 51, ''name'': ''paypal''}'
+      - bank transfer
+      - paypal
       required: false
     - id: 11
       name: email

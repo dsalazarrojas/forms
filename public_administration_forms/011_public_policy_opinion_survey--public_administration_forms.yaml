@@ -9,9 +9,9 @@ inputSchema:
       hint: Please select your current employment status
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''employed'', ''label'': ''Employed''}'
-      - '{''id'': 2, ''value'': ''retired'', ''label'': ''Retired''}'
-      - '{''id'': 3, ''value'': ''unemployed'', ''label'': ''Unemployed''}'
+      - Employed
+      - Retired
+      - Unemployed
       required: false
     - id: 2
       name: what_is_your_annual_income
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''democratic-party'', ''label'': ''Democratic Party''}'
-      - '{''id'': 2, ''value'': ''republican-party'', ''label'': ''Republican Party''}'
-      - '{''id'': 3, ''value'': ''independent'', ''label'': ''Independent''}'
+      - Democratic Party
+      - Republican Party
+      - Independent
       required: false
     - id: 4
       name: how_old_are_you
@@ -43,8 +43,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True, ''label'': True}'
-      - '{''id'': 2, ''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: additional_comments
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''high-school'', ''label'': ''High School''}'
-      - '{''id'': 2, ''value'': ''some-college'', ''label'': ''Some College''}'
-      - '{''id'': 3, ''value'': ''college'', ''label'': ''College''}'
+      - High School
+      - Some College
+      - College
       required: false
     - id: 10
       name: which_form_of_employment
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''government'', ''label'': ''Government''}'
-      - '{''id'': 2, ''value'': ''private'', ''label'': ''Private''}'
-      - '{''id'': 3, ''value'': ''non-profit'', ''label'': ''Non-profit''}'
+      - Government
+      - Private
+      - Non-profit
       required: false
     - id: 11
       name: how_often_do_you_use_the_internet
@@ -93,11 +93,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''value'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 4, ''value'': ''rarely'', ''label'': ''Rarely''}'
-      - '{''id'': 5, ''value'': ''never'', ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
       required: false
     - id: 12
       name: do_you_own_or_rent
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''own'', ''label'': ''Own''}'
-      - '{''id'': 2, ''value'': ''rent'', ''label'': ''Rent''}'
+      - Own
+      - Rent
       required: false
     - id: 13
       name: what_is_your_annual_housing_cost
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True, ''label'': True}'
-      - '{''id'': 2, ''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: how_many_members_in_your_family
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True, ''label'': True}'
-      - '{''id'': 2, ''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: how_often_do_you_read_local_newspaper
@@ -181,11 +181,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''value'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 4, ''value'': ''rarely'', ''label'': ''Rarely''}'
-      - '{''id'': 5, ''value'': ''never'', ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
       required: false
     - id: 23
       name: what_is_your_annual_income
@@ -200,8 +200,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True, ''label'': True}'
-      - '{''id'': 2, ''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: additional_comments_2

@@ -1,191 +1,181 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Foster Application Form
     pages:
     - id: 1
-      name: form_data
+      name: basic_info
       label: Basic Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: personal_info
-      label: Personal Info
+      name: pet_info
+      label: Pet Information
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Dogs
+      - Cats
       required: false
     - id: 3
-      name: pet_info
-      label: Pet Info
+      name: pet_count
+      label: How many pets do you currently have in your household?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - No pets
+      - 1-2 pets
+      - 3 or more pets
+      required: true
     - id: 4
-      name: contact_info
-      label: Contact Info
+      name: address
+      label: What is your address?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: availability
-      label: Availability
+      name: phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: references
-      label: References
+      name: availability_1
+      label: What days are you available to foster a pet?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
     - id: 7
-      name: medical_history
-      label: Medical History
+      name: availability_2
+      label: How many hours a day are you available to care for a pet?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Less than 4 hours
+      - 4 or more hours
+      required: true
     - id: 8
-      name: emergency_contact
-      label: Emergency Contact
+      name: care_experience
+      label: What is your pet care experience?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: true
     - id: 9
-      name: additional_info
-      label: Additional Info
+      name: special_needs
+      label: Have you had any experience with pets that have special needs?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: submission_review
-      label: Submission Review
+      name: medical_condition
+      label: Do you have any medical conditions that may impact your ability to care
+        for a pet?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: true
     - id: 11
-      name: submit
-      label: Submit
+      name: medication
+      label: Do you take any medications?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
     - id: 12
-      name: form_data
-      label: Basic Information
+      name: emergency_contact
+      label: Who is your emergency contact person?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: personal_info
-      label: Personal Info
+      name: emergency_contact_phone
+      label: What is their phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: pet_info
-      label: Pet Info
+      name: pet_return
+      label: Do you have any pets that have been surrendered to a shelter in the past?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
     - id: 15
-      name: contact_info
-      label: Contact Info
+      name: pet_return_reason
+      label: If yes, what was the reason?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: availability
-      label: Availability
+      name: abuse_neglect
+      label: Have you ever had a pet returned or removed due to neglect or abuse?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
     - id: 17
-      name: references
-      label: References
+      name: veterinary_clinic
+      label: Do you have a vet?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 18
-      name: medical_history
-      label: Medical History
+      name: insurance
+      label: Do you have pet insurance?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 19
-      name: emergency_contact
-      label: Emergency Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
       name: submission_review
-      label: Submission Review
+      label: Please review your submission
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submit
-      label: Submit
+      type: radio
+      options:
+      - This is correct
+      - This needs to be corrected
+      required: true
+    - id: 20
+      name: agree_terms
+      label: Do you agree to the terms and conditions of the foster program?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_data
-      label: Basic Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: personal_info
-      label: Personal Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: pet_info
-      label: Pet Info
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''Debit Card''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
       required: false
     - id: 4
       name: due_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Overdue''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Paid
+      - Overdue
+      - Pending
       required: false
     - id: 7
       name: note

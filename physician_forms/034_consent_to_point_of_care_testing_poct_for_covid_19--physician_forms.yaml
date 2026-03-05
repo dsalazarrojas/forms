@@ -72,8 +72,8 @@ inputSchema:
       hint: Do you have COVID-19 symptoms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: symptoms_list
@@ -107,8 +107,8 @@ inputSchema:
       hint: Have you been exposed to someone with COVID-19
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 14
@@ -126,7 +126,7 @@ inputSchema:
       options:
       - Yes - Domestic
       - Yes - International
-      - false
+      - 'False'
       required: true
     - id: 16
       name: travel_locations
@@ -193,8 +193,8 @@ inputSchema:
       hint: Do you understand when to expect results
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: test_risks_understood
@@ -202,8 +202,8 @@ inputSchema:
       hint: Do you understand any risks or discomfort
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: isolation_understood
@@ -211,8 +211,8 @@ inputSchema:
       hint: Do you understand isolation requirements
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: contact_tracing_consent
@@ -220,8 +220,8 @@ inputSchema:
       hint: Do you consent to contact tracing if positive
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: data_sharing_consent
@@ -229,8 +229,8 @@ inputSchema:
       hint: Do you consent to reporting results
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: financial_responsibility
@@ -238,8 +238,8 @@ inputSchema:
       hint: Do you understand you may be responsible for cost
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 28
       name: consent_decision

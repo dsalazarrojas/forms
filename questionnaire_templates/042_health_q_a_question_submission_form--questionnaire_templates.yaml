@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''label'': ''General'', ''value'': ''general''}'
-      - '{''id'': 11, ''label'': ''Medical'', ''value'': ''medical''}'
-      - '{''id'': 12, ''label'': ''Social'', ''value'': ''social''}'
+      - General
+      - Medical
+      - Social
       required: true
     - id: 4
       name: question_text_2
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 20, ''label'': ''General'', ''value'': ''general''}'
-      - '{''id'': 21, ''label'': ''Medical'', ''value'': ''medical''}'
-      - '{''id'': 22, ''label'': ''Social'', ''value'': ''social''}'
+      - General
+      - Medical
+      - Social
       required: false
     - id: 6
       name: question_submission_form_2
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 30, ''label'': ''Form 1'', ''value'': ''form_1''}'
-      - '{''id'': 31, ''label'': ''Form 2'', ''value'': ''form_2''}'
+      - Form 1
+      - Form 2
       required: false
     - id: 7
       name: email
@@ -87,6 +87,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 40, ''label'': True, ''value'': True}'
-      - '{''id'': 41, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

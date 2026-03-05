@@ -6,14 +6,14 @@ inputSchema:
     - id: 1
       name: introduction
       label: Introduction
-      hint: null
+      hint: This questionnaire is designed to assess your physical fitness.
       type: note
       options: []
       required: false
     - id: 2
       name: general_questions
       label: General Questions
-      hint: null
+      hint: Please answer these questions to the best of your ability.
       type: select_multiple
       options:
       - 'Yes'
@@ -22,203 +22,82 @@ inputSchema:
     - id: 3
       name: medical_history
       label: Medical History
-      hint: null
+      hint: Have you ever had a major medical condition or illness?
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 4
-      name: medical_history_2
-      label: Previous Medical History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
       name: exercise_questions
       label: Exercise Questions
-      hint: null
+      hint: How often do you engage in physical exercise?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Several times a week
+      - Rarely
       required: false
-    - id: 6
-      name: exercise_frequency
-      label: Exercise Frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
+    - id: 5
       name: physical_activity_level
       label: Physical Activity Level
-      hint: null
+      hint: How physically active are you?
       type: select_one
       options:
       - High
       - Low
       required: false
-    - id: 8
+    - id: 6
       name: height_weight
       label: Height and Weight
-      hint: null
+      hint: Please provide your height and weight.
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 9
+    - id: 7
       name: body_mass_index
       label: Body Mass Index
-      hint: null
+      hint: What is your body mass index?
+      type: select_one
+      options:
+      - Underweight
+      - Normal
+      - Overweight
+      required: false
+    - id: 8
+      name: resting_heart_rate
+      label: Resting Heart Rate
+      hint: What is your resting heart rate?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Have you had high blood pressure issues?
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 10
-      name: height_weight_2
-      label: Height and Weight
-      hint: null
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How frequent do you exercise?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Several times a week
+      - Rarely
       required: false
     - id: 11
-      name: resting_heart_rate
-      label: Resting Heart Rate
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 12
-      name: blood_pressure
-      label: Blood Pressure
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: exercise_frequency_2
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: exercise_frequency_3
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: exercise_frequency_4
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: exercise_frequency_5
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: exercise_frequency_6
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: exercise_frequency_7
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: exercise_frequency_8
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: exercise_frequency_9
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: exercise_frequency_10
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: exercise_frequency_11
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: exercise_frequency_12
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: exercise_frequency_13
-      label: Exercise Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: exercise_frequency_14
-      label: Exercise Frequency
-      hint: null
+      name: height_weight_2
+      label: Height Weight 2
+      hint: Please provide your height and weight.
       type: select_multiple
       options:
       - 'Yes'

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''hand'', ''label'': ''Hand-Drawn Design''}'
-      - '{''id'': 2, ''name'': ''computer'', ''label'': ''Computer-Generated Design''}'
+      - Hand-Drawn Design
+      - Computer-Generated Design
       required: true
     - id: 3
       name: design_type
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''logo'', ''label'': ''Logo''}'
-      - '{''id'': 2, ''name'': ''logo_and_text'', ''label'': ''Logo and Text''}'
-      - '{''id'': 3, ''name'': ''text'', ''label'': ''Text''}'
+      - Logo
+      - Logo and Text
+      - Text
       required: true
     - id: 4
       name: design_file
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': 8, ''label'': ''8''}'
-      - '{''id'': 2, ''name'': 10, ''label'': ''10''}'
-      - '{''id'': 3, ''name'': 12, ''label'': ''12''}'
+      - '8'
+      - '10'
+      - '12'
       required: true
     - id: 7
       name: thread_color
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Red'', ''label'': ''Red''}'
-      - '{''id'': 2, ''name'': ''Blue'', ''label'': ''Blue''}'
-      - '{''id'': 3, ''name'': ''Green'', ''label'': ''Green''}'
+      - Red
+      - Blue
+      - Green
       required: true
     - id: 8
       name: quantity
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''cotton'', ''label'': ''Cotton''}'
-      - '{''id'': 2, ''name'': ''polyester'', ''label'': ''Polyester''}'
+      - Cotton
+      - Polyester
       required: true
     - id: 10
       name: special_instructions
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: date
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''iron_on'', ''label'': ''Iron on''}'
-      - '{''id'': 2, ''name'': ''heattransfer'', ''label'': ''Heat Transfer''}'
-      - '{''id'': 3, ''name'': ''sew_on'', ''label'': ''Sew on''}'
+      - Iron on
+      - Heat Transfer
+      - Sew on
       required: true
     - id: 15
       name: output_size

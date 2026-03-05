@@ -1,203 +1,105 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Renewable Energy Policy Survey
     pages:
     - id: 1
-      name: form_first_page
-      label: form_first_page
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: current_status
+      label: What is the current status of renewable energy policy in your country/region?
+      hint: Please choose one of the options
+      type: select_one
+      options:
+      - In Progress
+      - Implemented
+      - Not Applicable
+      - Other (please specify)
+      required: true
     - id: 2
-      name: form_page_two
-      label: form_page_two
+      name: energy_sources
+      label: Which renewable energy sources are currently being utilized in your country/region?
       hint: null
+      type: select_multiple
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Geothermal
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: challenges
+      label: What are the main challenges facing the implementation of renewable energy
+        policies in your country/region?
+      hint: Please provide a brief description
       type: text
       options: []
-      required: false
-    - id: 3
-      name: form_policy_areas
-      label: policy_areas
+      required: true
+    - id: 4
+      name: government_support
+      label: How does the government support the development of renewable energy technologies?
       hint: null
       type: select_one
       options:
-      - '{''name'': ''solar'', ''label'': ''Solar''}'
-      - '{''name'': ''wind'', ''label'': ''Wind''}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
-      required: false
-    - id: 4
-      name: form_policy_areas_other
-      label: form_policy_areas_other
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Financial Support
+      - Regulatory Support
+      - Technical Support
+      - Other (please specify)
+      - Not Sufficient
+      required: true
     - id: 5
-      name: form_first_question
-      label: first_question
-      hint: null
+      name: benefits
+      label: What are the main benefits of renewable energy policies in your country/region?
+      hint: Please provide a brief description
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: first_question_answer
-      label: first_question_answer
-      hint: null
+      name: solutions
+      label: What are some potential solutions to the challenges facing renewable
+        energy policies?
+      hint: Please provide a brief description
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: form_second_question
-      label: second_question
+      name: public_perception
+      label: How does the public perceive renewable energy policies in your country/region?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Other (please specify)
+      required: true
     - id: 8
-      name: second_question_answer
-      label: second_question_answer
+      name: media_promotion
+      label: What role does the media play in promoting renewable energy policies?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Active Support
+      - Passive Support
+      - No Support
+      - Other (please specify)
+      required: true
     - id: 9
-      name: form_third_question
-      label: third_question
+      name: laws_and_regulations
+      label: Are there any specific laws or regulations that support or hinder renewable
+        energy policies?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Supportive
+      - Hindrance
+      - Neutral
+      - Other (please specify)
+      required: true
     - id: 10
-      name: third_question_answer
-      label: third_question_answer
-      hint: null
+      name: additional_comments
+      label: Can you provide any additional comments or suggestions on the current
+        state of renewable energy policies?
+      hint: Please provide a brief description
       type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_policy_comments
-      label: policy_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: form_policy_comments
-      label: policy_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_last_question
-      label: last_question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: last_question_answer
-      label: last_question_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_policy_areas_other_text
-      label: policy_areas_other_text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_other_solutions
-      label: other_solutions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: other_solutions
-      label: other_solutions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_other_comments
-      label: other_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: other_comments
-      label: other_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_policy_areas_other
-      label: policy_areas
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''solar'', ''label'': ''Solar''}'
-      - '{''name'': ''wind'', ''label'': ''Wind''}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
-      required: false
-    - id: 21
-      name: form_other_solutions
-      label: other_solutions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''solution1'', ''label'': ''Solution 1''}'
-      - '{''name'': ''solution2'', ''label'': ''Solution 2''}'
-      - '{''name'': ''solution3'', ''label'': ''Solution 3''}'
-      required: false
-    - id: 22
-      name: form_other_solutions_2
-      label: other_solutions_2
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''solution1'', ''label'': ''Solution 1''}'
-      - '{''name'': ''solution2'', ''label'': ''Solution 2''}'
-      - '{''name'': ''solution3'', ''label'': ''Solution 3''}'
-      required: false
-    - id: 23
-      name: form_other_comments_2
-      label: other_comments_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: other_comments_2
-      label: other_comments_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_last_submission
-      label: last_submission
-      hint: null
-      type: note
       options: []
       required: false

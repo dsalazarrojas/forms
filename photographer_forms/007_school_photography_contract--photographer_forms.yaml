@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Square''}'
+      - Stripe
+      - PayPal
+      - Square
       required: false
     - id: 6
       name: payment_method
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''credit_card''}'
-      - '{''value'': ''bank_transfer''}'
-      - '{''value'': ''other''}'
+      - credit card
+      - bank transfer
+      - other
       required: false
     - id: 7
       name: payment_status
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''paid''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''unpaid''}'
+      - paid
+      - pending
+      - unpaid
       required: false
     - id: 8
       name: due_date
@@ -88,6 +88,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

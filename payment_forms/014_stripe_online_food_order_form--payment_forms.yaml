@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Card''}'
-      - '{''id'': 2, ''label'': ''Stripe''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Card
+      - Stripe
+      - Other
       required: true
     - id: 4
       name: customer_email
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Paid''}'
-      - '{''id'': 3, ''label'': ''Failed''}'
+      - Pending
+      - Paid
+      - Failed
       required: true
     - id: 14
       name: date_time

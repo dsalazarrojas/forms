@@ -4,177 +4,152 @@ inputSchema:
     title: English Grade 4 Test
     pages:
     - id: 1
-      name: quiz_form_1
-      label: english_grade_4_test
+      name: student_information
+      label: Student Information
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Student Name
+      - Student Email
+      - Student Phone Number
+      required: true
     - id: 2
       name: answer_1
-      label: question_1
+      label: What is your favorite color?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
     - id: 3
       name: answer_2
-      label: question_2
+      label: What is the capital of France?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Paris
+      - London
+      - Berlin
+      required: true
     - id: 4
       name: submit
-      label: submit
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: email
-      label: email
+      name: contact_information
+      label: Contact Information
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: phone_number
-      label: phone
+      name: form_details
+      label: Form Details
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: date_of_birth
-      label: date_of_birth
+      name: tool_information
+      label: Tool Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: time_of_birth
-      label: time
+      name: additional_information
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: note
-      label: note
+      name: question_1
+      label: What is your favorite food?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Apple
+      - Pizza
+      - Sushi
+      required: true
     - id: 10
-      name: english_grade_4_test_category
-      label: category
+      name: question_2
+      label: What is your favorite animal?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Elephant
+      required: true
     - id: 11
-      name: english_grade_4_test_description
-      label: description
+      name: question_3
+      label: What is your favorite hobby?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Reading
+      - Writing
+      - Sports
+      required: true
     - id: 12
-      name: assigned_tool
-      label: assigned_tool
+      name: question_4
+      label: Question 4
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
     - id: 13
-      name: form_version
-      label: version
+      name: question_5
+      label: Question 5
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Paris
+      - London
+      - Berlin
+      required: true
     - id: 14
-      name: form_id
-      label: form_id
+      name: question_6
+      label: What is your birthday?
       hint: null
-      type: number
+      type: date
       options: []
-      required: false
+      required: true
     - id: 15
-      name: output_file
-      label: output_file
+      name: question_7
+      label: What time do you wake up every morning?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 16
-      name: category
-      label: category
+      name: question_8
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: assigned_tool
-      label: assigned_tool
+      name: question_9
+      label: What is your date of birth?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 18
-      name: form_id
-      label: form_id
+      name: question_10
+      label: What is your favorite book?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: tool_version
-      label: tool_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: tool_id
-      label: tool_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tool
-      label: tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: version
-      label: version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tool_version
-      label: tool_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: tool_id
-      label: tool_id
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: witness_names
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 17
@@ -171,7 +171,7 @@ inputSchema:
       - Yes, fire department
       - Yes, EMS
       - Yes, all applicable
-      - false
+      - 'False'
       required: true
     - id: 20
       name: follow_up_needed
@@ -181,7 +181,7 @@ inputSchema:
       options:
       - Yes, urgent
       - Yes, but not urgent
-      - false
+      - 'False'
       required: true
     - id: 21
       name: follow_up_suggestions
@@ -196,8 +196,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: additional_comments

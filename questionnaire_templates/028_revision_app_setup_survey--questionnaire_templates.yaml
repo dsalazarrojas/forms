@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Subject1''}'
-      - '{''id'': 2, ''name'': ''Subject2''}'
-      - '{''id'': 3, ''name'': ''Subject3''}'
+      - Subject1
+      - Subject2
+      - Subject3
       required: false
     - id: 3
       name: device_preferences
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3''}'
-      - '{''id'': 4, ''name'': ''Option 4''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 4
       name: reminder_frequency
@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
+      - Daily
+      - Weekly
       required: false
     - id: 5
       name: feature_requests
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: email_notification_frequency
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
+      - Daily
+      - Weekly
       required: false
     - id: 12
       name: device_notification
@@ -99,6 +99,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

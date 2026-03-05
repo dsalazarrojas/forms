@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Once'', ''label'': ''Once''}'
-      - '{''id'': 2, ''name'': ''Reoccurring'', ''label'': ''Reoccurring''}'
-      - '{''id'': 3, ''name'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - '{''id'': 5, ''name'': ''Weekly'', ''label'': ''Weekly''}'
+      - Once
+      - Reoccurring
+      - Monthly
+      - Bi-Weekly
+      - Weekly
       required: false
     - id: 6
       name: frequency_repeats
@@ -49,11 +49,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Never'', ''label'': ''Never''}'
-      - '{''id'': 2, ''name'': ''1 month'', ''label'': ''1 month''}'
-      - '{''id'': 3, ''name'': ''2 months'', ''label'': ''2 months''}'
-      - '{''id'': 4, ''name'': ''3 months'', ''label'': ''3 months''}'
-      - '{''id'': 5, ''name'': ''4 months'', ''label'': ''4 months''}'
+      - Never
+      - 1 month
+      - 2 months
+      - 3 months
+      - 4 months
       required: false
     - id: 7
       name: notes
@@ -68,6 +68,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Opt in'', ''label'': ''Opt in''}'
-      - '{''id'': 2, ''name'': ''Opt Out'', ''label'': ''Opt Out''}'
+      - Opt in
+      - Opt Out
       required: false

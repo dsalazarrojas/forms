@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: recovery_trend
@@ -36,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Improving''}'
-      - '{''id'': 2, ''label'': ''Stable''}'
-      - '{''id'': 3, ''label'': ''Deteriorating''}'
+      - Improving
+      - Stable
+      - Deteriorating
       required: true
     - id: 4
       name: follow_up_care
@@ -60,8 +49,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Allergies''}'
+      - None
+      - Allergies
       required: false
     - id: 7
       name: medication_side_effects
@@ -76,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: postpartum_depression
@@ -85,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: postpartum_anxiety
@@ -94,8 +83,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: postpartum_uti
@@ -103,8 +92,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: postpartum_bleeding
@@ -112,8 +101,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: postpartum_bleeding_frequency
@@ -121,11 +110,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Less than 4 times in a week''}'
-      - '{''id'': 3, ''label'': ''Less than 2 times in a week''}'
-      - '{''id'': 4, ''label'': ''Less than 1 time in a week''}'
-      - '{''id'': 5, ''label'': ''None''}'
+      - Daily
+      - Less than 4 times in a week
+      - Less than 2 times in a week
+      - Less than 1 time in a week
+      - None
       required: false
     - id: 14
       name: postpartum_bleeding_duration
@@ -133,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 2 weeks''}'
-      - '{''id'': 2, ''label'': ''2-4 weeks''}'
-      - '{''id'': 3, ''label'': ''More than 4 weeks''}'
+      - Less than 2 weeks
+      - 2-4 weeks
+      - More than 4 weeks
       required: false
     - id: 15
       name: postpartum_bleeding_amount
@@ -143,8 +132,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''2-8 mL''}'
-      - '{''id'': 2, ''label'': ''More than 8 mL''}'
+      - 2-8 mL
+      - More than 8 mL
       required: false
     - id: 16
       name: postpartum_complications
@@ -187,8 +176,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Allergies''}'
+      - None
+      - Allergies
       required: false
     - id: 22
       name: medical_condition
@@ -217,6 +206,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

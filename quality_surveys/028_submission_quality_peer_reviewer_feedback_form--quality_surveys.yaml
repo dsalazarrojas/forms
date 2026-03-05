@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,66 +5,102 @@ inputSchema:
     pages:
     - id: 1
       name: submission_quality_peer_reviewer_feedback_form_page_1
-      label: submission_quality_peer_reviewer_form_page_1
+      label: 1. What is your overall impression of the submission?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
       name: submission_quality_peer_reviewer_feedback_form_page_2
-      label: reviewer_comments
+      label: 2. Please provide your comments on the submission.
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: reviewer_suggestions
-      label: reviewer_suggestions
+      name: submission_quality_peer_reviewer_feedback_form_page_3
+      label: 3. Do you agree or disagree with the submission?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Disagree
+      - Strongly Disagree
       required: false
     - id: 4
-      name: submission_quality_peer_reviewer_feedback_form_page_3
-      label: reviewer_suggestions
+      name: submission_quality_peer_reviewer_feedback_form_page_4
+      label: 4. What specific suggestions do you have for the submission?
       hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Strongly agree''}'
-      - '{''label'': ''Somewhat agree''}'
-      - '{''label'': ''Neither agree nor disagree''}'
-      - '{''label'': ''Disagree''}'
-      - '{''label'': ''Strongly disagree''}'
+      type: text
+      options: []
       required: false
     - id: 5
-      name: reviewer_suggestions
-      label: reviewer_suggestions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: reviewer_suggestions
-      label: reviewer_suggestions
+      name: submission_quality_peer_reviewer_feedback_form_page_5
+      label: 5. What is the quality score you give this submission?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly agree''}'
-      - '{''label'': ''Somewhat agree''}'
-      - '{''label'': ''Neither agree nor disagree''}'
-      - '{''label'': ''Disagree''}'
-      - '{''label'': ''Strongly disagree''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
-    - id: 7
-      name: reviewer_comments
-      label: reviewer_comments
+    - id: 6
+      name: submission_quality_peer_reviewer_feedback_form_page_6
+      label: 6. Do you have any additional comments for the submission?
       hint: null
       type: text
       options: []
       required: false
+    - id: 7
+      name: submission_quality_peer_reviewer_feedback_form_page_7
+      label: 7. Do you agree or disagree with the submission?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Disagree
+      - Strongly Disagree
+      required: false
     - id: 8
-      name: reviewer_comments
-      label: reviewer_comments
+      name: submission_quality_peer_reviewer_feedback_form_page_8
+      label: 8. What specific improvements do you suggest for the submission?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_quality_peer_reviewer_feedback_form_page_9
+      label: 9. What is your rating for the submission quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: submission_quality_peer_reviewer_feedback_form_page_10
+      label: 10. Can you suggest any references or resources for the submission?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_quality_peer_reviewer_feedback_form_page_11
+      label: 11. Do you have any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_quality_peer_reviewer_feedback_form_page_12
+      label: 12. Any other comments or suggestions?
       hint: null
       type: text
       options: []

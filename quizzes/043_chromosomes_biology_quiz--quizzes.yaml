@@ -1,196 +1,185 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chromosomes Biology Quiz
     pages:
-      - id: 1
-        name: student_info
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: first_name
-        label: First Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: last_name
-        label: Last Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: student_id
-        label: Student ID
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: email
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 6
-        name: class_section
-        label: Class Section
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: quiz_instructions
-        label: -- Quiz Instructions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: question_one
-        label: What are chromosomes primarily made of?
-        hint: null
-        type: select_one
-        options:
-          - Proteins only
-          - DNA and proteins (histones)
-          - RNA only
-          - Lipids and carbohydrates
-        required: true
-      - id: 9
-        name: question_two
-        label: How many chromosomes do humans have in each cell?
-        hint: null
-        type: select_one
-        options:
-          - 23
-          - 46
-          - 92
-          - 64
-        required: true
-      - id: 10
-        name: question_three
-        label: Which type of chromosome abnormality involves having three copies?
-        hint: null
-        type: select_one
-        options:
-          - Monosomy
-          - Trisomy
-          - Tetrasomy
-          - Nullisomy
-        required: true
-      - id: 11
-        name: question_four
-        label: What is the term for the observable structure of chromosomes?
-        hint: null
-        type: select_one
-        options:
-          - Genotype
-          - Karyotype
-          - Phenotype
-          - Biotype
-        required: true
-      - id: 12
-        name: question_five
-        label: Mitochondria contain which type of chromosome?
-        hint: null
-        type: select_one
-        options:
-          - Linear chromosomes
-          - Circular chromosomes
-          - Paired chromosomes
-          - Sex chromosomes
-        required: true
-      - id: 13
-        name: question_six
-        label: What is the primary role of the centromere?
-        hint: null
-        type: select_one
-        options:
-          - DNA replication
-          - Protein synthesis
-          - Chromosome segregation during cell division
-          - Gene expression
-        required: true
-      - id: 14
-        name: question_seven
-        label: Which chromosome pair determines sex in humans?
-        hint: null
-        type: select_one
-        options:
-          - First pair
-          - 22nd pair
-          - 23rd pair (X and Y)
-          - Last pair
-        required: true
-      - id: 15
-        name: question_eight
-        label: What is a telomere?
-        hint: null
-        type: select_one
-        options:
-          - The middle region of a chromosome
-          - Protective caps at the ends of chromosomes
-          - The point where chromosomes attach during mitosis
-          - DNA strand segments
-        required: true
-      - id: 16
-        name: question_nine
-        label: Down syndrome is caused by a trisomy in which chromosome?
-        hint: null
-        type: select_one
-        options:
-          - Chromosome 13
-          - Chromosome 18
-          - Chromosome 21
-          - Chromosome 22
-        required: true
-      - id: 17
-        name: question_ten
-        label: During which phase of meiosis do homologous chromosomes separate?
-        hint: null
-        type: select_one
-        options:
-          - Prophase I
-          - Metaphase I
-          - Anaphase I
-          - Telophase I
-        required: true
-      - id: 18
-        name: submission
-        label: -- Submission --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: quiz_date
-        label: Quiz Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 20
-        name: additional_comments
-        label: Additional Comments or Questions
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quiz_instructions
+      label: -- Quiz Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_one
+      label: What are chromosomes primarily made of?
+      hint: null
+      type: select_one
+      options:
+      - Proteins only
+      - DNA and proteins (histones)
+      - RNA only
+      - Lipids and carbohydrates
+      required: true
+    - id: 9
+      name: question_two
+      label: How many chromosomes do humans have in each cell?
+      hint: null
+      type: select_one
+      options:
+      - '23'
+      - '46'
+      - '92'
+      - '64'
+      required: true
+    - id: 10
+      name: question_three
+      label: Which type of chromosome abnormality involves having three copies?
+      hint: null
+      type: select_one
+      options:
+      - Monosomy
+      - Trisomy
+      - Tetrasomy
+      - Nullisomy
+      required: true
+    - id: 11
+      name: question_four
+      label: What is the term for the observable structure of chromosomes?
+      hint: null
+      type: select_one
+      options:
+      - Genotype
+      - Karyotype
+      - Phenotype
+      - Biotype
+      required: true
+    - id: 12
+      name: question_five
+      label: Mitochondria contain which type of chromosome?
+      hint: null
+      type: select_one
+      options:
+      - Linear chromosomes
+      - Circular chromosomes
+      - Paired chromosomes
+      - Sex chromosomes
+      required: true
+    - id: 13
+      name: question_six
+      label: What is the primary role of the centromere?
+      hint: null
+      type: select_one
+      options:
+      - DNA replication
+      - Protein synthesis
+      - Chromosome segregation during cell division
+      - Gene expression
+      required: true
+    - id: 14
+      name: question_seven
+      label: Which chromosome pair determines sex in humans?
+      hint: null
+      type: select_one
+      options:
+      - First pair
+      - 22nd pair
+      - 23rd pair (X and Y)
+      - Last pair
+      required: true
+    - id: 15
+      name: question_eight
+      label: What is a telomere?
+      hint: null
+      type: select_one
+      options:
+      - The middle region of a chromosome
+      - Protective caps at the ends of chromosomes
+      - The point where chromosomes attach during mitosis
+      - DNA strand segments
+      required: true
+    - id: 16
+      name: question_nine
+      label: Down syndrome is caused by a trisomy in which chromosome?
+      hint: null
+      type: select_one
+      options:
+      - Chromosome 13
+      - Chromosome 18
+      - Chromosome 21
+      - Chromosome 22
+      required: true
+    - id: 17
+      name: question_ten
+      label: During which phase of meiosis do homologous chromosomes separate?
+      hint: null
+      type: select_one
+      options:
+      - Prophase I
+      - Metaphase I
+      - Anaphase I
+      - Telophase I
+      required: true
+    - id: 18
+      name: submission
+      label: -- Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

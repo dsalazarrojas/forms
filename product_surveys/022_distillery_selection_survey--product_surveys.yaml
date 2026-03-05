@@ -16,9 +16,9 @@ inputSchema:
       hint: Please select one or more.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Atmosphere''}'
-      - '{''id'': 2, ''name'': ''Ambience''}'
-      - '{''id'': 3, ''name'': ''Food and Drink''}'
+      - Atmosphere
+      - Ambience
+      - Food and Drink
       required: true
     - id: 3
       name: distillery_experience
@@ -26,9 +26,9 @@ inputSchema:
       hint: Please select one or more.
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Tour''}'
-      - '{''id'': 2, ''name'': ''Event''}'
-      - '{''id'': 3, ''name'': ''Meet and Greet''}'
+      - Tour
+      - Event
+      - Meet and Greet
       required: true
     - id: 4
       name: distillery_visits
@@ -36,10 +36,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: true
     - id: 5
       name: distillery_preferences

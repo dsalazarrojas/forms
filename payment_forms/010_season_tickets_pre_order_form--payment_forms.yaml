@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Season Ticket''}'
-      - '{''label'': ''Half-Season Ticket''}'
-      - '{''label'': ''Single Game Ticket''}'
+      - Season Ticket
+      - Half-Season Ticket
+      - Single Game Ticket
       required: true
     - id: 6
       name: seat_number
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Row 1''}'
-      - '{''label'': ''Row 2''}'
-      - '{''label'': ''Row 3''}'
+      - Row 1
+      - Row 2
+      - Row 3
       required: false
     - id: 7
       name: game_date
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 10
       name: note
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Percentage''}'
-      - '{''label'': ''Flat''}'
-      - '{''label'': ''Tiered''}'
+      - Percentage
+      - Flat
+      - Tiered
       required: true
     - id: 21
       name: discount_amount
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Unpaid''}'
-      - '{''label'': ''Paid''}'
+      - Unpaid
+      - Paid
       required: true
     - id: 25
       name: team_logo

@@ -4,128 +4,160 @@ inputSchema:
     title: vehicle_inspection_knowledge_quiz
     pages:
     - id: 1
-      name: vehicle_inspection_knowledge_quiz_page_1
-      label: vehicle inspection knowledge quiz
-      hint: null
+      name: primary_function
+      label: What is the primary function of a vehicle inspection?
+      hint: Describe the main purpose of a vehicle inspection.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: section_1
-      label: section 1
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: critical_safety_item
+      label: What is the most critical safety inspection item?
+      hint: List the most important item to check during a vehicle inspection.
+      type: select_multiple
+      options:
+      - Brake functionality
+      - Suspension and steering system
+      - Engine and transmission
+      - Electrical system
+      - Other
+      required: true
     - id: 3
-      name: question_1
-      label: what is the primary function of a vehicle inspection?
-      hint: null
+      name: recommended_frequency
+      label: What is the recommended frequency of a vehicle inspection?
+      hint: Provide the best answer for the frequency of inspections.
+      type: select_one
+      options:
+      - Every 6 months
+      - Every 12 months
+      - Every 24 months
+      - Other
+      required: true
+    - id: 4
+      name: inspection_frequency
+      label: How often should a vehicle inspection be performed?
+      hint: Choose the correct frequency of inspections.
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Other
+      required: true
+    - id: 5
+      name: inspection_method
+      label: What is the best way to inspect a vehicle?
+      hint: Describe the most effective method of inspection.
       type: text
       options: []
-      required: false
-    - id: 4
-      name: question_2
-      label: what is the most critical safety inspection item during a vehicle inspection?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 5
-      name: question_3
-      label: what is the correct frequency of a vehicle inspection?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
+      required: true
     - id: 6
-      name: vehicle_inspection_knowledge_quiz_page_2
-      label: vehicle inspection knowledge quiz page 2
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: correct_method
+      label: What is the correct way to inspect a vehicle?
+      hint: Provide the best answer for inspecting a vehicle.
+      type: select_one
+      options:
+      - Visual inspection
+      - Physical inspection
+      - Other
+      required: true
     - id: 7
-      name: question_4
-      label: how often should a vehicle inspection be performed?
-      hint: null
-      type: date
+      name: common_issue
+      label: What is the most common issue found during a vehicle inspection?
+      hint: Describe the most frequent issue found during a vehicle inspection.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: question_5
-      label: what is the best way to inspect a vehicle?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
+      name: inspection_effectiveness
+      label: What is the most effective way to identify issues during a vehicle inspection?
+      hint: Describe the best method for detecting defects.
+      type: text
+      options: []
+      required: true
     - id: 9
-      name: question_6
-      label: what is the correct way to inspect a vehicle?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - Other
-      required: false
+      name: inspection_sequence
+      label: What is the correct sequence of steps for a vehicle inspection?
+      hint: List the most effective sequence of inspections.
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: question_7
-      label: what is the correct frequency of a vehicle inspection?
-      hint: null
+      name: critical_component
+      label: What is the most critical component to check during a vehicle inspection?
+      hint: Identify the key component that affects vehicle safety.
       type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
+      - Brake system
+      - Suspension and steering system
+      - Engine and transmission
+      - Electrical system
+      - Other
+      required: true
     - id: 11
-      name: question_8
-      label: what is the correct way to inspect a vehicle?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - Other
-      required: false
+      name: defect_report
+      label: How do you report any defects or issues found during a vehicle inspection?
+      hint: Describe the process of reporting defects.
+      type: text
+      options: []
+      required: true
     - id: 12
-      name: question_9
-      label: what is the correct frequency of a vehicle inspection?
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: false
+      name: final_step
+      label: What is the final step in the vehicle inspection process?
+      hint: Describe the last step of the inspection process.
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: question_10
-      label: what is the correct way to inspect a vehicle?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - Other
-      required: false
+      name: follow_up_action
+      label: What is the recommended action to take after completing a vehicle inspection?
+      hint: Provide the best course of action after an inspection.
+      type: text
+      options: []
+      required: true
     - id: 14
-      name: question_11
-      label: what is the correct frequency of a vehicle inspection?
-      hint: null
+      name: inspection_scheduling
+      label: What is the most important factor to consider when scheduling a vehicle
+        inspection?
+      hint: Identify the key factor to consider for scheduling.
       type: select_multiple
       options:
-      - option1
-      - option2
-      required: false
-    - id: 15
-      name: question_12
-      label: what is the correct way to inspect a vehicle?
-      hint: null
-      type: select_one
-      options:
-      - option1
+      - Vehicle age
+      - Vehicle mileage
+      - Vehicle condition
       - Other
-      required: false
+      required: true
+    - id: 15
+      name: safe_operation
+      label: What is the correct method for inspecting a vehicle for safety?
+      hint: Describe the safe inspection method.
+      type: select_multiple
+      options:
+      - Visual inspection
+      - Physical inspection
+      - Other
+      required: true
+    - id: 16
+      name: inspection_safety
+      label: What is the most effective way to ensure a vehicle is safe to operate?
+      hint: Provide the best answer for vehicle safety.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: inspection_report
+      label: What is the role of a vehicle inspection report in the vehicle maintenance
+        process?
+      hint: Describe the importance of the inspection report.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: purpose_inspection
+      label: What is the purpose of regular vehicle inspections for safety and maintenance?
+      hint: Describe the main reason for regular inspections.
+      type: text
+      options: []
+      required: true

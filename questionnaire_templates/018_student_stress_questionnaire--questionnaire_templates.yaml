@@ -5,108 +5,35 @@ inputSchema:
     pages:
     - id: 1
       name: general_stress_level
-      label: General Stress Level
+      label: How would you rate your current stress level?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: anxiety_and_worrying
-      label: Anxiety And Worrying
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: physical_discomfort
-      label: Physical Discomfort
+      label: How often do you experience anxiety or worrying thoughts?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: physical_discomfort
+      label: How would you rate your physical discomfort level?
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 4
       name: difficulty_sleeping
-      label: Difficulty Sleeping
+      label: How often do you experience difficulty sleeping?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: lack_of_pleasure
-      label: Lack Of Pleasure
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: anger_irritability
-      label: Anger Irritability
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: social_withdrawal
-      label: Social Withdrawal
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: academic_burden
-      label: Academic Burden
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: lack_of_interest
-      label: Lack Of Interest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: fear_and_panic
-      label: Fear And Panic
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: lack_of_energy
-      label: Lack Of Energy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: difficulty_concentrating
-      label: Difficulty Concentrating
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: lack_of_pleasure
-      label: Lack Of Pleasure
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: feeling_sad_or_depressed
-      label: Feeling Sad Or Depressed
-      hint: null
-      type: select_one
-      options:
-      - Low
-      - Moderate
-      - High
-      required: false
-    - id: 15
-      name: lack_of_pleasure
-      label: Lack Of Pleasure
+      label: What activities give you a sense of pleasure and relaxation?
       hint: null
       type: select_multiple
       options:
@@ -115,76 +42,58 @@ inputSchema:
       - Socializing
       - Relaxation
       - Exercise
-      required: false
-    - id: 16
-      name: general_stress_level
-      label: General Stress Level
+      required: true
+    - id: 6
+      name: anger_irritability
+      label: How often do you experience anger or irritability?
       hint: null
-      type: select_one
-      options:
-      - High
-      - Low
-      required: false
-    - id: 17
-      name: anxiety_and_worrying
-      label: Anxiety And Worrying
-      hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 7
+      name: social_withdrawal
+      label: How often do you feel socially withdrawn?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
       name: academic_burden
-      label: Academic Burden
+      label: How would you rate your current academic burden?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 19
-      name: difficulty_sleeping
-      label: Difficulty Sleeping
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 9
       name: lack_of_interest
-      label: Lack Of Interest
+      label: What activities interest you?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
+      type: select_multiple
+      options:
+      - Physical activity
+      - Hobbies
+      - Socializing
+      - Relaxation
+      - Exercise
+      required: true
+    - id: 10
       name: fear_and_panic
-      label: Fear And Panic
+      label: How often do you experience fear or panic?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 11
       name: lack_of_energy
-      label: Lack Of Energy
+      label: How would you rate your current energy level?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 23
+      required: true
+    - id: 12
       name: difficulty_concentrating
-      label: Difficulty Concentrating
+      label: How often do you experience difficulty concentrating?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 24
-      name: lack_of_pleasure
-      label: Lack Of Pleasure
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: feeling_sad_or_depressed
-      label: Feeling Sad Or Depressed
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

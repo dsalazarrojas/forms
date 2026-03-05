@@ -15,17 +15,18 @@ inputSchema:
     title: Sewing Machine Parts Quiz
     pages:
     - id: 1
-      name: answer_1
-      label: What is a primary function of a sewing machine?
+      name: question_1
+      label: What is the primary function of a sewing machine?
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
+      - To sew fabric
+      - To wind bobbins
+      - To lower the presser foot
+      - To guide the presser bar
+      required: true
     - id: 2
-      name: answer_2
+      name: question_2
       label: Which of the following is a common sewing machine part?
       hint: null
       type: select_multiple
@@ -33,31 +34,20 @@ inputSchema:
       - Sewing Machine Base
       - Bobbin
       - Hook
-      required: false
+      required: true
     - id: 3
-      name: answer_3
+      name: question_3
       label: How often is the bobbin winder used?
       hint: null
       type: select_one
       options:
-      - Never
-      - Occasionally
       - Frequently
-      - Always
-      required: false
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
     - id: 4
-      name: answer_4
-      label: How often is the presser foot used?
-      hint: null
-      type: select_one
-      options:
-      - Never
-      - Occasionally
-      - Frequently
-      - Always
-      required: false
-    - id: 5
-      name: answer_5
+      name: question_4
       label: What is the primary function of the presser foot?
       hint: null
       type: select_one
@@ -65,41 +55,9 @@ inputSchema:
       - None of the above
       - Guides the fabric
       - Raises and lowers the presser bar
-      required: false
-    - id: 6
-      name: answer_6
-      label: What is a sewing machine part?
-      hint: null
-      type: select_multiple
-      options:
-      - A machine for sewing
-      - A tool for sewing
-      - A device for sewing
-      - A part for sewing
-      required: false
-    - id: 7
-      name: answer_7
-      label: What is the bobbin winder used for?
-      hint: null
-      type: select_one
-      options:
-      - To wind bobbins
-      - To wind threads
-      - To wind yarns
-      required: false
-    - id: 8
-      name: answer_8
-      label: How often is the bobbin winder used?
-      hint: null
-      type: select_one
-      options:
-      - Never
-      - Occasionally
-      - Frequently
-      - Always
-      required: false
-    - id: 9
-      name: answer_9
+      required: true
+    - id: 5
+      name: question_5
       label: What is a presser bar?
       hint: null
       type: select_multiple
@@ -107,19 +65,19 @@ inputSchema:
       - A bar for the presser foot
       - A part of the presser foot assembly
       - A device for guiding the presser foot
-      required: false
-    - id: 10
-      name: answer_10
-      label: What is a presser foot?
+      required: true
+    - id: 6
+      name: question_6
+      label: What is a thread guide used for?
       hint: null
       type: select_one
       options:
       - None of the above
-      - A foot for guiding the presser bar
-      - A device for the presser foot assembly
-      required: false
-    - id: 11
-      name: answer_11
+      - For the bobbin winder
+      - To guide the presser bar
+      required: true
+    - id: 7
+      name: question_7
       label: How often is the presser bar used?
       hint: null
       type: select_one
@@ -128,19 +86,29 @@ inputSchema:
       - Occasionally
       - Frequently
       - Always
-      required: false
-    - id: 12
-      name: answer_12
-      label: What is a thread take-up lever?
+      required: true
+    - id: 8
+      name: question_8
+      label: What is the primary purpose of a thread guide?
       hint: null
       type: select_one
       options:
       - None of the above
-      - Used to guide the presser bar
-      - Used to guide the presser foot
-      required: false
-    - id: 13
-      name: answer_13
+      - To guide the presser bar
+      - To lower the presser foot
+      required: true
+    - id: 9
+      name: question_9
+      label: What is a thread take-up lever used for?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - Used to guide the bobbin winder
+      - Used to lower the presser foot
+      required: true
+    - id: 10
+      name: question_10
       label: What is a presser foot assembly?
       hint: null
       type: select_one
@@ -148,19 +116,131 @@ inputSchema:
       - None of the above
       - The assembly of the presser bar
       - The assembly of the presser foot
-      required: false
-    - id: 14
-      name: answer_14
-      label: What is the primary purpose of a presser bar?
+      required: true
+    - id: 11
+      name: question_11
+      label: What is the primary function of a presser bar?
       hint: null
       type: select_one
       options:
       - None of the above
       - To guide the presser foot
       - To lower the presser bar
-      required: false
+      required: true
+    - id: 12
+      name: question_12
+      label: How often is a thread guide used?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Always
+      required: true
+    - id: 13
+      name: question_13
+      label: What is the primary function of a thread guide?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To guide the presser bar
+      - To lower the presser foot
+      required: true
+    - id: 14
+      name: question_14
+      label: Question 14
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - For the bobbin winder
+      - To guide the presser foot
+      required: true
     - id: 15
-      name: answer_15
+      name: question_15
+      label: What is a presser foot used for?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To lower the presser bar
+      - To raise the presser bar
+      required: true
+    - id: 16
+      name: question_16
+      label: How often is a thread take-up used?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Always
+      required: true
+    - id: 17
+      name: question_17
+      label: What is a thread take-up used for?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - For the bobbin winder
+      - For the presser foot
+      required: true
+    - id: 18
+      name: question_18
+      label: What is a presser bar's primary function?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To guide the presser foot
+      - To lower the presser bar
+      required: true
+    - id: 19
+      name: question_19
+      label: What is a presser foot's primary function?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To guide the presser bar
+      - To raise the presser bar
+      required: true
+    - id: 20
+      name: question_20
+      label: What is a thread guide's secondary function?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To guide the presser foot
+      - To lower the presser bar
+      required: true
+    - id: 21
+      name: question_21
+      label: What is a thread take-up's primary function?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To guide the bobbin winder
+      - To lower the presser foot
+      required: true
+    - id: 22
+      name: question_22
+      label: Question 22
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - To guide the presser bar
+      - To raise the presser bar
+      required: true
+    - id: 23
+      name: question_23
       label: How often is a thread take-up lever used?
       hint: null
       type: select_one
@@ -169,104 +249,24 @@ inputSchema:
       - Occasionally
       - Frequently
       - Always
-      required: false
-    - id: 16
-      name: answer_16
-      label: What is a thread guide?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - For the bobbin winder
-      - For the presser foot
-      required: false
-    - id: 17
-      name: answer_17
-      label: What is a thread guide used for?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - To guide the presser bar
-      - To lower the presser foot
-      required: false
-    - id: 18
-      name: answer_18
-      label: What is a presser bar for?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - For the bobbin winder
-      - For the presser foot
-      required: false
-    - id: 19
-      name: answer_19
-      label: What is a thread guide used for?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - To guide the presser bar
-      - To lower the presser foot
-      required: false
-    - id: 20
-      name: answer_20
-      label: What is the primary function of a thread guide?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - To guide the presser bar
-      - To lower the presser foot
-      required: false
-    - id: 21
-      name: answer_21
-      label: What is a thread guide used for?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - For the presser foot
-      - For the presser bar
-      required: false
-    - id: 22
-      name: answer_22
-      label: What is a presser bar?
-      hint: null
-      type: select_multiple
-      options:
-      - A bar for the presser foot
-      - A part of the presser foot assembly
-      - A device for guiding the presser foot
-      required: false
-    - id: 23
-      name: answer_23
-      label: What is a presser foot?
-      hint: null
-      type: select_one
-      options:
-      - None of the above
-      - A foot for guiding the presser bar
-      - A device for the presser bar assembly
-      required: false
+      required: true
     - id: 24
-      name: answer_24
-      label: What is a thread take-up?
+      name: question_24
+      label: What is a thread guide's primary function?
       hint: null
       type: select_one
       options:
       - None of the above
-      - For the bobbin winder
-      - For the presser foot
-      required: false
+      - To guide the presser bar
+      - To lower the presser foot
+      required: true
     - id: 25
-      name: answer_25
-      label: What is a thread take-up lever?
+      name: question_25
+      label: Question 25
       hint: null
       type: select_one
       options:
       - None of the above
-      - Used to guide the bobbin winder
-      - Used to lower the presser foot
-      required: false
+      - To guide the presser foot
+      - To lower the presser bar
+      required: true

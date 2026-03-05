@@ -12,7 +12,7 @@ inputSchema:
       required: false
     - id: 2
       name: occupation_early_life
-      label: Occupationearlylife
+      label: Occupation in Early Life
       hint: null
       type: select_one
       options:
@@ -23,16 +23,18 @@ inputSchema:
       required: false
     - id: 3
       name: occupation_current
-      label: Occupationcurrent
+      label: Current Occupation
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Employed
+      - Self employed
+      - Retired
+      - Other
       required: false
     - id: 4
       name: education_early_life
-      label: Educationearlylife
+      label: Education
       hint: null
       type: select_multiple
       options:
@@ -43,7 +45,7 @@ inputSchema:
       required: false
     - id: 5
       name: family_status
-      label: Familystatus
+      label: Family Status
       hint: null
       type: select_multiple
       options:
@@ -56,7 +58,7 @@ inputSchema:
       required: false
     - id: 6
       name: employment_early_life
-      label: Employmentearlylife
+      label: Employment in Early Life
       hint: null
       type: select_multiple
       options:
@@ -67,7 +69,7 @@ inputSchema:
       required: false
     - id: 7
       name: residence_early_life
-      label: Residencetimeline
+      label: Place of Residence
       hint: null
       type: select_one
       options:
@@ -75,26 +77,8 @@ inputSchema:
       - Urban
       required: false
     - id: 8
-      name: occupation_current
-      label: Occupationcurrent
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: education_early_life
-      label: Educationearlylife
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
       name: employment_status
-      label: Employmentstatus
+      label: Employment Status
       hint: null
       type: select_one
       options:
@@ -102,76 +86,28 @@ inputSchema:
       - Unemployed
       - Other
       required: false
-    - id: 11
-      name: marital_status
-      label: Maritalstatus
-      hint: null
-      type: select_one
-      options:
-      - Single
-      - Married
-      - Separated
-      - Divorced
-      - Widowed
-      required: false
-    - id: 12
-      name: residence_status
-      label: Residencetimeline
-      hint: null
-      type: select_multiple
-      options:
-      - Urban
-      - Rural
-      required: false
-    - id: 13
-      name: income_early_life
-      label: Incomeearlylife
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: employment_early_life
-      label: Employmentearlylife
-      hint: null
-      type: select_multiple
-      options:
-      - Employed
-      - Self employed
-      - Retired
-      - Other
-      required: false
-    - id: 15
+    - id: 9
       name: family_income
-      label: Familysupport
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: family_income
-      label: Familysupport
+      label: Family Income
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 17
+    - id: 10
       name: family_type
-      label: Familytype
+      label: Family Type
       hint: null
       type: select_multiple
       options:
-      - Nuclearfamily
+      - Nuclear family
       - Single parent family
       - Other family
       required: false
-    - id: 18
+    - id: 11
       name: family_size
-      label: Familiesize
+      label: Family Size
       hint: null
       type: select_multiple
       options:
@@ -180,67 +116,74 @@ inputSchema:
       - 5-6
       - 7 or more
       required: false
-    - id: 19
-      name: family_income
-      label: Familysupport
+    - id: 12
+      name: family_income_early_life
+      label: Family Income in Early Life
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: family_income_current
+      label: Family Income Current
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: family_size_early_life
+      label: Family Size in Early Life
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7 or more
+      required: false
+    - id: 15
+      name: family_income_current_2
+      label: Family Income Current 2
       hint: null
       type: select_multiple
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 20
-      name: family_type
-      label: Familytype
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: family_income
-      label: Familysupport
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: family_size
-      label: Familiesize
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: family_income
-      label: Familysupport
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: family_income
-      label: Familysupport
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: employment_status
-      label: Employmentstatus
+    - id: 16
+      name: marital_status
+      label: Marital Status
       hint: null
       type: select_one
       options:
+      - Single
+      - In a relationship
+      - Married
+      - Separated
+      - Divorced
+      - Widowed
+      required: false
+    - id: 17
+      name: employment_early_life_2
+      label: Employment Early Life 2
+      hint: null
+      type: select_multiple
+      options:
       - Employed
-      - Unemployed
+      - Self employed
+      - Retired
       - Other
+      required: false
+    - id: 18
+      name: family_income_2
+      label: Family Income 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false

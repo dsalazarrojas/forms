@@ -4,42 +4,42 @@ inputSchema:
     title: Respiratory Assessment Form
     pages:
     - id: 1
-      name: patient_info
+      name: patient_info_1
       label: Patient Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: medical_history
+      name: medical_history_1
       label: Medical History
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: physical_assessment
-      label: Physical Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: lung_functions
+      name: lung_functions_1
       label: Lung Functions
       hint: null
       type: number
       options: []
-      required: false
-    - id: 5
-      name: oxygen_saturation
+      required: true
+    - id: 4
+      name: oxygen_saturation_1
       label: Oxygen Saturation
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: respiratory_rate_1
+      label: Respiratory Rate
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 6
-      name: respiratory_system
+      name: respiratory_system_1
       label: Respiratory System
       hint: null
       type: select_one
@@ -48,24 +48,24 @@ inputSchema:
       - CPAP/BiPAP
       - Ventilator
       - Non-invasive ventilation
-      required: false
+      required: true
     - id: 7
-      name: respiratory_rate
-      label: Respiratory Rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: oxygen_flow
+      name: oxygen_flow_1
       label: Oxygen Flow
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: respiratory_rate_2
+      label: Respiratory Rate 2
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 9
       name: respiratory_system_2
-      label: Respiratory System
+      label: Respiratory System 2
       hint: null
       type: select_one
       options:
@@ -73,88 +73,17 @@ inputSchema:
       - CPAP/BiPAP
       - Ventilator
       - Non-invasive ventilation
-      required: false
+      required: true
     - id: 10
-      name: respiratory_rate_2
-      label: Respiratory Rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: oxygen_flow_2
-      label: Oxygen Flow
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: oxygen_saturation_2
-      label: Oxygen Saturation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: respiratory_system_3
-      label: Respiratory System
-      hint: null
-      type: select_one
-      options:
-      - Oxygen therapy
-      - CPAP/BiPAP
-      - Ventilator
-      - Non-invasive ventilation
-      required: false
-    - id: 14
-      name: respiratory_rate_3
-      label: Respiratory Rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: oxygen_flow_3
-      label: Oxygen Flow
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: respiratory_system_4
-      label: Respiratory System
-      hint: null
-      type: select_one
-      options:
-      - Oxygen therapy
-      - CPAP/BiPAP
-      - Ventilator
-      - Non-invasive ventilation
-      required: false
-    - id: 17
       name: patient_info_2
       label: Patient Info
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: patient_info_3
-      label: Patient Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: patient_info_4
-      label: Patient Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: respiratory_system_5
-      label: Respiratory System
+      required: true
+    - id: 11
+      name: respiratory_system_3
+      label: Respiratory System 3
       hint: null
       type: select_one
       options:
@@ -162,43 +91,11 @@ inputSchema:
       - CPAP/BiPAP
       - Ventilator
       - Non-invasive ventilation
-      required: false
-    - id: 21
-      name: oxygen_flow_4
-      label: Oxygen Flow
+      required: true
+    - id: 12
+      name: oxygen_flow_2
+      label: Oxygen Flow 2
       hint: null
       type: number
       options: []
-      required: false
-    - id: 22
-      name: respiratory_rate_4
-      label: Respiratory Rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: patient_info_5
-      label: Patient Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: respiratory_system_6
-      label: Respiratory System
-      hint: null
-      type: select_one
-      options:
-      - Oxygen therapy
-      - CPAP/BiPAP
-      - Ventilator
-      - Non-invasive ventilation
-      required: false
-    - id: 25
-      name: patient_info_6
-      label: Patient Info
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

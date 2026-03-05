@@ -16,9 +16,9 @@ inputSchema:
       hint: The name of the product
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product A''}'
-      - '{''id'': 2, ''label'': ''Product B''}'
-      - '{''id'': 3, ''label'': ''Product C''}'
+      - Product A
+      - Product B
+      - Product C
       required: false
     - id: 3
       name: quality_characteristics
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Price''}'
-      - '{''id'': 2, ''label'': ''Performance''}'
-      - '{''id'': 3, ''label'': ''Features''}'
-      - '{''id'': 4, ''label'': ''Aesthetics''}'
+      - Price
+      - Performance
+      - Features
+      - Aesthetics
       required: false
     - id: 4
       name: experience
@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: comments

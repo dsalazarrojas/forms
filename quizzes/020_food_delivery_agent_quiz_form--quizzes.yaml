@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Neutral
+      - Bad
       required: false
     - id: 5
       name: question_4
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Price''}'
-      - '{''id'': 2, ''label'': ''Speed of delivery''}'
-      - '{''id'': 3, ''label'': ''Quality of food''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Price
+      - Speed of delivery
+      - Quality of food
+      - Other
       required: false
     - id: 7
       name: question_6
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: question_7
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Several times a week''}'
-      - '{''id'': 3, ''label'': ''Occasionally''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
+      - Daily
+      - Several times a week
+      - Occasionally
+      - Rarely
       required: false
     - id: 9
       name: form_footer

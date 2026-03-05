@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: stress_levels
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: relationship_status
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: sleep_quality
@@ -119,7 +119,7 @@ inputSchema:
       required: false
     - id: 16
       name: bedtime_time
-      label: Bedtime
+      label: Bedtime Time
       hint: null
       type: time
       options: []
@@ -154,28 +154,28 @@ inputSchema:
       required: false
     - id: 21
       name: work_life_balance_frequency
-      label: Work Life Balance
+      label: Work Life Balance Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: relationship_status_frequency
-      label: Relationship Status
+      label: Relationship Status Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: sleep_quality_frequency
-      label: Sleep Quality
+      label: Sleep Quality Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: sleep_duration_frequency
-      label: Sleep Duration
+      label: Sleep Duration Frequency
       hint: null
       type: text
       options: []

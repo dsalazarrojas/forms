@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''C''}'
-      - '{''id'': 4, ''label'': ''D''}'
-      - '{''id'': 5, ''label'': ''E''}'
+      - A
+      - B
+      - C
+      - D
+      - E
       required: false
     - id: 5
       name: delay_impact
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Minor''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''Major''}'
-      - '{''id'': 5, ''label'': ''Severe''}'
+      - None
+      - Minor
+      - Moderate
+      - Major
+      - Severe
       required: false
     - id: 6
       name: root_cause
@@ -75,11 +75,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''C''}'
-      - '{''id'': 4, ''label'': ''D''}'
-      - '{''id'': 5, ''label'': ''E''}'
+      - A
+      - B
+      - C
+      - D
+      - E
       required: false
     - id: 10
       name: review_status
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Reviewed''}'
-      - '{''id'': 2, ''label'': ''Approved''}'
-      - '{''id'': 3, ''label'': ''Rejected''}'
+      - Not Reviewed
+      - Approved
+      - Rejected
       required: false
     - id: 11
       name: reviewed_by

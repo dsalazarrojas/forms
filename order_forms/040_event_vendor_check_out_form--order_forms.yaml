@@ -11,24 +11,24 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: vendor_name
-      label: vendor name
+      name: event_vendor_name
+      label: Vendor Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: phone
-      label: phone
+      name: event_phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: email
-      label: email
+      name: event_email
+      label: Email
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 5
@@ -46,156 +46,16 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: total_cost
+      name: event_total_cost
       label: Total Cost
       hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - credit card
-      - venmo
-      - paypal
-      required: false
-    - id: 9
       name: vendor_signature
       label: Vendor Signature
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: payment_status
-      label: Payment Status
-      hint: null
-      type: select_multiple
-      options:
-      - paid
-      - pending
-      - unpaid
-      required: false
-    - id: 11
-      name: event_location
-      label: event location
-      hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: payment_method
-      label: payment method
-      hint: null
-      type: select_one
-      options:
-      - credit card
-      - venmo
-      - paypal
-      required: false
-    - id: 13
-      name: payment_total
-      label: payment total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: payment_method
-      label: payment method
-      hint: null
-      type: select_one
-      options:
-      - credit card
-      - venmo
-      - paypal
-      required: false
-    - id: 15
-      name: payment_status
-      label: Payment Status
-      hint: null
-      type: select_multiple
-      options:
-      - paid
-      - pending
-      - unpaid
-      required: false
-    - id: 16
-      name: payment_date
-      label: payment date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: payment_time
-      label: payment time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: payment_total
-      label: payment total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: payment_method
-      label: payment method
-      hint: null
-      type: select_one
-      options:
-      - credit card
-      - venmo
-      - paypal
-      required: false
-    - id: 20
-      name: payment_signature
-      label: payment signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: event_date
-      label: event date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: event_time
-      label: event time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: event_location
-      label: event location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: payment_total
-      label: payment total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: payment_status
-      label: Payment Status
-      hint: null
-      type: select_multiple
-      options:
-      - paid
-      - pending
-      - unpaid
       required: false

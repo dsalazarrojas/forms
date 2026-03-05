@@ -170,8 +170,8 @@ inputSchema:
       hint: For monitoring during transit
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: custom_labeling
@@ -179,8 +179,8 @@ inputSchema:
       hint: Special labels or branding
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: delivery_date
@@ -274,5 +274,5 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true

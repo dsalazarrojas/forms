@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: What are the common issues you experience with the feed blend?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Rarely''}'
-      - '{''id'': 2, ''label'': ''Sometime''}'
-      - '{''id'': 3, ''label'': ''Often''}'
+      - Rarely
+      - Sometime
+      - Often
       required: false
     - id: 3
       name: issue_description
@@ -44,11 +33,11 @@ inputSchema:
       hint: What channels do you use to contact us?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Call''}'
-      - '{''id'': 3, ''label'': ''Message''}'
-      - '{''id'': 4, ''label'': ''Chat''}'
-      - '{''id'': 5, ''label'': ''Support Ticket''}'
+      - Email
+      - Call
+      - Message
+      - Chat
+      - Support Ticket
       required: false
     - id: 5
       name: satisfaction
@@ -56,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false

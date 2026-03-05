@@ -79,9 +79,9 @@ inputSchema:
       hint: Were you offered any recommendations during your visit?
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''No answer provided''}'
+      - 'True'
+      - 'False'
+      - No answer provided
       required: true
     - id: 12
       name: comments
@@ -96,10 +96,10 @@ inputSchema:
       hint: Would you like to be contacted for follow-up purposes?
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone number''}'
-      - '{''label'': ''Address''}'
-      - '{''label'': ''No contact information''}'
+      - Email
+      - Phone number
+      - Address
+      - No contact information
       required: false
     - id: 14
       name: email

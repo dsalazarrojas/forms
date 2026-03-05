@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Participant Information''}'
-      - '{''value'': ''Program Information''}'
+      - Participant Information
+      - Program Information
       required: true
     - id: 3
       name: program_name
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''January - March''}'
-      - '{''value'': ''April - June''}'
-      - '{''value'': ''July - September''}'
-      - '{''value'': ''October - December''}'
+      - January - March
+      - April - June
+      - July - September
+      - October - December
       required: false
     - id: 5
       name: program_type
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Training''}'
-      - '{''value'': ''Workshop''}'
-      - '{''value'': ''Educational Session''}'
+      - Training
+      - Workshop
+      - Educational Session
       required: true
     - id: 6
       name: location

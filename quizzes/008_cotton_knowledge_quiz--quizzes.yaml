@@ -1,102 +1,115 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cotton Knowledge Quiz
     pages:
     - id: 1
-      name: first_page
-      label: first_page
+      name: introduction
+      label: Welcome to the Cotton Knowledge Quiz
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: quiz_questions
-      label: quiz_questions
+      name: question_1
+      label: What is cotton?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_2
+      label: What is the primary use of cotton in the textile industry?
+      hint: null
+      type: select_one
+      options:
+      - fiber
+      - fabric
+      - yarn
+      required: false
+    - id: 4
+      name: question_3
+      label: How many types of cotton fiber are there?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''question_1'', ''value'': ''question_1_value''}'
-      - '{''id'': 2, ''label'': ''question_2'', ''value'': ''question_2_value''}'
-      required: false
-    - id: 3
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
+      - long-staple
+      - short-staple
+      - extral-long
       required: false
     - id: 5
-      name: first_page
-      label: first_page
+      name: question_4
+      label: What is the process of treating cotton to make it more durable?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - bleaching
+      - printing
+      - dyeing
       required: false
     - id: 6
-      name: first_page
-      label: first_page
+      name: question_5
+      label: How many steps are involved in the cotton production process?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - ginning
+      - carding
+      - weaving
+      - spinning
       required: false
     - id: 7
-      name: first_page
-      label: first_page
+      name: question_6
+      label: What is the main difference between natural and synthetic fibers?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - breathability
+      - elasticity
+      - water-resistance
       required: false
     - id: 8
-      name: first_page
-      label: first_page
+      name: question_7
+      label: What is the term for the natural fiber that is used to create cotton
+        fabric?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - thread
+      - yarn
+      - thread-count
       required: false
     - id: 9
-      name: first_page
-      label: first_page
+      name: question_8
+      label: How does cotton get its unique texture and durability?
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 10
-      name: first_page
-      label: first_page
+      name: question_9
+      label: How can cotton be treated to make it more resistant to wrinkles?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - starching
+      - bleaching
+      - ironing
       required: false
     - id: 11
-      name: last_page
-      label: last_page
+      name: question_10
+      label: What are some common uses of cotton in daily life?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - clothing
+      - bedding
+      - towels
       required: false
     - id: 12
-      name: last_page
-      label: last_page
+      name: last_question
+      label: What is the final score of the quiz?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true

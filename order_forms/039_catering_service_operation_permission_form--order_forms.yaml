@@ -112,7 +112,7 @@ inputSchema:
       options:
       - Yes - All Staff
       - Yes - Manager Only
-      - false
+      - 'False'
       required: true
     - id: 15
       name: equipment_list
@@ -189,8 +189,8 @@ inputSchema:
       hint: Have you notified neighbors
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: false
     - id: 24
@@ -200,7 +200,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 25
       name: signature_date

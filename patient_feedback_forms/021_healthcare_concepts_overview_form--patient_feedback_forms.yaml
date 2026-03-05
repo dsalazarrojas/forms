@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Satisfied'', ''value'': ''not_satisfied''}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': ''somewhat_satisfied''}'
-      - '{''label'': ''Very Satisfied'', ''value'': ''very_satisfied''}'
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Very Satisfied
       required: true
     - id: 3
       name: comment
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Satisfied'', ''value'': ''not_satisfied''}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': ''somewhat_satisfied''}'
-      - '{''label'': ''Very Satisfied'', ''value'': ''very_satisfied''}'
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Very Satisfied
       required: true
     - id: 5
       name: feedback
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None'', ''value'': ''none''}'
-      - '{''label'': ''Follow Up'', ''value'': ''follow_up''}'
-      - '{''label'': ''Dismiss'', ''value'': ''dismiss''}'
+      - None
+      - Follow Up
+      - Dismiss
       required: true
     - id: 11
       name: next_step_provider
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Followed Up'', ''value'': ''not_followed_up''}'
-      - '{''label'': ''Followed Up'', ''value'': ''followed_up''}'
+      - Not Followed Up
+      - Followed Up
       required: true
     - id: 21
       name: follow_up_status_note

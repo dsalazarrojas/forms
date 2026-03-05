@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''bank_transfer'', ''value'': ''bank_transfer''}'
-      - '{''label'': ''credit_card'', ''value'': ''credit_card''}'
-      - '{''label'': ''mobile_pay'', ''value'': ''mobile_pay''}'
+      - bank transfer
+      - credit card
+      - mobile pay
       required: true
     - id: 5
       name: amount
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: date
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''pending'', ''value'': ''pending''}'
-      - '{''label'': ''paid'', ''value'': ''paid''}'
-      - '{''label'': ''cancelled'', ''value'': ''cancelled''}'
+      - pending
+      - paid
+      - cancelled
       required: false
     - id: 13
       name: user
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''staff'', ''value'': ''staff''}'
-      - '{''label'': ''student'', ''value'': ''student''}'
+      - staff
+      - student
       required: false
     - id: 14
       name: user_name
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''online'', ''value'': ''online''}'
-      - '{''label'': ''offline'', ''value'': ''offline''}'
+      - online
+      - offline
       required: false
     - id: 17
       name: exam_code
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1, ''value'': 1}'
-      - '{''label'': 2, ''value'': 2}'
-      - '{''label'': 3, ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 20
       name: payment_mode
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''online'', ''value'': ''online''}'
-      - '{''label'': ''offline'', ''value'': ''offline''}'
+      - online
+      - offline
       required: true
     - id: 21
       name: payment_date
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''morning'', ''value'': ''morning''}'
-      - '{''label'': ''after_noon'', ''value'': ''after_noon''}'
-      - '{''label'': ''evening'', ''value'': ''evening''}'
+      - morning
+      - after noon
+      - evening
       required: false
     - id: 24
       name: exam_day
@@ -190,13 +190,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''monday'', ''value'': ''monday''}'
-      - '{''label'': ''tuesday'', ''value'': ''tuesday''}'
-      - '{''label'': ''wednessday'', ''value'': ''wednessday''}'
-      - '{''label'': ''thursday'', ''value'': ''thursday''}'
-      - '{''label'': ''friday'', ''value'': ''friday''}'
-      - '{''label'': ''saturday'', ''value'': ''saturday''}'
-      - '{''label'': ''sunday'', ''value'': ''sunday''}'
+      - monday
+      - tuesday
+      - wednessday
+      - thursday
+      - friday
+      - saturday
+      - sunday
       required: true
     - id: 25
       name: exam_session_time

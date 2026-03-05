@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Recently traveled to a high-risk country''}'
-      - '{''option_2'': ''Recently traveled to a moderate-risk country''}'
-      - '{''option_3'': ''No recent travel''}'
-      - '{''option_4'': ''Not sure''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 5
       name: vaccine_screening_2
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Yes, but not pregnant''}'
-      - '{''option_2'': ''Currently pregnant''}'
-      - '{''option_3'': ''Currently pregnant and breastfeeding''}'
-      - '{''option_4'': ''Not pregnant''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 6
       name: vaccine_screening_3
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Yes''}'
-      - '{''option_2'': ''No''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 7
       name: vaccine_details
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Moderna''}'
-      - '{''option_2'': ''Pfizer''}'
-      - '{''option_3'': ''AstraZeneca''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 9
       name: vaccination_site
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option_1'': ''Primary care site''}'
-      - '{''option_2'': ''Specialty care site''}'
-      - '{''option_3'': ''Other (please specify)''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 10
       name: consent_details

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''name'', ''value'': ''Name''}'
-      - '{''name'': ''email'', ''value'': ''Email''}'
-      - '{''name'': ''phone'', ''value'': ''Phone''}'
+      - Name
+      - Email
+      - Phone
       required: false
     - id: 3
       name: date_time
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''photography'', ''value'': ''Photography''}'
-      - '{''name'': ''videography'', ''value'': ''Videography''}'
-      - '{''name'': ''wedding_party'', ''value'': ''Wedding Party''}'
+      - Photography
+      - Videography
+      - Wedding Party
       required: false
     - id: 7
       name: additional_services
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''online'', ''value'': ''Online''}'
-      - '{''name'': ''bank_transfer'', ''value'': ''Bank Transfer''}'
-      - '{''name'': ''cash'', ''value'': ''Cash''}'
+      - Online
+      - Bank Transfer
+      - Cash
       required: false
     - id: 13
       name: payment_details

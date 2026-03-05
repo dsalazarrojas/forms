@@ -1,255 +1,244 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Body Systems Quiz
     pages:
-      - id: 1
-        name: student_name
-        label: Your Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: student_email
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: class_name
-        label: Class or Course Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: quiz_date
-        label: Date of Quiz
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: question_1
-        label: What is the primary function of the circulatory system
-        hint: null
-        type: select_one
-        options:
-          - Transport oxygen and nutrients
-          - Digest food
-          - Process thoughts
-          - Filter waste
-          - Support body structure
-        required: true
-      - id: 6
-        name: question_2
-        label: How many chambers does the human heart have
-        hint: null
-        type: select_one
-        options:
-          - Two
-          - Three
-          - Four
-          - Five
-          - Six
-        required: true
-      - id: 7
-        name: question_3
-        label: Which organ is responsible for filtering blood
-        hint: null
-        type: select_one
-        options:
-          - Heart
-          - Liver
-          - Kidneys
-          - Lungs
-          - Pancreas
-        required: true
-      - id: 8
-        name: question_4
-        label: What is the main function of the respiratory system
-        hint: null
-        type: select_one
-        options:
-          - Move blood
-          - Exchange gases
-          - Digest food
-          - Store energy
-          - Regulate temperature
-        required: true
-      - id: 9
-        name: question_5
-        label: Which of the following is NOT part of the skeleton
-        hint: null
-        type: select_one
-        options:
-          - Femur
-          - Tibia
-          - Humerus
-          - Cardium
-          - Fibula
-        required: true
-      - id: 10
-        name: question_6
-        label: What is the largest organ in the body
-        hint: null
-        type: select_one
-        options:
-          - Heart
-          - Brain
-          - Liver
-          - Lungs
-          - Skin
-        required: true
-      - id: 11
-        name: question_7
-        label: Which system is responsible for releasing hormones
-        hint: null
-        type: select_one
-        options:
-          - Endocrine System
-          - Lymphatic System
-          - Digestive System
-          - Nervous System
-          - Muscular System
-        required: true
-      - id: 12
-        name: question_8
-        label: How many bones are in the adult human body
-        hint: null
-        type: select_one
-        options:
-          - 156
-          - 186
-          - 206
-          - 256
-          - 306
-        required: true
-      - id: 13
-        name: question_9
-        label: What is the primary function of the nervous system
-        hint: null
-        type: select_one
-        options:
-          - Produce energy
-          - Transmit signals
-          - Store fat
-          - Build muscles
-          - Filter toxins
-        required: true
-      - id: 14
-        name: question_10
-        label: Which system breaks down food for energy
-        hint: null
-        type: select_one
-        options:
-          - Circulatory System
-          - Digestive System
-          - Reproductive System
-          - Integumentary System
-          - Urinary System
-        required: true
-      - id: 15
-        name: question_11
-        label: What is the smallest bone in the human body
-        hint: null
-        type: select_one
-        options:
-          - Stapes
-          - Carpals
-          - Tarsals
-          - Patella
-          - Radius
-        required: true
-      - id: 16
-        name: question_12
-        label: Which gland produces insulin
-        hint: null
-        type: select_one
-        options:
-          - Thyroid
-          - Pancreas
-          - Adrenal
-          - Pituitary
-          - Parathyroid
-        required: true
-      - id: 17
-        name: question_13
-        label: How many lobes does the brain have
-        hint: null
-        type: select_one
-        options:
-          - Two
-          - Three
-          - Four
-          - Five
-          - Six
-        required: true
-      - id: 18
-        name: question_14
-        label: What is the main function of white blood cells
-        hint: null
-        type: select_one
-        options:
-          - Transport oxygen
-          - Fight infection
-          - Clot blood
-          - Store energy
-          - Regulate temperature
-        required: true
-      - id: 19
-        name: question_15
-        label: Which organ produces bile
-        hint: null
-        type: select_one
-        options:
-          - Pancreas
-          - Liver
-          - Stomach
-          - Gallbladder
-          - Spleen
-        required: true
-      - id: 20
-        name: confidence_level
-        label: Confidence in Your Answers
-        hint: null
-        type: select_one
-        options:
-          - Very Confident
-          - Confident
-          - Neutral
-          - Not Very Confident
-          - Guessed Most Answers
-        required: true
-      - id: 21
-        name: quiz_difficulty
-        label: Difficulty Level of This Quiz
-        hint: null
-        type: select_one
-        options:
-          - Too Easy
-          - Easy
-          - Moderate
-          - Difficult
-          - Too Difficult
-        required: true
-      - id: 22
-        name: additional_comments
-        label: Additional Comments or Questions
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: class_name
+      label: Class or Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Date of Quiz
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: What is the primary function of the circulatory system
+      hint: null
+      type: select_one
+      options:
+      - Transport oxygen and nutrients
+      - Digest food
+      - Process thoughts
+      - Filter waste
+      - Support body structure
+      required: true
+    - id: 6
+      name: question_2
+      label: How many chambers does the human heart have
+      hint: null
+      type: select_one
+      options:
+      - Two
+      - Three
+      - Four
+      - Five
+      - Six
+      required: true
+    - id: 7
+      name: question_3
+      label: Which organ is responsible for filtering blood
+      hint: null
+      type: select_one
+      options:
+      - Heart
+      - Liver
+      - Kidneys
+      - Lungs
+      - Pancreas
+      required: true
+    - id: 8
+      name: question_4
+      label: What is the main function of the respiratory system
+      hint: null
+      type: select_one
+      options:
+      - Move blood
+      - Exchange gases
+      - Digest food
+      - Store energy
+      - Regulate temperature
+      required: true
+    - id: 9
+      name: question_5
+      label: Which of the following is NOT part of the skeleton
+      hint: null
+      type: select_one
+      options:
+      - Femur
+      - Tibia
+      - Humerus
+      - Cardium
+      - Fibula
+      required: true
+    - id: 10
+      name: question_6
+      label: What is the largest organ in the body
+      hint: null
+      type: select_one
+      options:
+      - Heart
+      - Brain
+      - Liver
+      - Lungs
+      - Skin
+      required: true
+    - id: 11
+      name: question_7
+      label: Which system is responsible for releasing hormones
+      hint: null
+      type: select_one
+      options:
+      - Endocrine System
+      - Lymphatic System
+      - Digestive System
+      - Nervous System
+      - Muscular System
+      required: true
+    - id: 12
+      name: question_8
+      label: How many bones are in the adult human body
+      hint: null
+      type: select_one
+      options:
+      - '156'
+      - '186'
+      - '206'
+      - '256'
+      - '306'
+      required: true
+    - id: 13
+      name: question_9
+      label: What is the primary function of the nervous system
+      hint: null
+      type: select_one
+      options:
+      - Produce energy
+      - Transmit signals
+      - Store fat
+      - Build muscles
+      - Filter toxins
+      required: true
+    - id: 14
+      name: question_10
+      label: Which system breaks down food for energy
+      hint: null
+      type: select_one
+      options:
+      - Circulatory System
+      - Digestive System
+      - Reproductive System
+      - Integumentary System
+      - Urinary System
+      required: true
+    - id: 15
+      name: question_11
+      label: What is the smallest bone in the human body
+      hint: null
+      type: select_one
+      options:
+      - Stapes
+      - Carpals
+      - Tarsals
+      - Patella
+      - Radius
+      required: true
+    - id: 16
+      name: question_12
+      label: Which gland produces insulin
+      hint: null
+      type: select_one
+      options:
+      - Thyroid
+      - Pancreas
+      - Adrenal
+      - Pituitary
+      - Parathyroid
+      required: true
+    - id: 17
+      name: question_13
+      label: How many lobes does the brain have
+      hint: null
+      type: select_one
+      options:
+      - Two
+      - Three
+      - Four
+      - Five
+      - Six
+      required: true
+    - id: 18
+      name: question_14
+      label: What is the main function of white blood cells
+      hint: null
+      type: select_one
+      options:
+      - Transport oxygen
+      - Fight infection
+      - Clot blood
+      - Store energy
+      - Regulate temperature
+      required: true
+    - id: 19
+      name: question_15
+      label: Which organ produces bile
+      hint: null
+      type: select_one
+      options:
+      - Pancreas
+      - Liver
+      - Stomach
+      - Gallbladder
+      - Spleen
+      required: true
+    - id: 20
+      name: confidence_level
+      label: Confidence in Your Answers
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Very Confident
+      - Guessed Most Answers
+      required: true
+    - id: 21
+      name: quiz_difficulty
+      label: Difficulty Level of This Quiz
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Too Difficult
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: email
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Facebook''}'
-      - '{''id'': 2, ''label'': ''Instagram''}'
-      - '{''id'': 3, ''label'': ''Twitter''}'
+      - Facebook
+      - Instagram
+      - Twitter
       required: false
     - id: 6
       name: date
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Admin''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
+      - Admin
+      - Staff
       required: false
     - id: 13
       name: submission_ip

@@ -12,36 +12,35 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Course Creator Readiness Assessment
     pages:
     - id: 1
       name: course_creator_readiness_assessment_1
-      label: course_creator_readiness_assessment
+      label: How ready are you to create an online course?
       hint: null
       type: select_one
       options:
-      - How ready are you to create an online course?
-      - Not at all ready
-      - Somewhat ready
       - Very ready
-      required: false
+      - Somewhat ready
+      - Not at all ready
+      required: true
     - id: 2
       name: marketing_strategy
-      label: marketing_strategy
+      label: What is your marketing strategy for the course?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: course_creator_experience
-      label: course_creator_experience
+      label: Describe your experience in creating online courses.
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: target_audience
-      label: target_audience
+      label: Who is your target audience for the course?
       hint: null
       type: select_multiple
       options:
@@ -49,83 +48,65 @@ inputSchema:
       - Coaches
       - Trainers
       - Educators
-      - Coaches and trainers
-      - Trainers and educators
-      required: false
+      required: true
     - id: 5
       name: course_creation_process
-      label: course_creation_process
+      label: What is the process of creating an online course?
       hint: null
-      type: select_multiple
-      options:
-      - Creating an online course involves creating high quality video content
-      - Creating an online course involves creating high quality text content
-      - Creating an online course involves creating high quality images
-      - Creating an online course involves creating high quality audio content
-      - Creating an online course involves creating high quality assessments
-      - Other
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 6
       name: course_launch_strategy
-      label: course_launch_strategy
+      label: What is your course launch strategy?
       hint: null
       type: select_one
       options:
       - Launch in phases
       - Launch all at once
-      - Other
-      required: false
+      required: true
     - id: 7
-      name: course_creation_process
-      label: course_creation_process
+      name: content_type
+      label: What type of content do you plan to create for the course (video, text,
+        images, audio, assessments)?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Video content
+      - Text content
+      - Image content
+      - Audio content
+      - Assessment content
+      required: true
     - id: 8
-      name: course_launch_strategy
-      label: course_launch_strategy
+      name: target_audience_2
+      label: Target Audience 2
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Students
+      - Coaches
+      - Trainers
+      - Educators
+      required: true
     - id: 9
-      name: target_audience
-      label: target_audience
+      name: content
+      label: Describe your course content creation process.
       hint: null
-      type: select_multiple
-      options:
-      - Students
-      - Coaches
-      - Trainers
-      - Educators
-      - Coaches and trainers
-      - Trainers and educators
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: course_creation_process
-      label: course_creation_process
+      name: launch_strategy_2
+      label: How will you launch your course?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: course_launch_strategy
-      label: course_launch_strategy
+      name: additional_notes
+      label: Additional notes
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
-    - id: 12
-      name: target_audience
-      label: target_audience
-      hint: null
-      type: select_multiple
-      options:
-      - Students
-      - Coaches
-      - Trainers
-      - Educators
-      - Coaches and trainers
-      - Trainers and educators
       required: false

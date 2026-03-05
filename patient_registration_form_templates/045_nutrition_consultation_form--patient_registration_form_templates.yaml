@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''diabetes''}'
-      - '{''id'': 2, ''value'': ''high_cholesterol''}'
-      - '{''id'': 3, ''value'': ''obesity''}'
+      - diabetes
+      - high cholesterol
+      - obesity
       required: false
     - id: 4
       name: nutrition_goal
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''healthy_eating''}'
-      - '{''id'': 2, ''value'': ''weight_loss''}'
-      - '{''id'': 3, ''value'': ''muscle_gains''}'
+      - healthy eating
+      - weight loss
+      - muscle gains
       required: false
     - id: 5
       name: medical_specialty
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''dietician''}'
-      - '{''id'': 2, ''value'': ''nutritionist''}'
-      - '{''id'': 3, ''value'': ''doctor''}'
+      - dietician
+      - nutritionist
+      - doctor
       required: false
     - id: 6
       name: appointment_date

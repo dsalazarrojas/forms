@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fish''}'
-      - '{''id'': 2, ''label'': ''Cat''}'
-      - '{''id'': 3, ''label'': ''Dog''}'
+      - Fish
+      - Cat
+      - Dog
       required: false
     - id: 3
       name: owner_details
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Address''}'
+      - Email
+      - Phone
+      - Address
       required: false
     - id: 5
       name: delivery_date
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online Payment''}'
-      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: false
     - id: 8
       name: order_comments
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
+      - New
+      - In Progress
+      - Completed
       required: false
     - id: 10
       name: email
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fish''}'
-      - '{''id'': 2, ''label'': ''Cat''}'
-      - '{''id'': 3, ''label'': ''Dog''}'
+      - Fish
+      - Cat
+      - Dog
       required: false
     - id: 14
       name: pet_size
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 15
       name: pet_breed
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 18
       name: order_amount
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pickup''}'
-      - '{''id'': 2, ''label'': ''Delivery''}'
-      - '{''id'': 3, ''label'': ''Shipping''}'
+      - Pickup
+      - Delivery
+      - Shipping
       required: false
     - id: 23
       name: payment_status
@@ -186,9 +186,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Declined''}'
+      - Paid
+      - Pending
+      - Declined
       required: false
     - id: 24
       name: notes

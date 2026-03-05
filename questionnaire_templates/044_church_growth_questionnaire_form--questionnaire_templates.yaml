@@ -1,142 +1,168 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Church Growth Questionnaire Form
     pages:
-      - id: 1
-        name: header_vision_mission
-        label: -- Vision and Mission Alignment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: clear_mission_perception
-        label: How clearly do you understand the church mission?
-        hint: null
-        type: select_one
-        options: [Very Clear, Somewhat Clear, Unclear]
-        required: true
-      - id: 3
-        name: mission_alignment_rating
-        label: Rate how well our current activities align with our mission
-        hint: null
-        type: select_one
-        options: [Strongly Aligned, Aligned, Neutral, Misaligned]
-        required: true
-      - id: 4
-        name: header_strengths_weaknesses
-        label: -- Strengths and Weaknesses --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: top_church_strengths
-        label: What are our top 3 strengths as a church?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: top_growth_barriers
-        label: What are the main barriers to our growth?
-        hint: e.g., Facility limits, lack of volunteers, communication
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: header_outreach_evangelism
-        label: -- Outreach and Evangelism --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: outreach_effectiveness_rating
-        label: Rate the effectiveness of our current community outreach
-        hint: null
-        type: select_one
-        options: [Highly Effective, Effective, Ineffective, Unknown]
-        required: true
-      - id: 9
-        name: invitation_frequency
-        label: How often do you invite new people to church?
-        hint: null
-        type: select_one
-        options: [Frequently, Occasionally, Rarely, Never]
-        required: true
-      - id: 10
-        name: tools_needed_for_invitation
-        label: What tools would help you invite others more easily?
-        hint: null
-        type: select_multiple
-        options: [Invite cards, Better social media presence, More community events, Better website info]
-        required: false
-      - id: 11
-        name: header_future_direction
-        label: -- Future Direction --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: priority_ministry_investment
-        label: Where should we invest most in the next 12 months?
-        hint: Select your top priority
-        type: select_one
-        options: [Children/Youth, Missions/Outreach, Facilities/Property, Small Groups/Discipleship, Staffing, Media/Technology]
-        required: true
-      - id: 13
-        name: staffing_needs_perception
-        label: Do you feel we have adequate staff for our current size?
-        hint: null
-        type: select_one
-        options: [Yes, Needs more staff, Needs different focus]
-        required: true
-      - id: 14
-        name: facility_growth_readiness
-        label: Is our facility ready for 20% growth?
-        hint: Considering sanctuary space, parking, classrooms
-        type: select_one
-        options: [Yes, No - Needs renovation, No - Needs new location]
-        required: true
-      - id: 15
-        name: header_member_engagement
-        label: -- Member Engagement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: active_volunteer_status
-        label: Are you actively volunteering in a leadership or service role?
-        hint: null
-        type: select_one
-        options: [Yes - Leadership, Yes - Service Role, No]
-        required: true
-      - id: 17
-        name: desire_to_serve_more
-        label: Would you like to serve more if the right opportunity arose?
-        hint: null
-        type: select_one
-        options: [Yes, Already at capacity, No]
-        required: true
-      - id: 18
-        name: additional_growth_insights
-        label: Any other insights on how we can grow healthily?
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header_vision_mission
+      label: -- Vision and Mission Alignment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clear_mission_perception
+      label: How clearly do you understand the church mission?
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Unclear
+      required: true
+    - id: 3
+      name: mission_alignment_rating
+      label: Rate how well our current activities align with our mission
+      hint: null
+      type: select_one
+      options:
+      - Strongly Aligned
+      - Aligned
+      - Neutral
+      - Misaligned
+      required: true
+    - id: 4
+      name: header_strengths_weaknesses
+      label: -- Strengths and Weaknesses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: top_church_strengths
+      label: What are our top 3 strengths as a church?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: top_growth_barriers
+      label: What are the main barriers to our growth?
+      hint: e.g., Facility limits, lack of volunteers, communication
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: header_outreach_evangelism
+      label: -- Outreach and Evangelism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: outreach_effectiveness_rating
+      label: Rate the effectiveness of our current community outreach
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Effective
+      - Ineffective
+      - Unknown
+      required: true
+    - id: 9
+      name: invitation_frequency
+      label: How often do you invite new people to church?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: tools_needed_for_invitation
+      label: What tools would help you invite others more easily?
+      hint: null
+      type: select_multiple
+      options:
+      - Invite cards
+      - Better social media presence
+      - More community events
+      - Better website info
+      required: false
+    - id: 11
+      name: header_future_direction
+      label: -- Future Direction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: priority_ministry_investment
+      label: Where should we invest most in the next 12 months?
+      hint: Select your top priority
+      type: select_one
+      options:
+      - Children/Youth
+      - Missions/Outreach
+      - Facilities/Property
+      - Small Groups/Discipleship
+      - Staffing
+      - Media/Technology
+      required: true
+    - id: 13
+      name: staffing_needs_perception
+      label: Do you feel we have adequate staff for our current size?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Needs more staff
+      - Needs different focus
+      required: true
+    - id: 14
+      name: facility_growth_readiness
+      label: Is our facility ready for 20% growth?
+      hint: Considering sanctuary space, parking, classrooms
+      type: select_one
+      options:
+      - 'True'
+      - No - Needs renovation
+      - No - Needs new location
+      required: true
+    - id: 15
+      name: header_member_engagement
+      label: -- Member Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: active_volunteer_status
+      label: Are you actively volunteering in a leadership or service role?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Leadership
+      - Yes - Service Role
+      - 'False'
+      required: true
+    - id: 17
+      name: desire_to_serve_more
+      label: Would you like to serve more if the right opportunity arose?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Already at capacity
+      - 'False'
+      required: true
+    - id: 18
+      name: additional_growth_insights
+      label: Any other insights on how we can grow healthily?
+      hint: null
+      type: text
+      options: []
+      required: false

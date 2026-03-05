@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: form_title
+      label: What is the name of this perfume box?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: category
-      label: category
+      label: What category does this perfume box belong to?
       hint: null
       type: select_one
       options:
@@ -21,50 +21,63 @@ inputSchema:
       required: false
     - id: 3
       name: description
-      label: description
+      label: Describe the product in 5-10 sentences.
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: form_description
-      label: form_description
+      name: form_id
+      label: What is the ID of this perfume box?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: form_id
-      label: form_id
+      name: form_category
+      label: What is the category for this perfume box?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 6
-      name: form_category
-      label: form_category
+      name: form_is_for_sale
+      label: Is the product for sale?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 7
-      name: form_title
-      label: form_title
+      name: form_visit_frequency
+      label: How often do you visit our perfume store?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Once a week
+      - 2-3 times a week
+      - Daily
+      - Never
       required: false
     - id: 8
-      name: form_description
-      label: form_description
+      name: form_size
+      label: What is the size of this perfume box?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 9
-      name: form_id
-      label: form_id
+      name: form_color
+      label: What is the color of this perfume box?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
       required: false

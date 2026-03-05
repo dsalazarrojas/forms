@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Very satisfied'', ''value'': 1}'
-      - '{''label'': ''2 - Somewhat satisfied'', ''value'': 2}'
-      - '{''label'': ''3 - Neutral'', ''value'': 3}'
-      - '{''label'': ''4 - Somewhat dissatisfied'', ''value'': 4}'
-      - '{''label'': ''5 - Very dissatisfied'', ''value'': 5}'
+      - 1 - Very satisfied
+      - 2 - Somewhat satisfied
+      - 3 - Neutral
+      - 4 - Somewhat dissatisfied
+      - 5 - Very dissatisfied
       required: true
     - id: 4
       name: feedback_text
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Issue with functionality'', ''value'': ''issue_with_functionality''}'
-      - '{''label'': ''Issues with performance'', ''value'': ''issues_with_performance''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Issue with functionality
+      - Issues with performance
+      - Other
       required: false
     - id: 7
       name: product_upgrade_feedback_poll_form_additional_comments

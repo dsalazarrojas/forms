@@ -51,9 +51,9 @@ inputSchema:
       hint: Select a payment method
       type: select_one
       options:
-      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
-      - '{''label'': ''Check'', ''value'': ''check''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - Bank Transfer
+      - Check
+      - PayPal
       required: true
     - id: 8
       name: order_status
@@ -61,9 +61,9 @@ inputSchema:
       hint: Select order status
       type: select_one
       options:
-      - '{''label'': ''Unfulfilled'', ''value'': ''unfilled''}'
-      - '{''label'': ''Fulfillment Complete'', ''value'': ''fulfilled''}'
-      - '{''label'': ''Canceled'', ''value'': ''canceled''}'
+      - Unfulfilled
+      - Fulfillment Complete
+      - Canceled
       required: true
     - id: 9
       name: notes

@@ -22,207 +22,82 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: mri_info_form
-      label: MRI Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: contact_info_form
-      label: Contact Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: emergency_contacts_form
-      label: Emergency Contacts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: medical_history_form
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: medical_conditions_form
-      label: Medical Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: medication_info_form
-      label: Medication Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: hipaa_form
-      label: HIPAA
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: signature_form
-      label: Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: date_of_birth_form
       label: Date of Birth
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
-      name: emergency_contacts_1_form
-      label: Emergency Contacts 1
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Bob''}'
-      required: true
-    - id: 12
+    - id: 3
       name: contact_info_form
-      label: Contact Information 1
+      label: Contact Information
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Bob''}'
+      - John
+      - Jane
+      - Bob
       required: true
-    - id: 13
-      name: medical_history_1_form
-      label: Medical History 1
+    - id: 4
+      name: medical_history_form
+      label: Medical History
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Heart condition''}'
-      - '{''value'': ''Asthma''}'
-      - '{''value'': ''Diabetes''}'
+      - Heart condition
+      - Asthma
+      - Diabetes
       required: true
-    - id: 14
-      name: medical_conditions_1_form
-      label: Medical Conditions 1
+    - id: 5
+      name: medical_conditions_form
+      label: Medical Conditions
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Heart condition''}'
-      - '{''value'': ''Asthma''}'
-      - '{''value'': ''Diabetes''}'
+      - Heart condition
+      - Asthma
+      - Diabetes
       required: false
-    - id: 15
-      name: medical_history_2_form
-      label: Medical History 2
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Heart condition''}'
-      - '{''value'': ''Asthma''}'
-      - '{''value'': ''Diabetes''}'
-      required: false
-    - id: 16
+    - id: 6
       name: medication_info_form
       label: Medication Information
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Heart medication''}'
-      - '{''value'': ''Asthma medication''}'
-      - '{''value'': ''Diabetes medication''}'
+      - Heart medication
+      - Asthma medication
+      - Diabetes medication
       required: false
-    - id: 17
-      name: mri_info_1_form
-      label: MRI Information 1
+    - id: 7
+      name: mri_info_form
+      label: MRI Information
       hint: null
       type: date
       options: []
       required: false
-    - id: 18
-      name: contact_info_1_form
-      label: Contact Information 1
+    - id: 8
+      name: emergency_contact_form
+      label: Emergency Contacts
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Bob''}'
+      - John
+      - Jane
+      - Bob
       required: true
-    - id: 19
+    - id: 9
       name: contact_info_2_form
       label: Contact Information 2
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Bob''}'
+      - John
+      - Jane
+      - Bob
       required: false
-    - id: 20
+    - id: 10
       name: medical_condition_info_form
       label: Medical Condition Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_condition_1_form
-      label: Medical Conditions 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: mri_equipment_info_form
-      label: MRI Equipment Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: mri_equipment_form
-      label: MRI Equipment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: mri_equipment_1_form
-      label: MRI Equipment 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: mri_equipment_2_form
-      label: MRI Equipment 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: signature_1_form
-      label: Signature 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: signature_2_form
-      label: Signature 2
       hint: null
       type: text
       options: []

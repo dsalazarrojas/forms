@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Landowner1''}'
-      - '{''value'': ''Landowner2''}'
+      - Landowner1
+      - Landowner2
       required: false
     - id: 3
       name: land_use
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''approved''}'
-      - '{''value'': ''rejected''}'
+      - pending
+      - approved
+      - rejected
       required: false
     - id: 8
       name: application_date
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Mun1''}'
-      - '{''value'': ''Mun2''}'
+      - Mun1
+      - Mun2
       required: false
     - id: 13
       name: application_type
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''urban''}'
-      - '{''value'': ''recreational''}'
-      - '{''value'': ''residential''}'
+      - urban
+      - recreational
+      - residential
       required: false
     - id: 14
       name: land_use_category
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''commercial''}'
-      - '{''value'': ''residential''}'
-      - '{''value'': ''industrial''}'
+      - commercial
+      - residential
+      - industrial
       required: false
     - id: 15
       name: land_area

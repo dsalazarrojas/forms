@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Single Room''}'
-      - '{''value'': ''Double Room''}'
-      - '{''value'': ''Family Room''}'
+      - Single Room
+      - Double Room
+      - Family Room
       required: false
     - id: 6
       name: room_number
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cash''}'
-      - '{''value'': ''Credit Card''}'
-      - '{''value'': ''Bank Transfer''}'
+      - Cash
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 10
       name: total_cost
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Refundable''}'
-      - '{''value'': ''Non Refundable''}'
+      - Refundable
+      - Non Refundable
       required: false
     - id: 13
       name: payment_due_date
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Due''}'
+      - Paid
+      - Due
       required: false
     - id: 15
       name: payment_date

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Order Forms''}'
-      - '{''value'': ''Sales Forms''}'
-      - '{''value'': ''Rental Forms''}'
+      - Order Forms
+      - Sales Forms
+      - Rental Forms
       required: false
     - id: 3
       name: vehicle_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Cars''}'
-      - '{''value'': ''Trucks''}'
-      - '{''value'': ''Vans''}'
+      - Cars
+      - Trucks
+      - Vans
       required: false
     - id: 4
       name: make_model
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 2015}'
-      - '{''value'': 2016}'
-      - '{''value'': 2017}'
+      - '2015'
+      - '2016'
+      - '2017'
       required: false
     - id: 6
       name: trim_level
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manual''}'
-      - '{''value'': ''Automatic''}'
+      - Manual
+      - Automatic
       required: false
     - id: 8
       name: drive_type
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Front Wheel Drive''}'
-      - '{''value'': ''Rear Wheel Drive''}'
-      - '{''value'': ''All Wheel Drive''}'
+      - Front Wheel Drive
+      - Rear Wheel Drive
+      - All Wheel Drive
       required: false
     - id: 9
       name: vehicle_status
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''Used''}'
+      - New
+      - Used
       required: false
     - id: 10
       name: mileage
@@ -158,8 +158,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Open''}'
-      - '{''value'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 21
       name: customer_id

@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cash''}'
-      - '{''value'': ''Stocks''}'
-      - '{''value'': ''Bonds''}'
-      - '{''value'': ''Alternative Investments''}'
+      - Cash
+      - Stocks
+      - Bonds
+      - Alternative Investments
       required: false
     - id: 5
       name: financial_goals
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Retirement''}'
-      - '{''value'': ''Wealth Creation''}'
-      - '{''value'': ''Debt Reduction''}'
+      - Retirement
+      - Wealth Creation
+      - Debt Reduction
       required: false
     - id: 6
       name: income_streams
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Salary''}'
-      - '{''value'': ''Investments''}'
-      - '{''value'': ''Rental Income''}'
+      - Salary
+      - Investments
+      - Rental Income
       required: false
     - id: 7
       name: investment_strategy
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Single''}'
-      - '{''value'': ''Joint''}'
-      - '{''value'': ''Married''}'
+      - Single
+      - Joint
+      - Married
       required: false
     - id: 9
       name: risk_level
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Short Term''}'
-      - '{''value'': ''Medium Term''}'
-      - '{''value'': ''Long Term''}'
+      - Short Term
+      - Medium Term
+      - Long Term
       required: false
     - id: 11
       name: asset_protection
@@ -95,11 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''id'': 12, ''name'': ''estate_planning'', ''label'': ''Estate Planning'',
-        ''hint'': None, ''type'': ''select_one'', ''options'': [{''value'': True},
-        {''value'': False}]}'
+      - 'True'
+      - 'False'
+      - Estate Planning
       required: false
     - id: 12
       name: trusts
@@ -107,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: wills
@@ -116,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: powers_of_attorney
@@ -125,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: advance_directives
@@ -134,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: guardianship
@@ -143,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: guardianship_alternate
@@ -152,9 +150,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Primary Caregiver''}'
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Child''}'
+      - Primary Caregiver
+      - Spouse
+      - Child
       required: false
     - id: 18
       name: probate
@@ -162,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: guardianship_fees
@@ -178,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: asset_allocation_fees

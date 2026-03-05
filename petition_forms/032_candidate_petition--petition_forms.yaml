@@ -96,7 +96,7 @@ inputSchema:
       - Yes, by email
       - Yes, by SMS
       - Yes, by both
-      - false
+      - 'False'
       required: true
     - id: 14
       name: legal_verification_section
@@ -111,8 +111,8 @@ inputSchema:
       hint: Providing false information is subject to legal action
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: electronic_signature_text

@@ -1,165 +1,154 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Automated Assessment Questionnaire
     pages:
-      - id: 1
-        name: subject_info_header
-        label: -- Assessment Subject --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: subject_name
-        label: Subject Name
-        hint: Name of the person being assessed
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee or Trainee ID
-        hint: Internal identifier
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: assessment_date
-        label: Assessment Date
-        hint: Today's date
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: competency_scoring_header
-        label: -- Competency Scoring --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: technical_proficiency
-        label: Technical Proficiency
-        hint: Scale of 1 to 5
-        type: select_one
-        options:
-          - 1 - Needs Improvement
-          - 2
-          - 3 - Proficient
-          - 4
-          - 5 - Expert
-        required: true
-      - id: 7
-        name: communication_skills
-        label: Communication Skills
-        hint: Ability to convey information clearly
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2
-          - 3 - Satisfactory
-          - 4
-          - 5 - Excellent
-        required: true
-      - id: 8
-        name: problem_solving
-        label: Problem Solving Ability
-        hint: Effectiveness in resolving complex issues
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2
-          - 3 - Average
-          - 4
-          - 5 - Exceptional
-        required: true
-      - id: 9
-        name: teamwork
-        label: Teamwork and Collaboration
-        hint: Contribution to group success
-        type: select_one
-        options:
-          - 1 - Lone Worker
-          - 2
-          - 3 - Cooperative
-          - 4
-          - 5 - Natural Leader
-        required: true
-      - id: 10
-        name: performance_review_header
-        label: -- Performance Review --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: key_strengths
-        label: Key Strengths Observed
-        hint: Notable positive contributions
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: areas_development
-        label: Areas for Development
-        hint: Specific skills or behaviors to improve
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: meeting_expectations
-        label: Overall Meeting Expectations
-        hint: Summary assessment status
-        type: select_one
-        options:
-          - Exceeds Expectations
-          - Meets Expectations
-          - Below Expectations
-        required: true
-      - id: 14
-        name: automation_feedback_header
-        label: -- Automation Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: scoring_fairness
-        label: Automated Scoring Fairness
-        hint: Do you find the automated components fair?
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-        required: true
-      - id: 16
-        name: process_feedback
-        label: Feedback on Assessment Process
-        hint: Suggestions for the questionnaire itself
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: promotion_ready
-        label: Ready for Promotion or Certification
-        hint: Final recommendation
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Pending further review
-        required: true
+    - id: 1
+      name: subject_info_header
+      label: -- Assessment Subject --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: Subject Name
+      hint: Name of the person being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee or Trainee ID
+      hint: Internal identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: competency_scoring_header
+      label: -- Competency Scoring --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: technical_proficiency
+      label: Technical Proficiency
+      hint: Scale of 1 to 5
+      type: select_one
+      options:
+      - 1 - Needs Improvement
+      - '2'
+      - 3 - Proficient
+      - '4'
+      - 5 - Expert
+      required: true
+    - id: 7
+      name: communication_skills
+      label: Communication Skills
+      hint: Ability to convey information clearly
+      type: select_one
+      options:
+      - 1 - Poor
+      - '2'
+      - 3 - Satisfactory
+      - '4'
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: problem_solving
+      label: Problem Solving Ability
+      hint: Effectiveness in resolving complex issues
+      type: select_one
+      options:
+      - 1 - Poor
+      - '2'
+      - 3 - Average
+      - '4'
+      - 5 - Exceptional
+      required: true
+    - id: 9
+      name: teamwork
+      label: Teamwork and Collaboration
+      hint: Contribution to group success
+      type: select_one
+      options:
+      - 1 - Lone Worker
+      - '2'
+      - 3 - Cooperative
+      - '4'
+      - 5 - Natural Leader
+      required: true
+    - id: 10
+      name: performance_review_header
+      label: -- Performance Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: key_strengths
+      label: Key Strengths Observed
+      hint: Notable positive contributions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: areas_development
+      label: Areas for Development
+      hint: Specific skills or behaviors to improve
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_expectations
+      label: Overall Meeting Expectations
+      hint: Summary assessment status
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Below Expectations
+      required: true
+    - id: 14
+      name: automation_feedback_header
+      label: -- Automation Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: scoring_fairness
+      label: Automated Scoring Fairness
+      hint: Do you find the automated components fair?
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      required: true
+    - id: 16
+      name: process_feedback
+      label: Feedback on Assessment Process
+      hint: Suggestions for the questionnaire itself
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: promotion_ready
+      label: Ready for Promotion or Certification
+      hint: Final recommendation
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending further review
+      required: true

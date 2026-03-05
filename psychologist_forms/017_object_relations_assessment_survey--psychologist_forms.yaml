@@ -16,14 +16,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''parent''}'
-      - '{''id'': 2, ''label'': ''child''}'
-      - '{''id'': 3, ''label'': ''sibling''}'
-      - '{''id'': 4, ''label'': ''peer''}'
-      - '{''id'': 5, ''label'': ''friend''}'
-      - '{''id'': 6, ''label'': ''partner''}'
-      - '{''id'': 7, ''label'': ''family-member''}'
-      - '{''id'': 8, ''label'': ''other''}'
+      - parent
+      - child
+      - sibling
+      - peer
+      - friend
+      - partner
+      - family-member
+      - other
       required: false
     - id: 3
       name: relationship_patterns
@@ -31,11 +31,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''positive-patterns''}'
-      - '{''id'': 2, ''label'': ''negative-patterns''}'
-      - '{''id'': 3, ''label'': ''ambiguous-patterns''}'
-      - '{''id'': 4, ''label'': ''conflicted-patterns''}'
-      - '{''id'': 5, ''label'': ''unclear-patterns''}'
+      - positive-patterns
+      - negative-patterns
+      - ambiguous-patterns
+      - conflicted-patterns
+      - unclear-patterns
       required: false
     - id: 4
       name: emotions
@@ -43,13 +43,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''anxious''}'
-      - '{''id'': 2, ''label'': ''calm''}'
-      - '{''id'': 3, ''label'': ''happy''}'
-      - '{''id'': 4, ''label'': ''neutral''}'
-      - '{''id'': 5, ''label'': ''sad''}'
-      - '{''id'': 6, ''label'': ''stressed''}'
-      - '{''id'': 7, ''label'': ''worried''}'
+      - anxious
+      - calm
+      - happy
+      - neutral
+      - sad
+      - stressed
+      - worried
       required: false
     - id: 5
       name: emotions_intensity

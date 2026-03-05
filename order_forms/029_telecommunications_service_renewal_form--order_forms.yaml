@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Voice''}'
-      - '{''value'': ''Data''}'
-      - '{''value'': ''Internet''}'
+      - Voice
+      - Data
+      - Internet
       required: false
     - id: 8
       name: service_contract_id
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bronze''}'
-      - '{''value'': ''Silver''}'
-      - '{''value'': ''Gold''}'
+      - Bronze
+      - Silver
+      - Gold
       required: false
     - id: 11
       name: customer_service_level_other
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 13
       name: billing_cycle_other
@@ -109,8 +109,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 15
       name: renewal_status_other

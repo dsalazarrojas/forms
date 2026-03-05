@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Drain Cleaning''}'
-      - '{''name'': ''Leaking Valve''}'
-      - '{''name'': ''Leaking Water Heater''}'
-      - '{''name'': ''Leaking Faucet''}'
+      - Drain Cleaning
+      - Leaking Valve
+      - Leaking Water Heater
+      - Leaking Faucet
       required: false
     - id: 3
       name: payment_method
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Bank Transfer''}'
-      - '{''name'': ''Credit Card''}'
-      - '{''name'': ''Check''}'
+      - Bank Transfer
+      - Credit Card
+      - Check
       required: false
     - id: 4
       name: service_date
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''In Progress''}'
-      - '{''name'': ''Complete''}'
-      - '{''name'': ''Overdue''}'
+      - In Progress
+      - Complete
+      - Overdue
       required: false
     - id: 22
       name: due_date

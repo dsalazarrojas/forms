@@ -58,8 +58,8 @@ inputSchema:
       hint: Select payment method
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit_card'', ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''PayPal''}'
+      - Credit Card
+      - PayPal
       required: false
     - id: 9
       name: order_status
@@ -67,11 +67,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''New'', ''label'': ''New''}'
-      - '{''id'': 2, ''name'': ''Placed'', ''label'': ''Placed''}'
-      - '{''id'': 3, ''name'': ''Shipped'', ''label'': ''Shipped''}'
-      - '{''id'': 4, ''name'': ''Delivered'', ''label'': ''Delivered''}'
-      - '{''id'': 5, ''name'': ''Cancelled'', ''label'': ''Cancelled''}'
+      - New
+      - Placed
+      - Shipped
+      - Delivered
+      - Cancelled
       required: false
     - id: 10
       name: date_of_order

@@ -131,7 +131,7 @@ inputSchema:
       options:
       - Yes, Complete
       - Yes, Partial
-      - false
+      - 'False'
       required: true
     - id: 17
       name: accessories_included
@@ -141,7 +141,7 @@ inputSchema:
       options:
       - Yes, All Included
       - Some Missing
-      - false
+      - 'False'
       required: false
     - id: 18
       name: warranty_valid
@@ -149,8 +149,8 @@ inputSchema:
       hint: Still under warranty
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: false
     - id: 19
@@ -194,8 +194,8 @@ inputSchema:
       hint: Photos, receipts attached
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: expected_refund

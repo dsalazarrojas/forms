@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Order Forms''}'
-      - '{''value'': ''Other''}'
+      - Order Forms
+      - Other
       required: true
     - id: 3
       name: description
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Shipping to customer''}'
-      - '{''value'': ''Shipping to facility''}'
+      - Shipping to customer
+      - Shipping to facility
       required: true
     - id: 5
       name: shipping_address
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Payment by credit card''}'
-      - '{''value'': ''Payment by wire transfer''}'
+      - Payment by credit card
+      - Payment by wire transfer
       required: true
     - id: 10
       name: unit_type

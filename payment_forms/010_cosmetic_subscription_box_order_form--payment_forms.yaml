@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Quarterly''}'
-      - '{''id'': 3, ''label'': ''Yearly''}'
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 3
       name: products
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Face Cream''}'
-      - '{''id'': 2, ''label'': ''Lip Balm''}'
-      - '{''id'': 3, ''label'': ''Mascara''}'
-      - '{''id'': 4, ''label'': ''Nail Polish''}'
+      - Face Cream
+      - Lip Balm
+      - Mascara
+      - Nail Polish
       required: false
     - id: 4
       name: shipping_info
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 6
       name: payment_info
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit and Pay''}'
-      - '{''id'': 2, ''label'': ''Save for Later''}'
+      - Submit and Pay
+      - Save for Later
       required: false
     - id: 9
       name: email

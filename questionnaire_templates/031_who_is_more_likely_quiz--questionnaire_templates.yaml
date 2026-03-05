@@ -13,7 +13,7 @@ inputSchema:
     - id: 2
       name: question1
       label: What is the name of the game or movie?
-      hint: 'Example: Harry Potter and the Philosopher''s Stone'
+      hint: Example - Harry Potter and the Philosopher's Stone
       type: text
       options: []
       required: false
@@ -30,13 +30,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 5
       name: question2_score
-      label: Score (1-10)
+      label: Question2 Score
       hint: null
       type: number
       options: []
@@ -54,13 +54,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 8
       name: question4_score
-      label: Score (1-10)
+      label: Question4 Score
       hint: null
       type: number
       options: []
@@ -74,7 +74,7 @@ inputSchema:
       required: false
     - id: 10
       name: question5_score
-      label: Score (1-10)
+      label: Question5 Score
       hint: null
       type: number
       options: []
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 12
       name: result_score
@@ -148,7 +148,7 @@ inputSchema:
     - id: 20
       name: time
       label: Time
-      hint: "HH:MM"
+      hint: HH -MM
       type: time
       options: []
       required: false
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Option 1''}'
-      - '{''label'': ''Option 2''}'
-      - '{''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 22
       name: time_zone_score

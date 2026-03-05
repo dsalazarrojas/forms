@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Student''}'
-      - '{''id'': 2, ''name'': ''Athlete''}'
-      - '{''id'': 3, ''name'': ''Artist''}'
-      - '{''id'': 4, ''name'': ''Business Owner''}'
+      - Student
+      - Athlete
+      - Artist
+      - Business Owner
       required: false
     - id: 4
       name: primary_language
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: true
     - id: 5
       name: primary_income
@@ -74,135 +74,44 @@ inputSchema:
       options: []
       required: true
     - id: 10
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
       name: emergency_contact
       label: Emergency Contact
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Self''}'
-      - '{''id'': 2, ''name'': ''Family''}'
-      - '{''id'': 3, ''name'': ''Friend''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Self
+      - Family
+      - Friend
+      - Other
       required: false
-    - id: 12
+    - id: 11
       name: emergency_phone
       label: Emergency Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: emergency_relationship
-      label: Emergency Relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+    - id: 12
       name: client_agreed_to_terms
       label: Client Agreed To Terms
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
-    - id: 15
+    - id: 13
       name: informed_consents
       label: Informed Consents
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
-    - id: 16
-      name: emergency_phone_1
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: emergency_phone_2
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: emergency_phone_3
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: emergency_phone_4
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: emergency_phone_5
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emergency_phone_6
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: emergency_phone_7
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: emergency_phone_8
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: emergency_phone_9
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: emergency_phone_10
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: emergency_phone_11
-      label: Emergency Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: emergency_phone_11
-      label: Emergency Phone
+    - id: 14
+      name: emergency_phone_list
+      label: Emergency Phone Numbers
       hint: null
       type: text
       options: []

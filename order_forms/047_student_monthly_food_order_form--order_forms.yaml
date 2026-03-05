@@ -4,197 +4,104 @@ inputSchema:
     title: Student Monthly Food Order Form
     pages:
     - id: 1
-      name: meal_choice_1
-      label: Meal Choice 1
+      name: meal_preferences
+      label: Meal Preferences
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Regularly
+      - Occasionally
+      - Rarely
       required: false
     - id: 2
+      name: meal_frequency
+      label: Meal Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      required: false
+    - id: 3
+      name: meal_cuisine
+      label: Meal Cuisine
+      hint: null
+      type: select_one
+      options:
+      - Indian
+      - Chinese
+      - Italian
+      - Others
+      required: false
+    - id: 4
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: discount
+      label: Discount
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: contact_info_email
+      label: Contact Information - Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_info_phone
+      label: Contact Information - Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
       name: student_id
       label: Student ID
       hint: null
       type: number
       options: []
-      required: false
-    - id: 3
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 5
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: meal_choice_2
-      label: Meal Choice 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: meal_choice_3
-      label: Meal Choice 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
+      required: true
+    - id: 9
       name: order_date
       label: Order Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 9
-      name: meal_choice_4
-      label: Meal Choice 4
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true
     - id: 10
-      name: name
-      label: Name
+      name: special_requests
+      label: Special Requests
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 11
-      name: email
-      label: Email
+      name: payment_online
+      label: Payment Method
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - Online
+      - Offline
       required: false
     - id: 12
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: meal_choice_5
-      label: Meal Choice 5
+      name: receipt
+      label: Receipt
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: meal_choice_6
-      label: Meal Choice 6
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: meal_choice_7
-      label: Meal Choice 7
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: meal_choice_8
-      label: Meal Choice 8
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: meal_choice_9
-      label: Meal Choice 9
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: meal_choice_10
-      label: Meal Choice 10
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: order_date
-      label: Order Date
-      hint: null
-      type: date
-      options: []
+      - 'True'
+      - 'False'
       required: false

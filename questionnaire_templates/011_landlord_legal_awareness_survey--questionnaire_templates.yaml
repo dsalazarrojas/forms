@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Individual''}'
-      - '{''id'': 2, ''label'': ''Group''}'
-      - '{''id'': 3, ''label'': ''Organization''}'
+      - Individual
+      - Group
+      - Organization
       required: false
     - id: 3
       name: property_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Residential''}'
-      - '{''id'': 2, ''label'': ''Commercial''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Residential
+      - Commercial
+      - Both
       required: false
     - id: 4
       name: years_living
@@ -64,11 +64,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Landlord-Tenant Law''}'
-      - '{''id'': 2, ''label'': ''Leasing Agreements''}'
-      - '{''id'': 3, ''label'': ''Rent Control''}'
-      - '{''id'': 4, ''label'': ''Security Deposits''}'
-      - '{''id'': 5, ''label'': ''Evictions''}'
+      - Landlord-Tenant Law
+      - Leasing Agreements
+      - Rent Control
+      - Security Deposits
+      - Evictions
       required: false
     - id: 9
       name: training_history
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: training_need
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: survey_complete
@@ -94,8 +94,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: comments

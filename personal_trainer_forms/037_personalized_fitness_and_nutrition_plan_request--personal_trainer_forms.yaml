@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''sedentary'', ''value'': ''sedentary''}'
-      - '{''id'': 2, ''label'': ''lightly_active'', ''value'': ''lightly_active''}'
-      - '{''id'': 3, ''label'': ''highly_active'', ''value'': ''highly_active''}'
-      - '{''id'': 4, ''label'': ''extremely_active'', ''value'': ''extremely_active''}'
+      - sedentary
+      - lightly active
+      - highly active
+      - extremely active
       required: false
     - id: 4
       name: height
@@ -63,10 +63,10 @@ inputSchema:
         routine?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''high_blood_pressure'', ''value'': ''high_blood_pressure''}'
-      - '{''id'': 2, ''label'': ''high_cholesterol'', ''value'': ''high_cholesterol''}'
-      - '{''id'': 3, ''label'': ''diabetes'', ''value'': ''diabetes''}'
-      - '{''id'': 4, ''label'': ''heart_disease'', ''value'': ''heart_disease''}'
+      - high blood pressure
+      - high cholesterol
+      - diabetes
+      - heart disease
       required: false
     - id: 9
       name: workout_frequency
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''daily'', ''value'': ''daily''}'
-      - '{''id'': 2, ''label'': ''2_3_times_a_week'', ''value'': ''2_3_times_a_week''}'
-      - '{''id'': 3, ''label'': ''4_5_times_a_week'', ''value'': ''4_5_times_a_week''}'
-      - '{''id'': 4, ''label'': ''less_than_three_times_a_week'', ''value'': ''less_than_three_times_a_week''}'
+      - daily
+      - 2 3 times a week
+      - 4 5 times a week
+      - less than three times a week
       required: false
     - id: 10
       name: time_commitment
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''10_15_minutes'', ''value'': ''10_15_minutes''}'
-      - '{''id'': 2, ''label'': ''30_60_minutes'', ''value'': ''30_60_minutes''}'
-      - '{''id'': 3, ''label'': ''more_than_an_hour'', ''value'': ''more_than_an_hour''}'
+      - 10 15 minutes
+      - 30 60 minutes
+      - more than an hour
       required: false
     - id: 11
       name: goals_for_workout
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''general_fitness'', ''value'': ''general_fitness''}'
-      - '{''id'': 2, ''label'': ''weight_loss'', ''value'': ''weight_loss''}'
-      - '{''id'': 3, ''label'': ''weight_gain'', ''value'': ''weight_gain''}'
+      - general fitness
+      - weight loss
+      - weight gain
       required: false
     - id: 12
       name: meal_plan
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''low_carb'', ''value'': ''low_carb''}'
-      - '{''id'': 2, ''label'': ''low_fat'', ''value'': ''low_fat''}'
-      - '{''id'': 3, ''label'': ''balanced'', ''value'': ''balanced''}'
+      - low carb
+      - low fat
+      - balanced
       required: false
     - id: 13
       name: additional_comments

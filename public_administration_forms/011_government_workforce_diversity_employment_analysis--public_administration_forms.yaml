@@ -18,9 +18,9 @@ inputSchema:
       hint: This field is required
       type: select_one
       options:
-      - '{''value'': ''A'', ''text'': ''A''}'
-      - '{''value'': ''B'', ''text'': ''B''}'
-      - '{''value'': ''C'', ''text'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 3
       name: job_title
@@ -35,9 +35,9 @@ inputSchema:
       hint: Select only numbers 1, 2, or 3
       type: select_one
       options:
-      - '{''value'': ''1'', ''text'': ''1''}'
-      - '{''value'': ''2'', ''text'': ''2''}'
-      - '{''value'': ''3'', ''text'': ''3''}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 5
       name: department
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''M'', ''text'': ''Male''}'
-      - '{''value'': ''F'', ''text'': ''Female''}'
-      - '{''value'': ''O'', ''text'': ''Other''}'
+      - M
+      - F
+      - O
       required: false
     - id: 12
       name: age

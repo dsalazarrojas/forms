@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -76,10 +65,10 @@ inputSchema:
       hint: Check all methods you prefer
       type: select_multiple
       options:
-        - Email
-        - Text Message
-        - Phone Call
-        - Mail
+      - Email
+      - Text Message
+      - Phone Call
+      - Mail
       required: true
     - id: 10
       name: availability_header
@@ -94,12 +83,12 @@ inputSchema:
       hint: Which vaccine would you prefer
       type: select_one
       options:
-        - Pfizer-BioNTech
-        - Moderna
-        - Johnson & Johnson
-        - AstraZeneca
-        - Novavax
-        - No Preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - No Preference
       required: false
     - id: 12
       name: willing_to_travel
@@ -107,10 +96,10 @@ inputSchema:
       hint: Will you travel to get vaccinated
       type: select_one
       options:
-        - Yes, within 5 miles
-        - Yes, within 10 miles
-        - Yes, any distance
-        - No, must be local
+      - Yes, within 5 miles
+      - Yes, within 10 miles
+      - Yes, any distance
+      - No, must be local
       required: true
     - id: 13
       name: preferred_facility_type
@@ -118,12 +107,12 @@ inputSchema:
       hint: Where you would prefer to be vaccinated
       type: select_one
       options:
-        - Medical clinic
-        - Hospital
-        - Pharmacy
-        - Community center
-        - Mobile clinic
-        - No preference
+      - Medical clinic
+      - Hospital
+      - Pharmacy
+      - Community center
+      - Mobile clinic
+      - No preference
       required: false
     - id: 14
       name: appointment_availability_header
@@ -138,11 +127,11 @@ inputSchema:
       hint: Monday through Friday availability
       type: select_one
       options:
-        - Yes, anytime
-        - Yes, mornings only
-        - Yes, afternoons only
-        - Yes, evenings only
-        - No
+      - Yes, anytime
+      - Yes, mornings only
+      - Yes, afternoons only
+      - Yes, evenings only
+      - 'False'
       required: true
     - id: 16
       name: available_weekends
@@ -150,11 +139,11 @@ inputSchema:
       hint: Saturday and Sunday availability
       type: select_one
       options:
-        - Yes, anytime
-        - Yes, mornings only
-        - Yes, afternoons only
-        - Yes, evenings only
-        - No
+      - Yes, anytime
+      - Yes, mornings only
+      - Yes, afternoons only
+      - Yes, evenings only
+      - 'False'
       required: true
     - id: 17
       name: health_info_header
@@ -169,9 +158,9 @@ inputSchema:
       hint: Any relevant health issues
       type: select_one
       options:
-        - Yes
-        - No
-        - Prefer Not to Say
+      - 'True'
+      - 'False'
+      - Prefer Not to Say
       required: false
     - id: 19
       name: conditions_details
@@ -186,9 +175,9 @@ inputSchema:
       hint: Any vaccine component allergies
       type: select_one
       options:
-        - No allergies
-        - Have allergies
-        - Unsure
+      - No allergies
+      - Have allergies
+      - Unsure
       required: true
     - id: 21
       name: previous_covid_notification
@@ -196,9 +185,9 @@ inputSchema:
       hint: Any previous COVID-19 infection
       type: select_one
       options:
-        - Yes
-        - No
-        - Unsure
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 22
       name: household_members_at_risk
@@ -206,8 +195,8 @@ inputSchema:
       hint: Elderly or immunocompromised family members
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: consent_header
@@ -222,8 +211,8 @@ inputSchema:
       hint: I consent to vaccination notification communications
       type: select_one
       options:
-        - I agree
-        - I do not agree
+      - I agree
+      - I do not agree
       required: true
     - id: 25
       name: contact_verification
@@ -231,6 +220,6 @@ inputSchema:
       hint: All contact details are current and correct
       type: select_one
       options:
-        - Confirmed accurate
-        - Needs updating
+      - Confirmed accurate
+      - Needs updating
       required: true

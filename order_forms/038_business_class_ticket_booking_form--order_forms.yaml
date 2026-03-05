@@ -174,8 +174,8 @@ inputSchema:
       hint: Do you want airport lounge access
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: true
     - id: 22
@@ -184,7 +184,7 @@ inputSchema:
       hint: Do you need airport transfers
       type: select_one
       options:
-      - false
+      - 'False'
       - Pickup Only
       - Drop-off Only
       - Both Pickup and Drop-off
@@ -195,7 +195,7 @@ inputSchema:
       hint: Do you need hotel accommodation
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Need Booking
       - Yes - Have Own Booking
       required: true
@@ -205,8 +205,8 @@ inputSchema:
       hint: Do you want travel insurance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: true
     - id: 25

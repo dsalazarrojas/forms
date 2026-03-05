@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Month-to-Month''}'
-      - '{''id'': 2, ''label'': ''Yearly''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - Month-to-Month
+      - Yearly
+      - Quarterly
       required: false
     - id: 5
       name: delivery_frequency
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Weekly''}'
-      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''One-Time''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time
       required: false
     - id: 6
       name: payment_method
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Card''}'
-      - '{''id'': 2, ''label'': ''Bank Transfer''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Card
+      - Bank Transfer
+      - Other
       required: false
     - id: 7
       name: email

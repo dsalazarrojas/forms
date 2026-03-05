@@ -9,18 +9,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''January''}'
-      - '{''id'': 2, ''label'': ''February''}'
-      - '{''id'': 3, ''label'': ''March''}'
-      - '{''id'': 4, ''label'': ''April''}'
-      - '{''id'': 5, ''label'': ''May''}'
-      - '{''id'': 6, ''label'': ''June''}'
-      - '{''id'': 7, ''label'': ''July''}'
-      - '{''id'': 8, ''label'': ''August''}'
-      - '{''id'': 9, ''label'': ''September''}'
-      - '{''id'': 10, ''label'': ''October''}'
-      - '{''id'': 11, ''label'': ''November''}'
-      - '{''id'': 12, ''label'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: true
     - id: 2
       name: team_lead
@@ -28,8 +28,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 3
       name: activity_level
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 4
       name: goal_achieved
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 10
       name: manager_approval

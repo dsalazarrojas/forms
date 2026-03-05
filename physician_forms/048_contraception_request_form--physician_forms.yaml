@@ -1,149 +1,138 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contraception Request Form
     pages:
-      - id: 1
-        name: patient_info_header
-        label: -- Patient Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: patient_full_name
-        label: Patient Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: patient_dob
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: health_screening_header
-        label: -- Medical History Screening --
-        hint: Important for safe prescription
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: blood_pressure_recent
-        label: Most Recent Blood Pressure (if known)
-        hint: e.g., 120/80
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: smoking_status
-        label: Current Smoking Status
-        hint: Increased risk for some methods
-        type: select_one
-        options:
-          - Non-smoker
-          - Occasional smoker (less than 15 per day)
-          - Heavy smoker (15 plus per day)
-          - Former smoker (quit more than 1 year ago)
-        required: true
-      - id: 7
-        name: migraine_with_aura
-        label: Do you experience migraines with visual aura
-        hint: e.g., zig-zag lines, blind spots
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 8
-        name: blood_clot_history
-        label: Personal or family history of blood clots
-        hint: DVT or Pulmonary Embolism
-        type: select_one
-        options:
-          - Yes - Personal history
-          - Yes - Immediate family history
-          - No - No known history
-        required: true
-      - id: 9
-        name: request_details_header
-        label: -- Contraceptive Preference --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: preferred_contraceptive_method
-        label: Preferred Contraceptive Method
-        hint: null
-        type: select_one
-        options:
-          - Combined Pill (COCP)
-          - Progestogen-only Pill (POP)
-          - Contraceptive Patch
-          - Vaginal Ring
-          - Injectable (Depo-Provera)
-          - Hormonal IUD (Mirena/Kyleena)
-          - Subdermal Implant (Nexplanon)
-        required: true
-      - id: 11
-        name: previous_method_feedback
-        label: Are you currently using a method
-        hint: If yes, please name it and any side effects
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: reason_for_request
-        label: Primary Reason for Request
-        hint: null
-        type: select_one
-        options:
-          - Contraception (Pregnancy Prevention)
-          - Menstrual Symptom Management
-          - Endometriosis/PCOS Treatment
-          - Emergency Contraception Follow-up
-        required: true
-      - id: 13
-        name: last_menstrual_period_date
-        label: Date of Last Menstrual Period
-        hint: Start date of most recent period
-        type: date
-        options: []
-        required: true
-      - id: 14
-        name: pharmacy_details
-        label: Preferred Pharmacy Name and City
-        hint: For prescription routing
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: patient_signature_auth
-        label: Patient Digital Signature
-        hint: I confirm the accuracy of this information
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: request_date
-        label: Date of Request
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: health_screening_header
+      label: -- Medical History Screening --
+      hint: Important for safe prescription
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: blood_pressure_recent
+      label: Most Recent Blood Pressure (if known)
+      hint: e.g., 120/80
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: smoking_status
+      label: Current Smoking Status
+      hint: Increased risk for some methods
+      type: select_one
+      options:
+      - Non-smoker
+      - Occasional smoker (less than 15 per day)
+      - Heavy smoker (15 plus per day)
+      - Former smoker (quit more than 1 year ago)
+      required: true
+    - id: 7
+      name: migraine_with_aura
+      label: Do you experience migraines with visual aura
+      hint: e.g., zig-zag lines, blind spots
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 8
+      name: blood_clot_history
+      label: Personal or family history of blood clots
+      hint: DVT or Pulmonary Embolism
+      type: select_one
+      options:
+      - Yes - Personal history
+      - Yes - Immediate family history
+      - No - No known history
+      required: true
+    - id: 9
+      name: request_details_header
+      label: -- Contraceptive Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contraceptive_method
+      label: Preferred Contraceptive Method
+      hint: null
+      type: select_one
+      options:
+      - Combined Pill (COCP)
+      - Progestogen-only Pill (POP)
+      - Contraceptive Patch
+      - Vaginal Ring
+      - Injectable (Depo-Provera)
+      - Hormonal IUD (Mirena/Kyleena)
+      - Subdermal Implant (Nexplanon)
+      required: true
+    - id: 11
+      name: previous_method_feedback
+      label: Are you currently using a method
+      hint: If yes, please name it and any side effects
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_request
+      label: Primary Reason for Request
+      hint: null
+      type: select_one
+      options:
+      - Contraception (Pregnancy Prevention)
+      - Menstrual Symptom Management
+      - Endometriosis/PCOS Treatment
+      - Emergency Contraception Follow-up
+      required: true
+    - id: 13
+      name: last_menstrual_period_date
+      label: Date of Last Menstrual Period
+      hint: Start date of most recent period
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pharmacy_details
+      label: Preferred Pharmacy Name and City
+      hint: For prescription routing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patient_signature_auth
+      label: Patient Digital Signature
+      hint: I confirm the accuracy of this information
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

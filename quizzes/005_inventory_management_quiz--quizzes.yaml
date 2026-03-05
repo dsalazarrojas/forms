@@ -4,179 +4,109 @@ inputSchema:
     title: inventory_management_quiz
     pages:
     - id: 1
-      name: introduction
-      label: What is an inventory management quiz?
+      name: inventory_management_purpose
+      label: What is the purpose of inventory management?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: inventory_management_process
-      label: Inventory management process
+      name: frequency_of_inventory_check
+      label: How often do you perform inventory checks?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 3
-      name: example
-      label: Example question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: another_example_question
-      label: Another example question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
       name: inventory_management_process
       label: What is the inventory management process?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: stock_levels
+      label: What is the difference between stock levels and inventory levels?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: stocktake
+      label: What is the purpose of a stocktake?
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: inventory_management_processes
-      label: What is the inventory management process?
+      name: cycle_counting
+      label: What is the difference between cycle count and perpetual inventory counting?
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: inventory_management_processes_2
-      label: What is the inventory management process?
+      name: inventory_management_software
+      label: What is the role of inventory management software in the modern business
+        world?
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: date
-      label: Date of last inventory check?
+      name: discrepancy_handling
+      label: How do you handle discrepancies in inventory?
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 9
-      name: time
-      label: Time of last inventory check?
+      name: inventory_replenishment
+      label: What is the process of inventory replenishment?
       hint: null
-      type: time
+      type: text
       options: []
       required: true
     - id: 10
-      name: date
-      label: date
+      name: inventory_turnover
+      label: What is the difference between inventory turnover and stock turnover?
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: time
-      label: Time
+      name: eoq_concept
+      label: What is the concept of Economic Order Quantity (EOQ)?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: date
-      label: Date
+      name: eoq_concept_in_inventory_management
+      label: What is the concept of Economic Order Quantity (EOQ) in the context of
+        inventory management?
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: example_question
-      label: Another example question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: inventory_management_processes_2_2
-      label: Prophets of inventory management process?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: example_question
-      label: Another example question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: inventory_management_processes_2_2
-      label: Prophets of inventory management process?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: example_question
-      label: Another example question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
       name: time_of_last_inventory_check
       label: Time of last inventory check?
       hint: null
       type: time
       options: []
       required: true
+    - id: 14
+      name: last_inventory_check_date
+      label: Date of last inventory check?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: example_question
+      label: Another example question
+      hint: null
+      type: note
+      options: []
+      required: false

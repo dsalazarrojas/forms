@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Bad'', ''label'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 4
       name: comment
@@ -47,13 +47,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Air conditioning'', ''label'': ''Air conditioning''}'
-      - '{''id'': 2, ''name'': ''Bathroom fixtures'', ''label'': ''Bathroom fixtures''}'
-      - '{''id'': 3, ''name'': ''Electrical'', ''label'': ''Electrical''}'
-      - '{''id'': 4, ''name'': ''Flooring'', ''label'': ''Flooring''}'
-      - '{''id'': 5, ''name'': ''Painting'', ''label'': ''Painting''}'
-      - '{''id'': 6, ''name'': ''Plumbing'', ''label'': ''Plumbing''}'
-      - '{''id'': 7, ''name'': ''Roofing'', ''label'': ''Roofing''}'
+      - Air conditioning
+      - Bathroom fixtures
+      - Electrical
+      - Flooring
+      - Painting
+      - Plumbing
+      - Roofing
       required: false
     - id: 7
       name: date_completed
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: follow_up_reason

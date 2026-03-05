@@ -5,79 +5,82 @@ inputSchema:
     pages:
     - id: 1
       name: moon_phase_question_1
-      label: How often do we see the moon?
+      label: Four Main Moon Phases
+      hint: null
+      type: select_multiple
+      options:
+      - new moon
+      - full moon
+      - waxing gibbous
+      - waning gibbous
+      required: false
+    - id: 2
+      name: moon_phase_question_2
+      label: Moon Phases Frequency
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 2
-      name: moon_phase_question_2
-      label: What is the first phase of the moon?
-      hint: null
-      type: select_one
-      options:
-      - new_moon
-      - waxing_crescent
-      - waxing_gibbous
-      - full_moon
-      - waning_gibbous
-      - old_moon
-      required: false
     - id: 3
       name: moon_phase_question_3
-      label: What is the next phase of the moon after new moon?
+      label: First Moon Phase
       hint: null
       type: select_one
       options:
-      - waxing_crescent
-      - waxing_gibbous
-      - old_moon
-      - full_moon
+      - new moon
+      - waxing crescent
+      - waxing gibbous
+      - full moon
+      - waning gibbous
+      - old moon
       required: false
     - id: 4
       name: moon_phase_question_4
-      label: How do we calculate the moon's phase?
+      label: Next Moon Phase After New Moon
+      hint: null
+      type: select_one
+      options:
+      - waxing crescent
+      - waxing gibbous
+      - old moon
+      - full moon
+      required: false
+    - id: 5
+      name: moon_phase_question_5
+      label: Moon Phase Calculation
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: moon_phase_question_5
-      label: What are the four main phases of the moon?
-      hint: null
-      type: select_multiple
-      options:
-      - new_moon
-      - full_moon
-      - waxing_gibbous
-      - waning_gibbous
-      required: false
     - id: 6
       name: moon_phase_question_6
-      label: What is the moon's orbit?
+      label: Moon Orbit
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: moon_phase_question_7
-      label: What is the moon's distance from earth?
+      label: Moon Distance From Earth
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: moon_phase_question_8
-      label: What is the moon's rotation period?
+      label: Moon Rotation Period
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - sidereal
+      - solar
+      - lunars
       required: false
     - id: 9
       name: moon_phase_question_9
-      label: How long does it take the moon to orbit the earth?
+      label: Time To Orbit The Earth
       hint: null
       type: select_one
       options:
@@ -87,149 +90,26 @@ inputSchema:
       required: false
     - id: 10
       name: moon_phase_question_10
-      label: What is the moon's rotation period?
+      label: How Often Do We See The Moon
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - sidereal
-      - solar
-      - sidereal
+      - 'Yes'
+      - 'No'
       required: false
     - id: 11
       name: moon_phase_question_11
-      label: What is the moon's distance from the earth?
+      label: Moon Phase Question 11
       hint: null
       type: select_one
       options:
-      - average
-      - close
-      - far
+      - sidereal
+      - solar
+      - lunars
       required: false
     - id: 12
       name: moon_phase_question_12
-      label: Moon phases
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: moon_phase_question_13
-      label: What is the first phase of the moon?
-      hint: null
-      type: select_one
-      options:
-      - new_moon
-      - waxing_crescent
-      - waxing_gibbous
-      - full_moon
-      - waning_gibbous
-      - old_moon
-      required: false
-    - id: 14
-      name: moon_phase_question_14
-      label: How often do we see the moon phases?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: moon_phase_question_15
-      label: What is the moon's rotation period?
-      hint: null
-      type: select_one
-      options:
-      - sidereal
-      - solar
-      - lunars
-      required: false
-    - id: 16
-      name: moon_phase_question_16
-      label: What is the moon's distance?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: moon_phase_question_17
-      label: How long does it take for the moon to orbit the earth?
-      hint: null
-      type: select_one
-      options:
-      - sidereal
-      - sidereal
-      - lunars
-      required: false
-    - id: 18
-      name: moon_phase_question_18
-      label: What is the moon's rotation period?
-      hint: null
-      type: select_one
-      options:
-      - sidereal
-      - solar
-      - lunars
-      required: false
-    - id: 19
-      name: moon_phase_question_19
-      label: What is the moon's distance from the earth?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: moon_phase_question_20
-      label: Moon phases
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: moon_phase_question_21
-      label: How often do we see the moon phases?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: moon_phase_question_22
-      label: What is the moon's rotation period?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: moon_phase_question_23
-      label: What is the moon's distance from the earth?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: moon_phase_question_24
-      label: What is the moon's orbit?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: moon_phase_question_25
-      label: How long does it take for the moon to orbit the earth?
+      label: Moon Phase Question 12
       hint: null
       type: select_multiple
       options:

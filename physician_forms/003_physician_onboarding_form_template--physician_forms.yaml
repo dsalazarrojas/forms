@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Physician Forms''}'
-      - '{''label'': ''Other Forms''}'
+      - Physician Forms
+      - Other Forms
       required: true
     - id: 3
       name: description
@@ -32,8 +32,8 @@ inputSchema:
       hint: The tool assigned to this form template
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
-      - '{''label'': ''Other Tool''}'
+      - chatjimmy
+      - Other Tool
       required: true
     - id: 5
       name: output_file

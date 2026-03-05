@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False, ''value'': ''false''}'
-      - '{''label'': True, ''value'': ''true''}'
-      - '{''label'': ''Undecided'', ''value'': ''undecided''}'
+      - 'False'
+      - 'True'
+      - Undecided
       required: false
     - id: 5
       name: quiz_question_3
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male'', ''value'': ''male''}'
-      - '{''label'': ''Female'', ''value'': ''female''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 7
       name: quiz_question_5
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''A'', ''value'': ''A''}'
-      - '{''label'': ''B'', ''value'': ''B''}'
-      - '{''label'': ''C'', ''value'': ''C''}'
-      - '{''label'': ''D'', ''value'': ''D''}'
+      - A
+      - B
+      - C
+      - D
       required: false
     - id: 8
       name: quiz_question_6

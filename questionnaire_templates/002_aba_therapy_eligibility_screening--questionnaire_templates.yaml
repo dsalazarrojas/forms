@@ -30,12 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Male
-        value: male
-      - label: Female
-        value: female
-      - label: Other/Prefer not to say
-        value: other
+      - Male
+      - Female
+      - Other/Prefer not to say
       required: true
     - id: 5
       name: guardian_info_header
@@ -79,12 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
-      - label: Pending Evaluation
-        value: pending
+      - 'True'
+      - 'False'
+      - Pending Evaluation
       required: true
     - id: 11
       name: diagnosing_provider
@@ -106,18 +100,12 @@ inputSchema:
       hint: What specific behaviors or skills would you like to address?
       type: select_multiple
       options:
-      - label: Communication/Speech
-        value: communication
-      - label: Social Skills
-        value: social_skills
-      - label: Daily Living Skills
-        value: daily_living
-      - label: Aggression/Behavioral Issues
-        value: aggression
-      - label: Safety Concerns (Elopement)
-        value: safety
-      - label: School Readiness
-        value: school_readiness
+      - Communication/Speech
+      - Social Skills
+      - Daily Living Skills
+      - Aggression/Behavioral Issues
+      - Safety Concerns (Elopement)
+      - School Readiness
       required: true
     - id: 14
       name: additional_comments
@@ -139,14 +127,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: In-Home
-        value: home
-      - label: Clinic-Based
-        value: clinic
-      - label: School-Based
-        value: school
-      - label: Telehealth
-        value: telehealth
+      - In-Home
+      - Clinic-Based
+      - School-Based
+      - Telehealth
       required: true
     - id: 17
       name: time_of_day_availability
@@ -154,12 +138,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Mornings (8am - 12pm)
-        value: morning
-      - label: Afternoons (12pm - 4pm)
-        value: afternoon
-      - label: Late Afternoons (4pm - 6pm)
-        value: late_afternoon
+      - Mornings (8am - 12pm)
+      - Afternoons (12pm - 4pm)
+      - Late Afternoons (4pm - 6pm)
       required: true
     - id: 18
       name: insurance_info_header
@@ -188,14 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Pediatrician Referral
-        value: pediatrician
-      - label: School District
-        value: school
-      - label: Insurance Provider List
-        value: insurance
-      - label: Online Search/Social Media
-        value: online
-      - label: Friend/Family
-        value: friend_family
+      - Pediatrician Referral
+      - School District
+      - Insurance Provider List
+      - Online Search/Social Media
+      - Friend/Family
       required: false

@@ -1,320 +1,309 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Care Plan Meeting Template
     pages:
-      - id: 1
-        name: patient_full_name
-        label: Patient Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: medical_record_number
-        label: Medical Record Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: meeting_date
-        label: Meeting Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: meeting_time
-        label: Meeting Time
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 6
-        name: meeting_location
-        label: Meeting Location
-        hint: Room number or virtual link
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: meeting_type
-        label: Meeting Type
-        hint: null
-        type: select_one
-        options:
-          - Initial care plan
-          - Quarterly review
-          - Annual review
-          - Discharge planning
-          - Care transition
-          - Emergency review
-          - Family conference
-        required: true
-      - id: 8
-        name: attending_physician
-        label: Attending Physicians
-        hint: List all attending physicians
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: attending_nurses
-        label: Attending Nursing Staff
-        hint: Names and roles
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: other_healthcare_providers
-        label: Other Healthcare Providers Present
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Physical therapist
-          - Occupational therapist
-          - Speech therapist
-          - Respiratory therapist
-          - Dietitian or nutritionist
-          - Social worker
-          - Case manager
-          - Pharmacist
-          - Psychologist or psychiatrist
-          - Chaplain
-          - Home health representative
-          - None
-        required: true
-      - id: 11
-        name: family_members_present
-        label: Family Members Present
-        hint: Names and relationships
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: patient_advocate_present
-        label: Patient Advocate Present
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: primary_diagnosis
-        label: Primary Diagnosis
-        hint: Main medical condition
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: secondary_diagnoses
-        label: Secondary Diagnoses
-        hint: List all comorbidities
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: current_health_status
-        label: Current Health Status
-        hint: Brief summary
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: functional_status
-        label: Functional Status
-        hint: Ability to perform daily activities
-        type: select_one
-        options:
-          - Independent
-          - Requires minimal assistance
-          - Requires moderate assistance
-          - Requires maximum assistance
-          - Dependent
-        required: true
-      - id: 17
-        name: cognitive_status
-        label: Cognitive Status
-        hint: null
-        type: select_one
-        options:
-          - Alert and oriented
-          - Mild impairment
-          - Moderate impairment
-          - Severe impairment
-          - Unable to assess
-        required: true
-      - id: 18
-        name: patient_goals
-        label: Patient-Stated Goals
-        hint: What does the patient hope to achieve
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: family_goals
-        label: Family Goals or Concerns
-        hint: If applicable
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: short_term_goals
-        label: Short-Term Care Goals
-        hint: Next 30 days
-        type: text
-        options: []
-        required: true
-      - id: 21
-        name: long_term_goals
-        label: Long-Term Care Goals
-        hint: Next 90 days or more
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: medication_review
-        label: Medication Review Summary
-        hint: Changes or concerns
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: treatment_plan_changes
-        label: Treatment Plan Changes
-        hint: List any modifications
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: therapy_services
-        label: Therapy Services Ordered
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Physical therapy
-          - Occupational therapy
-          - Speech therapy
-          - Respiratory therapy
-          - Recreational therapy
-          - Music therapy
-          - None
-        required: true
-      - id: 25
-        name: therapy_frequency
-        label: Therapy Frequency
-        hint: Sessions per week
-        type: text
-        options: []
-        required: false
-      - id: 26
-        name: nutritional_needs
-        label: Nutritional Needs and Diet Orders
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 27
-        name: social_services_needs
-        label: Social Services Needs
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Discharge planning
-          - Financial assistance
-          - Housing assistance
-          - Transportation
-          - Caregiver support
-          - Community resources
-          - Counseling
-          - None
-        required: true
-      - id: 28
-        name: equipment_needs
-        label: Durable Medical Equipment Needs
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Wheelchair
-          - Walker or cane
-          - Hospital bed
-          - Oxygen equipment
-          - Commode
-          - Shower chair
-          - Lift equipment
-          - Monitoring devices
-          - None
-        required: true
-      - id: 29
-        name: follow_up_appointments
-        label: Follow-up Appointments Scheduled
-        hint: List appointments and dates
-        type: text
-        options: []
-        required: true
-      - id: 30
-        name: next_meeting_date
-        label: Next Care Plan Meeting Date
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 31
-        name: action_items
-        label: Action Items and Responsibilities
-        hint: Who will do what by when
-        type: text
-        options: []
-        required: true
-      - id: 32
-        name: patient_consent
-        label: Patient Consents to Care Plan
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unable to consent
-          - Consent by proxy
-        required: true
-      - id: 33
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other relevant information
-        type: text
-        options: []
-        required: false
-      - id: 34
-        name: meeting_facilitator
-        label: Meeting Facilitator
-        hint: Name and title
-        type: text
-        options: []
-        required: true
-      - id: 35
-        name: documentation_completed_by
-        label: Documentation Completed By
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: meeting_location
+      label: Meeting Location
+      hint: Room number or virtual link
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Initial care plan
+      - Quarterly review
+      - Annual review
+      - Discharge planning
+      - Care transition
+      - Emergency review
+      - Family conference
+      required: true
+    - id: 8
+      name: attending_physician
+      label: Attending Physicians
+      hint: List all attending physicians
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: attending_nurses
+      label: Attending Nursing Staff
+      hint: Names and roles
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: other_healthcare_providers
+      label: Other Healthcare Providers Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical therapist
+      - Occupational therapist
+      - Speech therapist
+      - Respiratory therapist
+      - Dietitian or nutritionist
+      - Social worker
+      - Case manager
+      - Pharmacist
+      - Psychologist or psychiatrist
+      - Chaplain
+      - Home health representative
+      - None
+      required: true
+    - id: 11
+      name: family_members_present
+      label: Family Members Present
+      hint: Names and relationships
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_advocate_present
+      label: Patient Advocate Present
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Main medical condition
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: secondary_diagnoses
+      label: Secondary Diagnoses
+      hint: List all comorbidities
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_health_status
+      label: Current Health Status
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: functional_status
+      label: Functional Status
+      hint: Ability to perform daily activities
+      type: select_one
+      options:
+      - Independent
+      - Requires minimal assistance
+      - Requires moderate assistance
+      - Requires maximum assistance
+      - Dependent
+      required: true
+    - id: 17
+      name: cognitive_status
+      label: Cognitive Status
+      hint: null
+      type: select_one
+      options:
+      - Alert and oriented
+      - Mild impairment
+      - Moderate impairment
+      - Severe impairment
+      - Unable to assess
+      required: true
+    - id: 18
+      name: patient_goals
+      label: Patient-Stated Goals
+      hint: What does the patient hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_goals
+      label: Family Goals or Concerns
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: short_term_goals
+      label: Short-Term Care Goals
+      hint: Next 30 days
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: long_term_goals
+      label: Long-Term Care Goals
+      hint: Next 90 days or more
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medication_review
+      label: Medication Review Summary
+      hint: Changes or concerns
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: treatment_plan_changes
+      label: Treatment Plan Changes
+      hint: List any modifications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: therapy_services
+      label: Therapy Services Ordered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical therapy
+      - Occupational therapy
+      - Speech therapy
+      - Respiratory therapy
+      - Recreational therapy
+      - Music therapy
+      - None
+      required: true
+    - id: 25
+      name: therapy_frequency
+      label: Therapy Frequency
+      hint: Sessions per week
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: nutritional_needs
+      label: Nutritional Needs and Diet Orders
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: social_services_needs
+      label: Social Services Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Discharge planning
+      - Financial assistance
+      - Housing assistance
+      - Transportation
+      - Caregiver support
+      - Community resources
+      - Counseling
+      - None
+      required: true
+    - id: 28
+      name: equipment_needs
+      label: Durable Medical Equipment Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair
+      - Walker or cane
+      - Hospital bed
+      - Oxygen equipment
+      - Commode
+      - Shower chair
+      - Lift equipment
+      - Monitoring devices
+      - None
+      required: true
+    - id: 29
+      name: follow_up_appointments
+      label: Follow-up Appointments Scheduled
+      hint: List appointments and dates
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: next_meeting_date
+      label: Next Care Plan Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: action_items
+      label: Action Items and Responsibilities
+      hint: Who will do what by when
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: patient_consent
+      label: Patient Consents to Care Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unable to consent
+      - Consent by proxy
+      required: true
+    - id: 33
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: meeting_facilitator
+      label: Meeting Facilitator
+      hint: Name and title
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: documentation_completed_by
+      label: Documentation Completed By
+      hint: null
+      type: text
+      options: []
+      required: true

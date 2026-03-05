@@ -4,32 +4,16 @@ inputSchema:
     title: Invoice Transparency Feedback Form
     pages:
     - id: 1
-      name: invoice_transparency_feedback_form
-      label: What do you think about our invoicing process?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: rating
       label: Rate our invoicing process
-      hint: Scale from 1-5
+      hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 3
-      name: comments
-      label: What can we improve?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
+    - id: 2
       name: invoice_type
       label: What type of invoice did you receive?
       hint: null
@@ -40,28 +24,28 @@ inputSchema:
       - Debit note
       - Pro forma invoice
       required: false
-    - id: 5
-      name: email
+    - id: 3
+      name: comments
+      label: What can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
       label: Contact email
       hint: null
       type: email
       options: []
       required: false
-    - id: 6
-      name: phone
-      label: Contact phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
+    - id: 5
       name: name
       label: Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: assigned_tool
       label: Which tool is this form assigned to?
       hint: null
@@ -71,7 +55,7 @@ inputSchema:
       - tool1
       - tool2
       required: false
-    - id: 9
+    - id: 7
       name: category
       label: Category
       hint: null
@@ -80,24 +64,14 @@ inputSchema:
       - Payment Forms
       - Other forms
       required: false
-    - id: 10
+    - id: 8
       name: description
       label: Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_multiple
-      options:
-      - '26952'
-      - '12345'
-      - '67890'
-      required: false
-    - id: 12
+    - id: 9
       name: form_id
       label: Form ID
       hint: null
@@ -106,107 +80,25 @@ inputSchema:
       - '26952'
       - Other
       required: false
-    - id: 13
-      name: form_id
-      label: Form ID
+    - id: 10
+      name: form_id_2
+      label: Form Id 2
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 14
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: form_id
-      label: Form ID
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
+    - id: 11
       name: form_prophets
       label: Form propeirts
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: form_prophets
-      label: Form propeirts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_prophets
-      label: Form propeirts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_prophets
-      label: Form propeirts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_prophets
+    - id: 12
+      name: form_prophets_2
       label: Form prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_prophets
-      label: Form propeirts
       hint: null
       type: text
       options: []

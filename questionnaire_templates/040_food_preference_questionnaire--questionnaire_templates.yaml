@@ -4,187 +4,185 @@ inputSchema:
     title: food-preference-questionnaire
     pages:
     - id: 1
-      name: mainpage
-      label: main-page
+      name: favorite_cuisine
+      label: What is your favorite type of cuisine?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Asian
+      - European
+      - Latin American
+      - Indian
+      - Other
       required: false
     - id: 2
-      name: dietary_preference_1
-      label: dietary-preference-1
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
-      name: dietary_preference_2
-      label: dietary-preference-2
+      name: eating_schedule
+      label: What is your preferred eating schedule?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Every 2-3 hours
+      - Every 3-4 hours
+      - Every 4-6 hours
+      - Every 6-8 hours
+      - Other
       required: false
     - id: 4
-      name: mainpage
-      label: main-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: mainpage
-      label: main-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: dietary_preference_3
-      label: main-page-2
+      name: breakfast_frequency
+      label: How often do you eat breakfast?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - 3-4 times a week
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: favorite_meat
+      label: What is your favorite type of meat?
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Lamb
+      - Pork
+      - Other
+      required: false
+    - id: 6
+      name: flavor_preference
+      label: Do you prefer sweet or savory flavors?
+      hint: null
+      type: select_one
+      options:
+      - Sweet
+      - Savory
       required: false
     - id: 7
-      name: mainpage
-      label: main-page-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: mainpage
-      label: main-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: dietary_preference_4
-      label: main-page-3
+      name: allergies
+      label: Do you have any allergies?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: meals_per_day
+      label: How many meals do you eat per day?
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - More than 6
+      required: false
+    - id: 9
+      name: time_of_day
+      label: What is your preferred time of day to eat?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Late Evening
       required: false
     - id: 10
-      name: dietary_preference_5
-      label: main-page-4
+      name: special_diets
+      label: Do you eat any special diets such as vegan, gluten-free, etc.?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: hunger_level
+      label: How do you rate your hunger level after meals?
+      hint: null
+      type: select_one
+      options:
+      - Very Hungry
+      - Somewhat Hungry
+      - Not Hungry
+      - Very Not Hungry
+      required: false
+    - id: 12
+      name: eat_location
+      label: Do you prefer to eat at home or out?
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Out
+      required: false
+    - id: 13
+      name: favorite_food
+      label: What is your favorite type of food?
+      hint: null
+      type: select_one
+      options:
+      - Pizza
+      - Salad
+      - Soup
+      - Burger
+      - Other
+      required: false
+    - id: 14
+      name: dislikes
+      label: Do you have any specific food dislikes?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: food_budget
+      label: How much money do you spend on food per week?
       hint: null
       type: number
       options: []
       required: false
-    - id: 11
-      name: mainpage
-      label: main-page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: mainpage
-      label: main-page-5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: mainpage
-      label: main-page-6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: dietary_preference_6
-      label: main-page-7
+    - id: 16
+      name: supplements
+      label: Do you drink any supplements or vitamins?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: mainpage
-      label: main-page-8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: mainpage
-      label: main-page-9
-      hint: null
-      type: text
-      options: []
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: mainpage
-      label: main-page-10
+      name: meal_beverages
+      label: Do you drink any beverages with meals?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: mainpage
-      label: main-page-11
+      name: meals_per_day_2
+      label: Meals Per Day 2
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: mainpage
-      label: main-page-12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: mainpage
-      label: main-page-13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: mainpage
-      label: main-page-14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: mainpage
-      label: main-page-15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: mainpage
-      label: main-page-16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: mainpage
-      label: main-page-17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: mainpage
-      label: main-page-18
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - More than 6
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2.1, ''label'': ''Irish Citizenship''}'
-      - '{''id'': 2.2, ''label'': ''British Citizenship''}'
-      - '{''id'': 2.3, ''label'': ''Spanish Citizenship''}'
+      - Irish Citizenship
+      - British Citizenship
+      - Spanish Citizenship
       required: true
     - id: 3
       name: residency_requirement
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4.1, ''label'': ''6 months''}'
-      - '{''id'': 4.2, ''label'': ''1 year''}'
-      - '{''id'': 4.3, ''label'': ''2 years''}'
-      - '{''id'': 4.4, ''label'': ''3 years''}'
-      - '{''id'': 4.5, ''label'': ''4 years''}'
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - 4 years
       required: true
     - id: 5
       name: language_skills
@@ -45,11 +45,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5.1, ''label'': ''Basic''}'
-      - '{''id'': 5.2, ''label'': ''Intermediate''}'
-      - '{''id'': 5.3, ''label'': ''Advanced''}'
-      - '{''id'': 5.4, ''label'': ''Proficient''}'
-      - '{''id'': 5.5, ''label'': ''Excellent''}'
+      - Basic
+      - Intermediate
+      - Advanced
+      - Proficient
+      - Excellent
       required: true
     - id: 6
       name: education
@@ -57,12 +57,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6.1, ''label'': ''High school''}'
-      - '{''id'': 6.2, ''label'': ''Bachelor''}'
-      - '{''id'': 6.3, ''label'': ''Master''}'
-      - '{''id'': 6.4, ''label'': ''PhD''}'
-      - '{''id'': 6.5, ''label'': ''Doctoral''}'
-      - '{''id'': 6.6, ''label'': ''Diploma''}'
+      - High school
+      - Bachelor
+      - Master
+      - PhD
+      - Doctoral
+      - Diploma
       required: false
     - id: 7
       name: family_ties
@@ -84,11 +84,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9.1, ''label'': ''Full-time''}'
-      - '{''id'': 9.2, ''label'': ''Part-time''}'
-      - '{''id'': 9.3, ''label'': ''Self-employed''}'
-      - '{''id'': 9.4, ''label'': ''Unemployed''}'
-      - '{''id'': 9.5, ''label'': ''Student''}'
+      - Full-time
+      - Part-time
+      - Self-employed
+      - Unemployed
+      - Student
       required: false
     - id: 10
       name: income_source
@@ -96,12 +96,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 10.1, ''label'': ''Employment Income''}'
-      - '{''id'': 10.2, ''label'': ''Self-employment Income''}'
-      - '{''id'': 10.3, ''label'': ''Social Security Benefits''}'
-      - '{''id'': 10.4, ''label'': ''Government Grant''}'
-      - '{''id'': 10.5, ''label'': ''Investment Income''}'
-      - '{''id'': 10.6, ''label'': ''Other''}'
+      - Employment Income
+      - Self-employment Income
+      - Social Security Benefits
+      - Government Grant
+      - Investment Income
+      - Other
       required: false
     - id: 11
       name: financial_investments
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 12.1, ''label'': False}'
-      - '{''id'': 12.2, ''label'': True}'
-      - '{''id'': 12.3, ''label'': ''Undisclosed''}'
+      - 'False'
+      - 'True'
+      - Undisclosed
       required: false
     - id: 13
       name: health_insurance
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13.1, ''label'': ''Private''}'
-      - '{''id'': 13.2, ''label'': ''Public''}'
-      - '{''id'': 13.3, ''label'': ''Both''}'
+      - Private
+      - Public
+      - Both
       required: true
     - id: 14
       name: travel_documentation
@@ -136,10 +136,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14.1, ''label'': ''Passport''}'
-      - '{''id'': 14.2, ''label'': ''ID Card''}'
-      - '{''id'': 14.3, ''label'': ''Both''}'
-      - '{''id'': 14.4, ''label'': ''Other''}'
+      - Passport
+      - ID Card
+      - Both
+      - Other
       required: true
     - id: 15
       name: travel_history
@@ -154,10 +154,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16.1, ''label'': ''Within the EU''}'
-      - '{''id'': 16.2, ''label'': ''Outside the EU''}'
-      - '{''id'': 16.3, ''label'': ''Undetermined''}'
-      - '{''id'': 16.4, ''label'': ''Other''}'
+      - Within the EU
+      - Outside the EU
+      - Undetermined
+      - Other
       required: true
     - id: 17
       name: address
@@ -172,10 +172,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 18.1, ''label'': ''Machine Readable''}'
-      - '{''id'': 18.2, ''label'': ''Non-Machine Readable''}'
-      - '{''id'': 18.3, ''label'': ''Both''}'
-      - '{''id'': 18.4, ''label'': ''Other''}'
+      - Machine Readable
+      - Non-Machine Readable
+      - Both
+      - Other
       required: true
     - id: 19
       name: passport_number

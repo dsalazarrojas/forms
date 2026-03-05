@@ -4,240 +4,149 @@ inputSchema:
     title: Principles Of Management Questionnaire
     pages:
     - id: 1
-      name: introduction
-      label: Introduction
+      name: manager_leadership_style
+      label: Manager Leadership Style
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - autocratic
+      - participative
+      - laissez-faire
       required: false
     - id: 2
-      name: management_style
-      label: management_style
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 3
       name: leadership_skills
-      label: leadership_skills
+      label: Leadership Skills
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 4
-      name: communication_skills
-      label: communication_skills
+      - effective communication
+      - problem solving
+      - adaptability
+      required: false
+    - id: 3
+      name: conflict_management
+      label: Conflict Management
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - avoid conflict
+      - face conflict
+      - seek mediation
+      required: false
+    - id: 4
+      name: communication_strategy
+      label: Communication Strategy
+      hint: null
+      type: select_one
+      options:
+      - verbal communication
+      - nonverbal communication
+      - listening skills
       required: false
     - id: 5
-      name: conflict_resolution
-      label: conflict_resolution
+      name: time_management
+      label: Time Management
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: number
+      options: []
       required: false
     - id: 6
-      name: time_management
-      label: time_management
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 7
       name: goal_setting
-      label: goal_setting
+      label: Goal Setting
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - smart goals
+      - goal oriented
+      - goal set
+      required: false
+    - id: 7
+      name: decision_making
+      label: Decision Making
+      hint: null
+      type: select_multiple
+      options:
+      - data driven
+      - intuitive
+      - consensus
       required: false
     - id: 8
-      name: decision_making
-      label: decision_making
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 9
       name: problem_solving
-      label: problem_solving
+      label: Problem Solving
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - analyze
+      - deduce
+      - improve
+      required: false
+    - id: 9
+      name: adaptability
+      label: Adaptability
+      hint: null
+      type: select_one
+      options:
+      - quickly
+      - slowly
+      - rarely
       required: false
     - id: 10
-      name: adaptability
-      label: adaptability
+      name: situational_awareness
+      label: Situational Awareness
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - high
+      - moderate
+      - low
       required: false
     - id: 11
-      name: situational_awareness
-      label: situational_awareness
+      name: emotional_intelligence
+      label: Emotional Intelligence
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - self awareness
+      - self regulation
+      - motivation
       required: false
     - id: 12
-      name: emotional_intelligence
-      label: emotional_intelligence
+      name: situational_priorities
+      label: Situational Priorities
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: true
+      - high
+      - moderate
+      - low
+      required: false
     - id: 13
-      name: situational_situational
-      label: situational
+      name: situational_analysis
+      label: Situational Analysis
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - in depth
+      - wide
+      - shallow
       required: false
     - id: 14
-      name: situational_situational
-      label: situational
+      name: conflict_resolution
+      label: Conflict Resolution
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: true
+      - conflict avoidance
+      - conflict resolution
+      - seek help
+      required: false
     - id: 15
-      name: situational_situational
-      label: situational
+      name: situational_management
+      label: Situational Management
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - high
+      - moderate
+      - low
       required: false
-    - id: 16
-      name: situational_situational
-      label: situational
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 17
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 20
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 22
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 24
-      name: situational_situational
-      label: situational
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 25
-      name: situational_situational
-      label: situational
-      hint: null
-      type: number
-      options: []
-      required: true

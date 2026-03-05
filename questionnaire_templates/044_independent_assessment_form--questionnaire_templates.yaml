@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Excellent''}'
-      - '{''id'': 2, ''text'': ''Good''}'
-      - '{''id'': 3, ''text'': ''Fair''}'
-      - '{''id'': 4, ''text'': ''Not Good''}'
+      - Excellent
+      - Good
+      - Fair
+      - Not Good
       required: true
     - id: 10
       name: submitted_by
@@ -125,10 +125,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Independent''}'
-      - '{''id'': 2, ''text'': ''Collaborative''}'
-      - '{''id'': 3, ''text'': ''Both''}'
-      - '{''id'': 4, ''text'': ''Other''}'
+      - Independent
+      - Collaborative
+      - Both
+      - Other
       required: false
     - id: 18
       name: evaluation_form_version
@@ -143,11 +143,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Draft''}'
-      - '{''id'': 2, ''text'': ''Published''}'
-      - '{''id'': 3, ''text'': ''Archived''}'
-      - '{''id'': 4, ''text'': ''In Progress''}'
-      - '{''id'': 5, ''text'': ''Reopened''}'
+      - Draft
+      - Published
+      - Archived
+      - In Progress
+      - Reopened
       required: false
     - id: 20
       name: project_category

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''plan_A'', ''label'': ''plan_A''}'
-      - '{''id'': 2, ''name'': ''plan_B'', ''label'': ''plan_B''}'
-      - '{''id'': 3, ''name'': ''plan_C'', ''label'': ''plan_C''}'
+      - plan A
+      - plan B
+      - plan C
       required: false
     - id: 7
       name: preference
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''pref_A'', ''label'': ''pref_A''}'
-      - '{''id'': 2, ''name'': ''pref_B'', ''label'': ''pref_B''}'
-      - '{''id'': 3, ''name'': ''pref_C'', ''label'': ''pref_C''}'
-      - '{''id'': 4, ''name'': ''pref_D'', ''label'': ''pref_D''}'
+      - pref A
+      - pref B
+      - pref C
+      - pref D
       required: false
     - id: 8
       name: accessibility
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''access_A'', ''label'': ''access_A''}'
-      - '{''id'': 2, ''name'': ''access_B'', ''label'': ''access_B''}'
-      - '{''id'': 3, ''name'': ''access_C'', ''label'': ''access_C''}'
-      - '{''id'': 4, ''name'': ''access_D'', ''label'': ''access_D''}'
+      - access A
+      - access B
+      - access C
+      - access D
       required: false
     - id: 9
       name: note

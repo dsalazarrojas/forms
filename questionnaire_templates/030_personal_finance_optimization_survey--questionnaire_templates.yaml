@@ -14,29 +14,13 @@ inputSchema:
       name: financial_goals
       label: Financial Goals
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: financial_goals
-      label: Financial Goals
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: income_range
-      label: Income Range
-      hint: null
       type: select_one
       options:
-      - Low
-      - Medium
-      - High
+      - I have short-term financial goals
+      - I have long-term financial goals
+      - I do not have financial goals
       required: false
-    - id: 5
+    - id: 3
       name: income_frequency
       label: Income Frequency
       hint: null
@@ -45,18 +29,9 @@ inputSchema:
       - Monthly
       - Quarterly
       - Annually
+      - Irregular
       required: false
-    - id: 6
-      name: income_frequency_2
-      label: Income Frequency
-      hint: null
-      type: select_one
-      options:
-      - Monthly
-      - Quarterly
-      - Annually
-      required: false
-    - id: 7
+    - id: 4
       name: spending_frequency
       label: Spending Frequency
       hint: null
@@ -65,166 +40,74 @@ inputSchema:
       - Daily
       - Weekly
       - Bi-Weekly
+      - Monthly
       required: false
-    - id: 8
+    - id: 5
       name: money_savings
       label: Money Savings
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: emergency_funds
+      label: Emergency Funds
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: bill_payment
+      label: Bill Payment
+      hint: null
+      type: select_multiple
+      options:
+      - On time
+      - Late
+      - Unpaid
+      required: false
+    - id: 8
+      name: savings_amount
+      label: Savings Amount
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 9
-      name: money_savings_2
-      label: Money Savings
+      name: income
+      label: Income
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 10
-      name: money_savings_3
-      label: Money Savings
+      name: expense_tracking
+      label: Expense Tracking
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: money_savings_4
-      label: Money Savings
+      name: financial_planning
+      label: Financial Planning
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: money_savings_5
-      label: Money Savings
+      name: financial_advice
+      label: Financial Advice
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: money_savings_6
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: money_savings_7
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: money_savings_8
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: money_savings_9
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: money_savings_10
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: money_savings_11
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: money_savings_12
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: money_savings_13
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: money_savings_14
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: money_savings_15
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: money_savings_16
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: money_savings_17
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: money_savings_18
-      label: Money Savings
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

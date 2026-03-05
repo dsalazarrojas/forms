@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Donations''}'
+      - Donations
       - Donation
       - Payment
       required: true
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''One-Time Donation''}'
-      - recurring_donation
+      - One-Time Donation
+      - recurring donation
       - Other
       required: false
     - id: 4
@@ -36,7 +36,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Bank Transfer''}'
+      - Bank Transfer
       - PayPal
       - Credit
       - Cash

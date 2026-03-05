@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''less than 1 minute''}'
-      - '{''id'': 2, ''value'': ''1-2 minutes''}'
-      - '{''id'': 3, ''value'': ''2-5 minutes''}'
-      - '{''id'': 4, ''value'': ''more than 5 minutes''}'
+      - less than 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
+      - more than 5 minutes
       required: false
     - id: 3
       name: preferred_platform
@@ -27,14 +27,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''YouTube''}'
-      - '{''id'': 2, ''value'': ''Facebook''}'
-      - '{''id'': 3, ''value'': ''Instagram''}'
-      - '{''id'': 4, ''value'': ''TikTok''}'
-      - '{''id'': 5, ''value'': ''Twitter''}'
-      - '{''id'': 6, ''value'': ''Twitch''}'
-      - '{''id'': 7, ''value'': ''LinkedIn''}'
-      - '{''id'': 8, ''value'': ''Vimeo''}'
+      - YouTube
+      - Facebook
+      - Instagram
+      - TikTok
+      - Twitter
+      - Twitch
+      - LinkedIn
+      - Vimeo
       required: false
     - id: 4
       name: viewing_habits
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Morning''}'
-      - '{''id'': 2, ''value'': ''Afternoon''}'
-      - '{''id'': 3, ''value'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 6
       name: note

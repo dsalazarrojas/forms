@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''warehouse''}'
-      - '{''id'': 2, ''value'': ''customer''}'
-      - '{''id'': 3, ''value'': ''third_party''}'
+      - warehouse
+      - customer
+      - third party
       required: false
     - id: 3
       name: destination_location
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''customer''}'
-      - '{''id'': 2, ''value'': ''third_party''}'
-      - '{''id'': 3, ''value'': ''other''}'
+      - customer
+      - third party
+      - other
       required: false
     - id: 4
       name: shipment_mode
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''air''}'
-      - '{''id'': 2, ''value'': ''ground''}'
-      - '{''id'': 3, ''value'': ''sea''}'
+      - air
+      - ground
+      - sea
       required: false
     - id: 5
       name: shipment_date
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''express''}'
-      - '{''id'': 2, ''value'': ''standard''}'
-      - '{''id'': 3, ''value'': ''other''}'
+      - express
+      - standard
+      - other
       required: false
     - id: 10
       name: shipment_status
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''pending''}'
-      - '{''id'': 2, ''value'': ''on_route''}'
-      - '{''id'': 3, ''value'': ''delivered''}'
+      - pending
+      - on route
+      - delivered
       required: false
     - id: 11
       name: customer_name

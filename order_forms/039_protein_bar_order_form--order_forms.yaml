@@ -5,8 +5,8 @@ inputSchema:
     pages:
     - id: 1
       name: order_form_1
-      label: delivery details
-      hint: Please provide delivery details
+      label: Is delivery available?
+      hint: Yes/No
       type: select_one
       options:
       - 'Yes'
@@ -14,180 +14,84 @@ inputSchema:
       required: true
     - id: 2
       name: order_form_2
-      label: payment details
-      hint: Please provide payment details
+      label: How would you like to pay?
+      hint: Select payment method
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: true
     - id: 3
       name: order_form_3
-      label: delivery_date
-      hint: Select a date
+      label: Select a date
+      hint: DD/MM/YY
       type: date
       options: []
       required: true
     - id: 4
       name: order_form_4
-      label: protein-bar-name
-      hint: Protein bar name
+      label: Protein bar name
+      hint: Enter the name of the protein bar
       type: text
       options: []
       required: true
     - id: 5
       name: order_form_5
-      label: quantity
-      hint: Quantity
+      label: Quantity
+      hint: Enter the quantity
       type: number
       options: []
       required: true
     - id: 6
       name: order_form_6
-      label: select_multiple
+      label: Select options
       hint: Select options
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: true
     - id: 7
       name: order_form_7
-      label: text-without-colons
-      hint: Text without colons
+      label: Text without colons
+      hint: Enter a text without colons
       type: text
       options: []
       required: true
     - id: 8
       name: order_form_8
-      label: email
-      hint: Email
+      label: Email
+      hint: Enter your email address
       type: email
       options: []
       required: true
     - id: 9
       name: order_form_9
-      label: phone
-      hint: Phone
+      label: Phone
+      hint: Enter your phone number
       type: text
       options: []
       required: true
     - id: 10
       name: order_form_10
-      label: note
-      hint: Note
+      label: Note
+      hint: Enter any additional notes
       type: note
       options: []
       required: true
     - id: 11
       name: order_form_11
-      label: text-with-quotes
-      hint: Text with quotes
+      label: Text with quotes
+      hint: Enter a text with quotes
       type: text
       options: []
       required: true
     - id: 12
       name: order_form_12
-      label: decimal
-      hint: Decimal
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: order_form_13
-      label: integer
-      hint: Integer
-      type: number
-      options: []
-      required: true
-    - id: 14
-      name: order_form_14
-      label: time
-      hint: Time
+      label: Time
+      hint: Select a time
       type: time
-      options: []
-      required: true
-    - id: 15
-      name: order_form_15
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: order_form_16
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: order_form_17
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: order_form_18
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: order_form_19
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: order_form_20
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: order_form_21
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: order_form_22
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: order_form_23
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: order_form_24
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: order_form_25
-      label: text
-      hint: Text
-      type: text
-      options: []
-      required: true
-    - id: 26
-      name: order_form_26
-      label: text
-      hint: Text
-      type: text
       options: []
       required: true

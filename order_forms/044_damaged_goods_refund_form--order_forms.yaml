@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Product 1''}'
-      - '{''label'': ''Product 2''}'
-      - '{''label'': ''Product 3''}'
+      - Product 1
+      - Product 2
+      - Product 3
       required: false
     - id: 4
       name: damage_description
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Damaged''}'
-      - '{''label'': ''Defective''}'
-      - '{''label'': ''Not as Described''}'
+      - Damaged
+      - Defective
+      - Not as Described
       required: false
     - id: 8
       name: customer_signature
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: business_signature
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: email
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: business_address
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: business_phone
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: date_of_purchase
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Proof of Payment''}'
-      - '{''label'': ''Proof of Delivery''}'
-      - '{''label'': ''Proof of Return''}'
+      - Proof of Payment
+      - Proof of Delivery
+      - Proof of Return
       required: true
     - id: 24
       name: additional_notes
@@ -196,6 +196,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New''}'
-      - '{''label'': ''Used''}'
-      - '{''label'': ''Both''}'
+      - New
+      - Used
+      - Both
       required: true
     - id: 4
       name: order_status
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Open''}'
-      - '{''label'': ''Awaiting Fulfillment''}'
-      - '{''label'': ''Fulfilled''}'
-      - '{''label'': ''Cancelled''}'
+      - Open
+      - Awaiting Fulfillment
+      - Fulfilled
+      - Cancelled
       required: false
     - id: 5
       name: amount_refunded

@@ -23,19 +23,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Worldpay UK''}'
-      - '{''name'': ''Other''}'
-      - '{''name'': ''PayPal''}'
-      - '{''name'': ''Stripe''}'
-      - '{''name'': ''Apple Pay''}'
-      - '{''name'': ''Google Pay''}'
-      - '{''name'': ''Amazon Pay''}'
-      - '{''name'': ''Facebook Pay''}'
-      - '{''name'': ''Cash''}'
-      - '{''name'': ''Bank transfer''}'
-      - '{''name'': ''Cheque''}'
-      - '{''name'': ''Mobile wallet''}'
-      - '{''name'': ''Cryptocurrency''}'
+      - Worldpay UK
+      - Other
+      - PayPal
+      - Stripe
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Facebook Pay
+      - Cash
+      - Bank transfer
+      - Cheque
+      - Mobile wallet
+      - Cryptocurrency
       required: true
     - id: 4
       name: order_type
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Handmade''}'
-      - '{''name'': ''Handmade and printed''}'
-      - '{''name'': ''Handmade and custom''}'
-      - '{''name'': ''Wholesale''}'
-      - '{''name'': ''Custom''}'
+      - Handmade
+      - Handmade and printed
+      - Handmade and custom
+      - Wholesale
+      - Custom
       required: true
     - id: 5
       name: customer_details
@@ -69,19 +69,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''GBP''}'
-      - '{''name'': ''EUR''}'
-      - '{''name'': ''USD''}'
-      - '{''name'': ''CAD''}'
-      - '{''name'': ''AUD''}'
-      - '{''name'': ''CNY''}'
-      - '{''name'': ''INR''}'
-      - '{''name'': ''JPY''}'
-      - '{''name'': ''CNY''}'
-      - '{''name'': ''KRW''}'
-      - '{''name'': ''TWD''}'
-      - '{''name'': ''MXN''}'
-      - '{''name'': ''COP''}'
+      - GBP
+      - EUR
+      - USD
+      - CAD
+      - AUD
+      - CNY
+      - INR
+      - JPY
+      - KRW
+      - TWD
+      - MXN
+      - COP
       required: true
     - id: 8
       name: billing_address
@@ -103,11 +102,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Standard''}'
-      - '{''name'': ''Expedited''}'
-      - '{''name'': ''Express''}'
-      - '{''name'': ''Free''}'
-      - '{''name'': ''Other''}'
+      - Standard
+      - Expedited
+      - Express
+      - Free
+      - Other
       required: true
     - id: 11
       name: shipping_cost
@@ -143,11 +142,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Pending''}'
-      - '{''name'': ''Paid''}'
-      - '{''name'': ''Cancelled''}'
-      - '{''name'': ''Failed''}'
-      - '{''name'': ''Refunded''}'
+      - Pending
+      - Paid
+      - Cancelled
+      - Failed
+      - Refunded
       required: true
     - id: 16
       name: email
@@ -204,16 +203,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Stripe''}'
-      - '{''name'': ''PayPal''}'
-      - '{''name'': ''Square''}'
-      - '{''name'': ''Authorise''}'
-      - '{''name'': ''Payoneer''}'
-      - '{''name'': ''Paymaya''}'
-      - '{''name'': ''Authorise''}'
-      - '{''name'': ''Paymaya''}'
-      - '{''name'': ''Stripe''}'
-      - '{''name'': ''Square''}'
+      - Stripe
+      - PayPal
+      - Square
+      - Authorise
+      - Payoneer
+      - Paymaya
       required: true
     - id: 24
       name: payment_method_other

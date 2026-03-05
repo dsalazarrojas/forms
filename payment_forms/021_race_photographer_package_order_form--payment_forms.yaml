@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit_card'', ''label'': ''Credit Card''}'
-      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
-      - '{''name'': ''other'', ''label'': ''Other''}'
+      - Credit Card
+      - Bank Transfer
+      - Other
       required: true
     - id: 8
       name: payment_amount
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''email'', ''label'': ''Email''}'
-      - '{''name'': ''mail'', ''label'': ''Mail''}'
-      - '{''name'': ''dropbox'', ''label'': ''Dropbox''}'
+      - Email
+      - Mail
+      - Dropbox
       required: false
     - id: 10
       name: email

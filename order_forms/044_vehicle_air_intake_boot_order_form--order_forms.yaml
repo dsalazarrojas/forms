@@ -15,177 +15,141 @@ inputSchema:
     title: vehicle_air_intake_boot_order_form
     pages:
     - id: 1
-      name: vehicle_air_intake_boot_order_form_1
-      label: vehicle_info
-      hint: null
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Please provide vehicle information
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: vehicle_info
-      label: vehicle_info
-      hint: null
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type of vehicle do you have?
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: vehicle_info
-      label: vehicle_info
-      hint: null
+      name: engine_type
+      label: Engine Type
+      hint: What is your engine type?
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: vehicle_info
-      label: vehicle_info
-      hint: null
+      name: intake_specifications
+      label: Intake Specifications
+      hint: Please provide intake specifications
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: vehicle_info
-      label: vehicle_info
-      hint: null
+      name: boot_details
+      label: Boot Details
+      hint: Please provide boot details
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: vehicle_air_intake_boot_order_form_6
-      label: vehicle_air_intake_boot_order_form_6
-      hint: null
-      type: text
+      name: order_date
+      label: Order Date
+      hint: When would you like to order your boot?
+      type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: vehicle_air_intake_boot_order_form_7
-      label: vehicle_air_intake_boot_order_form_7
-      hint: null
-      type: text
+      name: order_time
+      label: Order Time
+      hint: What time would you like to order your boot?
+      type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: vehicle_air_intake_boot_order_form_8
-      label: vehicle_air_intake_boot_order_form_8
-      hint: null
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: vehicle_air_intake_boot_order_form_9
-      label: vehicle_air_intake_boot_order_form_9
-      hint: null
+      name: notes
+      label: Additional Notes
+      hint: Please add any additional notes
       type: text
       options: []
       required: false
     - id: 10
-      name: vehicle_air_intake_boot_order_form_10
-      label: vehicle_air_intake_boot_order_form_10
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: confirm_order
+      label: Confirm Order
+      hint: Confirm your order
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 11
-      name: vehicle_air_intake_boot_order_form_10
-      label: vehicle_air_intake_boot_order_form_10
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: delivery_options
+      label: Delivery Options
+      hint: Choose your delivery options
+      type: select_multiple
+      options:
+      - Pickup
+      - Home Delivery
+      - Delivery to Dealership
+      required: true
     - id: 12
-      name: vehicle_air_intake_boot_order_form_11
-      label: vehicle_air_intake_boot_order_form_11
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: payment_method
+      label: Payment Method
+      hint: Please choose your payment method
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Online Payment
+      required: true
     - id: 13
-      name: vehicle_air_intake_boot_order_form_12
-      label: vehicle_air_intake_boot_order_form_12
-      hint: null
-      type: text
+      name: total_cost
+      label: Total Cost
+      hint: Calculate total cost
+      type: number
       options: []
-      required: false
+      required: true
     - id: 14
-      name: vehicle_air_intake_boot_order_form_13
-      label: vehicle_air_intake_boot_order_form_13
-      hint: null
+      name: confirmation_code
+      label: Confirmation Code
+      hint: Please enter confirmation code
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: vehicle_air_intake_boot_order_form_13
-      label: vehicle_air_intake_boot_order_form_13
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: payment_status
+      label: Payment Status
+      hint: Payment status
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
     - id: 16
-      name: vehicle_air_intake_boot_order_form_14
-      label: vehicle_air_intake_boot_order_form_14
-      hint: null
+      name: notes_2
+      label: Notes 2
+      hint: Please add any additional notes
       type: text
       options: []
       required: false
     - id: 17
-      name: vehicle_air_intake_boot_order_form_14
-      label: vehicle_air_intake_boot_order_form_14
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: confirmation
+      label: Confirm
+      hint: Confirm your order
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 18
-      name: vehicle_air_intake_boot_order_form_15
-      label: vehicle_air_intake_boot_order_form_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: vehicle_air_intake_boot_order_form_15
-      label: vehicle_air_intake_boot_order_form_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: vehicle_air_intake_boot_order_form_16
-      label: vehicle_air_intake_boot_order_form_16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: vehicle_air_intake_boot_order_form_16
-      label: vehicle_air_intake_boot_order_form_16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: vehicle_air_intake_boot_order_form_17
-      label: vehicle_air_intake_boot_order_form_17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: vehicle_air_intake_boot_order_form_17
-      label: vehicle_air_intake_boot_order_form_17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: vehicle_air_intake_boot_order_form_18
-      label: vehicle_air_intake_boot_order_form_18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: vehicle_air_intake_boot_order_form_18
-      label: vehicle_air_intake_boot_order_form_18
-      hint: null
+      name: submission
+      label: Submission
+      hint: Submission
       type: text
       options: []
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
-      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''value'': ''banktransfer'', ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 3
       name: delivery_address
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 5
       name: payment_frequency
@@ -43,8 +43,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''one_time'', ''label'': ''One Time Payment''}'
-      - '{''value'': ''recurring'', ''label'': ''Recurring Payment''}'
+      - One Time Payment
+      - Recurring Payment
       required: false
     - id: 6
       name: payment_frequency_2
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''one_time'', ''label'': ''One Time Payment''}'
-      - '{''value'': ''recurring'', ''label'': ''Recurring Payment''}'
+      - One Time Payment
+      - Recurring Payment
       required: false
     - id: 7
       name: delivery_day

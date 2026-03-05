@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Hospice A''}'
-      - '{''label'': ''Hospice B''}'
-      - '{''label'': ''Hospice C''}'
+      - Hospice A
+      - Hospice B
+      - Hospice C
       required: false
     - id: 20
       name: patient_status
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Terminal''}'
-      - '{''label'': ''Non-Terminal''}'
+      - Terminal
+      - Non-Terminal
       required: true
     - id: 21
       name: hospice_id

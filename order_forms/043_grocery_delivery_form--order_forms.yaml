@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Product 1''}'
-      - '{''id'': 2, ''name'': ''Product 2''}'
-      - '{''id'': 3, ''name'': ''Product 3''}'
+      - Product 1
+      - Product 2
+      - Product 3
       required: false
     - id: 3
       name: select_multiple_products
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Product 1''}'
-      - '{''id'': 2, ''name'': ''Product 2''}'
-      - '{''id'': 3, ''name'': ''Product 3''}'
+      - Product 1
+      - Product 2
+      - Product 3
       required: false
     - id: 4
       name: date_delivery
@@ -71,10 +71,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Credit Card''}'
-      - '{''id'': 3, ''name'': ''PayPal''}'
-      - '{''id'': 4, ''name'': ''Stripe''}'
+      - Cash
+      - Credit Card
+      - PayPal
+      - Stripe
       required: false
     - id: 10
       name: payment_info
@@ -82,12 +82,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Credit Card Number''}'
-      - '{''id'': 2, ''name'': ''Expiration Date''}'
-      - '{''id'': 3, ''name'': ''CVV''}'
-      - '{''id'': 4, ''name'': ''Card Type''}'
-      - '{''id'': 5, ''name'': ''Bank Name''}'
-      - '{''id'': 6, ''name'': ''Routing Number''}'
+      - Credit Card Number
+      - Expiration Date
+      - CVV
+      - Card Type
+      - Bank Name
+      - Routing Number
       required: false
     - id: 11
       name: delivery_address
@@ -102,7 +102,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''Refunded''}'
+      - Paid
+      - Pending
+      - Refunded
       required: false

@@ -1,287 +1,276 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cheesecake Preferences Questionnaire
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your Name
-        hint: Optional - Your full name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email_address
-        label: Email Address
-        hint: Optional - For follow-up surveys
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: age_group
-        label: Age Group
-        hint: Which age group do you belong to
-        type: select_one
-        options:
-          - Under 18
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45-54
-          - 55-64
-          - 65 or older
-        required: true
-      - id: 4
-        name: gender
-        label: Gender
-        hint: Your gender identification
-        type: select_one
-        options:
-          - Male
-          - Female
-          - Non-binary
-          - Prefer not to say
-        required: false
-      - id: 5
-        name: location
-        label: Location
-        hint: City or region where you live
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: cheesecake_frequency
-        label: How Often Do You Eat Cheesecake
-        hint: Frequency of cheesecake consumption
-        type: select_one
-        options:
-          - Never
-          - Rarely (once a year)
-          - Occasionally (2-5 times a year)
-          - Sometimes (6-11 times a year)
-          - Often (once a month)
-          - Very often (weekly)
-        required: true
-      - id: 7
-        name: favorite_flavor
-        label: Favorite Cheesecake Flavor
-        hint: What is your favorite flavor
-        type: select_one
-        options:
-          - New York Style (plain)
-          - Strawberry
-          - Blueberry
-          - Chocolate
-          - Caramel
-          - Lemon
-          - Raspberry
-          - Oreo
-          - Tiramisu
-          - Pumpkin
-          - Other
-        required: true
-      - id: 8
-        name: other_favorite_flavors
-        label: Other Favorite Flavors
-        hint: List any other flavors you enjoy
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: preferred_toppings
-        label: Preferred Toppings
-        hint: Select your favorite toppings
-        type: select_multiple
-        options:
-          - Fresh fruit
-          - Fruit compote
-          - Chocolate sauce
-          - Caramel sauce
-          - Whipped cream
-          - Nuts
-          - Cookie crumbles
-          - No toppings
-        required: true
-      - id: 10
-        name: crust_preference
-        label: Crust Preference
-        hint: What type of crust do you prefer
-        type: select_one
-        options:
-          - Graham cracker
-          - Chocolate cookie
-          - Shortbread
-          - Oreo
-          - No crust
-          - No preference
-        required: true
-      - id: 11
-        name: texture_preference
-        label: Texture Preference
-        hint: How do you like your cheesecake
-        type: select_one
-        options:
-          - Dense and creamy
-          - Light and fluffy
-          - No preference
-        required: true
-      - id: 12
-        name: sweetness_level
-        label: Sweetness Level
-        hint: How sweet do you like it
-        type: select_one
-        options:
-          - Not very sweet
-          - Moderately sweet
-          - Very sweet
-          - No preference
-        required: true
-      - id: 13
-        name: preferred_size
-        label: Preferred Serving Size
-        hint: What size do you typically order
-        type: select_one
-        options:
-          - Mini cupcake size
-          - Slice
-          - Quarter cake
-          - Half cake
-          - Whole cake
-        required: true
-      - id: 14
-        name: purchase_location
-        label: Where Do You Usually Buy
-        hint: Where do you typically purchase cheesecake
-        type: select_multiple
-        options:
-          - Bakery
-          - Restaurant
-          - Grocery store
-          - Online
-          - Homemade
-          - Coffee shop
-        required: true
-      - id: 15
-        name: price_range
-        label: Price Range
-        hint: How much do you typically spend
-        type: select_one
-        options:
-          - Under $5 per slice
-          - $5-$10 per slice
-          - $10-$15 per slice
-          - $15+ per slice
-          - No preference
-        required: true
-      - id: 16
-        name: dietary_restrictions
-        label: Dietary Restrictions
-        hint: Do you have any dietary restrictions
-        type: select_multiple
-        options:
-          - None
-          - Vegetarian
-          - Vegan
-          - Gluten-free
-          - Dairy-free
-          - Sugar-free
-          - Low calorie
-          - Nut allergy
-        required: true
-      - id: 17
-        name: willing_to_pay_premium
-        label: Willing to Pay Premium
-        hint: Would you pay more for premium ingredients
-        type: select_one
-        options:
-          - Definitely yes
-          - Probably yes
-          - Not sure
-          - Probably no
-          - Definitely no
-        required: true
-      - id: 18
-        name: organic_preference
-        label: Organic Preference
-        hint: Do you prefer organic ingredients
-        type: select_one
-        options:
-          - Yes, always
-          - Yes, if available
-          - No preference
-          - No
-        required: true
-      - id: 19
-        name: occasion_for_purchase
-        label: Occasion for Purchase
-        hint: When do you typically buy cheesecake
-        type: select_multiple
-        options:
-          - Birthday
-          - Anniversary
-          - Holiday
-          - Dinner party
-          - Self indulgence
-          - Gift for someone
-          - No particular occasion
-        required: true
-      - id: 20
-        name: brand_loyalty
-        label: Brand Loyalty
-        hint: Do you have a favorite brand
-        type: select_one
-        options:
-          - Yes, very loyal
-          - Somewhat loyal
-          - Try different brands
-          - No preference
-        required: true
-      - id: 21
-        name: favorite_brand
-        label: Favorite Brand
-        hint: Name of your favorite brand if applicable
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: new_flavors_interest
-        label: Interest in New Flavors
-        hint: Would you try new or exotic flavors
-        type: select_one
-        options:
-          - Definitely yes
-          - Probably yes
-          - Not sure
-          - Probably no
-          - Definitely no
-        required: true
-      - id: 23
-        name: flavor_suggestions
-        label: Flavor Suggestions
-        hint: Any flavors you would like to see
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: overall_satisfaction
-        label: Overall Satisfaction with Cheesecakes
-        hint: How satisfied are you with available options
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional - Your full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Optional - For follow-up surveys
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Which age group do you belong to
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Your gender identification
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: City or region where you live
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cheesecake_frequency
+      label: How Often Do You Eat Cheesecake
+      hint: Frequency of cheesecake consumption
+      type: select_one
+      options:
+      - Never
+      - Rarely (once a year)
+      - Occasionally (2-5 times a year)
+      - Sometimes (6-11 times a year)
+      - Often (once a month)
+      - Very often (weekly)
+      required: true
+    - id: 7
+      name: favorite_flavor
+      label: Favorite Cheesecake Flavor
+      hint: What is your favorite flavor
+      type: select_one
+      options:
+      - New York Style (plain)
+      - Strawberry
+      - Blueberry
+      - Chocolate
+      - Caramel
+      - Lemon
+      - Raspberry
+      - Oreo
+      - Tiramisu
+      - Pumpkin
+      - Other
+      required: true
+    - id: 8
+      name: other_favorite_flavors
+      label: Other Favorite Flavors
+      hint: List any other flavors you enjoy
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_toppings
+      label: Preferred Toppings
+      hint: Select your favorite toppings
+      type: select_multiple
+      options:
+      - Fresh fruit
+      - Fruit compote
+      - Chocolate sauce
+      - Caramel sauce
+      - Whipped cream
+      - Nuts
+      - Cookie crumbles
+      - No toppings
+      required: true
+    - id: 10
+      name: crust_preference
+      label: Crust Preference
+      hint: What type of crust do you prefer
+      type: select_one
+      options:
+      - Graham cracker
+      - Chocolate cookie
+      - Shortbread
+      - Oreo
+      - No crust
+      - No preference
+      required: true
+    - id: 11
+      name: texture_preference
+      label: Texture Preference
+      hint: How do you like your cheesecake
+      type: select_one
+      options:
+      - Dense and creamy
+      - Light and fluffy
+      - No preference
+      required: true
+    - id: 12
+      name: sweetness_level
+      label: Sweetness Level
+      hint: How sweet do you like it
+      type: select_one
+      options:
+      - Not very sweet
+      - Moderately sweet
+      - Very sweet
+      - No preference
+      required: true
+    - id: 13
+      name: preferred_size
+      label: Preferred Serving Size
+      hint: What size do you typically order
+      type: select_one
+      options:
+      - Mini cupcake size
+      - Slice
+      - Quarter cake
+      - Half cake
+      - Whole cake
+      required: true
+    - id: 14
+      name: purchase_location
+      label: Where Do You Usually Buy
+      hint: Where do you typically purchase cheesecake
+      type: select_multiple
+      options:
+      - Bakery
+      - Restaurant
+      - Grocery store
+      - Online
+      - Homemade
+      - Coffee shop
+      required: true
+    - id: 15
+      name: price_range
+      label: Price Range
+      hint: How much do you typically spend
+      type: select_one
+      options:
+      - Under $5 per slice
+      - $5-$10 per slice
+      - $10-$15 per slice
+      - $15+ per slice
+      - No preference
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Sugar-free
+      - Low calorie
+      - Nut allergy
+      required: true
+    - id: 17
+      name: willing_to_pay_premium
+      label: Willing to Pay Premium
+      hint: Would you pay more for premium ingredients
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 18
+      name: organic_preference
+      label: Organic Preference
+      hint: Do you prefer organic ingredients
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, if available
+      - No preference
+      - 'False'
+      required: true
+    - id: 19
+      name: occasion_for_purchase
+      label: Occasion for Purchase
+      hint: When do you typically buy cheesecake
+      type: select_multiple
+      options:
+      - Birthday
+      - Anniversary
+      - Holiday
+      - Dinner party
+      - Self indulgence
+      - Gift for someone
+      - No particular occasion
+      required: true
+    - id: 20
+      name: brand_loyalty
+      label: Brand Loyalty
+      hint: Do you have a favorite brand
+      type: select_one
+      options:
+      - Yes, very loyal
+      - Somewhat loyal
+      - Try different brands
+      - No preference
+      required: true
+    - id: 21
+      name: favorite_brand
+      label: Favorite Brand
+      hint: Name of your favorite brand if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: new_flavors_interest
+      label: Interest in New Flavors
+      hint: Would you try new or exotic flavors
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 23
+      name: flavor_suggestions
+      label: Flavor Suggestions
+      hint: Any flavors you would like to see
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_satisfaction
+      label: Overall Satisfaction with Cheesecakes
+      hint: How satisfied are you with available options
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true

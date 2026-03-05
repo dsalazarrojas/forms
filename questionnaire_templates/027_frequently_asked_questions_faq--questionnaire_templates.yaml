@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General'', ''value'': ''general''}'
-      - '{''id'': 2, ''label'': ''Technical'', ''value'': ''technical''}'
-      - '{''id'': 3, ''label'': ''Account'', ''value'': ''account''}'
+      - General
+      - Technical
+      - Account
       required: false
     - id: 6
       name: question
@@ -65,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''tag1''}'
-      - '{''id'': 2, ''label'': ''tag2''}'
-      - '{''id'': 3, ''label'': ''tag3''}'
+      - tag1
+      - tag2
+      - tag3
       required: false
     - id: 8
       name: answer
@@ -82,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''tag1''}'
-      - '{''id'': 2, ''label'': ''tag2''}'
-      - '{''id'': 3, ''label'': ''tag3''}'
+      - tag1
+      - tag2
+      - tag3
       required: false
     - id: 10
       name: submit

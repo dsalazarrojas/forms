@@ -4,193 +4,141 @@ inputSchema:
     title: Laboratory Management Trends Quiz
     pages:
     - id: 1
-      name: laboratory_management_roles
-      label: laboratory_management_roles
-      hint: null
+      name: current_laboratory_roles
+      label: Current Laboratory Roles
+      hint: Describe the current state of laboratory roles in your hospital
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Clinical Laboratory
+      - Research Laboratory
+      - Testing and Validation Laboratory
+      - Other (Please Specify)
       required: false
     - id: 2
       name: key_trends
-      label: key_trends
-      hint: null
+      label: Key Trends in Laboratory Management
+      hint: Describe the key trends in your laboratory management
       type: text
       options: []
       required: false
     - id: 3
       name: challenges
-      label: challenges
-      hint: null
+      label: Challenges in Laboratory Management
+      hint: Describe the current challenges in your laboratory management
       type: text
       options: []
       required: false
     - id: 4
       name: technology_adoption
-      label: technology_adoption
-      hint: null
+      label: Hospital Technology Adoption
+      hint: Rate your hospital's technology adoption in the laboratory
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 5
-      name: technology_adoption_rate
-      label: technology_adoption_rate
-      hint: null
-      type: number
-      options: []
+      name: hospital_size
+      label: Hospital Size
+      hint: Describe your hospital's size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 6
-      name: laboratory_management_trends
-      label: laboratory_management_trends
-      hint: null
+      name: hospital_type
+      label: Hospital Type
+      hint: Describe the type of hospital you work in
+      type: select_one
+      options:
+      - Academic
+      - Teaching
+      - Research
+      - Community
+      required: false
+    - id: 7
+      name: hospital_tier
+      label: Hospital Tier
+      hint: Describe the hospital's tier
+      type: select_one
+      options:
+      - Tier 1
+      - Tier 2
+      - Tier 3
+      required: false
+    - id: 8
+      name: hospital_department
+      label: Hospital Department
+      hint: Describe the department you work in
+      type: select_multiple
+      options:
+      - Clinical Laboratory
+      - Research Laboratory
+      - Testing and Validation Laboratory
+      - Other (Please Specify)
+      required: false
+    - id: 9
+      name: technology_adoption_description
+      label: Technology Adoption Description
+      hint: Describe your hospital's technology adoption in the laboratory
       type: text
       options: []
       required: false
-    - id: 7
-      name: roles
-      label: roles
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: hospital
-      label: hospital
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: hospital_size
-      label: hospital_size
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 10
-      name: hospital_type
-      label: hospital_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: challenges_description
+      label: Challenges Description
+      hint: Describe the current challenges in your laboratory management
+      type: text
+      options: []
       required: false
     - id: 11
-      name: hospital_tier
-      label: hospital_tier
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: laboratory_management_trends
+      label: Laboratory Management Trends
+      hint: Describe the current trends in your laboratory management
+      type: text
+      options: []
       required: false
     - id: 12
-      name: hospital_department
-      label: hospital_department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: hospital_name
+      label: Hospital Name
+      hint: Please specify your hospital's name
+      type: text
+      options: []
       required: false
     - id: 13
       name: roles_description
-      label: roles_description
-      hint: null
+      label: Roles Description
+      hint: Describe the current state of laboratory roles
       type: text
       options: []
       required: false
     - id: 14
-      name: technology_adoption_description
-      label: technology_adoption_description
-      hint: null
+      name: key_trends_description
+      label: Key Trends Description
+      hint: Describe the current key trends in laboratory management
       type: text
       options: []
       required: false
     - id: 15
-      name: challenges_description
-      label: challenges_description
-      hint: null
+      name: hospital_size_description
+      label: Hospital Size Description
+      hint: Describe the size of your hospital
       type: text
       options: []
       required: false
     - id: 16
-      name: laboratory_management_trends_description
-      label: laboratory_management_trends_description
-      hint: null
+      name: hospital_type_description
+      label: Hospital Type Description
+      hint: Describe the type of hospital you work in
       type: text
       options: []
       required: false
     - id: 17
-      name: hospital
-      label: hospital
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: hospital_size
-      label: hospital_size
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: hospital_type
-      label: hospital_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: hospital_tier
-      label: hospital_tier
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: laboratory_management_roles
-      label: laboratory_management_roles
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: key_trends
-      label: key_trends
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: roles
-      label: roles
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: laboratory_management_trends
-      label: laboratory_management_trends
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: hospital
-      label: hospital
-      hint: null
+      name: hospital_tier_description
+      label: Hospital Tier Description
+      hint: Describe the hospital's tier
       type: text
       options: []
       required: false

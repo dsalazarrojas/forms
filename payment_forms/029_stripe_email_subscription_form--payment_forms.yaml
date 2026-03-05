@@ -15,177 +15,86 @@ inputSchema:
     title: stripe_email_subscription_form
     pages:
     - id: 1
-      name: email
-      label: Email
-      hint: null
+      name: user_email
+      label: User Email
+      hint: Please enter your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: Name
-      hint: null
-      type: text
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm your email address
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
+      name: user_name
+      label: User Name
+      hint: Please enter your name
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: name
-      label: Name
-      hint: null
+      name: confirm_name
+      label: Confirm Name
+      hint: Please confirm your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: email
-      label: Email
-      hint: null
+      name: email_reconfirm
+      label: Reconfirm Email
+      hint: Please reconfirm your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: confirm_email
-      label: Confirm Email
-      hint: null
+      name: confirm_email_reconfirm
+      label: Confirm Reconfirm Email
+      hint: Please confirm reconfirmation
       type: email
       options: []
-      required: false
+      required: true
     - id: 7
-      name: confirm_email
-      label: Confirm Email
-      hint: null
+      name: confirm_email_reconfirm_2
+      label: Confirm Email Reconfirm 2
+      hint: Please confirm reconfirmation
       type: email
       options: []
-      required: false
+      required: true
     - id: 8
-      name: email
-      label: Email
-      hint: null
+      name: reconfirm_email
+      label: Reconfirm Email (2)
+      hint: Please reconfirm your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 9
-      name: name
-      label: Name
-      hint: null
-      type: text
+      name: confirm_reconfirm_email
+      label: Confirm Reconfirm Email (3)
+      hint: Please confirm reconfirmation
+      type: email
       options: []
-      required: false
+      required: true
     - id: 10
-      name: confirm_email
-      label: Confirm Email
-      hint: null
+      name: confirm_reconfirm_email_2
+      label: Confirm Reconfirmation Email
+      hint: Please confirm reconfirmation
       type: email
       options: []
-      required: false
+      required: true
     - id: 11
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: reconfirm
+      label: Reconfirm
+      hint: Please reconfirm your email address
+      type: note
       options: []
-      required: false
+      required: true
     - id: 12
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: confirm
-      label: Confirm
-      hint: Double-check your email address
+      name: confirm_reconfirm
+      label: Confirm Reconfirm
+      hint: Please confirm reconfirmation
       type: note
       options: []
-      required: false
-    - id: 16
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: confirm
-      label: Confirm
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: confirm
-      label: Confirm
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: confirm
-      label: Confirm
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: confirm_email
-      label: Confirm Email
-      hint: null
-      type: email
-      options: []
-      required: false
+      required: true

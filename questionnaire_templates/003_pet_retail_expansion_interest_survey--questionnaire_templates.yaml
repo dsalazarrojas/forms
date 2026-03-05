@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''North''}'
-      - '{''value'': ''South''}'
-      - '{''value'': ''East''}'
-      - '{''value'': ''West''}'
+      - North
+      - South
+      - East
+      - West
       required: false
     - id: 3
       name: pet_type
@@ -29,11 +29,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Cat''}'
-      - '{''value'': ''Dog''}'
-      - '{''value'': ''Bird''}'
-      - '{''value'': ''Fish''}'
-      - '{''value'': ''Other''}'
+      - Cat
+      - Dog
+      - Bird
+      - Fish
+      - Other
       required: false
     - id: 4
       name: region_list
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 7
       name: expansion_regions
@@ -97,7 +97,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 12

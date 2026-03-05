@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''A4''}'
-      - '{''label'': ''Letter''}'
-      - '{''label'': ''Legal''}'
-      - '{''label'': ''Ledger''}'
-      - '{''label'': ''Other''}'
+      - A4
+      - Letter
+      - Legal
+      - Ledger
+      - Other
       required: false
     - id: 8
       name: quantity
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Black''}'
-      - '{''label'': ''White''}'
-      - '{''label'': ''Color''}'
-      - '{''label'': ''Other''}'
+      - Black
+      - White
+      - Color
+      - Other
       required: false
     - id: 10
       name: size
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Portrait''}'
-      - '{''label'': ''Landscape''}'
-      - '{''label'': ''Other''}'
+      - Portrait
+      - Landscape
+      - Other
       required: false
     - id: 12
       name: finish
@@ -98,10 +98,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Gloss''}'
-      - '{''label'': ''Matte''}'
-      - '{''label'': ''Matt''}'
-      - '{''label'': ''Other''}'
+      - Gloss
+      - Matte
+      - Matt
+      - Other
       required: false
     - id: 13
       name: paper_supply_quote
@@ -130,6 +130,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true

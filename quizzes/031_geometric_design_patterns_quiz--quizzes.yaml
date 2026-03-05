@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: submit_question
@@ -140,15 +140,15 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: time_spent
-      label: Time Spent
+      name: time_spent_2
+      label: Time Spent 2
       hint: null
       type: time
       options: []
       required: false
     - id: 21
-      name: date_submitted
-      label: Date Submitted
+      name: date_submitted_2
+      label: Date Submitted 2
       hint: null
       type: date
       options: []
@@ -168,8 +168,8 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: class_name
-      label: Class Name
+      name: class_name_2
+      label: Class Name 2
       hint: null
       type: text
       options: []

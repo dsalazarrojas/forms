@@ -5,143 +5,152 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: What is Squamous Cell Carcinoma?
+      hint: Please provide a brief description of Squamous Cell Carcinoma.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question_1
+      label: What are the risk factors for Squamous Cell Carcinoma?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Family History
+      - Smoking
+      - Previous History with Cancer
+      required: true
+    - id: 3
+      name: question_1_answer
+      label: What is the primary site of Squamous Cell Carcinoma?
+      hint: Please provide a brief description.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_2
+      label: What are the most common symptoms of Squamous Cell Carcinoma?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Hoarseness
+      - Cough
+      - Weight Loss
+      required: true
+    - id: 5
+      name: question_2_answer
+      label: What are the treatment options for Squamous Cell Carcinoma?
+      hint: Please provide a brief description.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_3
+      label: What is the prognosis for Squamous Cell Carcinoma?
+      hint: Select one option.
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: question_4
+      label: What are the common complications of Squamous Cell Carcinoma?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Respiratory Failure
+      - Neurological Damage
+      - Cardiovascular Issues
+      required: true
+    - id: 8
+      name: question_5
+      label: Conclusion
+      hint: Please provide a brief conclusion.
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: question_6
+      label: Additional comments?
+      hint: Any additional comments or concerns about Squamous Cell Carcinoma?
       type: note
       options: []
       required: false
-    - id: 2
-      name: question_1
-      label: what_is_squamous_cell_carcinoma
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: question_1_answer
-      label: what_is_squamous_cell_carcinoma
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: question_2
-      label: what_are_the_risk_factors
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: question_2_answer
-      label: what_are_the_risk_factors
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: question_3
-      label: what_is_the_primary_site_of_squamous_cell_carcinoma
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: question_3_answer
-      label: what_is_the_primary_site_of_squamous_cell_carcinoma
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: question_4
-      label: what_is_the_most_common_symptom
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: question_4_answer
-      label: what_is_the_most_common_symptom
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 10
-      name: question_5
-      label: what_are_the_treatment_options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: question_7
+      label: References
+      hint: Any relevant references or studies related to Squamous Cell Carcinoma?
+      type: text
+      options: []
       required: false
     - id: 11
-      name: question_5_answer
-      label: what_are_the_treatment_options
-      hint: null
+      name: question_8
+      label: Additional Resources
+      hint: Any recommended resources or links related to Squamous Cell Carcinoma?
       type: text
       options: []
       required: false
     - id: 12
-      name: question_6
-      label: what_are_the_risk_factors_for_squamous_cell_carcinoma
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: question_9
+      label: Additional Information
+      hint: Is there anything else you would like to share about Squamous Cell Carcinoma?
+      type: text
+      options: []
       required: false
     - id: 13
-      name: question_6_answer
-      label: what_are_the_risk_factors_for_squamous_cell_carcinoma
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: question_10
+      label: Confirmation
+      hint: Please confirm that you have read and understood the information provided.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 14
-      name: question_7
-      label: what_is_the_prognosis
-      hint: null
-      type: select_multiple
+      name: question_11
+      label: Agreement
+      hint: Please provide your agreement to the information provided.
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - I agree
+      - I do not agree
+      required: true
     - id: 15
-      name: question_7_answer
-      label: what_is_the_prognosis
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: question_12
+      label: Certification
+      hint: Please provide your certification of understanding.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 16
-      name: question_8
-      label: what_are_the_common_complications
-      hint: null
-      type: select_multiple
+      name: question_13
+      label: Disclaimer
+      hint: Please provide your disclaimer of understanding.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 17
+      name: question_14
+      label: Acknowledgement
+      hint: Please provide your acknowledgement of understanding.
+      type: checkbox
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 17
-      name: question_8_answer
-      label: what_are_the_common_complications
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 18
-      name: conclusion
-      label: conclusion
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: question_15
+      label: Acknowledgement of Understanding
+      hint: Please confirm that you have read, understood, and agreed to all the information
+        provided.
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

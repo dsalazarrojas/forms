@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Chest x ray''}'
-      - '{''id'': 2, ''label'': ''Abdomen x ray''}'
+      - Chest x ray
+      - Abdomen x ray
       required: false
     - id: 2
       name: mri_order
@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Knee''}'
-      - '{''id'': 2, ''label'': ''Shoulder''}'
-      - '{''id'': 3, ''label'': ''Spine''}'
+      - Knee
+      - Shoulder
+      - Spine
       required: true
     - id: 3
       name: patient_info
@@ -70,7 +70,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dr Smith''}'
-      - '{''id'': 2, ''label'': ''Dr Jones''}'
-      - '{''id'': 3, ''label'': ''Dr Doe''}'
+      - Dr Smith
+      - Dr Jones
+      - Dr Doe
       required: true

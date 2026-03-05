@@ -85,33 +85,31 @@ inputSchema:
       - 'No'
       required: false
     - id: 12
-      name: date
+      name: date_2
       label: Date of completion
       hint: null
       type: date
       options: []
       required: false
     - id: 13
-      name: time
+      name: time_2
       label: Time of completion
       hint: null
       type: time
       options: []
       required: false
     - id: 14
-      name: select_one
+      name: select_one_2
       label: How many stars do you give this design?
       hint: null
       type: select_one
       options:
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
-      name: select_multiple
+      name: select_multiple_2
       label: What features do you like most?
       hint: null
       type: select_multiple
@@ -120,7 +118,7 @@ inputSchema:
       - 'No'
       required: false
     - id: 16
-      name: select_one
+      name: select_one_3
       label: What is your favorite color?
       hint: null
       type: select_one
@@ -129,7 +127,7 @@ inputSchema:
       - 'No'
       required: false
     - id: 17
-      name: select_one
+      name: select_one_4
       label: How would you rate our service?
       hint: null
       type: select_one
@@ -139,35 +137,35 @@ inputSchema:
       - Bad
       required: false
     - id: 18
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 19
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: date
-      label: Date
+      name: date_3
+      label: Date 3
       hint: null
       type: date
       options: []
       required: false
     - id: 21
-      name: time
-      label: Time
+      name: time_3
+      label: Time 3
       hint: null
       type: time
       options: []
       required: false
     - id: 22
-      name: select_multiple
+      name: select_multiple_3
       label: How will you use the lighting design?
       hint: null
       type: select_multiple
@@ -177,28 +175,24 @@ inputSchema:
       - For industrial
       required: false
     - id: 23
-      name: select_one
-      label: How would you rate our service?
+      name: select_one_5
+      label: Select One 5
       hint: null
       type: select_one
       options:
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
-      name: select_one
+      name: select_one_6
       label: How many stars do you give our service?
       hint: null
       type: select_one
       options:
-      - '5'
-      - '4'
-      - '3'
-      - '2'
-      - '1'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 25
       name: submit

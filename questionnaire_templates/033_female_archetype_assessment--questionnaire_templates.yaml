@@ -15,177 +15,229 @@ inputSchema:
     title: Female Archetype Assessment
     pages:
     - id: 1
-      name: female_archetype_assessment_form_1
-      label: Female Archetype Assessment Form
+      name: female_archetype_1
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: female_archetype_2
+      label: Do you agree
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 3
+      name: female_archetype_3
+      label: What is your relationship status?
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Engaged
+      - Widowed
+      - Divorced
+      required: true
+    - id: 4
+      name: female_archetype_4
+      label: What is your highest level of education completed?
+      hint: null
+      type: select_multiple
+      options:
+      - High school or equivalent
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      - Other
+      required: true
+    - id: 5
+      name: female_archetype_5
+      label: How often do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 3-4 times a week
+      - 1-2 times a week
+      - Rarely
+      required: true
+    - id: 6
+      name: female_archetype_6
+      label: How do you rate your overall health?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: female_archetype_7
+      label: How do you rate your mental health?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: female_archetype_8
+      label: What is your current job title or position?
       hint: null
       type: text
       options: []
       required: true
-    - id: 2
-      name: female_archetype_assessment_form_2
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: female_archetype_assessment_form_3
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: female_archetype_assessment_form_4
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: female_archetype_assessment_form_5
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: female_archetype_assessment_form_6
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: female_archetype_assessment_form_7
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: female_archetype_assessment_form_8
-      label: Female Archetype Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 9
-      name: female_archetype_assessment_form_9
-      label: Female Archetype Assessment Form
+      name: female_archetype_9
+      label: What is your annual income range?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 10
-      name: female_archetype_assessment_form_10
-      label: Female Archetype Assessment Form
+      name: female_archetype_10
+      label: What is your current residence?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: female_archetype_assessment_form_11
-      label: Female Archetype Assessment Form
+      name: female_archetype_11
+      label: Do you live with any family members?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 12
-      name: female_archetype_assessment_form_12
-      label: Female Archetype Assessment Form
+      name: female_archetype_12
+      label: How many people live in your household?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 13
-      name: female_archetype_assessment_form_13
-      label: Female Archetype Assessment Form
+      name: female_archetype_13
+      label: What is your occupation?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: female_archetype_assessment_form_14
-      label: Female Archetype Assessment Form
+      name: female_archetype_14
+      label: How many dependents do you have?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 15
-      name: female_archetype_assessment_form_15
-      label: Female Archetype Assessment Form
+      name: female_archetype_15
+      label: Do you have any chronic medical conditions?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 16
-      name: female_archetype_assessment_form_16
-      label: Female Archetype Assessment Form
+      name: female_archetype_16
+      label: Do you have any disabilities or impairments?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 17
-      name: female_archetype_assessment_form_17
-      label: Female Archetype Assessment Form
+      name: female_archetype_17
+      label: Do you have any allergies or sensitivities?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 18
-      name: female_archetype_assessment_form_18
-      label: Female Archetype Assessment Form
+      name: female_archetype_18
+      label: Do you have any chronic pain or discomfort?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 19
-      name: female_archetype_assessment_form_19
-      label: Female Archetype Assessment Form
+      name: female_archetype_19
+      label: Do you have any medical insurance?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 20
-      name: female_archetype_assessment_form_20
-      label: Female Archetype Assessment Form
+      name: female_archetype_20
+      label: Do you have any mental health issues?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 21
-      name: female_archetype_assessment_form_21
-      label: Female Archetype Assessment Form
+      name: female_archetype_21
+      label: How much stress do you experience in your daily life?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A lot
+      - Extreme
+      required: true
     - id: 22
-      name: female_archetype_assessment_form_22
-      label: Female Archetype Assessment Form
+      name: female_archetype_22
+      label: Do you have any financial difficulties?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 23
-      name: female_archetype_assessment_form_23
-      label: Female Archetype Assessment Form
+      name: female_archetype_23
+      label: Do you have any substance abuse issues?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 24
-      name: female_archetype_assessment_form_24
-      label: Female Archetype Assessment Form
+      name: female_archetype_24
+      label: Do you have any housing difficulties?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 25
-      name: female_archetype_assessment_form_25
-      label: Female Archetype Assessment Form
+      name: female_archetype_25
+      label: Do you have any other health issues?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

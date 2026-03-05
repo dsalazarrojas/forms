@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Non-Binary''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Trans Female''}'
-      - '{''label'': ''Trans Male''}'
+      - Male
+      - Non-Binary
+      - Other
+      - Trans Female
+      - Trans Male
       required: false
     - id: 4
       name: gender_identity_transition
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''unsure''}'
-      - '{''label'': ''not_applicable''}'
+      - 'True'
+      - 'False'
+      - unsure
+      - not applicable
       required: false
     - id: 6
       name: gender_identity_plan_other
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Counseling/Therapy''}'
-      - '{''label'': ''Medical''}'
-      - '{''label'': ''Support Groups''}'
-      - '{''label'': ''Online''}'
+      - Counseling/Therapy
+      - Medical
+      - Support Groups
+      - Online
       required: false
     - id: 10
       name: gender_identity_support_services_other
@@ -92,11 +92,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
       required: false
     - id: 12
       name: gender_identity_support_services_frequency_other
@@ -111,11 +111,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Unsatisfactory''}'
-      - '{''label'': ''Unsatisfactory''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Satisfactory''}'
-      - '{''label'': ''Very Satisfactory''}'
+      - Very Unsatisfactory
+      - Unsatisfactory
+      - Neutral
+      - Satisfactory
+      - Very Satisfactory
       required: false
     - id: 14
       name: gender_identity_support_services_satisfaction_other
@@ -165,9 +165,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Not Applicable''}'
-      - '{''label'': ''Unsatisfactory''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Satisfactory''}'
-      - '{''label'': ''Very Satisfactory''}'
+      - Not Applicable
+      - Unsatisfactory
+      - Neutral
+      - Satisfactory
+      - Very Satisfactory
       required: false

@@ -1,90 +1,79 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cervical Collar Removal Form
     pages:
-      - id: 1
-        name: section_header
-        label: -- Cervical Collar Removal Consent --
-        hint: Obtain patient consent and clinical details before removal
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: patient_name
-        label: patient name
-        hint: full legal name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: patient_id
-        label: patient id
-        hint: hospital or record identifier
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: attending_physician
-        label: attending physician
-        hint: clinician approving removal
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: removal_date
-        label: removal date
-        hint: scheduled date of collar removal
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: clinical_reason
-        label: clinical reason for removal
-        hint: brief description of clinical justification
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: risks_explained
-        label: risks explained
-        hint: confirm discussion of risks and benefits
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: patient_consent
-        label: patient consent
-        hint: patient agrees to removal procedure
-        type: select_one
-        options:
-          - Consent given
-          - Consent withheld
-        required: true
-      - id: 9
-        name: post_removal_instructions
-        label: post removal instructions
-        hint: care and follow up guidance for patient
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: clinician_signature
-        label: clinician signature name
-        hint: typed name as clinician confirmation
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_header
+      label: -- Cervical Collar Removal Consent --
+      hint: Obtain patient consent and clinical details before removal
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: patient id
+      hint: hospital or record identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attending_physician
+      label: attending physician
+      hint: clinician approving removal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: removal_date
+      label: removal date
+      hint: scheduled date of collar removal
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: clinical_reason
+      label: clinical reason for removal
+      hint: brief description of clinical justification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: risks_explained
+      label: risks explained
+      hint: confirm discussion of risks and benefits
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: patient_consent
+      label: patient consent
+      hint: patient agrees to removal procedure
+      type: select_one
+      options:
+      - Consent given
+      - Consent withheld
+      required: true
+    - id: 9
+      name: post_removal_instructions
+      label: post removal instructions
+      hint: care and follow up guidance for patient
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: clinician_signature
+      label: clinician signature name
+      hint: typed name as clinician confirmation
+      type: text
+      options: []
+      required: true

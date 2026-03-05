@@ -1,235 +1,224 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Church Visitor Survey
     pages:
-      - id: 1
-        name: visitor_name
-        label: Your Name
-        hint: Optional - can remain anonymous
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email
-        label: Email Address
-        hint: For follow-up
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: visit_date
-        label: Date of Visit
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: service_type
-        label: Which Service Did You Attend
-        hint: null
-        type: select_one
-        options:
-          - Sunday Morning Traditional
-          - Sunday Morning Contemporary
-          - Sunday Evening
-          - Wednesday Evening
-          - Special Service
-        required: true
-      - id: 5
-        name: first_visit
-        label: Is This Your First Visit
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: visit_frequency
-        label: How Often Have You Visited
-        hint: If not first visit
-        type: select_one
-        options:
-          - Second time
-          - Few times
-          - Regularly attending
-        required: false
-      - id: 7
-        name: how_heard
-        label: How Did You Hear About Our Church
-        hint: null
-        type: select_one
-        options:
-          - Friend or family
-          - Website
-          - Social media
-          - Online search
-          - Church sign
-          - Drive by
-          - Community event
-          - Other
-        required: true
-      - id: 8
-        name: distance_traveled
-        label: How Far Did You Travel
-        hint: null
-        type: select_one
-        options:
-          - Under 5 miles
-          - 5-10 miles
-          - 11-20 miles
-          - 21-30 miles
-          - Over 30 miles
-        required: true
-      - id: 9
-        name: welcome_rating
-        label: How Well Were You Welcomed
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 10
-        name: service_rating
-        label: How Would You Rate the Service
-        hint: Overall quality
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 11
-        name: sermon_rating
-        label: How Would You Rate the Sermon
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 12
-        name: music_rating
-        label: How Would You Rate the Music
-        hint: Worship, choir, etc.
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 13
-        name: facility_rating
-        label: How Would You Rate Our Facilities
-        hint: Cleanliness, comfort
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 14
-        name: children_experience
-        label: How Was Your Children's Church Experience
-        hint: If applicable
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-          - Not applicable
-        required: false
-      - id: 15
-        name: likely_return
-        label: How Likely Are You to Return
-        hint: null
-        type: select_one
-        options:
-          - Very likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Very unlikely
-        required: true
-      - id: 16
-        name: recommend_church
-        label: Would You Recommend Our Church
-        hint: To friends or family
-        type: select_one
-        options:
-          - Definitely yes
-          - Probably yes
-          - Maybe
-          - Probably not
-          - Definitely not
-        required: true
-      - id: 17
-        name: best_part
-        label: What Did You Like Best
-        hint: Share your highlights
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: improvement_areas
-        label: What Could We Improve
-        hint: Your suggestions
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: interested_in
-        label: What Are You Interested In
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Membership information
-          - Bible study
-          - Small groups
-          - Volunteer opportunities
-          - Youth programs
-          - Children's programs
-          - Prayer ministry
-          - Nothing specific
-        required: false
-      - id: 20
-        name: prayer_request
-        label: Do You Have a Prayer Request
-        hint: Share if comfortable
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: additional_comments
-        label: Any Additional Comments
-        hint: Anything else to share
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: visitor_name
+      label: Your Name
+      hint: Optional - can remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Which Service Did You Attend
+      hint: null
+      type: select_one
+      options:
+      - Sunday Morning Traditional
+      - Sunday Morning Contemporary
+      - Sunday Evening
+      - Wednesday Evening
+      - Special Service
+      required: true
+    - id: 5
+      name: first_visit
+      label: Is This Your First Visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: visit_frequency
+      label: How Often Have You Visited
+      hint: If not first visit
+      type: select_one
+      options:
+      - Second time
+      - Few times
+      - Regularly attending
+      required: false
+    - id: 7
+      name: how_heard
+      label: How Did You Hear About Our Church
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - Website
+      - Social media
+      - Online search
+      - Church sign
+      - Drive by
+      - Community event
+      - Other
+      required: true
+    - id: 8
+      name: distance_traveled
+      label: How Far Did You Travel
+      hint: null
+      type: select_one
+      options:
+      - Under 5 miles
+      - 5-10 miles
+      - 11-20 miles
+      - 21-30 miles
+      - Over 30 miles
+      required: true
+    - id: 9
+      name: welcome_rating
+      label: How Well Were You Welcomed
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: service_rating
+      label: How Would You Rate the Service
+      hint: Overall quality
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: sermon_rating
+      label: How Would You Rate the Sermon
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: music_rating
+      label: How Would You Rate the Music
+      hint: Worship, choir, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: facility_rating
+      label: How Would You Rate Our Facilities
+      hint: Cleanliness, comfort
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: children_experience
+      label: How Was Your Children's Church Experience
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: false
+    - id: 15
+      name: likely_return
+      label: How Likely Are You to Return
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 16
+      name: recommend_church
+      label: Would You Recommend Our Church
+      hint: To friends or family
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 17
+      name: best_part
+      label: What Did You Like Best
+      hint: Share your highlights
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: improvement_areas
+      label: What Could We Improve
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: interested_in
+      label: What Are You Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Membership information
+      - Bible study
+      - Small groups
+      - Volunteer opportunities
+      - Youth programs
+      - Children's programs
+      - Prayer ministry
+      - Nothing specific
+      required: false
+    - id: 20
+      name: prayer_request
+      label: Do You Have a Prayer Request
+      hint: Share if comfortable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

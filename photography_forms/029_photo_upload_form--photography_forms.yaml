@@ -5,350 +5,78 @@ inputSchema:
     pages:
     - id: 1
       name: photo_upload_form_page_1
-      label: photo_upload_form_page_1_label
-      hint: null
-      type: note
+      label: What's the purpose of the photo upload?
+      hint: Briefly describe the purpose of the photo upload
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: photo_upload_form_page_2
-      label: photo_upload_form_page_2_label
-      hint: null
-      type: number
+      label: What's the date of the photo?
+      hint: Select the date the photo was taken
+      type: date
       options: []
       required: false
     - id: 3
       name: photo_upload_form_page_3
-      label: photo_upload_form_page_3_label
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 4
-      name: photo_upload_form_page_4
-      label: photo_upload_form_page_4_label
-      hint: null
+      label: Who is the photographer?
+      hint: Select the photographer
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - Self
+      - Friend
+      - Professional
+      required: true
+    - id: 4
+      name: photo_upload_form_page_4
+      label: What type of event is the photo related to?
+      hint: Select the type of event
+      type: select_multiple
+      options:
+      - Birthday party
+      - Wedding
+      - Graduation
+      - Other
+      required: true
     - id: 5
       name: photo_upload_form_page_5
-      label: photo_upload_form_page_5_label
-      hint: null
-      type: date
+      label: What's the location where the photo was taken?
+      hint: Enter the location where the photo was taken
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: photo_upload_form_page_6
-      label: photo_upload_form_page_6_label
-      hint: null
+      label: What's the time of the event?
+      hint: Select the time of the event
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: photo_upload_form_page_7
-      label: photo_upload_form_page_7_label
-      hint: null
+      label: What's your email address?
+      hint: Enter your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 8
       name: photo_upload_form_page_8
-      label: photo_upload_form_page_8_label
-      hint: null
+      label: What's your phone number?
+      hint: Enter your phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
       name: photo_upload_form_page_9
-      label: photo_upload_form_page_9_label
+      label: Upload a photo (max 5MB)
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: photo_upload_form_page_10
-      label: photo_upload_form_page_10_label
-      hint: null
+      label: Description of the photo
+      hint: Enter a description of the photo
       type: text
       options: []
-      required: false
-    - id: 11
-      name: photo_upload_form_page_11
-      label: photo_upload_form_page_11_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: photo_upload_form_page_12
-      label: photo_upload_form_page_12_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: photo_upload_form_page_13
-      label: photo_upload_form_page_13_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: photo_upload_form_page_14
-      label: photo_upload_form_page_14_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: photo_upload_form_page_15
-      label: photo_upload_form_page_15_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: photo_upload_form_page_16
-      label: photo_upload_form_page_16_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: photo_upload_form_page_17
-      label: photo_upload_form_page_17_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: photo_upload_form_page_18
-      label: photo_upload_form_page_18_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: photo_upload_form_page_19
-      label: photo_upload_form_page_19_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: photo_upload_form_page_20
-      label: photo_upload_form_page_20_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: photo_upload_form_page_21
-      label: photo_upload_form_page_21_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: photo_upload_form_page_22
-      label: photo_upload_form_page_22_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: photo_upload_form_page_23
-      label: photo_upload_form_page_23_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: photo_upload_form_page_24
-      label: photo_upload_form_page_24_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: photo_upload_form_page_25
-      label: photo_upload_form_page_25_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: photo_upload_form_page_4
-      label: photo_upload_form_page_4_label
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 27
-      name: photo_upload_form_page_2
-      label: photo_upload_form_page_2_label
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 28
-      name: photo_upload_form_page_3
-      label: photo_upload_form_page_3_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: photo_upload_form_page_5
-      label: photo_upload_form_page_5_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: photo_upload_form_page_6
-      label: photo_upload_form_page_6_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: photo_upload_form_page_7
-      label: photo_upload_form_page_7_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: photo_upload_form_page_8
-      label: photo_upload_form_page_8_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: photo_upload_form_page_9
-      label: photo_upload_form_page_9_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: photo_upload_form_page_10
-      label: photo_upload_form_page_10_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: photo_upload_form_page_11
-      label: photo_upload_form_page_11_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: photo_upload_form_page_12
-      label: photo_upload_form_page_12_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: photo_upload_form_page_13
-      label: photo_upload_form_page_13_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: photo_upload_form_page_14
-      label: photo_upload_form_page_14_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: photo_upload_form_page_15
-      label: photo_upload_form_page_15_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: photo_upload_form_page_16
-      label: photo_upload_form_page_16_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: photo_upload_form_page_17
-      label: photo_upload_form_page_17_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: photo_upload_form_page_18
-      label: photo_upload_form_page_18_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: photo_upload_form_page_19
-      label: photo_upload_form_page_19_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: photo_upload_form_page_20
-      label: photo_upload_form_page_20_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: photo_upload_form_page_21
-      label: photo_upload_form_page_21_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: photo_upload_form_page_22
-      label: photo_upload_form_page_22_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: photo_upload_form_page_23
-      label: photo_upload_form_page_23_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: photo_upload_form_page_24
-      label: photo_upload_form_page_24_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: photo_upload_form_page_25
-      label: photo_upload_form_page_25_label
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

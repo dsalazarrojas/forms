@@ -15,58 +15,88 @@ inputSchema:
     title: Prom Photography Order Form Template
     pages:
     - id: 1
-      name: prom_photography_order_form_template
-      label: Prom Photography Order Form Template
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: photography_details
+      label: Photography Details
+      hint: Select the type of photography service you would like to book
+      type: select_one
+      options:
+      - Portrait
+      - Event
+      - Wedding
+      - Other
+      required: true
     - id: 2
-      name: prom_photography_order_form_template_2
-      label: Prom Photography Order Form Template
-      hint: null
+      name: client_info
+      label: Client Information
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: prom_photography_order_form_template_3
-      label: Prom Photography Order Form Template
-      hint: null
-      type: text
+      name: contact_info
+      label: Contact Information
+      hint: Please enter your email address
+      type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: prom_photography_order_form_template_4
-      label: Prom Photography Order Form Template
-      hint: null
+      name: photography_session
+      label: Photography Session
+      hint: Select a date and time for the photography session
       type: text
       options: []
       required: false
     - id: 5
-      name: prom_photography_order_form_template_5
-      label: Prom Photography Order Form Template
-      hint: null
+      name: location
+      label: Location
+      hint: Please enter the location for the photography session
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: prom_photography_order_form_template_6
-      label: Prom Photography Order Form Template
-      hint: null
-      type: text
+      name: session_duration
+      label: Session Duration
+      hint: Please select the number of hours for the photography session
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: prom_photography_order_form_template_7
-      label: Prom Photography Order Form Template
-      hint: null
-      type: text
-      options: []
+      name: additional_services
+      label: Additional Services
+      hint: Select any additional services you would like to book
+      type: select_multiple
+      options:
+      - Hair and Makeup
+      - Wardrobe styling
+      - Other (specify)
       required: false
     - id: 8
-      name: prom_photography_order_form_template_8
-      label: Prom Photography Order Form Template
-      hint: null
+      name: special_requests
+      label: Special Requests
+      hint: Please enter any special requests for the photography session
       type: text
       options: []
       required: false
+    - id: 9
+      name: num_guests
+      label: Number of Guests
+      hint: Please select the number of guests for the photography session
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: additional_details
+      label: Additional Details
+      hint: Please enter any additional details for the photography session
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_photos
+      label: Confirmation
+      hint: Would you like to receive a copy of your photos after the session?
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true

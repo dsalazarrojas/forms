@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''project'', ''label'': ''Project''}'
-      - '{''id'': 2, ''name'': ''maintenance'', ''label'': ''Maintenance''}'
-      - '{''id'': 3, ''name'': ''service'', ''label'': ''Service''}'
+      - Project
+      - Maintenance
+      - Service
       required: false
     - id: 3
       name: job_start_date
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Joe Smith''}'
+      - John Doe
+      - Jane Doe
+      - Joe Smith
       required: false
     - id: 10
       name: team_members_notes
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Joe Smith''}'
+      - John Doe
+      - Jane Doe
+      - Joe Smith
       required: false
     - id: 12
       name: project_manager
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''Joe Smith''}'
+      - John Doe
+      - Jane Doe
+      - Joe Smith
       required: false
     - id: 13
       name: customer_name

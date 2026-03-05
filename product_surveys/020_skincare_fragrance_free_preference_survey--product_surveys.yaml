@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Skincare''}'
-      - '{''label'': ''Fragrance''}'
-      - '{''label'': ''Haircare''}'
-      - '{''label'': ''Makeup''}'
-      - '{''label'': ''Bodycare''}'
+      - Skincare
+      - Fragrance
+      - Haircare
+      - Makeup
+      - Bodycare
       required: true
     - id: 3
       name: skin_type
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Sensitive''}'
-      - '{''label'': ''Oily''}'
-      - '{''label'': ''Dry''}'
-      - '{''label'': ''Combination''}'
+      - Normal
+      - Sensitive
+      - Oily
+      - Dry
+      - Combination
       required: true
     - id: 4
       name: fragrance_preferred
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 5
       name: skin_condition
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not sure''}'
-      - '{''label'': ''Never''}'
+      - 'True'
+      - 'False'
+      - Not sure
+      - Never
       required: true
     - id: 10
       name: fragrance_preferred
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Fragrance free''}'
-      - '{''label'': ''Fragrance''}'
+      - Fragrance free
+      - Fragrance
       required: true
     - id: 11
       name: natural_ingredients
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 12
       name: skin_sensitivities
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 13
       name: allergies
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fragrance''}'
-      - '{''label'': ''Dye''}'
-      - '{''label'': ''Sulfite''}'
+      - Fragrance
+      - Dye
+      - Sulfite
       required: false
     - id: 14
       name: age

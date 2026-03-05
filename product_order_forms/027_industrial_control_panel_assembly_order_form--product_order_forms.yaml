@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Credit Card''}'
-      - '{''name'': ''PayPal''}'
-      - '{''name'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 13
       name: customer_name
@@ -145,10 +145,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''New Order''}'
-      - '{''name'': ''In Progress''}'
-      - '{''name'': ''Completed''}'
-      - '{''name'': ''Cancelled''}'
+      - New Order
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 21
       name: payment_status
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Paid''}'
-      - '{''name'': ''Pending''}'
-      - '{''name'': ''Cancelled''}'
+      - Paid
+      - Pending
+      - Cancelled
       required: false
     - id: 22
       name: customer_info_notes

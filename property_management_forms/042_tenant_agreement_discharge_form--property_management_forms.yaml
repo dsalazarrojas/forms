@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - lease_end
-      - tenant_violation
+      - lease end
+      - tenant violation
       - other
-      - '[''tenant_default'', ''tenant_abandonment'', ''landlord_initiated'']'
+      - tenant default
       required: false
     - id: 16
       name: discharge_type
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - tenant_agreement
-      - other - landlord_agreement
+      - tenant agreement
+      - other - landlord agreement
       required: false
     - id: 17
       name: tenant_discharged

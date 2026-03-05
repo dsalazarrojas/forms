@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Likely''}'
-      - '{''id'': 2, ''label'': ''Not Very Likely''}'
-      - '{''id'': 3, ''label'': ''Not At All Likely''}'
+      - Very Likely
+      - Not Very Likely
+      - Not At All Likely
       required: false
     - id: 3
       name: usage
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: concerns
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neither Satisfied Nor Unsatisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Unsatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 6
       name: notes

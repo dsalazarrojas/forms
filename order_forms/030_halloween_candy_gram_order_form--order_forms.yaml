@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: halloween_candy_gram_order_form
+    title: Halloween Candy Gram Order Form
     pages:
     - id: 1
       name: first_name
@@ -9,37 +9,37 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
       label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: phone
-      label: Phone
+      label: Phone Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: select_first
       label: Select First
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Item 1''}'
-      - '{''id'': 2, ''name'': ''Item 2''}'
-      - '{''id'': 3, ''name'': ''Item 3''}'
+      - Item 1
+      - Item 2
+      - Item 3
       required: true
     - id: 6
       name: select_multiple
@@ -47,142 +47,59 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Item 1''}'
-      - '{''id'': 2, ''name'': ''Item 2''}'
-      - '{''id'': 3, ''name'': ''Item 3''}'
-      - '{''id'': 4, ''name'': ''Item 4''}'
-      - '{''id'': 5, ''name'': ''Item 5''}'
-      required: true
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
     - id: 7
       name: date
       label: Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: note
       label: Note
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 9
       name: assigned_tool
       label: Assigned Tool
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: category
       label: Category
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
     - id: 11
-      name: output_file
-      label: Output File
+      name: address
+      label: Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
       name: description
       label: Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

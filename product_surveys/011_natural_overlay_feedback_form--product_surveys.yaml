@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Desktop''}'
-      - '{''id'': 2, ''label'': ''Mobile''}'
-      - '{''id'': 4, ''label'': ''Web''}'
+      - Desktop
+      - Mobile
+      - Web
       required: false
     - id: 4
       name: issue
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''It was difficult to find where to click''}'
-      - '{''id'': 2, ''label'': ''It was difficult to understand the natural overlay''}'
-      - '{''id'': 3, ''label'': ''It was a minor issue''}'
+      - It was difficult to find where to click
+      - It was difficult to understand the natural overlay
+      - It was a minor issue
       required: true
     - id: 5
       name: comments
@@ -71,9 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Increase the font size''}'
-      - '{''id'': 2, ''label'': ''Change the natural overlay to always be on top of
-        other apps''}'
+      - Increase the font size
+      - Change the natural overlay to always be on top of other apps
       required: false
     - id: 10
       name: issue_details

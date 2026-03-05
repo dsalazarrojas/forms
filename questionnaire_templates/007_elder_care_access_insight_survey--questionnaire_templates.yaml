@@ -5,47 +5,31 @@ inputSchema:
     pages:
     - id: 1
       name: elder_care_services
-      label: Elder Care Services
+      label: Experiences with Elder Care Services
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
+      required: true
     - id: 2
       name: barrier_to_care_services
-      label: Barrier to Care Services
+      label: Barriers to Accessing Care Services
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: access_to_care_services
-      label: Access to Care Services
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: satisfaction_with_services
-      label: Satisfaction with Services
+      label: Satisfaction with Care Services
       hint: null
       type: select_multiple
       options:
-      - very dissatisfied
-      - dissatisfied
-      - neutral
-      - satisfied
       - very satisfied
-      required: false
-    - id: 5
-      name: region_of_residence
-      label: Region of Residence
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
+      - satisfied
+      - neutral
+      - dissatisfied
+      - very dissatisfied
+      required: true
+    - id: 4
       name: regional_access_to_care_services
       label: Regional Access to Care Services
       hint: null
@@ -56,165 +40,128 @@ inputSchema:
       - neutral
       - good
       - excellent
-      required: false
-    - id: 7
+      required: true
+    - id: 5
       name: demographic_characteristics
       label: Demographic Characteristics
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: care_services_satisfaction
-      label: Care Services Satisfaction
-      hint: null
       type: select_one
       options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 9
-      name: access_to_care_services
-      label: Access to Care Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: region_served
-      label: Region Served
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: care_services_barriers
-      label: Care Services Barriers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: care_services_benefits
-      label: Care Services Benefits
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: care_services_satisfaction
-      label: Care Services Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 14
-      name: elder_care_services
-      label: Elder Care Services
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
+      - male
+      - female
+      - other
+      required: true
+    - id: 6
       name: region_of_residence
       label: Region of Residence
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: satisfaction_with_services
-      label: Satisfaction with Services
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 17
-      name: care_services_satisfaction
-      label: Care Services Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 18
-      name: care_services_satisfaction
-      label: Care Services Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 19
-      name: care_services_benefits
-      label: Care Services Benefits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: satisfaction_with_services
-      label: Satisfaction with Services
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 21
-      name: care_services_satisfaction
-      label: Care Services Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 22
-      name: care_services
-      label: Care Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: care_services_satisfaction
-      label: Care Services Satisfaction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 7
       name: region_served
       label: Region Served
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: regional_access_to_care_services
-      label: Regional Access to Care Services
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: care_services_benefits
+      label: Benefits of Care Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: care_services_barriers
+      label: Care Services Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: satisfaction_with_services
+      label: Satisfaction with Services
+      hint: null
+      type: select_one
+      options:
+      - satisfied
+      - dissatisfied
+      required: true
+    - id: 11
+      name: care_services_satisfaction
+      label: Care Services Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - very satisfied
+      - satisfied
+      - neutral
+      - dissatisfied
+      - very dissatisfied
+      required: true
+    - id: 12
+      name: regional_coverage
+      label: Regional Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: care_services_access
+      label: Access to Care Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: region_served_by_care_services
+      label: Region Served by Care Services
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: care_services_accessed
+      label: Care Services Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: elder_care_services_accessed
+      label: Elder Care Services Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: care_services_benefits_2
+      label: Care Services Benefits 2
       hint: null
       type: text
+      options: []
+      required: true
+    - id: 18
+      name: elder_care_services_experience
+      label: Elder Care Services Experience
+      hint: null
+      type: note
       options: []
       required: false

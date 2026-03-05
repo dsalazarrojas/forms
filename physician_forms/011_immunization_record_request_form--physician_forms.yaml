@@ -5,188 +5,43 @@ inputSchema:
     pages:
     - id: 1
       name: patient_info
-      label: patient_info
+      label: Patient Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: patient_id
-      label: patient_id
+      name: medical_record_info
+      label: Medical Record Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: date_of_birth
-      label: date_of_birth
+      name: immunization_record_info
+      label: Immunization Record Information
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: contact_number
-      label: contact_number
+      name: reason_for_request
+      label: Reason for Requesting Record
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: email_address
-      label: email_address
+      name: physician_info
+      label: Physician Information
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: medical_record_info
-      label: medical_record_info
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 7
-      name: immunization_record_info
-      label: immunization_record_info
+      name: form_info
+      label: Form Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: reason_for_request
-      label: reason_for_request
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Medical School''}'
-      - '{''id'': 2, ''label'': ''Employment''}'
-      - '{''id'': 3, ''label'': ''Insurance''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      required: false
-    - id: 9
-      name: physician_signature
-      label: physician_signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: date_signed
-      label: date_signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: physician_name
-      label: physician_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: physician_address
-      label: physician_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: date_signed_by
-      label: date_signed_by
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: assigned_form
-      label: assigned_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_version
-      label: form_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: patient_info
-      label: patient_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: patient_id
-      label: patient_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: date_of_birth
-      label: date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: contact_number
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email_address
-      label: email_address
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: medical_record_info
-      label: medical_record_info
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 24
-      name: immunization_record_info
-      label: immunization_record_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: reason_for_request
-      label: reason_for_request
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Medical School''}'
-      - '{''id'': 2, ''label'': ''Employment''}'
-      - '{''id'': 3, ''label'': ''Insurance''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      required: false
+      required: true

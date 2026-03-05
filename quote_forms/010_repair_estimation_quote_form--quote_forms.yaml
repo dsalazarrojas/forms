@@ -16,10 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Service Provider'', ''description'': ''Service
-        Provider''}'
-      - '{''value'': 2, ''label'': ''Contractor'', ''description'': ''Contractor''}'
-      - '{''value'': 3, ''label'': ''Other'', ''description'': ''Other''}'
+      - Service Provider
+      - Contractor
+      - Other
       required: false
     - id: 3
       name: job_details
@@ -174,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Service'', ''description'': ''Service''}'
-      - '{''value'': 2, ''label'': ''Repair'', ''description'': ''Repair''}'
-      - '{''value'': 3, ''label'': ''Install'', ''description'': ''Install''}'
+      - Service
+      - Repair
+      - Install
       required: false
     - id: 25
       name: job_status
@@ -184,10 +183,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Active'', ''description'': ''Active''}'
-      - '{''value'': 2, ''label'': ''Inactive'', ''description'': ''Inactive''}'
-      - '{''value'': 3, ''label'': ''Complete'', ''description'': ''Complete''}'
-      - '{''value'': 4, ''label'': ''Pending'', ''description'': ''Pending''}'
+      - Active
+      - Inactive
+      - Complete
+      - Pending
       required: false
     - id: 26
       name: submit

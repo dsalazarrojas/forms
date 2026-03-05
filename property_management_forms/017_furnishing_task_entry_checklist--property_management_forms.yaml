@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Kitchen''}'
-      - '{''id'': 2, ''name'': ''Bathroom''}'
-      - '{''id'': 3, ''name'': ''Bedroom''}'
+      - Kitchen
+      - Bathroom
+      - Bedroom
       required: false
     - id: 3
       name: status_select
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New Task''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Completed''}'
+      - New Task
+      - In Progress
+      - Completed
       required: false
     - id: 4
       name: assigned_to
@@ -36,10 +36,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Designer''}'
-      - '{''id'': 2, ''name'': ''Project Manager''}'
-      - '{''id'': 3, ''name'': ''Property Manager''}'
-      - '{''id'': 4, ''name'': ''Project Team''}'
+      - Designer
+      - Project Manager
+      - Property Manager
+      - Project Team
       required: false
     - id: 5
       name: task_comments
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 13
       name: task_status
@@ -106,10 +106,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Completed''}'
-      - '{''id'': 4, ''name'': ''Cancelled''}'
+      - New
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 14
       name: task_notes
@@ -131,10 +131,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Designer''}'
-      - '{''id'': 2, ''name'': ''Project Manager''}'
-      - '{''id'': 3, ''name'': ''Property Manager''}'
-      - '{''id'': 4, ''name'': ''Project Team''}'
+      - Designer
+      - Project Manager
+      - Property Manager
+      - Project Team
       required: false
     - id: 17
       name: task_due_time
@@ -184,10 +184,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''Google Docs''}'
-      - '{''id'': 3, ''name'': ''MS Project''}'
-      - '{''id'': 4, ''name'': ''Trello''}'
+      - chatjimmy
+      - Google Docs
+      - MS Project
+      - Trello
       required: false
     - id: 24
       name: task_tags
@@ -202,8 +202,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Designer''}'
-      - '{''id'': 2, ''name'': ''Project Manager''}'
-      - '{''id'': 3, ''name'': ''Property Manager''}'
-      - '{''id'': 4, ''name'': ''Project Team''}'
+      - Designer
+      - Project Manager
+      - Property Manager
+      - Project Team
       required: false

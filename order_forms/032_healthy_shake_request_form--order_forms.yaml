@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''address_type'': ''Home'', ''value'': ''Home''}'
-      - '{''address_type'': ''Work'', ''value'': ''Work''}'
+      - Home
+      - Work
       required: true
     - id: 3
       name: order
@@ -25,9 +25,7 @@ inputSchema:
       hint: Select your shake order
       type: select_one
       options:
-      - '{''shake_type'': ''Mango Madness'', ''value'': ''Mango Madness'', ''suboptions'':
-        [{''size'': ''Small'', ''value'': ''Small''}, {''size'': ''Medium'', ''value'':
-        ''Medium''}, {''size'': ''Large'', ''value'': ''Large''}]}'
+      - Mango Madness
       - Other
       required: true
     - id: 4
@@ -43,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''delivery_type'': ''Pickup'', ''value'': ''Pickup''}'
-      - '{''delivery_type'': ''Delivery'', ''value'': ''Delivery''}'
+      - Pickup
+      - Delivery
       required: false
     - id: 6
       name: notes

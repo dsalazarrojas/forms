@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Condo''}'
-      - '{''label'': ''Co-op''}'
-      - '{''label'': ''Other''}'
+      - Condo
+      - Co-op
+      - Other
       required: false
     - id: 8
       name: signed_by
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Homeowner''}'
-      - '{''label'': ''Buyer''}'
-      - '{''label'': ''Property Manager''}'
+      - Homeowner
+      - Buyer
+      - Property Manager
       required: false
     - id: 9
       name: signed_date
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Mail''}'
-      - '{''label'': ''Fax''}'
+      - Email
+      - Mail
+      - Fax
       required: false
     - id: 11
       name: delivery_note
@@ -95,6 +95,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

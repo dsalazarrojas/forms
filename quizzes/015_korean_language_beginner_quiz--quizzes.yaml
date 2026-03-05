@@ -37,9 +37,9 @@ inputSchema:
       hint: Beginner, intermediate or advanced
       type: select_one
       options:
-      - '{''value'': ''Beginner''}'
-      - '{''value'': ''Intermediate''}'
-      - '{''value'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 6
       name: score
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Multiple Choice''}'
-      - '{''value'': ''True/False''}'
-      - '{''value'': ''Short Answer''}'
+      - Multiple Choice
+      - True/False
+      - Short Answer
       required: false
     - id: 8
       name: question_type
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Grammar''}'
-      - '{''value'': ''Vocabulary''}'
-      - '{''value'': ''Reading''}'
+      - Grammar
+      - Vocabulary
+      - Reading
       required: false
     - id: 9
       name: score_range
@@ -74,11 +74,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-5''}'
-      - '{''value'': ''6-10''}'
-      - '{''value'': ''11-15''}'
-      - '{''value'': ''16-20''}'
-      - '{''value'': ''21-25''}'
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
       required: true
     - id: 10
       name: submission_date

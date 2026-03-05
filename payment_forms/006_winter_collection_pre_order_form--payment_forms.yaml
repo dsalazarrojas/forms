@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''id'': 2, ''label'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Credit Card
+      - PayPal
+      - Other
       required: false
     - id: 3
       name: delivery_details
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In-store pickup'', ''value'': ''store''}'
-      - '{''id'': 2, ''label'': ''Home delivery'', ''value'': ''home''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - In-store pickup
+      - Home delivery
+      - Other
       required: false
     - id: 4
       name: delivery_date
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''id'': 2, ''label'': ''Check'', ''value'': ''check''}'
-      - '{''id'': 3, ''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''id'': 4, ''label'': ''PayPal'', ''value'': ''paypal''}'
+      - Cash
+      - Check
+      - Credit Card
+      - PayPal
       required: false
     - id: 12
       name: payment_method_other
@@ -145,10 +145,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New'', ''value'': ''new''}'
-      - '{''id'': 2, ''label'': ''Shipped'', ''value'': ''shipped''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''id'': 4, ''label'': ''Canceled'', ''value'': ''canceled''}'
+      - New
+      - Shipped
+      - Pending
+      - Canceled
       required: false
     - id: 20
       name: notes

@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Order Forms''}'
+      - Order Forms
       - Other
       required: true
     - id: 3
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Payment''}'
-      - '{''value'': 2, ''label'': ''Refund''}'
+      - Payment
+      - Refund
       required: false
     - id: 5
       name: merchant_info
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Test''}'
-      - '{''value'': 2, ''label'': ''Live''}'
+      - Test
+      - Live
       required: false
     - id: 6
       name: e_wallet_form_id

@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''9-1'', ''value'': ''California''}'
-      - '{''id'': ''9-2'', ''value'': ''New York''}'
-      - '{''id'': ''9-3'', ''value'': ''Texas''}'
+      - California
+      - New York
+      - Texas
       required: false
     - id: 10
       name: zip
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''18-1'', ''value'': ''Email''}'
-      - '{''id'': ''18-2'', ''value'': ''Mail''}'
+      - Email
+      - Mail
       required: false
     - id: 19
       name: special_instructions
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''20-1'', ''value'': ''Issued''}'
-      - '{''id'': ''20-2'', ''value'': ''Cancelled''}'
-      - '{''id'': ''20-3'', ''value'': ''Voided''}'
+      - Issued
+      - Cancelled
+      - Voided
       required: false
     - id: 21
       name: delivery_status
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''21-1'', ''value'': ''Delivered''}'
-      - '{''id'': ''21-2'', ''value'': ''Not Delivered''}'
+      - Delivered
+      - Not Delivered
       required: false
     - id: 22
       name: delivery_note

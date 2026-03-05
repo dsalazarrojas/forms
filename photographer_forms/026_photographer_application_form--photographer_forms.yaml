@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: events_participated
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 6
       name: portfolio
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Wedding''}'
-      - '{''label'': ''Event''}'
-      - '{''label'': ''Portrait''}'
-      - '{''label'': ''Fashion''}'
-      - '{''label'': ''Other''}'
+      - Wedding
+      - Event
+      - Portrait
+      - Fashion
+      - Other
       required: true
     - id: 8
       name: photo_equipment
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Canon''}'
-      - '{''label'': ''Nikon''}'
-      - '{''label'': ''Sony''}'
-      - '{''label'': ''Other''}'
+      - Canon
+      - Nikon
+      - Sony
+      - Other
       required: true
     - id: 9
       name: email

@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Oxygen''}'
-      - '{''label'': ''Ventilator''}'
-      - '{''label'': ''Dialysis''}'
-      - '{''label'': ''Other''}'
+      - Oxygen
+      - Ventilator
+      - Dialysis
+      - Other
       required: false
     - id: 5
       name: medical_conditions
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: true
     - id: 11
       name: follow_up_visit

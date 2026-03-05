@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''No Coverage''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - No Coverage
       required: false
     - id: 3
       name: mobile_network_reliability
@@ -28,11 +28,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Always On''}'
-      - '{''label'': ''Most of the time''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Always On
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
       required: true
     - id: 4
       name: mobile_network_satisfaction
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 5
       name: location
@@ -52,10 +52,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Rural Area''}'
-      - '{''label'': ''Urban Area''}'
-      - '{''label'': ''Suburban Area''}'
-      - '{''label'': ''Other''}'
+      - Rural Area
+      - Urban Area
+      - Suburban Area
+      - Other
       required: false
     - id: 6
       name: mobile_network_usage
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Mobile Phone''}'
-      - '{''label'': ''Tablet''}'
-      - '{''label'': ''Laptop''}'
-      - '{''label'': ''Desktop''}'
-      - '{''label'': ''Other''}'
+      - Mobile Phone
+      - Tablet
+      - Laptop
+      - Desktop
+      - Other
       required: false
     - id: 8
       name: mobile_network_comments
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 5}'
-      - '{''label'': 4}'
-      - '{''label'': 3}'
-      - '{''label'': 2}'
-      - '{''label'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: true

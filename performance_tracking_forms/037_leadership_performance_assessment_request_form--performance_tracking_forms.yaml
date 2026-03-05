@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Q1''}'
-      - '{''label'': ''Q2''}'
-      - '{''label'': ''Q3''}'
-      - '{''label'': ''Q4''}'
+      - Q1
+      - Q2
+      - Q3
+      - Q4
       required: false
     - id: 5
       name: assessment_date
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Satisfactory''}'
-      - '{''label'': ''Needs Improvement''}'
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
       required: false
     - id: 10
       name: comments
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Save for Later''}'
+      - Submit
+      - Save for Later
       required: false
     - id: 12
       name: additional_comments

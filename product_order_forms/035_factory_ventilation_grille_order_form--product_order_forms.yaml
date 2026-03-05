@@ -16,12 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 2, ''name'': ''grille_size'', ''label'': ''Grille Size'', ''type'':
-        ''select_one'', ''options'': [{''id'': 1, ''label'': ''small''}, {''id'':
-        2, ''label'': ''large''}, {''id'': 3, ''label'': ''extra_large''}]}'
-      - '{''id'': 3, ''name'': ''grille_pattern'', ''label'': ''Grille Pattern'',
-        ''type'': ''select_one'', ''options'': [{''id'': 1, ''label'': ''grid''},
-        {''id'': 2, ''label'': ''mesh''}, {''id'': 3, ''label'': ''weave''}]}'
+      - Grille Size
+      - Grille Pattern
       required: false
     - id: 3
       name: quantity
@@ -71,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''credit_card''}'
-      - '{''id'': 2, ''label'': ''bank_transfer''}'
-      - '{''id'': 3, ''label'': ''cash''}'
+      - credit card
+      - bank transfer
+      - cash
       required: false
     - id: 10
       name: total_price

@@ -12,190 +12,86 @@ inputSchema:
       required: false
     - id: 2
       name: fuel_pump_control_module_survey_page_2
-      label: Fuel Pump Control Module Information
-      hint: null
-      type: text
-      options: []
+      label: How often do you use the Fuel Pump Control Module?
+      hint: Please select a frequency
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 3
       name: fuel_pump_control_module_survey_page_3
-      label: Fuel Pump Control Module Selection
-      hint: Please select a Fuel Pump Control Module from the list
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3''}'
-      required: false
-    - id: 4
-      name: fuel_pump_control_module_survey_page_4
-      label: Fuel Pump Control Module Selection
+      label: What inspired you to select this Fuel Pump Control Module?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3''}'
-      required: false
-    - id: 5
-      name: fuel_pump_control_module_survey_page_5
-      label: Fuel Pump Control Module Selection
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3''}'
-      required: false
-    - id: 6
-      name: fuel_pump_control_module_survey_page_6
-      label: Fuel Pump Control Module Selection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: fuel_pump_control_module_survey_page_7
-      label: Fuel Pump Control Module Selection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: fuel_pump_control_module_survey_page_8
-      label: Fuel Pump Control Module Selection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: fuel_pump_control_module_survey_page_9
-      label: Fuel Pump Control Module Selection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: fuel_pump_control_module_survey_page_10
-      label: How did you select the Fuel Pump Control Module?
-      hint: Please explain
       type: text
       options: []
       required: false
+    - id: 4
+      name: fuel_pump_control_module_survey_page_4
+      label: How would you rate the performance of the Fuel Pump Control Module?
+      hint: Please select from the options
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: fuel_pump_control_module_survey_page_5
+      label: Do you have any suggestions for improving the Fuel Pump Control Module?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fuel_pump_control_module_survey_page_6
+      label: Have you experienced any issues with the Fuel Pump Control Module?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fuel_pump_control_module_survey_page_7
+      label: What do you think about the overall quality of the Fuel Pump Control
+        Module?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fuel_pump_control_module_survey_page_8
+      label: How would you rate the fuel efficiency of the Fuel Pump Control Module?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fuel_pump_control_module_survey_page_9
+      label: What was the reason for the selection?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fuel_pump_control_module_survey_page_10
+      label: How often will the Fuel Pump Control Module be used?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
     - id: 11
       name: fuel_pump_control_module_survey_page_11
-      label: What was the reason for the selection?
+      label: How would you rate the value of the Fuel Pump Control Module?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: fuel_pump_control_module_survey_page_12
-      label: How often will the Fuel Pump Control Module be used?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Frequently''}'
-      - '{''id'': 2, ''name'': ''Occasionally''}'
-      - '{''id'': 3, ''name'': ''Rarely''}'
-      required: false
-    - id: 13
-      name: fuel_pump_control_module_survey_page_13
-      label: What do you think about this product?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: fuel_pump_control_module_survey_page_14
-      label: How would you rate this product?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
-      required: false
-    - id: 15
-      name: fuel_pump_control_module_survey_page_15
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: fuel_pump_control_module_survey_page_16
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: fuel_pump_control_module_survey_page_17
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: fuel_pump_control_module_survey_page_18
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: fuel_pump_control_module_survey_page_19
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: fuel_pump_control_module_survey_page_20
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: fuel_pump_control_module_survey_page_21
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: fuel_pump_control_module_survey_page_22
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: fuel_pump_control_module_survey_page_23
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: fuel_pump_control_module_survey_page_24
-      label: Do you have any other comments?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: fuel_pump_control_module_survey_page_25
       label: Do you have any other comments?
       hint: null
       type: text

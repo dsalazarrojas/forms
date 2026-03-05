@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Name'', ''value'': ''name''}'
-      - '{''name'': ''Email'', ''value'': ''email''}'
-      - '{''name'': ''Phone'', ''value'': ''phone''}'
+      - name
+      - email
+      - phone
       required: false
     - id: 3
       name: age
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Very Confident'', ''value'': 1}'
-      - '{''name'': ''Somewhat Confident'', ''value'': 2}'
-      - '{''name'': ''Not Confident'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 6
       name: confidence_rating_2
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Very Confident'', ''value'': 1}'
-      - '{''name'': ''Somewhat Confident'', ''value'': 2}'
-      - '{''name'': ''Not Confident'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 7
       name: page6

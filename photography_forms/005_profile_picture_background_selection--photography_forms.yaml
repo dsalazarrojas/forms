@@ -20,8 +20,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
       name: background_image
@@ -36,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 4
       name: image_upload
@@ -59,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 7
       name: photo_orientation
@@ -75,8 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: image_use_agreement
@@ -84,21 +86,21 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 10
       name: image_use_consent2
-      label: Image-Use Consent
+      label: Image Use Consent2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 11
       name: upload_background_image
-      label: Upload Background Image
+      label: Upload Background Image (2)
       hint: null
       type: text
       options: []
@@ -126,15 +128,15 @@ inputSchema:
       required: false
     - id: 15
       name: profile_image_consent2
-      label: Profile-Image-Use-Consent
+      label: Profile Image Consent2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 16
-      name: profile_photo
+      name: profile_photo_2
       label: Profile Photo
       hint: null
       type: text
@@ -142,12 +144,12 @@ inputSchema:
       required: false
     - id: 17
       name: image_use_agreement2
-      label: Image-Use Agreement
+      label: Image Use Agreement2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 18
       name: image_upload_agreement
@@ -155,25 +157,25 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 19
       name: upload_profile_photo
-      label: Upload Profile Photo
+      label: Upload Profile Photo (2)
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: upload_background2
-      label: Background
+      label: Upload Background2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: upload_background2
+      name: upload_background2_2
       label: Upload Background
       hint: null
       type: text
@@ -181,28 +183,28 @@ inputSchema:
       required: false
     - id: 22
       name: photo_orientation2
-      label: Photo-Orientation
+      label: Photo Orientation2
       hint: null
       type: time
       options: []
       required: false
     - id: 23
-      name: upload_orientation
-      label: Upload Photo Orientation
+      name: upload_orientation_2
+      label: Upload Orientation 2
       hint: null
       type: time
       options: []
       required: false
     - id: 24
       name: photo_orientation3
-      label: Photo-Orientation
+      label: Photo Orientation3
       hint: null
       type: time
       options: []
       required: false
     - id: 25
       name: photo_orientation4
-      label: Photo-Orientation
+      label: Photo Orientation4
       hint: null
       type: time
       options: []

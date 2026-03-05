@@ -4,211 +4,116 @@ inputSchema:
     title: Youth Officers Performance Evaluation
     pages:
     - id: 1
-      name: youth_officers_performance_evaluation_page_1
-      label: Youth Officers Performance Evaluation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: youth_officers_performance_evaluation_page_2
-      label: Select One
-      hint: null
+      name: communication_skills
+      label: How would you rate the youth officer's communication skills?
+      hint: Rate on a scale of 1-5
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 2
+      name: leadership_skills
+      label: How would you rate the youth officer's leadership skills?
+      hint: Rate on a scale of 1-5
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: true
     - id: 3
-      name: youth_officers_performance_evaluation_page_3
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
+      name: attendance_record
+      label: What is the youth officer's average attendance record?
+      hint: Enter as number
+      type: number
+      options: []
+      required: false
     - id: 4
-      name: youth_officers_performance_evaluation_page_4
-      label: Date
-      hint: null
+      name: last_meeting
+      label: When was the last time the youth officer attended a staff meeting?
+      hint: Enter date
       type: date
       options: []
       required: false
     - id: 5
-      name: youth_officers_performance_evaluation_page_5
-      label: Time
-      hint: null
+      name: start_time
+      label: What is the youth officer's average start time for work each day?
+      hint: Enter time
       type: time
       options: []
       required: false
     - id: 6
-      name: youth_officers_performance_evaluation_page_6
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: report_submission
+      label: How well do you rate the youth officer's ability to write and submit
+        reports on time?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 7
-      name: youth_officers_performance_evaluation_page_7
-      label: Integer
-      hint: null
+      name: extra_hours
+      label: What is the number of hours spent on tasks outside of work hours to help
+        with work-related tasks?
+      hint: Enter number
       type: number
       options: []
       required: false
     - id: 8
-      name: youth_officers_performance_evaluation_page_8
-      label: Decimal
-      hint: null
+      name: collaboration_skills
+      label: How would you rate the youth officer's ability to work with colleagues
+        and other departments?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: time_management
+      label: How would you rate the youth officer's time management skills?
+      hint: Rate on a scale of 1-5
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: tasks_completed
+      label: What is the number of tasks completed within deadlines?
+      hint: Enter number
       type: number
       options: []
       required: false
-    - id: 9
-      name: youth_officers_performance_evaluation_page_9
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: youth_officers_performance_evaluation_page_10
-      label: Phone
-      hint: null
+    - id: 11
+      name: problem_solving
+      label: How well do you rate the youth officer's problem-solving skills?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: suggestions_for_improvement
+      label: Are there any suggestions or areas for improvement for the youth officer?
+      hint: Enter text
       type: text
       options: []
       required: false
-    - id: 11
-      name: youth_officers_performance_evaluation_page_11
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 12
-      name: youth_officers_performance_evaluation_page_12
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: youth_officers_performance_evaluation_page_13
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: youth_officers_performance_evaluation_page_14
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: youth_officers_performance_evaluation_page_15
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: youth_officers_performance_evaluation_page_16
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: youth_officers_performance_evaluation_page_17
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: youth_officers_performance_evaluation_page_18
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: youth_officers_performance_evaluation_page_19
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: youth_officers_performance_evaluation_page_20
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: youth_officers_performance_evaluation_page_21
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: youth_officers_performance_evaluation_page_22
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: youth_officers_performance_evaluation_page_23
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: youth_officers_performance_evaluation_page_24
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: youth_officers_performance_evaluation_page_25
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true

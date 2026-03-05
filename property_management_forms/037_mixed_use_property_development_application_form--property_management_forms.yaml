@@ -5,201 +5,111 @@ inputSchema:
     pages:
     - id: 1
       name: mixed_use_property_development_application_form_1
-      label: Mixed-Use Property Development Application
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Property Development Type
+      hint: Select the type of property development you are applying for
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
     - id: 2
-      name: property_development_type
-      label: property_development_type
-      hint: null
-      type: select_one
+      name: mixed_use_property_development_application_form_2
+      label: Property Size
+      hint: Choose the size of the property
+      type: select_multiple
       options:
-      - Residential
-      - Commercial
-      - Industrial
-      required: false
+      - Small
+      - Medium
+      - Large
+      required: true
     - id: 3
-      name: property_size
-      label: property_size
-      hint: null
-      type: select_multiple
+      name: mixed_use_property_development_application_form_3
+      label: Land Use
+      hint: Select the primary use of the land
+      type: select_one
       options:
-      - Small
-      - Medium
-      - Large
-      required: false
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
     - id: 4
-      name: land_use
-      label: land_use
-      hint: null
-      type: select_one
-      options:
-      - Residential
-      - Commercial
-      - Industrial
-      required: false
-    - id: 5
-      name: mixed_use_property_development_application_form_5
-      label: Mixed-Use Property Development Application
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: address
-      label: address
-      hint: null
+      label: Address
+      hint: Enter the address of the property
       type: text
       options: []
-      required: false
-    - id: 7
-      name: city
-      label: city
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: state
-      label: state
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: zip
-      label: zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: date_of_application
-      label: date_of_application
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time_of_application
-      label: time_of_application
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: property_type
-      label: property_type
-      hint: null
-      type: select_one
-      options:
-      - Residential
-      - Commercial
-      - Industrial
-      required: false
-    - id: 16
-      name: property_size
-      label: property_size
-      hint: null
-      type: select_multiple
-      options:
-      - Small
-      - Medium
-      - Large
-      required: false
-    - id: 17
-      name: mixed_use_property_development_application_form_17
-      label: Mixed-Use Property Development Application
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: land_use
-      label: land_use
-      hint: null
-      type: select_one
-      options:
-      - Residential
-      - Commercial
-      - Industrial
-      required: false
-    - id: 19
+      required: true
+    - id: 5
       name: contact_name
-      label: contact_name
-      hint: null
+      label: Contact Name
+      hint: Enter the name of the contact person or organization
       type: text
       options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 6
       name: contact_email
-      label: contact_email
-      hint: null
+      label: Contact Email
+      hint: Enter the contact person or organization email address
       type: email
       options: []
-      required: false
-    - id: 21
+      required: true
+    - id: 7
       name: contact_phone
-      label: contact_phone
-      hint: null
+      label: Contact Phone
+      hint: Enter the contact person or organization phone number
       type: text
       options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 8
       name: property_address
-      label: property_address
-      hint: null
+      label: Property Address
+      hint: Confirm the property's address
       type: text
       options: []
-      required: false
-    - id: 23
+      required: true
+    - id: 9
       name: property_owner
-      label: property_owner
-      hint: null
+      label: Property Owner
+      hint: Enter the name of the property owner
       type: text
       options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 10
       name: property_status
-      label: property_status
-      hint: null
+      label: Property Status
+      hint: Describe the property's current status
       type: text
       options: []
-      required: false
-    - id: 25
+      required: true
+    - id: 11
       name: submission_date
-      label: submission_date
-      hint: null
+      label: Submission Date
+      hint: Enter the date of submission
       type: date
       options: []
-      required: false
-    - id: 26
+      required: true
+    - id: 12
       name: submission_time
-      label: submission_time
-      hint: null
+      label: Submission Time
+      hint: Enter the time of submission
       type: time
       options: []
-      required: false
+      required: true
+    - id: 13
+      name: mixed_use_property_development_application_form_13
+      label: Description
+      hint: Describe your development project
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mixed_use_property_development_application_form_14
+      label: Property Type (Confirmation)
+      hint: Confirm the type of property development
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true

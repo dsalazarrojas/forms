@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 5
       name: quantity
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Single Photo'', ''label'': ''Single Photo''}'
-      - '{''id'': 2, ''name'': ''Multiple Photos'', ''label'': ''Multiple Photos''}'
+      - Single Photo
+      - Multiple Photos
       required: false
     - id: 7
       name: photo_type
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Portrait'', ''label'': ''Portrait''}'
-      - '{''id'': 2, ''name'': ''Landscape'', ''label'': ''Landscape''}'
-      - '{''id'': 3, ''name'': ''Square'', ''label'': ''Square''}'
+      - Portrait
+      - Landscape
+      - Square
       required: false
     - id: 8
       name: color_type
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Color'', ''label'': ''Color''}'
-      - '{''id'': 2, ''name'': ''Black and White'', ''label'': ''Black and White''}'
+      - Color
+      - Black and White
       required: false
     - id: 9
       name: photo_size
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 10
       name: paper_type
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Glossy'', ''label'': ''Glossy''}'
-      - '{''id'': 2, ''name'': ''Matte'', ''label'': ''Matte''}'
+      - Glossy
+      - Matte
       required: false
     - id: 11
       name: quantity_per_photo

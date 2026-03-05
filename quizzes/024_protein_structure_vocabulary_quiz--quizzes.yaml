@@ -4,100 +4,6 @@ inputSchema:
     title: protein_structure_vocabulary_quiz
     pages:
     - id: 1
-      name: general_awareness
-      label: General Awareness
-      hint: null
-      type: select_multiple
-      options:
-      - Alpha Helix
-      - Beta Sheet
-      - Coil
-      required: false
-    - id: 2
-      name: primary_secondary
-      label: Primary vs Secondary Structure
-      hint: null
-      type: select_one
-      options:
-      - Alpha Helix
-      - Beta Sheet
-      - Coil
-      - Globular
-      - Sheet
-      - Rods
-      required: false
-    - id: 3
-      name: tertiary
-      label: Tertiary Structure
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: protein_function
-      label: Protein Function
-      hint: null
-      type: select_multiple
-      options:
-      - Enzymes
-      - Structural proteins
-      - Transporter proteins
-      required: false
-    - id: 5
-      name: subunits
-      label: Subunits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: protein_folding
-      label: Protein Folding
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: disulfide_bond
-      label: Disulfide Bond
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      - Not Sure
-      required: false
-    - id: 8
-      name: protein_ligand
-      label: Protein Ligand
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: protein_synthesis
-      label: Protein Synthesis
-      hint: null
-      type: select_multiple
-      options:
-      - Transcription
-      - Translation
-      - Folding
-      required: false
-    - id: 10
-      name: protein_classification
-      label: Protein Classification
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
       name: protein_structure
       label: Protein Structure
       hint: null
@@ -107,19 +13,83 @@ inputSchema:
       - Beta Sheet
       - Coil
       required: false
-    - id: 12
-      name: disulfide_bond_role
-      label: Disulfide Bond Role
+    - id: 2
+      name: primary_secondary
+      label: Primary/Secondary Structure
       hint: null
       type: select_multiple
       options:
-      - Enzymatic activity
-      - Folding
-      - Ligand
-      - Structural
-      - Transport
+      - Alpha Helix
+      - Beta Sheet
+      - Coil
+      - Globular
+      - Rods
       required: false
-    - id: 13
+    - id: 3
+      name: protein_function
+      label: Protein Function
+      hint: null
+      type: select_multiple
+      options:
+      - Enzymes
+      - Structural proteins
+      - Transporter proteins
+      required: false
+    - id: 4
+      name: subunits
+      label: Subunits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: protein_folding
+      label: Protein Folding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: disulfide_bond
+      label: Disulfide Bond
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 7
+      name: protein_ligand
+      label: Protein Ligand
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: protein_synthesis
+      label: Protein Synthesis
+      hint: null
+      type: select_multiple
+      options:
+      - Transcription
+      - Translation
+      - Folding
+      required: false
+    - id: 9
+      name: protein_classification
+      label: Protein Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
       name: quaternary_structure
       label: Quaternary Structure
       hint: null
@@ -129,38 +99,17 @@ inputSchema:
       - Beta Sheet
       - Coil
       required: false
-    - id: 14
+    - id: 11
       name: protein_synthesis_method
       label: Protein Synthesis Method
       hint: null
       type: select_multiple
       options:
-      - In Vitro
       - In Vivo
+      - In Vitro
       - Prokaryotic
       required: false
-    - id: 15
-      name: protein_functional_group
-      label: Functional Group
-      hint: null
-      type: select_multiple
-      options:
-      - Enzyme
-      - Hormone
-      - Ligand
-      - Receptor
-      required: false
-    - id: 16
-      name: protein_classification_method
-      label: Classification Method
-      hint: null
-      type: select_multiple
-      options:
-      - Homology
-      - Paralog
-      - Prokaryote
-      required: false
-    - id: 17
+    - id: 12
       name: protein_functional_group
       label: Functional Group
       hint: null
@@ -169,16 +118,7 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 18
-      name: protein_thermodynamics
-      label: Thermodynamics
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
+    - id: 13
       name: protein_folding_method
       label: Folding Method
       hint: null
@@ -188,7 +128,37 @@ inputSchema:
       - In Vitro
       - In Silico
       required: false
-    - id: 20
+    - id: 14
+      name: protein_3d_structure
+      label: 3D Structure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: protein_classification_category
+      label: Classification Category
+      hint: null
+      type: select_multiple
+      options:
+      - Enzyme
+      - Hormone
+      - Receptor
+      - Transport
+      required: false
+    - id: 16
+      name: protein_folding_type
+      label: Folding Type
+      hint: null
+      type: select_multiple
+      options:
+      - Alpha
+      - Beta
+      - Coil
+      required: false
+    - id: 17
       name: disulfide_bond_type
       label: Disulfide Bond Type
       hint: null
@@ -199,7 +169,28 @@ inputSchema:
       - Imino bond
       - Van der Waals
       required: false
-    - id: 21
+    - id: 18
+      name: protein_structure_type
+      label: Protein Structure Type
+      hint: null
+      type: select_multiple
+      options:
+      - Alpha Helix
+      - Beta Sheet
+      - Coil
+      - Globular
+      - Rods
+      required: false
+    - id: 19
+      name: protein_thermodynamics
+      label: Thermodynamics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
       name: protein_ligand_function
       label: Ligand Function
       hint: null
@@ -211,9 +202,9 @@ inputSchema:
       - Ligand binding
       - Transducer
       required: false
-    - id: 22
-      name: protein_classification_category
-      label: Classification Category
+    - id: 21
+      name: protein_classification_process
+      label: Classification Process
       hint: null
       type: select_multiple
       options:
@@ -222,9 +213,9 @@ inputSchema:
       - Receptor
       - Transport
       required: false
-    - id: 23
-      name: protein_folding_type
-      label: Folding Type
+    - id: 22
+      name: protein_folding_process
+      label: Folding Process
       hint: null
       type: select_multiple
       options:
@@ -232,30 +223,17 @@ inputSchema:
       - Beta
       - Coil
       required: false
-    - id: 24
-      name: disulfide_bond_type
-      label: Disulfide Bond Type
-      hint: null
-      type: select_multiple
-      options:
-      - Cystein
-      - Hydrogen bond
-      - Imino bond
-      - Van der Waals
-      required: false
-    - id: 25
-      name: protein_structure_type
-      label: Protein Structure Type
+    - id: 23
+      name: protein_3d_structure_type
+      label: 3D Structure Type
       hint: null
       type: select_multiple
       options:
       - Alpha Helix
       - Beta Sheet
       - Coil
-      - Globular
-      - Rods
       required: false
-    - id: 26
+    - id: 24
       name: protein_synthesis_process
       label: Synthesis Process
       hint: null
@@ -265,27 +243,7 @@ inputSchema:
       - In Vitro
       - In Silico
       required: false
-    - id: 27
-      name: protein_3d_structure
-      label: 3D Structure
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 28
-      name: protein_functional_group
-      label: Functional Group
-      hint: null
-      type: select_multiple
-      options:
-      - Enzyme
-      - Hormone
-      - Ligand
-      - Receptor
-      required: false
-    - id: 29
+    - id: 25
       name: disulfide_bond_role
       label: Disulfide Bond Role
       hint: null
@@ -297,9 +255,51 @@ inputSchema:
       - Structural
       - Transport
       required: false
+    - id: 26
+      name: protein_classification_category_2
+      label: Protein Classification Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - Enzyme
+      - Hormone
+      - Receptor
+      - Transport
+      required: false
+    - id: 27
+      name: protein_folding_type_2
+      label: Protein Folding Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Alpha
+      - Beta
+      - Coil
+      required: false
+    - id: 28
+      name: disulfide_bond_type_2
+      label: Disulfide Bond Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Cystein
+      - Hydrogen bond
+      - Imino bond
+      - Van der Waals
+      required: false
+    - id: 29
+      name: protein_structure_2
+      label: Protein Structure 2
+      hint: null
+      type: select_multiple
+      options:
+      - Alpha Helix
+      - Beta Sheet
+      - Coil
+      required: false
     - id: 30
-      name: protein_classification
-      label: Protein Classification
+      name: protein_classification_2
+      label: Protein Classification 2
       hint: null
       type: select_one
       options:
@@ -307,60 +307,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 31
-      name: disulfide_bond_type
-      label: Disulfide Bond Type
-      hint: null
-      type: select_multiple
-      options:
-      - Cystein
-      - Hydrogen bond
-      - Imino bond
-      - Van der Waals
-      required: false
-    - id: 32
-      name: protein_structure
-      label: Protein Structure
-      hint: null
-      type: select_multiple
-      options:
-      - Alpha Helix
-      - Beta Sheet
-      - Coil
-      required: false
-    - id: 33
-      name: protein_classification_category
-      label: Classification Category
-      hint: null
-      type: select_multiple
-      options:
-      - Enzyme
-      - Hormone
-      - Receptor
-      - Transport
-      required: false
-    - id: 34
-      name: protein_folding_method
-      label: Folding Method
-      hint: null
-      type: select_multiple
-      options:
-      - In Vivo
-      - In Vitro
-      - In Silico
-      required: false
-    - id: 35
-      name: protein_3d_structure_type
-      label: 3D Structure
-      hint: null
-      type: select_multiple
-      options:
-      - Alpha Helix
-      - Beta Sheet
-      - Coil
-      required: false
-    - id: 36
-      name: disulfide_bond_role
-      label: Disulfide Bond Role
+      name: disulfide_bond_role_2
+      label: Disulfide Bond Role 2
       hint: null
       type: select_multiple
       options:
@@ -370,19 +318,28 @@ inputSchema:
       - Structural
       - Transport
       required: false
-    - id: 37
-      name: protein_folding_type
-      label: Folding Type
+    - id: 32
+      name: protein_folding_method_2
+      label: Protein Folding Method 2
       hint: null
       type: select_multiple
       options:
-      - Alpha
-      - Beta
-      - Coil
+      - In Vivo
+      - In Vitro
+      - In Silico
       required: false
-    - id: 38
-      name: protein_classification_type
-      label: Classification Type
+    - id: 33
+      name: protein_3d_structure_2
+      label: Protein 3D Structure 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 34
+      name: protein_classification_category_3
+      label: Protein Classification Category 3
       hint: null
       type: select_multiple
       options:
@@ -391,28 +348,19 @@ inputSchema:
       - Receptor
       - Transport
       required: false
-    - id: 39
-      name: protein_synthesis_process
-      label: Synthesis Process
+    - id: 35
+      name: protein_folding_type_3
+      label: Protein Folding Type 3
       hint: null
       type: select_multiple
       options:
-      - In Vivo
-      - In Vitro
-      - In Silico
+      - Alpha
+      - Beta
+      - Coil
       required: false
-    - id: 40
-      name: protein_3d_structure
-      label: 3D Structure
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 41
-      name: disulfide_bond_type
-      label: Disulfide Bond Type
+    - id: 36
+      name: disulfide_bond_type_3
+      label: Disulfide Bond Type 3
       hint: null
       type: select_multiple
       options:
@@ -421,19 +369,9 @@ inputSchema:
       - Imino bond
       - Van der Waals
       required: false
-    - id: 42
-      name: protein_synthesis_method
-      label: Synthesis Method
-      hint: null
-      type: select_multiple
-      options:
-      - In Vivo
-      - In Vitro
-      - In Silico
-      required: false
-    - id: 43
-      name: protein_structure_type
-      label: Protein Structure Type
+    - id: 37
+      name: protein_structure_type_2
+      label: Protein Structure Type 2
       hint: null
       type: select_multiple
       options:
@@ -442,4 +380,13 @@ inputSchema:
       - Coil
       - Globular
       - Rods
+      required: false
+    - id: 38
+      name: protein_thermodynamics_2
+      label: Protein Thermodynamics 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false

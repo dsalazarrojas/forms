@@ -1,142 +1,157 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 Patient Screening Form
     pages:
-      - id: 1
-        name: patient_info_header
-        label: -- Patient Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: patient_full_name
-        label: Patient Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: patient_dob
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: screening_questions_header
-        label: -- Screening Questions --
-        hint: Please answer the following questions based on your current health status
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: has_fever
-        label: Are you experiencing fever or chills?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 6
-        name: has_cough
-        label: Do you have a new or worsening cough?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 7
-        name: shortness_of_breath
-        label: Are you experiencing shortness of breath or difficulty breathing?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: has_fatigue
-        label: Are you experiencing unusual fatigue?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: body_aches
-        label: Do you have muscle or body aches?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 10
-        name: has_headache
-        label: Do you have a headache?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 11
-        name: loss_of_taste_smell
-        label: Have you experienced a new loss of taste or smell?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 12
-        name: sore_throat
-        label: Do you have a sore throat?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 13
-        name: nasal_congestion
-        label: Do you have congestion or a runny nose?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 14
-        name: nausea_vomiting
-        label: Are you experiencing nausea or vomiting?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 15
-        name: has_diarrhea
-        label: Are you experiencing diarrhea?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 16
-        name: exposure_history
-        label: -- Exposure History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: close_contact
-        label: Have you been in close contact with someone who has a confirmed case of COVID-19?
-        hint: null
-        type: select_one
-        options: [Yes, No, Unknown]
-        required: true
-      - id: 18
-        name: travel_history
-        label: Have you traveled outside the country in the last 14 days?
-        hint: If yes, please specify location
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: screening_questions_header
+      label: -- Screening Questions --
+      hint: Please answer the following questions based on your current health status
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: has_fever
+      label: Are you experiencing fever or chills?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: has_cough
+      label: Do you have a new or worsening cough?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: shortness_of_breath
+      label: Are you experiencing shortness of breath or difficulty breathing?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: has_fatigue
+      label: Are you experiencing unusual fatigue?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: body_aches
+      label: Do you have muscle or body aches?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: has_headache
+      label: Do you have a headache?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: loss_of_taste_smell
+      label: Have you experienced a new loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: nasal_congestion
+      label: Do you have congestion or a runny nose?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: nausea_vomiting
+      label: Are you experiencing nausea or vomiting?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: has_diarrhea
+      label: Are you experiencing diarrhea?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: exposure_history
+      label: -- Exposure History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: close_contact
+      label: Have you been in close contact with someone who has a confirmed case
+        of COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: true
+    - id: 18
+      name: travel_history
+      label: Have you traveled outside the country in the last 14 days?
+      hint: If yes, please specify location
+      type: text
+      options: []
+      required: true

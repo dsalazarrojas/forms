@@ -4,193 +4,85 @@ inputSchema:
     title: Session Assignment And Feedback Form (SAFF)
     pages:
     - id: 1
-      name: session_assignment_and_feedback_form
-      label: Session Assignment And Feedback Form
-      hint: null
+      name: session_details
+      label: Session Details
+      hint: Please provide the session details below.
       type: text
       options: []
       required: false
     - id: 2
-      name: therapy_session_id
-      label: therapy_session
-      hint: null
-      type: number
+      name: patient_feedback
+      label: Patient Feedback
+      hint: Describe the patient's feedback on the session.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: patient_id
-      label: patient
-      hint: null
+      name: assigned_therapist
+      label: Assigned Therapist
+      hint: Select the assigned therapist for the session.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - chatjimmy
+      - john doe
+      required: true
     - id: 4
-      name: therapist_name
-      label: therapist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: date
-      label: date
-      hint: null
+      name: session_date
+      label: Session Date
+      hint: Select the session date in MM/DD/YYYY format.
       type: date
       options: []
-      required: false
-    - id: 6
-      name: time
-      label: time
-      hint: null
+      required: true
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: Select the session time in 24-hour format.
       type: time
       options: []
-      required: false
-    - id: 7
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: assigned_user
-      label: assigned_user
-      hint: null
-      type: select_multiple
-      options:
-      - chatjimmy
-      - john_doe
-      required: false
-    - id: 10
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - john_doe
-      required: false
-    - id: 11
-      name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: confirm_submit
-      label: confirm_submit
-      hint: null
+      required: true
+    - id: 6
+      name: session_notes
+      label: Session Notes
+      hint: Provide any notes or comments on the session.
       type: text
       options: []
       required: true
-    - id: 13
+    - id: 7
+      name: confirm_submit
+      label: Confirm Submit
+      hint: Confirm that the form is complete and accurate.
+      type: text
+      options: []
+      required: true
+    - id: 8
       name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_multiple
+      label: Assigned Tool
+      hint: Select the assigned tool for the session.
+      type: select_one
       options:
       - chatjimmy
-      - john_doe
-      required: false
-    - id: 14
+      - john doe
+      required: true
+    - id: 9
       name: patient_id
-      label: patient
-      hint: null
+      label: Patient ID
+      hint: Select the patient's ID for the session.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 15
-      name: submit_button
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: confirm_submit
-      label: confirm_submit
-      hint: null
-      type: text
-      options: []
       required: true
-    - id: 17
-      name: assigned_user
-      label: assigned_user
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - john_doe
-      required: false
-    - id: 18
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: assigned_user
-      label: assigned_user
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - john_doe
-      required: false
-    - id: 23
+    - id: 10
       name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: confirm_submit
-      label: confirm_submit
-      hint: null
+      label: Submit
+      hint: Confirm your submission.
       type: text
       options: []
       required: true
-    - id: 25
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_multiple
-      options:
-      - chatjimmy
-      - john_doe
-      required: false
+    - id: 11
+      name: confirm_submit_2
+      label: Confirm Submit 2
+      hint: Confirm your submission.
+      type: text
+      options: []
+      required: true

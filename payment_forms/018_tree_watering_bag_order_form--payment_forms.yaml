@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit card''}'
-      - '{''name'': ''paypal''}'
-      - '{''name'': ''bank transfer''}'
+      - credit card
+      - paypal
+      - bank transfer
       required: false
     - id: 10
       name: payment_status
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''pending''}'
-      - '{''name'': ''approved''}'
-      - '{''name'': ''declined''}'
+      - pending
+      - approved
+      - declined
       required: false
     - id: 11
       name: order_date
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''chatjimmy''}'
-      - '{''name'': ''chatjimmy2''}'
+      - chatjimmy
+      - chatjimmy2
       required: false
     - id: 15
       name: order_status
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''pending''}'
-      - '{''name'': ''shipped''}'
-      - '{''name'': ''received''}'
+      - pending
+      - shipped
+      - received
       required: false
     - id: 16
       name: comments

@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly Agree''}'
-      - '{''label'': ''Agree''}'
-      - '{''label'': ''Disagree''}'
-      - '{''label'': ''Strongly Disagree''}'
-      - '{''label'': ''Neither Agree nor Disagree''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      - Neither Agree nor Disagree
       required: false
     - id: 4
       name: environmental_concerns
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 7
       name: policy_relevance
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: false
     - id: 9
       name: policy_sentiment_average
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: false
     - id: 10
       name: community_engagement
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: false
     - id: 11
       name: policy_effectiveness_ratio
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: policy_sentiment_positive_negative
@@ -161,8 +161,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: false
     - id: 21
       name: policy_effectiveness_level
@@ -170,9 +170,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: false
     - id: 22
       name: environmental_concerns_level
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: false
     - id: 23
       name: policy_sustainability
@@ -190,9 +190,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Moderate''}'
+      - High
+      - Low
+      - Moderate
       required: false
     - id: 24
       name: policy_effectiveness_yes_no
@@ -200,8 +200,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: policy_sustainability_yes_no
@@ -209,6 +209,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

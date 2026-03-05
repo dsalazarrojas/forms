@@ -16,12 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''colorist''}'
+      - colorist
+      - Other
       required: true
     - id: 3
       name: hair_type
@@ -29,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''dry''}'
-      - '{''value'': ''curly''}'
-      - '{''value'': ''straight''}'
+      - dry
+      - curly
+      - straight
       required: true
     - id: 4
       name: preferred_stylist
@@ -39,14 +35,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''balayage''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''balayage''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''balayage''}'
-      - '{''value'': ''colorist''}'
-      - '{''value'': ''balayage''}'
+      - colorist
+      - balayage
       required: true
     - id: 5
       name: preferred_haircut
@@ -54,11 +44,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fade''}'
-      - '{''value'': ''fade''}'
-      - '{''value'': ''fade''}'
-      - '{''value'': ''fade''}'
-      - '{''value'': ''fade''}'
+      - fade
+      - Other
       required: true
     - id: 6
       name: schedule
@@ -108,13 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''haircut''}'
-      - '{''value'': ''haircut''}'
-      - '{''value'': ''haircut''}'
-      - '{''value'': ''haircut''}'
-      - '{''value'': ''haircut''}'
-      - '{''value'': ''balayage''}'
-      - '{''value'': ''balayage''}'
+      - haircut
+      - balayage
       required: true
     - id: 13
       name: client_name
@@ -199,8 +181,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: terms

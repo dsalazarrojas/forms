@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit card'', ''value'': ''credit-card''}'
-      - '{''label'': ''Check or money order'', ''value'': ''check-or-money-order''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Credit card
+      - Check or money order
+      - Other
       required: false
     - id: 7
       name: amount
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''One-time'', ''value'': ''one-time''}'
-      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 9
       name: donation_frequency
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''One-time'', ''value'': ''one-time''}'
-      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
       required: false

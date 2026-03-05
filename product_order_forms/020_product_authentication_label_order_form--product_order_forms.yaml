@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Authentication Label''}'
-      - '{''label'': ''Authentication Number''}'
-      - '{''label'': ''Authentication Certificate''}'
-      - '{''label'': ''Certificate of Origin''}'
+      - Authentication Label
+      - Authentication Number
+      - Authentication Certificate
+      - Certificate of Origin
       required: false
     - id: 5
       name: shipping_address
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Standard Label''}'
-      - '{''label'': ''Premium Label''}'
-      - '{''label'': ''Basic Label''}'
+      - Standard Label
+      - Premium Label
+      - Basic Label
       required: false
     - id: 16
       name: authentication_label_size
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Small''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Large''}'
-      - '{''label'': ''Extra Large''}'
+      - Small
+      - Medium
+      - Large
+      - Extra Large
       required: false
     - id: 17
       name: shipping_method
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Standard Shipping''}'
-      - '{''label'': ''Priority Shipping''}'
-      - '{''label'': ''Express Shipping''}'
+      - Standard Shipping
+      - Priority Shipping
+      - Express Shipping
       required: false
     - id: 18
       name: shipping_cost
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bank Transfer''}'
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''PayPal''}'
+      - Bank Transfer
+      - Credit Card
+      - PayPal
       required: false
     - id: 20
       name: order_notes
@@ -166,10 +166,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 22
       name: authentication_label_quantity
@@ -184,10 +184,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Shipped''}'
-      - '{''label'': ''Shipped''}'
-      - '{''label'': ''Cancelled''}'
-      - '{''label'': ''Pending''}'
+      - Not Shipped
+      - Shipped
+      - Cancelled
+      - Pending
       required: false
     - id: 24
       name: authentication_label_status
@@ -195,7 +195,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Rejected''}'
-      - '{''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false

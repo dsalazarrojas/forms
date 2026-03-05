@@ -5,196 +5,143 @@ inputSchema:
     pages:
     - id: 1
       name: digital_payment_integration_request_form
-      label: digital_payment_integration_request_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: integration_type
-      label: integration_type
+      label: What is the type of integration you are requesting?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''payment_gateway'', ''label'': ''Payment Gateway''}'
-      - '{''id'': 2, ''name'': ''payment_method'', ''label'': ''Payment Method''}'
-      - '{''id'': 3, ''name'': ''api_key'', ''label'': ''API Key''}'
-      - '{''id'': 4, ''name'': ''api_secret'', ''label'': ''API Secret''}'
+      - Payment Gateway
+      - API Key
+      required: false
+    - id: 2
+      name: payment_method
+      label: What is the payment method you are using?
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 3
       name: payment_method_description
-      label: payment_method_description
+      label: Describe your payment method in more detail.
       hint: null
       type: note
       options: []
       required: false
     - id: 4
       name: payment_gateway_description
-      label: payment_gateway_description
+      label: Describe your payment gateway in more detail.
       hint: null
       type: note
       options: []
       required: false
     - id: 5
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 3, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 4, ''name'': ''google_pay'', ''label'': ''Google Pay''}'
-      required: false
-    - id: 6
-      name: payment_gateway
-      label: payment_gateway
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''google_pay'', ''label'': ''Google Pay''}'
-      - '{''id'': 3, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      required: false
-    - id: 7
       name: merchant_id
-      label: merchant_id
+      label: What is the merchant ID?
       hint: null
       type: number
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: merchant_key
-      label: merchant_key
+      label: What is the merchant key?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: api_key
+      label: What is the API key?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: api_secret
+      label: What is the API secret?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: api_key
-      label: api_key
+      name: confirm
+      label: Do you confirm your payment method selection?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
-      name: api_secret
-      label: api_secret
+      name: payment_gateway_details
+      label: Payment Gateway Details
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 11
-      name: payment_method_description_details
-      label: payment_method_description_details
+      name: payment_method_details
+      label: Payment Method Details
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: payment_gateway_description_details
-      label: payment_gateway_description_details
+      name: payment_method_details_2
+      label: Is the merchant account already set up?
       hint: null
-      type: note
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 13
-      name: payment_gateway_details
-      label: payment_gateway_details
+      name: payment_gateway_details_2
+      label: If set up, provide more details about the merchant account.
       hint: null
       type: note
       options: []
       required: false
     - id: 14
-      name: payment_method_details
-      label: payment_method_details
+      name: payment_method_details_3
+      label: Are you sure about your payment method selection?
       hint: null
       type: note
       options: []
       required: false
     - id: 15
-      name: payment_method_details_3
-      label: payment_method_details_3
+      name: payment_gateway_details_3
+      label: Is everything correct?
       hint: null
       type: note
       options: []
       required: false
     - id: 16
-      name: payment_method_details_2
-      label: payment_method_details_2
+      name: payment_method_details_4
+      label: Do you have any further questions or concerns?
       hint: null
       type: note
       options: []
       required: false
     - id: 17
-      name: payment_gateway_details_2
-      label: payment_gateway_details_2
+      name: payment_gateway_details_4
+      label: Describe the payment gateway you selected.
       hint: null
       type: note
       options: []
       required: false
     - id: 18
-      name: payment_gateway_details_3
-      label: payment_gateway_details_3
+      name: payment_gateway_details_5
+      label: Payment Gateway Details 5
       hint: null
       type: note
       options: []
       required: false
     - id: 19
-      name: merchant_id
-      label: merchant_id
+      name: payment_gateway_details_6
+      label: Payment Gateway Details 6
       hint: null
-      type: number
+      type: note
       options: []
-      required: false
-    - id: 20
-      name: merchant_key
-      label: merchant_key
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: api_key
-      label: api_key
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: api_secret
-      label: api_secret
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 3, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 4, ''name'': ''google_pay'', ''label'': ''Google Pay''}'
-      required: false
-    - id: 24
-      name: payment_gateway
-      label: payment_gateway
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''google_pay'', ''label'': ''Google Pay''}'
-      - '{''id'': 3, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      required: false
-    - id: 25
-      name: confirm
-      label: confirm
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
       required: false

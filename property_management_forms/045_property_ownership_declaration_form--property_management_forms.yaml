@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''United States''}'
-      - '{''id'': 2, ''name'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''Australia''}'
+      - United States
+      - Canada
+      - Australia
       required: true
     - id: 6
       name: owner_phone
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Residential'', ''label'': ''Residential''}'
-      - '{''id'': 2, ''name'': ''Commercial'', ''label'': ''Commercial''}'
-      - '{''id'': 3, ''name'': ''Agricultural'', ''label'': ''Agricultural''}'
-      - '{''id'': 4, ''name'': ''Recreational'', ''label'': ''Recreational''}'
+      - Residential
+      - Commercial
+      - Agricultural
+      - Recreational
       required: true
     - id: 9
       name: date_of_birth
@@ -100,11 +100,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Retired''}'
-      - '{''id'': 3, ''name'': ''Inactive''}'
-      - '{''id'': 4, ''name'': ''Deceased''}'
-      - '{''id'': 5, ''name'': ''Unknown''}'
+      - Active
+      - Retired
+      - Inactive
+      - Deceased
+      - Unknown
       required: true
     - id: 14
       name: notes
@@ -147,9 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''United States''}'
-      - '{''id'': 2, ''name'': ''Canada''}'
-      - '{''id'': 3, ''name'': ''Australia''}'
+      - United States
+      - Canada
+      - Australia
       required: true
     - id: 20
       name: witness_phone
@@ -171,11 +171,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Retired''}'
-      - '{''id'': 3, ''name'': ''Inactive''}'
-      - '{''id'': 4, ''name'': ''Deceased''}'
-      - '{''id'': 5, ''name'': ''Unknown''}'
+      - Active
+      - Retired
+      - Inactive
+      - Deceased
+      - Unknown
       required: false
     - id: 23
       name: date_of_witness_signature

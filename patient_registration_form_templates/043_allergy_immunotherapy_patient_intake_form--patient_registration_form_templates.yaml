@@ -229,7 +229,7 @@ inputSchema:
       options:
       - Yes, well-controlled
       - Yes, not well-controlled
-      - false
+      - 'False'
       - Not sure
       required: true
     - id: 27
@@ -245,8 +245,8 @@ inputSchema:
       hint: Any heart problems?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: lung_conditions
@@ -254,8 +254,8 @@ inputSchema:
       hint: Any lung problems?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: immune_system_disorders
@@ -263,8 +263,8 @@ inputSchema:
       hint: Any immune conditions?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: cancer_history
@@ -272,8 +272,8 @@ inputSchema:
       hint: Any history of cancer?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 32
       name: pregnancy_status
@@ -283,7 +283,7 @@ inputSchema:
       options:
       - Yes, pregnant
       - Yes, nursing
-      - false
+      - 'False'
       - Not applicable
       required: true
     - id: 33
@@ -309,8 +309,8 @@ inputSchema:
       hint: Do you take beta-blockers?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 36
       name: ace_inhibitor_use
@@ -318,8 +318,8 @@ inputSchema:
       hint: Do you take ACE inhibitors?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: ability_to_communicate_symptoms
@@ -329,7 +329,7 @@ inputSchema:
       options:
       - Yes, clearly
       - Yes, with assistance
-      - false
+      - 'False'
       required: true
     - id: 38
       name: transportation_available
@@ -388,7 +388,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 44
       name: hipaa_acknowledgment
@@ -397,7 +397,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       required: true
     - id: 45
       name: patient_signature

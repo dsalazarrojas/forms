@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Retailer'', ''value'': ''Retailer''}'
-      - '{''id'': 2, ''label'': ''Online Store'', ''value'': ''Online Store''}'
-      - '{''id'': 3, ''label'': ''Gym'', ''value'': ''Gym''}'
+      - Retailer
+      - Online Store
+      - Gym
       required: false
     - id: 9
       name: gym_info
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Credit Card
+      - Bank Transfer
+      - Other
       required: false
     - id: 16
       name: payment_amount

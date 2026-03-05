@@ -142,11 +142,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 21, ''name'': ''general_practitioner'', ''label'': ''General Practitioner''}'
-      - '{''id'': 22, ''name'': ''specialist'', ''label'': ''Specialist''}'
-      - '{''id'': 23, ''name'': ''nurse'', ''label'': ''Nurse''}'
-      - '{''id'': 24, ''name'': ''other'', ''label'': ''Other''}'
-      - '{''id'': 25, ''name'': ''unknown'', ''label'': ''Unknown''}'
+      - General Practitioner
+      - Specialist
+      - Nurse
+      - Other
+      - Unknown
       required: false
     - id: 21
       name: hospital_department
@@ -154,10 +154,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 27, ''name'': ''cardiology'', ''label'': ''Cardiology''}'
-      - '{''id'': 28, ''name'': ''general_medicine'', ''label'': ''General Medicine''}'
-      - '{''id'': 29, ''name'': ''neurology'', ''label'': ''Neurology''}'
-      - '{''id'': 30, ''name'': ''other'', ''label'': ''Other''}'
+      - Cardiology
+      - General Medicine
+      - Neurology
+      - Other
       required: false
     - id: 22
       name: doctor_name
@@ -214,13 +214,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 39, ''name'': ''father'', ''label'': ''Father''}'
-      - '{''id'': 40, ''name'': ''mother'', ''label'': ''Mother''}'
-      - '{''id'': 41, ''name'': ''brother'', ''label'': ''Brother''}'
-      - '{''id'': 42, ''name'': ''sister'', ''label'': ''Sister''}'
-      - '{''id'': 43, ''name'': ''other'', ''label'': ''Other''}'
-      - '{''id'': 44, ''name'': ''spouse'', ''label'': ''Spouse''}'
-      - '{''id'': 45, ''name'': ''unknown'', ''label'': ''Unknown''}'
+      - Father
+      - Mother
+      - Brother
+      - Sister
+      - Other
+      - Spouse
+      - Unknown
       required: false
     - id: 30
       name: patient_relationship_other

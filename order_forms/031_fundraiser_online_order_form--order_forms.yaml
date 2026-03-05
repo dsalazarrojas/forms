@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cash'', ''value'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Credit Card'', ''value'': ''Credit Card''}'
-      - '{''id'': 3, ''name'': ''Check'', ''value'': ''Check''}'
+      - Cash
+      - Credit Card
+      - Check
       required: false
     - id: 6
       name: order_type
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Donation'', ''value'': ''Donation''}'
-      - '{''id'': 2, ''name'': ''Order'', ''value'': ''Order''}'
+      - Donation
+      - Order
       required: false
     - id: 7
       name: donation_amount
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''One Time'', ''value'': ''One Time''}'
-      - '{''id'': 2, ''name'': ''Ongoing'', ''value'': ''Ongoing''}'
+      - One Time
+      - Ongoing
       required: false
     - id: 9
       name: donor_name

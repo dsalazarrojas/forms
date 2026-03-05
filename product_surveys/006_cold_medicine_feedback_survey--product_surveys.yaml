@@ -1,301 +1,290 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cold Medicine Feedback Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Full Name
-        hint: Optional - your name for follow-up
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email
-        label: Email Address
-        hint: For survey completion confirmation
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: age_group
-        label: Age Group
-        hint: Select your age range
-        type: select_one
-        options:
-          - Under 18
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45-54
-          - 55-64
-          - 65 or older
-        required: true
-      - id: 4
-        name: gender
-        label: Gender
-        hint: Optional demographic information
-        type: select_one
-        options:
-          - Male
-          - Female
-          - Non-Binary
-          - Prefer not to say
-        required: false
-      - id: 5
-        name: medicine_name
-        label: Cold Medicine Product Name
-        hint: Brand and product name used
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: medicine_type
-        label: Type of Cold Medicine
-        hint: Select the product type
-        type: select_one
-        options:
-          - Tablet
-          - Capsule
-          - Liquid Syrup
-          - Nasal Spray
-          - Lozenge
-          - Powder
-          - Tea
-          - Other
-        required: true
-      - id: 7
-        name: purchase_location
-        label: Where Did You Purchase
-        hint: Location of purchase
-        type: select_one
-        options:
-          - Pharmacy
-          - Grocery Store
-          - Convenience Store
-          - Online
-          - Dollar Store
-          - Warehouse Club
-          - Other
-        required: true
-      - id: 8
-        name: usage_date
-        label: When Did You Use This Product
-        hint: Date or timeframe of use
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: symptoms_treated
-        label: Symptoms You Were Treating
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Runny Nose
-          - Congestion
-          - Cough
-          - Sore Throat
-          - Fever
-          - Headache
-          - Body Aches
-          - Sneezing
-          - Watery Eyes
-        required: true
-      - id: 10
-        name: dosage_followed
-        label: Did You Follow Recommended Dosage
-        hint: Usage instructions adherence
-        type: select_one
-        options:
-          - Yes Exactly
-          - Mostly
-          - Sometimes
-          - No
-        required: true
-      - id: 11
-        name: effectiveness_rating
-        label: Overall Effectiveness Rating
-        hint: How well did it work
-        type: select_one
-        options:
-          - Very Effective
-          - Effective
-          - Somewhat Effective
-          - Not Very Effective
-          - Not Effective At All
-        required: true
-      - id: 12
-        name: symptom_relief
-        label: Which Symptoms Were Relieved
-        hint: Select symptoms that improved
-        type: select_multiple
-        options:
-          - Runny Nose
-          - Congestion
-          - Cough
-          - Sore Throat
-          - Fever
-          - Headache
-          - Body Aches
-          - Sneezing
-          - Watery Eyes
-          - None
-        required: true
-      - id: 13
-        name: onset_time
-        label: How Quickly Did It Start Working
-        hint: Time until you felt relief
-        type: select_one
-        options:
-          - Less than 15 minutes
-          - 15-30 minutes
-          - 30-60 minutes
-          - 1-2 hours
-          - 2-4 hours
-          - More than 4 hours
-          - Did not work
-        required: true
-      - id: 14
-        name: duration_of_relief
-        label: How Long Did Relief Last
-        hint: Duration of symptom relief
-        type: select_one
-        options:
-          - Less than 2 hours
-          - 2-4 hours
-          - 4-6 hours
-          - 6-8 hours
-          - 8-12 hours
-          - More than 12 hours
-        required: true
-      - id: 15
-        name: side_effects_experienced
-        label: Did You Experience Side Effects
-        hint: Any adverse reactions
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: side_effects_list
-        label: Side Effects Experienced
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Drowsiness
-          - Dizziness
-          - Dry Mouth
-          - Nausea
-          - Upset Stomach
-          - Headache
-          - Nervousness
-          - Insomnia
-          - Increased Heart Rate
-          - Other
-        required: false
-      - id: 17
-        name: side_effects_severity
-        label: Side Effects Severity
-        hint: How severe were the side effects
-        type: select_one
-        options:
-          - Very Mild
-          - Mild
-          - Moderate
-          - Severe
-          - Very Severe
-          - N/A
-        required: false
-      - id: 18
-        name: taste_rating
-        label: Taste Rating
-        hint: If applicable
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-          - Not Applicable
-        required: true
-      - id: 19
-        name: ease_of_use
-        label: Ease of Use
-        hint: How easy was it to use
-        type: select_one
-        options:
-          - Very Easy
-          - Easy
-          - Neutral
-          - Difficult
-          - Very Difficult
-        required: true
-      - id: 20
-        name: value_for_money
-        label: Value for Money
-        hint: Was it worth the price
-        type: select_one
-        options:
-          - Excellent Value
-          - Good Value
-          - Fair Value
-          - Poor Value
-          - Very Poor Value
-        required: true
-      - id: 21
-        name: would_recommend
-        label: Would You Recommend This Product
-        hint: To friends or family
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Not Sure
-          - Probably No
-          - Definitely No
-        required: true
-      - id: 22
-        name: would_purchase_again
-        label: Would You Purchase Again
-        hint: Future purchase intent
-        type: select_one
-        options:
-          - Definitely Yes
-          - Probably Yes
-          - Not Sure
-          - Probably No
-          - Definitely No
-        required: true
-      - id: 23
-        name: comparison_to_other_products
-        label: How Does This Compare to Other Cold Medicines
-        hint: Better, worse, or similar
-        type: select_one
-        options:
-          - Much Better
-          - Somewhat Better
-          - About the Same
-          - Somewhat Worse
-          - Much Worse
-          - First Time Using
-        required: true
-      - id: 24
-        name: additional_comments
-        label: Additional Comments or Feedback
-        hint: Any other thoughts to share
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: Optional - your name for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For survey completion confirmation
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Optional demographic information
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: medicine_name
+      label: Cold Medicine Product Name
+      hint: Brand and product name used
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medicine_type
+      label: Type of Cold Medicine
+      hint: Select the product type
+      type: select_one
+      options:
+      - Tablet
+      - Capsule
+      - Liquid Syrup
+      - Nasal Spray
+      - Lozenge
+      - Powder
+      - Tea
+      - Other
+      required: true
+    - id: 7
+      name: purchase_location
+      label: Where Did You Purchase
+      hint: Location of purchase
+      type: select_one
+      options:
+      - Pharmacy
+      - Grocery Store
+      - Convenience Store
+      - Online
+      - Dollar Store
+      - Warehouse Club
+      - Other
+      required: true
+    - id: 8
+      name: usage_date
+      label: When Did You Use This Product
+      hint: Date or timeframe of use
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: symptoms_treated
+      label: Symptoms You Were Treating
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Runny Nose
+      - Congestion
+      - Cough
+      - Sore Throat
+      - Fever
+      - Headache
+      - Body Aches
+      - Sneezing
+      - Watery Eyes
+      required: true
+    - id: 10
+      name: dosage_followed
+      label: Did You Follow Recommended Dosage
+      hint: Usage instructions adherence
+      type: select_one
+      options:
+      - Yes Exactly
+      - Mostly
+      - Sometimes
+      - 'False'
+      required: true
+    - id: 11
+      name: effectiveness_rating
+      label: Overall Effectiveness Rating
+      hint: How well did it work
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not Effective At All
+      required: true
+    - id: 12
+      name: symptom_relief
+      label: Which Symptoms Were Relieved
+      hint: Select symptoms that improved
+      type: select_multiple
+      options:
+      - Runny Nose
+      - Congestion
+      - Cough
+      - Sore Throat
+      - Fever
+      - Headache
+      - Body Aches
+      - Sneezing
+      - Watery Eyes
+      - None
+      required: true
+    - id: 13
+      name: onset_time
+      label: How Quickly Did It Start Working
+      hint: Time until you felt relief
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      - Did not work
+      required: true
+    - id: 14
+      name: duration_of_relief
+      label: How Long Did Relief Last
+      hint: Duration of symptom relief
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - 6-8 hours
+      - 8-12 hours
+      - More than 12 hours
+      required: true
+    - id: 15
+      name: side_effects_experienced
+      label: Did You Experience Side Effects
+      hint: Any adverse reactions
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: side_effects_list
+      label: Side Effects Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Drowsiness
+      - Dizziness
+      - Dry Mouth
+      - Nausea
+      - Upset Stomach
+      - Headache
+      - Nervousness
+      - Insomnia
+      - Increased Heart Rate
+      - Other
+      required: false
+    - id: 17
+      name: side_effects_severity
+      label: Side Effects Severity
+      hint: How severe were the side effects
+      type: select_one
+      options:
+      - Very Mild
+      - Mild
+      - Moderate
+      - Severe
+      - Very Severe
+      - N/A
+      required: false
+    - id: 18
+      name: taste_rating
+      label: Taste Rating
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      - Not Applicable
+      required: true
+    - id: 19
+      name: ease_of_use
+      label: Ease of Use
+      hint: How easy was it to use
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 20
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the price
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 21
+      name: would_recommend
+      label: Would You Recommend This Product
+      hint: To friends or family
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: would_purchase_again
+      label: Would You Purchase Again
+      hint: Future purchase intent
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 23
+      name: comparison_to_other_products
+      label: How Does This Compare to Other Cold Medicines
+      hint: Better, worse, or similar
+      type: select_one
+      options:
+      - Much Better
+      - Somewhat Better
+      - About the Same
+      - Somewhat Worse
+      - Much Worse
+      - First Time Using
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other thoughts to share
+      type: text
+      options: []
+      required: false

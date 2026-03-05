@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USA''}'
-      - '{''label'': ''Canada''}'
-      - '{''label'': ''Mexico''}'
-      - '{''label'': ''UK''}'
-      - '{''label'': ''Japan''}'
+      - USA
+      - Canada
+      - Mexico
+      - UK
+      - Japan
       required: false
     - id: 10
       name: customer_terms_and_conditions
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I have read and agree to the terms and conditions''}'
-      - '{''label'': ''I do not agree to the terms and conditions''}'
-      - '{''label'': ''I do not have access to the terms and conditions''}'
+      - I have read and agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      - I do not have access to the terms and conditions
       required: false
     - id: 11
       name: number_of_tickets
@@ -115,8 +115,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash.reported''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Cash.reported
+      - Bank Transfer
       required: false
     - id: 16
       name: total_price
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''General Admission''}'
-      - '{''label'': ''VIP''}'
-      - '{''label'': ''Student''}'
+      - General Admission
+      - VIP
+      - Student
       required: false
     - id: 19
       name: customer_note
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Unknown''}'
-      - '{''label'': ''Voided''}'
+      - Active
+      - Inactive
+      - Unknown
+      - Voided
       required: false

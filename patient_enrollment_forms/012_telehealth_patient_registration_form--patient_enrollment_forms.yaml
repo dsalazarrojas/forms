@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male'', ''label'': ''Male''}'
-      - '{''value'': ''female'', ''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 5
       name: email
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''diabetes'', ''label'': ''Diabetes''}'
-      - '{''value'': ''hypertension'', ''label'': ''Hypertension''}'
+      - Diabetes
+      - Hypertension
       required: true
     - id: 9
       name: medication_allergies
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pdf'', ''label'': ''PDF''}'
-      - '{''value'': ''image'', ''label'': ''Image''}'
+      - PDF
+      - Image
       required: false
     - id: 23
       name: upload_file_name

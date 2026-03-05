@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''ACH''}'
-      - '{''id'': 2, ''label'': ''Wire''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - ACH
+      - Wire
+      - Other
       required: false
     - id: 2
       name: account_number
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''EST''}'
-      - '{''id'': 2, ''label'': ''CST''}'
-      - '{''id'': 3, ''label'': ''MST''}'
+      - EST
+      - CST
+      - MST
       required: false
     - id: 10
       name: account_holder_name

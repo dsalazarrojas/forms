@@ -32,11 +32,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''string''}'
-      - '{''value'': ''integer''}'
-      - '{''value'': ''boolean''}'
-      - '{''value'': ''timestamp''}'
-      - '{''value'': ''list''}'
+      - string
+      - integer
+      - boolean
+      - timestamp
+      - list
       required: false
     - id: 5
       name: data_type
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''varchar''}'
-      - '{''value'': ''date''}'
-      - '{''value'': ''double''}'
+      - varchar
+      - date
+      - double
       required: false
     - id: 6
       name: relationships

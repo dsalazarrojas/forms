@@ -5,226 +5,122 @@ inputSchema:
     pages:
     - id: 1
       name: patient_feedback
-      label: patient_feedback
+      label: Patient Feedback
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 2
       name: medical_condition
-      label: medical_condition
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: medication_name
-      label: medication_name
+      label: Medical Condition
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: medical_supervision
+      label: Medical Supervision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: medication_frequency
-      label: medication_frequency
+      label: Medication Frequency
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 5
-      name: medical_supervision
-      label: medical_supervision
+      name: medical_profession
+      label: Medical Profession
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Doctor
+      - Nurse
+      - Pharmacist
+      - Other
       required: false
     - id: 6
-      name: medication_interactions
-      label: medication_interactions
+      name: medication_side_effects
+      label: Medication Side Effects
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Headache
+      - Dizziness
+      - Fatigue
+      - Nausea
+      - Other
       required: false
     - id: 7
-      name: patient_history
-      label: patient_history
+      name: medical_supervisor
+      label: Medical Supervisor
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Doctor
+      - Nurse
+      - Pharmacist
+      - Other
       required: false
     - id: 8
       name: patient_allergies
-      label: patient_allergies
+      label: Patient Allergies
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - None
+      - 'True'
       required: false
     - id: 9
-      name: medical_conditions
-      label: medical_conditions
+      name: medication_side_effects_2
+      label: Medication Side Effects 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Headache
+      - Dizziness
+      - Fatigue
+      - Nausea
       required: false
     - id: 10
-      name: medication_side_effects
-      label: medication_side_effects
+      name: medical_check_up
+      label: Medical Check-up
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 11
-      name: medical_professions
-      label: medical_professions
+      name: patient_dose
+      label: Patient Dose
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 12
-      name: medical_supervisions
-      label: medical_supervisions
+      name: medical_profession_2
+      label: Medical Profession 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: patient_dose
-      label: patient_dose
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: medical_supervise
-      label: medical_supervise
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: medical_supervisors
-      label: medical_supervisors
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: medication_side_effect
-      label: medication_side_effect
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: medication_side_effects
-      label: medication_side_effects
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: medical_supervises
-      label: medical_supervises
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: patient_frequency
-      label: patient_frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: medical_supervising
-      label: medical_supervising
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: medical_supervisely
-      label: medical_supervisely
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: medical_supervisors
-      label: medical_supervisors_
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: medical_supervisely
-      label: medical_supervisely_
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: medical_supervising
-      label: medical_supervising_
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: medical_supervising
-      label: medical_supervising_
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Doctor
+      - Nurse
+      - Pharmacist
       required: false

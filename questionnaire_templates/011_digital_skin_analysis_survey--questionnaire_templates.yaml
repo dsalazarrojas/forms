@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Normal''}'
-      - '{''value'': ''Dry''}'
-      - '{''value'': ''Sensitive''}'
-      - '{''value'': ''Oily''}'
-      - '{''value'': ''Combination''}'
+      - Normal
+      - Dry
+      - Sensitive
+      - Oily
+      - Combination
       required: true
     - id: 7
       name: skin
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Visual''}'
-      - '{''value'': ''Manual''}'
-      - '{''value'': ''Digital''}'
+      - Visual
+      - Manual
+      - Digital
       required: false
     - id: 11
       name: preferred_language
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''French''}'
-      - '{''value'': ''Deutsch''}'
+      - English
+      - Spanish
+      - French
+      - Deutsch
       required: true
     - id: 12
       name: skin_color
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: skincare_products
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: follow_up_frequency
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 19
       name: follow_up_method
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
+      - Email
+      - Phone
       required: false
     - id: 20
       name: follow_up_date
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: skincare_products_pros

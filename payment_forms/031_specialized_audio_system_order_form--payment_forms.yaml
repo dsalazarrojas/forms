@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''id'': 2, ''label'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 11
       name: email
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: customer_signature
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accepted'', ''value'': ''accepted''}'
-      - '{''id'': 2, ''label'': ''Not Accepted'', ''value'': ''not_accepted''}'
+      - Accepted
+      - Not Accepted
       required: false
     - id: 16
       name: customer_order_notes
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: customer_agreement_date
@@ -186,7 +186,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Processing'', ''value'': ''processing''}'
-      - '{''id'': 2, ''label'': ''Delivered'', ''value'': ''delivered''}'
-      - '{''id'': 3, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - Processing
+      - Delivered
+      - Cancelled
       required: false

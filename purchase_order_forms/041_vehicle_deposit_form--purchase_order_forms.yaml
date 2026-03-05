@@ -30,10 +30,10 @@ inputSchema:
       hint: Select a payment method
       type: select_one
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Check''}'
-      - '{''label'': ''Credit''}'
-      - '{''label'': ''Other''}'
+      - Cash
+      - Check
+      - Credit
+      - Other
       required: false
     - id: 5
       name: payment_terms
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Net 30''}'
-      - '{''label'': ''30/60''}'
-      - '{''label'': ''60/90''}'
-      - '{''label'': ''Other''}'
+      - Net 30
+      - 30/60
+      - 60/90
+      - Other
       required: false
     - id: 6
       name: vehicle_details

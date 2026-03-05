@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 2
       name: payment_status
@@ -19,9 +19,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Failed''}'
+      - Paid
+      - Pending
+      - Failed
       required: false
     - id: 3
       name: customer_feedback
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Not Satisfied
       required: true
     - id: 10
       name: would_use_again
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: rating

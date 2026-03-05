@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Average
+      - Bad
       required: false
     - id: 3
       name: exercise_frequency
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Often''}'
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Often
       required: false
     - id: 4
       name: medical_conditions
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Heart Conditions''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''Other''}'
+      - Heart Conditions
+      - Diabetes
+      - Other
       required: false
     - id: 5
       name: medications
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': None}'
-      - '{''label'': None}'
+      - Option 1
+      - Option 2
       required: false
     - id: 7
       name: medical_procedures
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Heart Surgery''}'
-      - '{''label'': ''Other''}'
+      - None
+      - Heart Surgery
+      - Other
       required: false
     - id: 8
       name: last_medical_check
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''More than 6 months ago''}'
-      - '{''label'': ''Less than 6 months ago''}'
-      - '{''label'': ''1-2 months ago''}'
-      - '{''label'': ''Less than 1 month ago''}'
+      - More than 6 months ago
+      - Less than 6 months ago
+      - 1-2 months ago
+      - Less than 1 month ago
       required: false
     - id: 9
       name: exercise_risk_factors
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Heart Conditions''}'
-      - '{''label'': ''High Blood Pressure''}'
-      - '{''label'': ''Other''}'
+      - Heart Conditions
+      - High Blood Pressure
+      - Other
       required: false
     - id: 10
       name: exercise_contraindications
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Knee Problems''}'
-      - '{''label'': ''Back Problems''}'
+      - None
+      - Knee Problems
+      - Back Problems
       required: false
     - id: 11
       name: emergency_contact
@@ -133,8 +133,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: medical_procedure_details

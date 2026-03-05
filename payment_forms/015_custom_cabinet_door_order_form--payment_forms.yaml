@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Confirm''}'
-      - '{''value'': ''Cancel''}'
+      - Confirm
+      - Cancel
       required: false
     - id: 7
       name: email
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pickup''}'
-      - '{''value'': ''Delivery''}'
-      - '{''value'': ''Shipping''}'
+      - Pickup
+      - Delivery
+      - Shipping
       required: false
     - id: 10
       name: payment_method
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online Payment''}'
-      - '{''value'': ''Offline Payment''}'
+      - Online Payment
+      - Offline Payment
       required: false
     - id: 11
       name: delivery_date
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Style 1''}'
-      - '{''value'': ''Style 2''}'
-      - '{''value'': ''Style 3''}'
+      - Style 1
+      - Style 2
+      - Style 3
       required: false
     - id: 14
       name: sizing
@@ -110,7 +110,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Size 1''}'
-      - '{''value'': ''Size 2''}'
-      - '{''value'': ''Size 3''}'
+      - Size 1
+      - Size 2
+      - Size 3
       required: false

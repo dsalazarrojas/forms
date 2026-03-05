@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''score1''}'
-      - '{''value'': ''score2''}'
-      - '{''value'': ''score3''}'
+      - score1
+      - score2
+      - score3
       required: true
     - id: 5
       name: test_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''unknown''}'
+      - active
+      - inactive
+      - unknown
       required: false
     - id: 8
       name: patient_outcome

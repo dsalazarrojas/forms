@@ -6,190 +6,53 @@ inputSchema:
     - id: 1
       name: move_in_cost_payment_agreement_form
       label: Move In Cost Payment Agreement
-      hint: null
+      hint: Please fill out the following information to complete the move-in cost
+        payment agreement
       type: text
       options: []
       required: false
     - id: 2
-      name: move_in_cost_payment_agreement_form_date
+      name: move_in_cost_payment_agreement_form_move_in_date
       label: Move In Date
-      hint: null
+      hint: The date the tenant will move in
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: move_in_cost_payment_agreement_form_rent
+      name: move_in_cost_payment_agreement_form_rent_amount
       label: Rent Amount
-      hint: null
-      type: text
+      hint: The total rent amount for the first month
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: move_in_cost_payment_agreement_form_deposit
+      name: move_in_cost_payment_agreement_form_security_deposit
       label: Security Deposit
-      hint: null
+      hint: The security deposit amount required for move-in
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: move_in_cost_payment_agreement_form_security_deposit_bond
-      label: Security Deposit Bond
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: move_in_cost_payment_agreement_form_payment_method
+      label: Payment Method
+      hint: The method the tenant will use to pay rent
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Money Order
+      required: true
     - id: 6
-      name: move_in_cost_payment_agreement_form_payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      name: move_in_cost_payment_agreement_form_bond_info
+      label: Security Deposit Bond
+      hint: Is a bond required for the security deposit?
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: move_in_cost_payment_agreement_form_move_in_date
-      label: Move In Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: move_in_cost_payment_agreement_form_rent_amount
-      label: Rent Amount
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: move_in_cost_payment_agreement_form_security_deposit
-      label: Security Deposit
-      hint: null
+      name: move_in_cost_payment_agreement_form_move_in_cost
+      label: Move In Cost
+      hint: Additional costs for move-in (e.g. utility deposits, fees)
       type: number
       options: []
-      required: false
-    - id: 10
-      name: move_in_cost_payment_agreement_form_security_deposit_bond
-      label: Security Deposit Bond
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: move_in_cost_payment_agreement_form_payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: move_in_cost_payment_agreement_form_rent_amount
-      label: Rent Amount
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: move_in_cost_payment_agreement_form_security_deposit
-      label: Security Deposit
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: move_in_cost_payment_agreement_form_security_deposit_bond
-      label: Security Deposit Bond
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: move_in_cost_payment_agreement_form_payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: move_in_cost_payment_agreement_form_move_in_date
-      label: Move In Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: move_in_cost_payment_agreement_form_rent_amount
-      label: Rent Amount
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: move_in_cost_payment_agreement_form_security_deposit
-      label: Security Deposit
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: move_in_cost_payment_agreement_form_security_deposit_bond
-      label: Security Deposit Bond
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: move_in_cost_payment_agreement_form_payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: move_in_cost_payment_agreement_form_rent_amount
-      label: Rent Amount
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: move_in_cost_payment_agreement_form_security_deposit
-      label: Security Deposit
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: move_in_cost_payment_agreement_form_security_deposit_bond
-      label: Security Deposit Bond
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: move_in_cost_payment_agreement_form_payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: move_in_cost_payment_agreement_form_move_in_date
-      label: Move In Date
-      hint: null
-      type: date
-      options: []
-      required: false
+      required: true

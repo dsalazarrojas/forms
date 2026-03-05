@@ -44,12 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Very Poor''}'
-      - '{''label'': ''Not Satisfactory''}'
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      - Very Poor
+      - Not Satisfactory
       required: false
     - id: 7
       name: rating
@@ -57,11 +57,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 8
       name: additional_comments

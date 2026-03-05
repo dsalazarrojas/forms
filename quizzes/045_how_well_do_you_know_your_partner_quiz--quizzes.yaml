@@ -4,242 +4,122 @@ inputSchema:
     title: how_well_do_you_know_your_partner_quiz
     pages:
     - id: 1
-      name: first_question
-      label: first_question
+      name: partner_favourite_food
+      label: What's your partner's favorite food?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Apple
+      - Pizza
+      - Sushi
+      - Burgers
+      - Salad
       required: false
     - id: 2
-      name: favorite_food
-      label: favorite_food
+      name: partner_hobbies
+      label: Does your partner have a favorite hobby?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Hiking
+      - Reading
+      - Sports
+      - Traveling
+      - Music
       required: false
     - id: 3
-      name: partner_interests
-      label: partner_interests
+      name: partner_employment_status
+      label: How well do you know your partner's employment status?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
       required: false
     - id: 4
-      name: partner_employment_status
-      label: partner_employment_status
+      name: partner_favorite_music
+      label: What's your partner's favorite music genre?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed'', ''value'': ''employed''}'
-      - '{''id'': 2, ''label'': ''Student'', ''value'': ''student''}'
-      - '{''id'': 3, ''label'': ''Retired'', ''value'': ''retired''}'
-      - '{''id'': 4, ''label'': ''Disabled'', ''value'': ''disabled''}'
+      - Pop
+      - Rock
+      - Classical
+      - Jazz
+      - Electronic
       required: false
     - id: 5
-      name: partner_education_level
-      label: partner_education_level
+      name: partner_favorite_holiday_destination
+      label: What's your partner's favorite holiday destination?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Primary'', ''value'': ''primary''}'
-      - '{''id'': 2, ''label'': ''Secondary'', ''value'': ''secondary''}'
-      - '{''id'': 3, ''label'': ''High'', ''value'': ''high''}'
-      - '{''id'': 4, ''label'': ''Some College'', ''value'': ''some_college''}'
-      - '{''id'': 5, ''label'': "Bachelor''s", ''value'': ''bachelors''}'
-      - '{''id'': 6, ''label'': "Master''s", ''value'': ''masters''}'
-      - '{''id'': 7, ''label'': ''Doctorate'', ''value'': ''doctorate''}'
-      - '{''id'': 8, ''label'': ''Other'', ''value'': ''other''}'
+      - Beach
+      - Mountain
+      - City
+      - Park
+      - Lake
       required: false
     - id: 6
-      name: partner_workplace
-      label: partner_workplace
+      name: partner_favorite_movie
+      label: Does your partner enjoy watching movies?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 7
-      name: partner_favorite_hobby
-      label: favorite_hobby
+      name: partner_favorite_book
+      label: What's your partner's favorite book?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: partner_occupation
-      label: partner_occupation
+      name: partner_favorite_color
+      label: Does your partner have a favorite color?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Purple
       required: false
     - id: 9
-      name: partner_favorite_color
-      label: favorite_color
+      name: partner_favorite_sport
+      label: Does your partner enjoy playing sports?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: partner_favorite_music
-      label: favorite_music
+      name: partner_favorite_instrument
+      label: What's your partner's favorite music instrument?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: partner_favorite_food
-      label: favorite_food
+      name: partner_favorite_destination
+      label: Has your partner traveled to their favorite destination?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Sometime
       required: false
     - id: 12
-      name: partner_favourite_drink
-      label: favorite_drink
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: partner_hobbies
-      label: favorite_hobbies
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: partner_favorite_movie
-      label: favorite_movie
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: partner_favorite_sport
-      label: favorite_sport
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: partner_favorite_book
-      label: favorite_book
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: partner_favorite_band
-      label: favorite_band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
       name: partner_favorite_travel_destination
-      label: favorite_travel_destination
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: partner_favorite_music_genre
-      label: favorite_music_genre
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: partner_favorite_hobby
-      label: favorite_hobby
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: partner_hobbies
-      label: hobbies
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: partner_favorite_holiday
-      label: favorite_holiday
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: partner_favorite_holiday_trip
-      label: favorite_holiday_trip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: partner_favourite_drink
-      label: favourite_drink
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: partner_employed
-      label: employed
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      required: false
-    - id: 26
-      name: partner_edu
-      label: education
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 9, ''label'': ''Employed'', ''value'': ''employed''}'
-      - '{''id'': 10, ''label'': ''Self'', ''value'': ''self''}'
-      - '{''id'': 11, ''label'': ''Retired'', ''value'': ''retired''}'
-      - '{''id'': 12, ''label'': ''Disabled'', ''value'': ''disabled''}'
-      - '{''id'': 13, ''label'': ''Deceased'', ''value'': ''deceased''}'
-      - '{''id'': 14, ''label'': ''Unemployed'', ''value'': ''unemployed''}'
-      - '{''id'': 15, ''label'': ''Student'', ''value'': ''student''}'
-      required: false
-    - id: 27
-      name: partner_hobbies
-      label: partner_hobbies
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 28
-      name: partner_education
-      label: partner_education
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 9, ''label'': ''Employed'', ''value'': ''employed''}'
-      - '{''id'': 10, ''label'': ''Self'', ''value'': ''self''}'
-      - '{''id'': 11, ''label'': ''Retired'', ''value'': ''retired''}'
-      - '{''id'': 12, ''label'': ''Disabled'', ''value'': ''disabled''}'
-      - '{''id'': 13, ''label'': ''Deceased'', ''value'': ''deceased''}'
-      - '{''id'': 15, ''label'': ''Student'', ''value'': ''student'', ''value2'':
-        None}'
-      required: false
-    - id: 29
-      name: partner_favourite_sport
-      label: favorite_sport
+      label: What's your partner's favorite travel destination?
       hint: null
       type: text
       options: []

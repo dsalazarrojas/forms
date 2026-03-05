@@ -4,26 +4,18 @@ inputSchema:
     title: market_driver_analysis_survey
     pages:
     - id: 1
-      name: driver
-      label: What drivers
+      name: driver_goals
+      label: What are the goals of the driver?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
-      name: impact
-      label: What impact do these.report
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 3
       name: priority
-      label: What priority
+      label: What is the priority of the driver's impact on the customer's purchasing
+        decision?
       hint: null
       type: select_one
       options:
@@ -32,224 +24,65 @@ inputSchema:
       - Medium
       - Low
       required: true
-    - id: 4
+    - id: 3
       name: notes
-      label: notes
+      label: Notes
       hint: null
       type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: What is the customer's email address?
+      hint: null
+      type: email
       options: []
       required: false
     - id: 5
-      name: email
-      label: email
+      name: phone
+      label: What is the customer's phone number?
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 6
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: driver_goals
-      label: driver_goals
+      name: driver_characteristics
+      label: What are the characteristics of the driver?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: market_drivers
+      label: What are the drivers of the market?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 8
-      name: driver_characteristics
-      label: driver_characteristics
+      name: driver_impact
+      label: What is the driver's impact on the customer's purchasing decision?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
-      name: market
-      label: market drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 10
-      name: market_drivers
-      label: market drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: market_drivers
-      label: market drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 12
-      name: impact_1
-      label: drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: impact_2
-      label: drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 14
-      name: impact_3
-      label: drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: priority_1
-      label: priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: priority_2
-      label: priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: priority_3
-      label: priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
       name: notes_1
-      label: notes
+      label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 19
+    - id: 10
       name: notes_2
-      label: notes
+      label: More Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 20
-      name: notes_3
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: email_1
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: email_2
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: email_3
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: phone_1
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: phone_2
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: driver_goals_1
-      label: driver_goals
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 27
-      name: driver_characteristics_1
-      label: driver_characteristics
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 28
-      name: market_drivers_1
-      label: market drivers
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 29
-      name: driver_impact_1
-      label: driver impact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 30
-      name: driver_impact_2
-      label: driver impact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true

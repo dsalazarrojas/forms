@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Single''}'
-      - '{''id'': 2, ''value'': ''Married''}'
-      - '{''id'': 3, ''value'': ''In a relationship''}'
-      - '{''id'': 4, ''value'': ''Other, specify''}'
+      - Single
+      - Married
+      - In a relationship
+      - Other, specify
       required: false
     - id: 2
       name: relationship_duration
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''1-2 months''}'
-      - '{''id'': 2, ''value'': ''2-6 months''}'
-      - '{''id'': 3, ''value'': ''6 months - 1 year''}'
-      - '{''id'': 4, ''value'': ''Over 1 year''}'
+      - 1-2 months
+      - 2-6 months
+      - 6 months - 1 year
+      - Over 1 year
       required: false
     - id: 3
       name: relationship_type
@@ -31,10 +31,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Romantic''}'
-      - '{''id'': 2, ''value'': ''Family''}'
-      - '{''id'': 3, ''value'': ''Friend''}'
-      - '{''id'': 4, ''value'': ''Other, specify''}'
+      - Romantic
+      - Family
+      - Friend
+      - Other, specify
       required: false
     - id: 4
       name: relationship_status_change
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Started dating''}'
-      - '{''id'': 2, ''value'': ''Broke up''}'
-      - '{''id'': 3, ''value'': ''Got married''}'
-      - '{''id'': 4, ''value'': ''Moved in together''}'
-      - '{''id'': 5, ''value'': ''Moved apart''}'
+      - Started dating
+      - Broke up
+      - Got married
+      - Moved in together
+      - Moved apart
       required: false
     - id: 5
       name: relationship_satisfaction
@@ -61,11 +61,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Very satisfied''}'
-      - '{''id'': 2, ''value'': ''Somewhat satisfied''}'
-      - '{''id'': 3, ''value'': ''Neutral''}'
-      - '{''id'': 4, ''value'': ''Somewhat dissatisfied''}'
-      - '{''id'': 5, ''value'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
     - id: 7
       name: relationship_satisfaction_reasons
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Very good''}'
-      - '{''id'': 2, ''value'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor''}'
+      - Very good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 10
       name: intimacy
@@ -98,11 +98,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Very intimate''}'
-      - '{''id'': 2, ''value'': ''Somewhat intimate''}'
-      - '{''id'': 3, ''value'': ''Neutral''}'
-      - '{''id'': 4, ''value'': ''Somewhat distant''}'
-      - '{''id'': 5, ''value'': ''Very distant''}'
+      - Very intimate
+      - Somewhat intimate
+      - Neutral
+      - Somewhat distant
+      - Very distant
       required: false
     - id: 11
       name: conflict
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Very few conflicts''}'
-      - '{''id'': 2, ''value'': ''Few conflicts''}'
-      - '{''id'': 3, ''value'': ''Moderate conflicts''}'
-      - '{''id'': 4, ''value'': ''Many conflicts''}'
+      - Very few conflicts
+      - Few conflicts
+      - Moderate conflicts
+      - Many conflicts
       required: false
     - id: 12
       name: conflict_topics
@@ -149,10 +149,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Very much''}'
-      - '{''id'': 2, ''value'': ''Somewhat''}'
-      - '{''id'': 3, ''value'': ''A little''}'
-      - '{''id'': 4, ''value'': ''Not at all''}'
+      - Very much
+      - Somewhat
+      - A little
+      - Not at all
       required: false
     - id: 17
       name: trustworthiness
@@ -181,11 +181,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Text messages''}'
-      - '{''id'': 2, ''value'': ''Phone calls''}'
-      - '{''id'': 3, ''value'': ''Video calls''}'
-      - '{''id'': 4, ''value'': ''In-person meetings''}'
-      - '{''id'': 5, ''value'': ''Other, specify''}'
+      - Text messages
+      - Phone calls
+      - Video calls
+      - In-person meetings
+      - Other, specify
       required: false
     - id: 21
       name: communication_channels_other

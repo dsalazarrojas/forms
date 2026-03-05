@@ -16,10 +16,10 @@ inputSchema:
       hint: How often do learners practice language in a day?
       type: select_multiple
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Several times a week''}'
-      - '{''label'': ''Almost every day''}'
+      - Never
+      - Daily
+      - Several times a week
+      - Almost every day
       required: false
     - id: 3
       name: progress_assess
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Grammar''}'
-      - '{''label'': ''Vocab''}'
-      - '{''label'': ''Pronunciation''}'
-      - '{''label'': ''Listening''}'
+      - Grammar
+      - Vocab
+      - Pronunciation
+      - Listening
       required: false
     - id: 5
       name: feedback_req
@@ -52,10 +52,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not at all''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Often''}'
+      - Not at all
+      - Rarely
+      - Sometimes
+      - Often
       required: false
     - id: 7
       name: teacher_input

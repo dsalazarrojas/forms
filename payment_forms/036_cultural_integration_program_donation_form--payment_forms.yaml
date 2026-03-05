@@ -37,13 +37,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5.1, ''label'': ''Credit Card''}'
-      - '{''id'': ''5.1.assistant'', ''label'': ''PayPal''}'
-      - '{''id'': 5.2, ''label'': ''Apple Pay''}'
-      - '{''id'': ''5.2.assistant'', ''label'': ''Google Pay''}'
-      - '{''id'': 5.3, ''label'': ''Bank Transfer''}'
-      - '{''id'': 5.4, ''label'': ''Stripe''}'
-      - '{''id'': 5.5, ''label'': ''Amazon Pay''}'
+      - Credit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank Transfer
+      - Stripe
+      - Amazon Pay
       required: false
     - id: 6
       name: amount
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8.1, ''label'': True}'
-      - '{''id'': 8.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: confirm_cancellation
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 9.1, ''label'': True}'
-      - '{''id'': 9.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: confirm_receipt
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10.1, ''label'': True}'
-      - '{''id'': 10.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: confirm_terms
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11.1, ''label'': True}'
-      - '{''id'': 11.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: confirm_donation_date
@@ -115,8 +115,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14.1, ''label'': True}'
-      - '{''id'': 14.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: confirm_bank_transfer
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15.1, ''label'': True}'
-      - '{''id'': ''15.1.assistant'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: confirm_cancellation_date

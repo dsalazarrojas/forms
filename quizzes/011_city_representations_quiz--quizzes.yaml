@@ -1,156 +1,145 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: City Representations Quiz
     pages:
-      - id: 1
-        name: participant_header
-        label: -- Participant Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Your Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: participant_email
-        label: Your Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: quiz_start_note
-        label: -- The Quiz - Cities and Landmarks --
-        hint: Choose the best answer for each question
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: q1_eiffel_tower
-        label: In which city is the Eiffel Tower located?
-        hint: null
-        type: select_one
-        options:
-          - London
-          - Paris
-          - Berlin
-          - Rome
-        required: true
-      - id: 6
-        name: q2_statue_of_liberty
-        label: Which city hosts the Statue of Liberty?
-        hint: null
-        type: select_one
-        options:
-          - New York
-          - Los Angeles
-          - Chicago
-          - Miami
-        required: true
-      - id: 7
-        name: q3_tokyo_country
-        label: Tokyo is the capital of which country?
-        hint: null
-        type: select_one
-        options:
-          - China
-          - South Korea
-          - Japan
-          - Thailand
-        required: true
-      - id: 8
-        name: q4_colosseum
-        label: Where can you find the ancient Colosseum?
-        hint: null
-        type: select_one
-        options:
-          - Athens
-          - Rome
-          - Cairo
-          - Istanbul
-        required: true
-      - id: 9
-        name: q5_sydney_opera_house
-        label: The Opera House is a famous landmark in which Australian city?
-        hint: null
-        type: select_one
-        options:
-          - Melbourne
-          - Brisbane
-          - Sydney
-          - Perth
-        required: true
-      - id: 10
-        name: q6_rio_statue
-        label: The Christ the Redeemer statue overlooks which city?
-        hint: null
-        type: select_one
-        options:
-          - Sao Paulo
-          - Rio de Janeiro
-          - Buenos Aires
-          - Lima
-        required: true
-      - id: 11
-        name: q7_london_river
-        label: Which river flows through London?
-        hint: null
-        type: select_one
-        options:
-          - Seine
-          - Danube
-          - Thames
-          - Rhine
-        required: true
-      - id: 12
-        name: quiz_difficulty
-        label: How would you rate the difficulty of this quiz?
-        hint: null
-        type: select_one
-        options:
-          - Very Easy
-          - Easy
-          - Moderate
-          - Difficult
-          - Expert
-        required: false
-      - id: 13
-        name: feedback_comments
-        label: Do you have any suggestions for future quiz topics?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: notification_opt_in
-        label: Send me my score via email
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: quiz_completion_date
-        label: Date Completed
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: quiz_start_note
+      label: -- The Quiz - Cities and Landmarks --
+      hint: Choose the best answer for each question
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1_eiffel_tower
+      label: In which city is the Eiffel Tower located?
+      hint: null
+      type: select_one
+      options:
+      - London
+      - Paris
+      - Berlin
+      - Rome
+      required: true
+    - id: 6
+      name: q2_statue_of_liberty
+      label: Which city hosts the Statue of Liberty?
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Miami
+      required: true
+    - id: 7
+      name: q3_tokyo_country
+      label: Tokyo is the capital of which country?
+      hint: null
+      type: select_one
+      options:
+      - China
+      - South Korea
+      - Japan
+      - Thailand
+      required: true
+    - id: 8
+      name: q4_colosseum
+      label: Where can you find the ancient Colosseum?
+      hint: null
+      type: select_one
+      options:
+      - Athens
+      - Rome
+      - Cairo
+      - Istanbul
+      required: true
+    - id: 9
+      name: q5_sydney_opera_house
+      label: The Opera House is a famous landmark in which Australian city?
+      hint: null
+      type: select_one
+      options:
+      - Melbourne
+      - Brisbane
+      - Sydney
+      - Perth
+      required: true
+    - id: 10
+      name: q6_rio_statue
+      label: The Christ the Redeemer statue overlooks which city?
+      hint: null
+      type: select_one
+      options:
+      - Sao Paulo
+      - Rio de Janeiro
+      - Buenos Aires
+      - Lima
+      required: true
+    - id: 11
+      name: q7_london_river
+      label: Which river flows through London?
+      hint: null
+      type: select_one
+      options:
+      - Seine
+      - Danube
+      - Thames
+      - Rhine
+      required: true
+    - id: 12
+      name: quiz_difficulty
+      label: How would you rate the difficulty of this quiz?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Expert
+      required: false
+    - id: 13
+      name: feedback_comments
+      label: Do you have any suggestions for future quiz topics?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notification_opt_in
+      label: Send me my score via email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: quiz_completion_date
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -15,107 +15,98 @@ inputSchema:
     title: Square Registration Form
     pages:
     - id: 1
-      name: form_provider_info
-      label: form provider info
+      name: registration_information
+      label: Registration Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: square_payment_form
-      label: square payment form
+      name: provider_info
+      label: Provider Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: form_provider_info_2
-      label: provider contact info
+      name: payment_terms
+      label: Payment Terms
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: form_payment_terms
-      label: payment terms
+      name: signature
+      label: Signature
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: form_signature
-      label: form signature
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: form_provider_info
-      label: provider info
+      name: payment_terms_agreement
+      label: Payment Terms Agreement
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Agree
+      - Decline
+      required: true
     - id: 7
-      name: form_signature_2
-      label: signature
+      name: registration_verification
+      label: Registration Verification
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: form_payment_terms_2
-      label: payment terms 2
+      name: payment_options
+      label: Payment Options
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 9
-      name: form_signature_2
-      label: signature 2
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 10
-      name: form_provider_info_2
-      label: provider info 2
+      name: additional_details
+      label: Additional Details
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: form_signature
-      label: signature
+      name: confirm_registration
+      label: Confirm Registration
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Confirm
+      - Decline
+      required: true
     - id: 12
-      name: form_provider_info
-      label: provider info
+      name: terms_and_conditions
+      label: Terms and Conditions
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_signature_2
-      label: signature 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_payment_terms
-      label: payment terms 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_signature
-      label: signature
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Agree
+      - Decline
+      required: true

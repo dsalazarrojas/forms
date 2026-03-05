@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Hourly'', ''value'': ''hourly''}'
-      - '{''label'': ''Package'', ''value'': ''package''}'
-      - '{''label'': ''Flat Fee'', ''value'': ''flat_fee''}'
+      - Hourly
+      - Package
+      - Flat Fee
       required: true
     - id: 10
       name: retainer_start_date
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit/Debit Card'', ''value'': ''credit/debit_card''}'
-      - '{''label'': ''Invoice'', ''value'': ''invoice''}'
-      - '{''label'': ''ACH'', ''value'': ''ach''}'
+      - Credit/Debit Card
+      - Invoice
+      - ACH
       required: true
     - id: 18
       name: payment_terms_frequency_description

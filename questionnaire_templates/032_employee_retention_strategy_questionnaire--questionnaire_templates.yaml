@@ -1,315 +1,177 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Employee Retention Strategy Questionnaire
     pages:
     - id: 1
-      name: employee_retention_strategy_questionnaire
-      label: employee_retention_strategy_questionnaire
+      name: employee_satisfaction_page
+      label: Employee Satisfaction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: employee_satisfaction
-      label: employee_satisfaction
+      name: employee_satisfaction_1
+      label: What are the key drivers of employee satisfaction?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 3
-      name: job_security
-      label: job_security
+      name: company_culture_page
+      label: Company Culture
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Option A
+      - Option B
       required: false
     - id: 4
-      name: manager_support
-      label: manager_support
+      name: company_culture_1
+      label: How does company culture impact employee retention?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 5
-      name: benefits
-      label: benefits
+      name: company_values_page
+      label: Company Values
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Option A
+      - Option B
       required: false
     - id: 6
-      name: company_values
-      label: company_values
+      name: company_values_1
+      label: What are the primary values that a company should embody to attract and
+        retain top talent?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 7
-      name: company_culture
-      label: company_culture
+      name: company_image_page
+      label: Company Image
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: job_fit
-      label: job_fit
+      name: company_image_1
+      label: How does a company's image impact employee retention?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 9
-      name: job_satisfaction
-      label: job_satisfaction
+      name: career_growth_page
+      label: Career Growth
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option A
+      - Option B
       required: false
     - id: 10
-      name: company_image
-      label: company_image
+      name: career_growth_1
+      label: What are the essential factors for career growth and development in the
+        workplace?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 11
-      name: career_growth
-      label: career_growth
+      name: communication_page
+      label: Communication
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: communication
-      label: communication
+      name: communication_1
+      label: How does communication impact employee retention?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 13
-      name: feedback_channels
-      label: feedback_channels
+      name: job_fit_page
+      label: Job Fit
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Option A
+      - Option B
       required: false
     - id: 14
-      name: job_security
-      label: job_security
+      name: job_fit_1
+      label: What is the primary factor for job fit?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 15
-      name: company_values
-      label: company_values
+      name: job_security_page
+      label: Job Security
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option A
+      - Option B
       required: false
     - id: 16
-      name: company_culture
-      label: company_culture
+      name: job_security_1
+      label: How does job security impact employee retention?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 17
-      name: job_fit
-      label: job_fit
+      name: job_satisfaction_page
+      label: Job Satisfaction
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Option A
+      - Option B
       required: false
     - id: 18
-      name: job_satisfaction
-      label: job_satisfaction
+      name: job_satisfaction_1
+      label: What are the primary factors that impact job satisfaction?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: company_image
-      label: company_image
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: career_growth
-      label: career_growth
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: communication
-      label: communication
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: feedback_channels
-      label: feedback_channels
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: job_security_2
-      label: job_security_2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: company_values_2
-      label: company_values_2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: company_culture_2
-      label: company_culture_2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 26
-      name: job_fit_2
-      label: job_fit_2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 27
-      name: job_satisfaction_2
-      label: job_satisfaction_2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 28
-      name: company_image_2
-      label: company_image_2
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 29
-      name: career_growth_2
-      label: career_growth_2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 30
-      name: communication_2
-      label: communication_2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Arts and Sciences'', ''label'': ''Arts and Sciences''}'
-      - '{''id'': 2, ''name'': ''Business'', ''label'': ''Business''}'
-      - '{''id'': 3, ''name'': ''Engineering'', ''label'': ''Engineering''}'
+      - Arts and Sciences
+      - Business
+      - Engineering
       required: true
     - id: 5
       name: phone
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Moses'', ''label'': ''Moses''}'
-      - '{''id'': 2, ''name'': ''Elijah'', ''label'': ''Elijah''}'
-      - '{''id'': 3, ''name'': ''Abraham'', ''label'': ''Abraham''}'
+      - Moses
+      - Elijah
+      - Abraham
       required: false
     - id: 7
       name: date_of_birth
@@ -106,29 +106,29 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Computer Science'', ''label'': ''Computer Science''}'
-      - '{''id'': 2, ''name'': ''Physics'', ''label'': ''Physics''}'
-      - '{''id'': 3, ''name'': ''Mathematics'', ''label'': ''Mathematics''}'
+      - Computer Science
+      - Physics
+      - Mathematics
       required: true
     - id: 15
-      name: department
-      label: Department
+      name: department_2
+      label: Department 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Arts'', ''label'': ''Arts''}'
-      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
-      - '{''id'': 3, ''name'': ''Business'', ''label'': ''Business''}'
+      - Arts
+      - Engineering
+      - Business
       required: true
     - id: 16
-      name: department
-      label: Department
+      name: department_3
+      label: Department 3
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Business'', ''label'': ''Business''}'
-      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
-      - '{''id'': 3, ''name'': ''Arts'', ''label'': ''Arts''}'
+      - Business
+      - Engineering
+      - Arts
       required: false
     - id: 17
       name: goals
@@ -138,12 +138,12 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: department
-      label: Department
+      name: department_4
+      label: Department 4
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Arts'', ''label'': ''Arts''}'
-      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
-      - '{''id'': 3, ''name'': ''Business'', ''label'': ''Business''}'
+      - Arts
+      - Engineering
+      - Business
       required: false

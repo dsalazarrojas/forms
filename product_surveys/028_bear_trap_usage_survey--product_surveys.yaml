@@ -1,189 +1,178 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Bear Trap Usage Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: organization
-        label: Organization
-        hint: Company or agency
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: role
-        label: Your Role
-        hint: Job title
-        type: select_one
-        options:
-          - Wildlife Manager
-          - Researcher
-          - Trapper
-          - Conservation Officer
-          - Landowner
-          - Government Official
-          - Other
-        required: true
-      - id: 4
-        name: years_experience
-        label: Years of Experience
-        hint: With bear traps
-        type: select_one
-        options:
-          - Less than 1 year
-          - 1-3 years
-          - 4-10 years
-          - 11-20 years
-          - Over 20 years
-        required: true
-      - id: 5
-        name: trap_usage_frequency
-        label: Frequency of Bear Trap Usage
-        hint: How often used
-        type: select_one
-        options:
-          - Daily
-          - Weekly
-          - Monthly
-          - Seasonally
-          - Rarely
-          - Never Used
-        required: true
-      - id: 6
-        name: primary_purpose
-        label: Primary Purpose
-        hint: Why use bear traps
-        type: select_one
-        options:
-          - Wildlife Research
-          - Population Control
-          - Relocation Programs
-          - Property Protection
-          - Hunting
-          - Other
-        required: true
-      - id: 7
-        name: trap_type_used
-        label: Type of Trap Used
-        hint: Which type
-        type: select_one
-        options:
-          - Leg Hold Trap
-          - Cage Trap
-          - Foot Snare
-          - Electronic Trap
-          - Multiple Types
-        required: true
-      - id: 8
-        name: safety_training_completed
-        label: Safety Training Completed
-        hint: Have you had training
-        type: select_one
-        options:
-          - Yes - Certified
-          - Yes - Informal
-          - No
-        required: true
-      - id: 9
-        name: safety_incidents
-        label: Safety Incidents Experienced
-        hint: Any accidents
-        type: select_one
-        options:
-          - None
-          - Minor Incident
-          - Major Incident
-          - Multiple Incidents
-        required: true
-      - id: 10
-        name: non_target_captures
-        label: Non-Target Captures
-        hint: Other animals caught
-        type: select_one
-        options:
-          - Never
-          - Rarely
-          - Occasionally
-          - Frequently
-        required: true
-      - id: 11
-        name: effectiveness_rating
-        label: Effectiveness Rating
-        hint: How effective are traps
-        type: select_one
-        options:
-          - Very Effective
-          - Effective
-          - Neutral
-          - Ineffective
-          - Very Ineffective
-        required: true
-      - id: 12
-        name: humane_concerns
-        label: Humane Concerns
-        hint: Are you concerned
-        type: select_one
-        options:
-          - Very Concerned
-          - Somewhat Concerned
-          - Neutral
-          - Not Concerned
-        required: true
-      - id: 13
-        name: regulatory_compliance
-        label: Regulatory Compliance
-        hint: Do you follow regulations
-        type: select_one
-        options:
-          - Always
-          - Most of the Time
-          - Sometimes
-          - Rarely
-        required: true
-      - id: 14
-        name: alternative_methods
-        label: Interest in Alternative Methods
-        hint: Would you use alternatives
-        type: select_one
-        options:
-          - Very Interested
-          - Somewhat Interested
-          - Neutral
-          - Not Interested
-        required: true
-      - id: 15
-        name: policy_opinion
-        label: Opinion on Bear Trap Regulations
-        hint: Your view
-        type: select_one
-        options:
-          - Should Be More Strict
-          - Current Regulations Adequate
-          - Should Be Less Strict
-          - No Opinion
-        required: true
-      - id: 16
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Company or agency
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Your Role
+      hint: Job title
+      type: select_one
+      options:
+      - Wildlife Manager
+      - Researcher
+      - Trapper
+      - Conservation Officer
+      - Landowner
+      - Government Official
+      - Other
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Experience
+      hint: With bear traps
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-10 years
+      - 11-20 years
+      - Over 20 years
+      required: true
+    - id: 5
+      name: trap_usage_frequency
+      label: Frequency of Bear Trap Usage
+      hint: How often used
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Seasonally
+      - Rarely
+      - Never Used
+      required: true
+    - id: 6
+      name: primary_purpose
+      label: Primary Purpose
+      hint: Why use bear traps
+      type: select_one
+      options:
+      - Wildlife Research
+      - Population Control
+      - Relocation Programs
+      - Property Protection
+      - Hunting
+      - Other
+      required: true
+    - id: 7
+      name: trap_type_used
+      label: Type of Trap Used
+      hint: Which type
+      type: select_one
+      options:
+      - Leg Hold Trap
+      - Cage Trap
+      - Foot Snare
+      - Electronic Trap
+      - Multiple Types
+      required: true
+    - id: 8
+      name: safety_training_completed
+      label: Safety Training Completed
+      hint: Have you had training
+      type: select_one
+      options:
+      - Yes - Certified
+      - Yes - Informal
+      - 'False'
+      required: true
+    - id: 9
+      name: safety_incidents
+      label: Safety Incidents Experienced
+      hint: Any accidents
+      type: select_one
+      options:
+      - None
+      - Minor Incident
+      - Major Incident
+      - Multiple Incidents
+      required: true
+    - id: 10
+      name: non_target_captures
+      label: Non-Target Captures
+      hint: Other animals caught
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 11
+      name: effectiveness_rating
+      label: Effectiveness Rating
+      hint: How effective are traps
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Very Ineffective
+      required: true
+    - id: 12
+      name: humane_concerns
+      label: Humane Concerns
+      hint: Are you concerned
+      type: select_one
+      options:
+      - Very Concerned
+      - Somewhat Concerned
+      - Neutral
+      - Not Concerned
+      required: true
+    - id: 13
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: Do you follow regulations
+      type: select_one
+      options:
+      - Always
+      - Most of the Time
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 14
+      name: alternative_methods
+      label: Interest in Alternative Methods
+      hint: Would you use alternatives
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Neutral
+      - Not Interested
+      required: true
+    - id: 15
+      name: policy_opinion
+      label: Opinion on Bear Trap Regulations
+      hint: Your view
+      type: select_one
+      options:
+      - Should Be More Strict
+      - Current Regulations Adequate
+      - Should Be Less Strict
+      - No Opinion
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -23,11 +23,10 @@ inputSchema:
       hint: Select the source of your water
       type: select_one
       options:
-      - '{''value'': ''well'', ''label'': ''Well''}'
-      - '{''value'': ''municipal_water'', ''label'': ''Municipal water''}'
-      - '{''value'': ''rainwater_collection_system'', ''label'': ''Rainwater collection
-        system''}'
-      - '{''value'': ''other'', ''label'': ''Other (please specify)''}'
+      - Well
+      - Municipal water
+      - Rainwater collection system
+      - Other (please specify)
       required: false
     - id: 4
       name: permission
@@ -36,8 +35,8 @@ inputSchema:
         purposes?
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: consent

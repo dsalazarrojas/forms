@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One-time'', ''label'': ''One-time''}'
-      - '{''value'': ''Recurring'', ''label'': ''Recurring''}'
+      - One-time
+      - Recurring
       required: false
     - id: 5
       name: recurring_frequency
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily'', ''label'': ''Daily''}'
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 6
       name: donation_date
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Card'', ''label'': ''Card''}'
-      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
-      - '{''value'': ''Bank'', ''label'': ''Bank''}'
+      - Card
+      - PayPal
+      - Bank
       required: false
     - id: 10
       name: payment_details

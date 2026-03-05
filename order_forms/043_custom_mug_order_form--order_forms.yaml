@@ -1,186 +1,79 @@
 inputSchema:
   type: object
   properties:
-    title: custom_mug_order_form
+    title: Custom Mug Order Form
     pages:
     - id: 1
-      name: form_fields
-      label: form_fields
+      name: customer_details
+      label: Customer Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_details
-      label: customer_details
+      name: name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: design_preferences
-      label: design_preferences
+      name: email
+      label: Email
       hint: null
-      type: select_one
-      options:
-      - Mug Color
-      - White
-      - Black
-      - Red
-      - Blue
-      required: false
+      type: email
+      options: []
+      required: true
     - id: 4
-      name: customer_details
-      label: customer_details
+      name: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: name
-      label: name
+      name: design_preferences
+      label: Design Preferences
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: name
-      label: name
+      name: design_preferences_2
+      label: Select a Mug Color
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Blue
+      - Black
+      - Red
+      required: true
     - id: 7
-      name: name
-      label: name
+      name: personal_message
+      label: Personal Message
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: phone
-      label: phone
+      name: order_status
+      label: How would you like to proceed with your order?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: design_preferences
-      label: design_preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: design_preferences
-      label: design_preferences
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''value'': ''Blue''}'
-      - Other
-      required: false
-    - id: 23
-      name: name
-      label: name
+      - Option A
+      - Option B
+      required: true
+    - id: 9
+      name: confirmation_email
+      label: Confirm Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
-    - id: 24
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name
-      label: name
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []

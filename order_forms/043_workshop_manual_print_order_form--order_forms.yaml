@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''email_and_phone''}'
+      - email
+      - email and phone
       required: false
     - id: 3
       name: workshop_manual_specification
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''print''}'
-      - '{''value'': ''email''}'
-      - '{''value'': ''pdf''}'
+      - print
+      - email
+      - pdf
       required: false
     - id: 9
       name: order_notes

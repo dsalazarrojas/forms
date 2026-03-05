@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1001, ''label'': ''Standard Order'', ''value'': ''standard_order''}'
-      - '{''id'': 1002, ''label'': ''Custom Order'', ''value'': ''custom_order''}'
+      - Standard Order
+      - Custom Order
       required: false
     - id: 9
       name: order_details
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 2001, ''label'': ''Online'', ''value'': ''online''}'
-      - '{''id'': 2002, ''label'': ''Offline'', ''value'': ''offline''}'
+      - Online
+      - Offline
       required: false
     - id: 12
       name: order_status
@@ -90,7 +90,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3001, ''label'': ''New'', ''value'': ''new''}'
-      - '{''id'': 3002, ''label'': ''In Progress'', ''value'': ''in_progress''}'
-      - '{''id'': 3003, ''label'': ''Delivered'', ''value'': ''delivered''}'
+      - New
+      - In Progress
+      - Delivered
       required: false

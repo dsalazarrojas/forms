@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''scheme1''}'
-      - '{''id'': 2, ''name'': ''scheme2''}'
-      - '{''id'': 3, ''name'': ''scheme3''}'
+      - scheme1
+      - scheme2
+      - scheme3
       required: true
     - id: 6
       name: preferred_room_size
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''small''}'
-      - '{''id'': 2, ''name'': ''medium''}'
-      - '{''id'': 3, ''name'': ''large''}'
+      - small
+      - medium
+      - large
       required: false
     - id: 7
       name: preferred_style
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''modern''}'
-      - '{''id'': 2, ''name'': ''traditional''}'
+      - modern
+      - traditional
       required: true
     - id: 8
       name: design_budget
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''scheme1''}'
-      - '{''id'': 2, ''name'': ''scheme2''}'
+      - scheme1
+      - scheme2
       required: false
     - id: 10
       name: preferred_color_palette2
@@ -82,11 +82,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''scheme1''}'
-      - '{''id'': 2, ''name'': ''scheme2''}'
-      - '{''id'': 3, ''name'': ''scheme3''}'
-      - '{''id'': 4, ''name'': ''scheme4''}'
-      - '{''id'': 5, ''name'': ''scheme5''}'
+      - scheme1
+      - scheme2
+      - scheme3
+      - scheme4
+      - scheme5
       required: false
     - id: 11
       name: preferred_color_palette3
@@ -94,11 +94,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''scheme1''}'
-      - '{''id'': 2, ''name'': ''scheme2''}'
-      - '{''id'': 3, ''name'': ''scheme3''}'
-      - '{''id'': 4, ''name'': ''scheme4''}'
-      - '{''id'': 5, ''name'': ''scheme5''}'
+      - scheme1
+      - scheme2
+      - scheme3
+      - scheme4
+      - scheme5
       required: false
     - id: 12
       name: preferred_color_palette4
@@ -106,11 +106,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''scheme1''}'
-      - '{''id'': 2, ''name'': ''scheme2''}'
-      - '{''id'': 3, ''name'': ''scheme3''}'
-      - '{''id'': 4, ''name'': ''scheme4''}'
-      - '{''id'': 5, ''name'': ''scheme5''}'
+      - scheme1
+      - scheme2
+      - scheme3
+      - scheme4
+      - scheme5
       required: false
     - id: 13
       name: additional_comments
@@ -181,10 +181,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''feature1''}'
-      - '{''id'': 2, ''name'': ''feature2''}'
-      - '{''id'': 3, ''name'': ''feature3''}'
-      - '{''id'': 4, ''name'': ''feature4''}'
+      - feature1
+      - feature2
+      - feature3
+      - feature4
       required: false
     - id: 23
       name: preferred_room_features2
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''feature1''}'
-      - '{''id'': 2, ''name'': ''feature2''}'
-      - '{''id'': 3, ''name'': ''feature3''}'
+      - feature1
+      - feature2
+      - feature3
       required: false
     - id: 24
       name: preferred_room_features3
@@ -202,9 +202,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''feature1''}'
-      - '{''id'': 2, ''name'': ''feature2''}'
-      - '{''id'': 3, ''name'': ''feature3''}'
+      - feature1
+      - feature2
+      - feature3
       required: false
     - id: 25
       name: preferred_room_features4
@@ -212,7 +212,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''feature1''}'
-      - '{''id'': 2, ''name'': ''feature2''}'
-      - '{''id'': 3, ''name'': ''feature3''}'
+      - feature1
+      - feature2
+      - feature3
       required: false

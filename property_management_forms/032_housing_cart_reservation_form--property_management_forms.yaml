@@ -91,21 +91,21 @@ inputSchema:
       required: false
     - id: 12
       name: reservation_start_time
-      label: Start Time
+      label: Reservation Start Time
       hint: null
       type: time
       options: []
       required: false
     - id: 13
       name: reservation_end_time
-      label: End Time
+      label: Reservation End Time
       hint: null
       type: time
       options: []
       required: false
     - id: 14
       name: reservation_note
-      label: Note
+      label: Reservation Note
       hint: Additional notes about the reservation
       type: note
       options: []
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '10'
-      - '20'
-      - '30'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: cart_description
@@ -143,7 +143,7 @@ inputSchema:
       required: false
     - id: 19
       name: cart_status
-      label: Status
+      label: Cart Status
       hint: null
       type: select_one
       options:

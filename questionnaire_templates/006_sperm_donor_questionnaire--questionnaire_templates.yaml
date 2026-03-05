@@ -20,14 +20,14 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_info
       label: Contact Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: medical_history
       label: Medical History
@@ -46,146 +46,68 @@ inputSchema:
       name: medical_eligibility
       label: Medical Eligibility
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Eligible
+      - Not Eligible
+      - Pending
+      required: true
     - id: 6
-      name: medical_tests
-      label: Medical Tests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: medications
       label: Medications
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: medical_history_1
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: medical_history_2
-      label: Medical Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: medical_tests_1
+    - id: 7
+      name: medical_tests
       label: Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: blood_donation
+      label: Blood Donation
+      hint: null
+      type: checkbox
+      options:
+      - Donor
+      - Not Donor
+      required: true
+    - id: 9
+      name: organ_donation
+      label: Organ Donation
+      hint: null
+      type: checkbox
+      options:
+      - Donor
+      - Not Donor
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: medical_tests_2
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: medical_eligibility_1
-      label: Medical Eligibility
+      label: Eligibility for Surrogacy
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      type: select_multiple
+      options:
+      - Eligible
+      - Not Eligible
+      - Pending
+      required: true
+    - id: 12
       name: medical_eligibility_2
-      label: Medical Conditions
+      label: Eligibility for Egg Donation
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: medications_1
-      label: Medications
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: medical_history_3
-      label: Medical Tests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: medical_eligibility_3
-      label: Medical Tests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: medical_eligibility_4
-      label: Eligibility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: medications_2
-      label: Medications
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: medical_history_4
-      label: Medical Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: medical_history_5
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_eligibility_5
-      label: Medical Eligibility
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medications_3
-      label: Medications
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_eligibility_6
-      label: Medical Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_tests_3
-      label: Medical Tests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: medical_tests_4
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Eligible
+      - Not Eligible
+      - Pending
+      required: true

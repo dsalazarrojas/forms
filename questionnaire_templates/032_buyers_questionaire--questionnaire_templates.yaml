@@ -49,8 +49,8 @@ inputSchema:
       hint: Select yes or no
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: buy_timeline
@@ -83,8 +83,8 @@ inputSchema:
       hint: Have you been approved for financing
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Process
       required: true
     - id: 10
@@ -105,8 +105,8 @@ inputSchema:
       hint: Will you sell your current home
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 12
@@ -172,5 +172,5 @@ inputSchema:
       options:
       - Yes, currently working with agent
       - Yes, contacted but not working with
-      - false
+      - 'False'
       required: true

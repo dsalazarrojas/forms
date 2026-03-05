@@ -72,8 +72,8 @@ inputSchema:
       hint: Satisfied
       type: select_one
       options:
-      - '{''id'': 11, ''name'': True}'
-      - '{''id'': 12, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: would_recommend
@@ -81,9 +81,9 @@ inputSchema:
       hint: Would Recommend
       type: select_multiple
       options:
-      - '{''id'': 21, ''name'': True}'
-      - '{''id'': 22, ''name'': False}'
-      - '{''id'': 23, ''name'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: true
     - id: 12
       name: suggestions

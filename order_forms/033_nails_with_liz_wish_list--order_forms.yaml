@@ -15,7 +15,7 @@ inputSchema:
     title: Nails With Liz Wish List
     pages:
     - id: 1
-      name: color_sticky_note
+      name: color_stickynote
       label: What is your preferred color?
       hint: null
       type: select_one
@@ -23,52 +23,52 @@ inputSchema:
       - Black
       - Red
       - Blue
-      required: false
+      required: true
     - id: 2
-      name: nail_type_id
+      name: nail_type
       label: What type of nail?
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: nail_length
-      label: Length
+      label: What is your preferred nail length?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: nail_width
-      label: Width
+      label: What is your preferred nail width?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: nail_shape
-      label: Shape
+      label: What shape do you like your nails to be?
       hint: null
       type: select_one
       options:
       - Oval
       - Round
-      - Square
       required: false
     - id: 6
       name: nail_nail_type
-      label: What type of nail?
+      label: What type of nail do you like?
       hint: null
       type: select_multiple
       options:
       - Nail
-      - Nail
+      - '2'
       required: false
     - id: 7
       name: nail_nail_length
-      label: Length
+      label: Nail Nail Length
       hint: null
       type: select_one
       options:
@@ -78,7 +78,7 @@ inputSchema:
       required: false
     - id: 8
       name: nail_nail_width
-      label: Width
+      label: Nail Nail Width
       hint: null
       type: select_one
       options:
@@ -87,7 +87,7 @@ inputSchema:
       required: false
     - id: 9
       name: nail_nail_shape
-      label: Shape
+      label: Nail Nail Shape
       hint: null
       type: select_one
       options:
@@ -103,115 +103,14 @@ inputSchema:
       required: false
     - id: 11
       name: nail_nail_length_2
-      label: Length
+      label: Nail Nail Length 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: nail_nail_width_2
-      label: Width
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: nail_nail_shape_2
-      label: Shape
-      hint: null
-      type: select_one
-      options:
-      - Oval
-      - Round
-      required: false
-    - id: 14
-      name: nail_nail_length_3
-      label: Length
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: nail_nail_shape_3
-      label: Shape
-      hint: null
-      type: select_one
-      options:
-      - Oval
-      - Round
-      required: false
-    - id: 16
-      name: nail_nail_length_4
-      label: Length
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: nail_nail_width_2
-      label: Width
-      hint: null
-      type: select_one
-      options:
-      - Narrow
-      - Wide
-      required: false
-    - id: 18
-      name: nail_special_nail_2
-      label: Nail
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: nail_nail_shape_2
-      label: Shape
-      hint: null
-      type: select_one
-      options:
-      - Oval
-      - Round
-      required: false
-    - id: 20
-      name: nail_nail_length_5
-      label: Length
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: nail_nail_width_3
-      label: Width
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: nail_nail_shape_4
-      label: Shape
-      hint: null
-      type: select_one
-      options:
-      - Oval
-      - Round
-      required: false
-    - id: 23
-      name: nail_nail_length_6
-      label: Length
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: nail_nail_width_4
-      label: Width
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: nail_nail_shape_5
-      label: Shape
+      label: Nail Nail Shape 2
       hint: null
       type: select_one
       options:

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Kit'', ''label'': ''Kits''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Kits
+      - Other
       required: false
     - id: 3
       name: description
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''California'', ''label'': ''CA''}'
-      - '{''value'': ''New York'', ''label'': ''NY''}'
-      - '{''value'': ''Illinois'', ''label'': ''IL''}'
+      - CA
+      - NY
+      - IL
       required: false
     - id: 11
       name: customer_zip
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Credit Card'', ''label'': ''Credit Card''}'
-      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
-      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 15
       name: form_title

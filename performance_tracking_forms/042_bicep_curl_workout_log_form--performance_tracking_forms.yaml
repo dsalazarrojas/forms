@@ -132,14 +132,14 @@ inputSchema:
       required: false
     - id: 17
       name: set2_reps
-      label: Reps Completed
+      label: Set2 Reps
       hint: Number of repetitions
       type: number
       options: []
       required: true
     - id: 18
       name: set2_difficulty
-      label: Difficulty Level
+      label: Set2 Difficulty
       hint: How challenging was this set?
       type: select_one
       options:
@@ -159,14 +159,14 @@ inputSchema:
       required: false
     - id: 20
       name: set3_reps
-      label: Reps Completed
+      label: Set3 Reps
       hint: Number of repetitions
       type: number
       options: []
       required: true
     - id: 21
       name: set3_difficulty
-      label: Difficulty Level
+      label: Set3 Difficulty
       hint: How challenging was this set?
       type: select_one
       options:
@@ -271,7 +271,7 @@ inputSchema:
       - Yes, new PR for weight
       - Yes, new PR for reps
       - No, but close
-      - false
+      - 'False'
       required: true
     - id: 33
       name: additional_notes

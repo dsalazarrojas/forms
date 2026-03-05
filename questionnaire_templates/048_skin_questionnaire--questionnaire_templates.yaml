@@ -4,181 +4,80 @@ inputSchema:
     title: Skin Questionnaire
     pages:
     - id: 1
-      name: skin_questionnaire_page
-      label: skin_questionnaire
-      hint: null
+      name: skin_condition
+      label: What is your skin condition?
+      hint: Please describe your skin condition
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: skin_type
-      label: skin_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: skin_condition
-      label: skin_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: skin_tone
-      label: skin_tone
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: skin_tone_label
-      label: skin_tone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: skin_color
-      label: skin_color
+      label: What is your skin type?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: skin_color_label
-      label: skin_color
+      - Sensitive
+      - Dry
+      - Oily
+      - Combination
+      required: true
+    - id: 3
+      name: skin_color
+      label: What is your skin color?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
+      type: select_one
+      options:
+      - Fair
+      - Medium
+      - Dark
+      - Tanned
+      required: true
+    - id: 4
       name: skin_protein
-      label: skin_protein
+      label: Do you have any skin proteins?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+      type: checkbox
+      options:
+      - Sebum
+      - Dandruff
+      - Acne
+      required: true
+    - id: 5
       name: skin_pigmentation
-      label: skin_pigmentation
-      hint: null
+      label: What is your skin pigmentation?
+      hint: Enter your skin pigmentation level
       type: number
       options: []
-      required: false
-    - id: 10
-      name: skin_pigmentation_label
-      label: skin_pigmentation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: skin_venilation
-      label: skin_venilation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: skin_venilation_label
-      label: skin_venilation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 6
       name: skin_sensitivity
-      label: skin_sensitivity
-      hint: null
-      type: text
+      label: How sensitive is your skin?
+      hint: Enter your skin sensitivity level
+      type: number
       options: []
-      required: false
-    - id: 14
-      name: skin_sensitivity_label
-      label: skin_sensitivity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 7
       name: skin_pore_size
-      label: skin_pore_size
-      hint: null
-      type: text
+      label: What is your skin pore size?
+      hint: Enter your skin pore size
+      type: number
       options: []
-      required: false
-    - id: 16
-      name: skin_pore_size_label
-      label: skin_pore_size
+      required: true
+    - id: 8
+      name: skin_venilation
+      label: Do you have any skin venilation?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: skin_roughness
-      label: skin_roughness
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: skin_roughness_label
-      label: skin_roughness
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: skin_stretch
-      label: skin_stretch
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: skin_stretch_label
-      label: skin_stretch
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: skin_tension
-      label: skin_tension
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: skin_tension_label
-      label: skin_tension
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: skin_sagging
-      label: skin_sagging
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: skin_sagging_label
-      label: skin_sagging
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+      type: checkbox
+      options:
+      - Redness
+      - Puffiness
+      - Dullness
+      - Discoloration
+      required: true
+    - id: 9
       name: submit
-      label: submit
-      hint: null
+      label: Submit
+      hint: Please click submit to submit your questionnaire
       type: text
       options: []
-      required: false
+      required: true

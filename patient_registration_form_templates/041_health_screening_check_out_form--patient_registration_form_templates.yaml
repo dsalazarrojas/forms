@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Heart''}'
-      - '{''value'': ''Lung''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''None''}'
+      - Heart
+      - Lung
+      - Other
+      - None
       required: false
     - id: 3
       name: health_issues
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''Diabetes''}'
-      - '{''value'': ''Heart Condition''}'
-      - '{''value'': ''Lung Condition''}'
+      - None
+      - Diabetes
+      - Heart Condition
+      - Lung Condition
       required: false
     - id: 4
       name: medication_list
@@ -52,10 +52,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''None''}'
-      - '{''value'': ''Other''}'
+      - Home
+      - Hospital
+      - None
+      - Other
       required: false
     - id: 7
       name: follow_up_care
@@ -63,11 +63,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''0 Days''}'
-      - '{''value'': ''1 Week''}'
-      - '{''value'': ''2 Weeks''}'
-      - '{''value'': ''3 Weeks''}'
-      - '{''value'': ''4 Weeks''}'
+      - 0 Days
+      - 1 Week
+      - 2 Weeks
+      - 3 Weeks
+      - 4 Weeks
       required: false
     - id: 8
       name: contact_info
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''None''}'
-      - '{''value'': ''Other''}'
+      - Phone
+      - Email
+      - None
+      - Other
       required: false
     - id: 9
       name: additional_info
@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''Family History''}'
-      - '{''value'': ''Social History''}'
-      - '{''value'': ''Other''}'
+      - None
+      - Family History
+      - Social History
+      - Other
       required: false
     - id: 10
       name: allergies
@@ -97,10 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''None''}'
-      - '{''value'': ''Penicillin''}'
-      - '{''value'': ''Other''}'
+      - None
+      - Penicillin
+      - Other
       required: false
     - id: 11
       name: medical_history_additional
@@ -194,11 +193,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''Medical History''}'
-      - '{''value'': ''Social History''}'
-      - '{''value'': ''Family History''}'
-      - '{''value'': ''Other''}'
+      - None
+      - Medical History
+      - Social History
+      - Family History
+      - Other
       required: false
     - id: 24
       name: patient_info_additional_notes

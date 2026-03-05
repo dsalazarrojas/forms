@@ -152,8 +152,8 @@ inputSchema:
       hint: Did patient have fever
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: highest_temperature
@@ -186,8 +186,8 @@ inputSchema:
       hint: Has patient had chickenpox before
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unknown
       required: true
     - id: 22
@@ -203,8 +203,8 @@ inputSchema:
       hint: Is patient immunocompromised
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unknown
       required: true
     - id: 24
@@ -220,8 +220,8 @@ inputSchema:
       hint: Is patient pregnant
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       - Unknown
       required: false
@@ -231,8 +231,8 @@ inputSchema:
       hint: Did patient see a healthcare provider
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: visit_date
@@ -257,7 +257,7 @@ inputSchema:
       - Yes, PCR
       - Yes, serology
       - Yes, culture
-      - false
+      - 'False'
       - Pending
       required: true
     - id: 30
@@ -303,7 +303,7 @@ inputSchema:
       options:
       - Yes, at home
       - Yes, hospital
-      - false
+      - 'False'
       - Not compliant
       required: true
     - id: 36
@@ -348,8 +348,8 @@ inputSchema:
       hint: Was hospitalization needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 40
       name: investigator_signature
@@ -358,7 +358,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, confirmed
-      - false
+      - 'False'
       required: true
     - id: 41
       name: investigation_complete_date

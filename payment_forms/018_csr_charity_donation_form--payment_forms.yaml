@@ -81,7 +81,7 @@ inputSchema:
       hint: in honor or memory of someone
       type: select_one
       options:
-      - false
+      - 'False'
       - In Honor of
       - In Memory of
       required: false
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - I don't know
       required: false
     - id: 13
@@ -126,8 +126,8 @@ inputSchema:
       hint: Your name will not be published in our annual report
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: subscribe_newsletter
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: donor_comments

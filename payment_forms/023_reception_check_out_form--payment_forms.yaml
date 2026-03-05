@@ -9,39 +9,24 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: email_address
+      name: customer_email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: feedback
-      label: Feedback
+      name: payment_status
+      label: Payment Status
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
       required: true
     - id: 4
-      name: comments
-      label: Comments
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Great
-      - Very Good
-      required: true
-    - id: 5
-      name: total_amount
-      label: Total
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 6
       name: payment_method
       label: Payment Method
       hint: null
@@ -51,143 +36,59 @@ inputSchema:
       - PayPal
       - Bank Transfer
       required: true
-    - id: 7
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
       name: payment_date
       label: Payment Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 8
+    - id: 7
       name: payment_time
       label: Payment Time
       hint: null
       type: time
       options: []
       required: true
-    - id: 9
+    - id: 8
       name: comments
       label: Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
-      name: payment_status
-      label: Payment Status
-      hint: null
-      type: select_one
-      options:
-      - Paid
-      - Unpaid
-      required: true
-    - id: 11
-      name: payment_amount
-      label: Payment Amount
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 12
-      name: total_amount_held
-      label: Total Amount Held
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
+    - id: 9
       name: payment_terms
       label: Payment Terms
       hint: null
       type: note
       options: []
       required: true
-    - id: 14
+    - id: 10
       name: payment_details
       label: Payment Details
       hint: null
       type: note
       options: []
       required: true
-    - id: 15
-      name: payment_method_2
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - Cash
-      - Credit Card
-      - Bank Transfer
-      required: true
-    - id: 16
-      name: payment_date_2
-      label: Payment Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 17
-      name: payment_time_2
-      label: Payment Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 18
-      name: payment_status_2
-      label: Payment Status
-      hint: null
-      type: select_one
-      options:
-      - Paid
-      - Unpaid
-      required: true
-    - id: 19
-      name: payment_amount_2
-      label: Payment Amount
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 20
-      name: total_amount_held_2
-      label: Total Amount Held
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 21
-      name: payment_terms_2
-      label: Payment Terms
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 22
-      name: payment_details_2
-      label: Payment Details
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 23
-      name: additional_feedback
-      label: Additional Feedback
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: total_amount
-      label: Total
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 25
+    - id: 11
       name: form_submitted_at
       label: Form Submitted At
       hint: null
       type: date
+      options: []
+      required: false
+    - id: 12
+      name: total_amount
+      label: Total
+      hint: null
+      type: number
       options: []
       required: false

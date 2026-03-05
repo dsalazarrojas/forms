@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 3
       name: content_types
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than 1 month''}'
-      - '{''value'': ''1-3 months''}'
-      - '{''value'': ''4-6 months''}'
-      - '{''value'': ''More than 6 months''}'
+      - Less than 1 month
+      - 1-3 months
+      - 4-6 months
+      - More than 6 months
       required: false
     - id: 6
       name: how_flashcards_used
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''prophets''}'
+      - daily
+      - weekly
+      - prophets
       required: false
     - id: 8
       name: flashcard_content

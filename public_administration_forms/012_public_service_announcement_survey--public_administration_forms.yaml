@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: public_service_announcement_survey
+    title: Public Service Announcement Survey
     pages:
     - id: 1
       name: introduction
@@ -9,194 +9,108 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: recall
-      label: recall
+      name: recall_week
+      label: How many public service announcements do you recall in the past week?
       hint: null
       type: number
       options: []
       required: true
     - id: 3
       name: message_quality
-      label: message_quality
+      label: Message quality of the most recent public service announcement you saw
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: intended_actions
-      label: intended_actions
+      name: intended_actions_week
+      label: What was your intended action in response to the last public service
+        announcement you saw?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Read more
+      - Contact
+      - Share
+      - Ignore
+      - Other (please specify)
+      required: true
     - id: 5
-      name: recall
-      label: recall
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: message_quality
-      label: message_quality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: intended_actions
-      label: intended_actions
+      name: multiple_intended_actions_week
+      label: Select all actions you took in response to the last public service announcement
+        you saw
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Read more
+      - Contact
+      - Share
+      - Ignore
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: recall_month
+      label: How many public service announcements do you recall in the past month?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: message_quality_month
+      label: Message Quality Month
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 8
-      name: message_quality
-      label: message_quality
+      name: intended_actions_month
+      label: Intended Actions Month
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Read more
+      - Contact
+      - Share
+      - Ignore
+      - Other (please specify)
       required: false
     - id: 9
-      name: intended_actions
-      label: intended_actions
+      name: multiple_intended_actions_month
+      label: Multiple Intended Actions Month
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Read more
+      - Contact
+      - Share
+      - Ignore
+      - Other (please specify)
       required: false
     - id: 10
-      name: message_quality
-      label: message_quality
+      name: recall_year
+      label: How many public service announcements do you recall in the past year?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: message_quality_year
+      label: Message Quality Year
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false
     - id: 12
-      name: message_quality
-      label: message_quality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: intended_actions
-      label: intended_actions
+      name: intended_actions_year
+      label: Intended Actions Year
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: message_quality
-      label: message_quality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: recall
-      label: recall
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: message_quality
-      label: message_quality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: message_quality
-      label: message_quality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: recall
-      label: recall
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: recall
-      label: recall
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: intended_actions
-      label: intended_actions
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Read more
+      - Contact
+      - Share
+      - Ignore
+      - Other (please specify)
       required: false

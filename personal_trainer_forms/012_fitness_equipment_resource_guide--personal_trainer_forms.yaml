@@ -52,15 +52,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: form_space_dimensions
-      label: Available space dimensions
+      label: Form Space Dimensions
       hint: null
       type: text
       options: []
@@ -106,11 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: form_goal_type_2
@@ -145,15 +141,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      - option5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
       name: form_equip_type_2
-      label: Type of equipment
+      label: Form Equip Type 2
       hint: null
       type: select_one
       options:
@@ -197,7 +191,7 @@ inputSchema:
       required: false
     - id: 25
       name: form_equipment_recommended
-      label: Recommended equipment
+      label: Form Equipment Recommended
       hint: null
       type: text
       options: []

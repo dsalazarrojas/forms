@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: property_type
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Residential'', ''value'': ''residential''}'
-      - '{''id'': 2, ''label'': ''Commercial'', ''value'': ''commercial''}'
-      - '{''id'': 3, ''label'': ''Industrial'', ''value'': ''industrial''}'
+      - Residential
+      - Commercial
+      - Industrial
       required: false
     - id: 6
       name: date_of_visit
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Feedback'', ''value'': ''feedback''}'
-      - '{''id'': 2, ''label'': ''Research'', ''value'': ''research''}'
-      - '{''id'': 3, ''label'': ''Inspection'', ''value'': ''inspection''}'
+      - Feedback
+      - Research
+      - Inspection
       required: false
     - id: 9
       name: tenant_name

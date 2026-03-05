@@ -16,13 +16,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''patient_name''}'
-      - '{''id'': 2, ''name'': ''patient_dob''}'
-      - '{''id'': 3, ''name'': ''billing_address''}'
-      - '{''id'': 4, ''name'': ''billing_city''}'
-      - '{''id'': 5, ''name'': ''billing_state''}'
-      - '{''id'': 6, ''name'': ''billing_country''}'
-      - '{''id'': 7, ''name'': ''billing_zip''}'
+      - patient name
+      - patient dob
+      - billing address
+      - billing city
+      - billing state
+      - billing country
+      - billing zip
       required: false
     - id: 3
       name: insurance_info
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Aetna''}'
-      - '{''id'': 2, ''name'': ''Blue Cross''}'
-      - '{''id'': 3, ''name'': ''UnitedHealth''}'
+      - Aetna
+      - Blue Cross
+      - UnitedHealth
       required: false
     - id: 5
       name: payment_info
@@ -54,7 +54,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4, ''name'': ''Bank Transfer''}'
+      - Bank Transfer
       - Other
       required: false
     - id: 7
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Male''}'
-      - '{''id'': 2, ''name'': ''Female''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 12
       name: contact_info
@@ -129,7 +129,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4, ''name'': ''Payment Due Next 10 Days''}'
+      - Payment Due Next 10 Days
       - Other
       required: false
     - id: 17

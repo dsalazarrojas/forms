@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: true
     - id: 7
       name: photo_equipment
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''DSLR''}'
-      - '{''id'': 2, ''label'': ''Mirrorless''}'
-      - '{''id'': 3, ''label'': ''Point and Shoot''}'
+      - DSLR
+      - Mirrorless
+      - Point and Shoot
       required: true
     - id: 8
       name: photo_style
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Portrait''}'
-      - '{''id'': 2, ''label'': ''Landscape''}'
-      - '{''id'': 3, ''label'': ''Wildlife''}'
+      - Portrait
+      - Landscape
+      - Wildlife
       required: true
     - id: 9
       name: photo_frequency
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 10
       name: photo_experience
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: true
     - id: 11
       name: photo_genre
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Portrait''}'
-      - '{''id'': 2, ''label'': ''Landscape''}'
-      - '{''id'': 3, ''label'': ''Wildlife''}'
+      - Portrait
+      - Landscape
+      - Wildlife
       required: true
     - id: 12
       name: bio
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Facebook''}'
-      - '{''id'': 2, ''label'': ''Instagram''}'
-      - '{''id'': 3, ''label'': ''Twitter''}'
+      - Facebook
+      - Instagram
+      - Twitter
       required: false
     - id: 16
       name: upload_photo
@@ -149,8 +149,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accept''}'
-      - '{''id'': 2, ''label'': ''Decline''}'
+      - Accept
+      - Decline
       required: true
     - id: 19
       name: membership_status
@@ -158,8 +158,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
+      - Active
+      - Pending
       required: true
     - id: 20
       name: member_since
@@ -181,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 23
       name: last_membership_renewal

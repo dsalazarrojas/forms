@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''John Doe''}'
-      - '{''id'': 2, ''name'': ''Jane Doe''}'
-      - '{''id'': 3, ''name'': ''John Smith''}'
+      - John Doe
+      - Jane Doe
+      - John Smith
       required: true
     - id: 3
       name: order_details
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Beef patty''}'
-      - '{''id'': 2, ''name'': ''Veggie patty''}'
-      - '{''id'': 3, ''name'': ''Chicken patty''}'
-      - '{''id'': 4, ''name'': ''None''}'
+      - Beef patty
+      - Veggie patty
+      - Chicken patty
+      - None
       required: true
     - id: 4
       name: order_options
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 5
       name: payment_info
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Credit Card''}'
-      - '{''id'': 3, ''name'': ''Bank Transfer''}'
+      - Cash
+      - Credit Card
+      - Bank Transfer
       required: true
     - id: 6
       name: order_total

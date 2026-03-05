@@ -1,152 +1,120 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Social Media Activism Fatigue Study
     pages:
     - id: 1
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: snake_case_string
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: snake_case_string
-      label: <text without colons>
+      name: social_media_usage
+      label: Social Media Usage
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emotional_exhaustion_frequency_score
-      label: Emotional Exhaustion Frequency Score
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: true
+    - id: 2
+      name: emotional_exhaustion_score
+      label: Emotional Exhaustion Score
       hint: null
       type: number
       options: []
+      required: true
+    - id: 3
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 hours
+      - 6-8 hours
+      - More than 8 hours
+      required: true
+    - id: 4
+      name: time_spent_on_social_media
+      label: Time Spent on Social Media
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30-60 minutes
+      - More than 60 minutes
+      required: true
+    - id: 5
+      name: social_media_overload
+      label: Social Media Overload
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 6
+      name: social_supportive_network
+      label: Supportive Network
+      hint: null
+      type: select_one
+      options:
+      - Very weak
+      - Somewhat weak
+      - Strong
+      required: true
+    - id: 7
+      name: self_care
+      label: Self-Care
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 8
+      name: social_media_fatigue
+      label: Social Media Fatigue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: anxiety_depression
+      label: Anxiety/Depression
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: coping_mechanisms
+      label: Coping Mechanisms
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 11
+      name: digital_detox
+      label: Digital Detox
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 12
+      name: help_seeking_behavior
+      label: Help-Seeking Behavior
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true

@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''cake'', ''label'': ''cake''}'
-      - '{''id'': 2, ''name'': ''cupcakes'', ''label'': ''cupcakes''}'
-      - '{''id'': 3, ''name'': ''cookies'', ''label'': ''cookies''}'
-      - '{''id'': 4, ''name'': ''cake_pops'', ''label'': ''cake_pops''}'
-      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      - cake
+      - cupcakes
+      - cookies
+      - cake pops
+      - other
       required: false
     - id: 7
       name: order_type
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''cake'', ''label'': ''cake''}'
-      - '{''id'': 2, ''name'': ''cupcakes'', ''label'': ''cupcakes''}'
-      - '{''id'': 3, ''name'': ''cookies'', ''label'': ''cookies''}'
-      - '{''id'': 4, ''name'': ''cake_pops'', ''label'': ''cake_pops''}'
-      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      - cake
+      - cupcakes
+      - cookies
+      - cake pops
+      - other
       required: false
     - id: 8
       name: order_type_value
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit_card'', ''label'': ''credit_card''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''paypal''}'
-      - '{''id'': 3, ''name'': ''bank_transfer'', ''label'': ''bank_transfer''}'
+      - credit card
+      - paypal
+      - bank transfer
       required: false
     - id: 16
       name: confirm
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: confirm_option_1

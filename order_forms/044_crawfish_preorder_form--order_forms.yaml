@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Crawfish'', ''value'': ''crawfish''}'
-      - '{''label'': ''Shrimp'', ''value'': ''shrimp''}'
+      - Crawfish
+      - Shrimp
       required: false
     - id: 6
       name: date_preorder
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: vendor_message
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: order_notes
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Available'', ''value'': ''available''}'
-      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
-      - '{''label'': ''Out of Stock'', ''value'': ''out_of_stock''}'
+      - Available
+      - Not Available
+      - Out of Stock
       required: false
     - id: 18
       name: crawfish_availability_date
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Available'', ''value'': ''available''}'
-      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
-      - '{''label'': ''Out of Stock'', ''value'': ''out_of_stock''}'
+      - Available
+      - Not Available
+      - Out of Stock
       required: false
     - id: 21
       name: crawfish_notes
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Available'', ''value'': ''available''}'
-      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
-      - '{''label'': ''No Response'', ''value'': ''no_response''}'
+      - Available
+      - Not Available
+      - No Response
       required: false
     - id: 25
       name: submission_status
@@ -192,7 +192,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false

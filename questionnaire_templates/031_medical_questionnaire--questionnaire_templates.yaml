@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Healthy''}'
-      - '{''value'': ''Not Healthy''}'
-      - '{''value'': ''Unhealthy''}'
+      - Healthy
+      - Not Healthy
+      - Unhealthy
       required: false
     - id: 4
       name: medical_condition
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Healthy''}'
-      - '{''value'': ''Unhealthy''}'
-      - '{''value'': ''Not Recommended''}'
+      - Healthy
+      - Unhealthy
+      - Not Recommended
       required: false
     - id: 7
       name: medical_test_results
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Healthy''}'
-      - '{''value'': ''Unhealthy''}'
-      - '{''value'': ''Not Tested''}'
+      - Healthy
+      - Unhealthy
+      - Not Tested
       required: false
     - id: 8
       name: health_insurance
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: allergies
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Healthy''}'
-      - '{''value'': ''Unhealthy''}'
-      - '{''value'': ''Not Tested''}'
+      - Healthy
+      - Unhealthy
+      - Not Tested
       required: false
     - id: 13
       name: doctor_name
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: medical_certificate_number
@@ -186,9 +186,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': "Doctor''s Note"}'
-      - '{''value'': "Hospital''s Certificate"}'
-      - '{''value'': "Clinic''s Certificate"}'
+      - Doctor's Note
+      - Hospital's Certificate
+      - Clinic's Certificate
       required: false
     - id: 25
       name: upload_attachment

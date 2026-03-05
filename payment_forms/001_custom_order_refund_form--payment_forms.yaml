@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''PayPal''}'
-      - '{''id'': 3, ''name'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 6
       name: refund_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: true
     - id: 11
       name: additional_notes

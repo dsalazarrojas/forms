@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mitosis''}'
-      - '{''label'': ''Meiosis''}'
-      - '{''label'': ''Somatic''}'
-      - '{''label'': ''Both''}'
-      - '{''label'': ''None''}'
+      - Mitosis
+      - Meiosis
+      - Somatic
+      - Both
+      - None
       required: false
     - id: 3
       name: cell_membrane
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Plasma''}'
-      - '{''label'': ''Cytoplasm''}'
-      - '{''label'': ''Nucleus''}'
-      - '{''label'': ''None''}'
+      - Plasma
+      - Cytoplasm
+      - Nucleus
+      - None
       required: false
     - id: 6
       name: cell_transport
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Diffusion''}'
-      - '{''label'': ''Osmosis''}'
-      - '{''label'': ''Endocytosis''}'
-      - '{''label'': ''Exocytosis''}'
-      - '{''label'': ''None''}'
+      - Diffusion
+      - Osmosis
+      - Endocytosis
+      - Exocytosis
+      - None
       required: false
     - id: 7
       name: cell_growth
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Mitosis''}'
-      - '{''label'': ''Meiosis''}'
-      - '{''label'': ''None''}'
+      - Mitosis
+      - Meiosis
+      - None
       required: false
     - id: 9
       name: cell_death
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Apoptosis''}'
-      - '{''label'': ''Necrosis''}'
-      - '{''label'': ''None''}'
+      - Apoptosis
+      - Necrosis
+      - None
       required: false
     - id: 10
       name: cell_cycle
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''G1''}'
-      - '{''label'': ''G2''}'
-      - '{''label'': ''S''}'
-      - '{''label'': ''None''}'
+      - G1
+      - G2
+      - S
+      - None
       required: false

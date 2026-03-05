@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Portrait'', ''value'': ''Portrait''}'
-      - '{''id'': 2, ''name'': ''Landscape'', ''value'': ''Landscape''}'
-      - '{''id'': 3, ''name'': ''Full'', ''value'': ''Full''}'
-      - '{''id'': 4, ''name'': ''Sibling'', ''value'': ''Sibling''}'
+      - Portrait
+      - Landscape
+      - Full
+      - Sibling
       required: false
     - id: 6
       name: photo_number
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: photo_license
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Public'', ''value'': ''Public''}'
-      - '{''id'': 2, ''name'': ''Non-Public'', ''value'': ''Non-Public''}'
+      - Public
+      - Non-Public
       required: false
     - id: 12
       name: photo_retouching
@@ -94,8 +94,8 @@ inputSchema:
       hint: Do you want us to retouch this photo?
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Retouch'', ''value'': ''Retouch''}'
-      - '{''id'': 2, ''name'': ''Do Not Retouch'', ''value'': ''Do Not Retouch''}'
+      - Retouch
+      - Do Not Retouch
       required: false
     - id: 13
       name: photo_printing
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Print'', ''value'': ''Print''}'
-      - '{''id'': 2, ''name'': ''Publish'', ''value'': ''Publish''}'
+      - Print
+      - Publish
       required: false
     - id: 14
       name: photo_sharing
@@ -112,7 +112,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Share on Facebook'', ''value'': ''Share on Facebook''}'
-      - '{''id'': 2, ''name'': ''Share on Twitter'', ''value'': ''Share on Twitter''}'
-      - '{''id'': 3, ''name'': ''Share on Instagram'', ''value'': ''Share on Instagram''}'
+      - Share on Facebook
+      - Share on Twitter
+      - Share on Instagram
       required: false

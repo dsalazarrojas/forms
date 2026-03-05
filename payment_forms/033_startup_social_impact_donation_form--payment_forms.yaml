@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''One-time''}'
-      - '{''label'': ''Recurring''}'
+      - One-time
+      - Recurring
       required: true
     - id: 5
       name: donation_frequency
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 6
       name: payment_method
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''Bank Transfer''}'
-      - '{''label'': ''PayPal''}'
+      - Credit Card
+      - Bank Transfer
+      - PayPal
       required: true
     - id: 7
       name: message

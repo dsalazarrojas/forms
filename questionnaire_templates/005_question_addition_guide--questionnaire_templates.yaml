@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Quiz''}'
-      - '{''id'': 2, ''label'': ''Assessment''}'
-      - '{''id'': 3, ''label'': ''Survey''}'
+      - Quiz
+      - Assessment
+      - Survey
       required: false
     - id: 3
       name: description
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''ChatJot''}'
-      - '{''id'': 2, ''label'': ''FormJot''}'
+      - ChatJot
+      - FormJot
       required: false
     - id: 6
       name: form_id_2

@@ -16,10 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''color'', ''label'': ''What color would you prefer?'',
-        ''value'': ''Black''}'
-      - '{''id'': 20, ''name'': ''color'', ''label'': ''White''}'
-      - '{''id'': 30, ''name'': ''color'', ''label'': ''Red''}'
+      - What color would you prefer?
+      - White
+      - Red
       required: true
     - id: 3
       name: measurement_details
@@ -34,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 40, ''name'': ''slim_fit'', ''label'': ''Slim Fit''}'
-      - '{''id'': 50, ''name'': ''regular_fit'', ''label'': ''Regular Fit''}'
-      - '{''id'': 60, ''name'': ''athletic_fit'', ''label'': ''Athletic Fit''}'
+      - Slim Fit
+      - Regular Fit
+      - Athletic Fit
       required: true
     - id: 5
       name: jacket_length
@@ -44,10 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''name'': ''short_jacket'', ''label'': ''Short''}'
-      - '{''id'': 110, ''name'': ''long_jacket'', ''label'': ''Long''}'
-      - '{''id'': 120, ''name'': ''three_quarter_length'', ''label'': ''Three-quarter
-        length''}'
+      - Short
+      - Long
+      - Three-quarter length
       required: true
     - id: 6
       name: sleeves_length
@@ -55,10 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 140, ''name'': ''short_sleeves'', ''label'': ''Short''}'
-      - '{''id'': 150, ''name'': ''long_sleeves'', ''label'': ''Long''}'
-      - '{''id'': 160, ''name'': ''three_quarter_sleeves'', ''label'': ''Three-quarter
-        sleeves''}'
+      - Short
+      - Long
+      - Three-quarter sleeves
       required: false
     - id: 7
       name: pants_length
@@ -66,10 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 180, ''name'': ''short_pants'', ''label'': ''Short''}'
-      - '{''id'': 190, ''name'': ''long_pants'', ''label'': ''Long''}'
-      - '{''id'': 200, ''name'': ''three_quarter_pants'', ''label'': ''Three-quarter
-        pants''}'
+      - Short
+      - Long
+      - Three-quarter pants
       required: false
     - id: 8
       name: pants_style
@@ -77,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 220, ''name'': ''formal_pants'', ''label'': ''Formal''}'
-      - '{''id'': 230, ''name'': ''casual_pants'', ''label'': ''Casual''}'
-      - '{''id'': 240, ''name'': ''athletic_pants'', ''label'': ''Athletic''}'
+      - Formal
+      - Casual
+      - Athletic
       required: false
     - id: 9
       name: fabric_type
@@ -87,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 260, ''name'': ''cotton'', ''label'': ''Cotton''}'
-      - '{''id'': 270, ''name'': ''wool'', ''label'': ''Wool''}'
-      - '{''id'': 280, ''name'': ''linen'', ''label'': ''Linen''}'
+      - Cotton
+      - Wool
+      - Linen
       required: false
     - id: 10
       name: pants_color
@@ -97,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 300, ''name'': ''black'', ''label'': ''Black''}'
-      - '{''id'': 310, ''name'': ''gray'', ''label'': ''Gray''}'
-      - '{''id'': 320, ''name'': ''beige'', ''label'': ''Beige''}'
+      - Black
+      - Gray
+      - Beige
       required: false
     - id: 11
       name: email

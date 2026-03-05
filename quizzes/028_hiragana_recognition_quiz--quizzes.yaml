@@ -4,197 +4,112 @@ inputSchema:
     title: Hiragana Recognition Quiz
     pages:
     - id: 1
-      name: quiz_1
-      label: Hiragana_Sheet
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: quiz_2
-      label: Hiragana_Sheet
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: quiz_3
-      label: Hiragana_Sheet
+      name: question_1
+      label: How many Hiragana letters do you recognize?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 1. 1-5 letters
+      - 2. 6-10 letters
+      - 3. More than 10 letters
+      required: false
+    - id: 2
+      name: question_2
+      label: Which Hiragana letter represents the sound /a/?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - Ka
+      - Other (Please specify)
+      required: false
+    - id: 3
+      name: question_3
+      label: How often do you practice writing Hiragana characters?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
       required: false
     - id: 4
-      name: quiz_4
-      label: Hiragana_Sheet
-      hint: null
-      type: time
+      name: question_4
+      label: What is your favorite Hiragana character?
+      hint: Please specify your favorite Hiragana character.
+      type: text
       options: []
       required: false
     - id: 5
-      name: quiz_5
-      label: Hiragana_Sheet
+      name: question_5
+      label: What is your level of proficiency in reading Hiragana?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 6
-      name: quiz_6
-      label: Hiragana_Sheet
+      name: question_6
+      label: What is your favorite resource for learning Hiragana?
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - Online courses
+      - Practice apps
+      - Books
       required: false
     - id: 7
-      name: quiz_7
-      label: Hiragana_Sheet
+      name: question_7
+      label: Have you used Hiragana in a professional setting?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 8
-      name: quiz_8
-      label: Hiragana_Sheet
+      name: question_8
+      label: When did you start learning Hiragana?
       hint: null
-      type: note
+      type: date
       options: []
       required: false
     - id: 9
-      name: quiz_9
-      label: Hiragana_Sheet
+      name: question_9
+      label: How would you rate your knowledge of Hiragana?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
       required: false
     - id: 10
-      name: quiz_10
-      label: Hiragana_Sheet
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: quiz_11
-      label: Hiragana_Sheet
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: quiz_12
-      label: Hiragana_Sheet
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: quiz_13
-      label: Hiragana_Sheet
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: quiz_14
-      label: Hiragana_Sheet
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: quiz_15
-      label: Hiragana_Sheet
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: quiz_16
-      label: Hiragana_Sheet
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: quiz_17
-      label: Hiragana_Sheet
-      hint: null
+      name: question_10
+      label: What motivates you to learn Hiragana?
+      hint: Please specify your motivation for learning Hiragana.
       type: text
       options: []
       required: false
-    - id: 18
-      name: quiz_18
-      label: Hiragana_Sheet
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: quiz_19
-      label: Hiragana_Sheet
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: quiz_20
-      label: Hiragana_Sheet
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: quiz_21
-      label: Hiragana_Sheet
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: quiz_22
-      label: Hiragana_Sheet
+    - id: 11
+      name: question_11
+      label: How long does it take to learn Hiragana?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Less than a month
+      - Several months
+      - More than a year
       required: false
-    - id: 23
-      name: quiz_23
-      label: Hiragana_Sheet
+    - id: 12
+      name: question_12
+      label: Do you prefer learning Hiragana from a book or online resources?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: quiz_24
-      label: Hiragana_Sheet
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: quiz_25
-      label: Hiragana_Sheet
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Book
+      - Online resources
+      - Both
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: page_three
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: page_four
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 10
       name: page_ten
@@ -105,7 +105,7 @@ inputSchema:
       required: true
     - id: 14
       name: page_fourteen
-      label: Additional Comments
+      label: Page Fourteen
       hint: null
       type: note
       options: []
@@ -116,13 +116,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 16
       name: page_sixteen
-      label: Sales Performance
+      label: Page Sixteen
       hint: null
       type: number
       options: []
@@ -133,19 +133,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 18
       name: page_eighteen
-      label: Sales
+      label: Page Eighteen
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 19
       name: page_nineteen
@@ -153,23 +153,23 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 20
       name: page_twenty
-      label: Sales
+      label: Page Twenty
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 21
       name: page_twenty_one
-      label: Additional Comments
+      label: Page Twenty One
       hint: null
       type: note
       options: []
@@ -190,14 +190,14 @@ inputSchema:
       required: true
     - id: 24
       name: page_twenty_four
-      label: Phone Number
+      label: Page Twenty Four
       hint: null
       type: text
       options: []
       required: true
     - id: 25
       name: page_twenty_five
-      label: Sales
+      label: Page Twenty Five
       hint: null
       type: number
       options: []

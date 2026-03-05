@@ -23,9 +23,9 @@ inputSchema:
       hint: Select a payment method
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bank Transfer''}'
-      - '{''id'': 2, ''label'': ''Credit Card''}'
-      - '{''id'': 3, ''label'': ''PayPal''}'
+      - Bank Transfer
+      - Credit Card
+      - PayPal
       required: false
     - id: 4
       name: shirt_size
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      - '{''id'': 4, ''label'': ''X-Large''}'
+      - Small
+      - Medium
+      - Large
+      - X-Large
       required: false
     - id: 5
       name: color_choice
@@ -44,9 +44,9 @@ inputSchema:
       hint: Select a color
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Blue''}'
-      - '{''id'': 2, ''label'': ''Green''}'
-      - '{''id'': 3, ''label'': ''Red''}'
+      - Blue
+      - Green
+      - Red
       required: false
     - id: 6
       name: order_date

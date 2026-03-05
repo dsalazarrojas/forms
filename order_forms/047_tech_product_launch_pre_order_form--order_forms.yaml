@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Card Number'', ''value'': ''card_number''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - Card Number
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 4
       name: shipping_method
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Shipping via Courier'', ''value'': ''shipping_via_courier''}'
-      - '{''label'': ''Shipping via Carrier'', ''value'': ''shipping_via_carrier''}'
-      - '{''label'': ''Shipping via Pickup'', ''value'': ''shipping_via_pickup''}'
+      - Shipping via Courier
+      - Shipping via Carrier
+      - Shipping via Pickup
       required: false
     - id: 5
       name: shipping_address

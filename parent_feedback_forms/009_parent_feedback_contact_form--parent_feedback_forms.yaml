@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''positive'', ''label'': ''Positive''}'
-      - '{''id'': 2, ''name'': ''negative'', ''label'': ''Negative''}'
-      - '{''id'': 3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 5
       name: comment
@@ -65,14 +54,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Pacific Time (UTC-8)'', ''label'': ''Pacific Time
-        (UTC-8)''}'
-      - '{''id'': 2, ''name'': ''Central Time (UTC-6)'', ''label'': ''Central Time
-        (UTC-6)''}'
-      - '{''id'': 3, ''name'': ''Eastern Time (UTC-5)'', ''label'': ''Eastern Time
-        (UTC-5)''}'
-      - '{''id'': 4, ''name'': None}'
-      - '{''id'': 5, ''name'': None}'
+      - Pacific Time (UTC-8)
+      - Central Time (UTC-6)
+      - Eastern Time (UTC-5)
+      - Option 4
+      - Option 5
       required: false
     - id: 8
       name: date
@@ -94,11 +80,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Highly Satisfied'', ''label'': ''Highly Satisfied''}'
-      - '{''id'': 2, ''name'': ''Somewhat Satisfied'', ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''name'': ''Dissatisfied'', ''label'': ''Dissatisfied''}'
-      - '{''id'': 4, ''name'': None}'
-      - '{''id'': 5, ''name'': None}'
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Dissatisfied
+      - Option 4
+      - Option 5
       required: false
     - id: 11
       name: parent_signature

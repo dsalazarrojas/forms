@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Line Manager''}'
-      - '{''value'': ''Team Lead''}'
-      - '{''value'': ''Other''}'
+      - Line Manager
+      - Team Lead
+      - Other
       required: false
     - id: 4
       name: manager_role
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''HR''}'
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Admin''}'
+      - HR
+      - IT
+      - Admin
       required: false
     - id: 5
       name: years_experience
@@ -64,10 +64,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-5''}'
-      - '{''value'': ''6-10''}'
-      - '{''value'': ''11-15''}'
-      - '{''value'': ''More than 15''}'
+      - 1-5
+      - 6-10
+      - 11-15
+      - More than 15
       required: false
     - id: 9
       name: reporting_lines_manager_title

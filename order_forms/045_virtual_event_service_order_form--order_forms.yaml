@@ -1,87 +1,59 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: virtual_event_service_order_form
     pages:
     - id: 1
-      name: event_details
-      label: Event Details
+      name: event_name
+      label: Event Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: service_orders
-      label: Service Orders
+      name: event_service
+      label: Service
       hint: Select one option
       type: select_one
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 3
-      name: attendee_info
-      label: Attendee Info
+      name: event_participants
+      label: Participants
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: event_details
-      label: Event Details
+      name: event_date_time
+      label: Event Date and Time
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: service_orders
-      label: Service Orders
-      hint: Select multiple options
+      name: event_services
+      label: Additional Services
+      hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Option 1'', ''value'': ''option1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 6
-      name: attendee_info
-      label: Attendee Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: event_details
       label: Event Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: service_orders
-      label: Service Orders
-      hint: Select one option
-      type: select_one
-      options:
-      - '{''label'': ''Option 1'', ''value'': ''option1''}'
-      - '{''label'': ''Option 2'', ''value'': ''option2''}'
-      - '{''label'': ''Option 3'', ''value'': ''option3''}'
       required: true
-    - id: 9
+    - id: 7
       name: attendee_info
-      label: Attendee Info
+      label: Attendee Information
       hint: null
       type: text
       options: []

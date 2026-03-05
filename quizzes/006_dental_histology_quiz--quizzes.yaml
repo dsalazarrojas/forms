@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -37,16 +26,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - cell_membranes
-      - cell_nucleus
-      - cell_plasma
-      - cell_wall
-      - cell_membrane
-      - cell_lysosomes
-      - cell_mitochondrion
-      - cell_cytoplasm
-      - cell_nuclear_membrane
-      - cell_cytoplasmic_membrane
+      - cell membranes
+      - cell nucleus
+      - cell plasma
+      - cell wall
+      - cell membrane
+      - cell lysosomes
+      - cell mitochondrion
+      - cell cytoplasm
+      - cell nuclear membrane
+      - cell cytoplasmic membrane
       required: false
     - id: 4
       name: dental_organ
@@ -58,7 +47,7 @@ inputSchema:
       - bone
       - pulp
       - gingiva
-      - dental_organ
+      - dental organ
       required: false
     - id: 5
       name: tissue_type
@@ -78,14 +67,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - tissue_connective
-      - tissue_epithelial
-      - tissue_epithelial_tissue
-      - tissue_connective
-      - tissue_ectodermal
-      - tissue_mesodermal
-      - tissue_endodermal
-      - tissue_muscular
+      - tissue connective
+      - tissue epithelial
+      - tissue epithelial tissue
+      - tissue ectodermal
+      - tissue mesodermal
+      - tissue endodermal
+      - tissue muscular
       required: false
     - id: 7
       name: dental_structure
@@ -100,7 +88,6 @@ inputSchema:
       - dentin
       - cementum
       - periodontal
-      - structure
       required: false
     - id: 8
       name: tooth_location
@@ -108,11 +95,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - tooth_location
-      - tooth_surface
-      - tooth_surface_area
-      - tooth_surface_location
-      - tooth_location_area
+      - tooth location
+      - tooth surface
+      - tooth surface area
+      - tooth surface location
+      - tooth location area
       required: false
     - id: 9
       name: dental_materials
@@ -121,7 +108,7 @@ inputSchema:
       type: select_multiple
       options:
       - materials
-      - materials_dental
+      - materials dental
       - enamel
       - dentin
       - cementum
@@ -133,11 +120,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - root_canal
+      - root canal
       - root
       - canal
-      - tooth_root
-      - tooth_canal
+      - tooth root
+      - tooth canal
       required: false
     - id: 11
       name: histology_exam_type
@@ -145,13 +132,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - histology_exam_type
+      - histology exam type
       - exam
       - type
       - histology
-      - tooth_exam
-      - tooth_exam_type
-      - tooth_exam_types
+      - tooth exam
+      - tooth exam type
+      - tooth exam types
       required: false
     - id: 12
       name: tooth_anatomy
@@ -159,11 +146,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - tooth_anatomy
+      - tooth anatomy
       - anatomy
       - tooth
-      - anatomy_tooth
-      - tooth_anatomy
+      - anatomy tooth
       required: false
     - id: 13
       name: tooth_anatomy_details

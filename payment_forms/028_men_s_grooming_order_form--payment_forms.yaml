@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Payment Method'', ''value'': ''payment_method''}'
-      - '{''id'': 2, ''label'': ''Payment Method'', ''value'': ''payment_method''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Payment Method
+      - Other
       required: false
     - id: 3
       name: pickup_or_delivery
@@ -26,9 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pickup'', ''value'': ''pickup''}'
-      - '{''id'': 2, ''label'': ''Delivery'', ''value'': ''delivery''}'
-      - '{''id'': 3, ''label'': ''Pickup'', ''value'': ''pickup''}'
+      - Pickup
+      - Delivery
       required: false
     - id: 4
       name: pickup_address

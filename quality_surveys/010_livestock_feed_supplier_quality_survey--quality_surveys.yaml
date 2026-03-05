@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Grain''}'
-      - '{''id'': 2, ''label'': ''Hay''}'
-      - '{''id'': 3, ''label'': ''Silage''}'
+      - Grain
+      - Hay
+      - Silage
       required: false
     - id: 3
       name: rating_quality
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 6
       name: timeliness
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 7
       name: price_fairness
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
       name: delivery_cost
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Frequently Enough''}'
-      - '{''id'': 2, ''label'': ''Usually Enough''}'
-      - '{''id'': 3, ''label'': ''Rarely Enough''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Frequently Enough
+      - Usually Enough
+      - Rarely Enough
+      - Never
       required: false
     - id: 10
       name: customer_service
@@ -91,10 +91,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 11
       name: timeliness_punctuality
@@ -102,10 +102,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 12
       name: communication_effectiveness
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 13
       name: price_fairness_punctuality
@@ -124,10 +124,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 14
       name: delivery_flexibility
@@ -135,10 +135,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 15
       name: communication_frequency_punctuality
@@ -146,10 +146,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Frequently Enough''}'
-      - '{''id'': 2, ''label'': ''Usually Enough''}'
-      - '{''id'': 3, ''label'': ''Rarely Enough''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Frequently Enough
+      - Usually Enough
+      - Rarely Enough
+      - Never
       required: false
     - id: 16
       name: delivery_cost_fairness
@@ -157,10 +157,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 17
       name: customer_friendlyness
@@ -168,10 +168,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 18
       name: timeliness
@@ -179,10 +179,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 19
       name: quality_punctuality
@@ -190,10 +190,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 20
       name: timeliness_adequacy
@@ -201,10 +201,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 21
       name: quality_friendlyness
@@ -212,10 +212,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 22
       name: timeliness_efficacy
@@ -223,10 +223,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 23
       name: delivery_punctuality
@@ -234,10 +234,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always On Time''}'
-      - '{''id'': 2, ''label'': ''Usually On Time''}'
-      - '{''id'': 3, ''label'': ''Sometimes Late''}'
-      - '{''id'': 4, ''label'': ''Rarely On Time''}'
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Rarely On Time
       required: false
     - id: 24
       name: price_friendlyness
@@ -245,10 +245,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 25
       name: communication_efficacy
@@ -256,8 +256,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Frequently Enough''}'
-      - '{''id'': 2, ''label'': ''Usually Enough''}'
-      - '{''id'': 3, ''label'': ''Rarely Enough''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Frequently Enough
+      - Usually Enough
+      - Rarely Enough
+      - Never
       required: false

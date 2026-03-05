@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': 5}'
-      - '{''id'': 2, ''value'': 4}'
-      - '{''id'': 3, ''value'': 3}'
-      - '{''id'': 4, ''value'': 2}'
-      - '{''id'': 5, ''value'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: false
     - id: 3
       name: appearance
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Good''}'
-      - '{''id'': 2, ''value'': ''Average''}'
-      - '{''id'': 3, ''value'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor''}'
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: confidence
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''High''}'
-      - '{''id'': 2, ''value'': ''Average''}'
-      - '{''id'': 3, ''value'': ''Low''}'
+      - High
+      - Average
+      - Low
       required: false
     - id: 7
       name: overall_rating
@@ -63,11 +63,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': 5}'
-      - '{''id'': 2, ''value'': 4}'
-      - '{''id'': 3, ''value'': 3}'
-      - '{''id'': 4, ''value'': 2}'
-      - '{''id'': 5, ''value'': 1}'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
       required: false
     - id: 8
       name: additional_comments
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
-      - '{''id'': 3, ''value'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 12
       name: submission_date
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Done''}'
-      - '{''id'': 2, ''value'': ''In Progress''}'
-      - '{''id'': 3, ''value'': ''Not Started''}'
+      - Done
+      - In Progress
+      - Not Started
       required: false
     - id: 17
       name: follow_up_next_call

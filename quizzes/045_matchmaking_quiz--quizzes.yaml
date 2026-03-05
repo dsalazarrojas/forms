@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Single''}'
-      - '{''id'': 2, ''value'': ''In a relationship''}'
-      - '{''id'': 3, ''value'': ''In a relationship and looking to start a new relationship''}'
+      - Single
+      - In a relationship
+      - In a relationship and looking to start a new relationship
       required: false
     - id: 4
       name: match_goal
@@ -33,10 +33,10 @@ inputSchema:
       hint: Select one or more of the below options
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Friendship''}'
-      - '{''id'': 2, ''value'': ''Casual Relationship''}'
-      - '{''id'': 3, ''value'': ''Long-Term Partnership''}'
-      - '{''id'': 4, ''value'': ''Serious Relationship''}'
+      - Friendship
+      - Casual Relationship
+      - Long-Term Partnership
+      - Serious Relationship
       required: false
     - id: 5
       name: partner_attributes
@@ -44,10 +44,10 @@ inputSchema:
       hint: Select one or more of the below options
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Age''}'
-      - '{''id'': 2, ''value'': ''Interests''}'
-      - '{''id'': 3, ''value'': ''Personality''}'
-      - '{''id'': 4, ''value'': ''Lifestyle''}'
+      - Age
+      - Interests
+      - Personality
+      - Lifestyle
       required: false
     - id: 6
       name: values
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Family''}'
-      - '{''id'': 2, ''value'': ''Health''}'
-      - '{''id'': 3, ''value'': ''Happiness''}'
-      - '{''id'': 4, ''value'': ''Wealth''}'
+      - Family
+      - Health
+      - Happiness
+      - Wealth
       required: false
     - id: 7
       name: location
@@ -73,8 +73,8 @@ inputSchema:
       hint: Do you have a social media account?
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: email
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''High School''}'
-      - '{''id'': 2, ''value'': ''College''}'
-      - '{''id'': 3, ''value'': ''University''}'
-      - '{''id'': 4, ''value'': ''Doctoral degree or higher''}'
+      - High School
+      - College
+      - University
+      - Doctoral degree or higher
       required: false
     - id: 12
       name: income
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Hiking''}'
-      - '{''id'': 2, ''value'': ''Reading''}'
-      - '{''id'': 3, ''value'': ''Traveling''}'
-      - '{''id'': 4, ''value'': ''Sports''}'
+      - Hiking
+      - Reading
+      - Traveling
+      - Sports
       required: false
     - id: 15
       name: values_quiz

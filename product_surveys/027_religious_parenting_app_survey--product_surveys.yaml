@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Parental Control''}'
-      - '{''value'': ''Parenting Community''}'
-      - '{''value'': ''Prayer Reminders''}'
-      - '{''value'': ''Bible Studies''}'
+      - Parental Control
+      - Parenting Community
+      - Prayer Reminders
+      - Bible Studies
       required: false
     - id: 3
       name: prayer_practices
@@ -34,10 +34,10 @@ inputSchema:
       hint: How often do you use our app?
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: true
     - id: 5
       name: feedback
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Christian''}'
-      - '{''value'': ''Catholic''}'
-      - '{''value'': ''Other''}'
+      - Christian
+      - Catholic
+      - Other
       required: true
     - id: 7
       name: survey_preferences
@@ -62,8 +62,8 @@ inputSchema:
       hint: Would you like more survey questions like this in the future?
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: additional_comments
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Prefer Not to Answer''}'
+      - Male
+      - Female
+      - Prefer Not to Answer
       required: true
     - id: 16
       name: ethnicity
@@ -137,15 +137,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Less Than HS''}'
-      - '{''value'': ''HS Grad''}'
-      - '{''value'': ''Some College''}'
-      - '{''value'': ''Some College Grad''}'
-      - '{''value'': ''Bachelor''}'
-      - '{''value'': ''Some Grad School''}'
-      - '{''value'': ''Grad School''}'
-      - '{''value'': ''Master''}'
-      - '{''value'': ''Doctor''}'
+      - Less Than HS
+      - HS Grad
+      - Some College
+      - Some College Grad
+      - Bachelor
+      - Some Grad School
+      - Grad School
+      - Master
+      - Doctor
       required: false
     - id: 18
       name: employment_status
@@ -153,11 +153,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Working Full-time''}'
-      - '{''value'': ''Working Part-time''}'
-      - '{''value'': ''Unemployed''}'
-      - '{''value'': ''Retired''}'
-      - '{''value'': ''Stay-At-Home Parent''}'
+      - Working Full-time
+      - Working Part-time
+      - Unemployed
+      - Retired
+      - Stay-At-Home Parent
       required: true
     - id: 19
       name: marital_status
@@ -165,11 +165,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Single''}'
-      - '{''value'': ''Married''}'
-      - '{''value'': ''Separated''}'
-      - '{''value'': ''Divorced''}'
-      - '{''value'': ''Widowed''}'
+      - Single
+      - Married
+      - Separated
+      - Divorced
+      - Widowed
       required: true
     - id: 20
       name: income_range

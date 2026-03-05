@@ -16,14 +16,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''smartphone'', ''value'': ''smartphone''}'
-      - '{''id'': 2, ''label'': ''desktop_computer'', ''value'': ''desktop_computer''}'
-      - '{''id'': 3, ''label'': ''laptop'', ''value'': ''laptop''}'
-      - '{''id'': 4, ''label'': ''tablet'', ''value'': ''tablet''}'
-      - '{''id'': 5, ''label'': ''smart_tv'', ''value'': ''smart_tv''}'
-      - '{''id'': 6, ''label'': ''gaming_console'', ''value'': ''gaming_console''}'
-      - '{''id'': 7, ''label'': ''other'', ''value'': ''other''}'
-      - '{''id'': 8, ''label'': ''none'', ''value'': ''none''}'
+      - smartphone
+      - desktop computer
+      - laptop
+      - tablet
+      - smart tv
+      - gaming console
+      - other
+      - none
       required: false
     - id: 3
       name: internet_reliability
@@ -38,13 +38,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''lack_of_device_access'', ''value'': ''lack_of_device_access''}'
-      - '{''id'': 2, ''label'': ''lack_of_internet_access'', ''value'': ''lack_of_internet_access''}'
-      - '{''id'': 3, ''label'': ''lack_of_affordability'', ''value'': ''lack_of_affordability''}'
-      - '{''id'': 4, ''label'': ''lack_of_literacy'', ''value'': ''lack_of_literacy''}'
-      - '{''id'': 5, ''label'': ''lack_of_trust'', ''value'': ''lack_of_trust''}'
-      - '{''id'': 6, ''label'': ''other'', ''value'': ''other''}'
-      - '{''id'': 7, ''label'': ''none'', ''value'': ''none''}'
+      - lack of device access
+      - lack of internet access
+      - lack of affordability
+      - lack of literacy
+      - lack of trust
+      - other
+      - none
       required: false
     - id: 5
       name: device_access

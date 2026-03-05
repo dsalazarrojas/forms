@@ -15,35 +15,24 @@ inputSchema:
     title: Lighting Control Preferences
     pages:
     - id: 1
-      name: user_input_1
+      name: lighting_control_needs
       label: Lighting Control Needs
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: facility_name_1
+      name: facility_type
       label: Facility
       hint: null
-      type: select_multiple
-      options:
-      - Jotform
-      - Installers
-      - Designers
-      - Facility teams
-      required: true
-    - id: 3
-      name: automation_level_1
-      label: Automation Level
-      hint: null
       type: select_one
       options:
-      - High
-      - Medium
-      - Low
-      required: true
-    - id: 4
-      name: automation_level_2
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 3
+      name: automation_level
       label: Automation Level
       hint: null
       type: select_one
@@ -52,8 +41,8 @@ inputSchema:
       - Medium
       - Low
       required: false
-    - id: 5
-      name: lighting_control_1
+    - id: 4
+      name: lighting_control
       label: Lighting Control
       hint: null
       type: select_multiple
@@ -61,51 +50,16 @@ inputSchema:
       - Motion
       - Dimming
       - Brightness
+      required: false
+    - id: 5
+      name: control_system
+      label: Control System
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 6
-      name: control_system_1
-      label: Control System
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: control_system_2
-      label: Control System
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: control_system_3
-      label: Control System
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: control_system_4
-      label: Control System
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: notes_1
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: notes_2
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: notes_3
+      name: notes
       label: Notes
       hint: null
       type: note

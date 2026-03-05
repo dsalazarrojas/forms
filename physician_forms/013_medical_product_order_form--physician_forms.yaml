@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''product1'', ''price'': 10.99}'
-      - '{''id'': 2, ''name'': ''product2'', ''price'': 20.99}'
-      - '{''id'': 3, ''name'': ''product3'', ''price'': 5.99}'
+      - product1
+      - product2
+      - product3
       required: false
     - id: 3
       name: quantity
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''card''}'
-      - '{''id'': 2, ''name'': ''paypal''}'
-      - '{''id'': 3, ''name'': ''bank_transfer''}'
+      - card
+      - paypal
+      - bank transfer
       required: false
     - id: 9
       name: payment_amount

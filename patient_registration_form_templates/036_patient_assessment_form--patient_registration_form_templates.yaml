@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Severe''}'
-      - '{''id'': 2, ''name'': ''Moderate''}'
-      - '{''id'': 3, ''name'': ''Mild''}'
+      - Severe
+      - Moderate
+      - Mild
       required: false
     - id: 3
       name: medical_history
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Fatigue''}'
-      - '{''id'': 2, ''name'': ''Headache''}'
-      - '{''id'': 3, ''name'': ''Cough''}'
+      - Fatigue
+      - Headache
+      - Cough
       required: false
     - id: 5
       name: test_results
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Physical Therapy''}'
-      - '{''id'': 2, ''name'': ''Medication''}'
-      - '{''id'': 3, ''name'': ''Surgery''}'
+      - Physical Therapy
+      - Medication
+      - Surgery
       required: false
     - id: 8
       name: follow_up
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Yes''}'
-      - '{''id'': 2, ''name'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
       name: patient_id

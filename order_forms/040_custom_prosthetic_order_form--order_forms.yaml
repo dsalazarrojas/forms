@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Microprocessor-Controlled Lower Limb''}'
-      - '{''value'': ''Microprocessor-Controlled Upper Limb''}'
-      - '{''value'': ''Microprocessor-Controlled Upper/ Lower Limb''}'
+      - Microprocessor-Controlled Lower Limb
+      - Microprocessor-Controlled Upper Limb
+      - Microprocessor-Controlled Upper/ Lower Limb
       required: true
     - id: 5
       name: device_color
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Silver''}'
-      - '{''value'': ''Black''}'
-      - '{''value'': ''Red''}'
+      - Silver
+      - Black
+      - Red
       required: false
     - id: 6
       name: prosthetic_size
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Small''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: true
     - id: 7
       name: material_type
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Titanium''}'
-      - '{''value'': ''Titanium/Plastic''}'
-      - '{''value'': ''Plastic''}'
+      - Titanium
+      - Titanium/Plastic
+      - Plastic
       required: true
     - id: 8
       name: patient_address

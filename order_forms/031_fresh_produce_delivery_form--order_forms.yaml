@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Credit''}'
-      - '{''label'': ''PayPal''}'
+      - Cash
+      - Credit
+      - PayPal
       required: false
     - id: 14
       name: delivery_instructions
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Scheduled''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Delivered''}'
-      - '{''label'': ''Cancelled''}'
+      - Scheduled
+      - In Progress
+      - Delivered
+      - Cancelled
       required: false
     - id: 16
       name: customer_name
@@ -123,8 +123,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: customer_phone
-      label: Customer Phone
+      name: customer_phone_2
+      label: Customer Phone 2
       hint: null
       type: text
       options: []
@@ -135,10 +135,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Single Pick Up''}'
-      - '{''label'': ''Subscription Order''}'
-      - '{''label'': ''One Time Order''}'
-      - '{''label'': ''Multiple Orders''}'
+      - Single Pick Up
+      - Subscription Order
+      - One Time Order
+      - Multiple Orders
       required: false
     - id: 19
       name: order_frequency
@@ -146,33 +146,33 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''One Time''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Bi-Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Yearly''}'
+      - One Time
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 20
-      name: payment_method
-      label: Payment Method
+      name: payment_method_2
+      label: Payment Method 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit''}'
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''PayPal''}'
+      - Credit
+      - Cash
+      - PayPal
       required: false
     - id: 21
-      name: customer_email
-      label: Customer E-mail
+      name: customer_email_2
+      label: Customer Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 22
-      name: customer_phone
-      label: Customer Phone
+      name: customer_phone_3
+      label: Customer Phone 3
       hint: null
       type: text
       options: []
@@ -183,20 +183,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pickup''}'
-      - '{''label'': ''Delivery''}'
-      - '{''label'': ''In Store Pickup''}'
+      - Pickup
+      - Delivery
+      - In Store Pickup
       required: false
     - id: 24
-      name: delivery_status
-      label: Delivery Status
+      name: delivery_status_2
+      label: Delivery Status 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Scheduled''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Delivered''}'
-      - '{''label'': ''Cancelled''}'
+      - Scheduled
+      - In Progress
+      - Delivered
+      - Cancelled
       required: false
     - id: 25
       name: notes

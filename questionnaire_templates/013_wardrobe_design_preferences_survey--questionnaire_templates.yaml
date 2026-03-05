@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Open''}'
-      - '{''text'': ''Enclosed''}'
+      - Open
+      - Enclosed
       required: false
     - id: 3
       name: budget_range
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''$1-$5K''}'
-      - '{''text'': ''$5K-$10K''}'
-      - '{''text'': ''$10K-$20K''}'
+      - $1-$5K
+      - $5K-$10K
+      - $10K-$20K
       required: false
     - id: 4
       name: wardrobe_size
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Small''}'
-      - '{''text'': ''Medium''}'
-      - '{''text'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 5
       name: fabric_type
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Cotton''}'
-      - '{''text'': ''Polyester''}'
-      - '{''text'': ''Leather''}'
+      - Cotton
+      - Polyester
+      - Leather
       required: false
     - id: 6
       name: design_style
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Modern''}'
-      - '{''text'': ''Traditional''}'
-      - '{''text'': ''Rustic''}'
+      - Modern
+      - Traditional
+      - Rustic
       required: false
     - id: 7
       name: color_scheme
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Neutral''}'
-      - '{''text'': ''Bold''}'
-      - '{''text'': ''Pastel''}'
+      - Neutral
+      - Bold
+      - Pastel
       required: false
     - id: 8
       name: space_features
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Submit''}'
-      - '{''text'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false
     - id: 12
       name: confirm
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': True}'
-      - '{''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: client_name
@@ -198,6 +198,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Submit''}'
-      - '{''text'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false

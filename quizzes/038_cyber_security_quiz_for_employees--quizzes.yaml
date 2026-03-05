@@ -1,219 +1,100 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cyber Security Quiz For Employees
     pages:
     - id: 1
-      name: introduction
-      label: Welcome to the quiz
+      name: question_1
+      label: What is the main purpose of a firewall?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: section_1_title
-      label: Section 1
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Section 1'', ''value'': ''Section 1''}'
-      - '{''id'': 2, ''label'': ''Section 2'', ''value'': ''Section 2''}'
-      required: false
-    - id: 3
-      name: question_1
-      label: What is the main purpose of a firewall?
+      name: question_2
+      label: Which of the following is a strong password?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''To filter spam emails'', ''value'': ''filter_spam_emails''}'
-      - '{''id'': 2, ''label'': ''To block malicious traffic'', ''value'': ''block_malicious_traffic''}'
-      - '{''id'': 3, ''label'': ''To monitor network traffic'', ''value'': ''monitor_network_traffic''}'
+      - 8 characters
+      - 12 characters
+      - 16 characters
+      required: false
+    - id: 3
+      name: question_3
+      label: What is the main difference between two-factor and one-factor authentication?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 4
-      name: question_2
-      label: Which of the following is a strong password
+      name: question_4
+      label: What is the purpose of antivirus software?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''8 characters'', ''value'': ''8_characters''}'
-      - '{''id'': 2, ''label'': ''12 characters'', ''value'': ''12_characters''}'
-      - '{''id'': 3, ''label'': ''16 characters'', ''value'': ''16_characters''}'
+      - To detect and stop malware
+      - To monitor network traffic
+      - To update the operating system
       required: false
     - id: 5
       name: question_5
-      label: When you are working from home, what is the first step you should take
-        to ensure your computer and data is secure?
+      label: Why is encryption important?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: question_6
-      label: What is the main purpose of antivirus software?
+      label: What is the main purpose of a demilitarized zone (DMZ)?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''To detect and stop malware'', ''value'': ''detect_and_stop_malware''}'
-      - '{''id'': 2, ''label'': ''To monitor network traffic'', ''value'': ''monitor_network_traffic''}'
-      - '{''id'': 3, ''label'': ''To update the operating system'', ''value'': ''update_operating_system''}'
+      - To monitor network traffic
+      - To block malicious traffic
+      - To separate internal and external networks
       required: false
     - id: 7
       name: question_7
-      label: What is the purpose of a strong password?
+      label: What is the main purpose of a patch manager?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''8 characters'', ''value'': ''8_characters''}'
-      - '{''id'': 2, ''label'': ''12 characters'', ''value'': ''12_characters''}'
-      - '{''id'': 3, ''label'': ''16 characters'', ''value'': ''16_characters''}'
+      type: text
+      options: []
       required: false
     - id: 8
       name: question_8
-      label: Which of the following is a type of attack that occurs on a network?
+      label: Why is it important to keep software up-to-date?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Phishing'', ''value'': ''phising''}'
-      - '{''id'': 2, ''label'': ''Spoofing'', ''value'': ''spoofing''}'
-      - '{''id'': 3, ''label'': ''Sniffing'', ''value'': ''sniffing''}'
+      type: text
+      options: []
       required: false
     - id: 9
       name: question_9
-      label: What is the main difference between two-factor and one-factor authentication?
+      label: What is the main purpose of a secure password manager?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: question_10
-      label: What is the purpose of a honeypot?
+      label: What is the difference between phishing and spoofing?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''To monitor network traffic'', ''value'': ''monitor_network_traffic''}'
-      - '{''id'': 2, ''label'': ''To detect and respond to threats'', ''value'': ''detect_and_respond_to_threats''}'
-      - '{''id'': 3, ''label'': ''To prevent unauthorized access'', ''value'': ''prevent_unauthorized_access''}'
+      type: text
+      options: []
       required: false
     - id: 11
       name: question_11
-      label: Why is encryption important?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_12
-      label: What is the main purpose of a DMZ (demilitarized zone)?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''To monitor network traffic'', ''value'': ''monitor_network_traffic''}'
-      - '{''id'': 2, ''label'': ''To block malicious traffic'', ''value'': ''block_malicious_traffic''}'
-      - '{''id'': 3, ''label'': ''To separate the internal and external networks'',
-        ''value'': ''separate_internal_and_external_networks''}'
-      required: false
-    - id: 13
-      name: question_13
-      label: What is the main purpose of a patch manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_14
-      label: Why is it important to keep software up-to-date?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question_15
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_16
-      label: What is the main purpose of a secure password manager?
+      label: What is the main purpose of a honeypot?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''To store sensitive information securely'', ''value'':
-        ''store_sensitive_info_securely''}'
-      - '{''id'': 2, ''label'': ''To monitor network traffic'', ''value'': ''monitor_network_traffic''}'
-      - '{''id'': 3, ''label'': ''To prevent unauthorized access'', ''value'': ''prevent_unauthorized_access''}'
+      - To monitor network traffic
+      - To detect and respond to threats
+      - To prevent unauthorized access
       required: false
-    - id: 17
-      name: question_17
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question_18
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_19
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_20
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_21
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_22
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_23
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_24
-      label: What is the main purpose of a secure password manager?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: question_25
-      label: What is the main purpose of a secure password manager?
+    - id: 12
+      name: question_12
+      label: What is the main purpose of a secure network traffic monitor?
       hint: null
       type: text
       options: []

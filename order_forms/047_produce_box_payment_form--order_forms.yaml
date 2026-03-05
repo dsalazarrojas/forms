@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''box_type_1'', ''label'': ''Standard''}'
-      - '{''id'': 2, ''name'': ''box_type_2'', ''label'': ''Organic''}'
-      - '{''id'': 3, ''name'': ''box_type_3'', ''label'': ''Custom''}'
+      - Standard
+      - Organic
+      - Custom
       required: true
     - id: 3
       name: delivery_method
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''delivery_method_1'', ''label'': ''Weekly''}'
-      - '{''id'': 2, ''name'': ''delivery_method_2'', ''label'': ''Bi-Weekly''}'
-      - '{''id'': 3, ''name'': ''delivery_method_3'', ''label'': ''Monthly''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: true
     - id: 4
       name: payment_method
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''payment_method_1'', ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''payment_method_2'', ''label'': ''Cash''}'
-      - '{''id'': 3, ''name'': ''payment_method_3'', ''label'': ''Check''}'
+      - Credit Card
+      - Cash
+      - Check
       required: true
     - id: 5
       name: order_date

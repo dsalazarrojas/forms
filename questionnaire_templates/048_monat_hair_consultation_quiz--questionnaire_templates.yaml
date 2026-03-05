@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''curly'', ''label'': ''curly''}'
-      - '{''id'': 2, ''name'': ''wavy'', ''label'': ''wavy''}'
-      - '{''id'': 3, ''name'': ''straight'', ''label'': ''straight''}'
+      - curly
+      - wavy
+      - straight
       required: false
     - id: 3
       name: hair_color
@@ -26,12 +26,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''blonde''}'
-      - '{''id'': 2, ''name'': ''brunette''}'
-      - '{''id'': 3, ''name'': ''redhead''}'
-      - '{''id'': 4, ''name'': ''gray''}'
-      - '{''id'': 5, ''name'': ''other''}'
-      - '{''id'': 6, ''name'': ''platinum''}'
+      - blonde
+      - brunette
+      - redhead
+      - gray
+      - other
+      - platinum
       required: false
     - id: 4
       name: age
@@ -53,12 +53,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat_tone''}'
-      - '{''id'': 2, ''name'': ''monat_shine''}'
-      - '{''id'': 3, ''name'': ''monat_hair''}'
-      - '{''id'': 4, ''name'': ''monat_pro''}'
-      - '{''id'': 5, ''name'': ''monat_fusion''}'
-      - '{''id'': 6, ''name'': ''monat_dry_shampoo''}'
+      - monat tone
+      - monat shine
+      - monat hair
+      - monat pro
+      - monat fusion
+      - monat dry shampoo
       required: false
     - id: 7
       name: have_used_monat
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: have_shared_monat
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: hair_type_1
@@ -84,10 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural''}'
-      - '{''id'': 2, ''name'': ''color''}'
-      - '{''id'': 3, ''name'': ''color''}'
-      - '{''id'': 4, ''name'': ''color''}'
+      - natural
+      - color
       required: false
     - id: 10
       name: hair_color_1
@@ -95,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''black''}'
-      - '{''id'': 2, ''name'': ''brown''}'
+      - black
+      - brown
       required: false
     - id: 11
       name: natural_ingredients
@@ -104,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: hair_growth_rate
@@ -113,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''slow''}'
-      - '{''id'': 2, ''name'': ''medium''}'
-      - '{''id'': 3, ''name'': ''fast''}'
+      - slow
+      - medium
+      - fast
       required: false
     - id: 13
       name: previous_products_1
@@ -123,10 +121,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat''}'
-      - '{''id'': 2, ''name'': ''monat''}'
-      - '{''id'': 3, ''name'': ''monat''}'
-      - '{''id'': 4, ''name'': ''monat''}'
+      - monat
+      - Other
       required: false
     - id: 14
       name: monat_products_1
@@ -134,9 +130,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat''}'
-      - '{''id'': 2, ''name'': ''monat''}'
-      - '{''id'': 3, ''name'': ''monat''}'
+      - monat
+      - Other
       required: false
     - id: 15
       name: monat_fusion
@@ -151,9 +146,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''frizzy''}'
-      - '{''id'': 2, ''name'': ''frizzy''}'
-      - '{''id'': 3, ''name'': ''frizzy''}'
+      - frizzy
+      - Other
       required: false
     - id: 17
       name: have_used_monat_fusion
@@ -161,8 +155,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: hair_problems_2
@@ -170,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''frizzy''}'
-      - '{''id'': 2, ''name'': ''frizzy''}'
+      - frizzy
+      - Other
       required: false
     - id: 19
       name: previous_monat_products_1
@@ -179,9 +173,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat''}'
-      - '{''id'': 2, ''name'': ''monat''}'
-      - '{''id'': 3, ''name'': ''monat''}'
+      - monat
+      - Other
       required: false
     - id: 20
       name: have_shared_monat_fusion
@@ -189,8 +182,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: previous_monat_products_2
@@ -198,8 +191,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat''}'
-      - '{''id'': 2, ''name'': ''monat''}'
+      - monat
+      - Other
       required: false
     - id: 22
       name: monat_products_2
@@ -207,8 +200,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat''}'
-      - '{''id'': 2, ''name'': ''monat''}'
+      - monat
+      - Other
       required: false
     - id: 23
       name: monat_hair
@@ -223,8 +216,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monat''}'
-      - '{''id'': 2, ''name'': ''monat''}'
+      - monat
+      - Other
       required: false
     - id: 25
       name: have_used_monat_hair
@@ -232,6 +225,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

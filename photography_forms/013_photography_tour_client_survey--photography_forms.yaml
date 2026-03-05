@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Landscape''}'
-      - '{''id'': 2, ''name'': ''Wildlife''}'
-      - '{''id'': 3, ''name'': ''City''}'
-      - '{''id'': 4, ''name'': ''Nature''}'
+      - Landscape
+      - Wildlife
+      - City
+      - Nature
       required: false
     - id: 4
       name: tour_rating
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Satisfied''}'
-      - '{''id'': 2, ''name'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''name'': ''Neutral''}'
-      - '{''id'': 4, ''name'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 5, ''name'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 6
       name: feedback
@@ -109,11 +109,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Neutral''}'
-      - '{''id'': 4, ''name'': ''Fair''}'
-      - '{''id'': 5, ''name'': ''Very Bad''}'
+      - Very Good
+      - Good
+      - Neutral
+      - Fair
+      - Very Bad
       required: false
     - id: 15
       name: guide_name

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Office''}'
-      - '{''id'': 2, ''label'': ''Home''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Office
+      - Home
+      - Other
       required: true
     - id: 5
       name: meter_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Smart''}'
-      - '{''id'': 2, ''label'': ''Standard''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Smart
+      - Standard
+      - Other
       required: false
     - id: 6
       name: address
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-house''}'
-      - '{''id'': 2, ''label'': ''External''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - In-house
+      - External
+      - Other
       required: false
     - id: 12
       name: installation_location
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On-site''}'
-      - '{''id'': 2, ''label'': ''Off-site''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - On-site
+      - Off-site
+      - Other
       required: false
     - id: 13
       name: priority
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
       name: contact_person
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Done''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Pending
+      - Done
+      - Cancelled
       required: false
     - id: 19
       name: assigned_tool

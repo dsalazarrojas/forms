@@ -23,12 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''reported_as_completed'', ''label'': ''Reported as
-        completed''}'
-      - '{''id'': 2, ''name'': ''reported_as_partially_completed'', ''label'': ''Reported
-        as partially completed''}'
-      - '{''id'': 3, ''name'': ''reported_as_incompleted'', ''label'': ''Reported
-        as incompleted''}'
+      - Reported as completed
+      - Reported as partially completed
+      - Reported as incompleted
       required: false
     - id: 4
       name: after_result
@@ -36,12 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''reported_as_completed'', ''label'': ''Reported as
-        completed''}'
-      - '{''id'': 2, ''name'': ''partially_reported_as_completed'', ''label'': ''Partially
-        reported as completed''}'
-      - '{''id'': 3, ''name'': ''not_reported_as_completed'', ''label'': ''Not reported
-        as completed''}'
+      - Reported as completed
+      - Partially reported as completed
+      - Not reported as completed
       required: false
     - id: 5
       name: result_differ
@@ -98,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facility 1'', ''label'': ''Facility 1''}'
-      - '{''id'': 2, ''name'': ''Facility 2'', ''label'': ''Facility 2''}'
-      - '{''id'': 3, ''name'': ''Facility 3'', ''label'': ''Facility 3''}'
+      - Facility 1
+      - Facility 2
+      - Facility 3
       required: false
     - id: 13
       name: facility_id_2
@@ -108,9 +102,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Facility 1'', ''label'': ''Facility 1''}'
-      - '{''id'': 2, ''name'': ''Facility 2'', ''label'': ''Facility 2''}'
-      - '{''id'': 4, ''name'': ''Facility 4'', ''label'': ''Facility 4''}'
+      - Facility 1
+      - Facility 2
+      - Facility 4
       required: false
     - id: 14
       name: facility_id_3
@@ -118,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Facility 1'', ''label'': ''Facility 1''}'
-      - '{''id'': 2, ''name'': ''Facility 2'', ''label'': ''Facility 2''}'
-      - '{''id'': 3, ''name'': ''Facility 3'', ''label'': ''Facility 3''}'
-      - '{''id'': 5, ''name'': ''Facility 5'', ''label'': ''Facility 5''}'
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      - Facility 5
       required: false

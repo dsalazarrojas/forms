@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''USD''}'
-      - '{''id'': 2, ''name'': ''EUR''}'
-      - '{''id'': 3, ''name'': ''GBP''}'
+      - USD
+      - EUR
+      - GBP
       required: false
     - id: 11
       name: quotation_discount
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Customer 1''}'
-      - '{''id'': 2, ''name'': ''Customer 2''}'
-      - '{''id'': 3, ''name'': ''Customer 3''}'
+      - Customer 1
+      - Customer 2
+      - Customer 3
       required: false
     - id: 13
       name: quotation_terms
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''VAT 1''}'
-      - '{''id'': 2, ''name'': ''VAT 2''}'
-      - '{''id'': 3, ''name'': ''VAT 3''}'
+      - VAT 1
+      - VAT 2
+      - VAT 3
       required: false
     - id: 18
       name: quotation_payment_method

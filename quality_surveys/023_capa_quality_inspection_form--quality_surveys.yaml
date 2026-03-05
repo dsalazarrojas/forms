@@ -1,149 +1,138 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CAPA Quality Inspection Form
     pages:
-      - id: 1
-        name: inspection_header
-        label: -- Quality Inspection and Non-Conformance Report --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspection_date
-        label: Date of Inspection
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: inspector_name
-        label: Lead Inspector Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: department_inspected
-        label: Department or Work Center Inspected
-        hint: null
-        type: select_one
-        options:
-          - Production Line A
-          - Production Line B
-          - Warehouse
-          - Logistics
-          - Maintenance
-          - Quality Control Lab
-        required: true
-      - id: 5
-        name: inspection_type
-        label: Type of Inspection
-        hint: null
-        type: select_one
-        options:
-          - Routine Walkthrough
-          - Scheduled Audit
-          - Incident Investigation
-          - Product Batch Check
-        required: true
-      - id: 6
-        name: finding_category
-        label: Primary Finding Category
-        hint: null
-        type: select_one
-        options:
-          - Safety Violation
-          - Process Deviation
-          - Equipment Failure
-          - Documentation Error
-          - Product Defect
-        required: true
-      - id: 7
-        name: severity_level
-        label: Severity of Non-Conformance
-        hint: null
-        type: select_one
-        options:
-          - Minor
-          - Major
-          - Critical
-        required: true
-      - id: 8
-        name: observation_details
-        label: Detailed Observations and Evidence
-        hint: Please describe exactly what was found.
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: immediate_correction_performed
-        label: Immediate Correction Performed (On-site)
-        hint: What was done right away to fix the issue?
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: capa_required
-        label: Is a formal CAPA process required?
-        hint: Major and Critical findings require CAPA.
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: follow_up_date
-        label: Scheduled Follow-up Date
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 12
-        name: additional_inspector_notes
-        label: General Inspector Notes
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: photo_documentation_provided
-        label: Are photos of the finding available?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: supervisor_notified
-        label: Was the Department Supervisor notified?
-        hint: null
-        type: select_one
-        options:
-          - Yes, during inspection
-          - Yes, post-inspection
-          - No
-        required: true
-      - id: 15
-        name: final_inspection_status
-        label: Inspection Result Status
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Conditional Pass
-          - Fail - Action Required
-        required: true
+    - id: 1
+      name: inspection_header
+      label: -- Quality Inspection and Non-Conformance Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Lead Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_inspected
+      label: Department or Work Center Inspected
+      hint: null
+      type: select_one
+      options:
+      - Production Line A
+      - Production Line B
+      - Warehouse
+      - Logistics
+      - Maintenance
+      - Quality Control Lab
+      required: true
+    - id: 5
+      name: inspection_type
+      label: Type of Inspection
+      hint: null
+      type: select_one
+      options:
+      - Routine Walkthrough
+      - Scheduled Audit
+      - Incident Investigation
+      - Product Batch Check
+      required: true
+    - id: 6
+      name: finding_category
+      label: Primary Finding Category
+      hint: null
+      type: select_one
+      options:
+      - Safety Violation
+      - Process Deviation
+      - Equipment Failure
+      - Documentation Error
+      - Product Defect
+      required: true
+    - id: 7
+      name: severity_level
+      label: Severity of Non-Conformance
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Major
+      - Critical
+      required: true
+    - id: 8
+      name: observation_details
+      label: Detailed Observations and Evidence
+      hint: Please describe exactly what was found.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: immediate_correction_performed
+      label: Immediate Correction Performed (On-site)
+      hint: What was done right away to fix the issue?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: capa_required
+      label: Is a formal CAPA process required?
+      hint: Major and Critical findings require CAPA.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: follow_up_date
+      label: Scheduled Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: additional_inspector_notes
+      label: General Inspector Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_documentation_provided
+      label: Are photos of the finding available?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: supervisor_notified
+      label: Was the Department Supervisor notified?
+      hint: null
+      type: select_one
+      options:
+      - Yes, during inspection
+      - Yes, post-inspection
+      - 'False'
+      required: true
+    - id: 15
+      name: final_inspection_status
+      label: Inspection Result Status
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Conditional Pass
+      - Fail - Action Required
+      required: true

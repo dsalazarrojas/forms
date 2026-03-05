@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Type A'', ''value'': ''type_a''}'
-      - '{''label'': ''Type B'', ''value'': ''type_b''}'
-      - '{''label'': ''Type C'', ''value'': ''type_c''}'
+      - Type A
+      - Type B
+      - Type C
       required: true
     - id: 10
       name: product_quantity
@@ -124,10 +124,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''mm/dd/yyyy'', ''value'': ''mmddyyyy''}'
-      - '{''label'': ''mm/dd/yy'', ''value'': ''mmddyy''}'
-      - '{''label'': ''mm/dd'', ''value'': ''mmd''}'
-      - '{''label'': ''yy-mm-dd'', ''value'': ''yy_mmd''}'
+      - mm/dd/yyyy
+      - mm/dd/yy
+      - mm/dd
+      - yy-mm-dd
       required: true
     - id: 18
       name: store_id
@@ -156,8 +156,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Open'', ''value'': ''open''}'
-      - '{''label'': ''Closed'', ''value'': ''closed''}'
+      - Open
+      - Closed
       required: true
     - id: 22
       name: contact_name

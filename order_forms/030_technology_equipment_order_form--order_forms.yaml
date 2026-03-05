@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Laptops''}'
-      - '{''id'': 2, ''label'': ''Desktops''}'
-      - '{''id'': 3, ''label'': ''Monitors''}'
+      - Laptops
+      - Desktops
+      - Monitors
       required: false
     - id: 3
       name: equipment_make
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Dell''}'
-      - '{''id'': 2, ''label'': ''HP''}'
-      - '{''id'': 3, ''label'': ''Apple''}'
+      - Dell
+      - HP
+      - Apple
       required: false
     - id: 4
       name: equipment_model
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''IT''}'
-      - '{''id'': 2, ''label'': ''Procurement''}'
+      - IT
+      - Procurement
       required: false
     - id: 7
       name: approval_status
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false
     - id: 8
       name: delivery_details
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''IT''}'
-      - '{''id'': 2, ''label'': ''Procurement''}'
-      - '{''id'': 3, ''label'': ''Admin''}'
+      - IT
+      - Procurement
+      - Admin
       required: false
     - id: 15
       name: location
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On-site''}'
-      - '{''id'': 2, ''label'': ''Remote''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - On-site
+      - Remote
+      - Hybrid
       required: false
     - id: 16
       name: order_comments
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 22
       name: user_comments
@@ -196,7 +196,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 26

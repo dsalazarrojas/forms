@@ -4,27 +4,27 @@ inputSchema:
     title: Enlightenment Thinkers Quiz
     pages:
     - id: 1
-      name: enlightenment_thinkers_quiz_1
+      name: introduction_page
       label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: enlightenment_thinkers_quiz_2
-      label: Question 1
+      name: quiz_question_1
+      label: Who is the philosopher known as the "Father of Deism"?
       hint: null
       type: select_one
       options:
       - Kant
-      - Hobbes
-      - Locke
-      - Voltaire
+      - Leibniz
+      - Spinoza
+      - Descartes
       required: true
     - id: 3
-      name: enlightenment_thinkers_quiz_3
-      label: Question 2
-      hint: Select multiple options
+      name: quiz_question_2
+      label: Which philosophical concept is central to the idea of enlightenment?
+      hint: null
       type: select_multiple
       options:
       - Reason
@@ -33,156 +33,128 @@ inputSchema:
       - Nature
       required: true
     - id: 4
-      name: enlightenment_thinkers_quiz_4
-      label: Question 3
+      name: quiz_question_3
+      label: What is the correct date of the influential book "Discourse on the Method"?
       hint: null
-      type: time
+      type: date
       options: []
       required: false
     - id: 5
-      name: enlightenment_thinkers_quiz_5
-      label: Question 4
+      name: quiz_question_4
+      label: Which philosopher argued that the universe is governed by natural law
+        and reason?
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Kant
+      - Hobbes
+      - Descartes
+      - Leibniz
+      required: true
     - id: 6
-      name: enlightenment_thinkers_quiz_6
-      label: Question 5
+      name: submission_page
+      label: Submission
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 7
-      name: enlightenment_thinkers_quiz_7
+      name: additional_information
       label: Additional Information
       hint: null
       type: note
       options: []
       required: false
     - id: 8
-      name: enlightenment_thinkers_quiz_8
-      label: Submission
+      name: quiz_question_2_2
+      label: Which thinker's ideas were influential in the development of modern biology?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Rousseau
+      - Rousseau (Denis Diderot, actually a follower of Rousseau's ideas)
       required: true
     - id: 9
-      name: enlightenment_thinkers_quiz_9
-      label: Submission
+      name: quiz_question_3_2
+      label: What type of philosophical approach emphasizes reason over intuition
+        or emotion?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: enlightenment_thinkers_quiz_10
-      label: Submission
+      name: quiz_question_4_2
+      label: Which of the following thinkers' ideas emphasized the individual as the
+        center of the universe?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Rousseau
+      - Kant
+      required: true
     - id: 11
-      name: enlightenment_thinkers_quiz_11
-      label: Submission
+      name: quiz_question_5
+      label: Which of the following thinkers believed that the universe was governed
+        by a "clockwork" universe?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Hobbes
+      - Voltaire
+      - Rousseau
+      - Rousseau (Denis Diderot, actually a follower of Rousseau's ideas)
+      required: true
     - id: 12
-      name: enlightenment_thinkers_quiz_12
-      label: Submission
+      name: submission_page_2
+      label: Submission Page 2
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: enlightenment_thinkers_quiz_13
-      label: Submission
+      name: additional_information_2
+      label: Additional Information 2
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 14
-      name: enlightenment_thinkers_quiz_14
-      label: Submission
+      name: quiz_question_6
+      label: What is the term for the philosophical and scientific movement of the
+        17th and 18th century?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: enlightenment_thinkers_quiz_15
-      label: Submission
+      name: quiz_question_7
+      label: Quiz Question 7
+      hint: null
+      type: select_one
+      options:
+      - Hobbes
+      - Voltaire
+      - Rousseau
+      - Rousseau (Denis Diderot, actually a follower of Rousseau's ideas)
+      required: true
+    - id: 16
+      name: submission_page_3
+      label: Submission Page 3
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: enlightenment_thinkers_quiz_16
-      label: Submission
+    - id: 17
+      name: additional_information_3
+      label: Additional Information 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_page_4
+      label: Submission Page 4
       hint: null
       type: text
       options: []
       required: true
-    - id: 17
-      name: enlightenment_thinkers_quiz_17
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: enlightenment_thinkers_quiz_18
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: enlightenment_thinkers_quiz_19
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: enlightenment_thinkers_quiz_20
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: enlightenment_thinkers_quiz_21
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: enlightenment_thinkers_quiz_22
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: enlightenment_thinkers_quiz_23
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: enlightenment_thinkers_quiz_24
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: enlightenment_thinkers_quiz_25
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false

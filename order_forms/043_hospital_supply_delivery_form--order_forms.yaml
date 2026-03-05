@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Urgent'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Non-Urgent'', ''value'': 2}'
+      - Urgent
+      - Non-Urgent
       required: true
     - id: 5
       name: delivery_address
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Address 1'', ''value'': ''Address 1''}'
-      - '{''id'': 2, ''label'': ''Address 2'', ''value'': ''Address 2''}'
-      - '{''id'': 3, ''label'': ''Address 3'', ''value'': ''Address 3''}'
+      - Address 1
+      - Address 2
+      - Address 3
       required: true
     - id: 6
       name: delivery_status
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Not Confirmed'', ''value'': 2}'
+      - Confirmed
+      - Not Confirmed
       required: true
     - id: 7
       name: contact_person
@@ -149,8 +149,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Between 9am-5pm'', ''value'': ''9am-5pm''}'
-      - '{''id'': 2, ''label'': ''After 5pm'', ''value'': ''After 5pm''}'
+      - Between 9am-5pm
+      - After 5pm
       required: false
     - id: 21
       name: delivery_notes
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Closed'', ''value'': 2}'
+      - Open
+      - Closed
       required: false
     - id: 24
       name: supplier_notes
@@ -188,6 +188,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Not Confirmed'', ''value'': 2}'
+      - Confirmed
+      - Not Confirmed
       required: true

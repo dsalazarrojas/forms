@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Basic''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Basic
+      - Intermediate
+      - Advanced
       required: true
     - id: 3
       name: assessment_date
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Chef''}'
-      - '{''id'': 2, ''label'': ''Cook''}'
-      - '{''id'': 3, ''label'': ''Restaurateur''}'
+      - Chef
+      - Cook
+      - Restaurateur
       required: true
     - id: 5
       name: score
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''knife skills''}'
-      - '{''id'': 2, ''label'': ''knife safety''}'
-      - '{''id'': 3, ''label'': ''knife handling''}'
+      - knife skills
+      - knife safety
+      - knife handling
       required: false
     - id: 8
       name: kitchen_skills
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''prep''}'
-      - '{''id'': 2, ''label'': ''cooking''}'
-      - '{''id'': 3, ''label'': ''food safety''}'
+      - prep
+      - cooking
+      - food safety
       required: false
     - id: 9
       name: kitchen_equipment
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''knives''}'
-      - '{''id'': 2, ''label'': ''pots and pans''}'
-      - '{''id'': 3, ''label'': ''appliances''}'
+      - knives
+      - pots and pans
+      - appliances
       required: false
     - id: 10
       name: kitchen_layout
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''layout''}'
-      - '{''id'': 2, ''label'': ''organization''}'
-      - '{''id'': 3, ''label'': ''efficiency''}'
+      - layout
+      - organization
+      - efficiency
       required: false
     - id: 11
       name: food_quality
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''presentation''}'
-      - '{''id'': 2, ''label'': ''taste''}'
-      - '{''id'': 3, ''label'': ''consistency''}'
+      - presentation
+      - taste
+      - consistency
       required: false
     - id: 12
       name: team_work
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''communication''}'
-      - '{''id'': 2, ''label'': ''cooperation''}'
-      - '{''id'': 3, ''label'': ''leadership''}'
+      - communication
+      - cooperation
+      - leadership
       required: false
     - id: 13
       name: time_management
@@ -117,7 +117,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''scheduling''}'
-      - '{''id'': 2, ''label'': ''prioritization''}'
-      - '{''id'': 3, ''label'': ''pacing''}'
+      - scheduling
+      - prioritization
+      - pacing
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''label'': ''File 1''}'
-      - '{''id'': 20, ''label'': ''File 2''}'
-      - '{''id'': 30, ''label'': ''File 3''}'
+      - File 1
+      - File 2
+      - File 3
       required: false
     - id: 5
       name: verification_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15, ''label'': ''In Progress''}'
-      - '{''id'': 25, ''label'': ''Complete''}'
-      - '{''id'': 35, ''label'': ''Cancelled''}'
+      - In Progress
+      - Complete
+      - Cancelled
       required: false
     - id: 7
       name: verification_by
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 18, ''label'': ''User 1''}'
-      - '{''id'': 28, ''label'': ''User 2''}'
-      - '{''id'': 38, ''label'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: false
     - id: 8
       name: verification_note_comments

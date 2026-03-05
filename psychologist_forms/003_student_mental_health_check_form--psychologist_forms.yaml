@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''normal'', ''label'': ''Normal''}'
-      - '{''value'': ''anxious'', ''label'': ''Anxious''}'
-      - '{''value'': ''depressed'', ''label'': ''Depressed''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Normal
+      - Anxious
+      - Depressed
+      - Other
       required: false
     - id: 4
       name: student_mental_support_page
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''parent'', ''label'': ''Parent''}'
-      - '{''value'': ''teacher'', ''label'': ''Teacher''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Parent
+      - Teacher
+      - Other
       required: false
     - id: 5
       name: student_mental_symptom_page
@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''sleep'', ''label'': ''Sleep Disturbances''}'
-      - '{''value'': ''appetite'', ''label'': ''Appetite Disturbances''}'
-      - '{''value'': ''concentration'', ''label'': ''Concentration Issues''}'
-      - '{''value'': ''social'', ''label'': ''Social Withdrawal''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Sleep Disturbances
+      - Appetite Disturbances
+      - Concentration Issues
+      - Social Withdrawal
+      - Other
       required: false
     - id: 6
       name: student_mental_status_date_page
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''follow-up'', ''label'': ''Follow-up''}'
-      - '{''value'': ''counseling'', ''label'': ''Counseling''}'
-      - '{''value'': ''no-action'', ''label'': ''No Action''}'
+      - Follow-up
+      - Counseling
+      - No Action
       required: false
     - id: 10
       name: student_mental_status_signature_page
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: student_mental_status_email_page
@@ -117,6 +117,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

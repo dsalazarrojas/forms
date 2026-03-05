@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Payment 1''}'
-      - '{''label'': ''Payment 2''}'
-      - '{''label'': ''Payment 3''}'
+      - Payment 1
+      - Payment 2
+      - Payment 3
       required: true
     - id: 2
       name: amount
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''USD''}'
-      - '{''label'': ''EUR''}'
-      - '{''label'': ''JPY''}'
-      - '{''label'': ''CNY''}'
+      - USD
+      - EUR
+      - JPY
+      - CNY
       required: false
     - id: 4
       name: payment_date
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Refunded''}'
+      - Pending
+      - Paid
+      - Refunded
       required: false
     - id: 9
       name: payment_method_details

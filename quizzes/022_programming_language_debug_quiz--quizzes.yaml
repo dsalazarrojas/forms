@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''JavaScript''}'
-      - '{''id'': 2, ''label'': ''Python''}'
-      - '{''id'': 3, ''label'': ''C++''}'
+      - JavaScript
+      - Python
+      - C++
       required: false
     - id: 2
       name: programming_languages
@@ -19,10 +19,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''JavaScript''}'
-      - '{''id'': 2, ''label'': ''C++''}'
-      - '{''id'': 3, ''label'': ''C''}'
-      - '{''id'': 4, ''label'': ''Java''}'
+      - JavaScript
+      - C++
+      - C
+      - Java
       required: false
     - id: 3
       name: debug_skills
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High School''}'
-      - '{''id'': 2, ''label'': "Bachelor''s Degree"}'
-      - '{''id'': 3, ''label'': "Master''s Degree"}'
+      - High School
+      - Bachelor's Degree
+      - Master's Degree
       required: false
     - id: 6
       name: work_experience

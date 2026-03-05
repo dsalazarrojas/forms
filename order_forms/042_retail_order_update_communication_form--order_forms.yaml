@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''pending''}'
-      - '{''id'': 2, ''label'': ''fulfilled''}'
-      - '{''id'': 3, ''label'': ''cancelled''}'
+      - pending
+      - fulfilled
+      - cancelled
       required: false
     - id: 4
       name: shipping_method
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''standard''}'
-      - '{''id'': 2, ''label'': ''priority''}'
-      - '{''id'': 3, ''label'': ''express''}'
+      - standard
+      - priority
+      - express
       required: false
     - id: 5
       name: shipping_date
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''standard''}'
-      - '{''id'': 2, ''label'': ''priority''}'
-      - '{''id'': 3, ''label'': ''express''}'
+      - standard
+      - priority
+      - express
       required: false
     - id: 14
       name: shipping_cost

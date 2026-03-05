@@ -4,194 +4,189 @@ inputSchema:
     title: Parent Coaching Intake Survey
     pages:
     - id: 1
-      name: parent_coaching_intake_survey_1
-      label: Parenting Goals
+      name: introduction_1
+      label: What are your parenting goals for your child?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: parent_coaching_intake_survey_2
-      label: Family Information
+      name: introduction_2
+      label: How would you like to be contacted for future sessions?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      type: text
+      options: []
       required: false
     - id: 3
-      name: parent_coaching_intake_survey_3
-      label: Parental Stress
-      hint: How often do you feel stressed?
-      type: number
+      name: family_information_1
+      label: Family Information
+      hint: null
+      type: text
       options: []
       required: false
     - id: 4
-      name: parent_coaching_intake_survey_4
-      label: Parental Goals
+      name: family_information_2
+      label: Who lives in the household?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Partner
+      - Child
+      - Other
       required: false
     - id: 5
-      name: parent_coaching_intake_survey_5
-      label: Session Details
+      name: parental_support_1
+      label: How do you typically support your child's emotional needs?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 6
-      name: parent_coaching_intake_survey_6
-      label: Parent Support
+      name: parental_support_2
+      label: Do you have a support system in place for emotional support?
       hint: null
-      type: time
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 7
-      name: parent_coaching_intake_survey_7
-      label: Parenting Goals
+      name: parental_support_3
+      label: What kind of support do you receive from family members or friends?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 8
-      name: parent_coaching_intake_survey_8
-      label: Contact
+      name: parenting_goals_1
+      label: What specific parenting goals do you want to work on?
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 9
-      name: parent_coaching_intake_survey_9
-      label: Contact
+      name: parenting_goals_2
+      label: How would you like to achieve these goals?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: parent_coaching_intake_survey_10
-      label: Parent Information
+      name: parent_information_1
+      label: How long have you been a parent?
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: parent_coaching_intake_survey_11
-      label: Parental Support
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: parent_coaching_intake_survey_12
-      label: Parental Support
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: parent_coaching_intake_survey_13
-      label: Parental Goals
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: parent_coaching_intake_survey_14
-      label: Parenting Goals
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: parent_coaching_intake_survey_15
-      label: Parent Information
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: parent_coaching_intake_survey_16
-      label: Parenting Style
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: parent_coaching_intake_survey_17
-      label: Parent Support System
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: parent_coaching_intake_survey_18
-      label: Session Details
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: parent_coaching_intake_survey_19
-      label: Parental Stress
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: parent_coaching_intake_survey_20
-      label: Parental Support
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: parent_coaching_intake_survey_21
-      label: Parental Goals
+      name: parent_information_2
+      label: What is your child's age and grade level?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 1-2 years
+      - 3-5 years
+      - 6-8 years
+      - 9-11 years
+      - 12+ years
+      required: false
+    - id: 12
+      name: session_details_1
+      label: How many sessions would you like to schedule?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: session_details_2
+      label: What date and time would you prefer for the sessions?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: parenting_style_1
+      label: How would you describe your parenting style?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parenting_style_2
+      label: Do you have any parenting books or resources that you find helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parental_stress_1
+      label: How often do you experience stress as a parent?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: parental_stress_2
+      label: What specific situations or events cause you the most stress?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parental_support_1_2
+      label: Who do you rely on for emotional support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parental_support_2_2
+      label: Do you feel supported by your partner or spouse?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 20
+      name: parental_goals_1
+      label: What specific goals do you have for your child's development?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parental_goals_2
+      label: How will you support your child in achieving these goals?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 22
-      name: parent_coaching_intake_survey_22
-      label: Parental Goals
+      name: parenting_strategies_1
+      label: What strategies do you currently use to manage your child's behavior?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: false
     - id: 23
-      name: parent_coaching_intake_survey_23
-      label: Parenting Style
+      name: parenting_strategies_2
+      label: How do you handle discipline and setting boundaries?
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: parent_coaching_intake_survey_24
-      label: Parental Stress
+      name: session_details_2_2
+      label: How will you use the coaching sessions to achieve your goals?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 25
-      name: parent_coaching_intake_survey_25
-      label: Parental Stress
+      name: session_details_3
+      label: What specific issues would you like to address in our sessions?
       hint: null
-      type: number
+      type: text
       options: []
       required: false

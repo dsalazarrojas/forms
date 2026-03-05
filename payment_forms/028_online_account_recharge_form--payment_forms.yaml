@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Prepaid''}'
-      - '{''label'': ''Digital Wallet''}'
-      - '{''label'': ''Membership''}'
+      - Prepaid
+      - Digital Wallet
+      - Membership
       required: false
     - id: 4
       name: amount
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Card''}'
-      - '{''label'': ''Bank Transfer''}'
-      - '{''label'': ''Online Pay''}'
+      - Card
+      - Bank Transfer
+      - Online Pay
       required: false
     - id: 6
       name: email
@@ -71,7 +71,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 10

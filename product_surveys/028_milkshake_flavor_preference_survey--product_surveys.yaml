@@ -4,8 +4,8 @@ inputSchema:
     title: Milkshake Flavor Preference Survey
     pages:
     - id: 1
-      name: flavor_preferences
-      label: Milkshake Flavors
+      name: page1
+      label: What flavors do you like?
       hint: null
       type: select_multiple
       options:
@@ -14,8 +14,8 @@ inputSchema:
       - Strawberry
       required: false
     - id: 2
-      name: satisfaction
-      label: Satisfaction
+      name: page2
+      label: How satisfied are you with our current milkshake flavors?
       hint: null
       type: select_one
       options:
@@ -26,18 +26,8 @@ inputSchema:
       - Very Dissatisfied
       required: false
     - id: 3
-      name: new_offerings
-      label: New Offerings
-      hint: null
-      type: select_multiple
-      options:
-      - Very Interested
-      - Somewhat Interested
-      - Not Interested
-      required: false
-    - id: 4
-      name: flavor_interest
-      label: Which Milkshake Flavors Are You Interested In?
+      name: page3
+      label: What flavors are you interested in trying?
       hint: null
       type: select_multiple
       options:
@@ -45,19 +35,21 @@ inputSchema:
       - Chocolate
       - Strawberry
       required: false
-    - id: 5
-      name: favorite_flavor
-      label: Favorite Flavor
+    - id: 4
+      name: page4
+      label: How satisfied are you with the flavor of your favorite milkshake?
       hint: null
       type: select_one
       options:
-      - Vanilla
-      - Chocolate
-      - Strawberry
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
-    - id: 6
-      name: new_flavor_interest
-      label: New Flavor Interest
+    - id: 5
+      name: page5
+      label: How interested are you in trying new milkshake flavors?
       hint: null
       type: select_multiple
       options:
@@ -65,9 +57,9 @@ inputSchema:
       - Somewhat Interested
       - Not Interested
       required: false
-    - id: 7
-      name: flavor_demand
-      label: Milkshake Flavor Demand
+    - id: 6
+      name: page6
+      label: How much do you like the current flavor of our milkshake?
       hint: null
       type: select_multiple
       options:
@@ -75,9 +67,9 @@ inputSchema:
       - Medium
       - Low
       required: false
-    - id: 8
-      name: favorite_milkshake
-      label: Favorite Milkshake
+    - id: 7
+      name: page7
+      label: What is your favorite milkshake flavor?
       hint: null
       type: select_one
       options:
@@ -85,9 +77,9 @@ inputSchema:
       - Chocolate
       - Strawberry
       required: false
-    - id: 9
-      name: flavor_satisfaction
-      label: Flavor Satisfaction
+    - id: 8
+      name: page8
+      label: How would you rate your satisfaction with our milkshake flavors?
       hint: null
       type: select_multiple
       options:
@@ -97,40 +89,31 @@ inputSchema:
       - Somewhat Dissatisfied
       - Very Dissatisfied
       required: false
-    - id: 10
-      name: new_flavor
-      label: New Milkshake Flavor Interest
+    - id: 9
+      name: page9
+      label: How much do you like our milkshake flavors?
       hint: null
       type: select_multiple
       options:
-      - Very Interested
-      - Somewhat Interested
-      - Not Interested
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: page10
+      label: Page10
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 11
-      name: milkshake_flavor_interest
-      label: Milkshake Flavor Interest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: milkshake_satisfaction
-      label: Satisfaction
-      hint: Please enter a number between 1-10
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: milkshake_flavor_demand
-      label: Milkshake Flavor Demand
-      hint: Please enter a number between 1.0-10.0
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: new_milkshake
-      label: New Milkshake
+      name: page11
+      label: Page11
       hint: null
       type: select_multiple
       options:
@@ -138,18 +121,55 @@ inputSchema:
       - Somewhat Interested
       - Not Interested
       required: false
-    - id: 15
-      name: milkshake_interests
-      label: Milkshake Interests
+    - id: 12
+      name: page12
+      label: Page12
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 13
+      name: page13
+      label: Page13
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: page14
+      label: Page14
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 15
+      name: page15
+      label: Page15
+      hint: null
+      type: select_multiple
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
       required: false
     - id: 16
-      name: milkshake_satisfaction_2
-      label: Satisfaction
+      name: page16
+      label: Page16
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Very Satisfied
       - Somewhat Satisfied
@@ -158,30 +178,8 @@ inputSchema:
       - Very Dissatisfied
       required: false
     - id: 17
-      name: milkshake_flavor_preferences_2
-      label: Milkshake Flavors
-      hint: null
-      type: select_multiple
-      options:
-      - Vanilla
-      - Chocolate
-      - Strawberry
-      required: false
-    - id: 18
-      name: milkshake_satisfaction_2
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very Satisfied
-      - Somewhat Satisfied
-      - Neutral
-      - Somewhat Dissatisfied
-      - Very Dissatisfied
-      required: false
-    - id: 19
-      name: milkshake_flavor_demand_2
-      label: Milkshake Flavor Demand
+      name: page17
+      label: Page17
       hint: null
       type: select_multiple
       options:
@@ -189,9 +187,9 @@ inputSchema:
       - Medium
       - Low
       required: false
-    - id: 20
-      name: milkshake_satisfaction_3
-      label: Satisfaction
+    - id: 18
+      name: page18
+      label: Page18
       hint: null
       type: select_multiple
       options:
@@ -200,58 +198,4 @@ inputSchema:
       - Neutral
       - Somewhat Dissatisfied
       - Very Dissatisfied
-      required: false
-    - id: 21
-      name: milkshake_flavor_preferences_3
-      label: Milkshake Flavors
-      hint: null
-      type: select_multiple
-      options:
-      - Vanilla
-      - Chocolate
-      - Strawberry
-      required: false
-    - id: 22
-      name: milkshake_satisfaction_4
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very Satisfied
-      - Somewhat Satisfied
-      - Neutral
-      - Somewhat Dissatisfied
-      - Very Dissatisfied
-      required: false
-    - id: 23
-      name: milkshake_flavor_preferences_4
-      label: Milkshake Flavors
-      hint: null
-      type: select_multiple
-      options:
-      - Vanilla
-      - Chocolate
-      - Strawberry
-      required: false
-    - id: 24
-      name: milkshake_satisfaction_5
-      label: Satisfaction
-      hint: null
-      type: select_multiple
-      options:
-      - Very Satisfied
-      - Somewhat Satisfied
-      - Neutral
-      - Somewhat Dissatisfied
-      - Very Dissatisfied
-      required: false
-    - id: 25
-      name: milkshake_flavor_preferences_5
-      label: Milkshake Flavors
-      hint: null
-      type: select_multiple
-      options:
-      - Vanilla
-      - Chocolate
-      - Strawberry
       required: false

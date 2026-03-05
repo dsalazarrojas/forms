@@ -5,186 +5,121 @@ inputSchema:
     pages:
     - id: 1
       name: intro_section
-      label: intro_section
-      hint: null
+      label: What is your current role or position in the company/organization?
+      hint: Please describe your role or position.
       type: text
       options: []
       required: false
     - id: 2
-      name: how_satisfying_is_the_feature
-      label: how_satisfying_is_the_feature
-      hint: null
-      type: number
-      options: []
+      name: feature_usage
+      label: How often do you use the feature?
+      hint: Select a frequency of use.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
       required: false
     - id: 3
-      name: feature_usage
-      label: feature_usage
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: would_you_recommend
-      label: would_you_recommend
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: suggestion
-      label: suggestion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: date_last_used
-      label: date_last_used
-      hint: null
+      label: On what date did you last use the feature?
+      hint: Please use YYYY-MM-DD format.
       type: date
       options: []
       required: false
-    - id: 9
+    - id: 4
       name: time_last_used
-      label: time_last_used
-      hint: null
+      label: At what time did you last use the feature?
+      hint: Please use 24-hour format.
       type: time
       options: []
       required: false
-    - id: 10
+    - id: 5
       name: how_often_used
-      label: how_often_used
-      hint: null
+      label: How Often Used
+      hint: Select a frequency of use.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: false
-    - id: 11
+    - id: 6
       name: how_much_time_used
-      label: how_much_time_used
-      hint: null
+      label: How much time do you spend using the feature?
+      hint: Select a time duration.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 1-5 minutes
+      - 5-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
       required: false
-    - id: 12
+    - id: 7
       name: how_much_time_last_used
-      label: how_much_time_last_used
-      hint: null
+      label: How much time did you spend using the feature last time?
+      hint: Select a time duration.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 1-5 minutes
+      - 5-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
       required: false
-    - id: 13
+    - id: 8
       name: how_satisfying_is_the_feature
-      label: how_satisfying_is_the_feature
-      hint: null
+      label: How satisfactory do you find the feature?
+      hint: Select a level of satisfaction.
       type: select_one
       options:
       - Satisfied
+      - Neutral
       - Dissatisfied
       required: false
-    - id: 14
+    - id: 9
       name: feedback
-      label: feedback
-      hint: null
+      label: Do you have any other comments or feedback about the feature?
+      hint: Please provide additional comments.
       type: text
       options: []
       required: false
-    - id: 15
+    - id: 10
       name: contact_name
-      label: contact_name
-      hint: null
+      label: What is your name?
+      hint: Please provide your name.
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 11
       name: contact_email
-      label: contact_email
-      hint: null
+      label: What is your email address?
+      hint: Please provide your email address.
       type: email
       options: []
       required: false
-    - id: 17
+    - id: 12
       name: contact_phone
-      label: contact_phone
-      hint: null
+      label: What is your phone number?
+      hint: Please provide your phone number.
       type: text
       options: []
       required: false
-    - id: 18
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
+    - id: 13
+      name: would_you_recommend
+      label: Would you recommend the feature to others?
+      hint: Select a level of recommendation.
+      type: select_multiple
+      options:
+      - Highly
+      - Somewhat
+      - Not at all
       required: false
-    - id: 19
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: contact_phone
-      label: contact_phone
-      hint: null
+    - id: 14
+      name: suggestion
+      label: Do you have any suggestions for improvement or new features?
+      hint: Please provide your suggestions.
       type: text
       options: []
       required: false

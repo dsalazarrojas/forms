@@ -16,14 +16,10 @@ inputSchema:
       hint: Weekly, Monthly, Yearly
       type: select_one
       options:
-      - label: Weekly
-        value: weekly
-      - label: Monthly
-        value: monthly
-      - label: Quarterly
-        value: quarterly
-      - label: Annually
-        value: annually
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 3
       name: primary_purpose
@@ -31,14 +27,10 @@ inputSchema:
       hint: Select the one that applies most often
       type: select_one
       options:
-      - label: Business
-        value: business
-      - label: Leisure/Vacation
-        value: leisure
-      - label: Insurance Replacement
-        value: insurance
-      - label: Special Occasion
-        value: special
+      - Business
+      - Leisure/Vacation
+      - Insurance Replacement
+      - Special Occasion
       required: true
     - id: 4
       name: important_factors
@@ -46,16 +38,11 @@ inputSchema:
       hint: What influences your choice?
       type: select_multiple
       options:
-      - label: Rental Price
-        value: price
-      - label: Vehicle Type Variety
-        value: vehicle
-      - label: Pickup/Dropoff Locations
-        value: location
-      - label: Customer Service Reputation
-        value: service
-      - label: Loyalty Program
-        value: loyalty
+      - Rental Price
+      - Vehicle Type Variety
+      - Pickup/Dropoff Locations
+      - Customer Service Reputation
+      - Loyalty Program
       required: true
     - id: 5
       name: current_satisfaction_level
@@ -70,14 +57,10 @@ inputSchema:
       hint: How do you usually book?
       type: select_one
       options:
-      - label: Online Website
-        value: website
-      - label: Mobile Application
-        value: app
-      - label: Telephone Hotline
-        value: phone
-      - label: In-Person/Walk-in
-        value: in_person
+      - Online Website
+      - Mobile Application
+      - Telephone Hotline
+      - In-Person/Walk-in
       required: true
     - id: 7
       name: desired_features
@@ -85,14 +68,10 @@ inputSchema:
       hint: What would make your experience better?
       type: select_multiple
       options:
-      - label: Contactless Pickup
-        value: contactless
-      - label: Real-time Vehicle Tracking
-        value: tracking
-      - label: Mobile Payment Integration
-        value: mobile_pay
-      - label: 24/7 Virtual Support
-        value: virtual_support
+      - Contactless Pickup
+      - Real-time Vehicle Tracking
+      - Mobile Payment Integration
+      - 24/7 Virtual Support
       required: false
     - id: 8
       name: specific_feedback
@@ -107,10 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, please
-        value: true
-      - label: No, thanks
-        value: false
+      - Yes, please
+      - No, thanks
       required: true
     - id: 10
       name: email_for_followup

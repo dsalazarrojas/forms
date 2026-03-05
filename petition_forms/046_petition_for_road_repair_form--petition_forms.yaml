@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''potholes'', ''label'': ''Potholes''}'
-      - '{''id'': 11, ''name'': ''cracks'', ''label'': ''Cracks''}'
-      - '{''id'': 12, ''name'': ''flooding'', ''label'': ''Flooding''}'
-      - '{''id'': 13, ''name'': ''traffic_signals'', ''label'': ''Traffic Signals''}'
-      - '{''id'': 14, ''name'': ''road_signs'', ''label'': ''Road Signs''}'
+      - Potholes
+      - Cracks
+      - Flooding
+      - Traffic Signals
+      - Road Signs
       required: false
     - id: 6
       name: road_priority
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 15, ''name'': ''high'', ''label'': ''High''}'
-      - '{''id'': 16, ''name'': ''medium'', ''label'': ''Medium''}'
-      - '{''id'': 17, ''name'': ''low'', ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: contact_name

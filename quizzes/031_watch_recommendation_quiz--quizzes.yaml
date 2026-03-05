@@ -16,243 +16,108 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: watch_recommendation_quiz
-      hint: null
+      label: Watch Recommendation Quiz
+      hint: Welcome to our watch recommendation quiz!
       type: note
       options: []
       required: false
     - id: 2
-      name: time_period
-      label: time_period
-      hint: null
-      type: select_multiple
+      name: budget
+      label: What is your budget range?
+      hint: Select one of the following options
+      type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
+      - Under $100
+      - $500-$1000
+      - Over $1000
+      required: true
     - id: 3
-      name: watch_type
-      label: watch_type
+      name: style
+      label: What is your preferred watch style?
       hint: null
       type: select_one
       options:
-      - luxury
-      - fashion
-      - casual
-      required: false
+      - Classic
+      - Minimalist
+      - Sporty
+      required: true
     - id: 4
-      name: budget_range
-      label: budget_range
-      hint: null
-      type: select_multiple
-      options:
-      - '100'
-      - '500'
-      - '1000'
-      required: false
-    - id: 5
-      name: brand
-      label: brand
-      hint: null
-      type: select_multiple
-      options:
-      - rolex
-      - omega
-      - patek
-      required: false
-    - id: 6
-      name: style_range
-      label: style_range
-      hint: null
-      type: select_multiple
-      options:
-      - '2'
-      - '3'
-      required: false
-    - id: 7
       name: occasion
-      label: occasion
+      label: For which occasion do you want to wear the watch?
       hint: null
       type: select_one
       options:
-      - formal
-      - casual
-      - special
-      required: false
+      - Formal
+      - Casual
+      - Special
+      required: true
+    - id: 5
+      name: watch_type
+      label: What type of watch do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Luxury
+      - Fashion
+      - Casual
+      required: true
+    - id: 6
+      name: brand
+      label: Which watch brand do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - Rolex
+      - Omega
+      - Patek
+      required: true
+    - id: 7
+      name: time_period
+      label: How long do you want to wear the watch?
+      hint: null
+      type: select_one
+      options:
+      - Short-term
+      - Long-term
+      - Daily
+      required: true
     - id: 8
       name: style_range
-      label: style_range
+      label: Which style range do you prefer?
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      required: false
+      - Classic
+      - Minimalist
+      - Sporty
+      required: true
     - id: 9
-      name: time_period
-      label: time_period
+      name: additional_features
+      label: Do you have any additional features in mind?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - short
-      - medium
-      - long
+      - Waterproof
+      - GPS
+      - Other
       required: false
     - id: 10
-      name: style
-      label: style
+      name: strap_or_band
+      label: What is your preferred strap or band material?
       hint: null
       type: select_multiple
       options:
-      - classic
-      - minimalist
-      - sporty
+      - Leather
+      - Metal
+      - Other
       required: false
     - id: 11
-      name: watch_type
-      label: watch_type
-      hint: null
-      type: select_one
-      options:
-      - luxury
-      - fashion
-      - casual
-      required: false
-    - id: 12
-      name: occasion
-      label: occasion
-      hint: null
-      type: select_one
-      options:
-      - formal
-      - casual
-      - special
-      required: false
-    - id: 13
-      name: style_range
-      label: style_range
+      name: movement_mechanism
+      label: What is your preferred watch movement or mechanism?
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      required: false
-    - id: 14
-      name: time_period
-      label: time_period
-      hint: null
-      type: select_one
-      options:
-      - short
-      - medium
-      - long
-      required: false
-    - id: 15
-      name: style
-      label: style
-      hint: null
-      type: select_multiple
-      options:
-      - classic
-      - minimalist
-      - sporty
-      required: false
-    - id: 16
-      name: budget_range
-      label: budget_range
-      hint: null
-      type: select_multiple
-      options:
-      - '100'
-      - '500'
-      - '1000'
-      required: false
-    - id: 17
-      name: brand
-      label: brand
-      hint: null
-      type: select_multiple
-      options:
-      - rolex
-      - omega
-      - patek
-      required: false
-    - id: 18
-      name: style_range
-      label: style_range
-      hint: null
-      type: select_multiple
-      options:
-      - '2'
-      - '3'
-      required: false
-    - id: 19
-      name: style
-      label: style
-      hint: null
-      type: select_multiple
-      options:
-      - classic
-      - minimalist
-      - sporty
-      required: false
-    - id: 20
-      name: watch_type
-      label: watch_type
-      hint: null
-      type: select_one
-      options:
-      - luxury
-      - fashion
-      - casual
-      required: false
-    - id: 21
-      name: occasion
-      label: occasion
-      hint: null
-      type: select_one
-      options:
-      - formal
-      - casual
-      - special
-      required: false
-    - id: 22
-      name: time_period
-      label: time_period
-      hint: null
-      type: select_one
-      options:
-      - short
-      - medium
-      - long
-      required: false
-    - id: 23
-      name: style_range
-      label: style_range
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      required: false
-    - id: 24
-      name: style
-      label: style
-      hint: null
-      type: select_multiple
-      options:
-      - classic
-      - minimalist
-      - sporty
-      required: false
-    - id: 25
-      name: style_range
-      label: style_range
-      hint: null
-      type: select_multiple
-      options:
-      - '100'
-      - '500'
-      - '1000'
+      - Quartz
+      - Mechanical
+      - Automatic
       required: false

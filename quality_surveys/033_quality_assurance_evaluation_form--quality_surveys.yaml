@@ -18,173 +18,76 @@ inputSchema:
       options:
       - Good
       - Poor
-      required: false
+      required: true
     - id: 3
       name: question_3
-      label: Quality Assurance Form
+      label: Quality Assurance Score
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 4
       name: question_4
-      label: Quality Assurance Score
+      label: Quality Assurance Comments
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 5
       name: question_5
-      label: Quality Assurance Score
+      label: Quality Assurance Evaluation Date
       hint: null
-      type: number
+      type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: question_6
-      label: Quality Assurance Score
+      label: Quality Assurance Time
       hint: null
-      type: number
+      type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: question_7
-      label: Quality Assurance Score
+      label: quality_assurance_rating
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: question_8
-      label: quality_assurance_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: question_9
-      label: Quality Assurance Score
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Good
       - Poor
       required: false
+    - id: 8
+      name: question_8
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: Quality Assurance Description
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 10
       name: question_10
-      label: Quality Assurance Evaluation Form
+      label: Quality Assurance Additional Comments
       hint: null
       type: note
       options: []
       required: false
     - id: 11
       name: question_11
-      label: Quality Assurance Evaluation
+      label: Quality Assurance Form Date
       hint: null
       type: date
       options: []
       required: false
     - id: 12
       name: question_12
-      label: Quality Assurance
+      label: Quality Assurance Form Time
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 13
-      name: question_13
-      label: Quality Assurance
-      hint: Please choose one
-      type: select_one
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 14
-      name: question_14
-      label: Quality Assurance
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: question_15
-      label: Quality
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_16
-      label: Quality Assurance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question_17
-      label: Quality Assurance
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 18
-      name: question_18
-      label: Quality Assurance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_19
-      label: Quality Assurance
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: question_20
-      label: Quality Assurance
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: question_21
-      label: Quality Assurance
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: question_22
-      label: Quality Assurance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_23
-      label: Quality Assurance
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Poor
-      required: false
-    - id: 24
-      name: question_24
-      label: Quality Assurance
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: question_25
-      label: Quality Assurance
-      hint: null
-      type: text
       options: []
       required: false

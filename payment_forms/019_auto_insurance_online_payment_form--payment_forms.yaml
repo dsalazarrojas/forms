@@ -115,8 +115,8 @@ inputSchema:
       hint: I authorize the insurance agency to process this payment
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: send_receipt
@@ -124,6 +124,6 @@ inputSchema:
       hint: Would you like a copy of this receipt?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

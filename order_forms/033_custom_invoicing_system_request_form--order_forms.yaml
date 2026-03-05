@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''add'', ''label'': ''add''}'
-      - '{''id'': 2, ''name'': ''modify'', ''label'': ''modify''}'
+      - add
+      - modify
       required: false
     - id: 9
       name: system_status
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
-      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
-      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false
     - id: 10
       name: assigned_to

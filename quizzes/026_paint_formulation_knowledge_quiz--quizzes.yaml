@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Waterborne''}'
-      - '{''id'': 2, ''label'': ''Solventborne''}'
-      - '{''id'': 3, ''label'': ''Solventless''}'
-      - '{''id'': 4, ''label'': ''High-Pressure''}'
-      - '{''id'': 5, ''label'': ''Powder''}'
-      - '{''id'': 6, ''label'': ''Powder Coating''}'
+      - Waterborne
+      - Solventborne
+      - Solventless
+      - High-Pressure
+      - Powder
+      - Powder Coating
       required: false
     - id: 3
       name: binder_selection
@@ -29,16 +29,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Resin''}'
-      - '{''id'': 2, ''label'': ''Latex''}'
-      - '{''id'': 3, ''label'': ''Alkyd''}'
-      - '{''id'': 4, ''label'': ''Epoxy''}'
-      - '{''id'': 5, ''label'': ''Acrylic''}'
-      - '{''id'': 6, ''label'': ''Polyester''}'
-      - '{''id'': 7, ''label'': ''Urethane''}'
-      - '{''id'': 8, ''label'': ''Urethane/Alkyd''}'
-      - '{''id'': 9, ''label'': ''Polyurethane''}'
-      - '{''id'': 10, ''label'': ''Other''}'
+      - Resin
+      - Latex
+      - Alkyd
+      - Epoxy
+      - Acrylic
+      - Polyester
+      - Urethane
+      - Urethane/Alkyd
+      - Polyurethane
+      - Other
       required: false
     - id: 4
       name: solvent_selection
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Solvent''}'
-      - '{''id'': 2, ''label'': ''Water''}'
-      - '{''id'': 3, ''label'': ''Organic''}'
+      - Solvent
+      - Water
+      - Organic
       required: false
     - id: 5
       name: filler_selection
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Silica''}'
-      - '{''id'': 2, ''label'': ''Calcium Carbonate''}'
-      - '{''id'': 3, ''label'': ''Talc''}'
-      - '{''id'': 4, ''label'': ''Silica/Silica''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Silica
+      - Calcium Carbonate
+      - Talc
+      - Silica/Silica
+      - Other
       required: false
     - id: 6
       name: colorants_selection
@@ -68,11 +68,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pigments''}'
-      - '{''id'': 2, ''label'': ''Dyes''}'
-      - '{''id'': 3, ''label'': ''Interlayers''}'
-      - '{''id'': 4, ''label'': ''Other''}'
-      - '{''id'': 5, ''label'': ''Pint''}'
+      - Pigments
+      - Dyes
+      - Interlayers
+      - Other
+      - Pint
       required: false
     - id: 7
       name: finish_selection
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Matte''}'
-      - '{''id'': 2, ''label'': ''Gloss''}'
-      - '{''id'': 3, ''label'': ''Semi Gloss''}'
+      - Matte
+      - Gloss
+      - Semi Gloss
       required: false
     - id: 8
       name: pigment_selection
@@ -90,10 +90,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Titanium Dioxide''}'
-      - '{''id'': 2, ''label'': ''Iron Oxide''}'
-      - '{''id'': 3, ''label'': ''Carbon Black''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Titanium Dioxide
+      - Iron Oxide
+      - Carbon Black
+      - Other
       required: false
     - id: 9
       name: primer_selection
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 10, ''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 10
       name: filler_ratio
@@ -160,42 +160,42 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Matt''}'
-      - '{''id'': 2, ''label'': ''Semi-gloss''}'
-      - '{''id'': 3, ''label'': ''High-Gloss''}'
+      - Matt
+      - Semi-gloss
+      - High-Gloss
       required: false
     - id: 18
-      name: paint_type
-      label: paint type
+      name: paint_type_2
+      label: Paint Type 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Waterborne''}'
-      - '{''id'': 2, ''label'': ''Solventborne''}'
-      - '{''id'': 3, ''label'': ''Solventless''}'
-      - '{''id'': 4, ''label'': ''High-Pressure''}'
-      - '{''id'': 5, ''label'': ''Powder''}'
+      - Waterborne
+      - Solventborne
+      - Solventless
+      - High-Pressure
+      - Powder
       required: false
     - id: 19
       name: finish
-      label: finish
+      label: finish (2)
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Matte''}'
-      - '{''id'': 2, ''label'': ''Gloss''}'
-      - '{''id'': 3, ''label'': ''Semi-gloss''}'
+      - Matte
+      - Gloss
+      - Semi-gloss
       required: false
     - id: 20
       name: colorants
-      label: colorants
+      label: colorants (2)
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pigments''}'
-      - '{''id'': 2, ''label'': ''Dyes''}'
-      - '{''id'': 3, ''label'': ''Interlayers''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Pigments
+      - Dyes
+      - Interlayers
+      - Other
       required: false
     - id: 21
       name: other_info
@@ -210,8 +210,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: submitter

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''2-1'', ''label'': ''Dog''}'
-      - '{''id'': ''2-2'', ''label'': ''Cat''}'
-      - '{''id'': ''2-3'', ''label'': ''Both''}'
+      - Dog
+      - Cat
+      - Both
       required: false
     - id: 3
       name: vaccination
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''3-1'', ''label'': ''Daily''}'
-      - '{''id'': ''3-2'', ''label'': ''Weekly''}'
-      - '{''id'': ''3-3'', ''label'': ''Monthly''}'
-      - '{''id'': ''3-4'', ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: false
     - id: 4
       name: parasite_prevention
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''7-1'', ''label'': ''Regular''}'
-      - '{''id'': ''7-2'', ''label'': ''As needed''}'
-      - '{''id'': ''7-3'', ''label'': ''Never''}'
+      - Regular
+      - As needed
+      - Never
       required: false
     - id: 8
       name: parasite_frequency
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''8-1'', ''label'': ''Rarely''}'
-      - '{''id'': ''8-2'', ''label'': ''Occasionally''}'
-      - '{''id'': ''8-3'', ''label'': ''Frequently''}'
-      - '{''id'': ''8-4'', ''label'': ''Always''}'
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
       required: false
     - id: 9
       name: veterinary_visits
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''9-1'', ''label'': ''Every 6 months''}'
-      - '{''id'': ''9-2'', ''label'': ''Every 12 months''}'
-      - '{''id'': ''9-3'', ''label'': ''More than 6 months''}'
+      - Every 6 months
+      - Every 12 months
+      - More than 6 months
       required: false
     - id: 10
       name: parasite_control
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''10-1'', ''label'': True}'
-      - '{''id'': ''10-2'', ''label'': False}'
-      - '{''id'': ''10-3'', ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 11
       name: pet_type
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''11-1'', ''label'': ''Dog''}'
-      - '{''id'': ''11-2'', ''label'': ''Cat''}'
-      - '{''id'': ''11-3'', ''label'': ''Other''}'
+      - Dog
+      - Cat
+      - Other
       required: false
     - id: 12
       name: age

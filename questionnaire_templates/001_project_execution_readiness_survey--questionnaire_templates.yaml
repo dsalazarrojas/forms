@@ -4,192 +4,154 @@ inputSchema:
     title: Project Execution Readiness Survey
     pages:
     - id: 1
-      name: project_execution_readiness_survey
-      label: project_execution_readiness_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 2
-      name: project_execution_readiness_survey_project
-      label: project_execution_readiness_survey_project
-      hint: null
+      name: project_execution_readiness_survey_name
+      label: Project Name
+      hint: Enter project name
       type: text
       options: []
-      required: false
+      required: true
+    - id: 2
+      name: project_execution_readiness_survey_team_readiness
+      label: Project Team Readiness
+      hint: Rate project team's readiness
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: project_execution_readiness_survey_team
-      label: project_execution_readiness_survey_team
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''Option 1''}'
-      - '{''value'': 2, ''label'': ''Option 2''}'
-      - '{''value'': 3, ''label'': ''Option 3''}'
-      required: false
-    - id: 4
       name: project_execution_readiness_survey_launch_date
-      label: project_execution_readiness_survey_launch_date
-      hint: null
+      label: Project Launch Date
+      hint: Enter project launch date
       type: date
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: project_execution_readiness_survey_launch_time
-      label: project_execution_readiness_survey_launch_time
-      hint: null
+      label: Project Launch Time
+      hint: Enter project launch time
       type: time
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: project_execution_readiness_survey_status
-      label: project_execution_readiness_survey_status
-      hint: null
-      type: select_multiple
+      label: Project Status
+      hint: Select project status
+      type: select_one
       options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 7
+      - Active
+      - Delayed
+      - Cancelled
+      required: true
+    - id: 6
       name: project_execution_readiness_survey_comment
-      label: project_execution_readiness_survey_comment
-      hint: null
+      label: Project Comment
+      hint: Enter project comment
       type: note
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: project_execution_readiness_survey_email
-      label: project_execution_readiness_survey_email
-      hint: null
+      label: Project Email
+      hint: Enter project email
       type: email
+      options: []
+      required: true
+    - id: 8
+      name: project_execution_readiness_survey_phone
+      label: Project Phone
+      hint: Enter project phone number
+      type: text
       options: []
       required: false
     - id: 9
-      name: project_execution_readiness_survey_phone
-      label: project_execution_readiness_survey_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: project_execution_readiness_survey_urgency
-      label: project_execution_readiness_survey_urgency
-      hint: null
+      label: Project Urgency
+      hint: Rate project urgency
       type: number
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: project_execution_readiness_survey_importance
-      label: project_execution_readiness_survey_importance
-      hint: null
+      label: Project Importance
+      hint: Rate project importance
       type: number
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 11
       name: project_execution_readiness_survey_confidence
-      label: project_execution_readiness_survey_confidence
-      hint: null
+      label: Project Confidence
+      hint: Rate project confidence
       type: number
+      options: []
+      required: true
+    - id: 12
+      name: project_execution_readiness_survey_comments
+      label: Project Comments
+      hint: Enter project comments
+      type: note
       options: []
       required: false
     - id: 13
-      name: project_execution_readiness_survey_comments
-      label: project_execution_readiness_survey_comments
-      hint: null
-      type: note
+      name: project_execution_readiness_survey_confidence_level
+      label: Project Confidence Level
+      hint: Rate project confidence level
+      type: number
       options: []
-      required: false
+      required: true
     - id: 14
-      name: project_execution_readiness_survey_urgent
-      label: project_execution_readiness_survey_urgent
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''Option 1''}'
-      - '{''value'': 2, ''label'': ''Option 2''}'
-      - '{''value'': 3, ''label'': ''Option 3''}'
-      required: false
-    - id: 15
-      name: project_execution_readiness_survey_confident
-      label: project_execution_readiness_survey_confident
-      hint: null
+      name: project_execution_readiness_survey_progress
+      label: Project Progress
+      hint: Select project progress
       type: select_multiple
       options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 15
+      name: project_execution_readiness_survey_status_2
+      label: Project Execution Readiness Survey Status 2
+      hint: Select project status
+      type: select_multiple
+      options:
+      - Active
+      - Delayed
+      - Completed
       required: false
     - id: 16
-      name: project_execution_readiness_survey_status
-      label: project_execution_readiness_survey_status
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      required: false
+      name: project_execution_readiness_survey_urgency_2
+      label: Project Execution Readiness Survey Urgency 2
+      hint: Rate project urgency
+      type: number
+      options: []
+      required: true
     - id: 17
-      name: project_execution_readiness_survey_comments
-      label: project_execution_readiness_survey_comments
-      hint: null
-      type: note
+      name: project_execution_readiness_survey_importance_2
+      label: Project Execution Readiness Survey Importance 2
+      hint: Rate project importance
+      type: number
       options: []
       required: false
     - id: 18
-      name: project_execution_readiness_survey_urgency
-      label: project_execution_readiness_survey_urgency
-      hint: null
+      name: project_execution_readiness_survey_confidence_2
+      label: Project Execution Readiness Survey Confidence 2
+      hint: Rate project confidence
       type: number
       options: []
       required: false
     - id: 19
-      name: project_execution_readiness_survey_importance
-      label: project_execution_readiness_survey_importance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: project_execution_readiness_survey_confidence
-      label: project_execution_readiness_survey_confidence
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: project_execution_readiness_survey_status
-      label: project_execution_readiness_survey_status
-      hint: null
+      name: project_execution_readiness_survey_confidence_levels
+      label: Project Confidence Levels
+      hint: Select multiple confidence levels
       type: select_multiple
       options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - Low
+      - Medium
+      - High
       required: false
-    - id: 22
-      name: project_execution_readiness_survey_comments
-      label: project_execution_readiness_survey_comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: project_execution_readiness_survey_urgency
-      label: project_execution_readiness_survey_urgency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: project_execution_readiness_survey_importance
-      label: project_execution_readiness_survey_importance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: project_execution_readiness_survey_confidence
-      label: project_execution_readiness_survey_confidence
-      hint: null
+    - id: 20
+      name: project_execution_readiness_survey_confidence_3
+      label: Project Execution Readiness Survey Confidence 3
+      hint: Rate project confidence
       type: number
       options: []
       required: false

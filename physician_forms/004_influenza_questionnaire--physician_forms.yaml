@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -58,7 +47,6 @@ inputSchema:
       - Chills
       - Muscle Aches
       - Headache
-      - Sore Throat
       - Nausea/Vomiting
       - Diarrhea
       - Confusion/Disorientation
@@ -149,8 +137,8 @@ inputSchema:
       - Other
       required: false
     - id: 12
-      name: flu_symptoms
-      label: Flu Symptoms
+      name: flu_symptoms_2
+      label: Flu Symptoms 2
       hint: null
       type: select_multiple
       options:
@@ -162,7 +150,6 @@ inputSchema:
       - Chills
       - Muscle Aches
       - Headache
-      - Sore Throat
       - Nausea/Vomiting
       - Diarrhea
       - Confusion/Disorientation
@@ -184,7 +171,7 @@ inputSchema:
       required: false
     - id: 14
       name: healthcare_workplace_contact
-      label: Health Care Worker Contact
+      label: Healthcare Workplace Contact
       hint: null
       type: select_multiple
       options:
@@ -192,8 +179,8 @@ inputSchema:
       - 'False'
       required: false
     - id: 15
-      name: healthcare_workplace
-      label: Health Care Workplace
+      name: healthcare_workplace_2
+      label: Healthcare Workplace 2
       hint: null
       type: select_one
       options:

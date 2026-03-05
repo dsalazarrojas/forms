@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''operator1'', ''id'': 1}'
-      - '{''name'': ''operator2'', ''id'': 2}'
-      - '{''name'': ''operator3'', ''id'': 3}'
+      - operator1
+      - operator2
+      - operator3
       required: false
     - id: 3
       name: tour_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''type1'', ''id'': 1}'
-      - '{''name'': ''type2'', ''id'': 2}'
-      - '{''name'': ''type3'', ''id'': 3}'
+      - type1
+      - type2
+      - type3
       required: false
     - id: 4
       name: start_location

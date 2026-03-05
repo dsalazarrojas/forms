@@ -65,13 +65,10 @@ inputSchema:
       hint: What the patient SHOULD NOT do
       type: select_multiple
       options:
-      - label: No Heavy Lifting (>10 lbs)
-        value: heavy_lifting
-      - label: No Driving
-        value: driving
-      - label: strenuous_exercise
-      - label: Limited Stairs
-        value: limited_stairs
+      - No Heavy Lifting (>10 lbs)
+      - No Driving
+      - strenuous exercise
+      - Limited Stairs
       required: true
     - id: 10
       name: dietary_instructions_cardiac
@@ -79,14 +76,10 @@ inputSchema:
       hint: Specific diet rules (e.g., Low Sodium)
       type: select_one
       options:
-      - label: Standard Cardiac Diet
-        value: cardiac_diet
-      - label: Low Sodium (<2000mg)
-        value: low_sodium
-      - label: Fluid Restricted
-        value: fluid_restricted
-      - label: Diabetic Friendly
-        value: diabetic
+      - Standard Cardiac Diet
+      - Low Sodium (<2000mg)
+      - Fluid Restricted
+      - Diabetic Friendly
       required: true
     - id: 11
       name: follow_up_appointment_header

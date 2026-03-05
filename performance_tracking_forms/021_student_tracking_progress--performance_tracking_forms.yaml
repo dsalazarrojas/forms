@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''beginner''}'
-      - '{''id'': 2, ''name'': ''intermediate''}'
-      - '{''id'': 3, ''name'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: false
     - id: 6
       name: current_language_grade
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''teacher_2''}'
+      - chatjimmy
+      - teacher 2
       required: false
     - id: 10
       name: assigned_tool
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''tool_2''}'
+      - chatjimmy
+      - tool 2
       required: false
     - id: 11
       name: email

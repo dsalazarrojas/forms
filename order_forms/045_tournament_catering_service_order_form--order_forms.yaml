@@ -44,7 +44,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Catering 1'', ''value'': ''option-1''}'
+      - option-1
       - Other
       required: true
     - id: 7
@@ -81,7 +81,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
+      - 'True'
       - Other
       required: true
     - id: 12
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Cash'', ''value'': ''Cash''}'
-      - '{''name'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
-      - '{''name'': ''Online Payment'', ''value'': ''Online Payment''}'
+      - Cash
+      - Bank Transfer
+      - Online Payment
       required: true
     - id: 13
       name: payment_info
@@ -142,7 +142,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
+      - 'True'
       - Other
       required: true
     - id: 20
@@ -158,7 +158,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Paid'', ''value'': ''Paid''}'
+      - Paid
       - Other
       required: true
     - id: 22

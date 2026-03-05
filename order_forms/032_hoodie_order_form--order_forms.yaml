@@ -15,189 +15,100 @@ inputSchema:
     title: hoodie_order_form
     pages:
     - id: 1
-      name: customer_details
-      label: Customer Details
+      name: customer_info
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: order_details
-      label: Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: payment_method
-      label: Payment Method
+      name: order_type
+      label: What is your order type?
       hint: null
       type: select_one
       options:
-      - '{''name'': ''card_number'', ''value'': 1234567890123456}'
-      - '{''name'': ''expiry_date'', ''value'': ''01/01/2024''}'
-      - '{''name'': ''cvv'', ''value'': 123}'
-      required: false
+      - Order Type 1
+      - Order Type 2
+      - Order Type 3
+      required: true
+    - id: 3
+      name: contact_info
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Message
+      required: true
     - id: 4
-      name: contact_details
-      label: Contact Details
+      name: order_description
+      label: Can you provide a brief description of your order?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: delivery_details
-      label: Delivery Details
+      name: payment_method
+      label: What is your payment method?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Payment Method 1
+      - Payment Method 2
+      - Payment Method 3
+      required: true
     - id: 6
-      name: order_details_2
-      label: Order
+      name: delivery_address
+      label: What is your delivery address?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: customer_details_2
-      label: Customer Details
+      name: contact_phone
+      label: Can you provide a contact phone number?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: contact_details_2
-      label: Contact Details
+      name: additional_comments
+      label: Is there anything else you would like to include in your order?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: delivery_details_2
-      label: Delivery Details
+      name: order_confirmation
+      label: Can you confirm your order details?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: order_details_3
-      label: Order
+      name: delivery_special_requests
+      label: Do you have any special requests for delivery?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: customer_details_3
-      label: Customer Details
+      name: delivery_method
+      label: How would you like to receive your order?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Delivery Method 1
+      - Delivery Method 2
+      - Delivery Method 3
       required: false
     - id: 12
-      name: contact_details_3
-      label: Contact Details
+      name: note
+      label: Can you provide a note?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: delivery_details_3
-      label: Delivery Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: order_details_4
-      label: Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: customer_details_4
-      label: Customer Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: payment_method_2
-      label: Payment Method
-      hint: null
-      type: select_one
+      type: checkbox
       options:
-      - '{''name'': ''card_number_2'', ''value'': 1234567890123456}'
-      - '{''name'': ''expiry_date_2'', ''value'': ''01/01/2024''}'
-      - '{''name'': ''cvv_2'', ''value'': 123}'
-      required: false
-    - id: 17
-      name: payment_method_3
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''card_number_3'', ''value'': 1234567890123456}'
-      - '{''name'': ''expiry_date_3'', ''value'': ''01/01/2024''}'
-      - '{''name'': ''cvv_3'', ''value'': 123}'
-      required: false
-    - id: 18
-      name: delivery_details_4
-      label: Delivery Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_details_5
-      label: Customer Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_details_4
-      label: Contact Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: order_details_5
-      label: Order
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: payment_method_4
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''card_number_4'', ''value'': 1234567890123456}'
-      - '{''name'': ''expiry_date_4'', ''value'': ''01/01/2024''}'
-      - '{''name'': ''cvv_4'', ''value'': 123}'
-      required: false
-    - id: 23
-      name: delivery_details_5
-      label: Delivery Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: contact_details_5
-      label: Contact Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: order_details_6
-      label: Order
-      hint: null
-      type: text
-      options: []
+      - 'Yes'
+      - 'No'
       required: false

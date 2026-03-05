@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 12
       name: select_multiple
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 13
       name: text
@@ -115,33 +115,35 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: select_one
+      name: select_one_2
       label: How many people?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 17
-      name: select_multiple
+      name: select_multiple_2
       label: Select multiple
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 18
-      name: date
-      label: Date
+      name: date_2
+      label: Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 19
-      name: time
-      label: Time
+      name: time_2
+      label: Time 2
       hint: null
       type: time
       options: []
@@ -154,35 +156,35 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 22
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: text
+      name: text_2
       label: Text input 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: integer
+      name: integer_2
       label: Integer input 2
       hint: null
       type: number
       options: []
       required: false
     - id: 25
-      name: decimal
+      name: decimal_2
       label: Decimal input 2
       hint: null
       type: number

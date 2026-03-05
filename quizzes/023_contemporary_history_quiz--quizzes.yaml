@@ -1,121 +1,134 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contemporary History Quiz
     pages:
-      - id: 1
-        name: section_student_info
-        label: -- Student Details --
-        hint: Please provide your information below.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: student_id
-        label: Student Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: quiz_date
-        label: Quiz Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: section_history_questions
-        label: -- Contemporary History Questions --
-        hint: Please select the correct answer for each question.
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: question_1
-        label: Who was the first person to walk on the moon?
-        hint: null
-        type: select_one
-        options: [Neil Armstrong, Buzz Aldrin, Michael Collins, Alan Shepard]
-        required: true
-      - id: 7
-        name: question_2
-        label: In what year did the Berlin Wall fall?
-        hint: null
-        type: select_one
-        options: [1985, 1987, 1989, 1991]
-        required: true
-      - id: 8
-        name: question_3
-        label: Who was the leader of the Soviet Union during the Cuban Missile Crisis?
-        hint: null
-        type: select_one
-        options: [Joseph Stalin, Nikita Khrushchev, Mikhail Gorbachev, Vladimir Putin]
-        required: true
-      - id: 9
-        name: question_4
-        label: What was the primary reason for the start of World War I?
-        hint: null
-        type: select_one
-        options: [Assassination of Archduke Franz Ferdinand, Expansionism, Colonialism, Militarism]
-        required: true
-      - id: 10
-        name: question_5
-        label: In what year did the United Nations form?
-        hint: null
-        type: select_one
-        options: [1941, 1943, 1945, 1947]
-        required: true
-      - id: 11
-        name: section_confirmation
-        label: -- Confirmation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: quiz_completed
-        label: Quiz Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 13
-        name: additional_comments
-        label: Any questions or comments?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: signature_confirmation
-        label: I confirm that I have completed the quiz independently
-        hint: null
-        type: select_one
-        options: [I Agree, I Disagree]
-        required: true
-      - id: 15
-        name: quiz_submission_date
-        label: Date of Quiz Submission
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_student_info
+      label: -- Student Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_history_questions
+      label: -- Contemporary History Questions --
+      hint: Please select the correct answer for each question.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: Who was the first person to walk on the moon?
+      hint: null
+      type: select_one
+      options:
+      - Neil Armstrong
+      - Buzz Aldrin
+      - Michael Collins
+      - Alan Shepard
+      required: true
+    - id: 7
+      name: question_2
+      label: In what year did the Berlin Wall fall?
+      hint: null
+      type: select_one
+      options:
+      - '1985'
+      - '1987'
+      - '1989'
+      - '1991'
+      required: true
+    - id: 8
+      name: question_3
+      label: Who was the leader of the Soviet Union during the Cuban Missile Crisis?
+      hint: null
+      type: select_one
+      options:
+      - Joseph Stalin
+      - Nikita Khrushchev
+      - Mikhail Gorbachev
+      - Vladimir Putin
+      required: true
+    - id: 9
+      name: question_4
+      label: What was the primary reason for the start of World War I?
+      hint: null
+      type: select_one
+      options:
+      - Assassination of Archduke Franz Ferdinand
+      - Expansionism
+      - Colonialism
+      - Militarism
+      required: true
+    - id: 10
+      name: question_5
+      label: In what year did the United Nations form?
+      hint: null
+      type: select_one
+      options:
+      - '1941'
+      - '1943'
+      - '1945'
+      - '1947'
+      required: true
+    - id: 11
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: quiz_completed
+      label: Quiz Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Any questions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_confirmation
+      label: I confirm that I have completed the quiz independently
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 15
+      name: quiz_submission_date
+      label: Date of Quiz Submission
+      hint: null
+      type: date
+      options: []
+      required: true

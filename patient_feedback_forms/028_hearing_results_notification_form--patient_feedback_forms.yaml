@@ -15,114 +15,116 @@ inputSchema:
     title: Hearing Results Notification Form
     pages:
     - id: 1
-      name: hearing_results_notification_form
-      label: Hearing Results
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: hearing_results_notification_form_page_2
+      name: patient_info
       label: Patient Information
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 3
-      name: hearing_results_notification_form_page_3
-      label: Hearing Test Outcomes
+      name: patient_contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: hearing_results_notification_form_page_4
-      label: Hearing Test Results
+      name: test_results
+      label: Test Results
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: hearing_results_notification_form_page_5
-      label: Submit
+      name: abnormal_test_results_question
+      label: Abnormal Test Results
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: hearing_results_notification_form_page_6
-      label: Additional Information
+      name: next_appointment
+      label: Next Appointment
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 7
-      name: hearing_results_notification_form_page_7
-      label: Review and Submit
+      name: medical_history
+      label: Medical History
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: hearing_results_notification_form_page_8
-      label: Review and Submit
+      name: recent_symptoms
+      label: Recent Symptoms
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: hearing_results_notification_form_page_9
-      label: Review and Submit
+      name: treatment_history
+      label: Medical Treatment History
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: hearing_results_notification_form_page_10
-      label: Review and Submit
+      name: allergies
+      label: Allergies or Sensitivities
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: hearing_results_notification_form_page_11
-      label: Review and Submit
+      name: test_outcomes
+      label: Test Outcomes
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Inconclusive
+      required: true
     - id: 12
-      name: hearing_results_notification_form_page_12
-      label: Review and Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: hearing_results_notification_form_page_13
-      label: Review and Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: hearing_results_notification_form_page_14
+      name: submit
       label: Submit
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: hearing_results_notification_form_page_15
-      label: Review and Submit
+    - id: 13
+      name: is_form_complete
+      label: Is this form complete and accurate?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: hearing_results_notification_form_page_16
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 14
+      name: additional_info
       label: Additional Information
       hint: null
       type: text
       options: []
+      required: false
+    - id: 15
+      name: review_and_submit
+      label: Review and Submit
+      hint: null
+      type: radio
+      options:
+      - Option A
+      - Option B
       required: false

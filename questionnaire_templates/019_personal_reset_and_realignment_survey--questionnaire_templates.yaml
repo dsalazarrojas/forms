@@ -4,200 +4,230 @@ inputSchema:
     title: Personal Reset And Realignment Survey
     pages:
     - id: 1
-      name: form_1
-      label: form1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: page_1
-      label: first_page
+      label: What is your current level of motivation?
       hint: null
-      type: text
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 2
+      name: page_1_2
+      label: How many hours do you usually spend on social media?
+      hint: null
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: page_1_question
-      label: first_page_question
+      name: page_1_3
+      label: Have you experienced any recent stress or anxiety?
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 4
-      name: select_option_3
-      label: select_option
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: option_1
-      label: option
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      required: false
-    - id: 6
-      name: option_2
-      label: option
+      name: page_2
+      label: Do you have any health concerns or medical conditions that impact your
+        daily life?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
-      required: false
-    - id: 7
-      name: page_2
-      label: second_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: page_2_question
-      label: second_page_question
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: option_4
-      label: select_option
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: option_5
-      label: select_option
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: date
-      label: date
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: page_2_2
+      label: What is your current sleep schedule like?
       hint: null
       type: date
       options: []
       required: true
+    - id: 6
+      name: page_2_3
+      label: Do you take regular exercise or engage in physical activity?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
+    - id: 7
+      name: page_2_4
+      label: Do you have any financial concerns or debt?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
+    - id: 8
+      name: page_2_5
+      label: How many people do you live with?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: page_3
+      label: Do you work from home or have a flexible schedule?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
+    - id: 10
+      name: page_3_2
+      label: How often do you socialize with friends and family?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_3_3
+      label: Do you have any chronic health conditions that impact your daily life?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 12
-      name: time
-      label: time
+      name: page_4
+      label: What time do you usually wake up and go to bed?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 13
-      name: note
-      label: note
+      name: page_4_2
+      label: What is your relationship status?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married or in a domestic partnership
       required: true
     - id: 14
-      name: email
-      label: email
+      name: page_4_3
+      label: Do you have any dependents or family members that rely on you?
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 15
-      name: phone
-      label: phone
+      name: page_4_4
+      label: Do you have any pets?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
+    - id: 16
+      name: page_5
+      label: Do you have any allergies or sensitivities?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
+    - id: 17
+      name: page_5_2
+      label: Do you have any plans for the next few months?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
+    - id: 18
+      name: page_5_3
+      label: What is your favorite hobby or activity to do in your free time?
       hint: null
       type: text
       options: []
       required: true
-    - id: 16
-      name: form_2
-      label: form2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_3
-      label: third_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_3_question
-      label: third_page_question
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 19
-      name: option_6
-      label: option
+      name: page_5_4
+      label: Do you have any savings or emergency funds?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      required: false
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 20
-      name: option_7
-      label: option
+      name: page_6
+      label: How often do you travel or take vacations?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 21
-      name: option_8
-      label: option
+      name: page_6_2
+      label: Do you have any outstanding loans or debts?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 22
-      name: time_2
-      label: time
+      name: page_6_3
+      label: Do you have any plans for retirement or long-term goals?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 23
-      name: note_2
-      label: note
+      name: page_6_4
+      label: Do you have any financial concerns?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 24
-      name: email_2
-      label: email
+      name: page_7
+      label: Page 7
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: true
     - id: 25
-      name: phone_2
-      label: phone
+      name: page_7_2
+      label: What is your current financial situation?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: true

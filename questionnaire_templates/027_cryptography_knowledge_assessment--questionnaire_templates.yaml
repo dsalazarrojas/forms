@@ -4,131 +4,106 @@ inputSchema:
     title: cryptography_knowledge_assessment
     pages:
     - id: 1
-      name: introduction
-      label: Introduction
+      name: question_1
+      label: What is cryptography?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: question_1
-      label: what_is_cryptography
+      name: question_2
+      label: Types of cryptography
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - symmetric key exchange
+      - asymmetric key exchange
+      - hashing
       required: false
     - id: 3
-      name: question_2
-      label: what_is_cryptography
+      name: question_3
+      label: Key Exchange methods
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - public key exchange
+      - private key exchange
+      - Diffie-Hellman
       required: false
     - id: 4
-      name: question_3
-      label: key_exchange
+      name: question_4
+      label: What is a key?
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      type: text
+      options: []
       required: false
     - id: 5
-      name: question_4
-      label: key_exchange
+      name: question_5
+      label: Methods of Key Management
       hint: null
       type: select_multiple
       options:
-      - option5
-      - option6
-      - option7
-      - option8
-      - option9
+      - public key management
+      - key warehouse
+      - key escrow
       required: false
     - id: 6
-      name: key_exchange
-      label: key_exchange
+      name: question_6
+      label: Types of symmetric key encryption
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - AES
+      - DES
+      - block cipher
       required: false
     - id: 7
-      name: question_5
-      label: encryption
+      name: question_7
+      label: What is encryption?
       hint: null
-      type: select_one
-      options:
-      - option10
-      - option11
-      - option12
+      type: text
+      options: []
       required: false
     - id: 8
-      name: question_6
-      label: key_management
+      name: question_8
+      label: Methods of asymmetric key encryption
       hint: null
       type: select_multiple
       options:
-      - option13
-      - option14
-      - option15
+      - RSA
+      - Elliptic Curve
       required: false
     - id: 9
-      name: question_7
-      label: key_Exchange
+      name: question_9
+      label: Key Exchange methods in real-world scenarios
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - SSL
+      - TLS
       required: false
     - id: 10
-      name: question_8
-      label: key_exchange
+      name: question_10
+      label: Question 10
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - block cipher
+      - stream cipher
       required: false
     - id: 11
-      name: question_9
-      label: encryption
+      name: question_11
+      label: What is a private key?
       hint: null
-      type: select_multiple
-      options:
-      - option16
-      - option17
-      - option18
+      type: text
+      options: []
       required: false
     - id: 12
-      name: key_management
-      label: key_management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question_10
-      label: key_Exchange
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: question_11
-      label: key_exchange
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: question_12
-      label: key_Exchange
+      label: Methods of Key Management in real-world scenarios
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - HSM
+      - Key Management Server
       required: false

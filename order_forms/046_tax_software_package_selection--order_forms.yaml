@@ -4,227 +4,109 @@ inputSchema:
     title: Tax Software Package Selection
     pages:
     - id: 1
-      name: tax_software_package_selection_form
-      label: tax software package selection
+      name: tax_professional
+      label: Tax Professional
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Tax Consultant
+      - Tax Lawyer
+      - Tax Accountant
+      - Tax Advisor
+      required: true
     - id: 2
-      name: buyer_preferences
-      label: buyer preferences
+      name: tax_professional_experience
+      label: Professional Experience
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 0-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20 years +
+      required: true
     - id: 3
-      name: package_type
-      label: package type
+      name: tax_package_features
+      label: Package Features
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Fast and efficient data collection
+      - Smoother online purchases
+      - Good customer support
+      - Online purchases available
+      required: true
     - id: 4
-      name: tax_professional
-      label: tax professional
+      name: package_benefits
+      label: Benefits
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Fast and efficient data collection
+      - Smoother online purchases
+      - Good customer support
+      - Online purchases available
+      required: true
     - id: 5
-      name: tax_professional_experience
-      label: tax professional experience
+      name: software_seller
+      label: Software Seller
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Highly rated
+      - Neutral
+      - Low rated
+      required: true
     - id: 6
-      name: tax_package_features
-      label: tax package features
+      name: confidence_level
+      label: Confidence Level
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 7
-      name: software_seller
-      label: software seller
+      name: hours_spent
+      label: Hours Spent
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 8
-      name: faster_data_collection
-      label: faster data collection
+      name: expected_date_of_purchase
+      label: Expected Date of Purchase
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 9
-      name: smoother_online_purchases
-      label: smoother online purchases
+      name: payment_method
+      label: Payment Method
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
     - id: 10
-      name: customer_support
-      label: customer support
+      name: purchases_count
+      label: Purchases Count
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 11
-      name: online_purchases
-      label: online purchases
+      name: hours_spent_per_month
+      label: Hours Spent per Month
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 12
-      name: tax_software_package_selection_form
-      label: tax software package selection
+      name: expected_date_of_purchase_2
+      label: Expected Date Of Purchase 2
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: buyer_preferences
-      label: buyer preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: package_type
-      label: package type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: tax_professional
-      label: tax professional
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: tax_professional_experience
-      label: tax professional experience
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: tax_package_features
-      label: tax package features
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: software_seller
-      label: software seller
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: faster_data_collection
-      label: faster data collection
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: smoother_online_purchases
-      label: smoother online purchases
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: customer_support
-      label: customer support
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: online_purchases
-      label: online purchases
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: tax_software_package_selection_form
-      label: tax software package selection
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: buyer_preferences
-      label: buyer preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: package_type
-      label: package type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true

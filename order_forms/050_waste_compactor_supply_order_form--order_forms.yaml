@@ -5,342 +5,94 @@ inputSchema:
     pages:
     - id: 1
       name: waste_compactor_supply_order_form_page_1
-      label: Waste Compactor Supply Order Form Page 1
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: waste_compactor_supply_order_form_page_2
-      label: Waste Compactor Information
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: waste_compactor_supply_order_form_page_3
       label: Compactor Type
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Compactor 1
       - Compactor 2
       - Compactor 3
-      required: false
-    - id: 4
-      name: waste_compactor_supply_order_form_page_4
+      required: true
+    - id: 2
+      name: waste_compactor_supply_order_form_page_2
       label: Number of Supplies
       hint: null
       type: number
       options: []
-      required: false
-    - id: 5
-      name: waste_compactor_supply_order_form_page_5
+      required: true
+    - id: 3
+      name: waste_compactor_supply_order_form_page_3
       label: Delivery Schedule
       hint: null
       type: time
       options: []
-      required: false
-    - id: 6
-      name: waste_compactor_supply_order_form_page_6
+      required: true
+    - id: 4
+      name: waste_compactor_supply_order_form_page_4
       label: Contact Person
       hint: null
       type: email
       options: []
-      required: false
-    - id: 7
-      name: waste_compactor_supply_order_form_page_7
+      required: true
+    - id: 5
+      name: waste_compactor_supply_order_form_page_5
       label: Contact Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: waste_compactor_supply_order_form_page_8
+      required: true
+    - id: 6
+      name: waste_compactor_supply_order_form_page_6
       label: Additional Notes
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: waste_compactor_supply_order_form_page_7
+      label: Compactor Brand
+      hint: null
+      type: select_one
+      options:
+      - Brand 1
+      - Brand 2
+      - Brand 3
+      required: true
+    - id: 8
+      name: waste_compactor_supply_order_form_page_8
+      label: Compactor Model
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
       name: waste_compactor_supply_order_form_page_9
-      label: waste_compactor_supply_order_form_page_9
+      label: Compactor Size
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Size 1
+      - Size 2
+      - Size 3
+      required: true
     - id: 10
       name: waste_compactor_supply_order_form_page_10
-      label: waste_compactor_supply_order_form_page_10
+      label: Delivery Location
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: waste_compactor_supply_order_form_page_11
-      label: waste_compactor_supply_order_form_page_11
+      label: Special Instructions
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
       name: waste_compactor_supply_order_form_page_12
-      label: waste_compactor_supply_order_form_page_12
+      label: Confirmation
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
-    - id: 13
-      name: waste_compactor_supply_order_form_page_13
-      label: waste_compactor_supply_order_form_page_13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: waste_compactor_supply_order_form_page_14
-      label: waste_compactor_supply_order_form_page_14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: waste_compactor_supply_order_form_page_15
-      label: waste_compactor_supply_order_form_page_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: waste_compactor_supply_order_form_page_16
-      label: waste_compactor_supply_order_form_page_16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: waste_compactor_supply_order_form_page_17
-      label: waste_compactor_supply_order_form_page_17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: waste_compactor_supply_order_form_page_18
-      label: waste_compactor_supply_order_form_page_18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: waste_compactor_supply_order_form_page_19
-      label: waste_compactor_supply_order_form_page_19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: waste_compactor_supply_order_form_page_20
-      label: waste_compactor_supply_order_form_page_20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: waste_compactor_supply_order_form_page_21
-      label: waste_compactor_supply_order_form_page_21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: waste_compactor_supply_order_form_page_22
-      label: waste_compactor_supply_order_form_page_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: waste_compactor_supply_order_form_page_23
-      label: waste_compactor_supply_order_form_page_23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: waste_compactor_supply_order_form_page_24
-      label: waste_compactor_supply_order_form_page_24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: waste_compactor_supply_order_form_page_25
-      label: waste_compactor_supply_order_form_page_25
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: waste_compactor_supply_order_form_page_26
-      label: waste_compactor_supply_order_form_page_26
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: waste_compactor_supply_order_form_page_27
-      label: waste_compactor_supply_order_form_page_27
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: waste_compactor_supply_order_form_page_8
-      label: waste_compactor_supply_order_form_page_8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: waste_compactor_supply_order_form_page_9
-      label: waste_compactor_supply_order_form_page_9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: waste_compactor_supply_order_form_page_10
-      label: waste_compactor_supply_order_form_page_10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: waste_compactor_supply_order_form_page_11
-      label: waste_compactor_supply_order_form_page_11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: waste_compactor_supply_order_form_page_12
-      label: waste_compactor_supply_order_form_page_12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: waste_compactor_supply_order_form_page_13
-      label: waste_compactor_supply_order_form_page_13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: waste_compactor_supply_order_form_page_14
-      label: waste_compactor_supply_order_form_page_14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: waste_compactor_supply_order_form_page_15
-      label: waste_compactor_supply_order_form_page_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: waste_compactor_supply_order_form_page_16
-      label: waste_compactor_supply_order_form_page_16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: waste_compactor_supply_order_form_page_17
-      label: waste_compactor_supply_order_form_page_17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: waste_compactor_supply_order_form_page_18
-      label: waste_compactor_supply_order_form_page_18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: waste_compactor_supply_order_form_page_19
-      label: waste_compactor_supply_order_form_page_19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: waste_compactor_supply_order_form_page_20
-      label: waste_compactor_supply_order_form_page_20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: waste_compactor_supply_order_form_page_21
-      label: waste_compactor_supply_order_form_page_21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: waste_compactor_supply_order_form_page_22
-      label: waste_compactor_supply_order_form_page_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: waste_compactor_supply_order_form_page_23
-      label: waste_compactor_supply_order_form_page_23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: waste_compactor_supply_order_form_page_24
-      label: waste_compactor_supply_order_form_page_24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: waste_compactor_supply_order_form_page_25
-      label: waste_compactor_supply_order_form_page_25
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: waste_compactor_supply_order_form_page_26
-      label: waste_compactor_supply_order_form_page_26
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: waste_compactor_supply_order_form_page_27
-      label: waste_compactor_supply_order_form_page_27
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: waste_compactor_supply_order_form_page_28
-      label: waste_compactor_supply_order_form_page_28
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

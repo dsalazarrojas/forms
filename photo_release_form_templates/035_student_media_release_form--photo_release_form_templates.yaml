@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: student_media_release_form_image_use
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Social Media''}'
-      - '{''value'': ''Print Materials''}'
-      - '{''value'': ''Websites''}'
+      - Social Media
+      - Print Materials
+      - Websites
       required: false
     - id: 5
       name: student_media_release_form_notes
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: student_media_release_form_educator_consent
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: student_media_release_form_parent_name
@@ -118,13 +118,13 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: student_media_release_form_parent_consent
-      label: Parent or Guardian Consent
+      name: student_media_release_form_parent_consent_2
+      label: Student Media Release Form Parent Consent 2
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: student_media_release_form_educator_signature
@@ -146,34 +146,34 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: true
     - id: 20
       name: student_media_release_form_consent_notes
-      label: Additional Notes
+      label: Student Media Release Form Consent Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 21
-      name: student_media_release_form_consent_date
-      label: Consent Date
+      name: student_media_release_form_consent_date_2
+      label: Student Media Release Form Consent Date 2
       hint: YYYY-MM-DD
       type: date
       options: []
       required: false
     - id: 22
-      name: student_media_release_form_consent_time
-      label: Consent Time
+      name: student_media_release_form_consent_time_2
+      label: Student Media Release Form Consent Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 23
       name: student_media_release_form_educator_notes
-      label: Additional Notes
+      label: Student Media Release Form Educator Notes
       hint: null
       type: note
       options: []

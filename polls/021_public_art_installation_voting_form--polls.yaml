@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''sculpture''}'
-      - '{''id'': 2, ''label'': ''installation''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - sculpture
+      - installation
+      - other
       required: true
     - id: 4
       name: installation_description
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''undecided''}'
+      - 'True'
+      - 'False'
+      - undecided
       required: true
     - id: 8
       name: email

@@ -23,10 +23,9 @@ inputSchema:
       hint: Define mass media
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Mass media refers to a medium that reaches a large
-        audience.''}'
-      - '{''id'': 2, ''text'': ''Mass media refers to an individualized experience.''}'
-      - '{''id'': 3, ''text'': ''Mass media refers to a specific group of people.''}'
+      - Mass media refers to a medium that reaches a large audience.
+      - Mass media refers to an individualized experience.
+      - Mass media refers to a specific group of people.
       required: false
     - id: 4
       name: mass_media_channels
@@ -34,12 +33,12 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Radio''}'
-      - '{''id'': 2, ''text'': ''Television''}'
-      - '{''id'': 3, ''text'': ''Newspapers''}'
-      - '{''id'': 4, ''text'': ''Internet''}'
-      - '{''id'': 5, ''text'': ''Print media''}'
-      - '{''id'': 6, ''text'': ''Outdoor advertising''}'
+      - Radio
+      - Television
+      - Newspapers
+      - Internet
+      - Print media
+      - Outdoor advertising
       required: false
     - id: 5
       name: mass_media_impact
@@ -47,10 +46,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''It helps to raise awareness about a product or service.''}'
-      - '{''id'': 2, ''text'': ''It helps to influence opinions and attitudes.''}'
-      - '{''id'': 3, ''text'': ''It helps to promote cultural identity.''}'
-      - '{''id'': 4, ''text'': ''It helps to shape public policy.''}'
+      - It helps to raise awareness about a product or service.
+      - It helps to influence opinions and attitudes.
+      - It helps to promote cultural identity.
+      - It helps to shape public policy.
       required: false
     - id: 6
       name: mass_media_future
@@ -58,10 +57,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''It will become more personalized.''}'
-      - '{''id'': 2, ''text'': ''It will become more interactive.''}'
-      - '{''id'': 3, ''text'': ''It will become less interactive.''}'
-      - '{''id'': 4, ''text'': ''It will disappear.''}'
+      - It will become more personalized.
+      - It will become more interactive.
+      - It will become less interactive.
+      - It will disappear.
       required: false
     - id: 7
       name: mass_media_and_society
@@ -69,10 +68,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Mass media helps to shape opinions and attitudes.''}'
-      - '{''id'': 2, ''text'': ''Mass media influences cultural identity.''}'
-      - '{''id'': 3, ''text'': ''Mass media promotes cultural homogenization.''}'
-      - '{''id'': 4, ''text'': ''Mass media is a threat to democracy.''}'
+      - Mass media helps to shape opinions and attitudes.
+      - Mass media influences cultural identity.
+      - Mass media promotes cultural homogenization.
+      - Mass media is a threat to democracy.
       required: false
     - id: 8
       name: mass_media_and_technology
@@ -80,9 +79,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Mass media uses social media.''}'
-      - '{''id'': 2, ''text'': ''Mass media uses search engines.''}'
-      - '{''id'': 3, ''text'': ''Mass media uses online video platforms.''}'
+      - Mass media uses social media.
+      - Mass media uses search engines.
+      - Mass media uses online video platforms.
       required: false
     - id: 9
       name: conclusion
@@ -146,8 +145,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Male''}'
-      - '{''id'': 2, ''text'': ''Female''}'
+      - Male
+      - Female
       required: false
     - id: 18
       name: birthdate

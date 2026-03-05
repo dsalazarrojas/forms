@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Check''}'
-      - '{''label'': ''Wire Transfer''}'
-      - '{''label'': ''Bank Draft''}'
+      - Check
+      - Wire Transfer
+      - Bank Draft
       required: false
     - id: 5
       name: supporting_documentation
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Unpaid''}'
-      - '{''label'': ''Partially Paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: false
     - id: 7
       name: reason
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Open''}'
-      - '{''label'': ''Closed''}'
-      - '{''label'': ''Dismissed''}'
+      - Open
+      - Closed
+      - Dismissed
       required: false
     - id: 9
       name: case_notes

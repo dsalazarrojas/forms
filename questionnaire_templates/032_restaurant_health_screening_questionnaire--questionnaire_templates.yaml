@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Fever''}'
-      - '{''value'': ''Cough''}'
-      - '{''value'': ''Sore Throat''}'
+      - Fever
+      - Cough
+      - Sore Throat
       required: false
     - id: 6
       name: has_symptoms
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: travel_history
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: contact_history
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: health_status
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Healthy''}'
-      - '{''value'': ''Sick''}'
+      - Healthy
+      - Sick
       required: false
     - id: 10
       name: restaurant_id
@@ -90,6 +90,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

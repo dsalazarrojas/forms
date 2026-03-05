@@ -15,88 +15,86 @@ inputSchema:
     title: skin_anatomy_knowledge_quiz
     pages:
     - id: 1
-      name: form_header
-      label: Form Header
+      name: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: question_1
-      label: What is the epidermis
-      hint: null
+      name: question_2
+      label: What is the epidermis?
+      hint: The outermost layer of the skin
       type: text
       options: []
       required: true
     - id: 3
-      name: question_2
-      label: What is the dermis
-      hint: null
+      name: question_3
+      label: What is the dermis?
+      hint: The layer beneath the epidermis
       type: text
       options: []
       required: true
     - id: 4
-      name: question_3
-      label: What is the hypodermis
-      hint: null
+      name: question_4
+      label: What is the subcutaneous fat?
+      hint: The layer beneath the dermis
       type: text
       options: []
       required: true
     - id: 5
-      name: question_4
-      label: What is the subcutaneous fat
-      hint: null
+      name: question_5
+      label: What is the hypodermis?
+      hint: The innermost layer of the skin
       type: text
       options: []
       required: true
     - id: 6
-      name: question_5
-      label: What is the dermis
-      hint: null
+      name: question_6
+      label: What is the primary function of the skin?
+      hint: Please answer in one sentence
       type: text
       options: []
       required: true
     - id: 7
-      name: question_6
-      label: What is the epidermis
+      name: question_7
+      label: What is the main layer of the skin?
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: question_7
-      label: What is the dermis
+      name: question_8
+      label: What is the outermost layer of skin?
       hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: question_8
-      label: What is the subcutaneous fat
+      name: question_9
+      label: What is the layer beneath the epidermis?
       hint: null
       type: text
       options: []
       required: true
     - id: 10
-      name: question_9
-      label: What is the hypodermis
+      name: question_10
+      label: What is the subcutaneous fat's role in the body?
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: question_10
-      label: What is the subcutaneous fat
-      hint: Please answer all questions
+      name: question_11
+      label: What is the primary function of the hypodermis?
+      hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: submit
-      label: Submit
+      name: question_12
+      label: What is the average thickness of the dermis?
       hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Save and Continue Later''}'
+      type: number
+      options: []
       required: true

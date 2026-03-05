@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Oak'', ''label'': ''Oak''}'
-      - '{''value'': ''Maple'', ''label'': ''Maple''}'
-      - '{''value'': ''Pine'', ''label'': ''Pine''}'
+      - Oak
+      - Maple
+      - Pine
       required: false
     - id: 3
       name: quantity
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''White'', ''label'': ''White''}'
-      - '{''value'': ''Black'', ''label'': ''Black''}'
-      - '{''value'': ''Brown'', ''label'': ''Brown''}'
+      - White
+      - Black
+      - Brown
       required: false
     - id: 5
       name: wood_finish
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Stain'', ''label'': ''Stain''}'
-      - '{''value'': ''Paint'', ''label'': ''Paint''}'
-      - '{''value'': ''Polish'', ''label'': ''Polish''}'
+      - Stain
+      - Paint
+      - Polish
       required: false
     - id: 6
       name: installation_type
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Full'', ''label'': ''Full''}'
-      - '{''value'': ''Half'', ''label'': ''Half''}'
-      - '{''value'': ''Partial'', ''label'': ''Partial''}'
+      - Full
+      - Half
+      - Partial
       required: false
     - id: 7
       name: notes
@@ -84,6 +84,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Submit'', ''label'': ''Submit''}'
-      - '{''value'': ''Cancel'', ''label'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false

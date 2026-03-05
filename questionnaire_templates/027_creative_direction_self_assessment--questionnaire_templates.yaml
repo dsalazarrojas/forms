@@ -5,18 +5,18 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: intro
+      label: Intro
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: name
-      label: What is your name?
-      hint: null
+      label: Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: job_role
       label: Job role
@@ -35,35 +35,10 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: company
-      label: Company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: manager
-      label: Manager
-      hint: null
-      type: select_multiple
-      options:
-      - John
-      - Jane
-      - Joe
-      - Mary
-      required: false
-    - id: 7
-      name: what_are_your_goals
-      label: What are your goals?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: how_do_you_approach
-      label: How do you approach your work?
+      name: work_approach
+      label: Work approach
       hint: null
       type: select_one
       options:
@@ -73,9 +48,9 @@ inputSchema:
       - Effectiveness
       - Time Management
       required: true
-    - id: 9
-      name: what_do_you_value
-      label: What do you value most?
+    - id: 6
+      name: main_goals
+      label: Main goals
       hint: null
       type: select_multiple
       options:
@@ -85,49 +60,35 @@ inputSchema:
       - Timeliness
       - Creativity
       required: true
-    - id: 10
+    - id: 7
+      name: values
+      label: Values
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation
+      - Originality
+      - Quality
+      - Timeliness
+      - Time Management
+      required: true
+    - id: 8
+      name: time_management
+      label: Time management skills
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
       name: feedback
       label: Feedback
       hint: null
       type: date
       options: []
-      required: false
-    - id: 11
-      name: time_management
-      label: Time management skills?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: what_is_your_work_style
-      label: What is your work style?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: what_do_you_value_2
-      label: What do you value 2?
-      hint: null
-      type: select_multiple
-      options:
-      - Quality
-      - Time Management
-      - Organization
-      - Communication
-      - Teamwork
       required: true
-    - id: 14
-      name: what_do_you_do
-      label: What do you do?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+    - id: 10
       name: communication
-      label: Communication skills?
+      label: Communication skills
       hint: null
       type: select_multiple
       options:
@@ -137,98 +98,22 @@ inputSchema:
       - Verbal and Non-Verbal
       - Verbal and Written
       required: true
-    - id: 16
-      name: what_do_you_value_3
-      label: What do you value 3?
-      hint: null
-      type: select_one
-      options:
-      - Time Management
-      - Organization
-      - Communication
-      - Teamwork
-      - Adaptability
-      required: true
-    - id: 17
-      name: what_do_you_value_4
-      label: What do you value 4?
-      hint: null
-      type: select_one
-      options:
-      - Quality
-      - Teamwork
-      - Adaptability
-      - Leadership
-      - Adaptability
-      required: false
-    - id: 18
-      name: what_is_your_work_style_2
-      label: What is your work style?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: time_management_skills
-      label: Time management skills?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: what_do_you_value_5
-      label: What do you value 5?
-      hint: null
-      type: select_multiple
-      options:
-      - Originality
-      - Teamwork
-      - Adaptability
-      - Organization
-      - Leadership
-      required: false
-    - id: 21
-      name: what_is_your_work_style_3
-      label: What is your work style?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: what_do_you_do_2
-      label: What do you do?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: team_work
-      label: Teamwork?
-      hint: null
-      type: select_multiple
-      options:
-      - Collaborative
-      - Individual
-      - Team Player
-      - Team Manager
-      - Team Leader
-      required: true
-    - id: 24
-      name: time_management
-      label: Time management skills?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: what_do_you_value_6
-      label: What do you value 6?
+    - id: 11
+      name: adaptability
+      label: Adaptability
       hint: null
       type: select_one
       options:
       - Organization
       - Teamwork
-      - Adaptability
       - Communication
       - Leadership
+      - Adaptability
       required: true
+    - id: 12
+      name: final_page
+      label: Final
+      hint: null
+      type: note
+      options: []
+      required: false

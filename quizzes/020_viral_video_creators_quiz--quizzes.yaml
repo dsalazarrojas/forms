@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Marketer''}'
-      - '{''id'': 2, ''label'': ''Creator''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Marketer
+      - Creator
+      - Other
       required: false
     - id: 7
       name: job_title
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Social Media''}'
-      - '{''id'': 2, ''label'': ''Google Search''}'
-      - '{''id'': 3, ''label'': ''Referral''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Social Media
+      - Google Search
+      - Referral
+      - Other
       required: false
     - id: 10
       name: how_would_you_rate_your_knowledge
@@ -94,10 +94,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engagement''}'
-      - '{''id'': 2, ''label'': ''Views''}'
-      - '{''id'': 3, ''label'': ''Clicks''}'
-      - '{''id'': 4, ''label'': ''Comments''}'
+      - Engagement
+      - Views
+      - Clicks
+      - Comments
       required: false
     - id: 13
       name: what_makes_viral_content_trend
@@ -112,10 +112,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''TikTok''}'
-      - '{''id'': 2, ''label'': ''Instagram''}'
-      - '{''id'': 3, ''label'': ''YouTube''}'
-      - '{''id'': 4, ''label'': ''Facebook''}'
+      - TikTok
+      - Instagram
+      - YouTube
+      - Facebook
       required: false
     - id: 15
       name: have_you_ever_made_a_viral_video
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: what_is_the_best_platform_to_promote_viral_video
@@ -132,10 +132,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''YouTube''}'
-      - '{''id'': 2, ''label'': ''TikTok''}'
-      - '{''id'': 3, ''label'': ''Instagram''}'
-      - '{''id'': 4, ''label'': ''Facebook''}'
+      - YouTube
+      - TikTok
+      - Instagram
+      - Facebook
       required: false
     - id: 17
       name: what_is_the_most_popular_type_of_content
@@ -143,10 +143,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Videos''}'
-      - '{''id'': 2, ''label'': ''Posts''}'
-      - '{''id'': 3, ''label'': ''Stories''}'
-      - '{''id'': 4, ''label'': ''Live Streams''}'
+      - Videos
+      - Posts
+      - Stories
+      - Live Streams
       required: false
     - id: 18
       name: how_do_you_measure_succcess
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engagement''}'
-      - '{''id'': 2, ''label'': ''Views''}'
-      - '{''id'': 3, ''label'': ''Engagement + Views''}'
+      - Engagement
+      - Views
+      - Engagement + Views
       required: false
     - id: 19
       name: have_you_ever_used_a_paid_service
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: what_is_the_most_important_metric_to_monitor
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engagement''}'
-      - '{''id'': 2, ''label'': ''Views''}'
-      - '{''id'': 3, ''label'': ''Reach''}'
+      - Engagement
+      - Views
+      - Reach
       required: false
     - id: 21
       name: have_you_ever_made_a_video_that_gone_viral_on_facebook
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: what_is_the_most_popular_platform_for_viral_video_creators
@@ -192,10 +192,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''YouTube''}'
-      - '{''id'': 2, ''label'': ''TikTok''}'
-      - '{''id'': 3, ''label'': ''Instagram''}'
-      - '{''id'': 4, ''label'': ''Facebook''}'
+      - YouTube
+      - TikTok
+      - Instagram
+      - Facebook
       required: false
     - id: 23
       name: what_is_the_best_way_to_reach_a_large_audience
@@ -203,9 +203,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Paid Advertising''}'
-      - '{''id'': 2, ''label'': ''Organic Reach''}'
-      - '{''id'': 3, ''label'': ''Influencer Marketing''}'
+      - Paid Advertising
+      - Organic Reach
+      - Influencer Marketing
       required: false
     - id: 24
       name: have_you_ever_used_instagram_ads
@@ -213,8 +213,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: do_you_agree_that_content_is_key_to_growth
@@ -222,6 +222,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -5,191 +5,142 @@ inputSchema:
     pages:
     - id: 1
       name: event_photography_authorization
-      label: event_photography_authorization
+      label: Event Photography Authorization
       hint: null
-      type: note
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: true
     - id: 2
-      name: capture_image
-      label: capture_image
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: true
-    - id: 3
-      name: share_photos
-      label: share_photos
+      name: capture_image_type
+      label: Image Type
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''not_sure''}'
+      - Event Details
+      - Candid Moments
+      - General Moments
       required: true
+    - id: 3
+      name: sharing_option
+      label: Sharing Option
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Other
+      required: false
     - id: 4
-      name: usage
-      label: usage
+      name: storage_option
+      label: Storage Option
       hint: null
       type: text
-      options: []
-      required: true
-    - id: 5
-      name: consent
-      label: consent
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: photographer
-      label: photographer
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: photo_release
-      label: photo_release
-      hint: null
-      type: number
       options: []
       required: false
+    - id: 5
+      name: access_control
+      label: Access Control
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Restricted
+      required: false
+    - id: 6
+      name: access_note
+      label: Access Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_policy
+      label: Release Policy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 8
-      name: photo_credit
-      label: photo_credit
+      name: storage_period
+      label: Storage Period
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: photo_usage
-      label: photo_usage
+      name: access_control_note
+      label: Access Control Note
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: photo_storage
-      label: photo_storage
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_credit
+      label: Photo Credit
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: sharing
-      label: sharing
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''social_media''}'
-      - '{''id'': 2, ''label'': ''email''}'
-      - '{''id'': 3, ''label'': ''other''}'
-      required: false
     - id: 12
-      name: storage
-      label: storage
+      name: storage_note
+      label: Storage Note
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: destruction
-      label: destruction
+      name: destruction_note
+      label: Destruction Note
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: access
-      label: access
+      label: Access
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''public''}'
-      - '{''id'': 2, ''label'': ''private''}'
-      - '{''id'': 3, ''label'': ''restricted''}'
+      - Public
+      - Private
+      - Restricted
       required: false
     - id: 15
-      name: access_note
-      label: access_note
+      name: release_note
+      label: Release Note
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''not_sure''}'
+      type: text
+      options: []
       required: false
     - id: 16
-      name: release_note
-      label: release_note
+      name: event_photographer_note
+      label: Event Photographer Note
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: release
-      label: release
+      name: storage_destruction
+      label: Storage & Destruction
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 18
-      name: photographer_note
-      label: photographer_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: storage_note
-      label: storage_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: destruction_note
-      label: destruction_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: access_note
-      label: access_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: photo_credit_note
-      label: photo_credit_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: sharing_note
-      label: sharing_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: storage_note
-      label: storage_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: destruction_note
-      label: destruction_note
+      name: event_photography_authorization_form_note
+      label: Event Photography Authorization Form Note
       hint: null
       type: text
       options: []

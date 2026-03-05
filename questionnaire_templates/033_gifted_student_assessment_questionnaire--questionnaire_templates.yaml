@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''2nd Grade''}'
-      - '{''id'': 11, ''name'': ''3rd Grade''}'
-      - '{''id'': 12, ''name'': ''4th Grade''}'
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
       required: false
     - id: 5
       name: educator_name
@@ -57,7 +57,7 @@ inputSchema:
       required: false
     - id: 8
       name: caregiver_comments
-      label: Comments
+      label: Caregiver Comments
       hint: null
       type: text
       options: []
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 20, ''name'': ''Student''}'
-      - '{''id'': 21, ''name'': ''Educator''}'
-      - '{''id'': 22, ''name'': ''Caregiver''}'
+      - Student
+      - Educator
+      - Caregiver
       required: false
     - id: 10
       name: student_birthdate
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 30, ''name'': ''Athlete''}'
-      - '{''id'': 31, ''name'': ''Student''}'
-      - '{''id'': 32, ''name'': ''Other''}'
+      - Athlete
+      - Student
+      - Other
       required: false
     - id: 12
       name: student_ethnicity
@@ -95,12 +95,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 40, ''name'': ''American Indian or Alaska Native''}'
-      - '{''id'': 41, ''name'': ''Asian''}'
-      - '{''id'': 42, ''name'': ''Black or African American''}'
-      - '{''id'': 43, ''name'': ''White''}'
-      - '{''id'': 44, ''name'': ''Pacific Islander or Hawaiian''}'
-      - '{''id'': 45, ''name'': ''Other''}'
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - White
+      - Pacific Islander or Hawaiian
+      - Other
       required: false
     - id: 13
       name: student_language
@@ -108,10 +108,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 50, ''name'': ''None''}'
-      - '{''id'': 51, ''name'': ''English''}'
-      - '{''id'': 52, ''name'': ''Spanish''}'
-      - '{''id'': 53, ''name'': ''Other''}'
+      - None
+      - English
+      - Spanish
+      - Other
       required: false
     - id: 14
       name: student_gender
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 60, ''name'': ''Male''}'
-      - '{''id'': 61, ''name'': ''Female''}'
-      - '{''id'': 62, ''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 15
       name: student_special_education_needs
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 70, ''name'': ''Dyslexia''}'
-      - '{''id'': 71, ''name'': ''Other''}'
+      - Dyslexia
+      - Other
       required: false
     - id: 16
       name: educator_education_level
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 80, ''name'': "Bachelor''s degree"}'
-      - '{''id'': 81, ''name'': "Master''s degree"}'
-      - '{''id'': 82, ''name'': ''Other''}'
+      - Bachelor's degree
+      - Master's degree
+      - Other
       required: false
     - id: 17
       name: educator_experience
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 90, ''name'': ''0-2 years''}'
-      - '{''id'': 91, ''name'': ''3-5 years''}'
-      - '{''id'': 92, ''name'': ''6-10 years''}'
+      - 0-2 years
+      - 3-5 years
+      - 6-10 years
       required: false
     - id: 18
       name: educator_education_field
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''name'': ''Math''}'
-      - '{''id'': 101, ''name'': ''Reading''}'
-      - '{''id'': 102, ''name'': ''Writing''}'
+      - Math
+      - Reading
+      - Writing
       required: false
     - id: 19
       name: educator_school
@@ -184,33 +184,33 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: student_educator_comments
-      label: Comments
+      name: student_educator_comments_2
+      label: Student Educator Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: caregiver_email
-      label: Email
+      label: Caregiver Email
       hint: Enter the email
       type: email
       options: []
       required: false
     - id: 24
       name: caregiver_phone
-      label: Phone
+      label: Caregiver Phone
       hint: Enter the phone number
       type: text
       options: []
       required: false
     - id: 25
-      name: submitted_by
-      label: Submitted by
+      name: submitted_by_2
+      label: Submitted By 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 130, ''name'': ''Student''}'
-      - '{''id'': 131, ''name'': ''Educator''}'
-      - '{''id'': 132, ''name'': ''Caregiver''}'
+      - Student
+      - Educator
+      - Caregiver
       required: false

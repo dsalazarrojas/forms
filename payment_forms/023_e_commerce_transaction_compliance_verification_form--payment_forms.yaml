@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Authorize.net''}'
+      - Stripe
+      - PayPal
+      - Authorize.net
       required: false
     - id: 4
       name: transaction_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''One-time transaction''}'
-      - '{''value'': ''Recurring payment''}'
-      - '{''value'': ''Subscription''}'
+      - One-time transaction
+      - Recurring payment
+      - Subscription
       required: false
     - id: 5
       name: transaction_date
@@ -92,12 +92,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Declined''}'
-      - '{''value'': ''Cancelled''}'
-      - '{''value'': ''Error''}'
-      - '{''value'': ''Refunded''}'
+      - Pending
+      - Approved
+      - Declined
+      - Cancelled
+      - Error
+      - Refunded
       required: false
     - id: 13
       name: merchant_email
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Declined''}'
+      - Pending
+      - Approved
+      - Declined
       required: false
     - id: 17
       name: merchant_name

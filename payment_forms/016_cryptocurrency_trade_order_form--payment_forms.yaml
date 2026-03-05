@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''confirm''}'
-      - '{''value'': ''decline''}'
+      - confirm
+      - decline
       required: false
     - id: 6
       name: email
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: confirm_phone
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: confirm_phone_number
@@ -99,7 +99,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending''}'
-      - '{''value'': ''completed''}'
-      - '{''value'': ''cancelled''}'
+      - pending
+      - completed
+      - cancelled
       required: false

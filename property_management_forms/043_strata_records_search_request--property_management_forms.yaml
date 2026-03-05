@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''strata_manager''}'
-      - '{''id'': 2, ''label'': ''property_manager''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - strata manager
+      - property manager
+      - other
       required: true
     - id: 3
       name: manager_title
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''house''}'
-      - '{''id'': 2, ''label'': ''unit''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - house
+      - unit
+      - other
       required: true
     - id: 12
       name: property_status
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''active''}'
-      - '{''id'': 2, ''label'': ''inactive''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - active
+      - inactive
+      - other
       required: false
     - id: 13
       name: property_status_other
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''strata_rollup''}'
-      - '{''id'': 2, ''label'': ''other''}'
-      - '{''id'': 3, ''label'': ''strata_certificate''}'
+      - strata rollup
+      - other
+      - strata certificate
       required: true
     - id: 20
       name: document_type_other

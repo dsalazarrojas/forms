@@ -16,176 +16,129 @@ inputSchema:
     pages:
     - id: 1
       name: general_info
-      label: General Info
-      hint: null
+      label: full name
+      hint: Please provide your full name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: medical_history
-      label: Medical History
-      hint: null
+      label: medical history
+      hint: Please describe your medical history
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: new_patient_info
-      label: New Patient Info
+      label: new patient info
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: contact_details
-      label: Contact
-      hint: null
+      label: contact details
+      hint: Please provide your contact details
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: dental_history
-      label: Dental History
-      hint: null
+      label: dental history
+      hint: Please provide your dental history
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: allergies
-      label: Allergies
-      hint: null
+      label: allergies
+      hint: Please list your allergies
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: new_patient_info
-      label: New Patient Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: medications
-      label: Medications
-      hint: null
+      label: medications
+      hint: Please list your medications
       type: text
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
+      name: patient_info
+      label: patient info
+      hint: Please provide additional patient information
+      type: text
+      options: []
+      required: true
+    - id: 9
       name: medical_history_2
-      label: Medical History
-      hint: null
+      label: Medical History 2
+      hint: Please describe your medical history
       type: text
       options: []
-      required: false
-    - id: 11
-      name: new_patient_info_2
-      label: New Patient Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: contact_details_2
-      label: Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 10
       name: dental_history_2
-      label: Dental History
-      hint: null
+      label: Dental History 2
+      hint: Please provide your dental history
       type: text
       options: []
-      required: false
-    - id: 14
-      name: allergies_2
-      label: Allergies
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: medical_history_3
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: new_patient_info_3
-      label: New Patient Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: contact_details_3
-      label: Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: dental_history_3
-      label: Dental History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+      required: true
+    - id: 11
       name: medications_2
-      label: Medications
-      hint: null
+      label: Medications 2
+      hint: Please list your medications
       type: text
       options: []
-      required: false
-    - id: 20
-      name: medical_history_4
-      label: Medical History
-      hint: null
+      required: true
+    - id: 12
+      name: medical_info
+      label: medical info
+      hint: Please provide additional medical information
       type: text
       options: []
-      required: false
-    - id: 21
-      name: new_patient_info_4
-      label: New Patient Info
-      hint: null
+      required: true
+    - id: 13
+      name: patient_info_2
+      label: Patient Info 2
+      hint: Please provide additional patient information
       type: text
       options: []
-      required: false
-    - id: 22
-      name: contact_details_4
-      label: Contact
-      hint: null
+      required: true
+    - id: 14
+      name: contact_info
+      label: contact info
+      hint: Please provide contact information
       type: text
       options: []
-      required: false
-    - id: 23
-      name: dental_history_4
-      label: Dental History
-      hint: null
+      required: true
+    - id: 15
+      name: dental_info
+      label: dental info
+      hint: Please provide dental information
       type: text
       options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 16
+      name: medical_info_2
+      label: Medical Info 2
+      hint: Please provide additional medical information
+      type: text
+      options: []
+      required: true
+    - id: 17
       name: allergies_2
-      label: Allergies
-      hint: null
+      label: Allergies 2
+      hint: Please list your allergies
       type: text
       options: []
-      required: false
-    - id: 25
-      name: medical_history_5
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
+    - id: 18
+      name: submit
+      label: submit
+      hint: Please submit your registration
+      type: radio
+      options:
+      - Submit
+      - Cancel
+      required: true

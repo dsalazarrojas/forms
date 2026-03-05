@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Small Business'', ''value'': ''small_business''}'
-      - '{''label'': ''Medium Business'', ''value'': ''medium_business''}'
-      - '{''label'': ''Large Business'', ''value'': ''large_business''}'
-      - '{''label'': ''Enterprise'', ''value'': ''enterprise''}'
+      - Small Business
+      - Medium Business
+      - Large Business
+      - Enterprise
       required: false
     - id: 5
       name: department
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''label'': ''Finance'', ''value'': ''finance''}'
-      - '{''label'': ''Operations'', ''value'': ''operations''}'
-      - '{''label'': ''Human Resources'', ''value'': ''human_resources''}'
+      - Marketing
+      - Finance
+      - Operations
+      - Human Resources
       required: false
     - id: 6
       name: role_in_company
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Entry Level'', ''value'': ''entry_level''}'
-      - '{''label'': ''Mid Level'', ''value'': ''mid_level''}'
-      - '{''label'': ''Senior Level'', ''value'': ''senior_level''}'
+      - Entry Level
+      - Mid Level
+      - Senior Level
       required: false
     - id: 8
       name: form_filling_experience
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Never'', ''value'': ''never''}'
-      - '{''label'': ''Less than a year'', ''value'': ''less_than_a_year''}'
-      - '{''label'': ''1-2 years'', ''value'': ''one_to_two_years''}'
-      - '{''label'': ''More than 2 years'', ''value'': ''more_than_two_years''}'
+      - Never
+      - Less than a year
+      - 1-2 years
+      - More than 2 years
       required: false
     - id: 9
       name: most_frequent_form_type
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Single Field'', ''value'': ''single_field''}'
-      - '{''label'': ''Multi Field'', ''value'': ''multi_field''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Single Field
+      - Multi Field
+      - Other
       required: false
     - id: 10
       name: time_spent_in_form
@@ -113,8 +113,8 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
@@ -141,15 +141,15 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: job_title
-      label: Job Title
+      name: job_title_2
+      label: Job Title 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: department
-      label: Department
+      name: department_2
+      label: Department 2
       hint: null
       type: text
       options: []
@@ -162,36 +162,36 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: job_level
-      label: Job Level
+      name: job_level_2
+      label: Job Level 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: form_filling_experience
-      label: Form Filling Experience
+      name: form_filling_experience_2
+      label: Form Filling Experience 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: most_frequent_form_type
-      label: Most Frequent Form Type
+      name: most_frequent_form_type_2
+      label: Most Frequent Form Type 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: time_spent_in_form
-      label: Time Spent in Form
+      name: time_spent_in_form_2
+      label: Time Spent In Form 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: date_of_last_form_submission
-      label: Date of Last Form Submission
+      name: date_of_last_form_submission_2
+      label: Date Of Last Form Submission 2
       hint: null
       type: text
       options: []

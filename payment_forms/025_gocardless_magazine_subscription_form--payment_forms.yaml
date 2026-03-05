@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stripe''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Stripe
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 6
       name: subscription_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 7
       name: user_notes
@@ -127,12 +127,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Biweekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 18
       name: subscription_status
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Trial''}'
+      - Active
+      - Pending
+      - Trial
       required: true
     - id: 19
       name: subscription_plan
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly Plan''}'
-      - '{''label'': ''Quarterly Plan''}'
-      - '{''label'': ''Annually Plan''}'
+      - Monthly Plan
+      - Quarterly Plan
+      - Annually Plan
       required: true
     - id: 20
       name: user_address

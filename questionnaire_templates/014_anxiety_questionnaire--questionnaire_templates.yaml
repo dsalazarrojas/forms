@@ -1,264 +1,253 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Anxiety Questionnaire
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: age
-        label: Age range
-        hint: null
-        type: select_one
-        options:
-          - 18-25
-          - 26-35
-          - 36-45
-          - 46-55
-          - 56-65
-          - 65+
-          - Prefer not to answer
-        required: true
-      - id: 3
-        name: anxiety_experience
-        label: Do you experience anxiety?
-        hint: null
-        type: select_one
-        options:
-          - Yes, frequently
-          - Yes, sometimes
-          - Yes, rarely
-          - No
-          - Unsure
-        required: true
-      - id: 4
-        name: anxiety_duration
-        label: How long have you experienced anxiety?
-        hint: null
-        type: select_one
-        options:
-          - Less than 6 months
-          - 6 months to 1 year
-          - 1-3 years
-          - 3-5 years
-          - More than 5 years
-          - All my life
-        required: false
-      - id: 5
-        name: anxiety_frequency
-        label: How often do you experience anxiety symptoms?
-        hint: null
-        type: select_one
-        options:
-          - Daily
-          - Several times per week
-          - Weekly
-          - A few times per month
-          - Rarely
-        required: true
-      - id: 6
-        name: anxiety_intensity
-        label: Intensity of anxiety symptoms
-        hint: When they occur
-        type: select_one
-        options:
-          - Severe
-          - Moderate
-          - Mild
-          - Very mild
-          - Variable
-        required: true
-      - id: 7
-        name: anxiety_triggers
-        label: What triggers your anxiety?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Work or career stress
-          - Social situations
-          - Health concerns
-          - Financial worries
-          - Relationship issues
-          - Specific phobias
-          - No clear trigger
-          - Multiple triggers
-          - Unknown
-        required: true
-      - id: 8
-        name: anxiety_physical_symptoms
-        label: Physical symptoms experienced
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Racing heart
-          - Shortness of breath
-          - Chest tightness
-          - Trembling or shaking
-          - Sweating
-          - Nausea or dizziness
-          - Stomach issues
-          - Tension or muscle tightness
-          - None of the above
-        required: true
-      - id: 9
-        name: anxiety_emotional_symptoms
-        label: Emotional symptoms experienced
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Excessive worry
-          - Difficulty concentrating
-          - Irritability
-          - Feeling overwhelmed
-          - Fear of dying
-          - Fear of losing control
-          - Panic episodes
-          - None of the above
-        required: true
-      - id: 10
-        name: anxiety_impact
-        label: How does anxiety impact your daily life?
-        hint: null
-        type: select_one
-        options:
-          - Severe impact
-          - Moderate impact
-          - Mild impact
-          - Minimal impact
-          - No noticeable impact
-        required: true
-      - id: 11
-        name: work_impact
-        label: Does anxiety affect your work or studies?
-        hint: null
-        type: select_one
-        options:
-          - Significantly
-          - Moderately
-          - Slightly
-          - Not at all
-          - Not applicable
-        required: true
-      - id: 12
-        name: social_impact
-        label: Does anxiety affect your social relationships?
-        hint: null
-        type: select_one
-        options:
-          - Significantly
-          - Moderately
-          - Slightly
-          - Not at all
-        required: true
-      - id: 13
-        name: coping_strategies
-        label: Coping strategies you currently use
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Deep breathing exercises
-          - Physical exercise
-          - Meditation or mindfulness
-          - Talking to friends or family
-          - Professional counseling
-          - Medication
-          - Avoidance
-          - Distraction activities
-          - None
-        required: true
-      - id: 14
-        name: coping_effectiveness
-        label: How effective are your current coping strategies?
-        hint: null
-        type: select_one
-        options:
-          - Very effective
-          - Somewhat effective
-          - Moderately effective
-          - Slightly effective
-          - Not effective
-          - Have no strategies
-        required: true
-      - id: 15
-        name: professional_help
-        label: Have you sought professional help for anxiety?
-        hint: null
-        type: select_one
-        options:
-          - Yes, currently in treatment
-          - Yes, in past
-          - No, but considering
-          - No, prefer not to
-        required: true
-      - id: 16
-        name: treatment_type
-        label: Type of professional help received
-        hint: null
-        type: select_multiple
-        options:
-          - Therapy or counseling
-          - Medication
-          - Both therapy and medication
-          - Lifestyle coaching
-          - Group therapy
-          - Other
-        required: false
-      - id: 17
-        name: treatment_helpfulness
-        label: How helpful was the treatment?
-        hint: null
-        type: select_one
-        options:
-          - Very helpful
-          - Helpful
-          - Somewhat helpful
-          - Minimally helpful
-          - Not helpful
-          - N/A
-        required: false
-      - id: 18
-        name: support_system
-        label: Do you have a supportive network?
-        hint: Friends, family, professionals
-        type: select_one
-        options:
-          - Excellent support
-          - Good support
-          - Adequate support
-          - Limited support
-          - No support system
-        required: true
-      - id: 19
-        name: additional_symptoms
-        label: Any additional symptoms or concerns?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: treatment_interest
-        label: Are you interested in learning about anxiety treatment options?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Yes, possibly
-          - Maybe
-          - No
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age range
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to answer
+      required: true
+    - id: 3
+      name: anxiety_experience
+      label: Do you experience anxiety?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, sometimes
+      - Yes, rarely
+      - 'False'
+      - Unsure
+      required: true
+    - id: 4
+      name: anxiety_duration
+      label: How long have you experienced anxiety?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      - All my life
+      required: false
+    - id: 5
+      name: anxiety_frequency
+      label: How often do you experience anxiety symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - A few times per month
+      - Rarely
+      required: true
+    - id: 6
+      name: anxiety_intensity
+      label: Intensity of anxiety symptoms
+      hint: When they occur
+      type: select_one
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      - Very mild
+      - Variable
+      required: true
+    - id: 7
+      name: anxiety_triggers
+      label: What triggers your anxiety?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Work or career stress
+      - Social situations
+      - Health concerns
+      - Financial worries
+      - Relationship issues
+      - Specific phobias
+      - No clear trigger
+      - Multiple triggers
+      - Unknown
+      required: true
+    - id: 8
+      name: anxiety_physical_symptoms
+      label: Physical symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Racing heart
+      - Shortness of breath
+      - Chest tightness
+      - Trembling or shaking
+      - Sweating
+      - Nausea or dizziness
+      - Stomach issues
+      - Tension or muscle tightness
+      - None of the above
+      required: true
+    - id: 9
+      name: anxiety_emotional_symptoms
+      label: Emotional symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excessive worry
+      - Difficulty concentrating
+      - Irritability
+      - Feeling overwhelmed
+      - Fear of dying
+      - Fear of losing control
+      - Panic episodes
+      - None of the above
+      required: true
+    - id: 10
+      name: anxiety_impact
+      label: How does anxiety impact your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Severe impact
+      - Moderate impact
+      - Mild impact
+      - Minimal impact
+      - No noticeable impact
+      required: true
+    - id: 11
+      name: work_impact
+      label: Does anxiety affect your work or studies?
+      hint: null
+      type: select_one
+      options:
+      - Significantly
+      - Moderately
+      - Slightly
+      - Not at all
+      - Not applicable
+      required: true
+    - id: 12
+      name: social_impact
+      label: Does anxiety affect your social relationships?
+      hint: null
+      type: select_one
+      options:
+      - Significantly
+      - Moderately
+      - Slightly
+      - Not at all
+      required: true
+    - id: 13
+      name: coping_strategies
+      label: Coping strategies you currently use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Deep breathing exercises
+      - Physical exercise
+      - Meditation or mindfulness
+      - Talking to friends or family
+      - Professional counseling
+      - Medication
+      - Avoidance
+      - Distraction activities
+      - None
+      required: true
+    - id: 14
+      name: coping_effectiveness
+      label: How effective are your current coping strategies?
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Moderately effective
+      - Slightly effective
+      - Not effective
+      - Have no strategies
+      required: true
+    - id: 15
+      name: professional_help
+      label: Have you sought professional help for anxiety?
+      hint: null
+      type: select_one
+      options:
+      - Yes, currently in treatment
+      - Yes, in past
+      - No, but considering
+      - No, prefer not to
+      required: true
+    - id: 16
+      name: treatment_type
+      label: Type of professional help received
+      hint: null
+      type: select_multiple
+      options:
+      - Therapy or counseling
+      - Medication
+      - Both therapy and medication
+      - Lifestyle coaching
+      - Group therapy
+      - Other
+      required: false
+    - id: 17
+      name: treatment_helpfulness
+      label: How helpful was the treatment?
+      hint: null
+      type: select_one
+      options:
+      - Very helpful
+      - Helpful
+      - Somewhat helpful
+      - Minimally helpful
+      - Not helpful
+      - N/A
+      required: false
+    - id: 18
+      name: support_system
+      label: Do you have a supportive network?
+      hint: Friends, family, professionals
+      type: select_one
+      options:
+      - Excellent support
+      - Good support
+      - Adequate support
+      - Limited support
+      - No support system
+      required: true
+    - id: 19
+      name: additional_symptoms
+      label: Any additional symptoms or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: treatment_interest
+      label: Are you interested in learning about anxiety treatment options?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - Maybe
+      - 'False'
+      required: false

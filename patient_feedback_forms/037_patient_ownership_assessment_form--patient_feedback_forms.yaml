@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
-      - '{''label'': ''Unknown''}'
+      - 'False'
+      - 'True'
+      - Unknown
       required: false
     - id: 3
       name: medical_decisions
@@ -37,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Family members''}'
-      - '{''label'': ''Healthcare provider''}'
-      - '{''label'': ''Other''}'
+      - None
+      - Family members
+      - Healthcare provider
+      - Other
       required: false
     - id: 4
       name: contact_info
@@ -69,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''In-person''}'
-      - '{''label'': ''Phone/Video''}'
-      - '{''label'': ''Online''}'
+      - None
+      - In-person
+      - Phone/Video
+      - Online
       required: false
     - id: 8
       name: medical_history
@@ -94,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: medical_conditions_current
@@ -104,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: medical_conditions_frequent
@@ -114,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: medical_conditions_chronic
@@ -124,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: patient_info
@@ -176,8 +165,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: consent_reason
@@ -192,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: medical_record_access_description
@@ -209,9 +198,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: medical_record_incorrect_info_description

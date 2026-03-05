@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': ''Some''}'
-      - '{''value'': 3, ''label'': ''Almost all''}'
-      - '{''value'': 4, ''label'': ''More than 90%''}'
-      - '{''value'': 5, ''label'': ''Almost all of them''}'
+      - None
+      - 'True'
+      - Some
+      - Almost all
+      - More than 90%
+      - Almost all of them
       required: false
     - id: 3
       name: leadership_team
@@ -36,12 +36,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 5
       name: communication_plan
@@ -49,12 +49,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 6
       name: data_driven_decision
@@ -62,12 +62,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 7
       name: organizational_practices
@@ -75,12 +75,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 8
       name: organizational_capabilities
@@ -88,12 +88,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 9
       name: theory_impact
@@ -101,12 +101,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''Somewhat''}'
-      - '{''value'': 4, ''label'': ''Very much''}'
-      - '{''value'': 5, ''label'': ''Extremely''}'
+      - None
+      - 'True'
+      - 'False'
+      - Somewhat
+      - Very much
+      - Extremely
       required: false
     - id: 10
       name: theory_implementation
@@ -121,10 +121,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''Not sure''}'
+      - None
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 12
       name: theory_familiarity
@@ -132,12 +132,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 13
       name: theoretical_knowledge
@@ -145,12 +145,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 14
       name: theory_implication
@@ -158,12 +158,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 15
       name: theory_practice
@@ -192,12 +192,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 19
       name: theory_adoption
@@ -205,12 +205,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 20
       name: theory_difficulty
@@ -218,12 +218,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 21
       name: theory_feasibility
@@ -231,12 +231,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 22
       name: theory_relevance
@@ -244,12 +244,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 23
       name: theory_implementation_difficulty
@@ -257,12 +257,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 24
       name: theory_practice_familiarity
@@ -270,12 +270,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 0, ''label'': ''None''}'
-      - '{''value'': 1, ''label'': ''Some''}'
-      - '{''value'': 2, ''label'': ''Many''}'
-      - '{''value'': 3, ''label'': ''Most''}'
-      - '{''value'': 4, ''label'': ''Almost all''}'
-      - '{''value'': 5, ''label'': ''All of them''}'
+      - None
+      - Some
+      - Many
+      - Most
+      - Almost all
+      - All of them
       required: false
     - id: 25
       name: submission_count

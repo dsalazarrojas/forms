@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: sustainability_practices_awareness
@@ -103,8 +103,8 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: operations_influence
-      label: Operations Influence
+      name: operations_influence_2
+      label: Operations Influence 2
       hint: null
       type: number
       options: []
@@ -126,15 +126,15 @@ inputSchema:
       - Absent
       required: false
     - id: 16
-      name: operations_influence_score
-      label: Operations Influence Score
+      name: operations_influence_score_2
+      label: Operations Influence Score 2
       hint: null
       type: number
       options: []
       required: false
     - id: 17
       name: environmental_practices
-      label: Environment
+      label: Environmental Practices
       hint: null
       type: select_multiple
       options:
@@ -143,7 +143,7 @@ inputSchema:
       required: false
     - id: 18
       name: social_practices
-      label: Social
+      label: Social Practices
       hint: null
       type: select_multiple
       options:
@@ -152,7 +152,7 @@ inputSchema:
       required: false
     - id: 19
       name: economic_practices
-      label: Economic
+      label: Economic Practices
       hint: null
       type: select_multiple
       options:

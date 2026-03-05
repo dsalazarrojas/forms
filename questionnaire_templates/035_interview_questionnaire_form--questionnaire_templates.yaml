@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email'', ''label'': ''Email''}'
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - Email
+      - Phone
+      - Both
       required: true
     - id: 3
       name: page_three
@@ -37,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 4
       name: page_four
@@ -54,7 +43,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''English'', ''label'': ''English''}'
-      - '{''value'': ''Spanish'', ''label'': ''Spanish''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - English
+      - Spanish
+      - Both
       required: true

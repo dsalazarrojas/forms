@@ -5,12 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: property_status
-      label: Property Status
+      label: Current Property Status
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
+      - Available
+      - Occupied
+      - Pending
+      - Unknown
       required: false
     - id: 2
       name: condition_of_move_out
@@ -45,7 +47,7 @@ inputSchema:
       required: false
     - id: 6
       name: notice_period_days
-      label: Notice Period
+      label: Notice Period (Days)
       hint: null
       type: number
       options: []
@@ -56,22 +58,23 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: security_deposit
       label: Security Deposit
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
       name: utilities_paid
       label: Utilities Paid
       hint: null
       type: select_one
       options:
-      - Full
-      - Partial
+      - Gas
+      - Electricity
+      - Water
       required: false
     - id: 10
       name: utilities_billed
@@ -84,20 +87,45 @@ inputSchema:
       - Water
       required: false
     - id: 11
-      name: condition_of_move_out
-      label: Condition Of Move Out
+      name: lease_status
+      label: Lease Status
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 12
-      name: damages
-      label: Damages
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 13
+      name: move_in_date_2
+      label: Move In Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: move_out_date_2
+      label: Move Out Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notice_period_2
+      label: Notice Period 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
+    - id: 16
       name: utilities
       label: Utilities
       hint: null
@@ -107,9 +135,9 @@ inputSchema:
       - Electricity
       - Water
       required: true
-    - id: 14
-      name: utilities_billed
-      label: Utilities Billed
+    - id: 17
+      name: utilities_billed_2
+      label: Utilities Billed 2
       hint: null
       type: select_multiple
       options:
@@ -117,92 +145,24 @@ inputSchema:
       - Electricity
       - Water
       required: true
-    - id: 15
-      name: rent_paid
-      label: Rent Paid
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 16
-      name: lease_status
-      label: Lease Status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 17
-      name: property_type
-      label: Property Type
-      hint: null
-      type: select_one
-      options:
-      - Residential
-      - Commercial
-      required: false
     - id: 18
-      name: rent
-      label: Rent
+      name: rent_2
+      label: Rent 2
       hint: null
       type: number
       options: []
       required: true
     - id: 19
-      name: security_deposit
-      label: Security Deposit
+      name: security_deposit_2
+      label: Security Deposit 2
       hint: null
       type: number
       options: []
       required: true
     - id: 20
-      name: notice_period
-      label: Notice Period
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: move_in_date
-      label: Move In Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 22
-      name: move_out_date
-      label: Move Out Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 23
-      name: notice_period_days
-      label: Notice Period
+      name: notice_period_days_2
+      label: Notice Period Days 2
       hint: null
       type: number
       options: []
-      required: true
-    - id: 24
-      name: utilities_paid
-      label: Utilities Paid
-      hint: null
-      type: select_one
-      options:
-      - Gas
-      - Electricity
-      - Water
-      required: true
-    - id: 25
-      name: utilities_billed
-      label: Utilities Billed
-      hint: null
-      type: select_multiple
-      options:
-      - Gas
-      - Electricity
-      - Water
       required: true

@@ -12,189 +12,89 @@ inputSchema:
       required: false
     - id: 2
       name: product_sku
-      label: product_sku
+      label: Product SKU
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: product_quantity
-      label: quantity
+      name: quantity
+      label: Quantity
       hint: null
       type: number
       options: []
       required: true
     - id: 4
-      name: reason
-      label: reason
+      name: reason_for_waiver
+      label: Reason for Waiver
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 5
-      name: product_description
-      label: product_description
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 6
-      name: product_price
-      label: product_price
+      name: email
+      label: Email
       hint: null
-      type: number
+      type: email
       options: []
-      required: false
+      required: true
     - id: 7
-      name: customer_name
-      label: customer_name
+      name: phone
+      label: Phone Number
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: email
-      label: email
+      name: order_date
+      label: Order Date
       hint: null
-      type: email
+      type: date
       options: []
       required: true
     - id: 9
-      name: phone
-      label: phone
+      name: reason_for_waiver_2
+      label: Another Reason for Waiver
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 10
-      name: order_number
-      label: order_number
+      name: submit
+      label: Submit
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: order_date
-      label: order_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 12
-      name: submit
-      label: submit
+      name: product_description
+      label: Product Description
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
       options: []
       required: false
     - id: 13
-      name: reason_list
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: submit_button
-      label: submit_button
+      name: order_number
+      label: Order Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
-      name: reason_list_options
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: reason_list_options_2
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: reason_list_options_3
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: reason_list_options_4
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: reason_list_options_5
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: reason_list_options_6
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: reason_list_options_7
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: reason_list_options_8
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: submit_button_2
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: product_sku
-      label: product_sku
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: reason_list_2
-      label: reason_for_waiver
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

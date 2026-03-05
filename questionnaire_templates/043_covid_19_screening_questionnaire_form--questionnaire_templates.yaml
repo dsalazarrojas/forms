@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Once''}'
-      - '{''label'': ''Ongoing''}'
+      - Never
+      - Once
+      - Ongoing
       required: true
     - id: 5
       name: healthcare_worker
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: recent_travel
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': True}'
-      - '{''label'': ''Partial''}'
+      - Never
+      - 'True'
+      - Partial
       required: false
     - id: 7
       name: exposure_risk
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 8
       name: symptoms_start

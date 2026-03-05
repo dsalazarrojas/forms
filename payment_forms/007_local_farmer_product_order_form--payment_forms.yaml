@@ -4,207 +4,82 @@ inputSchema:
     title: Local Farmer Product Order Form
     pages:
     - id: 1
-      name: customer_info
-      label: Customer Information
+      name: name
+      label: What is your name?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: product_info
-      label: Product Information
+      name: email
+      label: What is your email address?
       hint: null
-      type: number
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: address_info
-      label: Address Information
+      name: phone
+      label: What is your phone number?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Address''}'
-      - '{''id'': 2, ''name'': ''Address 2''}'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: order_details
-      label: Order Details
+      name: customer_requests
+      label: Do you have any special orders or requests?
       hint: null
-      type: number
+      type: note
       options: []
-      required: false
+      required: true
     - id: 5
-      name: shipping_info
-      label: Shipping Information
+      name: order_type
+      label: What is the type of order you would like to place?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Regular Order
+      - Special Order
+      required: true
     - id: 6
-      name: payment_info
-      label: Payment Information
+      name: order_status
+      label: What is the status of your order?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
+      - Placed
+      - Pending
+      - Delivered
+      required: true
     - id: 7
-      name: note
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: customer
-      label: Customer
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 11
-      name: product
-      label: Product
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 12
-      name: order_type
-      label: Order Type
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2''}'
-      required: false
-    - id: 13
-      name: customer_info
-      label: Customer Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: product_info
-      label: Product Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: order_details
-      label: Order Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: shipping_info
-      label: Shipping Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: payment_info
-      label: Payment Information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
       name: additional_comments
-      label: Additional Comments
+      label: Do you have any additional comments or notes about your order?
       hint: null
       type: note
       options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: customer
-      label: Customer
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: product
-      label: Product
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: order_type
-      label: Order Type
+      required: true
+    - id: 8
+      name: shipping_requests
+      label: Do you have any special requests for shipping?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
       name: customer_info
-      label: Customer Information
+      label: Do you want to receive any special information or updates about your
+        order?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: product_info
-      label: Product Information
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: other_info
+      label: Do we have any other information about the customer or order?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: note
+      options: []
+      required: true

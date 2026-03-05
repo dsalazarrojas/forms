@@ -4,91 +4,50 @@ inputSchema:
     title: f_b_wedding_photography_booking_payments
     pages:
     - id: 1
-      name: payment_method
-      label: payment_method
+      name: wedding_client_information
+      label: Wedding Client Information
       hint: null
-      type: select_multiple
-      options:
-      - Stripe
-      - Bank_transfer
+      type: text
+      options: []
       required: false
     - id: 2
-      name: amount
-      label: amount
+      name: payment_details
+      label: Payment Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: email
+      name: contact_info
+      label: Contact Information
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 4
-      name: phone
-      label: phone
+      name: additional_services
+      label: Additional Services
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_multiple
-      options:
-      - Stripe
-      - Bank_transfer
-      required: false
-    - id: 6
-      name: amount
-      label: amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: phone
+      name: payment_confirmation
+      label: Payment Confirmation
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: payment_method
-      label: payment_method
+    - id: 6
+      name: payment_method_confirmation
+      label: Payment Method Confirmation
       hint: null
-      type: select_multiple
-      options:
-      - Stripe
-      - Bank_transfer
-      required: false
-    - id: 10
-      name: amount
-      label: amount
-      hint: null
-      type: number
+      type: text
       options: []
       required: false
-    - id: 11
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: phone
+    - id: 7
+      name: special_requests
+      label: Special Requests
       hint: null
       type: text
       options: []

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Primary Care Visit''}'
-      - '{''id'': 2, ''name'': ''Specialist Visit''}'
-      - '{''id'': 3, ''name'': ''Lab or Imaging Procedure''}'
+      - Primary Care Visit
+      - Specialist Visit
+      - Lab or Imaging Procedure
       required: false
     - id: 4
       name: medical_costs
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Pending Review''}'
+      - 'True'
+      - 'False'
+      - Pending Review
       required: false
     - id: 6
       name: signature
@@ -57,7 +57,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Dr. Smith''}'
-      - '{''id'': 2, ''name'': ''Dr. Johnson''}'
-      - '{''id'': 3, ''name'': ''Dr. Lee''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Lee
       required: false

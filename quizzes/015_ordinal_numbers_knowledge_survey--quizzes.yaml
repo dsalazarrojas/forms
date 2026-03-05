@@ -15,15 +15,25 @@ inputSchema:
     title: Ordinal Numbers Knowledge Survey
     pages:
     - id: 1
-      name: survey_page_1
-      label: first_question
+      name: first_question
+      label: What is the first number in the sequence?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true
     - id: 2
-      name: first_question
-      label: first_question
+      name: second_question
+      label: What is the second number in the sequence?
       hint: null
       type: select_one
       options:
@@ -39,22 +49,42 @@ inputSchema:
       - 10th
       required: true
     - id: 3
-      name: second_question
-      label: second_question
+      name: third_question
+      label: What is the third number in the sequence?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true
     - id: 4
-      name: survey_page_2
-      label: second_question
+      name: fourth_question
+      label: What is the fourth number in the sequence?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      required: true
     - id: 5
-      name: third_question
-      label: third_question
+      name: fifth_question
+      label: What is the fifth number in the sequence?
       hint: null
       type: select_one
       options:
@@ -70,10 +100,10 @@ inputSchema:
       - 10th
       required: true
     - id: 6
-      name: first_question
-      label: first_question
+      name: sixth_question
+      label: What is the sixth number in the sequence?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 1st
       - 2nd
@@ -87,10 +117,10 @@ inputSchema:
       - 10th
       required: true
     - id: 7
-      name: second_question
-      label: second_question
+      name: seventh_question
+      label: What is the seventh number in the sequence?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 1st
       - 2nd
@@ -102,12 +132,12 @@ inputSchema:
       - 8th
       - 9th
       - 10th
-      required: false
+      required: true
     - id: 8
-      name: third_question
-      label: third_question
+      name: eighth_question
+      label: What is the eighth number in the sequence?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 1st
       - 2nd
@@ -119,12 +149,12 @@ inputSchema:
       - 8th
       - 9th
       - 10th
-      required: false
+      required: true
     - id: 9
-      name: fourth_question
-      label: fourth_question
+      name: ninth_question
+      label: What is the ninth number in the sequence?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 1st
       - 2nd
@@ -136,17 +166,27 @@ inputSchema:
       - 8th
       - 9th
       - 10th
-      required: false
+      required: true
     - id: 10
-      name: survey_page_3
-      label: fifth_question
+      name: tenth_question
+      label: What is the tenth number in the sequence?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      required: true
     - id: 11
-      name: sixth_question
-      label: sixth_question
+      name: first_position
+      label: Which of the following numbers is in first position in the sequence?
       hint: null
       type: select_one
       options:
@@ -162,22 +202,42 @@ inputSchema:
       - 10th
       required: true
     - id: 12
-      name: seventh_question
-      label: seventh_question
+      name: second_position
+      label: Which of the following numbers is in second position in the sequence?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true
     - id: 13
-      name: eighth_question
-      label: eighth_question
+      name: third_position
+      label: Which of the following numbers is in third position in the sequence?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true
     - id: 14
-      name: ninth_question
-      label: ninth_question
+      name: fourth_position
+      label: Which of the following numbers is in fourth position in the sequence?
       hint: null
       type: select_one
       options:
@@ -193,15 +253,25 @@ inputSchema:
       - 10th
       required: true
     - id: 15
-      name: tenth_question
-      label: tenth_question
+      name: fifth_position
+      label: Which of the following numbers is in fifth position in the sequence?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true
     - id: 16
-      name: eleventh_question
-      label: eleventh_question
+      name: sixth_position
+      label: Which of the following numbers is in sixth position in the sequence?
       hint: null
       type: select_one
       options:
@@ -217,15 +287,25 @@ inputSchema:
       - 10th
       required: true
     - id: 17
-      name: twelfth_question
-      label: twelfth_question
+      name: seventh_position
+      label: Which of the following numbers is in seventh position in the sequence?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true
     - id: 18
-      name: thirteenth_question
-      label: thirteenth_question
+      name: eighth_position
+      label: Which of the following numbers is in eighth position in the sequence?
       hint: null
       type: select_one
       options:
@@ -241,22 +321,8 @@ inputSchema:
       - 10th
       required: true
     - id: 19
-      name: fourteenth_question
-      label: fourteenth_question
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: fifteenth_question
-      label: fifteenth_question
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: sixteenth_question
-      label: sixteenth_question
+      name: ninth_position
+      label: Which of the following numbers is in ninth position in the sequence?
       hint: null
       type: select_one
       options:
@@ -271,31 +337,20 @@ inputSchema:
       - 9th
       - 10th
       required: true
-    - id: 22
-      name: seventeenth_question
-      label: seventeenth_question
+    - id: 20
+      name: tenth_position
+      label: Which of the following numbers is in tenth position in the sequence?
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: eighteenth_question
-      label: eighteenth_question
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: nineteenth_question
-      label: nineteenth_question
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: twentieth_question
-      label: twentieth_question
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
       required: true

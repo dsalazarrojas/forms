@@ -1,128 +1,103 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Habit Tracker Setup Form
     pages:
-      - id: 1
-        name: section_family_details
-        label: -- Family Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: parent_name
-        label: Parent Full Name
-        hint: Primary account holder
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: child_name
-        label: Child Full Name
-        hint: Student or athlete
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: section_habit_selection
-        label: -- Habit Selection --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: habits_to_track
-        label: Habits to Track
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - label: Brushing Teeth Twice Daily
-            value: teeth
-          - label: Tidying Room and Toys
-            value: tidy
-          - label: Reading for 20 Minutes
-            value: reading
-          - label: Completing Homework on Time
-            value: homework
-          - label: Eating All Vegetables
-            value: veggies
-        required: true
-      - id: 6
-        name: section_tracking_plan
-        label: -- Tracking Plan --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: tracking_frequency
-        label: Tracking Frequency
-        hint: When will progress be recorded?
-        type: select_one
-        options:
-          - label: Daily Basis
-            value: daily
-          - label: Weekdays only
-            value: weekdays
-          - label: Weekends only
-            value: weekends
-        required: true
-      - id: 8
-        name: reward_system
-        label: Reward System Type
-        hint: Positive reinforcement method
-        type: select_one
-        options:
-          - label: Sticker Chart
-            value: stickers
-          - label: Extra Screen Time
-            value: screen
-          - label: Small Toy or Prize
-            value: toy
-          - label: Special Family Outing
-            value: outing
-        required: true
-      - id: 9
-        name: monthly_goal
-        label: Specific Goal for this Month
-        hint: e.g., 20 days of reading
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: section_start_details
-        label: -- Start Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: start_date
-        label: Proposed Start Date
-        hint: When should tracking begin?
-        type: date
-        options: []
-        required: true
-      - id: 12
-        name: send_reminders
-        label: Send weekly progress reminders?
-        hint: Delivered via email
-        type: select_one
-        options:
-          - label: Yes - Email reminders
-            value: yes
-          - label: No - I will track manually
-            value: no
-        required: true
+    - id: 1
+      name: section_family_details
+      label: -- Family Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Full Name
+      hint: Primary account holder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Full Name
+      hint: Student or athlete
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_habit_selection
+      label: -- Habit Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: habits_to_track
+      label: Habits to Track
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brushing Teeth Twice Daily
+      - Tidying Room and Toys
+      - Reading for 20 Minutes
+      - Completing Homework on Time
+      - Eating All Vegetables
+      required: true
+    - id: 6
+      name: section_tracking_plan
+      label: -- Tracking Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tracking_frequency
+      label: Tracking Frequency
+      hint: When will progress be recorded?
+      type: select_one
+      options:
+      - Daily Basis
+      - Weekdays only
+      - Weekends only
+      required: true
+    - id: 8
+      name: reward_system
+      label: Reward System Type
+      hint: Positive reinforcement method
+      type: select_one
+      options:
+      - Sticker Chart
+      - Extra Screen Time
+      - Small Toy or Prize
+      - Special Family Outing
+      required: true
+    - id: 9
+      name: monthly_goal
+      label: Specific Goal for this Month
+      hint: e.g., 20 days of reading
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_start_details
+      label: -- Start Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Proposed Start Date
+      hint: When should tracking begin?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: send_reminders
+      label: Send weekly progress reminders?
+      hint: Delivered via email
+      type: select_one
+      options:
+      - Yes - Email reminders
+      - No - I will track manually
+      required: true

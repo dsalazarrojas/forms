@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Mail''}'
+      - Email
+      - Phone
+      - Mail
       required: true
     - id: 4
       name: availability
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''High School''}'
-      - '{''value'': ''Some College''}'
-      - '{''value'': "Bachelor''s Degree"}'
-      - '{''value'': "Master''s Degree"}'
+      - High School
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
       required: true
     - id: 7
       name: work_experience
@@ -58,13 +58,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-3 months''}'
-      - '{''value'': ''6-12 months''}'
-      - '{''value'': ''1-2 years''}'
-      - '{''value'': ''2-3 years''}'
-      - '{''value'': ''3-4 years''}'
-      - '{''value'': ''4-5 years''}'
-      - '{''value'': ''More than 5 years''}'
+      - 1-3 months
+      - 6-12 months
+      - 1-2 years
+      - 2-3 years
+      - 3-4 years
+      - 4-5 years
+      - More than 5 years
       required: true
     - id: 8
       name: job_titles
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''On-site Property Manager''}'
-      - '{''value'': ''Assistant Property Manager''}'
-      - '{''value'': ''Property Manager''}'
+      - On-site Property Manager
+      - Assistant Property Manager
+      - Property Manager
       required: true
     - id: 9
       name: work_hours
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''On-site''}'
-      - '{''value'': ''Off-site''}'
-      - '{''value'': ''Office''}'
+      - On-site
+      - Off-site
+      - Office
       required: true
     - id: 11
       name: work_days
@@ -99,13 +99,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Wednesday''}'
-      - '{''value'': ''Thursday''}'
-      - '{''value'': ''Friday''}'
-      - '{''value'': ''Saturday''}'
-      - '{''value'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 12
       name: job_schedule
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Full-time''}'
-      - '{''value'': ''Part-time''}'
+      - Full-time
+      - Part-time
       required: true
     - id: 13
       name: availability_1

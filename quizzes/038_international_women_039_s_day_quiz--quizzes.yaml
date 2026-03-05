@@ -1,218 +1,169 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
-    title: international_womens_day_quiz
+    title: International Women's Day Quiz
     pages:
     - id: 1
       name: intro_page
-      label: intro_page
-      hint: null
+      label: International Women's Day Quiz
+      hint: Welcome to the International Women's Day Quiz!
       type: note
       options: []
       required: false
     - id: 2
-      name: question1
-      label: what_is_iwd
+      name: q1
+      label: What is International Women's Day (IWD)?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: question1_answer
-      label: iwd_awareness
+      name: q1_answer
+      label: International Women's Day is a global event
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 4
-      name: question2
-      label: iwd_purpose
+      name: q2
+      label: What is the purpose of IWD?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: question2_answer
-      label: iwd_purpose_answer
+      name: q2_answer
+      label: International Women's Day promotes women's empowerment
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 6
-      name: question3
-      label: iwd_history
+      name: q3
+      label: How do people usually celebrate IWD?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: question3_answer
-      label: iwd_history_answer
+      name: q3_answer
+      label: With parties and gifts
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 8
-      name: question4
-      label: iwd_mission
+      name: q4
+      label: What is the main mission of IWD?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: question4_answer
-      label: iwd_mission_answer
+      name: q4_answer
+      label: Supporting women's rights
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 10
-      name: question5
-      label: iwd_awareness
+      name: q5
+      label: When is International Women's Day celebrated?
       hint: null
       type: date
       options: []
       required: false
     - id: 11
-      name: question5_answer
-      label: iwd_awareness_answer
+      name: q5_answer
+      label: March 8th
       hint: null
       type: date
       options: []
       required: false
     - id: 12
-      name: question6
-      label: iwd_awareness_2
+      name: q6
+      label: What is the awareness of IWD?
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 13
-      name: question6_answer
-      label: iwd_awareness_2_answer
+      name: q7
+      label: Q7
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 14
-      name: question7
-      label: iwd_mission
+      name: q8
+      label: How do you celebrate IWD?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: question7_answer
-      label: iwd_mission_answer
+      name: q9
+      label: Q9
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 16
-      name: question8
-      label: iwd_purpose
+      name: q10
+      label: Q10
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      type: date
+      options: []
       required: false
     - id: 17
-      name: question9
-      label: iwd_awareness
+      name: q11
+      label: Q11
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: question9_answer
-      label: iwd_awareness_answer
+      name: q12
+      label: Q12
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false
     - id: 19
-      name: question10
-      label: iwd_awareness_2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: question10_answer
-      label: iwd_awareness_2_answer
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: question11
-      label: iwd_mission
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: question11_answer
-      label: iwd_mission_answer
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: question12
-      label: iwd_purpose
+      name: question13
+      label: Awareness of IWD?
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: question12_answer
-      label: iwd_purpose_answer
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
-      required: false
-    - id: 25
-      name: question13
-      label: iwd_purpose_answer_2
+    - id: 20
+      name: question13_answer
+      label: Understanding the significance of IWD
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''a'', ''label'': ''option_a''}'
-      - '{''id'': 2, ''name'': ''b'', ''label'': ''option_b''}'
-      - '{''id'': 3, ''name'': ''c'', ''label'': ''option_c''}'
+      - Option A
+      - Option B
+      - Option C
       required: false

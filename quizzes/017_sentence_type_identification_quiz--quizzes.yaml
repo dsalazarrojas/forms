@@ -15,273 +15,68 @@ inputSchema:
     title: Sentence Type Identification Quiz
     pages:
     - id: 1
-      name: declarative
-      label: Declarative
-      hint: null
+      name: question1
+      label: Which sentence type is this?
+      hint: Try to identify the type of sentence
       type: select_one
       options:
       - Declarative
       - Interrogative
       - Imperative
       - Exclamatory
-      required: false
+      required: true
     - id: 2
-      name: interrogative
-      label: Interrogative
-      hint: null
+      name: question2
+      label: Which of the following sentences is a question?
+      hint: Choose the correct type
       type: select_one
       options:
-      - Interrogative
       - Declarative
+      - Interrogative
       - Imperative
       - Exclamatory
-      required: false
+      required: true
     - id: 3
-      name: imperative
-      label: Imperative
-      hint: null
+      name: question3
+      label: What does this sentence mean?
+      hint: Choose the correct type
       type: select_one
       options:
-      - Imperative
       - Declarative
       - Interrogative
+      - Imperative
       - Exclamatory
-      required: false
+      required: true
     - id: 4
-      name: exclamatory
-      label: Exclamatory
-      hint: null
+      name: question4
+      label: Which sentence is an imperative?
+      hint: Choose the correct type
       type: select_one
       options:
-      - Exclamatory
       - Declarative
       - Interrogative
       - Imperative
-      required: false
+      - Exclamatory
+      required: true
     - id: 5
-      name: sentence_type
-      label: Sentence Type
-      hint: null
+      name: question5
+      label: What type of sentence is this?
+      hint: Choose the correct type
       type: select_one
       options:
       - Declarative
       - Interrogative
       - Imperative
       - Exclamatory
-      required: false
+      required: true
     - id: 6
-      name: sentence_type
-      label: Sentence Type
-      hint: null
+      name: question6
+      label: Question6
+      hint: Choose the correct type
       type: select_one
       options:
       - Declarative
       - Interrogative
       - Imperative
       - Exclamatory
-      required: false
-    - id: 7
-      name: question_type
-      label: Question
-      hint: null
-      type: select_one
-      options:
-      - Interrogative
-      - Imperative
-      - Declarative
-      - Exclamatory
-      required: false
-    - id: 8
-      name: sentence_length
-      label: Sentence Length
-      hint: null
-      type: select_one
-      options:
-      - Short
-      - Medium
-      - Long
-      required: false
-    - id: 9
-      name: sentence_type_2
-      label: Sentence Type
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 10
-      name: sentence_type_3
-      label: Sentence Type
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 11
-      name: question_type_2
-      label: Question
-      hint: null
-      type: select_one
-      options:
-      - Interrogative
-      - Imperative
-      - Declarative
-      - Exclamatory
-      required: false
-    - id: 12
-      name: sentence_length_2
-      label: Sentence Length
-      hint: null
-      type: select_one
-      options:
-      - Short
-      - Medium
-      - Long
-      required: false
-    - id: 13
-      name: sentence_length_3
-      label: Sentence Length
-      hint: null
-      type: select_one
-      options:
-      - Short
-      - Medium
-      - Long
-      required: false
-    - id: 14
-      name: question_type_3
-      label: Question
-      hint: null
-      type: select_one
-      options:
-      - Interrogative
-      - Imperative
-      - Declarative
-      - Exclamatory
-      required: false
-    - id: 15
-      name: declarative_1
-      label: Declarative
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 16
-      name: interrogative_1
-      label: Interrogative
-      hint: null
-      type: select_one
-      options:
-      - Interrogative
-      - Declarative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 17
-      name: imperative_1
-      label: Imperative
-      hint: null
-      type: select_one
-      options:
-      - Imperative
-      - Declarative
-      - Interrogative
-      - Exclamatory
-      required: false
-    - id: 18
-      name: exclamatory_1
-      label: Exclamatory
-      hint: null
-      type: select_one
-      options:
-      - Exclamatory
-      - Declarative
-      - Interrogative
-      - Imperative
-      required: false
-    - id: 19
-      name: declarative_2
-      label: Declarative
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 20
-      name: interrogative_2
-      label: Interrogative
-      hint: null
-      type: select_one
-      options:
-      - Interrogative
-      - Declarative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 21
-      name: imperative_2
-      label: Imperative
-      hint: null
-      type: select_one
-      options:
-      - Imperative
-      - Declarative
-      - Interrogative
-      - Exclamatory
-      required: false
-    - id: 22
-      name: sentence_type_4
-      label: Sentence Type
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 23
-      name: sentence_type_4
-      label: Sentence Type
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
-    - id: 24
-      name: sentence_length_4
-      label: Sentence Length
-      hint: null
-      type: select_one
-      options:
-      - Short
-      - Medium
-      - Long
-      required: false
-    - id: 25
-      name: sentence_type_5
-      label: Sentence Type
-      hint: null
-      type: select_one
-      options:
-      - Declarative
-      - Interrogative
-      - Imperative
-      - Exclamatory
-      required: false
+      required: true

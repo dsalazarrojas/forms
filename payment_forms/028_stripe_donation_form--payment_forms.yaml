@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 5, ''value'': 5}'
-      - '{''label'': 10, ''value'': 10}'
+      - '5'
+      - '10'
       required: false
     - id: 7
       name: stripe_donation_form_page_7
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 5, ''value'': 5}'
-      - '{''label'': 10, ''value'': 10}'
+      - '5'
+      - '10'
       required: false
     - id: 8
       name: stripe_donation_form_page_8
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USD'', ''value'': ''USD''}'
-      - '{''label'': ''EUR'', ''value'': ''EUR''}'
+      - USD
+      - EUR
       required: false
     - id: 10
       name: stripe_donation_form_page_10
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''card'', ''value'': ''card''}'
-      - '{''label'': ''bank'', ''value'': ''bank''}'
+      - card
+      - bank
       required: false
     - id: 11
       name: stripe_donation_form_page_11
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''pending'', ''value'': ''pending''}'
-      - '{''label'': ''succeeded'', ''value'': ''succeeded''}'
-      - '{''label'': ''failed'', ''value'': ''failed''}'
+      - pending
+      - succeeded
+      - failed
       required: false
     - id: 12
       name: stripe_donation_form_page_12
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''success'', ''value'': ''success''}'
-      - '{''label'': ''error'', ''value'': ''error''}'
+      - success
+      - error
       required: false
     - id: 13
       name: stripe_donation_form_page_13
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''one-time'', ''value'': ''one-time''}'
-      - '{''label'': ''recurring'', ''value'': ''recurring''}'
+      - one-time
+      - recurring
       required: false
     - id: 15
       name: stripe_donation_form_page_15
@@ -122,40 +122,40 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USD'', ''value'': ''USD''}'
-      - '{''label'': ''EUR'', ''value'': ''EUR''}'
+      - USD
+      - EUR
       required: false
     - id: 16
       name: stripe_donation_form_page_16
-      label: Stripe payment status
+      label: Stripe Donation Form Page 16
       hint: null
       type: select_one
       options:
-      - '{''label'': ''pending'', ''value'': ''pending''}'
-      - '{''label'': ''succeeded'', ''value'': ''succeeded''}'
-      - '{''label'': ''failed'', ''value'': ''failed''}'
+      - pending
+      - succeeded
+      - failed
       required: false
     - id: 17
       name: stripe_donation_form_page_17
-      label: Stripe payment method
+      label: Stripe Donation Form Page 17
       hint: null
       type: select_one
       options:
-      - '{''label'': ''card'', ''value'': ''card''}'
-      - '{''label'': ''bank'', ''value'': ''bank''}'
+      - card
+      - bank
       required: false
     - id: 18
       name: stripe_donation_form_page_18
-      label: Stripe payment message
+      label: Stripe Donation Form Page 18
       hint: null
       type: select_one
       options:
-      - '{''label'': ''success'', ''value'': ''success''}'
-      - '{''label'': ''error'', ''value'': ''error''}'
+      - success
+      - error
       required: false
     - id: 19
       name: stripe_donation_form_page_19
-      label: Additional info
+      label: Stripe Donation Form Page 19
       hint: null
       type: note
       options: []
@@ -197,7 +197,7 @@ inputSchema:
       required: false
     - id: 25
       name: stripe_donation_form_page_25
-      label: Payment info
+      label: Stripe Donation Form Page 25
       hint: null
       type: text
       options: []

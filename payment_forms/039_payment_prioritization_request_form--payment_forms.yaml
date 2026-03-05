@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''vendor_a'', ''value'': ''ABC Corporation''}'
-      - '{''name'': ''vendor_b'', ''value'': ''DEF Corporation''}'
+      - ABC Corporation
+      - DEF Corporation
       required: false
     - id: 3
       name: payment_amount
@@ -32,9 +32,9 @@ inputSchema:
       hint: Select the priority level.
       type: select_one
       options:
-      - '{''name'': ''high'', ''value'': ''High''}'
-      - '{''name'': ''medium'', ''value'': ''Medium''}'
-      - '{''name'': ''low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 5
       name: payment_documentation
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: payment_note

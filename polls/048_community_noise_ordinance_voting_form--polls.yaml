@@ -1,93 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Noise Ordinance Voting Form
     pages:
-      - id: 1
-        name: vote_header
-        label: -- Noise Ordinance Vote --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: voter_name
-        label: Voter name
-        hint: Optional for confirmation
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: address
-        label: Address
-        hint: To confirm residency
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: email
-        label: Email address
-        hint: Optional contact for results
-        type: email
-        options: []
-        required: false
-      - id: 5
-        name: position_on_ordinance
-        label: Position on ordinance
-        hint: Select your vote
-        type: select_one
-        options:
-          - Support
-          - Oppose
-          - Neutral
-        required: true
-      - id: 6
-        name: concern_details
-        label: Specific concerns or support reasons
-        hint: Explain your position briefly
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: preferred_noise_levels
-        label: Preferred noise level guidelines
-        hint: Provide suggestions if supporting
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: willing_to_discuss
-        label: Willing to discuss further with committee
-        hint: Provide email if yes
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: proxy_vote
-        label: Voting by proxy
-        hint: Indicate if voting by proxy
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any other input on the ordinance
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: vote_header
+      label: -- Noise Ordinance Vote --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Voter name
+      hint: Optional for confirmation
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: To confirm residency
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Optional contact for results
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: position_on_ordinance
+      label: Position on ordinance
+      hint: Select your vote
+      type: select_one
+      options:
+      - Support
+      - Oppose
+      - Neutral
+      required: true
+    - id: 6
+      name: concern_details
+      label: Specific concerns or support reasons
+      hint: Explain your position briefly
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_noise_levels
+      label: Preferred noise level guidelines
+      hint: Provide suggestions if supporting
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willing_to_discuss
+      label: Willing to discuss further with committee
+      hint: Provide email if yes
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: proxy_vote
+      label: Voting by proxy
+      hint: Indicate if voting by proxy
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other input on the ordinance
+      type: text
+      options: []
+      required: false

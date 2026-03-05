@@ -5,198 +5,97 @@ inputSchema:
     pages:
     - id: 1
       name: shopper_website_feature_preference_page
-      label: Shopper Feedback
-      hint: null
+      label: What are your thoughts on our website feedback page?
+      hint: Please share your thoughts about our website feedback page.
       type: text
       options: []
       required: false
     - id: 2
-      name: website_features
-      label: Website Features
-      hint: null
+      name: website_features_page
+      label: What features on our website do you find most important?
+      hint: Choose the features that you find most important on our website.
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Very Important
+      - Somewhat Important
+      - Not Important
       required: true
     - id: 3
-      name: overall_satisfaction
-      label: Overall Satisfaction
-      hint: null
+      name: overall_satisfaction_page
+      label: How would you rate your overall satisfaction with our website?
+      hint: Rate your overall satisfaction with our website (1-5 scale).
       type: number
       options: []
       required: true
     - id: 4
-      name: improvement_priorities
-      label: Improvement Priorities
-      hint: null
+      name: improvement_priorities_page
+      label: What are the top improvements you'd like to see us make to our website?
+      hint: Choose the improvements that you'd like to see on our website.
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
-      name: email
-      label: Email
-      hint: null
+      name: email_page
+      label: What is your email address?
+      hint: We'll use this to contact you about any questions or concerns.
       type: email
       options: []
       required: true
     - id: 6
-      name: phone
-      label: Phone
-      hint: null
+      name: phone_page
+      label: What is your phone number?
+      hint: We'll use this to contact you about any questions or concerns.
       type: text
       options: []
       required: false
     - id: 7
-      name: website_features_important
-      label: Important Features
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 8
-      name: comments
-      label: Comments
-      hint: null
+      name: comments_page
+      label: Any comments about our website?
+      hint: Share any thoughts or suggestions about our website.
       type: note
       options: []
       required: false
-    - id: 9
-      name: website_satisfaction
-      label: Website Satisfaction
-      hint: null
+    - id: 8
+      name: website_satisfaction_page
+      label: How would you rate your website satisfaction?
+      hint: Rate your satisfaction with our website (1-5 scale).
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: true
-    - id: 10
-      name: improvement_plan
-      label: Improvement Plan
-      hint: null
+    - id: 9
+      name: improvement_plan_page
+      label: What is your improvement plan for our website?
+      hint: Choose the improvements that you'd like to see on our website.
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 11
-      name: date
-      label: Date
-      hint: null
+    - id: 10
+      name: date_of_visit_page
+      label: What is the date of your last visit to our website?
+      hint: We're interested in knowing when you last visited our website.
       type: date
       options: []
       required: false
-    - id: 12
-      name: time
-      label: Time
-      hint: null
+    - id: 11
+      name: time_of_visit_page
+      label: What is the time of your last visit to our website?
+      hint: We're interested in knowing when you last visited our website.
       type: time
       options: []
       required: false
-    - id: 13
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: comments_2
-      label: Comments
-      hint: null
+    - id: 12
+      name: comments_page_2
+      label: Comments Page 2
+      hint: Share any thoughts or suggestions about our website.
       type: note
       options: []
-      required: false
-    - id: 16
-      name: overall_satisfaction_2
-      label: Overall Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: improvement_priorities_2
-      label: Improvement Priorities
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 18
-      name: website_satisfaction_2
-      label: Website Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 19
-      name: important_features_2
-      label: Important Features
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 20
-      name: comments_2
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: overall_satisfaction_3
-      label: Overall Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: website_satisfaction_3
-      label: Overall Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: website_satisfaction_4
-      label: Overall Satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: comments_3
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: improvement_priorities_3
-      label: Improvement Priorities
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
       required: false

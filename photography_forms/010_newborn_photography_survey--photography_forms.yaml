@@ -60,27 +60,26 @@ inputSchema:
       required: false
     - id: 8
       name: studio_policy_consent_time
-      label: Studio Policy
+      label: Studio Policy Consent Time
       hint: null
       type: time
       options: []
       required: false
     - id: 9
       name: studio_policy_consent_length
-      label: Studio Policy
+      label: Studio Policy Consent Length
       hint: null
       type: number
       options: []
       required: false
     - id: 10
       name: studio_policy_consent
-      label: Studio Policy
+      label: Studio Policy Consent
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - I agree
+      - I do not agree
       required: false
     - id: 11
       name: studio_policy_consent_2
@@ -88,7 +87,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

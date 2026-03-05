@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chair-1''}'
-      - '{''value'': ''chair-2''}'
-      - '{''value'': ''chair-3''}'
+      - chair-1
+      - chair-2
+      - chair-3
       required: false
     - id: 2
       name: delivery_preferences
@@ -19,8 +19,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''in-store''}'
-      - '{''value'': ''in-home''}'
+      - in-store
+      - in-home
       required: false
     - id: 3
       name: deposit

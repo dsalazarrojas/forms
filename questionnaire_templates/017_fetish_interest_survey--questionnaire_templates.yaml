@@ -4,224 +4,171 @@ inputSchema:
     title: Fetish Interest Survey
     pages:
     - id: 1
-      name: first_page
-      label: first_page
+      name: bdsm_interest
+      label: On a scale of 1-5, how would you rate your interest in BDSM?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: sex_toys
+      label: Do you have a fetish for sex toys?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: bondage_interest
+      label: Do you have a fetish for bondage?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: discipline_interest
+      label: Do you have a fetish for discipline?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: submission_interest
+      label: Do you have a fetish for submission?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: dominance_interest
+      label: Do you have a fetish for dominance?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: activity_frequency
+      label: How often do you engage in fetish activities?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: culture_interest
+      label: What is your level of interest in fetish culture?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: leather_interest
+      label: Do you have a fetish for leather?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: rubber_interest
+      label: Do you have a fetish for rubber?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: uniform_interest
+      label: Do you have a fetish for uniforms?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: heels_interest
+      label: Do you have a fetish for heels?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: feet_interest
+      label: Do you have a fetish for feet?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: feet_interest_2
+      label: Feet Interest 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: toe_interest
+      label: Do you have a fetish for toes?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: body_piercing_interest
+      label: Do you have a fetish for body piercings?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: tattoo_interest
+      label: Do you have a fetish for tattoos?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: piercing_interest
+      label: Do you have a fetish for piercings?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: submit
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 2
-      name: fetishes
-      label: fetishes
-      hint: null
-      type: select_multiple
-      options:
-      - BDSM
-      - fetish1
-      - fetish2
-      - fetish3
-      required: true
-    - id: 3
-      name: fetishes2
-      label: fetishes2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 4
-      name: fetishes3
-      label: fetishes3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 5
-      name: fetishes4
-      label: fetishes4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 6
-      name: fetishes5
-      label: fetishes5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 7
-      name: fetishes6
-      label: fetishes6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 8
-      name: fetishes7
-      label: fetishes7
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: fetishes8
-      label: fetishes8
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 10
-      name: fetishes9
-      label: fetishes9
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: fetishes10
-      label: fetishes10
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 12
-      name: first_page_2
-      label: first_page_2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: fetishes
-      label: fetishes
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: true
-    - id: 14
-      name: fetishes2
-      label: fetishes2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: fetishes3
-      label: fetishes3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: fetishes4
-      label: fetishes4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: fetishes5
-      label: fetishes5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: fetishes6
-      label: fetishes6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: fetishes7
-      label: fetishes7
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: true
     - id: 20
-      name: fetishes8
-      label: fetishes8
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: fetishes9
-      label: fetishes9
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: fetishes10
-      label: fetishes10
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: fetishes11
-      label: fetishes11
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: fetishes12
-      label: fetishes12
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 25
-      name: submit
-      label: submit
+      name: additional_interest
+      label: Additional interest (please specify)
       hint: null
       type: text
       options: []

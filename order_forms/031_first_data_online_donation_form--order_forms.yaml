@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''once''}'
-      - '{''value'': ''regularly''}'
-      - '{''value'': ''sporadically''}'
+      - once
+      - regularly
+      - sporadically
       required: false
     - id: 8
       name: recurring_donations
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: donor_phone

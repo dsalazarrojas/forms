@@ -30,10 +30,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
-        ''value'': 1}'
-      - '{''id'': 2, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
-        ''value'': 2}'
+      - Maintenance
+      - Other
       required: false
     - id: 5
       name: maintenance_request
@@ -41,10 +39,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
-        ''value'': 1}'
-      - '{''id'': 2, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
-        ''value'': 2}'
+      - Maintenance
+      - Other
       required: false
     - id: 6
       name: maintenance_type
@@ -52,12 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''maintenance_type'', ''label'': ''Maintenance'', ''value'':
-        1}'
-      - '{''id'': 2, ''name'': ''maintenance_type'', ''label'': ''maintenance_request'',
-        ''value'': 2}'
-      - '{''id'': 3, ''name'': ''maintenance_type'', ''label'': ''maintenance_type'',
-        ''value'': 3}'
+      - Maintenance
+      - maintenance request
+      - maintenance type
       required: false
     - id: 7
       name: contact_details
@@ -86,12 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''maintenance_status'', ''label'': ''Pending'', ''value'':
-        1}'
-      - '{''id'': 2, ''name'': ''maintenance_status'', ''label'': ''In Progress'',
-        ''value'': 2}'
-      - '{''id'': 3, ''name'': ''maintenance_status'', ''label'': ''Completed'', ''value'':
-        3}'
+      - Pending
+      - In Progress
+      - Completed
       required: false
     - id: 11
       name: priority
@@ -99,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''priority'', ''label'': ''High'', ''value'': 1}'
-      - '{''id'': 2, ''name'': ''priority'', ''label'': ''Medium'', ''value'': 2}'
-      - '{''id'': 3, ''name'': ''priority'', ''label'': ''Low'', ''value'': 3}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 12
       name: request_date
@@ -123,8 +113,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''assigned_user'', ''label'': ''ChatJimmy'', ''value'':
-        1}'
+      - ChatJimmy
       - Other
       required: false
     - id: 15
@@ -133,8 +122,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''assigned_tool'', ''label'': ''chatjimmy'', ''value'':
-        1}'
+      - chatjimmy
       - Other
       required: false
     - id: 16
@@ -164,10 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''status'', ''label'': ''Pending'', ''value'': 1}'
-      - '{''id'': 2, ''name'': ''In Progress'', ''label'': ''In Progress'', ''value'':
-        2}'
-      - '{''id'': 3, ''name'': ''Completed'', ''value'': 3}'
+      - Pending
+      - In Progress
+      - '3'
       required: false
     - id: 20
       name: completed
@@ -175,11 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''completed'', ''label'': ''Done'', ''value'': 1}'
-      - '{''id'': 2, ''name'': ''completed'', ''label'': ''Not Done'', ''value'':
-        2}'
-      - '{''id'': 3, ''name'': ''completed'', ''label'': ''In Progress'', ''value'':
-        3}'
+      - Done
+      - Not Done
+      - In Progress
       required: false
     - id: 21
       name: notes

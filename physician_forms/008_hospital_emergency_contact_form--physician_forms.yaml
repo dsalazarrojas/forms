@@ -16,9 +16,9 @@ inputSchema:
       hint: Please enter contact information for your emergency contact
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Spouse''}'
-      - '{''id'': 2, ''name'': ''Partner''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Spouse
+      - Partner
+      - Other
       required: false
     - id: 3
       name: relationship
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Spouse''}'
-      - '{''id'': 2, ''name'': ''Partner''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Spouse
+      - Partner
+      - Other
       required: false
     - id: 4
       name: name
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Spouse''}'
-      - '{''id'': 2, ''name'': ''Partner''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Spouse
+      - Partner
+      - Other
       required: false
     - id: 11
       name: medical_history
@@ -186,6 +186,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false

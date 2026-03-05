@@ -5,199 +5,174 @@ inputSchema:
     pages:
     - id: 1
       name: hamper_collection_survey_form_1
-      label: what_is_your_interest_in_hampers
+      label: What is your interest in hampers?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: hamper_type
-      label: what_type_of_hampers_do_you_like
+      name: hamper_type_form_2
+      label: What type of hampers do you like?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fruits''}'
-      - '{''id'': 2, ''label'': ''Vegetables''}'
-      - '{''id'': 3, ''label'': ''Flowers''}'
+      - Fruits
+      - Vegetables
+      - Flowers
       required: false
     - id: 3
-      name: hamper_size
-      label: hamper_size
+      name: hamper_size_form_3
+      label: What is the size of the hamper?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Large''}'
-      required: true
+      - Small
+      - Medium
+      - Large
+      required: false
     - id: 4
-      name: hamper_color
-      label: favorite_hampers_color
+      name: hamper_color_form_4
+      label: What is your favorite hamper color?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Blue''}'
-      - '{''id'': 2, ''label'': ''Red''}'
-      - '{''id'': 3, ''label'': ''Green''}'
+      - Blue
+      - Red
+      - Green
       required: false
     - id: 5
-      name: hamper_message
-      label: hamper_message
+      name: hamper_price_form_5
+      label: How much do you want to pay for the hamper?
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 7
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: date_of_birth
-      label: date_of_birth
-      hint: null
-      type: date
+      type: number
       options: []
       required: false
-    - id: 9
-      name: time_of_day
-      label: time_of_day
+    - id: 6
+      name: hamper_weight_form_6
+      label: What is the weight of the hamper?
       hint: null
-      type: time
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hamper_weight_range_form_7
+      label: What is the weight range of the hamper?
+      hint: null
+      type: select_one
+      options:
+      - Less Than 10
+      - 10-15
+      - More Than 15
+      required: false
+    - id: 8
+      name: hamper_weight_unit_form_8
+      label: What is the weight unit of the hamper?
+      hint: null
+      type: select_one
+      options:
+      - Grams
+      - Kilograms
+      - Pounds
+      required: false
+    - id: 9
+      name: hamper_note_form_9
+      label: Do you have any additional comments or notes about the hamper?
+      hint: null
+      type: note
       options: []
       required: false
     - id: 10
-      name: note
-      label: note
+      name: hamper_size_form_10
+      label: What is the hamper size unit?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Meters
+      - Kilometers
+      - Feet
       required: false
     - id: 11
-      name: hamper_price
-      label: hamper_price
+      name: hamper_color_form_11
+      label: What is the hamper color unit?
       hint: null
-      type: number
-      options: []
-      required: true
+      type: select_one
+      options:
+      - Inches
+      - Centimeters
+      - Millimeters
+      required: false
     - id: 12
-      name: hamper_weight
-      label: hamper_weight
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: hamper_weight_range
-      label: hamper_weight_range
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Less Than 10''}'
-      - '{''id'': 2, ''label'': ''10-15''}'
-      - '{''id'': 3, ''label'': ''More Than 15''}'
-      required: true
-    - id: 14
-      name: hamper_weight_min_max
-      label: hamper_weight_min_max
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''min''}'
-      - '{''id'': 2, ''label'': ''max''}'
-      required: true
-    - id: 15
-      name: hamper_weight_unit
-      label: hamper_weight_unit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Grams''}'
-      - '{''id'': 2, ''label'': ''Kilograms''}'
-      - '{''id'': 3, ''label'': ''Pounds''}'
-      required: true
-    - id: 16
-      name: hamper_size_unit
-      label: hamper_size_unit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Meters''}'
-      - '{''id'': 2, ''label'': ''Kilometers''}'
-      - '{''id'': 3, ''label'': ''Feet''}'
-      required: true
-    - id: 17
-      name: hamper_color_unit
-      label: hamper_color_unit
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Inches''}'
-      - '{''id'': 2, ''label'': ''Centimeters''}'
-      - '{''id'': 3, ''label'': ''Millimeters''}'
-      required: true
-    - id: 18
-      name: hamper_message
-      label: hamper_message
+      name: hamper_collection_survey_form_12
+      label: Additional comments or notes about the hamper?
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: email
-      label: email
+    - id: 13
+      name: hamper_price_form_13
+      label: Hamper Price Form 13
       hint: null
-      type: email
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: hamper_weight_form_14
+      label: Hamper Weight Form 14
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: hamper_weight_range_form_15
+      label: Hamper Weight Range Form 15
+      hint: null
+      type: select_one
+      options:
+      - Less Than 10
+      - 10-15
+      - More Than 15
+      required: true
+    - id: 16
+      name: hamper_weight_unit_form_16
+      label: Hamper Weight Unit Form 16
+      hint: null
+      type: select_one
+      options:
+      - Grams
+      - Kilograms
+      - Pounds
+      required: true
+    - id: 17
+      name: hamper_size_unit_form_17
+      label: What is the size unit of the hamper?
+      hint: null
+      type: select_one
+      options:
+      - Meters
+      - Kilometers
+      - Feet
+      required: true
+    - id: 18
+      name: hamper_color_unit_form_18
+      label: What is the color unit of the hamper?
+      hint: null
+      type: select_one
+      options:
+      - Inches
+      - Centimeters
+      - Millimeters
+      required: true
+    - id: 19
+      name: hamper_note_form_19
+      label: Hamper Note Form 19
+      hint: null
+      type: note
       options: []
       required: false
     - id: 20
-      name: phone
-      label: phone
+      name: hamper_collection_survey_form_20
+      label: Hamper Collection Survey Form 20
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: date_of_birth
-      label: date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time_of_day
-      label: time_of_day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: hamper_price
-      label: hamper_price
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 25
-      name: hamper_weight
-      label: hamper_weight
-      hint: null
-      type: number
-      options: []
-      required: true

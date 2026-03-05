@@ -5,189 +5,52 @@ inputSchema:
     pages:
     - id: 1
       name: purchase_amount
-      label: purchase_amount
-      hint: null
+      label: Purchase Amount
+      hint: Enter the purchase amount
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: sales_tax_rate
-      label: sales_tax_rate
-      hint: null
+      label: Sales Tax Rate
+      hint: Enter the sales tax rate
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: calculate_tax
-      label: calculate_tax
-      hint: null
+      label: Calculate Tax
+      hint: Click to calculate tax
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: calculated_tax
-      label: calculated_tax
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
       name: total_amount
-      label: total_amount
-      hint: null
+      label: Total Amount
+      hint: The total amount including tax
       type: number
+      options: []
+      required: true
+    - id: 5
+      name: category
+      label: Category
+      hint: Enter the category
+      type: text
       options: []
       required: false
     - id: 6
-      name: calculate
-      label: calculate
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: description
+      label: Description
+      hint: Enter a description
+      type: text
+      options: []
       required: false
     - id: 7
-      name: reset
-      label: reset
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: description
-      label: description
-      hint: null
+      label: Output File
+      hint: Click to save the output file
       type: text
       options: []
       required: false

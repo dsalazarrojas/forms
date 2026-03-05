@@ -4,191 +4,62 @@ inputSchema:
     title: Deli Order Form For In Store Pickup
     pages:
     - id: 1
-      name: page_1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_info
       label: Order Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 2
-      name: page_2
-      label: Sandwich
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: true
     - id: 3
-      name: page_2_sandwiches
-      label: Salad
+      name: beverage
+      label: Beverage
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 4
-      name: page_3
-      label: Beverage
+      name: additional_info
+      label: Additional Information
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 5
-      name: page_3_beverage
-      label: Quantity
+      name: confirmation
+      label: Confirmation
       hint: null
-      type: number
-      options: []
-      required: true
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 6
-      name: page_4
-      label: Instructions
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: page_4_instructions
-      label: Payment
+      name: pickup_info
+      label: Pickup Information
       hint: null
       type: text
       options: []
       required: true
+    - id: 7
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: page_4_payment
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: page_5
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: page_5_phone
-      label: Additional Information
+      name: other_info
+      label: Other Information
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 11
-      name: page_6
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page_7
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_8
-      label: Confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: page_9
-      label: Confirmation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: page_10
-      label: Confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: page_11
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_11_confirmation
-      label: Confirmation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: page_12
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_12_additional_information
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_13
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_13_confirmation
-      label: Confirmation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_14
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_14_additional_information
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_15
-      label: Deli
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: page_15_deli
-      label: Payment
-      hint: null
-      type: text
       options: []
       required: false

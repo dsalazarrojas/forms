@@ -37,8 +37,8 @@ inputSchema:
       hint: e.g. Fever, cough, sore throat
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: household_symptoms
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: waiting_test
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: vaccination_status
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Partially
       required: true
     - id: 9
@@ -74,7 +74,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - I agree
       required: true
     - id: 10
@@ -93,6 +93,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - 'False'
       required: true

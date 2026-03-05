@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Minor''}'
-      - '{''value'': ''Major''}'
-      - '{''value'': ''Minor- Major''}'
+      - Minor
+      - Major
+      - Minor- Major
       required: true
     - id: 3
       name: current_status
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Incomplete''}'
+      - Active
+      - Pending
+      - Inactive
+      - Incomplete
       required: true
     - id: 4
       name: priority_score
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 9
       name: notes

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
-      - '{''id'': 3, ''name'': ''Medium''}'
+      - High
+      - Low
+      - Medium
       required: true
     - id: 7
       name: priority2
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
-      - '{''id'': 3, ''name'': ''Medium''}'
+      - High
+      - Low
+      - Medium
       required: true
     - id: 8
       name: notes
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Student''}'
-      - '{''id'': 2, ''name'': ''Business''}'
-      - '{''id'': 3, ''name'': ''Developer''}'
+      - Student
+      - Business
+      - Developer
       required: true
     - id: 12
       name: gender
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Male''}'
-      - '{''id'': 2, ''name'': ''Female''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 13
       name: ethnicity
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Caucasian''}'
-      - '{''id'': 2, ''name'': ''African American''}'
-      - '{''id'': 3, ''name'': ''Asian''}'
+      - Caucasian
+      - African American
+      - Asian
       required: true
     - id: 14
       name: date
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
+      - High
+      - Low
       required: true
     - id: 19
       name: priority5
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
+      - High
+      - Low
       required: true
     - id: 20
       name: date_of_entry
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Caucasian''}'
-      - '{''id'': 2, ''name'': ''African American''}'
+      - Caucasian
+      - African American
       required: true
     - id: 23
       name: address2
@@ -191,8 +191,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
+      - High
+      - Low
       required: true
     - id: 25
       name: priority7
@@ -200,6 +200,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
+      - High
+      - Low
       required: false

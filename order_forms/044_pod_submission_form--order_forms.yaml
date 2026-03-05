@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''T-shirt'', ''value'': ''T-shirt''}'
-      - '{''id'': 2, ''label'': ''Mug'', ''value'': ''Mug''}'
+      - T-shirt
+      - Mug
       required: false
     - id: 5
       name: quantity
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''S'', ''value'': ''S''}'
-      - '{''id'': 2, ''label'': ''M'', ''value'': ''M''}'
-      - '{''id'': 3, ''label'': ''L'', ''value'': ''L''}'
-      - '{''id'': 4, ''label'': ''XL'', ''value'': ''XL''}'
+      - S
+      - M
+      - L
+      - XL
       required: false
     - id: 7
       name: file
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: quantity_printed

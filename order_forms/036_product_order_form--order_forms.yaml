@@ -5,48 +5,43 @@ inputSchema:
     pages:
     - id: 1
       name: product_order_form
-      label: Product Order Form
+      label: Product Details
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
       name: product_order_form_1
-      label: Product Order Form
+      label: Order Information
       hint: null
-      type: select_one
-      options:
-      - product1
-      - product2
-      - product3
+      type: text
+      options: []
       required: false
     - id: 3
-      name: product_order_form_1
-      label: Product Order Form
-      hint: null
-      type: select_multiple
-      options:
-      - product1
-      - product2
-      required: true
-    - id: 4
       name: product_order_form_2
-      label: Product Order Form
+      label: Shipping Info
       hint: null
-      type: number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_order_form_3
+      label: Payment Details
+      hint: null
+      type: text
       options: []
       required: false
     - id: 5
-      name: product_order_form_2
-      label: Product Order Form
+      name: product_order_form_4
+      label: Order Confirmation
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 6
-      name: product_order_form_3
-      label: Product Order Form
+      name: product_order_form_5
+      label: Additional Info
       hint: null
-      type: date
+      type: text
       options: []
       required: false

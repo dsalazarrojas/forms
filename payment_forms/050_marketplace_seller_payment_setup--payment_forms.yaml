@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit_card'', ''label'': ''credit_card''}'
-      - '{''id'': 2, ''name'': ''bank_transfer'', ''label'': ''bank_transfer''}'
-      - '{''id'': 3, ''name'': ''paypal'', ''label'': ''paypal''}'
-      - '{''id'': 4, ''name'': ''stripe'', ''label'': ''stripe''}'
+      - credit card
+      - bank transfer
+      - paypal
+      - stripe
       required: true
     - id: 5
       name: payment_terms_and_conditions
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''routine_1'', ''label'': ''routine_1''}'
-      - '{''id'': 2, ''name'': ''routine_2'', ''label'': ''routine_2''}'
+      - routine 1
+      - routine 2
       required: false
     - id: 16
       name: payment_terms_date
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''accepted'', ''label'': ''accepted''}'
-      - '{''id'': 2, ''name'': ''not_accepted'', ''label'': ''not_accepted''}'
+      - accepted
+      - not accepted
       required: true
     - id: 21
       name: payment_terms_and_conditions_agreement
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''accepted'', ''label'': ''accepted''}'
-      - '{''id'': 2, ''name'': ''not_accepted'', ''label'': ''not_accepted''}'
+      - accepted
+      - not accepted
       required: true
     - id: 22
       name: bank_details
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''bank_details_1'', ''label'': ''bank_details_1''}'
-      - '{''id'': 2, ''name'': ''bank_details_2'', ''label'': ''bank_details_2''}'
+      - bank details 1
+      - bank details 2
       required: true
     - id: 23
       name: bank_routing

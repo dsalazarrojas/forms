@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General Health''}'
-      - '{''id'': 2, ''label'': ''Weight Loss''}'
-      - '{''id'': 3, ''label'': ''Injury Prevention''}'
+      - General Health
+      - Weight Loss
+      - Injury Prevention
       required: true
     - id: 6
       name: available_days
@@ -47,13 +47,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 7
       name: goal_date
@@ -103,12 +103,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mother''}'
-      - '{''id'': 2, ''label'': ''Father''}'
-      - '{''id'': 3, ''label'': ''Brother/Sister''}'
-      - '{''id'': 4, ''label'': ''Spouse''}'
-      - '{''id'': 5, ''label'': ''Child''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - Mother
+      - Father
+      - Brother/Sister
+      - Spouse
+      - Child
+      - Other
       required: false
     - id: 14
       name: emergency_address
@@ -151,11 +151,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1x/week''}'
-      - '{''id'': 2, ''label'': ''2x/week''}'
-      - '{''id'': 3, ''label'': ''3x/week''}'
-      - '{''id'': 4, ''label'': ''4x/week''}'
-      - '{''id'': 5, ''label'': ''5x/week''}'
+      - 1x/week
+      - 2x/week
+      - 3x/week
+      - 4x/week
+      - 5x/week
       required: true
     - id: 20
       name: payment_method
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Card''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Cash
+      - Card
+      - Bank Transfer
       required: true
     - id: 21
       name: payment_frequency
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Bi-Weekly''}'
+      - Monthly
+      - Weekly
+      - Bi-Weekly
       required: true
     - id: 22
       name: payment_amount

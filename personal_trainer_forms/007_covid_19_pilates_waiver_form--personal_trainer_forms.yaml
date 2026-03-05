@@ -23,168 +23,76 @@ inputSchema:
       required: false
     - id: 2
       name: covid_concerns
-      label: Covid 19 Concerns
+      label: Covid-19 Concerns
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: medical_condition
-      label: Medical Condition
+      label: Medical Conditions
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Pre-Existing Medical Conditions
+      - Recent Injuries
+      - Chronic Medical Issues
       required: false
     - id: 4
-      name: medical_condition_2
-      label: Health Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: emergency_contact
       label: Emergency Contact
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: emergency_contact_info
       label: Contact Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 6
       name: medical_history
       label: Medical History
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: medical_history_info
-      label: History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: medical_history_2
       label: Additional Medical History
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: emergency_contact_info_2
+    - id: 8
+      name: emergency_contact_2
       label: Contact Info 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: medical_history_3
-      label: Medical Condition 2
+    - id: 9
+      name: medical_condition_2
+      label: Health Conditions
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Heart Conditions
+      - Respiratory Conditions
+      - Immune System Issues
       required: false
-    - id: 12
+    - id: 10
       name: contact
       label: Contact
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: emergency_contact_2
-      label: Contact Info 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: medical_condition_3
-      label: Medical Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: medical_condition_4
-      label: Health Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: medical_history_4
-      label: Medical History 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+    - id: 11
       name: emergency_contact_3
       label: Contact Info 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contact_2
-      label: Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: medical_history_5
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: covid_concerns_2
-      label: Covid Concerns
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_condition_5
-      label: Medical Condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_condition_6
-      label: Health Condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_history_6
-      label: History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_history_7
-      label: Additional Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: medical_history_8
-      label: Medical History
       hint: null
       type: text
       options: []

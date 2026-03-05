@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -97,9 +86,9 @@ inputSchema:
       hint: I received vaccine information materials
       type: select_one
       options:
-        - Yes, received information
-        - No information provided
-        - Refused information
+      - Yes, received information
+      - No information provided
+      - Refused information
       required: true
     - id: 13
       name: pharm_understand_benefits
@@ -107,9 +96,9 @@ inputSchema:
       hint: Protection against COVID-19 infection
       type: select_one
       options:
-        - Yes, understand
-        - Have questions
-        - No
+      - Yes, understand
+      - Have questions
+      - 'False'
       required: true
     - id: 14
       name: pharm_understand_risks
@@ -117,9 +106,9 @@ inputSchema:
       hint: Understood vaccine risks and side effects
       type: select_one
       options:
-        - Yes, understand
-        - Have questions
-        - No
+      - Yes, understand
+      - Have questions
+      - 'False'
       required: true
     - id: 15
       name: pharm_medical_header
@@ -155,9 +144,9 @@ inputSchema:
       hint: Do you have a weakened immune system
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 20
       name: pharm_pregnancy_nursing
@@ -165,10 +154,10 @@ inputSchema:
       hint: Current pregnancy or nursing status
       type: select_one
       options:
-        - Pregnant
-        - Breastfeeding
-        - Neither
-        - Prefer Not to Say
+      - Pregnant
+      - Breastfeeding
+      - Neither
+      - Prefer Not to Say
       required: false
     - id: 21
       name: pharm_consent_statement_header
@@ -183,8 +172,8 @@ inputSchema:
       hint: I authorize the pharmacist to administer vaccine
       type: select_one
       options:
-        - I authorize
-        - I do not authorize
+      - I authorize
+      - I do not authorize
       required: true
     - id: 23
       name: pharm_voluntary_consent
@@ -192,8 +181,8 @@ inputSchema:
       hint: I am freely choosing this vaccination
       type: select_one
       options:
-        - Voluntary, not coerced
-        - Under pressure
+      - Voluntary, not coerced
+      - Under pressure
       required: true
     - id: 24
       name: pharm_truthful_information
@@ -201,8 +190,8 @@ inputSchema:
       hint: I confirm all information is accurate
       type: select_one
       options:
-        - Information is truthful
-        - Some inaccuracies may exist
+      - Information is truthful
+      - Some inaccuracies may exist
       required: true
     - id: 25
       name: pharm_consent_date

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Regular''}'
-      - '{''id'': 2, ''name'': ''VIP''}'
-      - '{''id'': 3, ''name'': ''Front Row''}'
+      - Regular
+      - VIP
+      - Front Row
       required: false
     - id: 4
       name: quantity
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''EUR''}'
-      - '{''id'': 2, ''name'': ''USD''}'
-      - '{''id'': 3, ''name'': ''GBP''}'
+      - EUR
+      - USD
+      - GBP
       required: false
     - id: 7
       name: name
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Skrill''}'
-      - '{''id'': 2, ''name'': ''PayPal''}'
+      - Skrill
+      - PayPal
       required: false
     - id: 11
       name: payment_method_other

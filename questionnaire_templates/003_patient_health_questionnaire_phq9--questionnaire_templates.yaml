@@ -4,217 +4,90 @@ inputSchema:
     title: Patient Health Questionnaire PHQ9
     pages:
     - id: 1
-      name: patient_health_questionnaire_phq9_page_1
+      name: general_symptoms
       label: General Symptoms
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
-      name: patient_health_questionnaire_phq9_page_2
+      name: physical_health
       label: Physical Health
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
-      name: patient_health_questionnaire_phq9_page_3
-      label: Psychological Health
+      name: social_relationships
+      label: Social Relationships
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
-      name: patient_health_questionnaire_phq9_page_4
-      label: Social Relationships
+      name: emotional_state
+      label: Emotional State
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 5
-      name: patient_health_questionnaire_phq9_page_5
-      label: Additional Health Information
+      name: health_concerns
+      label: Health Concerns
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: patient_health_questionnaire_phq9_page_6
-      label: General Symptoms
+      name: mental_health_history
+      label: Mental Health History
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 7
-      name: patient_health_questionnaire_phq9_page_7
-      label: Physical Health
+      name: physical_symptoms
+      label: Physical Symptoms
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 8
-      name: patient_health_questionnaire_phq9_page_8
-      label: Psychological Health
+      name: social_support
+      label: Social Support
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 9
-      name: patient_health_questionnaire_phq9_page_9
-      label: Social Relationships
+      name: emotional_support
+      label: Emotional Support
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 10
-      name: patient_health_questionnaire_phq9_page_10
-      label: Additional Health Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: patient_health_questionnaire_phq9_page_11
-      label: General Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: patient_health_questionnaire_phq9_page_12
-      label: Physical Health
+      name: mental_health_services
+      label: Mental Health Services
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 13
-      name: patient_health_questionnaire_phq9_page_13
-      label: Psychological Health
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: patient_health_questionnaire_phq9_page_14
-      label: Social Relationships
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: patient_health_questionnaire_phq9_page_15
-      label: Additional Health Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: patient_health_questionnaire_phq9_page_16
-      label: General Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: patient_health_questionnaire_phq9_page_17
-      label: Physical Health
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: patient_health_questionnaire_phq9_page_18
-      label: Psychological Health
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: patient_health_questionnaire_phq9_page_19
-      label: Social Relationships
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: patient_health_questionnaire_phq9_page_20
-      label: Additional Health Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: patient_health_questionnaire_phq9_page_21
-      label: General Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: patient_health_questionnaire_phq9_page_22
-      label: Physical Health
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: patient_health_questionnaire_phq9_page_23
-      label: Psychological Health
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: patient_health_questionnaire_phq9_page_24
-      label: Social Relationships
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: patient_health_questionnaire_phq9_page_25
-      label: Additional Health Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

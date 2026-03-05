@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit''}'
-      - '{''id'': 2, ''name'': ''debit''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - credit
+      - debit
+      - other
       required: false
     - id: 8
       name: payment_amount
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''paid''}'
-      - '{''id'': 2, ''name'': ''not_paid''}'
-      - '{''id'': 3, ''name'': ''partially_paid''}'
+      - paid
+      - not paid
+      - partially paid
       required: false
     - id: 10
       name: note
@@ -85,7 +85,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''jenny''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - chatjimmy
+      - jenny
+      - other
       required: false

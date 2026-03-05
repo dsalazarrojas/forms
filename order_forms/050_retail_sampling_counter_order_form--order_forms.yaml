@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product'', ''value'': ''Product''}'
-      - '{''id'': 2, ''label'': ''Sample'', ''value'': ''Sample''}'
+      - Product
+      - Sample
       required: true
     - id: 3
       name: customer_details
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''id'': 4, ''label'': ''Cancelled'', ''value'': ''Cancelled''}'
+      - Pending
+      - In Progress
+      - Completed
+      - Cancelled
       required: true
     - id: 12
       name: assigned_user
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy'', ''value'': ''Jimmy''}'
-      - '{''id'': 2, ''label'': ''John'', ''value'': ''John''}'
+      - Jimmy
+      - John
       required: true
     - id: 13
       name: assigned_date
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: retail_store_details
@@ -138,8 +138,8 @@ inputSchema:
       hint: Enter store name
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Store 1'', ''value'': ''Store 1''}'
-      - '{''id'': 2, ''label'': ''Store 2'', ''value'': ''Store 2''}'
+      - Store 1
+      - Store 2
       required: true
     - id: 19
       name: store_address

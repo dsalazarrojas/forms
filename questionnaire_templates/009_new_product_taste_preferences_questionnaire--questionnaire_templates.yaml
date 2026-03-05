@@ -19,7 +19,7 @@ inputSchema:
       required: false
     - id: 3
       name: product_name_hint
-      label: Product Name
+      label: Product Name Hint
       hint: null
       type: text
       options: []
@@ -30,9 +30,9 @@ inputSchema:
       hint: Select the taste you prefer for each of the products below
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: taste_preferences_hint
@@ -50,7 +50,7 @@ inputSchema:
       required: false
     - id: 7
       name: product_rating_hint
-      label: None
+      label: Product Rating Hint
       hint: null
       type: text
       options: []
@@ -64,7 +64,7 @@ inputSchema:
       required: false
     - id: 9
       name: time_to_complete_hint
-      label: None
+      label: Time To Complete Hint
       hint: null
       type: text
       options: []
@@ -78,7 +78,7 @@ inputSchema:
       required: false
     - id: 11
       name: email_hint
-      label: None
+      label: Email Hint
       hint: null
       type: text
       options: []
@@ -92,7 +92,7 @@ inputSchema:
       required: false
     - id: 13
       name: phone_hint
-      label: None
+      label: Phone Hint
       hint: null
       type: text
       options: []
@@ -106,7 +106,7 @@ inputSchema:
       required: false
     - id: 15
       name: date_hint
-      label: None
+      label: Date Hint
       hint: null
       type: text
       options: []
@@ -120,7 +120,7 @@ inputSchema:
       required: false
     - id: 17
       name: time_hint
-      label: None
+      label: Time Hint
       hint: null
       type: text
       options: []
@@ -134,7 +134,7 @@ inputSchema:
       required: false
     - id: 19
       name: product_name_hint_2
-      label: None
+      label: Product Name Hint 2
       hint: null
       type: text
       options: []
@@ -145,13 +145,13 @@ inputSchema:
       hint: Select the taste you prefer for each of the products below
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
       name: taste_preferences_2_hint
-      label: None
+      label: Taste Preferences 2 Hint
       hint: null
       type: text
       options: []
@@ -165,7 +165,7 @@ inputSchema:
       required: false
     - id: 23
       name: product_rating_2_hint
-      label: None
+      label: Product Rating 2 Hint
       hint: null
       type: text
       options: []
@@ -179,7 +179,7 @@ inputSchema:
       required: false
     - id: 25
       name: time_to_complete_2_hint
-      label: None
+      label: Time To Complete 2 Hint
       hint: null
       type: text
       options: []

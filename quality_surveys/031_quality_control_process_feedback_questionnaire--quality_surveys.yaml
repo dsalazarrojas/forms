@@ -5,206 +5,258 @@ inputSchema:
     pages:
     - id: 1
       name: quality_control_process_feedback
-      label: Quality Control Process Feedback
+      label: What is the quality control process feedback?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: quality_control_process
-      label: quality_control_process
+      label: Which of the following best describes your quality control process?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      - Quality
+      - Safety
+      - Compliance
       required: true
     - id: 3
       name: employee_feedback
-      label: Employee Feedback
+      label: What is your feedback about the employee feedback provided?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: comment
-      label: Comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: category
-      label: Category
+      name: issue_category
+      label: Which category best describes the issue you are reporting?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Quality''}'
-      - '{''id'': 2, ''label'': ''Safety''}'
-      - '{''id'': 3, ''label'': ''Compliance''}'
+      - Quality
+      - Safety
+      - Compliance
       required: true
-    - id: 6
-      name: date
-      label: Date
+    - id: 5
+      name: issue_date
+      label: Please provide a date for the issue reported.
       hint: null
       type: date
       options: []
       required: true
-    - id: 7
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 8
-      name: location
-      label: Location
+    - id: 6
+      name: issue_location
+      label: What is the location of the issue?
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 7
       name: department
-      label: Department
+      label: Which department is responsible for the quality control process?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Quality Assurance''}'
-      - '{''id'': 2, ''label'': ''Quality Control''}'
-      - '{''id'': 3, ''label'': ''Production''}'
+      - Quality Assurance
+      - Quality Control
+      - Production
       required: true
-    - id: 10
+    - id: 8
       name: employee_name
-      label: Employee Name
+      label: Please provide your employee name.
       hint: null
       type: text
       options: []
       required: true
-    - id: 11
-      name: email
-      label: Email
+    - id: 9
+      name: employee_email
+      label: What is your email?
       hint: null
       type: email
       options: []
       required: true
-    - id: 12
-      name: phone
-      label: Phone
+    - id: 10
+      name: employee_phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: note
-      label: Note
+    - id: 11
+      name: comment
+      label: Is there any additional comment about the issue?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 14
+    - id: 12
       name: submitted_by
-      label: Submitted By
+      label: Which users submitted this report?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''User 1''}'
-      - '{''id'': 2, ''label'': ''User 2''}'
-      - '{''id'': 3, ''label'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: true
-    - id: 15
+    - id: 13
       name: submitted_on
-      label: Submitted On
+      label: When was the report submitted?
       hint: null
       type: date
       options: []
       required: true
-    - id: 16
+    - id: 14
       name: submitted_at
-      label: Submitted At
+      label: At what time was the report submitted?
       hint: null
       type: time
       options: []
       required: true
-    - id: 17
+    - id: 15
       name: category
-      label: Category
+      label: What category is this report under?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Quality''}'
-      - '{''id'': 2, ''label'': ''Safety''}'
-      - '{''id'': 3, ''label'': ''Compliance''}'
+      - Quality
+      - Safety
+      - Compliance
+      required: false
+    - id: 16
+      name: department_2
+      label: Which department is this report under?
+      hint: null
+      type: select_multiple
+      options:
+      - Quality Assurance
+      - Quality Control
+      - Production
+      required: false
+    - id: 17
+      name: submitted_users
+      label: Submitted Users
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
       required: false
     - id: 18
-      name: department
-      label: Department
+      name: submitted_time
+      label: At what time was this report submitted?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Quality Assurance''}'
-      - '{''id'': 2, ''label'': ''Quality Control''}'
-      - '{''id'': 3, ''label'': ''Production''}'
+      - Time 1
+      - Time 2
+      - Time 3
       required: false
     - id: 19
-      name: employee_name
-      label: Employee Name
+      name: submitted_date
+      label: When was this report submitted?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Date 1
+      - Date 2
+      - Date 3
       required: false
     - id: 20
-      name: location
-      label: Location
+      name: submitted_at_2
+      label: Submitted At 2
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
       required: false
     - id: 21
-      name: comment
-      label: Comment
+      name: additional_comment
+      label: Any additional comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: submitted_by
-      label: Submitted By
+      name: submitted_by_category
+      label: Which category is this report under?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''User 1''}'
-      - '{''id'': 2, ''label'': ''User 2''}'
-      - '{''id'': 3, ''label'': ''User 3''}'
+      - Quality
+      - Safety
+      - Compliance
       required: false
     - id: 23
-      name: submitted_on
-      label: Submitted On
+      name: submitted_by_department
+      label: Submitted By Department
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Date 1''}'
-      - '{''id'': 2, ''label'': ''Date 2''}'
-      - '{''id'': 3, ''label'': ''Date 3''}'
+      - Quality Assurance
+      - Quality Control
+      - Production
       required: false
     - id: 24
-      name: submitted_at
-      label: Submitted At
+      name: submitted_by_users
+      label: Submitted By Users
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Time 1''}'
-      - '{''id'': 2, ''label'': ''Time 2''}'
-      - '{''id'': 3, ''label'': ''Time 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: false
     - id: 25
-      name: category
-      label: Category
+      name: submitted_by_date
+      label: Submitted By Date
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Quality''}'
-      - '{''id'': 2, ''label'': ''Safety''}'
-      - '{''id'': 3, ''label'': ''Compliance''}'
+      - Date 1
+      - Date 2
+      - Date 3
+      required: false
+    - id: 26
+      name: submitted_by_time
+      label: Submitted By Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 27
+      name: submitted_by_category_2
+      label: Submitted By Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - Quality
+      - Safety
+      - Compliance
+      required: false
+    - id: 28
+      name: submitted_by_department_2
+      label: Submitted By Department 2
+      hint: null
+      type: select_multiple
+      options:
+      - Quality Assurance
+      - Quality Control
+      - Production
+      required: false
+    - id: 29
+      name: submitted_by_2
+      label: Submitted By 2
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
       required: false

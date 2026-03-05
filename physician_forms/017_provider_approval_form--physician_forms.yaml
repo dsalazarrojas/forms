@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: address
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 9
       name: practice_type
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Hospital''}'
-      - '{''label'': ''Clinic''}'
+      - Doctor
+      - Hospital
+      - Clinic
       required: false
     - id: 10
       name: assigned_provider
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jim''}'
-      - '{''label'': ''Jane''}'
-      - '{''label'': ''Bob''}'
+      - Jim
+      - Jane
+      - Bob
       required: false
     - id: 11
       name: onboarding_status
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''In progress''}'
+      - Completed
+      - Pending
+      - In progress
       required: false
     - id: 12
       name: onboard_date
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: onboarded_date
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jim''}'
-      - '{''label'': ''Jane''}'
-      - '{''label'': ''Bob''}'
+      - Jim
+      - Jane
+      - Bob
       required: false
     - id: 20
       name: onboarded_comment

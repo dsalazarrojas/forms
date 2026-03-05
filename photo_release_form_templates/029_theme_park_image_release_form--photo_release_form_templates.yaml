@@ -15,215 +15,87 @@ inputSchema:
     title: Theme Park Image Release Form
     pages:
     - id: 1
-      name: theme_park_image_release_form_page_1
-      label: Guest Information
+      name: guest_info_1
+      label: Guest's Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: guest_info_2
+      name: guest_email_2
       label: Guest's Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: guest_info_3
+      name: guest_phone_3
       label: Guest's Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: photo_release_4
       label: Photo Release
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Photo Release Option 1
+      - Photo Release Option 2
+      - Photo Release Option 3
       required: true
     - id: 5
-      name: photo_release_5
-      label: Photo Release
+      name: event_info_5
+      label: Event
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Event Option 1
+      - Event Option 2
+      - Event Option 3
       required: true
     - id: 6
-      name: video_release_6
-      label: Video Release
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 7
-      name: event_info_7
-      label: Event
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 8
-      name: event_info_8
-      label: Event
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 9
-      name: photo_release_9
+      name: additional_photos_6
       label: Additional Photos
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Additional Photo 1
+      - Additional Photo 2
+      - Additional Photo 3
       required: true
-    - id: 10
-      name: photo_release_10
-      label: Photo Release
+    - id: 7
+      name: guest_services_7
+      label: Guest Services
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: photo_release_11
-      label: Photo Release
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: photo_release_12
+      type: select_multiple
+      options:
+      - Guest Service 1
+      - Guest Service 2
+      - Guest Service 3
+      required: true
+    - id: 8
+      name: date_of_birth_8
       label: Date of Birth
       hint: null
       type: date
       options: []
-      required: false
-    - id: 13
-      name: photo_release_13
-      label: Photo Release
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: guest_services_14
-      label: Guest Services
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
       required: true
-    - id: 15
-      name: photo_release_15
-      label: Photo Release
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 16
-      name: guest_services_16
-      label: Guest Services
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 17
-      name: event_info_17
-      label: Event
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 18
-      name: event_info_18
-      label: Event
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 19
-      name: event_info_19
-      label: Event
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 20
-      name: photo_release_20
-      label: Photo Release
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 21
-      name: photo_release_21
-      label: Photo Release
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: photo_release_22
-      label: Photo Release
+    - id: 9
+      name: time_of_event_9
+      label: Event Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 23
-      name: photo_release_23
-      label: Photo Release
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
       required: true
-    - id: 24
-      name: guest_services_24
-      label: Guest Services
+    - id: 10
+      name: photo_release_10
+      label: Photo Release 10
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Photo Release Option 1
+      - Photo Release Option 2
+      - Photo Release Option 3
       required: true

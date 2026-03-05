@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Apple Pay''}'
+      - Credit Card
+      - PayPal
+      - Apple Pay
       required: false
     - id: 3
       name: payment_amount
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: email

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''0.00''}'
-      - '{''value'': ''10.00''}'
-      - '{''value'': ''20.00''}'
+      - '0.00'
+      - '10.00'
+      - '20.00'
       required: true
     - id: 7
       name: order_notes
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Shipped''}'
-      - '{''value'': ''Cancelled''}'
+      - Pending
+      - Shipped
+      - Cancelled
       required: false
     - id: 17
       name: customer_notes
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''0.00''}'
-      - '{''value'': ''5.00''}'
-      - '{''value'': ''10.00''}'
+      - '0.00'
+      - '5.00'
+      - '10.00'
       required: true
     - id: 21
       name: tax
@@ -179,8 +179,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cash''}'
-      - '{''value'': ''Credit''}'
+      - Cash
+      - Credit
       required: true
     - id: 25
       name: payment_method_other
@@ -188,6 +188,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Check''}'
-      - '{''value'': ''Bank transfer''}'
+      - Check
+      - Bank transfer
       required: false

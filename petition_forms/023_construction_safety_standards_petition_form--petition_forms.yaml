@@ -1,67 +1,56 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Construction Safety Standards Petition Form
     pages:
-      - id: 1
-        name: section_petitioner_information
-        label: -- Petitioner Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: signer_name
-        label: Signer name
-        hint: Full name of petitioner
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: organization
-        label: Organization
-        hint: Employer or affiliation if applicable
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: contact_email
-        label: Contact email
-        hint: For updates about the petition
-        type: email
-        options: []
-        required: false
-      - id: 5
-        name: support_statement
-        label: Support statement
-        hint: Reason for supporting the safety standard change
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: region
-        label: Region
-        hint: Jurisdiction or area this petition pertains to
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: permission_to_publish
-        label: Permission to publish name
-        hint: Allow your name to be published with petition signatures
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: section_petitioner_information
+      label: -- Petitioner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: signer_name
+      label: Signer name
+      hint: Full name of petitioner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Employer or affiliation if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For updates about the petition
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: support_statement
+      label: Support statement
+      hint: Reason for supporting the safety standard change
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: region
+      label: Region
+      hint: Jurisdiction or area this petition pertains to
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: permission_to_publish
+      label: Permission to publish name
+      hint: Allow your name to be published with petition signatures
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''meeting'', ''label'': ''Meeting''}'
-      - '{''id'': 2, ''name'': ''call'', ''label'': ''Call''}'
-      - '{''id'': 3, ''name'': ''call_meeting'', ''label'': ''Call Meeting''}'
+      - Meeting
+      - Call
+      - Call Meeting
       required: true
     - id: 6
       name: location
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''online'', ''label'': ''Online''}'
-      - '{''id'': 2, ''name'': ''offline'', ''label'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 7
       name: start_time
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''user_1'', ''label'': ''User 1''}'
-      - '{''id'': 2, ''name'': ''user_2'', ''label'': ''User 2''}'
+      - User 1
+      - User 2
       required: true
     - id: 11
       name: meeting_location
@@ -86,6 +86,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''location_1'', ''label'': ''Location 1''}'
-      - '{''id'': 2, ''name'': ''location_2'', ''label'': ''Location 2''}'
+      - Location 1
+      - Location 2
       required: false

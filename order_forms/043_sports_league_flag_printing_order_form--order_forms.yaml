@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Custom'', ''value'': ''custom''}'
-      - '{''id'': 2, ''label'': ''Stock'', ''value'': ''stock''}'
+      - Custom
+      - Stock
       required: false
     - id: 3
       name: quantity
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Flag'', ''value'': ''flag''}'
-      - '{''id'': 2, ''label'': ''Banner'', ''value'': ''banner''}'
-      - '{''id'': 3, ''label'': ''Banners'', ''value'': ''banners''}'
+      - Flag
+      - Banner
+      - Banners
       required: false
     - id: 5
       name: artwork
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Flag'', ''value'': ''flag''}'
-      - '{''id'': 2, ''label'': ''Number'', ''value'': ''number''}'
-      - '{''id'': 3, ''label'': ''Logo'', ''value'': ''logo''}'
+      - Flag
+      - Number
+      - Logo
       required: false
     - id: 6
       name: color_scheme
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monochrome'', ''value'': ''monochrome''}'
-      - '{''id'': 2, ''label'': ''Multicolor'', ''value'': ''multicolor''}'
+      - Monochrome
+      - Multicolor
       required: false
     - id: 7
       name: payment_type
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Payment'', ''value'': ''payment''}'
-      - '{''id'': 2, ''label'': ''Deposit'', ''value'': ''deposit''}'
+      - Payment
+      - Deposit
       required: false
     - id: 8
       name: payment_amount
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small'', ''value'': ''small''}'
-      - '{''id'': 2, ''label'': ''Large'', ''value'': ''large''}'
-      - '{''id'': 3, ''label'': ''Extra Large'', ''value'': ''extra_large''}'
+      - Small
+      - Large
+      - Extra Large
       required: false
     - id: 10
       name: quantity_artwork
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Single'', ''value'': ''single''}'
-      - '{''id'': 2, ''label'': ''Dual'', ''value'': ''dual''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      - Single
+      - Dual
+      - Both
       required: false
     - id: 24
       name: team_name_size_other

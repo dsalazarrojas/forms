@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Analytical Method''}'
-      - '{''id'': 2, ''name'': ''Approximation''}'
-      - '{''id'': 3, ''name'': ''Numerical Method''}'
+      - Analytical Method
+      - Approximation
+      - Numerical Method
       required: false
     - id: 3
       name: survey_question
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Analytical''}'
-      - '{''id'': 2, ''name'': ''Approximation''}'
-      - '{''id'': 3, ''name'': ''Numerical''}'
+      - Analytical
+      - Approximation
+      - Numerical
       required: true
     - id: 8
       name: frequency_of_use
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 9
       name: time_of_day
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Easy''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Hard''}'
+      - Easy
+      - Medium
+      - Hard
       required: true
     - id: 12
       name: satisfaction_level
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Satisfied''}'
-      - '{''id'': 2, ''name'': ''Neutral''}'
-      - '{''id'': 3, ''name'': ''Dissatisfied''}'
+      - Satisfied
+      - Neutral
+      - Dissatisfied
       required: true
     - id: 13
       name: recommendation
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: comments

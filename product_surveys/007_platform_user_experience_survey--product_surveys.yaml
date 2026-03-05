@@ -4,196 +4,141 @@ inputSchema:
     title: platform_user_experience_survey
     pages:
     - id: 1
-      name: platform_user_experience_survey_page_1
-      label: introduction
+      name: introduction
+      label: What is your experience with our platform?
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: platform_user_experience_survey_page_2
-      label: satisfaction
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: platform_user_experience_survey_page_3
-      label: product_improvement
+      name: user_satisfaction
+      label: How satisfied are you with the platform?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_satisfied''}'
-      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
-      - '{''id'': 3, ''name'': ''not_satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 3
+      name: product_improvement
+      label: What features would you like to see added or improved?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 4
-      name: platform_user_experience_survey_page_4
-      label: issue_description
+      name: issue_description
+      label: Describe any issues you've encountered with the platform
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: platform_user_experience_survey_page_5
-      label: feedback
+      name: feedback
+      label: Do you have any feedback or suggestions for the platform?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: platform_user_experience_survey_page_6
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: platform_user_experience_survey_page_7
-      label: contact_number
+      name: contact_info
+      label: What is your email address and phone number?
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: platform_user_experience_survey_page_8
-      label: preferred_channel
+    - id: 7
+      name: preferred_channel
+      label: Do you prefer to communicate through email, in-app, phone, or other?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''email''}'
-      - '{''id'': 2, ''name'': ''in_app''}'
-      - '{''id'': 3, ''name'': ''phone''}'
-      - '{''id'': 4, ''name'': ''inperson''}'
-      - '{''id'': 5, ''name'': ''other''}'
+      - Email
+      - In-App
+      - Phone
+      - Other
+      required: true
+    - id: 8
+      name: other_info
+      label: Do you have any other comments or details to share?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 9
-      name: platform_user_experience_survey_page_9
-      label: other_info
+      name: comments
+      label: Is there anything else you'd like to add or comment on?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: platform_user_experience_survey_page_10
-      label: comments
+      name: conclusion
+      label: What are your final thoughts on the platform?
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
+      required: true
     - id: 11
-      name: platform_user_experience_survey_page_11
-      label: survey_conclusion
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: platform_user_experience_survey_page_12
-      label: terms_and_conditions
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: platform_user_experience_survey_page_13
-      label: platform_user_experience_survey
+      name: terms_and_conditions
+      label: Have you read and understood the terms and conditions?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''maybe''}'
-      required: false
-    - id: 14
-      name: platform_user_experience_survey_page_14
-      label: date
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: date_completed
+      label: What date did you complete this survey?
       hint: null
       type: date
       options: []
       required: false
-    - id: 15
-      name: platform_user_experience_survey_page_15
-      label: time
+    - id: 13
+      name: time_completed
+      label: What time did you complete this survey?
       hint: null
       type: time
       options: []
       required: false
-    - id: 16
-      name: platform_user_experience_survey_page_16
-      label: platform_user_experience_survey
+    - id: 14
+      name: rating
+      label: How would you rate the platform overall?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: platform_experience
+      label: Describe your overall experience with the platform?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: platform_user_experience_survey_page_17
-      label: platform_user_experience_survey
+      required: true
+    - id: 16
+      name: platform_contact
+      label: What is your preferred method of contact (email, in-app, phone, etc.)?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2''}'
-      - '{''id'': 3, ''name'': ''option_3''}'
-      - '{''id'': 4, ''name'': ''option_4''}'
-      - '{''id'': 5, ''name'': ''option_5''}'
-      required: false
+      - Email
+      - In-App
+      - Phone
+      - Other
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Do you have any additional comments or thoughts?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 18
-      name: platform_user_experience_survey_page_18
-      label: platform_user_experience_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: platform_user_experience_survey_page_19
-      label: platform_user_experience_survey
+      name: final_comments
+      label: Are there any final comments or thoughts you'd like to add?
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 20
-      name: platform_user_experience_survey_page_20
-      label: platform_user_experience_survey
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: platform_user_experience_survey_page_21
-      label: platform_user_experience_survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: platform_user_experience_survey_page_22
-      label: platform_user_experience_survey
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2''}'
-      - '{''id'': 3, ''name'': ''option_3''}'
-      required: false
-    - id: 23
-      name: platform_user_experience_survey_page_23
-      label: platform_user_experience_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: platform_user_experience_survey_page_24
-      label: platform_user_experience_survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: platform_user_experience_survey_page_25
-      label: platform_user_experience_survey
-      hint: null
-      type: note
       options: []
       required: false

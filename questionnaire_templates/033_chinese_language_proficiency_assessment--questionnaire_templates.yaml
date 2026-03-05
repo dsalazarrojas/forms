@@ -1,89 +1,78 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chinese Language Proficiency Assessment
     pages:
-      - id: 1
-        name: candidate_name
-        label: Candidate Name
-        hint: Full name of examinee
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: date_of_birth
-        label: Date of Birth
-        hint: Optional for placement records
-        type: date
-        options: []
-        required: false
-      - id: 3
-        name: contact_email
-        label: Contact Email
-        hint: Email for results delivery
-        type: email
-        options: []
-        required: false
-      - id: 4
-        name: proficiency_goal
-        label: Proficiency Goal
-        hint: e.g., Conversational, Academic, Professional
-        type: select_one
-        options:
-          - Conversational
-          - Academic
-          - Professional
-          - Examination Preparation
-        required: true
-      - id: 5
-        name: listening_sample
-        label: Listening Sample Provided
-        hint: Note if audio sample was provided
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 6
-        name: reading_level_assessment
-        label: Reading Level Assessment
-        hint: Short reading comprehension task result
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: speaking_rating
-        label: Speaking Rating
-        hint: Examiner rating for spoken proficiency
-        type: select_one
-        options:
-          - Beginner
-          - Intermediate
-          - Upper Intermediate
-          - Advanced
-        required: true
-      - id: 8
-        name: writing_sample
-        label: Writing Sample Notes
-        hint: Brief evaluation of writing sample
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: recommended_level
-        label: Recommended Placement Level
-        hint: Suggested course or level placement
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: Full name of examinee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Optional for placement records
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for results delivery
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: proficiency_goal
+      label: Proficiency Goal
+      hint: e.g., Conversational, Academic, Professional
+      type: select_one
+      options:
+      - Conversational
+      - Academic
+      - Professional
+      - Examination Preparation
+      required: true
+    - id: 5
+      name: listening_sample
+      label: Listening Sample Provided
+      hint: Note if audio sample was provided
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: reading_level_assessment
+      label: Reading Level Assessment
+      hint: Short reading comprehension task result
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaking_rating
+      label: Speaking Rating
+      hint: Examiner rating for spoken proficiency
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Upper Intermediate
+      - Advanced
+      required: true
+    - id: 8
+      name: writing_sample
+      label: Writing Sample Notes
+      hint: Brief evaluation of writing sample
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_level
+      label: Recommended Placement Level
+      hint: Suggested course or level placement
+      type: text
+      options: []
+      required: true

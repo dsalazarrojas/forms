@@ -31,11 +31,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Housing''}'
-      - '{''id'': 2, ''label'': ''Transportation''}'
-      - '{''id'': 3, ''label'': ''Public Safety''}'
-      - '{''id'': 4, ''label'': ''Public Spaces''}'
-      - '{''id'': 5, ''label'': ''Other (please specify)''}'
+      - Housing
+      - Transportation
+      - Public Safety
+      - Public Spaces
+      - Other (please specify)
       required: false
     - id: 5
       name: satisfaction_score_2
@@ -50,11 +50,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Public Parks''}'
-      - '{''id'': 2, ''label'': ''Public Schools''}'
-      - '{''id'': 3, ''label'': ''Public Libraries''}'
-      - '{''id'': 4, ''label'': ''Public Restrooms''}'
-      - '{''id'': 5, ''label'': ''Public Sports Facilities''}'
+      - Public Parks
+      - Public Schools
+      - Public Libraries
+      - Public Restrooms
+      - Public Sports Facilities
       required: false
     - id: 7
       name: neighborhood_priorities
@@ -62,12 +62,12 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Affordable Housing''}'
-      - '{''id'': 2, ''label'': ''Community Engagement''}'
-      - '{''id'': 3, ''label'': ''Local Businesses''}'
-      - '{''id'': 4, ''label'': ''Public Transportation''}'
-      - '{''id'': 5, ''label'': ''Safety and Security''}'
-      - '{''id'': 6, ''label'': ''Other (please specify)''}'
+      - Affordable Housing
+      - Community Engagement
+      - Local Businesses
+      - Public Transportation
+      - Safety and Security
+      - Other (please specify)
       required: false
     - id: 8
       name: neighborhood_satisfaction

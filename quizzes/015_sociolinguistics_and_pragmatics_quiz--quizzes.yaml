@@ -4,182 +4,59 @@ inputSchema:
     title: Sociolinguistics And Pragmatics Quiz
     pages:
     - id: 1
-      name: sociolinguistics_and_pragmatics_quiz_form
-      label: Sociolinguistics And Pragmatics Quiz Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: sociolinguistics_and_pragmatics_quiz_form_question
-      label: Sociolinguistics And Pragmatics Quiz Form Question
+      name: educator_name
+      label: Educator Name
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: educator_email
+      label: Educator Email
+      hint: null
+      type: email
+      options: []
+      required: false
     - id: 3
-      name: sociolinguistics_and_pragmatics_quiz_form_question_type
-      label: Sociolinguistics And Pragmatics Quiz Form Question Type
+      name: educator_phone
+      label: Educator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_type
+      label: Quiz Type
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: true
-    - id: 4
-      name: sociolinguistics_and_pragmatics_quiz_form_response
-      label: Sociolinguistics And Pragmatics Quiz Form Response
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: sociolinguistics_and_pragmatics_quiz_form_answer
-      label: Sociolinguistics And Pragmatics Quiz Form Answer
-      hint: null
-      type: text
-      options: []
-      required: true
+      required: false
     - id: 6
-      name: sociolinguistics_and_pragmatics_quiz_form_educator
-      label: Sociolinguistics And Pragmatics Quiz Form Educator
+      name: quiz_response
+      label: Quiz Response
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_email
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Email
+      name: institution_url
+      label: Institution URL
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 8
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_phone
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_url
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_email
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_phone
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_type
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_url
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_notes
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: sociolinguistics_and_pragmatics_quiz_form_response_type
-      label: Sociolinguistics And Pragmatics Quiz Form Response Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: sociolinguistics_and_pragmatics_quiz_form_response
-      label: Sociolinguistics And Pragmatics Quiz Form Response
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: sociolinguistics_and_pragmatics_quiz_form_answer_type
-      label: Sociolinguistics And Pragmatics Quiz Form Answer Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: sociolinguistics_and_pragmatics_quiz_form_educator
-      label: Sociolinguistics And Pragmatics Quiz Form Educator
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_email
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_phone
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_url
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_email
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: sociolinguistics_and_pragmatics_quiz_form_educator_institution_phone
-      label: Sociolinguistics And Pragmatics Quiz Form Educator Institution Phone
+      name: institution_notes
+      label: Institution Notes
       hint: null
       type: text
       options: []

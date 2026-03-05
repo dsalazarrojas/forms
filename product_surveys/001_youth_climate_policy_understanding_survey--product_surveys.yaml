@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Low''}'
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''High''}'
-      - '{''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Neutral
+      - High
+      - Very High
       required: false
     - id: 3
       name: climate_policy_awareness_score
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Not At All''}'
-      - '{''label'': ''Somewhat''}'
-      - '{''label'': ''Very Well''}'
+      - Not At All
+      - Somewhat
+      - Very Well
       required: false
     - id: 5
       name: attitudes_towards_climate_policy
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Positive''}'
+      - Negative
+      - Neutral
+      - Positive
       required: false
     - id: 6
       name: ideas_for_climate_policy
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Very Significant''}'
-      - '{''label'': ''Somewhat Significant''}'
-      - '{''label'': ''Very Significant''}'
+      - Not Very Significant
+      - Somewhat Significant
+      - Very Significant
       required: false
     - id: 9
       name: climate_change_impacts_score
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Very Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Very Likely''}'
+      - Not Very Likely
+      - Somewhat Likely
+      - Very Likely
       required: false
     - id: 12
       name: climate_change_adaptation
@@ -103,13 +103,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Very Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Very Likely''}'
+      - Not Very Likely
+      - Somewhat Likely
+      - Very Likely
       required: false
     - id: 13
-      name: climate_change_impacts_score
-      label: Climate Change Impacts Score
+      name: climate_change_impacts_score_2
+      label: Climate Change Impacts Score 2
       hint: null
       type: number
       options: []
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 15
       name: climate_change_action_plan_score
@@ -143,20 +143,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not At All''}'
-      - '{''label'': ''Somewhat''}'
-      - '{''label'': ''Very Well''}'
+      - Not At All
+      - Somewhat
+      - Very Well
       required: false
     - id: 18
       name: climate_change_mitigation_score
-      label: Climate Change Mitigation
+      label: Climate Change Mitigation Score
       hint: null
       type: number
       options: []
       required: false
     - id: 19
       name: climate_change_adaptation_score
-      label: Climate Change Adaptation
+      label: Climate Change Adaptation Score
       hint: null
       type: number
       options: []
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Very Likely''}'
-      - '{''label'': ''Somewhat Likely''}'
-      - '{''label'': ''Very Likely''}'
+      - Not Very Likely
+      - Somewhat Likely
+      - Very Likely
       required: false
     - id: 21
       name: youth_participation_in_climate_policy_score
@@ -186,8 +186,8 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: climate_policy_awareness_score
-      label: Climate Policy Awareness Score
+      name: climate_policy_awareness_score_2
+      label: Climate Policy Awareness Score 2
       hint: null
       type: number
       options: []

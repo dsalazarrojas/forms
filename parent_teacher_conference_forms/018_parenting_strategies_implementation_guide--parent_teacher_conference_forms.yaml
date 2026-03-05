@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Parent-Teacher''}'
-      - '{''value'': ''School''}'
-      - '{''value'': ''Community''}'
+      - Parent-Teacher
+      - School
+      - Community
       required: true
     - id: 12
       name: category_other
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''School''}'
-      - '{''value'': ''Community''}'
+      - School
+      - Community
       required: false
     - id: 13
       name: approach
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Positive Behavioral Support''}'
-      - '{''value'': ''Crisis Intervention''}'
+      - Positive Behavioral Support
+      - Crisis Intervention
       required: false
     - id: 14
       name: goal
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: comments

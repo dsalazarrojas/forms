@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 5, ''label'': ''Excellent''}'
-      - '{''value'': 4, ''label'': ''Good''}'
-      - '{''value'': 3, ''label'': ''Fair''}'
-      - '{''value'': 2, ''label'': ''Poor''}'
-      - '{''value'': 1, ''label'': ''Bad''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Bad
       required: true
     - id: 3
       name: product_comment
@@ -63,12 +63,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mobile'', ''label'': ''Mobile''}'
-      - '{''value'': ''Laptops'', ''label'': ''Laptops''}'
-      - '{''value'': ''Tablets'', ''label'': ''Tablets''}'
-      - '{''value'': ''Desktop'', ''label'': ''Desktop''}'
-      - '{''value'': ''Wearable'', ''label'': ''Wearable''}'
-      - '{''value'': ''Gaming Console'', ''label'': ''Gaming Console''}'
+      - Mobile
+      - Laptops
+      - Tablets
+      - Desktop
+      - Wearable
+      - Gaming Console
       required: true
     - id: 9
       name: operating_system
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''windows'', ''label'': ''Windows''}'
-      - '{''value'': ''mac'', ''label'': ''Mac''}'
-      - '{''value'': ''android'', ''label'': ''Android''}'
+      - Windows
+      - Mac
+      - Android
       required: true
     - id: 10
       name: purchase_date

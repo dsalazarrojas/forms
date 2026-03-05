@@ -9,177 +9,52 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: participant_info
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: payment_consent
-      label: Payment Consent
-      hint: null
-      type: select_multiple
-      options:
-      - Accept to proceed
-      - Not Accept
-      - Decline
-      required: true
-    - id: 4
-      name: waiver_acknowledgment
-      label: Waiver Acknowledgment
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: participant_signature
-      label: Participant Signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: participant_info_2
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: payment_method
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - Card Number
-      - Bank Transfer
-      - Bank Account
-      required: true
-    - id: 8
-      name: bank_account_info
-      label: Bank Account Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: participant_phone
       label: Participant Phone
-      hint: 'Format: (123) 456-7890'
+      hint: Format - (123) 456-7890
       type: text
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 3
       name: participant_email
       label: Participant E-mail
-      hint: 'Format: [user@domain.tld](http://example.com)'
+      hint: Format - user@domain.tld
       type: email
       options: []
       required: true
-    - id: 11
-      name: waiver_uploads
-      label: Waiver Uploads
+    - id: 4
+      name: payment_consent
+      label: Payment Consent
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 5
+      name: waiver_acknowledgment
+      label: Waiver Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
       name: uploaded_waiver_file
       label: Upload Waiver
       hint: null
       type: text
       options: []
       required: true
-    - id: 13
-      name: participant_info_3
-      label: Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: participant_signature_2
-      label: Participant Signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: uploaded_waiver_files_2
-      label: Upload Waiver
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: uploaded_waiver_file2
-      label: Upload Waiver 1
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: uploaded_waiver_file_3
+    - id: 7
+      name: uploaded_waiver_file_2
       label: Upload Waiver 2
       hint: null
       type: text
       options: []
       required: true
-    - id: 18
-      name: uploaded_waiver_file_4
+    - id: 8
+      name: uploaded_waiver_file_3
       label: Upload Waiver 3
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: uploaded_waiver_file_5
-      label: Upload Waiver 4
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: uploaded_waiver_file_6
-      label: Upload Waiver 5
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: uploaded_waiver_file_7
-      label: Upload Waiver 6
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: uploaded_waiver_file_8
-      label: Upload Waiver 7
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: uploaded_waiver_file_9
-      label: Upload Waiver 8
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: uploaded_waiver_file_10
-      label: Upload Waiver 9
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: uploaded_waiver_file_11
-      label: Upload Waiver 10
       hint: null
       type: text
       options: []

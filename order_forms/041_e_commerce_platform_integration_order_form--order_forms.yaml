@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Shopify''}'
-      - '{''id'': ''2'', ''label'': ''Woocommerce''}'
-      - '{''id'': ''3'', ''label'': ''BigCommerce''}'
+      - Shopify
+      - Woocommerce
+      - BigCommerce
       required: true
     - id: 3
       name: order_date
@@ -40,9 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''label'': ''API''}'
-      - '{''id'': ''2'', ''label'': ''API''}'
-      - '{''id'': ''3'', ''label'': ''API''}'
+      - API
+      - Other
       required: true
     - id: 6
       name: notes
@@ -85,9 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Full Integration''}'
-      - '{''id'': ''2'', ''label'': ''Partial Integration''}'
-      - '{''id'': ''3'', ''label'': ''Full Integration''}'
+      - Full Integration
+      - Partial Integration
       required: true
     - id: 12
       name: order_status
@@ -95,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''label'': ''New''}'
-      - '{''id'': ''2'', ''label'': ''Pending''}'
-      - '{''id'': ''3'', ''label'': ''Cancelled''}'
+      - New
+      - Pending
+      - Cancelled
       required: true
     - id: 13
       name: payment_method
@@ -105,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Card''}'
-      - '{''id'': ''2'', ''label'': ''PayPal''}'
-      - '{''id'': ''3'', ''label'': ''Bank''}'
+      - Card
+      - PayPal
+      - Bank
       required: true
     - id: 14
       name: shipping_address
@@ -122,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''English''}'
-      - '{''id'': ''2'', ''label'': ''Spanish''}'
-      - '{''id'': ''3'', ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: true
     - id: 16
       name: customer_name
@@ -155,53 +153,52 @@ inputSchema:
       options: []
       required: true
     - id: 20
-      name: notes
-      label: Additional Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: note
       options: []
       required: false
     - id: 21
-      name: api_credentials
-      label: API Credentials
+      name: api_credentials_2
+      label: Api Credentials 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: store_url
-      label: Store URL
+      name: store_url_2
+      label: Store Url 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: order_status
-      label: Order Status
+      name: order_status_2
+      label: Order Status 2
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''New''}'
-      - '{''id'': ''2'', ''label'': ''Pending''}'
-      - '{''id'': ''3'', ''label'': ''Cancelled''}'
+      - New
+      - Pending
+      - Cancelled
       required: true
     - id: 24
-      name: integration_type
-      label: Integration Type
+      name: integration_type_2
+      label: Integration Type 2
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Full Integration''}'
-      - '{''id'': ''2'', ''label'': ''Partial Integration''}'
-      - '{''id'': ''3'', ''label'': ''Full Integration''}'
+      - Full Integration
+      - Partial Integration
       required: true
     - id: 25
-      name: payment_method
-      label: Payment Method
+      name: payment_method_2
+      label: Payment Method 2
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Card''}'
-      - '{''id'': ''2'', ''label'': ''PayPal''}'
-      - '{''id'': ''3'', ''label'': ''Bank''}'
+      - Card
+      - PayPal
+      - Bank
       required: true

@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Truck''}'
-      - '{''id'': 3, ''label'': ''Bus''}'
+      - Car
+      - Truck
+      - Bus
       required: false
     - id: 8
       name: driver_name
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 11
       name: payment_date
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid''}'
-      - '{''id'': 2, ''label'': ''Not Paid''}'
+      - Paid
+      - Not Paid
       required: false
     - id: 18
       name: payment_notes
@@ -171,8 +171,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Stripe''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
+      - Stripe
+      - PayPal
       required: false
     - id: 24
       name: payment_currency
@@ -180,7 +180,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
+      - USD
       - Other
       required: false
     - id: 25
@@ -189,7 +189,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Approved
+      - Rejected
+      - In Progress
       required: false

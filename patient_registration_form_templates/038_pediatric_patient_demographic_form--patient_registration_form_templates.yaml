@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2, ''name'': ''Male''}'
-      - '{''id'': 3, ''name'': ''Female''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 3
       name: patient_dob
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14, ''name'': ''California''}'
-      - '{''id'': 15, ''name'': ''Florida''}'
-      - '{''id'': 16, ''name'': ''Other''}'
+      - California
+      - Florida
+      - Other
       required: false
     - id: 15
       name: patient_country
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15, ''name'': ''United States''}'
-      - '{''id'': 16, ''name'': ''Other''}'
+      - United States
+      - Other
       required: false
     - id: 16
       name: patient_phone

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: question2_rotational_symmetry
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: question3_line_symmetry
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''line''}'
-      - '{''id'': 2, ''label'': ''rotational''}'
+      - line
+      - rotational
       required: false
     - id: 7
       name: question6_symmetry_type
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''line''}'
-      - '{''id'': 2, ''label'': ''rotational''}'
+      - line
+      - rotational
       required: false
     - id: 8
       name: question7_answer_type
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: question8_answer_type
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''line type 1''}'
-      - '{''id'': 2, ''label'': ''line type 2''}'
-      - '{''id'': 3, ''label'': ''line type 3''}'
+      - line type 1
+      - line type 2
+      - line type 3
       required: false
     - id: 11
       name: question10_rotational_symmetry_type
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''rotational type 1''}'
-      - '{''id'': 2, ''label'': ''rotational type 2''}'
-      - '{''id'': 3, ''label'': ''rotational type 3''}'
+      - rotational type 1
+      - rotational type 2
+      - rotational type 3
       required: false
     - id: 12
       name: question11_line_symmetry_answer_type
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
-      - '{''id'': 3, ''label'': ''answer type 3''}'
+      - answer type 1
+      - answer type 2
+      - answer type 3
       required: false
     - id: 13
       name: question12_rotational_symmetry_answer_type
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 14
       name: question13_line_symmetry_answer_type
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 15
       name: question14_rotational_symmetry_answer_type
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 16
       name: question15_line_symmetry_answer_type
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 17
       name: question17_line_answer_type
@@ -162,8 +162,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 20
       name: question20_line_answer_type
@@ -171,8 +171,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 21
       name: question21_line_answer_type
@@ -180,8 +180,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 22
       name: question22_rotational_answer_type
@@ -189,8 +189,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 23
       name: question23_line_answer_type
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 24
       name: question24_rotational_answer_type
@@ -207,8 +207,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false
     - id: 25
       name: question25_line_answer_type
@@ -216,6 +216,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''answer type 1''}'
-      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - answer type 1
+      - answer type 2
       required: false

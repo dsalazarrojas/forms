@@ -1,53 +1,54 @@
 inputSchema:
   type: object
   properties:
-    title: photo_waiver_release_form
+    title: Photo Waiver Release Form
     pages:
     - id: 1
-      name: photo_waiver_release_form_page_1
-      label: Photo Waiver Release Form
+      name: page_1
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: photo_waiver_release_form_page_2
-      label: Photography Forms
+      name: page_2
+      label: Name and Contact Information
       hint: null
-      type: select_one
-      options:
-      - Photography Forms
-      - Other
+      type: text
+      options: []
       required: false
     - id: 3
-      name: photo_waiver_release_form_page_3
-      label: A Photo Waiver Release Form is a general waiver that can be used for
-        any purpose by any industry.
+      name: page_3
+      label: Photography Information
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: photo_waiver_release_form_page_4
-      label: A Photo Waiver Release Form is a general waiver that can be used for
-        any purpose by any industry.
+      name: page_4
+      label: Photo Release Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: photo_waiver_release_form_page_5
-      label: Photography Forms
-      hint: null
-      type: select_one
-      options:
-      - Photography Forms
-      - Other
-      required: false
-    - id: 6
-      name: photo_waiver_release_form_page_6
-      label: Photo Waiver Release Form
+      name: page_5
+      label: Waiver Information
       hint: null
       type: text
       options: []
       required: false
+    - id: 6
+      name: page_6
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Review and Confirm
+      hint: null
+      type: text
+      options: []
+      required: true

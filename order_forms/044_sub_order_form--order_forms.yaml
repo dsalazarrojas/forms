@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3, ''value'': ''sub_sandwich'', ''label'': ''Sub Sandwich''}'
-      - '{''id'': 4, ''value'': ''wrap'', ''label'': ''Wrap''}'
-      - '{''id'': 5, ''value'': ''salad'', ''label'': ''Salad''}'
+      - Sub Sandwich
+      - Wrap
+      - Salad
       required: false
     - id: 4
       name: customer_name
@@ -61,14 +61,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''value'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 3, ''value'': ''apple_pay'', ''label'': ''Apple Pay''}'
-      - '{''id'': 4, ''value'': ''google_pay'', ''label'': ''Google Pay''}'
-      - '{''id'': 5, ''value'': ''square'', ''label'': ''Square''}'
-      - '{''id'': 6, ''value'': ''authorize'', ''label'': ''Authorize''}'
-      - '{''id'': 7, ''value'': ''charge'', ''label'': ''Charge''}'
-      - '{''id'': 8, ''value'': ''bank_transfer'', ''label'': ''Bank transfer''}'
+      - Stripe
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Square
+      - Authorize
+      - Charge
+      - Bank transfer
       required: false
     - id: 9
       name: payment_amount
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''turkey'', ''label'': ''Turkey''}'
-      - '{''id'': 2, ''value'': ''ham'', ''label'': ''Ham''}'
-      - '{''id'': 3, ''value'': ''roast'', ''label'': ''Roast''}'
-      - '{''id'': 4, ''value'': ''veggie'', ''label'': ''Veggies''}'
+      - Turkey
+      - Ham
+      - Roast
+      - Veggies
       required: false
     - id: 11
       name: sub_name
@@ -115,8 +115,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True, ''label'': True}'
-      - '{''id'': 2, ''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: payment_status
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''paid'', ''label'': ''Paid''}'
-      - '{''id'': 2, ''value'': ''unpaid'', ''label'': ''Unpaid''}'
-      - '{''id'': 3, ''value'': ''pending'', ''label'': ''Pending''}'
+      - Paid
+      - Unpaid
+      - Pending
       required: false
     - id: 16
       name: payment_gateway
@@ -134,14 +134,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''value'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 3, ''value'': ''apple_pay'', ''label'': ''Apple Pay''}'
-      - '{''id'': 4, ''value'': ''google_pay'', ''label'': ''Google Pay''}'
-      - '{''id'': 5, ''value'': ''square'', ''label'': ''Square''}'
-      - '{''id'': 6, ''value'': ''authorize'', ''label'': ''Authorize''}'
-      - '{''id'': 7, ''value'': ''charge'', ''label'': ''Charge''}'
-      - '{''id'': 8, ''value'': ''bank_transfer'', ''label'': ''Bank transfer''}'
+      - Stripe
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Square
+      - Authorize
+      - Charge
+      - Bank transfer
       required: false
     - id: 17
       name: order_date
@@ -170,8 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''open'', ''label'': ''Open''}'
-      - '{''id'': 2, ''value'': ''closed'', ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 21
       name: order_id
@@ -200,9 +200,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''turkey'', ''label'': ''Turkey''}'
-      - '{''id'': 2, ''value'': ''ham'', ''label'': ''Ham''}'
-      - '{''id'': 3, ''value'': ''roast'', ''label'': ''Roast''}'
+      - Turkey
+      - Ham
+      - Roast
       required: false
     - id: 25
       name: order_sub_type_2
@@ -210,7 +210,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''turkey'', ''label'': ''Turkey''}'
-      - '{''id'': 2, ''value'': ''ham'', ''label'': ''Ham''}'
-      - '{''id'': 3, ''value'': ''roast'', ''label'': ''Roast''}'
+      - Turkey
+      - Ham
+      - Roast
       required: false

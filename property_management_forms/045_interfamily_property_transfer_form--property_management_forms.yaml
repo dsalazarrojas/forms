@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Lease Agreement'', ''value'': ''lease_agreement''}'
-      - '{''id'': 2, ''label'': ''Deed'', ''value'': ''deed''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Lease Agreement
+      - Deed
+      - Other
       required: true
     - id: 4
       name: transfer_date
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''E-Signature'', ''value'': ''e_signature''}'
-      - '{''id'': 2, ''label'': ''Physical Signature'', ''value'': ''physical_signature''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - E-Signature
+      - Physical Signature
+      - Other
       required: true
     - id: 7
       name: transferor_signature
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Lease Agreement'', ''value'': ''lease_agreement''}'
-      - '{''id'': 2, ''label'': ''Deed'', ''value'': ''deed''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Lease Agreement
+      - Deed
+      - Other
       required: false
     - id: 18
       name: transfer_method
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': 2, ''label'': ''Hand-to-Hand'', ''value'': ''hand_to_hand''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Email
+      - Hand-to-Hand
+      - Other
       required: true
     - id: 19
       name: transferor_email

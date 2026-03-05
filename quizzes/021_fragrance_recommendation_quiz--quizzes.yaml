@@ -15,15 +15,8 @@ inputSchema:
     title: Fragrance Recommendation Quiz
     pages:
     - id: 1
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
       name: scent_type
-      label: what_is_your_scent_type
+      label: What type of scent do you typically enjoy?
       hint: null
       type: select_one
       options:
@@ -33,29 +26,29 @@ inputSchema:
       - Fruity
       - Citrus
       required: true
-    - id: 3
-      name: preferred_family
-      label: what_is_your_preferred_family
-      hint: Choose 2-3 options
+    - id: 2
+      name: family_size
+      label: What size of fragrance family do you usually choose?
+      hint: Choose 1-3 options
       type: select_multiple
       options:
       - Top
       - Middle
       - Base
       required: true
-    - id: 4
-      name: preferred_concentrate
-      label: what_is_your_preferred_concentrate
+    - id: 3
+      name: concentration_level
+      label: How concentrated would you like your fragrances to be?
       hint: Choose 1-2 options
       type: select_multiple
       options:
       - High
       - Medium
       - Low
-      required: false
-    - id: 5
-      name: how_long_do_you_wear
-      label: how_long_do_you_wear
+      required: true
+    - id: 4
+      name: wear_time
+      label: How long do you usually wear your fragrance?
       hint: null
       type: select_one
       options:
@@ -65,41 +58,21 @@ inputSchema:
       - 6-8 hours
       - More than 8 hours
       required: true
-    - id: 6
-      name: how_long_do_you_wear_after
-      label: how_long_do_you_wear_after
-      hint: null
-      type: select_one
+    - id: 5
+      name: after_activities
+      label: When do you usually wear your fragrance after?
+      hint: Choose 1-3 options
+      type: select_multiple
       options:
       - After showering
       - After exercising
       - After eating
       - After smoking
       - After drinking
-      required: false
-    - id: 7
-      name: what_will_you_be_doing_with_fragrance
-      label: what_will_you_be_doing_with_fragrance
-      hint: null
-      type: select_one
-      options:
-      - Wearing
-      - Giving as a gift
-      - Using for a special occasion
-      - Using for everyday
-      required: false
-    - id: 8
-      name: fragrance_purpose
-      label: what_is_the_purpose_of_fragrance
-      hint: null
-      type: select_one
-      options:
-      - Personal use
-      - Business use
-      required: false
-    - id: 9
-      name: what_will_you_be_doing_with_fragrance_after
-      label: what_will_you_be_doing_with_fragrance_after
+      required: true
+    - id: 6
+      name: fragrance_usage
+      label: What will you be doing with the fragrance?
       hint: Choose 1-2 options
       type: select_multiple
       options:
@@ -107,118 +80,52 @@ inputSchema:
       - Giving as a gift
       - Using for a special occasion
       - Using for everyday
-      required: false
-    - id: 10
-      name: how_would_you_like_to_recieve
-      label: how_would_you_like_to_recieve
-      hint: null
+      required: true
+    - id: 7
+      name: purpose
+      label: What is the purpose of the fragrance for you?
+      hint: Choose 1 option
+      type: select_one
+      options:
+      - Personal use
+      - Business use
+      required: true
+    - id: 8
+      name: contact_method
+      label: How would you like to receive fragrance recommendations?
+      hint: Choose 1 option
       type: select_one
       options:
       - Email
       - Phone
       - Text message
       required: true
+    - id: 9
+      name: additional_info
+      label: Do you have any other preferences or information about your fragrance
+        preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_occasion
+      label: If you're planning to use the fragrance for a special occasion, what
+        is it?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 11
-      name: other
-      label: other
+      name: gift_recipient
+      label: If you're giving the fragrance as a gift, who is the recipient?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: intro
-      label: intro
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: intro
-      label: intro
+      name: notes
+      label: Is there anything else you'd like to share about your preferences?
       hint: null
       type: text
       options: []

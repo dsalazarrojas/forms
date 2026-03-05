@@ -91,7 +91,7 @@ inputSchema:
       type: select_one
       options:
       - 1 - just me
-      - 2
+      - '2'
       - 3-4
       - 5 or more
       required: true
@@ -128,7 +128,7 @@ inputSchema:
       options:
       - Yes - all current
       - Some due soon
-      - false
+      - 'False'
       - Not applicable
       required: false
     - id: 15
@@ -258,7 +258,7 @@ inputSchema:
       options:
       - Yes - definitely
       - Yes - if required
-      - false
+      - 'False'
       required: true
     - id: 27
       name: home_visit
@@ -267,7 +267,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I consent
-      - false
+      - 'False'
       required: true
     - id: 28
       name: background_check
@@ -276,7 +276,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I consent
-      - false
+      - 'False'
       required: true
     - id: 29
       name: motivation

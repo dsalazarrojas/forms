@@ -4,231 +4,256 @@ inputSchema:
     title: Pharmacy Employee Performance Review Form
     pages:
     - id: 1
-      name: page_1
-      label: page_1
-      hint: null
+      name: overall_performance
+      label: Overall Performance
+      hint: Rate the employee's overall performance.
       type: note
       options: []
       required: false
     - id: 2
-      name: rating_1
-      label: rating
-      hint: null
+      name: skills
+      label: Employee Skills
+      hint: Rate the employee's skills.
       type: select_one
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 3
-      name: rating_2
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Describe any areas where the employee needs improvement.
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: rating_3
-      label: rating
-      hint: null
+      name: overall_rating
+      label: Overall Rating
+      hint: Rate the employee's overall performance.
       type: select_one
       options:
-      - Good
-      - Fair
-      required: false
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
     - id: 5
-      name: rating_4
-      label: rating
-      hint: null
-      type: select_one
+      name: time_management
+      label: Time Management
+      hint: Rate the employee's time management skills.
+      type: checkbox
       options:
       - Good
       - Fair
-      required: false
+      required: true
     - id: 6
-      name: rating_5
-      label: rating
-      hint: Select one of the following
-      type: select_one
+      name: customer_service
+      label: Customer Service
+      hint: Rate the employee's customer service skills.
+      type: checkbox
       options:
       - Excellent
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
     - id: 7
-      name: rating_6
-      label: rating
-      hint: null
-      type: select_one
+      name: initiative
+      label: Initiative
+      hint: Rate the employee's initiative in taking on additional responsibilities.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 8
-      name: rating_7
-      label: rating
-      hint: null
-      type: select_one
+      name: communication
+      label: Communication
+      hint: Rate the employee's communication skills with colleagues and customers.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 9
-      name: rating_8
-      label: rating
-      hint: null
-      type: select_one
+      name: company_policies
+      label: Company Policies
+      hint: Rate the employee's adherence to company policies and procedures.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 10
-      name: rating_9
-      label: rating
-      hint: null
-      type: select_one
+      name: punctuality
+      label: Punctuality
+      hint: Rate the employee's punctuality and reliability.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 11
-      name: rating_10
-      label: rating
-      hint: null
-      type: select_one
+      name: teamwork
+      label: Teamwork
+      hint: Rate the employee's teamwork and collaboration with colleagues.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 12
-      name: rating_11
-      label: rating
-      hint: null
-      type: select_one
+      name: adaptability
+      label: Adaptability
+      hint: Rate the employee's adaptability and flexibility in their work environment.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 13
-      name: rating_12
-      label: rating
-      hint: null
-      type: select_one
+      name: quality_assurance
+      label: Quality Assurance
+      hint: Rate the employee's commitment to quality assurance in their work.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 14
-      name: rating_13
-      label: rating
-      hint: null
-      type: select_one
+      name: safety_and_accuracy
+      label: Safety and Accuracy
+      hint: Rate the employee's commitment to safety and accuracy in their work.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 15
-      name: rating_14
-      label: rating
-      hint: null
-      type: select_one
+      name: cleanliness
+      label: Cleanliness
+      hint: Rate the employee's commitment to maintaining a clean and organized workspace.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 16
-      name: rating_15
-      label: rating
-      hint: null
-      type: select_one
+      name: confidentiality
+      label: Confidentiality
+      hint: Rate the employee's commitment to maintaining confidentiality and security
+        in their work.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 17
-      name: rating_16
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
+      name: comments
+      label: Comments
+      hint: Add any additional comments or suggestions for the employee.
+      type: note
+      options: []
+      required: true
     - id: 18
-      name: rating_17
-      label: rating
-      hint: null
-      type: select_one
+      name: continuous_learning
+      label: Continuous Learning
+      hint: Rate the employee's commitment to continuous learning and professional
+        development.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 19
-      name: rating_18
-      label: rating
-      hint: null
-      type: select_one
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: Rate the employee's commitment to customer satisfaction.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 20
-      name: rating_19
-      label: rating
-      hint: null
-      type: select_one
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: Rate the employee's conflict resolution skills.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 21
-      name: rating_20
-      label: rating
-      hint: null
-      type: select_one
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: Rate the employee's commitment to continuous improvement in their work.
+      type: checkbox
       options:
+      - Excellent
       - Good
       - Fair
-      required: false
+      - Poor
+      required: true
     - id: 22
-      name: rating_21
-      label: rating
-      hint: Select one of the following
-      type: select_one
+      name: overall_attitude
+      label: Overall Attitude
+      hint: Rate the employee's overall attitude towards their work.
+      type: checkbox
       options:
       - Excellent
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
     - id: 23
-      name: rating_22
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 24
-      name: rating_23
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 25
-      name: rating_24
-      label: rating
-      hint: Select one of the following
-      type: select_one
+      name: punctuality_2
+      label: Punctuality 2
+      hint: Rate the employee's punctuality and reliability.
+      type: radio
       options:
       - Excellent
       - Good
       - Fair
       - Poor
-      required: false
+      required: true
+    - id: 24
+      name: employee_suggestion
+      label: Employee's Suggestion
+      hint: Add any suggestions from the employee to improve their performance.
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: final_comments
+      label: Final Comments
+      hint: Add any final comments or suggestions for the employee.
+      type: note
+      options: []
+      required: true

@@ -4,9 +4,9 @@ inputSchema:
     title: Weekdays Knowledge Quiz
     pages:
     - id: 1
-      name: week_days_1
-      label: Weekdays
-      hint: null
+      name: select_weekday_1
+      label: Best Weekday
+      hint: Select the best weekday
       type: select_one
       options:
       - Monday
@@ -16,56 +16,56 @@ inputSchema:
       - Friday
       - Saturday
       - Sunday
-      required: false
+      required: true
     - id: 2
-      name: score_1
-      label: Score
-      hint: null
+      name: score_monday_1
+      label: Score for Monday
+      hint: Enter a score for Monday
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: score_2
-      label: Score
-      hint: null
+      name: score_tuesday_1
+      label: Score for Tuesday
+      hint: Enter a score for Tuesday
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: score_3
-      label: Score
-      hint: null
+      name: score_wednesday_1
+      label: Score for Wednesday
+      hint: Enter a score for Wednesday
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: score_4
-      label: Score
-      hint: null
+      name: score_thursday_1
+      label: Score for Thursday
+      hint: Enter a score for Thursday
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: score_5
-      label: Score
-      hint: null
+      name: score_friday_1
+      label: Score for Friday
+      hint: Enter a score for Friday
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: comments
+      name: comments_1
       label: Comments
-      hint: null
+      hint: Enter comments for the week
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: submitted_by
+      name: submitted_by_1
       label: Submitted By
-      hint: null
+      hint: Select the person who submitted
       type: select_one
       options:
       - John
       - Jane
       - Jimmy
-      required: false
+      required: true

@@ -45,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed''}'
-      - '{''id'': 2, ''label'': ''Unemployed''}'
-      - '{''id'': 3, ''label'': ''Self-Employed''}'
-      - '{''id'': 4, ''label'': ''Student''}'
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Student
       required: false
     - id: 6
       name: employment_type
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Full-time''}'
-      - '{''id'': 2, ''label'': ''Part-time''}'
-      - '{''id'': 3, ''label'': ''Freelance''}'
+      - Full-time
+      - Part-time
+      - Freelance
       required: false
     - id: 7
       name: income
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1,000 - 2,000''}'
-      - '{''id'': 2, ''label'': ''2,000 - 5,000''}'
-      - '{''id'': 3, ''label'': ''5,000 - 8,000''}'
-      - '{''id'': 4, ''label'': ''8,000 - 10,000''}'
+      - 1,000 - 2,000
+      - 2,000 - 5,000
+      - 5,000 - 8,000
+      - 8,000 - 10,000
       required: false
     - id: 8
       name: occupation
@@ -77,11 +77,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Artist''}'
-      - '{''id'': 2, ''label'': ''Doctor''}'
-      - '{''id'': 3, ''label'': ''Engineer''}'
-      - '{''id'': 4, ''label'': ''Lawyer''}'
-      - '{''id'': 5, ''label'': ''Student''}'
+      - Artist
+      - Doctor
+      - Engineer
+      - Lawyer
+      - Student
       required: false
     - id: 9
       name: education
@@ -89,11 +89,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': "Bachelor''s Degree"}'
-      - '{''id'': 2, ''label'': "Master''s Degree"}'
-      - '{''id'': 3, ''label'': ''Doctoral Degree''}'
-      - '{''id'': 4, ''label'': ''High School Diploma''}'
-      - '{''id'': 5, ''label'': ''Some High School''}'
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      - High School Diploma
+      - Some High School
       required: false
     - id: 10
       name: credit_score
@@ -101,10 +101,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''600 - 700''}'
-      - '{''id'': 2, ''label'': ''700 - 800''}'
-      - '{''id'': 3, ''label'': ''800 - 900''}'
-      - '{''id'': 4, ''label'': ''900 - 1000''}'
+      - 600 - 700
+      - 700 - 800
+      - 800 - 900
+      - 900 - 1000
       required: false
     - id: 11
       name: charting
@@ -189,8 +189,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: bank_statement

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''available''}'
-      - '{''value'': ''rented''}'
-      - '{''value'': ''sold''}'
+      - available
+      - rented
+      - sold
       required: false
     - id: 5
       name: property_features
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''parking''}'
-      - '{''value'': ''pool''}'
-      - '{''value'': ''gym''}'
+      - parking
+      - pool
+      - gym
       required: false
     - id: 6
       name: property_image
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''lease_agreement''}'
-      - '{''value'': ''property_insurance''}'
-      - '{''value'': ''property_warranty''}'
+      - lease agreement
+      - property insurance
+      - property warranty
       required: false
     - id: 8
       name: tenant_documents
@@ -67,7 +67,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''rental_agreement''}'
-      - '{''value'': ''proof_of_income''}'
-      - '{''value'': ''identification''}'
+      - rental agreement
+      - proof of income
+      - identification
       required: false

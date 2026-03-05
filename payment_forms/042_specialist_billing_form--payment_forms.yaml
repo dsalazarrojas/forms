@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit_card''}'
-      - '{''name'': ''bank_transfer''}'
-      - '{''name'': ''check''}'
+      - credit card
+      - bank transfer
+      - check
       required: false
     - id: 4
       name: payment_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''draft''}'
-      - '{''name'': ''pending''}'
-      - '{''name'': ''complete''}'
+      - draft
+      - pending
+      - complete
       required: false
     - id: 8
       name: patient_name

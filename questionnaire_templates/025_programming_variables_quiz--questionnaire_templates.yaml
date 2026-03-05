@@ -16,189 +16,142 @@ inputSchema:
     pages:
     - id: 1
       name: programming_variables_quiz_first_page
-      label: first_page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: programming_variables_quiz_first_question
-      label: first_question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: programming_variables_quiz_first_question_type
-      label: first_question_type
-      hint: null
+      label: Programming Variable Types
+      hint: Choose a main category for a variable
       type: select_one
       options:
       - variable
-      - function
-      - constant
-      - array
-      - string
-      - object
-      - number
-      - boolean
-      required: false
-    - id: 4
-      name: programming_variables_quiz_first_question_type_answer
-      label: first_question_type_answer
-      hint: null
+      - Data Type
+      required: true
+    - id: 2
+      name: programming_variables_quiz_first_question
+      label: What can a variable hold?
+      hint: Choose one of the options
       type: select_multiple
       options:
-      - variable
-      - function
-      - constant
-      - array
       - string
-      - object
       - number
       - boolean
+      - array
+      - object
+      required: true
+    - id: 3
+      name: programming_variables_quiz_first_question_answer
+      label: Variable types answer
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - string
+      - number
+      - boolean
+      - array
+      - object
       required: false
+    - id: 4
+      name: programming_variables_quiz_second_question
+      label: What is a constant in programming?
+      hint: Define the term
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: programming_variables_quiz_first_question_type_answer_other
-      label: first_question_type_answer_other
+      name: programming_variables_quiz_second_question_answer
+      label: Constant answer
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: programming_variables_quiz_second_question
-      label: second_question
-      hint: null
-      type: select_multiple
-      options:
-      - variable
-      - function
-      - constant
-      - array
-      - string
-      - object
-      - number
-      - boolean
-      required: false
-    - id: 7
-      name: programming_variables_quiz_second_question_answer
-      label: second_question_answer
+      name: programming_variables_quiz_second_question_answer_2
+      label: Programming Variables Quiz Second Question Answer 2
       hint: null
       type: text
       options: []
       required: false
+    - id: 7
+      name: programming_variables_quiz_third_question
+      label: What is an array in programming?
+      hint: Define the term
+      type: text
+      options: []
+      required: true
     - id: 8
-      name: programming_variables_quiz_second_question_answer
-      label: second_question_answer
+      name: programming_variables_quiz_third_question_answer
+      label: Array answer
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: programming_variables_quiz_third_question
-      label: third_question
-      hint: null
-      type: select_multiple
-      options:
-      - variable
-      - function
-      - constant
-      - array
-      - string
-      - object
-      - number
-      - boolean
-      required: false
-    - id: 10
-      name: programming_variables_quiz_third_question_answer
-      label: third_question_answer
+      name: programming_variables_quiz_third_question_answer_2
+      label: Programming Variables Quiz Third Question Answer 2
       hint: null
       type: text
       options: []
       required: false
+    - id: 10
+      name: programming_variables_quiz_fourth_question
+      label: Can a constant be changed once it's defined?
+      hint: Yes or No
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 11
-      name: programming_variables_quiz_third_question_answer
-      label: third_question_answer
+      name: programming_variables_quiz_fourth_question_answer
+      label: Programming Variables Quiz Fourth Question Answer
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: programming_variables_quiz_fourth_question
-      label: fourth_question
-      hint: null
-      type: select_one
-      options:
-      - variable
-      - function
-      - constant
-      - array
-      - string
-      - object
-      - number
-      - boolean
-      required: false
-    - id: 13
-      name: programming_variables_quiz_fourth_question_answer
-      label: fourth_question_answer
+      name: programming_variables_quiz_fourth_question_answer_2
+      label: Programming Variables Quiz Fourth Question Answer 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
+    - id: 13
       name: programming_variables_quiz_fifth_question
-      label: fifth_question
+      label: What is a string in programming?
+      hint: Define the term
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: programming_variables_quiz_fifth_question_answer
+      label: String answer
       hint: null
-      type: select_multiple
-      options:
-      - variable
-      - function
-      - constant
-      - array
-      - string
-      - object
-      - number
-      - boolean
+      type: text
+      options: []
       required: false
     - id: 15
-      name: programming_variables_quiz_fifth_question_answer
-      label: fifth_question_answer
+      name: programming_variables_quiz_fifth_question_answer_2
+      label: Programming Variables Quiz Fifth Question Answer 2
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: programming_variables_quiz_fifth_question_answer
-      label: fifth_question_answer
+      name: programming_variables_quiz_sixth_question
+      label: Can a string variable be changed after it's defined?
+      hint: Yes or No
+      type: radio
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: programming_variables_quiz_sixth_question_answer
+      label: Programming Variables Quiz Sixth Question Answer
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: programming_variables_quiz_sixth_question
-      label: sixth_question
-      hint: null
-      type: select_one
-      options:
-      - variable
-      - function
-      - constant
-      - array
-      - string
-      - object
-      - number
-      - boolean
       required: false
     - id: 18
-      name: programming_variables_quiz_sixth_question_answer
-      label: sixth_question_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: programming_variables_quiz_sixth_question_answer
-      label: sixth_question_answer
+      name: programming_variables_quiz_sixth_question_answer_2
+      label: Programming Variables Quiz Sixth Question Answer 2
       hint: null
       type: text
       options: []

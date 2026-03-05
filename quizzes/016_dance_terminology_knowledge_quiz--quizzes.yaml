@@ -15,185 +15,144 @@ inputSchema:
     title: Dance Terminology Knowledge Quiz
     pages:
     - id: 1
-      name: dance_terminology_knowledge_quiz_form
-      label: Dance Terminology Knowledge Quiz Form
+      name: basic_step
+      label: What is a basic step?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: question_1
-      label: What is a basic step?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: answer_1
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: question_2
+      name: movement_quality
       label: What is a movement quality?
-      hint: None
+      hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: answer_2
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: question_3
+      required: true
+    - id: 3
+      name: technique_dance_style
       label: Which dance style is characterized by its strong emphasis on technique
         and precise movements?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: answer_3
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: question_4
-      label: What is a dance style characterized by its strong emphasis on technique
-        and precise movements?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: answer_4
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: question_5
+      hint: null
+      type: select_one
+      options:
+      - Waltz
+      - Tango
+      - Salsa
+      - Hip-Hop
+      - Ballet
+      - Contemporary
+      required: true
+    - id: 4
+      name: rapid_tempo_dance_style
+      label: Which dance style is known for its fast-paced footwork and rapid tempo?
+      hint: null
+      type: select_one
+      options:
+      - Salsa
+      - Tango
+      - Bachata
+      - Hip-Hop
+      - Breakdancing
+      - Waltz
+      required: true
+    - id: 5
+      name: dance_style_origin_india
       label: Which dance style originated in India and is characterized by its complex
         footwork and rapid tempo?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: answer_5
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_6
+      hint: null
+      type: select_one
+      options:
+      - Bachata
+      - Tango
+      - Waltz
+      - Bollywood
+      - Salsa
+      - Kathak
+      required: true
+    - id: 6
+      name: sequence_of_movements
       label: What is a term used to describe a sequence of dance movements?
-      hint: None
+      hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: answer_6
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_7
-      label: What dance style is characterized by its dynamic and expressive movements?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: answer_7
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_8
-      label: What dance style originated in Latin America and is characterized by
+      required: true
+    - id: 7
+      name: dynamic_expresion_dance_style
+      label: Which dance style is characterized by its dynamic and expressive movements?
+      hint: null
+      type: select_one
+      options:
+      - Salsa
+      - Bachata
+      - Hip-Hop
+      - Ballet
+      - Contemporary
+      - Kathak
+      required: true
+    - id: 8
+      name: latin_american_dance_style
+      label: Which dance style originated in Latin America and is characterized by
         its dynamic and expressive movements?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: answer_8
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question_9
-      label: What dance style is characterized by its fast-paced footwork and complex
-        rhythms?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: answer_9
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_10
-      label: What is a dance style that originated in Europe, characterized by its
-        slow, dramatic movements, and heavy emphasis on expression?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: answer_10
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_11
-      label: What is the name of the dance style that is known as the "mother of all
-        ballroom dances"?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: answer_11
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_12
-      label: Which dance style is often characterized by its fast-paced footwork and
-        high energy?
-      hint: None
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: answer_12
-      label: Answer
-      hint: None
-      type: text
-      options: []
-      required: false
+      hint: null
+      type: select_one
+      options:
+      - Salsa
+      - Bachata
+      - Tango
+      - Cumbia
+      - Rumba
+      - Bolero
+      required: true
+    - id: 9
+      name: complex_rhythms_dance_style
+      label: Which dance style is known for its fast-paced footwork and complex rhythms?
+      hint: null
+      type: select_one
+      options:
+      - Tango
+      - Bachata
+      - Salsa
+      - Hip-Hop
+      - Breakdancing
+      - Paso Doble
+      required: true
+    - id: 10
+      name: slow_dramatic_dance_style
+      label: What dance style originated in Europe, characterized by its slow and
+        dramatic movements?
+      hint: null
+      type: select_one
+      options:
+      - Waltz
+      - Ballet
+      - Contemporary
+      - Ballroom
+      - Foxtrot
+      - Rumba
+      required: true
+    - id: 11
+      name: mother_of_ballroom_dance
+      label: Which dance style is considered the "mother of all ballroom dances"?
+      hint: null
+      type: select_one
+      options:
+      - Waltz
+      - Tango
+      - Viennese Waltz
+      - Bachata
+      - Foxtrot
+      - Salsa
+      required: true
+    - id: 12
+      name: fast_paced_footwork
+      label: Which dance style is known for its fast-paced footwork and high energy?
+      hint: null
+      type: select_one
+      options:
+      - Salsa
+      - Tango
+      - Hip-Hop
+      - Bachata
+      - Breakdancing
+      - Paso Doble
+      required: true

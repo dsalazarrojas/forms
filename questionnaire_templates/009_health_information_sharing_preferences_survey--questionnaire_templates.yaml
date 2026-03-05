@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,13 +16,9 @@ inputSchema:
       hint: Who should have access to your data?
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Family Member'', ''description'': ''Health care provider
-        or family member '', ''required'': True}'
-      - '{''id'': 2, ''name'': ''Authorized Representative'', ''description'': ''Authorized
-        representative (e.g. friend, colleague, legal guardian) '', ''required'':
-        False}'
-      - '{''id'': 3, ''name'': ''Other'', ''description'': ''Other - please specify'',
-        ''required'': False}'
+      - Family Member
+      - Authorized Representative
+      - Other
       required: false
     - id: 3
       name: data_sharing_preferences
@@ -41,14 +26,14 @@ inputSchema:
       hint: Choose which organizations you want to share your data with.
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Share with health care providers''}'
-      - '{''id'': 2, ''name'': ''Share with insurance companies''}'
-      - '{''id'': 3, ''name'': ''Share with government agencies''}'
-      - '{''id'': 4, ''name'': ''Share with research institutions''}'
-      - '{''id'': 5, ''name'': ''Share with family members''}'
-      - '{''id'': 6, ''name'': ''Share with friends and family''}'
-      - '{''id'': 7, ''name'': ''Share with other''}'
-      - '{''id'': 8, ''name'': ''Do not share''}'
+      - Share with health care providers
+      - Share with insurance companies
+      - Share with government agencies
+      - Share with research institutions
+      - Share with family members
+      - Share with friends and family
+      - Share with other
+      - Do not share
       required: false
     - id: 4
       name: data_sharing_purposes
@@ -56,12 +41,12 @@ inputSchema:
       hint: Choose which purposes you want to share your data for.
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Treatment and Care''}'
-      - '{''id'': 2, ''name'': ''Research and Study''}'
-      - '{''id'': 3, ''name'': ''Billing and Insurance''}'
-      - '{''id'': 4, ''name'': ''Government and Administrative''}'
-      - '{''id'': 5, ''name'': ''Other''}'
-      - '{''id'': 6, ''name'': ''Do not share''}'
+      - Treatment and Care
+      - Research and Study
+      - Billing and Insurance
+      - Government and Administrative
+      - Other
+      - Do not share
       required: false
     - id: 5
       name: data_sharing_restrictions
@@ -69,9 +54,9 @@ inputSchema:
       hint: Choose what types of data you do not want to share.
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Time-sensitive data''}'
-      - '{''id'': 2, ''name'': ''Sensitive data''}'
-      - '{''id'': 3, ''name'': ''Location data''}'
-      - '{''id'': 4, ''name'': ''Other''}'
-      - '{''id'': 5, ''name'': ''Do not share''}'
+      - Time-sensitive data
+      - Sensitive data
+      - Location data
+      - Other
+      - Do not share
       required: false

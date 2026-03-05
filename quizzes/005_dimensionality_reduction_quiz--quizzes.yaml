@@ -5,179 +5,187 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
-      type: note
+      label: What is Dimensionality Reduction?
+      hint: This quiz will cover various aspects of dimensionality reduction.
+      type: text
       options: []
       required: false
     - id: 2
       name: question_1
-      label: question 1
-      hint: null
+      label: Question 1
+      hint: A way to simplify complex data by reducing its dimensionality.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Dimensionality reduction is a process of reducing the number of variables
+        or features in a dataset.
+      - Dimensionality reduction is a machine learning technique used for data preprocessing.
       required: false
     - id: 3
-      name: question_1_answer_1
-      label: answer 1
-      hint: null
+      name: question_2_answer_1
+      label: A way to simplify complex data by reducing its dimensionality.
+      hint: It helps in reducing the curse of dimensionality.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the number of variables or features in a dataset.
+      - Reducing the amount of data to make it more efficient.
       required: false
     - id: 4
-      name: question_1_answer_2
-      label: answer 2
-      hint: null
+      name: question_3
+      label: What is the main idea behind Dimensionality Reduction?
+      hint: It is used to remove the noise from the data.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the number of features to improve model performance.
+      - Reducing the number of variables to make the model simpler.
       required: false
     - id: 5
-      name: question_2
-      label: question 2
-      hint: null
+      name: question_4_answer_1
+      label: Reducing the number of features to improve model performance.
+      hint: By removing irrelevant features, we can improve the accuracy of our model.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the feature space to avoid overfitting.
+      - Reducing the number of features to improve model interpretability.
       required: false
     - id: 6
-      name: question_2_answer_1
-      label: answer 1
-      hint: null
+      name: question_4_answer_2
+      label: Reducing the number of features to improve model interpretability.
+      hint: It makes it easier to understand the model and its results.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the dimensionality of high-dimensional data.
+      - Reducing the number of features to reduce the model complexity.
       required: false
     - id: 7
-      name: question_2_answer_2
-      label: answer 2
-      hint: null
+      name: question_5
+      label: When is Dimensionality Reduction used?
+      hint: It is used in various fields such as data analysis and machine learning.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Dimensionality reduction is used in data analysis to reduce the dimensionality
+        of high-dimensional data.
+      - Dimensionality reduction is used in machine learning to improve model performance.
       required: false
     - id: 8
-      name: question_3
-      label: question 3
-      hint: null
+      name: question_5_answer_1
+      label: Dimensionality reduction is used in data analysis to reduce the dimensionality
+        of high-dimensional data.
+      hint: It helps in reducing the computational complexity of the model.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the number of features to improve data visualization.
+      - Reducing the dimensionality of data to improve model interpretability.
       required: false
     - id: 9
-      name: question_3_answer_1
-      label: answer 1
-      hint: null
+      name: question_5_answer_2
+      label: Reducing the dimensionality of data to improve model interpretability.
+      hint: It makes it easier to understand the relationships between variables.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the number of variables to improve model simplicity.
+      - Reducing the dimensionality of data to reduce the model complexity.
       required: false
     - id: 10
-      name: question_3_answer_2
-      label: answer 2
-      hint: null
+      name: question_6
+      label: What are the benefits of Dimensionality Reduction?
+      hint: It can improve model performance.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Dimensionality reduction can improve model performance.
+      - Dimensionality reduction can reduce the model complexity.
       required: false
     - id: 11
-      name: question_4
-      label: question 4
-      hint: null
+      name: question_6_answer_1
+      label: Dimensionality reduction can improve model performance.
+      hint: It can reduce the overfitting of the model.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the number of features to improve model accuracy.
+      - Reducing the dimensionality of data to improve model interpretability.
       required: false
     - id: 12
-      name: question_4_answer_1
-      label: answer 1
-      hint: null
+      name: question_7
+      label: What are the challenges of Dimensionality Reduction?
+      hint: It can be challenging to choose the right dimensionality reduction technique.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Dimensionality reduction can be challenging to choose the right technique.
+      - Dimensionality reduction can be challenging to balance between overfitting
+        and underfitting.
       required: false
     - id: 13
-      name: question_4_answer_2
-      label: answer 2
-      hint: null
+      name: question_7_answer_1
+      label: Dimensionality reduction can be challenging to choose the right technique.
+      hint: It depends on the type of data and the problem.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Choosing the right technique depends on the type of data.
+      - Choosing the right technique depends on the problem.
       required: false
     - id: 14
-      name: question_5
-      label: question 5
-      hint: null
+      name: question_7_answer_2
+      label: Choosing the right technique depends on the type of data.
+      hint: It requires a deep understanding of the data and the problem.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Choosing the right technique requires a deep understanding of the data.
+      - Choosing the right technique requires a deep understanding of the problem.
       required: false
     - id: 15
-      name: question_5_answer_1
-      label: answer 1
-      hint: null
+      name: question_7_answer_2_2
+      label: Choosing the right technique requires a deep understanding of the problem.
+      hint: It also requires the ability to measure the performance of the model.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Choosing the right technique requires the ability to measure the performance
+        of the model.
+      - Choosing the right technique requires the ability to interpret the results.
       required: false
     - id: 16
-      name: question_5_answer_2
-      label: answer 2
-      hint: null
+      name: question_7_answer_1_2
+      label: Choosing the right technique requires the ability to measure the performance
+        of the model.
+      hint: It helps in avoiding overfitting.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Avoiding overfitting by reducing the number of features.
+      - Avoiding overfitting by reducing the dimensionality of data.
       required: false
     - id: 17
-      name: question_6
-      label: question 6
-      hint: null
+      name: question_8
+      label: What are some real-world applications of Dimensionality Reduction?
+      hint: It is used in image and speech recognition.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Dimensionality reduction is used in image recognition.
+      - Dimensionality reduction is used in speech recognition.
       required: false
     - id: 18
-      name: question_6_answer_1
-      label: answer 1
-      hint: null
+      name: question_8_answer_1
+      label: Dimensionality reduction is used in image recognition.
+      hint: It can improve the performance of the model.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the dimensionality of images to improve model performance.
+      - Reducing the number of features of images to improve model accuracy.
       required: false
     - id: 19
-      name: question_6_answer_2
-      label: answer 2
-      hint: null
+      name: question_8_answer_2
+      label: Reducing the dimensionality of images to improve model performance.
+      hint: It can reduce the amount of data needed for training.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the dimensionality of images to reduce the amount of data needed
+        for training.
+      - Reducing the number of features of images to improve model interpretability.
       required: false
     - id: 20
-      name: question_7
-      label: question 7
-      hint: null
+      name: question_8_answer_2_2
+      label: Reducing the dimensionality of images to reduce the amount of data needed
+        for training.
+      hint: It can help in real-time applications.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Reducing the dimensionality of images for real-time applications.
+      - Reducing the dimensionality of images to improve model performance.
       required: false

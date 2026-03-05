@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''color''}'
-      - '{''id'': 2, ''label'': ''style''}'
-      - '{''id'': 3, ''label'': ''texture''}'
+      - color
+      - style
+      - texture
       required: false
     - id: 3
       name: hair_length
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''short''}'
-      - '{''id'': 2, ''label'': ''medium''}'
-      - '{''id'': 3, ''label'': ''long''}'
+      - short
+      - medium
+      - long
       required: false
     - id: 4
       name: hair_color
@@ -50,11 +50,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''dry''}'
-      - '{''id'': 2, ''label'': ''oily''}'
-      - '{''id'': 3, ''label'': ''curly''}'
-      - '{''id'': 4, ''label'': ''damaged''}'
-      - '{''id'': 5, ''label'': ''normal''}'
+      - dry
+      - oily
+      - curly
+      - damaged
+      - normal
       required: false
     - id: 7
       name: schedule
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''appointment''}'
-      - '{''id'': 2, ''label'': ''follow up''}'
-      - '{''id'': 3, ''label'': ''consultation''}'
-      - '{''id'': 4, ''label'': ''other''}'
+      - appointment
+      - follow up
+      - consultation
+      - other
       required: false
     - id: 10
       name: contact_information

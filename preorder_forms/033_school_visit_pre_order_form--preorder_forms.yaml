@@ -5,84 +5,95 @@ inputSchema:
     pages:
     - id: 1
       name: school_visit_pre_order_form_page_1
-      label: school_visit_pre_order_form
+      label: Student Attendance
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
       name: school_visit_pre_order_form_page_2
-      label: school_visit_pre_order
+      label: Number of People Attending
+      hint: Please enter a number greater than 1
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: school_visit_pre_order_form_page_3
+      label: Date of Visit
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: school_visit_pre_order_form_page_4
+      label: Time of Visit
+      hint: HH -MM
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: school_visit_pre_order_form_page_5
+      label: Students Attending with Chaperone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: school_visit_pre_order_form_page_6
+      label: Contact Method
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: school_visit_pre_order_form_page_3
-      label: school_visit_pre_order_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: school_visit_pre_order_form_page_4
-      label: school_visit_pre_order_form
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: school_visit_pre_order_form_page_5
-      label: school_visit_pre_order_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: school_visit_pre_order_form_page_6
-      label: school_visit_pre_order_form
-      hint: null
-      type: date
-      options: []
-      required: false
+      required: true
     - id: 7
       name: school_visit_pre_order_form_page_7
-      label: school_visit_pre_order_form
+      label: Grade Level
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Pre-K-5
+      - 6-8
+      - 9-12
+      required: true
     - id: 8
       name: school_visit_pre_order_form_page_8
-      label: school_visit_pre_order_form
-      hint: null
-      type: number
+      label: Medical Conditions
+      hint: Please describe any medical conditions that may impact the student's ability
+        to participate in the visit
+      type: text
       options: []
       required: false
     - id: 9
       name: school_visit_pre_order_form_page_9
-      label: school_visit_pre_order_form
-      hint: null
+      label: Additional Information
+      hint: Please provide any other relevant information
       type: text
       options: []
       required: false
     - id: 10
       name: school_visit_pre_order_form_page_10
-      label: school_visit_pre_order_form
-      hint: null
-      type: text
+      label: Student's Birthday
+      hint: Optional
+      type: date
       options: []
       required: false
     - id: 11
       name: school_visit_pre_order_form_page_11
-      label: school_visit_pre_order_form
-      hint: null
+      label: Special Accommodations
+      hint: Please describe any special accommodations that the student may need
       type: text
       options: []
       required: false
+    - id: 12
+      name: school_visit_pre_order_form_page_12
+      label: Confirm
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

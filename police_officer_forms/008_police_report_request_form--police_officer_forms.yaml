@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''friend''}'
-      - '{''id'': 2, ''name'': ''family_member''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
-      - '{''id'': 4, ''name'': ''witness_not_applicable''}'
+      - friend
+      - family member
+      - unknown
+      - witness not applicable
       required: false
     - id: 12
       name: suspect_details
@@ -104,10 +104,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''friend''}'
-      - '{''id'': 2, ''name'': ''family_member''}'
-      - '{''id'': 3, ''name'': ''unknown''}'
-      - '{''id'': 4, ''name'': ''suspect_not_applicable''}'
+      - friend
+      - family member
+      - unknown
+      - suspect not applicable
       required: false
     - id: 15
       name: crime_details
@@ -122,11 +122,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''theft''}'
-      - '{''id'': 2, ''name'': ''assault''}'
-      - '{''id'': 3, ''name'': ''burglary''}'
-      - '{''id'': 4, ''name'': ''domestic_violence''}'
-      - '{''id'': 5, ''name'': ''other''}'
+      - theft
+      - assault
+      - burglary
+      - domestic violence
+      - other
       required: false
     - id: 17
       name: crime_description

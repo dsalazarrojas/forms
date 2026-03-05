@@ -72,10 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Standard Shipping'', ''label'': ''Standard Shipping'',
-        ''value'': ''Standard Shipping''}'
-      - '{''id'': 2, ''name'': ''Express Shipping'', ''label'': ''Express Shipping'',
-        ''value'': ''Express Shipping''}'
+      - Standard Shipping
+      - Express Shipping
       required: false
     - id: 11
       name: shipping_address
@@ -104,11 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card'', ''label'': ''Credit Card'', ''value'':
-        ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''Bank Transfer'', ''label'': ''Bank Transfer'', ''value'':
-        ''Bank Transfer''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other'', ''value'': ''Other''}'
+      - Credit Card
+      - Bank Transfer
+      - Other
       required: false
     - id: 15
       name: order_status
@@ -116,10 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending'', ''label'': ''Pending'', ''value'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Processing'', ''label'': ''Processing'', ''value'':
-        ''Processing''}'
-      - '{''id'': 3, ''name'': ''Shipped'', ''label'': ''Shipped'', ''value'': ''Shipped''}'
+      - Pending
+      - Processing
+      - Shipped
       required: false
     - id: 16
       name: customer_phone

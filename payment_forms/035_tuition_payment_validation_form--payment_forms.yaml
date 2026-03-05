@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Credit Card''}'
-      - '{''id'': 3, ''name'': ''Online Banking''}'
+      - Cash
+      - Credit Card
+      - Online Banking
       required: false
     - id: 6
       name: payment_status
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Confirmed''}'
-      - '{''id'': 2, ''name'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''Rejected''}'
+      - Confirmed
+      - Pending
+      - Rejected
       required: true
     - id: 7
       name: notes

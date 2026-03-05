@@ -99,8 +99,8 @@ inputSchema:
       hint: Choose whether you would like to include a gift message
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: gift_wrap_interest
@@ -109,7 +109,7 @@ inputSchema:
       type: select_one
       options:
       - Yes (+$2)
-      - false
+      - 'False'
       required: true
     - id: 14
       name: gift_message_text
@@ -165,8 +165,8 @@ inputSchema:
       hint: Final confirmation of order
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: final_order_date
