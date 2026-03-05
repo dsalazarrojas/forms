@@ -1,179 +1,109 @@
 inputSchema:
   type: object
   properties:
-    title: Untitled form
+    title: Cpd Representative Feedback Form
     pages:
     - id: 1
       name: representative_name
-      label: Representative name
+      label: What is your name (CPD representative)?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: feedback_given
-      label: Feedback given
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: representative_feedback
-      label: Representative feedback
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
       name: date
-      label: Date
+      label: When did you provide feedback?
       hint: null
       type: date
       options: []
       required: true
-    - id: 5
+    - id: 3
       name: time
-      label: Time
+      label: What time did you provide feedback?
       hint: null
       type: time
       options: []
       required: true
-    - id: 6
+    - id: 4
       name: location
-      label: Location
+      label: Where did the feedback session take place?
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 5
       name: rating
-      label: Rating
+      label: How would you rate this feedback session?
       hint: null
       type: number
       options: []
       required: true
-    - id: 8
+    - id: 6
       name: representative_feedback
-      label: Representative feedback
+      label: Your feedback on this feedback session
       hint: null
       type: text
       options: []
       required: true
+    - id: 7
+      name: action_items
+      label: What action items do you have for next steps?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items_2
+      label: Please list any other action items for next steps
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 9
-      name: staff_feedback
-      label: Staff feedback
+      name: action_items_3
+      label: Are there any other action items for next steps?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: action_items
-      label: Action items
+      name: action_items_4
+      label: Do you have any further action items for next steps?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: next_steps
-      label: Next steps
+      name: action_items_5
+      label: Any other action items for next steps?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: representative_name
-      label: Representative name
+      name: action_items_6
+      label: Action Items 6
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: feedback_given
-      label: Feedback given
+      name: action_items_7
+      label: Are there any more action items for next steps?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: time
-      label: Time
+      name: action_items_8
+      label: Action Items 8
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 15
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: location
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: action_items_1
-      label: Action items 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: action_items_2
-      label: Action items 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: action_items_3
-      label: Action items 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: action_items_4
-      label: Action items 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: action_items_5
-      label: Action items 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: action_items_6
-      label: Action items 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: action_items_7
-      label: Action items 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: action_items_8
-      label: Action items 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: action_items_9
-      label: Action items 9
+      label: Additional action items for next steps?
       hint: null
       type: text
       options: []

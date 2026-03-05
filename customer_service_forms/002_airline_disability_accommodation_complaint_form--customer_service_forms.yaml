@@ -70,9 +70,9 @@ inputSchema:
       hint: Indicate whether accommodation was provided
       type: select_one
       options:
-      - true
+      - 'True'
       - Partially
-      - false
+      - 'False'
       required: true
     - id: 10
       name: incident_description
@@ -99,6 +99,6 @@ inputSchema:
       hint: Would you like customer service to contact you
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

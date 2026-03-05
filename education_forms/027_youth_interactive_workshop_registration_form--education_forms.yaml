@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online Payment'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Cash Payment'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Bank Transfer'', ''value'': 3}'
+      - Online Payment
+      - Cash Payment
+      - Bank Transfer
       required: false
     - id: 9
       name: payment_details
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Adult'', ''value'': ''adult''}'
-      - '{''id'': 2, ''label'': ''Child'', ''value'': ''child''}'
+      - Adult
+      - Child
       required: false
     - id: 11
       name: notes
@@ -91,7 +91,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 13
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
-      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 16
       name: parent_school

@@ -1,74 +1,100 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: English Pronunciation Quiz
     pages:
     - id: 1
-      name: user_answer1
-      label: user_answer
+      name: question1
+      label: Correct Pronunciation of "hello"
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: audio_file1
-      label: audio_file
+      name: question2
+      label: Correct Pronunciation of "cat"
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 3
-      name: correct_answer1
-      label: correct_answer
+      name: question3
+      label: Pronunciation of "dog"
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: user_answer2
-      label: user_answer
+      name: question4
+      label: Correct Pronunciation of "mouse"
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 5
-      name: correct_answer2
-      label: correct_answer
+      name: question5
+      label: Pronunciation of "apple"
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: audio_file2
-      label: audio_file
+      name: question6
+      label: Pronunciation of "bank"
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 7
-      name: score
-      label: score
+      name: question7
+      label: Pronunciation of "phone"
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: quiz_type
-      label: quiz_type
+      name: question8
+      label: How often do you practice English pronunciation?
       hint: null
-      type: select_one
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question9
+      label: When do you usually practice English pronunciation?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question10
+      label: Are you a native English speaker?
+      hint: null
+      type: checkbox
       options:
-      - Audio
-      - Video
+      - Option A
+      - Option B
+      required: false
+    - id: 11
+      name: question11
+      label: Which languages do you speak fluently besides English?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: question12
+      label: Additional languages you speak fluently
+      hint: null
+      type: text
+      options: []
       required: false

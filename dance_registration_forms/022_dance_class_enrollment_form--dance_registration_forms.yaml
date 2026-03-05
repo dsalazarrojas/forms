@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''credit-card''}'
-      - '{''id'': 2, ''label'': ''Debit Card'', ''value'': ''debit-card''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer'', ''value'': ''bank-transfer''}'
-      - '{''id'': 4, ''label'': ''Cash'', ''value'': ''cash''}'
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash
       required: false
     - id: 8
       name: payment_date
@@ -90,13 +90,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday'', ''value'': ''monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday'', ''value'': ''tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday'', ''value'': ''wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday'', ''value'': ''thursday''}'
-      - '{''id'': 5, ''label'': ''Friday'', ''value'': ''friday''}'
-      - '{''id'': 6, ''label'': ''Saturday'', ''value'': ''saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday'', ''value'': ''sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 13
       name: notes
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Paid'', ''value'': ''paid''}'
-      - '{''id'': 2, ''label'': ''Unpaid'', ''value'': ''unpaid''}'
-      - '{''id'': 3, ''label'': ''Partially Paid'', ''value'': ''partially-paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: false
     - id: 17
       name: teacher_availability
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 18
       name: teacher_special_qualifications
@@ -187,8 +187,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': ''confirmed''}'
-      - '{''id'': 2, ''label'': ''Not Confirmed'', ''value'': ''not-confirmed''}'
+      - Confirmed
+      - Not Confirmed
       required: false
     - id: 25
       name: teacher_confirmation
@@ -196,6 +196,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': ''confirmed''}'
-      - '{''id'': 2, ''label'': ''Not Confirmed'', ''value'': ''not-confirmed''}'
+      - Confirmed
+      - Not Confirmed
       required: false

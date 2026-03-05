@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One Time''}'
-      - '{''value'': ''Regular''}'
-      - '{''value'': ''Irregular''}'
+      - One Time
+      - Regular
+      - Irregular
       required: false
     - id: 4
       name: payment_method
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''Bank Transfer''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Other''}'
+      - Stripe
+      - Bank Transfer
+      - PayPal
+      - Other
       required: false
     - id: 5
       name: email

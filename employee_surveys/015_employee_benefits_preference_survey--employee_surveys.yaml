@@ -4,103 +4,108 @@ inputSchema:
     title: Employee Benefits Preference Survey
     pages:
     - id: 1
-      name: employee_benefits_preference_survey_form
-      label: Employee Benefits
+      name: benefits_package_preferred
+      label: What type of benefits package do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Custom
+      required: true
+    - id: 2
+      name: benefits_options_preferred
+      label: What benefits options are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Gym Membership
+      - Flexible Work Arrangement
+      - Professional Development
+      required: true
+    - id: 3
+      name: break_frequency
+      label: How often do you take breaks during the workday?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 4
+      name: shift_preference
+      label: Do you prefer morning, afternoon, or evening work shifts?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 5
+      name: work_hours
+      label: What are your preferred work hours?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 2
-      name: employee_benefits_preference_survey_form_2
-      label: Benefits Preference
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 3
-      name: benefits_survey_1
-      label: Benefits Preference
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 4
-      name: benefits_survey_2
-      label: Benefits Preference
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 5
-      name: benefits_survey_3
-      label: Benefits Preference
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Other
-      required: false
+      required: true
     - id: 6
-      name: manager_comments
-      label: Manager Comments
+      name: work_location
+      label: Do you prefer working from home or in the office?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Home
+      - Office
+      required: true
     - id: 7
-      name: manager_comments_2
-      label: Manager Comments 2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: date_survey_created
-      label: Date Survey Created
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: time_survey_created
-      label: Time Survey Created
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: date_survey_completed
-      label: Date Survey Completed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: time_survey_completed
-      label: Time Survey Completed
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: employee_benefits_preference_survey_form_3
-      label: Employee Benefits
+      name: vacation_days
+      label: How many vacation days do you prefer?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 13
-      name: employee_benefits_preference_survey_form_4
-      label: Employee Benefits
+      required: true
+    - id: 8
+      name: health_insurance_preferred
+      label: What type of health insurance do you prefer?
       hint: null
-      type: text
+      type: select_multiple
+      options:
+      - Traditional
+      - Premium
+      - Custom
+      required: true
+    - id: 9
+      name: health_conditions
+      label: Do you have any health conditions that require special accommodations?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: dependents_included
+      label: Do you have any family members or dependents that may need to be included
+        in our benefits package?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: dependents_number
+      label: How many dependents do you have that may need benefits?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: manager_comments
+      label: Is there anything else you'd like to share about your benefits preferences?
+      hint: null
+      type: note
       options: []
       required: false

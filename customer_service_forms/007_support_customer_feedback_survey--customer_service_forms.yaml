@@ -4,186 +4,118 @@ inputSchema:
     title: Support Customer Feedback Survey
     pages:
     - id: 1
-      name: support_customer_feedback_survey
-      label: support_customer_feedback_survey
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: support_customer_feedback_survey_1
-      label: support_customer_feedback_survey_1
+      name: rating
+      label: How would you rate your overall satisfaction with our customer support?
       hint: null
       type: select_one
       options:
-      - '{''value'': ''positive'', ''label'': ''positive''}'
-      - '{''value'': ''neutral'', ''label'': ''neutral''}'
-      - '{''value'': ''negative'', ''label'': ''negative''}'
-      required: false
-    - id: 3
-      name: support_customer_feedback_survey_2
-      label: feedback
+      - Very satisfied
+      - Neutral
+      - Very dissatisfied
+      required: true
+    - id: 2
+      name: reason
+      label: What was the reason for your last interaction with our support team?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: issue
+      label: What was the issue you had with our support team?
+      hint: null
+      type: select_multiple
+      options:
+      - Not familiar with the product
+      - Not helpful
+      - Not responsive
+      - Other (please specify)
+      required: true
     - id: 4
-      name: support_customer_feedback_survey_5
-      label: rating
+      name: effectiveness
+      label: How would you rate the effectiveness of our support team in resolving
+        your issue?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very effective
+      - Neutral
+      - Very ineffective
+      required: true
     - id: 5
-      name: support_customer_feedback_survey_4
-      label: support_customer_feedback_survey_4
+      name: likelihood_to_recommend
+      label: How likely are you to recommend our company to a friend or colleague?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
     - id: 6
-      name: support_customer_feedback_survey_3
-      label: support_customer_feedback_survey_3
+      name: resolution
+      label: What was the resolution or outcome of your issue?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Issue was resolved
+      - Issue was not resolved
+      - I was not sure
+      - Other (please specify)
+      required: true
     - id: 7
-      name: support_customer_feedback_survey_6
-      label: support_customer_feedback_survey_6
+      name: additional_comments
+      label: Would you like to provide additional comments or feedback about your
+        experience?
       hint: null
-      type: date
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: support_customer_feedback_survey_7
-      label: support_customer_feedback_survey_7
+      name: support_team
+      label: What was the issue with our support team that you experienced?
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - Not helpful
+      - Not responsive
+      - Not familiar with the product
+      - Other (please specify)
       required: false
     - id: 9
-      name: support_customer_feedback_survey_8
-      label: support_customer_feedback_survey8
+      name: communication
+      label: How would you rate the communication from our support team?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very good
+      - Somewhat good
+      - Neutral
+      - Somewhat poor
+      - Very poor
+      required: true
     - id: 10
-      name: support_customer_feedback_survey_9
-      label: support_customer_feedback_survey9
+      name: suggestions
+      label: What improvements would you like to see us make to improve customer support?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: support_customer_feedback_survey
-      label: support_customer_feedback_survey
+      name: other_comments
+      label: Any other comments or suggestions?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: support_customer_feedback_survey_10
-      label: support_customer_feedback_survey10
+      name: open_ended
+      label: Additional comments or feedback?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: support_customer_feedback_survey_11
-      label: support_customer_feedback_survey11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: support_customer_feedback_survey_12
-      label: support_customer_feedback_survey12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: support_customer_feedback_survey_13
-      label: support_customer_feedback_survey13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: support_customer_feedback_survey_6
-      label: support_customer_feedback_survey6
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''positive'', ''label'': ''positive''}'
-      - '{''value'': ''negative'', ''label'': ''negative''}'
-      - '{''value'': ''neutral'', ''label'': ''neutral''}'
-      required: false
-    - id: 17
-      name: support_customer_feedback_survey_10
-      label: support_customer_feedback_survey10
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''positive'', ''label'': ''positive''}'
-      - '{''value'': ''neutral'', ''label'': ''neutral''}'
-      - '{''value'': ''negative'', ''label'': ''negative''}'
-      required: false
-    - id: 18
-      name: support_customer_feedback_survey_7
-      label: support_customer_feedback_survey7
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: support_customer_feedback_survey_4
-      label: support_customer_feedback_survey4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: support_customer_feedback_survey_8
-      label: support_customer_feedback_survey8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: support_customer_feedback_survey_9
-      label: support_customer_feedback_survey9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: support_customer_feedback_survey_11
-      label: support_customer_feedback_survey11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: support_customer_feedback_survey_2
-      label: support_customer_feedback_survey2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: support_customer_feedback_survey_12
-      label: support_customer_feedback_survey12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: support_customer_feedback_survey_5
-      label: support_customer_feedback_survey5
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

@@ -15,177 +15,84 @@ inputSchema:
     title: Donation Tracking Form
     pages:
     - id: 1
-      name: donation_form
-      label: Donation Form
+      name: doner_info
+      label: Donation Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: donation_form
-      label: Donor Information
+      name: donation_details
+      label: Donation Details
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 3
-      name: donation_form
-      label: Donation Details
+      name: doner_address
+      label: Donor Address
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: donation_form
-      label: Donor Address
+      name: doner_phone
+      label: Donor Phone Number
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: donation_form
-      label: Donor Information
+      name: doner_notes
+      label: Donor Notes
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 6
-      name: donation_form
-      label: Donation Form
+      name: doner_amount
+      label: Donation Amount (optional)
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 7
-      name: donation_form
-      label: Donor Information
+      name: doner_frequency
+      label: Donation Frequency
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - One-time
+      - Recurring
       required: false
     - id: 8
-      name: donation_form
-      label: Donation Details
+      name: doner_type
+      label: Donation Type
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Monetary
+      - Goods/services
+      - Other
       required: false
     - id: 9
-      name: donation_form
-      label: Donor Address
+      name: donation_amount
+      label: Donation Amount
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 10
-      name: donation_form
-      label: Donor Information
+      name: donation_date
+      label: Donation Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 11
-      name: donation_form
-      label: Donation Form
+      name: donation_time
+      label: Donation Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
-    - id: 12
-      name: donation_form
-      label: Donor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: donation_form
-      label: Donation Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: donation_form
-      label: Donor Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: donation_form
-      label: Donor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: donation_form
-      label: Donation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: donation_form
-      label: Donor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: donation_form
-      label: Donation Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: donation_form
-      label: Donor Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: donation_form
-      label: Donor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: donation_form
-      label: Donation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: donation_form
-      label: Donor Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: donation_form
-      label: Donation Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: donation_form
-      label: Donor Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: donation_form
-      label: Donor Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

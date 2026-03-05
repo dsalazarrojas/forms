@@ -15,177 +15,169 @@ inputSchema:
     title: Eating Disorder Questionnaire
     pages:
     - id: 1
-      name: eating_disorder_questionnaire
-      label: eating_disorder_questionnaire
-      hint: null
+      name: eating_disorder_questionnaire_1
+      label: What is your typical daily food intake like?
+      hint: Describe your typical daily food intake.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: food_intake
-      label: Food Intake
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: hunger_frequencies
-      label: Hunger Frequencies
-      hint: null
-      type: text
+      label: How often do you experience hunger or fullness?
+      hint: Use a scale from 1 to 10.
+      type: number
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: eating_patterns
-      label: Eating Patterns
-      hint: null
+      label: Can you describe your eating patterns over the past week?
+      hint: Describe your eating patterns, e.g., eating times, food types, etc.
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: weight_changes
-      label: Weight Changes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
+      label: Have you noticed any changes in your weight recently?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
       name: emotional_states
-      label: Emotional States
-      hint: null
+      label: How do you feel emotionally when you're eating or thinking about food?
+      hint: Describe your emotional states.
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: eating_disorder_symptoms
-      label: Eating Disorder Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: diet_and_nutrition
-      label: Diet and Nutrition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: eating_habits
-      label: Eating Habits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+      label: Can you list any symptoms you experience related to eating disorders?
+      hint: List any symptoms you experience.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
       name: social_pressures
-      label: Social Pressures
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: eating_patterns_2
-      label: Eating Patterns
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: eating_disorder_symptoms_2
-      label: Eating Disorder Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: food_intake_2
-      label: Food Intake
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
+      label: Are there any social pressures that affect your eating habits?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
       name: emotional_states_2
-      label: Emotional States
-      hint: null
+      label: Have you experienced any emotional states while eating or thinking about
+        food?
+      hint: Describe your emotional states.
       type: text
       options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 9
+      name: food_intake_2
+      label: Are there any specific food intakes that trigger or alleviate symptoms?
+      hint: List specific food intakes.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 10
       name: weight_changes_2
-      label: Weight Changes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: diet_and_nutrition_2
-      label: Diet and Nutrition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+      label: Weight Changes 2
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
       name: eating_habits_2
-      label: Eating Habits
-      hint: null
+      label: Can you describe your current eating habits?
+      hint: Describe your eating habits.
       type: text
       options: []
-      required: false
-    - id: 18
-      name: eating_patterns_3
-      label: Eating Patterns
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: eating_disorder_symptoms_3
-      label: Eating Disorder Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: food_intake_3
-      label: Food Intake
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emotional_states_3
-      label: Emotional States
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: weight_changes_3
-      label: Weight Changes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: diet_and_nutrition_3
-      label: Diet and Nutrition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 12
+      name: eating_patterns_2
+      label: Can you list any additional eating patterns that contribute to your symptoms?
+      hint: List any additional eating patterns.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 13
+      name: eating_disorder_symptoms_2
+      label: Are there any additional symptoms related to eating disorders?
+      hint: List any additional symptoms.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 14
+      name: social_pressures_2
+      label: Are there any social pressures that affect your food intake?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
       name: eating_habits_3
-      label: Eating Habits
-      hint: null
+      label: Eating Habits 3
+      hint: Describe your eating habits.
       type: text
       options: []
-      required: false
-    - id: 25
-      name: eating_patterns_4
-      label: Eating Patterns
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
+    - id: 16
+      name: eating_patterns_3
+      label: Eating Patterns 3
+      hint: List any additional eating patterns.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 17
+      name: eating_disorder_symptoms_3
+      label: Eating Disorder Symptoms 3
+      hint: List any additional symptoms.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 18
+      name: social_pressures_3
+      label: Social Pressures 3
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: food_intake_3
+      label: Food Intake 3
+      hint: List specific food intakes.
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 20
+      name: weight_changes_3
+      label: Weight Changes 3
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

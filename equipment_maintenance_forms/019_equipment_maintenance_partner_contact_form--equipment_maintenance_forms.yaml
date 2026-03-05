@@ -4,28 +4,49 @@ inputSchema:
     title: equipment_maintenance_partner_contact_form
     pages:
     - id: 1
-      name: partner_form
-      label: Partner Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: partner_info
-      label: partner_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: contact_info
       label: Contact Information
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: partner_form
+      label: Partner Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Name of contact person.
+      type: text
+      options: []
+      required: false
     - id: 4
-      name: coverage_info
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_coverage
       label: Service Coverage
       hint: Please select the services offered by this partner.
       type: select_multiple
@@ -34,147 +55,21 @@ inputSchema:
       - Repair
       - Both
       required: false
-    - id: 5
-      name: availability_info
+    - id: 8
+      name: availability
       label: Availability
       hint: null
       type: date
       options: []
       required: false
-    - id: 6
-      name: contact_person
-      label: Contact Person
-      hint: Name of contact person.
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 9
-      name: availability_note
-      label: Availability Note
+      name: availability_notes
+      label: Availability Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 10
-      name: service_coverage
-      label: Service Coverage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: maintenance_info
-      label: Maintenance Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: contact_address
-      label: Contact Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: contact_person
-      label: Contact Person
-      hint: Name of contact person.
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: contact_address
-      label: Contact Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: notes
-      label: Additional Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: contact_person
-      label: Contact Person
-      hint: Name of contact person.
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_phone
-      label: Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_email
-      label: Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: contact_address
-      label: Contact Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: notes
-      label: Additional Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
       name: submission_status
       label: Submission Status
       hint: null
@@ -182,4 +77,18 @@ inputSchema:
       options:
       - Pending
       - Approved
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
       required: false

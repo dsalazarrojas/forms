@@ -23,7 +23,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit'', ''label'': ''submit''}'
+      - submit
       - Other
       required: false
     - id: 4
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''credit card'', ''label'': ''credit card''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''paypal''}'
-      - '{''id'': 3, ''name'': ''bank transfer'', ''label'': ''bank transfer''}'
+      - credit card
+      - paypal
+      - bank transfer
       required: false
     - id: 8
       name: payment_details
@@ -72,6 +72,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit'', ''label'': ''submit''}'
+      - submit
       - Other
       required: false

@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Current'', ''value'': 1}'
-      - '{''label'': ''Former'', ''value'': 2}'
-      - '{''label'': ''Never'', ''value'': 3}'
+      - Current
+      - Former
+      - Never
       required: false
     - id: 8
       name: study_completion
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': 1}'
-      - '{''label'': ''Completed'', ''value'': 2}'
-      - '{''label'': ''Inactive'', ''value'': 3}'
-      - '{''label'': ''Withdrawn'', ''value'': 4}'
+      - Active
+      - Completed
+      - Inactive
+      - Withdrawn
       required: false
     - id: 10
       name: participant_completion
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Work'', ''value'': 1}'
-      - '{''label'': ''Cell'', ''value'': 2}'
-      - '{''label'': ''Other'', ''value'': 3}'
+      - Work
+      - Cell
+      - Other
       required: false
     - id: 13
       name: date_of_birth

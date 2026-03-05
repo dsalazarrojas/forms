@@ -5,220 +5,166 @@ inputSchema:
     pages:
     - id: 1
       name: name
-      label: name
+      label: What is the applicant's name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: email
-      label: email
+      label: What is the applicant's email address?
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
       name: phone
-      label: phone
+      label: What is the applicant's phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: category
-      label: category
+      label: What category does the applicant fall under?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Education Forms'', ''label'': ''Education Forms''}'
-      - '{''id'': 2, ''name'': ''Scholarship Application Forms'', ''label'': ''Scholarship
-        Application Forms''}'
-      - '{''id'': 3, ''name'': ''Other Forms'', ''label'': ''Other Forms''}'
-      required: false
+      - Education Forms
+      - Scholarship Application Forms
+      - Other Forms
+      required: true
     - id: 5
       name: address
-      label: address
+      label: What is the applicant's address?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: date
-      label: date
+      label: What is the application date?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
       name: time
-      label: time
+      label: What is the application time?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
       name: notes
-      label: notes
+      label: Are there any additional notes that the applicant would like to add?
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 9
       name: required_1
-      label: name
+      label: What are the required fields that need to be filled?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
       name: required_2
-      label: email
+      label: What are the email options?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - email 1
+      - email 2
+      - email 3
+      - email 4
+      required: true
     - id: 11
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: email
-      label: email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date
-      label: date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
       name: required_3
-      label: required_2
+      label: What are the phone options?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+      type: select_multiple
+      options:
+      - phone 1
+      - phone 2
+      - phone 3
+      - phone 4
+      required: true
+    - id: 12
       name: required_4
-      label: required_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: name
+      label: What are the category options?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option 1'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option 2'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option 3'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 4, ''name'': ''option_4'', ''label'': ''option 4'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      required: false
-    - id: 22
-      name: email
-      label: email
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      required: true
+    - id: 13
+      name: required_5
+      label: What are the address options?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''email_1'', ''label'': ''email_1'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''email_2'', ''label'': ''email_2'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''email_3'', ''label'': ''email_3'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 4, ''name'': ''email_4'', ''label'': ''email_4'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      required: false
-    - id: 23
-      name: phone
-      label: phone
+      - address 1
+      - address 2
+      - address 3
+      - address 4
+      required: true
+    - id: 14
+      name: required_6
+      label: What are the select multiple options for name?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''phone_1'', ''label'': ''phone_1'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''phone_2'', ''label'': ''phone_2'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''phone_3'', ''label'': ''phone_3'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 4, ''name'': ''phone_4'', ''label'': ''phone_4'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      required: false
-    - id: 24
-      name: category
-      label: category
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      required: true
+    - id: 15
+      name: required_7
+      label: What are the select multiple options for email?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option 1'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option 2'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option 3'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      - '{''id'': 4, ''name'': ''option_4'', ''label'': ''option 4'', ''hint'': None,
-        ''type'': ''text'', ''options'': []}'
-      required: false
-    - id: 25
-      name: address
-      label: address
+      - email 1
+      - email 2
+      - email 3
+      - email 4
+      required: true
+    - id: 16
+      name: required_8
+      label: What are the select multiple options for phone?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''address_1'', ''label'': ''address_1'', ''hint'':
-        None, ''type'': ''text'', ''options'': []}'
-      - '{''id'': 2, ''name'': ''address_2'', ''label'': ''address_2'', ''hint'':
-        None, ''type'': ''text'', ''options'': []}'
-      - '{''id'': 3, ''name'': ''address_3'', ''label'': ''address_3'', ''hint'':
-        None, ''type'': ''text'', ''options'': []}'
-      - '{''id'': 4, ''name'': ''address_4'', ''label'': ''address_4'', ''hint'':
-        None, ''type'': ''text'', ''options'': []}'
-      required: false
+      - phone 1
+      - phone 2
+      - phone 3
+      - phone 4
+      required: true
+    - id: 17
+      name: required_9
+      label: What are the select multiple options for category?
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      required: true
+    - id: 18
+      name: required_10
+      label: What are the select multiple options for address?
+      hint: null
+      type: select_multiple
+      options:
+      - address 1
+      - address 2
+      - address 3
+      - address 4
+      required: true

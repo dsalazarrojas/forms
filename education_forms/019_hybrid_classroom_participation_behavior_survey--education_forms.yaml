@@ -5,216 +5,86 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: survey
-      label: Survey Questions
+      name: participation
+      label: How do you usually participate in classes?
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 3
-      name: survey
-      label: survey
+      name: time_spent_in_class
+      label: How many hours do you usually spend in a class?
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
+      type: number
+      options: []
       required: false
     - id: 4
-      name: challenges
-      label: challenges
+      name: start_time
+      label: When do you usually start attending classes?
       hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
+      type: date
+      options: []
       required: false
     - id: 5
-      name: feedback
-      label: Feedback
+      name: preferred_time
+      label: What is your preferred time to attend classes?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 6
-      name: email
-      label: Email Address
+      name: communication
+      label: How do you usually communicate with instructors or peers?
       hint: null
-      type: email
-      options: []
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 7
-      name: phone
-      label: Phone Number
+      name: challenges
+      label: What are some common challenges you face while participating in classes?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 8
-      name: timestamp
-      label: Timestamp
+      name: email
+      label: What is your email address?
       hint: null
-      type: date
+      type: email
       options: []
       required: false
     - id: 9
-      name: date
-      label: Date
+      name: phone
+      label: What is your phone number?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 10
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
       name: comments
-      label: Comments
+      label: Do you have any comments about the class?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: timestamp
-      label: Timestamp
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: survey
-      label: survey
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
-      required: false
-    - id: 14
-      name: survey
-      label: survey
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
-      required: false
-    - id: 15
-      name: challenges
-      label: challenges
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
-      required: false
-    - id: 16
-      name: feedback
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email
-      label: Email Address
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: phone
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: timestamp
-      label: Timestamp
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: timestamp
-      label: Timestamp
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: survey
-      label: survey
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
-      required: false
-    - id: 25
-      name: survey
-      label: survey
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1''}'
-      - '{''value'': ''Option 2''}'
-      - '{''value'': ''Option 3''}'
-      - '{''value'': ''Option 4''}'
-      - '{''value'': ''Option 5''}'
       required: false

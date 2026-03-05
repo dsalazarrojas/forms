@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''morning_session''}'
-      - '{''value'': 2, ''label'': ''afternoon_session''}'
-      - '{''value'': 3, ''label'': ''full_day_session''}'
+      - morning session
+      - afternoon session
+      - full day session
       required: false
     - id: 3
       name: feedback_comments
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 5, ''label'': ''highly_satisfying''}'
-      - '{''value'': 2, ''label'': ''somewhat_satisfying''}'
-      - '{''value'': 1, ''label'': ''not_at_all_satisfying''}'
+      - highly satisfying
+      - somewhat satisfying
+      - not at all satisfying
       required: false
     - id: 5
       name: participant_name
@@ -64,7 +64,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''highly_satisfying''}'
-      - '{''value'': 2, ''label'': ''somewhat_satisfying''}'
-      - '{''value'': 3, ''label'': ''neither_satisfying_nor_unsatisfying''}'
+      - highly satisfying
+      - somewhat satisfying
+      - neither satisfying nor unsatisfying
       required: false

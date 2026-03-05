@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_2
-      - option_3
-      - option_4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: work_life_balance
@@ -33,8 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: team_collaboration
@@ -73,7 +74,7 @@ inputSchema:
       required: false
     - id: 10
       name: employee_satisfaction_frequency
-      label: Employee Satisfaction
+      label: Employee Satisfaction Frequency
       hint: null
       type: time
       options: []
@@ -94,7 +95,7 @@ inputSchema:
       required: false
     - id: 13
       name: job_satisfaction_frequency
-      label: Job Satisfaction
+      label: Job Satisfaction Frequency
       hint: null
       type: time
       options: []
@@ -154,11 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: job_satisfaction_scale_range
@@ -166,11 +165,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 23
       name: employee_satisfaction_scale
@@ -192,21 +189,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 26
-      name: work_life_balance_happy
-      label: Happy at Work
+      name: work_life_balance_happy_2
+      label: Work Life Balance Happy 2
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      - option_5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

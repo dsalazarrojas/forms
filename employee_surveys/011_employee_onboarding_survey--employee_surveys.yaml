@@ -1,68 +1,88 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Employee Onboarding Survey
     pages:
     - id: 1
-      name: page_1
+      name: employee_information
       label: Employee Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page_2
+      name: onboarding_experience
       label: Onboarding Experience
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: page_3
-      label: Job Role
+      name: onboarding_process
+      label: Onboarding Process
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: page_4
-      label: Onboarding Process
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: page_5
+      name: job_role
       label: Job Role
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
+      - Data Analyst
+      - IT Support
+      - Marketing Manager
+      required: true
+    - id: 5
+      name: training
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 6
-      name: page_6
-      label: Onboarding Experience
+      name: time_to_complete
+      label: Days to Complete Onboarding
       hint: null
-      type: date
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: page_7
-      label: Onboarding Process
+      name: equipment_access
+      label: Access to Equipment
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 8
+      name: onboarding_buddy
+      label: Onboarding Buddy
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 9
+      name: supervisor_communication
+      label: Supervisor Communication
+      hint: null
+      type: radio
+      options:
+      - Good
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 10
+      name: onboarding_plan
+      label: Onboarding Plan
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive
+      - Basic
+      - None
+      required: true

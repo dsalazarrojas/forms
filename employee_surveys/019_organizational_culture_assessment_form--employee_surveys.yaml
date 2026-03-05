@@ -4,22 +4,22 @@ inputSchema:
     title: Organizational Culture Assessment Form
     pages:
     - id: 1
-      name: introduction
-      label: Welcome to our Organizational Culture Assessment Form
+      name: intro_1
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: communication
-      label: How do you communicate with your team and manager
+      label: How do you communicate with your team and manager?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: values
-      label: What do you value most in our culture
+      label: What do you value most in our culture?
       hint: null
       type: select_one
       options:
@@ -28,14 +28,14 @@ inputSchema:
       required: false
     - id: 4
       name: overall_satisfaction
-      label: What do you like most about our workplace
+      label: What do you like most about our workplace?
       hint: null
       type: number
       options: []
       required: false
     - id: 5
       name: feedback
-      label: Is there anything we can improve on?
+      label: Do you get regular feedback from your manager and colleagues?
       hint: null
       type: select_multiple
       options:
@@ -43,36 +43,41 @@ inputSchema:
       - 'No'
       required: false
     - id: 6
-      name: communication_with_management
-      label: How often do you have face-to-face meetings with your manager?
+      name: communication_with_manager
+      label: Face-to-face meetings with your manager?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Frequent
+      - Occasional
+      - Rarely
       required: false
     - id: 7
       name: communication_with_colleagues
-      label: How often do you have team meetings
+      label: Team meetings?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Frequent
+      - Occasional
+      - Rarely
       required: false
     - id: 8
       name: open_mindedness
-      label: How open-minded are your colleagues
+      label: How open-minded are your colleagues?
       hint: null
       type: number
       options: []
       required: false
     - id: 9
       name: collaboration
-      label: How much collaboration do you have with colleagues
+      label: How often do you collaborate with colleagues?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Frequent
+      - Occasional
+      - Rarely
       required: false
     - id: 10
       name: trust
@@ -82,17 +87,17 @@ inputSchema:
       options: []
       required: false
     - id: 11
-      name: feedback_loops
-      label: How often do you receive feedback from colleagues?
+      name: feedback_from_colleagues
+      label: Do you get regular feedback from your colleagues?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 12
-      name: organizational_culture
-      label: How much do you value our organizational culture?
+      name: culture_value
+      label: How much value do you place on our organizational culture?
       hint: null
       type: number
       options: []
@@ -101,90 +106,47 @@ inputSchema:
       name: job_security
       label: How secure do you feel in your job?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Frequent
+      - Occasional
+      - Rarely
       required: false
     - id: 14
-      name: work_life_balance
-      label: How satisfied are you with your work-life balance?
+      name: balance
+      label: Satisfaction with work-life balance?
       hint: null
       type: number
       options: []
       required: false
     - id: 15
-      name: employee_satisfaction
-      label: How satisfied are you with your job?
+      name: job_satisfaction
+      label: Job satisfaction?
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: job_security
-      label: How secure do you feel in your job?
+      name: culture_value_2
+      label: Culture Value 2
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Frequent
+      - Occasional
+      - Rarely
       required: false
     - id: 17
-      name: work_life_balance
-      label: How satisfied are you with your work-life balance?
+      name: intro_2
+      label: Intro 2
       hint: null
-      type: number
+      type: note
       options: []
       required: false
     - id: 18
-      name: communication_with_management
-      label: How often do you have face-to-face meetings with your manager?
+      name: conclusion
+      label: Conclusion
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: communication_with_colleagues
-      label: How often do you have team meetings?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: open_mindedness
-      label: How open-minded are your colleagues?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: collaboration
-      label: How much collaboration do you have with colleagues?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: trust
-      label: How much do you trust your colleagues?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: feedback_loops
-      label: How often do you receive feedback from colleagues?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: organizational_culture
-      label: How much value do you put on our organizational culture?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: organizational_culture
-      label: How much value do you put on our organizational culture?
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

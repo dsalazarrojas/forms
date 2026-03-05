@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Sales'', ''label'': ''Sales''}'
-      - '{''id'': 2, ''value'': ''Marketing'', ''label'': ''Marketing''}'
-      - '{''id'': 3, ''value'': ''IT'', ''label'': ''IT''}'
-      - '{''id'': 4, ''value'': ''HR'', ''label'': ''HR''}'
+      - Sales
+      - Marketing
+      - IT
+      - HR
       required: false
     - id: 5
       name: feedback_on_leadership
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Always'', ''label'': ''Always''}'
-      - '{''id'': 2, ''value'': ''Often'', ''label'': ''Often''}'
-      - '{''id'': 3, ''value'': ''Sometimes'', ''label'': ''Sometimes''}'
-      - '{''id'': 4, ''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
       required: false
     - id: 7
       name: feedback_on_leadership_value
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Important'', ''label'': ''Important''}'
-      - '{''id'': 2, ''value'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
-      - '{''id'': 3, ''value'': ''Not at all'', ''label'': ''Not at all''}'
+      - Important
+      - Somewhat Important
+      - Not at all
       required: false
     - id: 8
       name: date

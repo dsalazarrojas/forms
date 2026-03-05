@@ -4,217 +4,126 @@ inputSchema:
     title: Music And Play Knowledge Quiz
     pages:
     - id: 1
-      name: music_and_play_knowledge_quiz
-      label: Introduction
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: music_and_play_knowledge_quiz_1
+      label: How often do you listen to music?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Rarely
+      - Never
+      required: true
+    - id: 2
+      name: music_and_play_knowledge_quiz_2
       label: Who is your favorite musician?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Classical
+      - Pop
+      - Rock
+      - Jazz
       required: true
     - id: 3
-      name: music_and_play_knowledge_quiz_2
-      label: Which instrument are you familiar with?
+      name: music_and_play_knowledge_quiz_3
+      label: Which instrument do you usually play?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Piano
+      - Guitar
+      - Drums
+      - Bass
       required: true
     - id: 4
-      name: music_and_play_knowledge_quiz_3
+      name: music_and_play_knowledge_quiz_4
       label: How long have you been playing music?
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: music_and_play_knowledge_quiz_4
+      name: music_and_play_knowledge_quiz_5
       label: What is your favorite music genre?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Classical
+      - Pop
+      - Rock
+      - Jazz
       required: true
     - id: 6
-      name: music_and_play_knowledge_quiz_5
-      label: Which music style do you like best?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 7
       name: music_and_play_knowledge_quiz_6
-      label: How do you usually listen to music?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: music_and_play_knowledge_quiz_7
-      label: What is your favorite music artist?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: music_and_play_knowledge_quiz_8
       label: How often do you go to concerts?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Every day
+      - Several times a month
+      - Rarely
+      - Never
       required: false
-    - id: 10
-      name: music_and_play_knowledge_quiz_9
-      label: What is your favorite music festival?
+    - id: 7
+      name: music_and_play_knowledge_quiz_7
+      label: Which music style do you like best?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Classical
+      - Pop
+      - Rock
+      - Jazz
+      required: true
+    - id: 8
+      name: music_and_play_knowledge_quiz_8
+      label: How do you usually purchase music?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-store
+      - Streaming
+      - Downloading
+      required: true
+    - id: 9
+      name: music_and_play_knowledge_quiz_9
+      label: What is your favorite music artist?
+      hint: null
+      type: select_one
+      options:
+      - Classical Artist
+      - Pop Artist
+      - Rock Artist
+      - Jazz Artist
+      required: false
+    - id: 10
+      name: music_and_play_knowledge_quiz_10
+      label: How often do you go to music festivals?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a month
+      - Rarely
+      - Never
       required: false
     - id: 11
-      name: music_and_play_knowledge_quiz_10
+      name: music_and_play_knowledge_quiz_11
       label: How long do you usually listen to music?
       hint: null
       type: number
       options: []
       required: false
     - id: 12
-      name: music_and_play_knowledge_quiz_11
-      label: How do you usually purchase music?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: music_and_play_knowledge_quiz_13
-      label: What is your favorite music genre?
+      name: music_and_play_knowledge_quiz_12
+      label: What is your favorite music festival?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: music_and_play_knowledge_quiz_14
-      label: Which music style do you like best?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: music_and_play_knowledge_quiz_15
-      label: How often do you go to concerts?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: music_and_play_knowledge_quiz_16
-      label: What is your favorite music artist?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: music_and_play_knowledge_quiz_17
-      label: How long do you usually listen to music?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: music_and_play_knowledge_quiz_18
-      label: How do you usually purchase music?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: music_and_play_knowledge_quiz_19
-      label: How often do you go to music festivals?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: music_and_play_knowledge_quiz_20
-      label: What is your favorite music genre?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: music_and_play_knowledge_quiz_21
-      label: Which music style do you like best?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: music_and_play_knowledge_quiz_22
-      label: How often do you go to concerts?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: music_and_play_knowledge_quiz_23
-      label: What is your favorite music artist?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: music_and_play_knowledge_quiz_24
-      label: How long do you usually listen to music?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: music_and_play_knowledge_quiz_25
-      label: How often do you purchase music?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Classical Festival
+      - Pop Festival
+      - Rock Festival
+      - Jazz Festival
       required: false

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Active with restriction''}'
-      - '{''value'': ''Non-Active''}'
-      - '{''value'': ''Non-Active with restriction''}'
-      - '{''value'': ''Unable to perform''}'
+      - Active
+      - Active with restriction
+      - Non-Active
+      - Non-Active with restriction
+      - Unable to perform
       required: true
     - id: 4
       name: treatment_plan
@@ -46,12 +35,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''Rest and Ice''}'
-      - '{''value'': ''Stretching and Mobilization''}'
-      - '{''value'': ''Activity modification''}'
-      - '{''value'': ''Activity cessation''}'
-      - '{''value'': ''Other''}'
+      - None
+      - Rest and Ice
+      - Stretching and Mobilization
+      - Activity modification
+      - Activity cessation
+      - Other
       required: true
     - id: 5
       name: medication
@@ -73,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Not scheduled''}'
+      - 'True'
+      - 'False'
+      - Not scheduled
       required: true
     - id: 8
       name: patient_information
@@ -118,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Not required''}'
+      - 'True'
+      - 'False'
+      - Not required
       required: true
     - id: 14
       name: injury_type

@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 3 months'', ''value'': ''less_than_3_months''}'
-      - '{''id'': 2, ''label'': ''3 to 6 months'', ''value'': ''three_to_six_months''}'
-      - '{''id'': 3, ''label'': ''6 months to 1 year'', ''value'': ''six_months_to_one_year''}'
-      - '{''id'': 4, ''label'': ''1 to 2 years'', ''value'': ''one_to_two_years''}'
-      - '{''id'': 5, ''label'': ''2 years or more'', ''value'': ''two_or_more_years''}'
+      - Less than 3 months
+      - 3 to 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 years or more
       required: false
     - id: 6
       name: notice_period
@@ -77,11 +77,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Part-time'', ''value'': ''part-time''}'
-      - '{''id'': 2, ''label'': ''Full-time'', ''value'': ''full-time''}'
-      - '{''id'': 3, ''label'': ''Contract'', ''value'': ''contract''}'
-      - '{''id'': 4, ''label'': ''Freelance'', ''value'': ''freelance''}'
-      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': ''other''}'
+      - Part-time
+      - Full-time
+      - Contract
+      - Freelance
+      - Other (please specify)
       required: false
     - id: 11
       name: job_type
@@ -89,11 +89,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Permanent'', ''value'': ''permanent''}'
-      - '{''id'': 2, ''label'': ''Temporary'', ''value'': ''temporary''}'
-      - '{''id'': 3, ''label'': ''Seasonal'', ''value'': ''seasonal''}'
-      - '{''id'': 4, ''label'': ''Intern'', ''value'': ''intern''}'
-      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': ''other''}'
+      - Permanent
+      - Temporary
+      - Seasonal
+      - Intern
+      - Other (please specify)
       required: false
     - id: 12
       name: employment_type
@@ -101,10 +101,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full-time'', ''value'': ''full-time''}'
-      - '{''id'': 2, ''label'': ''Part-time'', ''value'': ''part-time''}'
-      - '{''id'': 3, ''label'': ''Permanent'', ''value'': ''permanent''}'
-      - '{''id'': 4, ''label'': ''Temporary'', ''value'': ''temporary''}'
+      - Full-time
+      - Part-time
+      - Permanent
+      - Temporary
       required: false
     - id: 13
       name: job_location
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Remote'', ''value'': ''remote''}'
-      - '{''id'': 2, ''label'': ''On-site'', ''value'': ''on-site''}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''hybrid''}'
+      - Remote
+      - On-site
+      - Hybrid
       required: false
     - id: 14
       name: job_level
@@ -122,10 +122,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Entry-Level'', ''value'': ''entry-level''}'
-      - '{''id'': 2, ''label'': ''Mid-Level'', ''value'': ''mid-level''}'
-      - '{''id'': 3, ''label'': ''Senior'', ''value'': ''senior''}'
-      - '{''id'': 4, ''label'': ''Executive'', ''value'': ''executive''}'
+      - Entry-Level
+      - Mid-Level
+      - Senior
+      - Executive
       required: false
     - id: 15
       name: job_function
@@ -170,29 +170,29 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: work_status
-      label: Work Status
+      name: work_status_2
+      label: Work Status 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: job_description
-      label: Job Description
+      name: job_description_2
+      label: Job Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: work_experience
-      label: Work Experience
+      name: work_experience_2
+      label: Work Experience 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: notice_period
-      label: Notice Period
+      name: notice_period_2
+      label: Notice Period 2
       hint: null
       type: time
       options: []
@@ -203,9 +203,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''id'': 2, ''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''rejected''}'
-      - '{''id'': 4, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
-      - '{''id'': 5, ''label'': ''Completed'', ''value'': ''completed''}'
+      - Pending
+      - Approved
+      - Rejected
+      - Cancelled
+      - Completed
       required: false

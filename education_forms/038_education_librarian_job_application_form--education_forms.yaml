@@ -4,44 +4,83 @@ inputSchema:
     title: Education Librarian Job Application Form
     pages:
     - id: 1
-      name: user_input_1
-      label: User Input
-      hint: null
+      name: highest_education_level
+      label: What is your highest level of education completed?
+      hint: Please specify your highest completed education level
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: user_input_2
-      label: User Input
-      hint: null
+      name: work_experience
+      label: What is your current or most recent work experience in education or related
+        fields?
+      hint: Provide a brief description of your experience
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: user_input_3
-      label: User Input
-      hint: null
-      type: date
+      name: expertise_lib_management_systems
+      label: What is your expertise in library management systems or information technologies?
+      hint: Describe any relevant experience or certifications with specific systems
+      type: text
       options: []
       required: false
     - id: 4
-      name: user_input_4
-      label: User Input
-      hint: null
+      name: professional_certifications
+      label: Do you hold any professional certifications or licenses?
+      hint: List any relevant certifications or licenses
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 5
+      name: availability_shifts
+      label: What is your availability for working hours, considering any flexible
+        or standard shifts?
+      hint: Please specify any specific shifts you are available or flexible
       type: time
       options: []
       required: false
-    - id: 5
-      name: user_input_5
-      label: User Input
-      hint: null
+    - id: 6
+      name: pressure_management
+      label: How would you rate your ability to work well under pressure in a fast-paced
+        environment?
+      hint: Rate from 1 to 10, where 1 is low and 10 is high
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: collection_management
+      label: Do you have experience with collection management and cataloging processes?
+      hint: Describe any relevant experience or certifications
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 8
+      name: resource_sharing
+      label: Are you familiar with library-specific software and platforms for resource
+        sharing and discovery?
+      hint: List any specific platforms or systems you are familiar with
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 9
+      name: teaching_research
+      label: How many years of experience do you have with teaching or academic research?
+      hint: Specify the exact number of years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: areas_of_knowledge
+      label: What specific areas of knowledge or skills do you bring to the role of
+        an education librarian?
+      hint: Be specific and provide examples
       type: text
       options: []
-      required: false
-    - id: 6
-      name: user_input_6
-      label: User Input
-      hint: null
-      type: email
-      options: []
-      required: false
+      required: true

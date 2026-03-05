@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Denied
+      - Pending
       required: false
     - id: 6
       name: loan_amount
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 12
       name: loan_frequency

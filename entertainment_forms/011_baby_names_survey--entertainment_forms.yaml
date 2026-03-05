@@ -1,86 +1,89 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Baby Names Survey
     pages:
-      - id: 1
-        name: parent_name
-        label: Parent name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: expected_due_date
-        label: Expected due date
-        hint: Optional
-        type: date
-        options: []
-        required: false
-      - id: 3
-        name: gender_preference
-        label: Gender preference
-        hint: If known
-        type: select_one
-        options: [Boy, Girl, No preference, Undisclosed]
-        required: false
-      - id: 4
-        name: favorite_names_top3
-        label: Top three favorite names
-        hint: Comma separated
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: name_theme
-        label: Preferred name theme
-        hint: Family, traditional, modern, unique
-        type: select_one
-        options: [Family names, Traditional, Modern, Biblical, Nature inspired]
-        required: false
-      - id: 6
-        name: name_meaning_importance
-        label: Importance of name meaning
-        hint: How important is meaning to you
-        type: select_one
-        options: [Not important, Somewhat important, Very important]
-        required: false
-      - id: 7
-        name: initials_preference
-        label: Preference about initials
-        hint: Avoid certain initials or combinations
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: family_names_considered
-        label: Family names considered
-        hint: List any family names under consideration
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: submit_comments
-        label: Additional comments
-        hint: Anything else about naming choices
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: consent_to_publish
-        label: Consent to publish name suggestions
-        hint: For sharing in community polls
-        type: select_one
-        options: [Yes, No]
-        required: false
+    - id: 1
+      name: parent_name
+      label: Parent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expected_due_date
+      label: Expected due date
+      hint: Optional
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: gender_preference
+      label: Gender preference
+      hint: If known
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - No preference
+      - Undisclosed
+      required: false
+    - id: 4
+      name: favorite_names_top3
+      label: Top three favorite names
+      hint: Comma separated
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name_theme
+      label: Preferred name theme
+      hint: Family, traditional, modern, unique
+      type: select_one
+      options:
+      - Family names
+      - Traditional
+      - Modern
+      - Biblical
+      - Nature inspired
+      required: false
+    - id: 6
+      name: name_meaning_importance
+      label: Importance of name meaning
+      hint: How important is meaning to you
+      type: select_one
+      options:
+      - Not important
+      - Somewhat important
+      - Very important
+      required: false
+    - id: 7
+      name: initials_preference
+      label: Preference about initials
+      hint: Avoid certain initials or combinations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_names_considered
+      label: Family names considered
+      hint: List any family names under consideration
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_comments
+      label: Additional comments
+      hint: Anything else about naming choices
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_publish
+      label: Consent to publish name suggestions
+      hint: For sharing in community polls
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

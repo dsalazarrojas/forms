@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Management'', ''value'': ''management''}'
-      - '{''id'': 2, ''label'': ''Engineering'', ''value'': ''engineering''}'
-      - '{''id'': 3, ''label'': ''Sales'', ''value'': ''sales''}'
+      - Management
+      - Engineering
+      - Sales
       required: true
     - id: 8
       name: job_level
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Intern'', ''value'': ''intern''}'
-      - '{''id'': 2, ''label'': ''Full-time'', ''value'': ''fulltime''}'
-      - '{''id'': 3, ''label'': ''Part-time'', ''value'': ''parttime''}'
+      - Intern
+      - Full-time
+      - Part-time
       required: true
     - id: 9
       name: job_location
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Local'', ''value'': ''local''}'
-      - '{''id'': 2, ''label'': ''Remote'', ''value'': ''remote''}'
+      - Local
+      - Remote
       required: true
     - id: 10
       name: job_type
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Contract'', ''value'': ''contract''}'
-      - '{''id'': 2, ''label'': ''Permanent'', ''value'': ''permanent''}'
+      - Contract
+      - Permanent
       required: true
     - id: 11
       name: job_status
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Applied'', ''value'': ''applied''}'
-      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Applied
+      - In Progress
       required: true
     - id: 19
       name: job_rejection_reason
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Applied'', ''value'': ''applied''}'
-      - '{''id'': 2, ''label'': ''Accepted'', ''value'': ''accepted''}'
-      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''rejected''}'
+      - Applied
+      - Accepted
+      - Rejected
       required: true
     - id: 24
       name: job_application_declaration_form_comments

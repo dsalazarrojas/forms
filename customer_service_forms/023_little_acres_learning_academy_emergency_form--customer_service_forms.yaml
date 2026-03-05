@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Parent/Guardian''}'
-      - '{''label'': ''Grandparent''}'
-      - '{''label'': ''Legal Custodian''}'
+      - Parent/Guardian
+      - Grandparent
+      - Legal Custodian
       required: true
     - id: 5
       name: contact_info
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Grandparent''}'
-      - '{''label'': ''Legal Custodian''}'
+      - Parent
+      - Grandparent
+      - Legal Custodian
       required: false
     - id: 12
       name: medical_treatment
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: medical_treatment_notes
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Certified''}'
-      - '{''label'': ''Not Certified''}'
+      - Certified
+      - Not Certified
       required: false
     - id: 15
       name: medical_certification_number

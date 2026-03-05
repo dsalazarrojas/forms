@@ -58,10 +58,8 @@ inputSchema:
       hint: Approval for student to attend
       type: select_one
       options:
-      - label: Yes - My child may attend
-        value: true
-      - label: No - My child will not attend
-        value: false
+      - Yes - My child may attend
+      - No - My child will not attend
       required: true
     - id: 9
       name: transport_consent
@@ -69,12 +67,9 @@ inputSchema:
       hint: Select all approved modes
       type: select_multiple
       options:
-      - label: Provided School Bus
-        value: bus
-      - label: Public Transit or Rail
-        value: public
-      - label: Walking to local site
-        value: walking
+      - Provided School Bus
+      - Public Transit or Rail
+      - Walking to local site
       required: true
     - id: 10
       name: section_medical_emergency
@@ -110,10 +105,8 @@ inputSchema:
       hint: In case of urgent need during the trip
       type: select_one
       options:
-      - label: I Authorize
-        value: true
-      - label: I Do Not Authorize
-        value: false
+      - I Authorize
+      - I Do Not Authorize
       required: true
     - id: 15
       name: today_date

@@ -9,44 +9,43 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''contentProvided'': ''Good''}'
-      - '{''veryGood'': ''Very Good''}'
-      - '{''noResources'': ''No Resources''}'
-      - '{''limitedResources'': ''Limited Resources''}'
-      - '{''excellentResources'': ''Excellent Resources''}'
+      - Very Good
+      - Good
+      - Fair
+      - Limited Resources
+      - No Resources
       required: false
     - id: 2
+      name: teaching_quality
+      label: How would you rate the teaching quality?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
       name: safety
       label: How safe do you feel in the classroom?
       hint: null
       type: select_multiple
       options:
-      - '{''safe'': ''Safe''}'
-      - '{''unsafe'': ''Unsafe''}'
-      - '{''unsure'': ''Unsure''}'
-      required: false
-    - id: 3
-      name: teacher_quality
-      label: How would you rate your teaching quality?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
+      - Safe
+      - Unsafe
+      - Unsure
       required: false
     - id: 4
       name: overall_satisfaction
       label: Overall Satisfaction
-      hint: What is your overall satisfaction with the class?
+      hint: null
       type: select_multiple
       options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: comments
@@ -56,182 +55,70 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: email
-      label: Email
+      name: resources
+      label: How would you rate the availability of technology resources in the classroom?
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 7
-      name: phone
-      label: Phone
+      name: teaching_quality_1
+      label: How would you rate the teaching quality in terms of explaining concepts?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
-      name: comments_2
-      label: Do you have any comments or suggestions?
+      name: overall_satisfaction_1
+      label: Overall Satisfaction 1
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 9
-      name: teaching_quality_2
-      label: How would you rate the teaching quality?
+      name: safety_1
+      label: Safety 1
       hint: null
       type: select_multiple
       options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
+      - Safe
+      - Unsafe
+      - Unsure
       required: false
     - id: 10
-      name: safety_2
-      label: How would you rate your safety?
+      name: feedback
+      label: How would you rate the teacher's feedback on your performance?
       hint: null
       type: select_multiple
       options:
-      - '{''safe'': ''Safe''}'
-      - '{''unsafe'': ''Unsafe''}'
-      - '{''unsure'': ''Unsure''}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 11
-      name: overall_satisfaction_2
-      label: Overall Satisfaction
-      hint: What is your overall satisfaction with the class?
-      type: select_multiple
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
+      name: resources_1
+      label: How would you rate the availability of resources in the classroom?
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 12
-      name: resources
-      label: How would you rate the classroom resources?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: teaching_quality_3
-      label: How would you rate the teaching quality?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: overall_satisfaction_3
-      label: Overall Satisfaction
-      hint: What is your overall satisfaction with the class?
-      type: select_multiple
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
-      required: false
-    - id: 15
-      name: classroom_resources_2
-      label: How would you rate the classroom resources?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: teaching_quality_4
-      label: How would you rate the teaching quality?
+      name: overall_satisfaction_2
+      label: Overall Satisfaction 2
       hint: null
       type: select_multiple
       options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
-      required: false
-    - id: 17
-      name: overall_satisfaction_4
-      label: Overall Satisfaction
-      hint: What is your overall satisfaction with the class?
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: resource
-      label: How would you rate the resources?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: teaching_quality_5
-      label: How would you rate the teaching quality?
-      hint: null
-      type: select_one
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      required: false
-    - id: 20
-      name: overall_satisfaction_5
-      label: Overall Satisfaction
-      hint: What is your overall satisfaction with the class?
-      type: select_multiple
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
-      required: false
-    - id: 21
-      name: classroom_resources_3
-      label: How would you rate the classroom resources?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: resource_2
-      label: How would you rate the classroom resources?
-      hint: null
-      type: select_one
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''limitedResources'': ''Limited Resources''}'
-      - '{''noResources'': ''No Resources''}'
-      required: false
-    - id: 23
-      name: resource_3
-      label: How would you rate the resources?
-      hint: null
-      type: select_multiple
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''limitedResources'': ''Limited Resources''}'
-      required: false
-    - id: 24
-      name: resource_4
-      label: How would you rate the resources?
-      hint: null
-      type: select_one
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      required: false
-    - id: 25
-      name: overall_satisfaction_6
-      label: Overall Satisfaction
-      hint: What is your overall satisfaction with the class?
-      type: select_multiple
-      options:
-      - '{''veryGood'': ''Very Good''}'
-      - '{''good'': ''Good''}'
-      - '{''fair'': ''Fair''}'
-      - '{''poor'': ''Poor''}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: false

@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''morning''}'
-      - '{''id'': 2, ''name'': ''afternoon''}'
-      - '{''id'': 3, ''name'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 5
       name: events
@@ -71,14 +71,14 @@ inputSchema:
       required: false
     - id: 10
       name: assigned_tool_id
-      label: Assigned Tool
+      label: Assigned Tool Id
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: assigned_tool_name
-      label: Assigned Tool
+      label: Assigned Tool Name
       hint: null
       type: text
       options: []
@@ -92,7 +92,7 @@ inputSchema:
       required: false
     - id: 13
       name: duty_report_id
-      label: Duty Report
+      label: Duty Report Id
       hint: null
       type: text
       options: []
@@ -106,21 +106,21 @@ inputSchema:
       required: false
     - id: 15
       name: officer_name_id
-      label: Officer Name
+      label: Officer Name Id
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: officer_name_full
-      label: Officer Name
+      label: Officer Name Full
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: officer_name_last
-      label: Officer Name
+      label: Officer Name Last
       hint: null
       type: text
       options: []
@@ -131,55 +131,55 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''prophets''}'
-      - '{''id'': 2, ''name'': ''duty''}'
-      - '{''id'': 3, ''name'': ''shift''}'
+      - prophets
+      - duty
+      - shift
       required: false
     - id: 19
       name: duty_type_id
-      label: Duty Type
+      label: Duty Type Id
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: duty_type_name
-      label: Duty Type
+      label: Duty Type Name
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: officer_id
-      label: Officer ID
+      name: officer_id_2
+      label: Officer Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: officer_name_full_id
-      label: Officer Name
+      label: Officer Name Full Id
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: officer_last_id
-      label: Officer Name
+      label: Officer Last Id
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: officer_last
-      label: Officer Name
+      label: Officer Last
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: officer_last_name
-      label: Officer Name
+      label: Officer Last Name
       hint: null
       type: text
       options: []

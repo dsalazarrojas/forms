@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active Member''}'
-      - '{''value'': ''Non Active Member''}'
-      - '{''value'': ''Pending Membership''}'
+      - Active Member
+      - Non Active Member
+      - Pending Membership
       required: true
     - id: 9
       name: medical_association_membership_application_verification
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active Member''}'
-      - '{''value'': ''Non Active Member''}'
-      - '{''value'': ''Pending Membership''}'
+      - Active Member
+      - Non Active Member
+      - Pending Membership
       required: false
     - id: 10
       name: date_of_application
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: medical_association_membership_application_review_date
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: medical_association_membership_application_comments_reviewer
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: medical_association_membership_application_fee_paid_date

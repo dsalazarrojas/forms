@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
       name: child_survey
@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Son'', ''value'': ''son''}'
-      - '{''label'': ''Daughter'', ''value'': ''daughter''}'
-      - '{''label'': ''Both'', ''value'': ''both''}'
-      - '{''label'': ''None'', ''value'': ''none''}'
+      - Son
+      - Daughter
+      - Both
+      - None
       required: false
     - id: 3
       name: contact_number

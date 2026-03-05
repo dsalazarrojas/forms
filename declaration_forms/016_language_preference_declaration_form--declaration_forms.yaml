@@ -15,150 +15,134 @@ inputSchema:
     title: Language Preference Declaration Form
     pages:
     - id: 1
-      name: language_preference
-      label: language_preference
+      name: preferred_language
+      label: What is your preferred language?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 2
       name: primary_language
-      label: primary_language
+      label: What is your primary language?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 3
       name: contact_language
-      label: contact_language
+      label: What is your preferred contact language?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 4
       name: translation_needs
-      label: translation_needs
+      label: How much translation needs do you have?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''English''}'
-      - '{''id'': 3, ''name'': ''Spanish''}'
-      - '{''id'': 4, ''name'': ''French''}'
-      - '{''id'': 5, ''name'': ''Arabic''}'
+      - None
+      - English
+      - Spanish
+      - French
       required: false
     - id: 5
       name: main_english_language
-      label: main_english_language
+      label: Do you have a primary English language proficiency?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
       required: false
     - id: 6
       name: language_of_documents
-      label: language_of_documents
+      label: What language are documents usually in for your work?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
-      - '{''id'': 4, ''name'': ''Arabic''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 7
       name: preferred_contact_language
-      label: preferred_contact_language
+      label: Preferred Contact Language
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
-      - '{''id'': 4, ''name'': ''Arabic''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 8
-      name: primary_language
-      label: primary_language
+      name: primary_language_2
+      label: Primary Language 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 9
-      name: contact_language
-      label: contact_language
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
-      required: false
-    - id: 10
-      name: translation_needs
-      label: translation_needs
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''English''}'
-      - '{''id'': 3, ''name'': ''Spanish''}'
-      - '{''id'': 4, ''name'': ''French''}'
-      - '{''id'': 5, ''name'': ''Arabic''}'
-      required: false
-    - id: 11
-      name: main_english_language
-      label: main_english_language
+      name: main_english_language_2
+      label: Do you have a main English language proficiency?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not sure''}'
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 10
+      name: language_needs
+      label: What translation needs do you have in your work?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 11
+      name: document_language
+      label: Document Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
       required: false
     - id: 12
-      name: language_of_documents
-      label: language_of_documents
+      name: preferred_language_2
+      label: Preferred Language 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
-      - '{''id'': 4, ''name'': ''Arabic''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 13
-      name: preferred_contact_language
-      label: preferred_contact_language
+      name: primary_language_3
+      label: Primary Language 3
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
-      - '{''id'': 4, ''name'': ''Arabic''}'
-      required: false
-    - id: 14
-      name: primary_language
-      label: primary_language
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false

@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''name1'', ''value'': ''name1''}'
-      - '{''name'': ''name2'', ''value'': ''name2''}'
-      - '{''name'': ''name3'', ''value'': ''name3''}'
+      - name1
+      - name2
+      - name3
       required: false
     - id: 10
       name: plan_start_date
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''duration1'', ''value'': 1}'
-      - '{''name'': ''duration2'', ''value'': 2}'
-      - '{''name'': ''duration3'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 13
       name: plan_status
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''status1'', ''value'': ''status1''}'
-      - '{''name'': ''status2'', ''value'': ''status2''}'
-      - '{''name'': ''status3'', ''value'': ''status3''}'
+      - Status 1
+      - Status 2
+      - Status 3
       required: true
     - id: 14
       name: assigned_tool
@@ -162,29 +162,29 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: created_by
-      label: Created By
+      name: created_by_2
+      label: Created By 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: updated_by
-      label: Updated By
+      name: updated_by_2
+      label: Updated By 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: updated_time
-      label: Updated Time
+      name: updated_time_2
+      label: Updated Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 25
-      name: deleted_at
-      label: Deleted At
+      name: deleted_at_2
+      label: Deleted At 2
       hint: null
       type: date
       options: []

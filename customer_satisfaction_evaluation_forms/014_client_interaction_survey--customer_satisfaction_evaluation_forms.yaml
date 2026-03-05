@@ -1,107 +1,117 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Interaction Survey
     pages:
-      - id: 1
-        name: client_name
-        label: Client Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: service_date
-        label: Date of Service or Interaction
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: staff_member
-        label: Name of Staff Member you interacted with
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: section_ratings
-        label: -- Satisfaction Ratings --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: professionalism_rating
-        label: How would you rate the professionalism of our staff?
-        hint: 1 - Poor to 5 - Excellent
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 6
-        name: communication_clarity
-        label: How clearly did we communicate with you?
-        hint: 1 - Not Clear to 5 - Extremely Clear
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: true
-      - id: 7
-        name: resolution_status
-        label: Was your issue or request resolved effectively?
-        hint: null
-        type: select_one
-        options: [Yes, Partially, No]
-        required: true
-      - id: 8
-        name: response_speed
-        label: How satisfied were you with the speed of our response?
-        hint: 1 - Dissatisfied to 5 - Very Satisfied
-        type: select_one
-        options: [1, 2, 3, 4, 5]
-        required: false
-      - id: 9
-        name: section_feedback
-        label: -- Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: strengths
-        label: What did we do well during this interaction?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: improvements
-        label: What could we have done better?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: referral_likelihood
-        label: Would you recommend our services to others?
-        hint: null
-        type: select_one
-        options: [Yes, No, Maybe]
-        required: false
-      - id: 13
-        name: additional_comments
-        label: Any additional comments
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_date
+      label: Date of Service or Interaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: staff_member
+      label: Name of Staff Member you interacted with
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_ratings
+      label: -- Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: professionalism_rating
+      label: How would you rate the professionalism of our staff?
+      hint: 1 - Poor to 5 - Excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: communication_clarity
+      label: How clearly did we communicate with you?
+      hint: 1 - Not Clear to 5 - Extremely Clear
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: resolution_status
+      label: Was your issue or request resolved effectively?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Partially
+      - 'False'
+      required: true
+    - id: 8
+      name: response_speed
+      label: How satisfied were you with the speed of our response?
+      hint: 1 - Dissatisfied to 5 - Very Satisfied
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: section_feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: strengths
+      label: What did we do well during this interaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: improvements
+      label: What could we have done better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_likelihood
+      label: Would you recommend our services to others?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

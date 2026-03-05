@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Instructor Led''}'
-      - '{''value'': ''Online''}'
-      - '{''value'': ''In-House''}'
+      - Instructor Led
+      - Online
+      - In-House
       required: false
     - id: 5
       name: rating
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Education''}'
-      - '{''value'': ''Training''}'
-      - '{''value'': ''Development''}'
+      - Education
+      - Training
+      - Development
       required: false
     - id: 10
       name: submission_date
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Formal''}'
-      - '{''value'': ''Casual''}'
-      - '{''value'': ''Business Casual''}'
+      - Formal
+      - Casual
+      - Business Casual
       required: false
     - id: 17
       name: session_type
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''In-House''}'
-      - '{''value'': ''In-Person''}'
+      - Online
+      - In-House
+      - In-Person
       required: false
     - id: 18
       name: location
@@ -140,8 +140,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Remote''}'
-      - '{''value'': ''On-site''}'
+      - Remote
+      - On-site
       required: false
     - id: 19
       name: follow_up
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 20
       name: follow_up_date

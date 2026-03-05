@@ -15,207 +15,36 @@ inputSchema:
     title: Reference Check For Team Members
     pages:
     - id: 1
-      name: reference_check_for_team_members_form
+      name: team_member_information
       label: Team Member Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: team_member_name
-      label: team_member_name
+      name: reference_check_info
+      label: Reference Check Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: team_member_job_title
-      label: team_member_job_title
+      name: evaluation_and_recommendation
+      label: Evaluation and Recommendation
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: team_member_start_date
-      label: team_member_start_date
+      name: comments_and_status
+      label: Comments and Status
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 5
-      name: team_member_end_date
-      label: team_member_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: reference_check_type
-      label: reference_check_type
-      hint: null
-      type: select_multiple
-      options:
-      - Internal
-      - External
-      - Manager
-      required: false
-    - id: 7
-      name: reference_check_frequency
-      label: reference_check_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - Quarterly
-      - Bi-annually
-      - Annually
-      - Bi-annually and Quarterly
-      required: false
-    - id: 8
-      name: reference_check_comment
-      label: reference_check_comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: reference_check_rating
-      label: reference_check_rating
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 10
-      name: reference_check_recommendation
-      label: reference_check_recommendation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Maybe
-      required: false
-    - id: 11
-      name: reference_check_comments
-      label: reference_check_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: reference_check_sourced_by
-      label: reference_check_sourced_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: reference_check_last_updated_by
-      label: reference_check_last_updated_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: reference_check_status
-      label: reference_check_status
-      hint: null
-      type: select_one
-      options:
-      - Open
-      - In Progress
-      - Complete
-      required: false
-    - id: 15
-      name: reference_check_comment
-      label: reference_check_comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: reference_check_rating
-      label: reference_check_rating
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 17
-      name: reference_check_recommendation
-      label: reference_check_recommendation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Maybe
-      required: false
-    - id: 18
-      name: reference_check_comments
-      label: reference_check_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: reference_check_sourced_by
-      label: reference_check_sourced_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: reference_check_last_updated_by
-      label: reference_check_last_updated_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: reference_check_status
-      label: reference_check_status
-      hint: null
-      type: select_one
-      options:
-      - Open
-      - In Progress
-      - Complete
-      required: false
-    - id: 22
-      name: reference_check_comment
-      label: reference_check_comment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: reference_check_rating
-      label: reference_check_rating
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 24
-      name: reference_check_recommendation
-      label: reference_check_recommendation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      - Maybe
-      required: false
-    - id: 25
-      name: reference_check_comments
-      label: reference_check_comments
+      name: meta_data
+      label: Meta Data
       hint: null
       type: text
       options: []

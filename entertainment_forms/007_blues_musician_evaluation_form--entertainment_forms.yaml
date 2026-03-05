@@ -1,204 +1,193 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Blues Musician Evaluation Form
     pages:
-      - id: 1
-        name: musician_name
-        label: Musician Name
-        hint: Full name or stage name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: evaluation_date
-        label: Evaluation Date
-        hint: Date of performance or audition
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: venue_or_event
-        label: Venue or Event Name
-        hint: Where did the performance take place?
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: evaluator_name
-        label: Evaluator Name
-        hint: Name of the person completing this evaluation
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: evaluator_role
-        label: Evaluator Role
-        hint: Your role in the organization
-        type: select_one
-        options:
-          - Festival Organizer
-          - Venue Manager
-          - Bandleader
-          - Music School Instructor
-          - Agent
-          - Other
-        required: true
-      - id: 6
-        name: performance_type
-        label: Performance Type
-        hint: Type of performance evaluated
-        type: select_one
-        options:
-          - Live Concert
-          - Audition
-          - Recording Session
-          - Rehearsal
-          - Competition
-        required: true
-      - id: 7
-        name: instrument_primary
-        label: Primary Instrument
-        hint: Main instrument played
-        type: select_one
-        options:
-          - Vocals
-          - Guitar
-          - Harmonica
-          - Piano/Keyboards
-          - Bass
-          - Drums
-          - Saxophone
-          - Trumpet
-          - Trombone
-          - Other
-        required: true
-      - id: 8
-        name: technical_skill_rating
-        label: Technical Skill Rating
-        hint: Rate technical proficiency
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Below Average
-          - 3 - Average
-          - 4 - Good
-          - 5 - Excellent
-        required: true
-      - id: 9
-        name: musicality_rating
-        label: Musicality Rating
-        hint: Rate musical expression and feel
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Below Average
-          - 3 - Average
-          - 4 - Good
-          - 5 - Excellent
-        required: true
-      - id: 10
-        name: stage_presence_rating
-        label: Stage Presence Rating
-        hint: Rate audience engagement and presence
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Below Average
-          - 3 - Average
-          - 4 - Good
-          - 5 - Excellent
-        required: true
-      - id: 11
-        name: repertoire_knowledge_rating
-        label: Repertoire Knowledge Rating
-        hint: Rate knowledge of blues repertoire
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Below Average
-          - 3 - Average
-          - 4 - Good
-          - 5 - Excellent
-        required: true
-      - id: 12
-        name: professionalism_rating
-        label: Professionalism Rating
-        hint: Rate punctuality and professionalism
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2 - Below Average
-          - 3 - Average
-          - 4 - Good
-          - 5 - Excellent
-        required: true
-      - id: 13
-        name: blues_styles
-        label: Blues Styles Performed
-        hint: Select styles demonstrated
-        type: select_multiple
-        options:
-          - Delta Blues
-          - Chicago Blues
-          - Texas Blues
-          - Electric Blues
-          - Acoustic Blues
-          - Jump Blues
-          - Soul Blues
-          - Contemporary Blues
-        required: false
-      - id: 14
-        name: strengths
-        label: Strengths
-        hint: List notable strengths
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: areas_for_improvement
-        label: Areas for Improvement
-        hint: Constructive feedback
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: overall_recommendation
-        label: Overall Recommendation
-        hint: Would you recommend this musician?
-        type: select_one
-        options:
-          - Highly Recommend
-          - Recommend
-          - Consider
-          - Do Not Recommend
-        required: true
-      - id: 17
-        name: would_rehire
-        label: Would You Hire Again?
-        hint: For future performances
-        type: select_one
-        options:
-          - Yes, Definitely
-          - Yes, Probably
-          - Maybe
-          - No
-        required: true
-      - id: 18
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other observations
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: musician_name
+      label: Musician Name
+      hint: Full name or stage name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of performance or audition
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: venue_or_event
+      label: Venue or Event Name
+      hint: Where did the performance take place?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of the person completing this evaluation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_role
+      label: Evaluator Role
+      hint: Your role in the organization
+      type: select_one
+      options:
+      - Festival Organizer
+      - Venue Manager
+      - Bandleader
+      - Music School Instructor
+      - Agent
+      - Other
+      required: true
+    - id: 6
+      name: performance_type
+      label: Performance Type
+      hint: Type of performance evaluated
+      type: select_one
+      options:
+      - Live Concert
+      - Audition
+      - Recording Session
+      - Rehearsal
+      - Competition
+      required: true
+    - id: 7
+      name: instrument_primary
+      label: Primary Instrument
+      hint: Main instrument played
+      type: select_one
+      options:
+      - Vocals
+      - Guitar
+      - Harmonica
+      - Piano/Keyboards
+      - Bass
+      - Drums
+      - Saxophone
+      - Trumpet
+      - Trombone
+      - Other
+      required: true
+    - id: 8
+      name: technical_skill_rating
+      label: Technical Skill Rating
+      hint: Rate technical proficiency
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: musicality_rating
+      label: Musicality Rating
+      hint: Rate musical expression and feel
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: stage_presence_rating
+      label: Stage Presence Rating
+      hint: Rate audience engagement and presence
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: repertoire_knowledge_rating
+      label: Repertoire Knowledge Rating
+      hint: Rate knowledge of blues repertoire
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: professionalism_rating
+      label: Professionalism Rating
+      hint: Rate punctuality and professionalism
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: blues_styles
+      label: Blues Styles Performed
+      hint: Select styles demonstrated
+      type: select_multiple
+      options:
+      - Delta Blues
+      - Chicago Blues
+      - Texas Blues
+      - Electric Blues
+      - Acoustic Blues
+      - Jump Blues
+      - Soul Blues
+      - Contemporary Blues
+      required: false
+    - id: 14
+      name: strengths
+      label: Strengths
+      hint: List notable strengths
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: Would you recommend this musician?
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Consider
+      - Do Not Recommend
+      required: true
+    - id: 17
+      name: would_rehire
+      label: Would You Hire Again?
+      hint: For future performances
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Yes, Probably
+      - Maybe
+      - 'False'
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

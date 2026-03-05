@@ -15,50 +15,50 @@ inputSchema:
     title: graduate-curriculum-relevance-questionnaire
     pages:
     - id: 1
-      name: category
-      label: category
+      name: introduction
+      label: Introduction
       hint: null
-      type: select_one
-      options:
-      - education-surveys
-      - questionnaire-templates
+      type: text
+      options: []
       required: false
     - id: 2
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: category
-      label: category
-      hint: Select a category
-      type: select_one
-      options:
-      - education-surveys
-      - questionnaire-templates
-      required: false
-    - id: 4
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: category
-      label: Category
+      name: curriculum_category
+      label: What category does the graduate curriculum belong to?
       hint: null
       type: select_one
       options:
       - education-surveys
       - questionnaire-templates
       required: true
-    - id: 6
+    - id: 3
       name: description
-      label: Description
+      label: Describe the graduate curriculum's relevance to education surveys.
       hint: null
       type: text
       options: []
+      required: true
+    - id: 4
+      name: curriculum_templates
+      label: Which category does the graduate curriculum relate to?
+      hint: null
+      type: select_one
+      options:
+      - education-surveys
+      - questionnaire-templates
+      required: true
+    - id: 5
+      name: curriculum_relevance_rating
+      label: How would you rate the graduate curriculum's relevance to education surveys?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: recommendation
+      label: Would you recommend using the graduate curriculum for education surveys?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: true

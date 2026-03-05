@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''label'': True, ''value'': 1}'
-      - '{''id'': ''7.1.1'', ''label'': False, ''value'': 0}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: meeting_booking_conf
@@ -60,7 +60,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8.1, ''label'': ''Email'', ''value'': ''Email''}'
-      - '{''id'': 8.2, ''label'': ''Call'', ''value'': ''Call''}'
-      - '{''id'': 8.3, ''label'': ''SMS'', ''value'': ''SMS''}'
+      - Email
+      - Call
+      - SMS
       required: false

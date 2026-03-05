@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Counseling''}'
-      - '{''id'': 2, ''label'': ''Financial Planning''}'
-      - '{''id'': 3, ''label'': ''Legal Support''}'
+      - Counseling
+      - Financial Planning
+      - Legal Support
       required: false
     - id: 6
       name: notes
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Leave of Absence''}'
-      - '{''id'': 3, ''label'': ''Retired''}'
+      - Active
+      - Leave of Absence
+      - Retired
       required: false
     - id: 8
       name: department_head_status
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approve''}'
-      - '{''id'': 2, ''label'': ''Reject''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
-      - '{''id'': 4, ''label'': ''Not Applicable''}'
+      - Approve
+      - Reject
+      - In Progress
+      - Not Applicable
       required: false

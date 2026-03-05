@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''work''}'
-      - '{''value'': ''personal''}'
-      - '{''value'': ''work_personal''}'
+      - work
+      - personal
+      - work personal
       required: true
     - id: 6
       name: union_leader_info_form_department
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''local''}'
-      - '{''value'': ''remote''}'
-      - '{''value'': ''hybrid''}'
+      - local
+      - remote
+      - hybrid
       required: true
     - id: 9
       name: union_leader_info_form_hours_worked
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''local''}'
-      - '{''value'': ''national''}'
-      - '{''value'': ''international''}'
+      - local
+      - national
+      - international
       required: true
     - id: 13
       name: union_leader_info_form_lead_position
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''local''}'
-      - '{''value'': ''national''}'
-      - '{''value'': ''international''}'
+      - local
+      - national
+      - international
       required: true
     - id: 16
       name: union_leader_info_form_union_name
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''local''}'
-      - '{''value'': ''national''}'
-      - '{''value'': ''international''}'
+      - local
+      - national
+      - international
       required: false
     - id: 21
       name: union_leader_info_form_employees
@@ -185,9 +185,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active''}'
-      - '{''value'': ''inactive''}'
-      - '{''value'': ''pending''}'
+      - active
+      - inactive
+      - pending
       required: false
     - id: 25
       name: union_leader_info_form_additional_comments

@@ -4,182 +4,106 @@ inputSchema:
     title: open_source_curriculum_testing_registration
     pages:
     - id: 1
-      name: curriculum_pilot_registration
-      label: Curriculum Pilot Registration
+      name: user_name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: course_registration
-      label: Course Registration
+      name: course_interest
+      label: Are you interested in participating in a pilot program for open source
+        curriculum testing?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
-      name: curriculum_pilot_registration
-      label: Curriculum Pilot Registration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: course_number
-      label: Course Number
+      label: What is the course number you are interested in?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: course_name
-      label: Course Name
+      label: What is the course name you are interested in?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: start_date
-      label: Start Date
+      label: When would you like to start the course?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: end_date
-      label: End Date
+      label: When would you like to end the course?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
-      name: email
-      label: Email
+      required: true
+    - id: 7
+      name: user_email
+      label: What is your email address?
       hint: null
       type: email
       options: []
+      required: true
+    - id: 8
+      name: user_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 9
-      name: phone
-      label: Phone
+      name: additional_notes
+      label: Do you have any additional notes?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: select_one
-      label: Select One
+      name: notifications
+      label: Are you interested in receiving email notifications?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: community_group
+      label: Are you interested in being part of a community group for the course?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: select_multiple
-      label: Select Multiple
+      name: decimal_value
+      label: What is the decimal value?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 13
-      name: decimal
-      label: Decimal
+      name: integer_value
+      label: What is the integer value?
       hint: null
       type: number
       options: []
       required: false
     - id: 14
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: time
-      label: Time
+      name: available_time
+      label: What is your available time slot?
       hint: null
       type: time
       options: []

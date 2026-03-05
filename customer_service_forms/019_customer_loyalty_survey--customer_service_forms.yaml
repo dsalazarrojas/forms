@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: frequency_of_visits
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Never'', ''value'': ''never''}'
-      - '{''label'': ''Occasionally'', ''value'': ''occasionally''}'
-      - '{''label'': ''Regularly'', ''value'': ''regularly''}'
-      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - Never
+      - Occasionally
+      - Regularly
+      - Daily
       required: false
     - id: 5
       name: overall_experience
@@ -57,11 +57,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very well'', ''value'': 5}'
-      - '{''label'': ''Well'', ''value'': 4}'
-      - '{''label'': ''Fairly well'', ''value'': 3}'
-      - '{''label'': ''Not well'', ''value'': 2}'
-      - '{''label'': ''Not at all'', ''value'': 1}'
+      - Very well
+      - Well
+      - Fairly well
+      - Not well
+      - Not at all
       required: false
     - id: 8
       name: employee_friendliness
@@ -69,11 +69,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Extremely friendly'', ''value'': 5}'
-      - '{''label'': ''Somewhat friendly'', ''value'': 4}'
-      - '{''label'': ''Not very friendly'', ''value'': 3}'
-      - '{''label'': ''Not at all friendly'', ''value'': 2}'
-      - '{''label'': ''Not at all'', ''value'': 1}'
+      - Extremely friendly
+      - Somewhat friendly
+      - Not very friendly
+      - Not at all friendly
+      - Not at all
       required: false
     - id: 9
       name: customer_service
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent'', ''value'': ''excellent''}'
-      - '{''label'': ''Good'', ''value'': ''good''}'
-      - '{''label'': ''Fair'', ''value'': ''fair''}'
-      - '{''label'': ''Poor'', ''value'': ''poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 10
       name: email_address

@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Form Title
+      label: Enter Form Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: category
-      label: Category
+      label: Select Category
       hint: null
       type: select_multiple
       options:
@@ -57,7 +57,7 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: category
+      name: category_2
       label: Category
       hint: null
       type: select_one
@@ -66,22 +66,22 @@ inputSchema:
       - Information Request Forms
       required: false
     - id: 9
-      name: description
-      label: Description
+      name: description_2
+      label: Description 2
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: output_file
-      label: Output File
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
@@ -89,7 +89,7 @@ inputSchema:
       - Other
       required: false
     - id: 12
-      name: form_title
+      name: form_title_2
       label: Form Title
       hint: null
       type: text

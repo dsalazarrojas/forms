@@ -30,11 +30,11 @@ inputSchema:
       hint: On a scale from 1 to 5
       type: select_one
       options:
-      - '{''value'': ''1''}'
-      - '{''value'': ''2''}'
-      - '{''value'': ''3''}'
-      - '{''value'': ''4''}'
-      - '{''value'': ''5''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 5
       name: topic_satisfaction
@@ -42,11 +42,11 @@ inputSchema:
       hint: On a scale from 1 to 5
       type: select_one
       options:
-      - '{''value'': ''1''}'
-      - '{''value'': ''2''}'
-      - '{''value'': ''3''}'
-      - '{''value'': ''4''}'
-      - '{''value'': ''5''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 6
       name: topic_relevance
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''relevant''}'
-      - '{''value'': ''irrelevant''}'
-      - '{''value'': ''neutral''}'
+      - relevant
+      - irrelevant
+      - neutral
       required: false
     - id: 7
       name: topic_recommendation
@@ -64,9 +64,9 @@ inputSchema:
       hint: Would you recommend this topic?
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''not sure''}'
+      - 'True'
+      - 'False'
+      - not sure
       required: false
     - id: 8
       name: topic_comments

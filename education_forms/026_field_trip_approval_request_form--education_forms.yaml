@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''School Principal'', ''value'': ''School Principal''}'
-      - '{''id'': 2, ''label'': ''Sponsor Company'', ''value'': ''Sponsor Company''}'
+      - School Principal
+      - Sponsor Company
       required: false
     - id: 3
       name: student_trip_details
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: sponsor_company_approval
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: trip_approval_status
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved'', ''value'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Pending Approval'', ''value'': ''Pending Approval''}'
-      - '{''id'': 3, ''label'': ''Denied'', ''value'': ''Denied''}'
+      - Approved
+      - Pending Approval
+      - Denied
       required: false
     - id: 16
       name: trip_approval_comments
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Archived'', ''value'': ''Archived''}'
-      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
+      - Active
+      - Archived
+      - Completed
       required: false
     - id: 24
       name: form_version

@@ -9,190 +9,122 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_info
-      label: Contact Info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: program_info
-      label: Program Info
+      label: Program Information
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: application_attachments
-      label: Application Attachments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: agreement_terms
       label: Agreement & Terms
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
-      name: review
-      label: Review and Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: email_address
-      label: Email Address
-      hint: null
-      type: email
-      options: []
       required: true
-    - id: 8
-      name: phone_number
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
+    - id: 5
       name: select_one
       label: Select One
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 12
+    - id: 6
       name: select_multiple
       label: Select Multiple
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
-    - id: 13
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
       name: note
       label: Note
       hint: null
       type: note
       options: []
       required: false
+    - id: 11
+      name: review_submit
+      label: Review and Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: application_attachments
+      label: Application Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: email
-      label: Email
+      name: email_address
+      label: Email Address
       hint: null
       type: email
       options: []
-      required: true
+      required: false
     - id: 15
-      name: date
-      label: Date
+      name: date_2
+      label: Date 2
       hint: null
       type: date
       options: []
-      required: true
+      required: false
     - id: 16
-      name: time
-      label: Time
+      name: time_2
+      label: Time 2
       hint: null
       type: time
       options: []
-      required: true
+      required: false
     - id: 17
-      name: select_one
-      label: Select One
+      name: phone
+      label: Phone
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 18
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 19
-      name: date
-      label: Date
-      hint: null
-      type: date
+      type: text
       options: []
-      required: true
-    - id: 20
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 21
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 22
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 23
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 25
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
+      required: false

@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5, ''label'': ''Broker''}'
-      - '{''id'': 6, ''label'': ''Insurance Company''}'
-      - '{''id'': 7, ''label'': ''HR Team''}'
+      - Broker
+      - Insurance Company
+      - HR Team
       required: false
     - id: 10
       name: company_address
@@ -108,7 +108,7 @@ inputSchema:
       required: false
     - id: 15
       name: employee_job_title
-      label: Job Title
+      label: Employee Job Title
       hint: null
       type: text
       options: []
@@ -124,13 +124,13 @@ inputSchema:
       required: false
     - id: 17
       name: company_job_type
-      label: Company Type
+      label: Company Job Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Part-Time''}'
-      - '{''id'': 2, ''label'': ''Full-Time''}'
-      - '{''id'': 3, ''label'': ''Temporary''}'
+      - Part-Time
+      - Full-Time
+      - Temporary
       required: false
     - id: 18
       name: employee_job_classification
@@ -143,7 +143,7 @@ inputSchema:
       required: false
     - id: 19
       name: company_job_classification
-      label: Job Classification
+      label: Company Job Classification
       hint: null
       type: select_one
       options:
@@ -177,7 +177,7 @@ inputSchema:
       required: false
     - id: 23
       name: company_dob
-      label: Date of Birth
+      label: Company Dob
       hint: null
       type: date
       options: []
@@ -191,7 +191,7 @@ inputSchema:
       required: false
     - id: 25
       name: company_dod
-      label: Date of Hire
+      label: Company Dod
       hint: null
       type: date
       options: []

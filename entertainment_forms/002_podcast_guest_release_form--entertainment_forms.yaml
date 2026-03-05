@@ -4,89 +4,40 @@ inputSchema:
     title: Podcast Guest Release Form
     pages:
     - id: 1
-      name: prophets
-      label: podcast_guest_release_form_1
+      name: guest_name
+      label: Guest Name
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: guest_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
       name: contact_number
-      label: contact_number
+      label: Contact Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: publish
-      label: published_on
+      required: true
+    - id: 3
+      name: published_on
+      label: Published On
       hint: null
       type: date
       options: []
-      required: false
-    - id: 6
-      name: publish
-      label: published_on
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: content
-      label: content
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: content
-      label: content
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 4
       name: agreement
-      label: agreement
+      label: Agreement
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Sure''}'
-      required: false
-    - id: 10
-      name: agreement
-      label: agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
+      - I agree
+      - I do not agree
+      - I'm not sure
+      required: true
+    - id: 5
       name: signature
-      label: signature
+      label: Signature
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: signature
-      label: signature
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

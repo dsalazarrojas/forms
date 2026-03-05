@@ -16,106 +16,118 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: welcome
+      label: Welcome to the Food Delivery Agent Quiz Form
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: about_company
-      label: about_company
+      name: communication_methods
+      label: How do you usually initiate contact with new customers?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Other
+      required: true
     - id: 3
-      name: attitude_towards_customer
-      label: attitude_towards_customer
+      name: customer_cases
+      label: What do you usually do when a customer is unhappy with their order?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Listen to their concern
+      - Offer a solution
+      - Ignore it
+      - Ask for details
+      required: true
     - id: 4
-      name: customer_cases
-      label: customer_cases
+      name: delivery_situations
+      label: How do you handle situations when a customer is in a rush?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Offer delivery ASAP
+      - Explain the estimated delivery time
+      - Provide alternatives
+      - Other
+      required: true
     - id: 5
-      name: first_page_question
-      label: first_page_question
+      name: communication
+      label: How do you usually communicate with customers?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - In-person
+      - Over phone
+      - Email
+      - Social media
+      required: true
     - id: 6
-      name: first_page_question
-      label: first_page_question
+      name: complaint_handling
+      label: How do you handle situations when a customer has a complaint?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Listen carefully
+      - Offer a solution
+      - Ignore it
+      - Ask for details
+      required: true
     - id: 7
-      name: first_page_question
-      label: first_page_question
+      name: difficult_customers
+      label: Can you provide an example of a time when you had to deal with a difficult
+        customer?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: customer_cases
-      label: customer_cases
+      name: food_dissatisfaction
+      label: What do you do when a customer is dissatisfied with their food?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Understand their concern
+      - Offer a solution
+      - Ignore it
+      - Ask for details
+      required: true
     - id: 9
-      name: attitude_towards_customer
-      label: attitude_towards_customer
+      name: customer_impressions
+      label: How do you ensure customers leave with a positive impression of our company?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Always greet them
+      - Offer a solution
+      - Ignore it
+      - Ask for details
+      required: true
     - id: 10
-      name: customer_cases
-      label: customer_cases
+      name: experience_rating
+      label: Can you rate your experience with handling customer complaints?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: first_page_question
-      label: first_page_question
+      name: satisfaction_rating
+      label: Can you rate your experience with handling dissatisfied customers?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 12
-      name: first_page_question
-      label: first_page_question
+      name: order_cancellations
+      label: What do you do when a customer calls to cancel their order?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: customer_cases
-      label: customer_cases
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: attitude_towards_customer
-      label: attitude_towards_customer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: customer_cases
-      label: customer_cases
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Listen to their request
+      - Offer a solution
+      - Ignore it
+      - Ask for details
+      required: true

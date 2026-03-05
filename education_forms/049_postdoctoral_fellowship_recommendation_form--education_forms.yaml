@@ -4,193 +4,46 @@ inputSchema:
     title: Postdoctoral Fellowship Recommendation Form
     pages:
     - id: 1
-      name: postdoctoral_fellowship_recommendation_form_1
-      label: first_name
+      name: candidate_info
+      label: Candidate's Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: postdoctoral_fellowship_recommendation_form_2
-      label: candidate_last_name
+      name: affiliation
+      label: Affiliation
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: postdoctoral_fellowship_recommendation_form_3
-      label: email
+      name: research_interests
+      label: Research Interests
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 4
-      name: postdoctoral_fellowship_recommendation_form_4
-      label: department
+      name: dates
+      label: Dates
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: postdoctoral_fellowship_recommendation_form_5
-      label: institution
+      name: evaluation
+      label: Evaluation
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: postdoctoral_fellowship_recommendation_form_6
-      label: postdoctoral_title
+      name: submission_info
+      label: Submission Information
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 7
-      name: postdoctoral_fellowship_recommendation_form_7
-      label: postdoctoral_scientific_interest
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: postdoctoral_fellowship_recommendation_form_8
-      label: postdoctoral_research_area
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: postdoctoral_fellowship_recommendation_form_9
-      label: postdoctoral_fellowship_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: postdoctoral_fellowship_recommendation_form_10
-      label: postdoctoral_fellowship_start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: postdoctoral_fellowship_recommendation_form_11
-      label: postdoctoral_fellowship_end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: postdoctoral_fellowship_recommendation_form_12
-      label: evaluation
-      hint: null
-      type: select_one
-      options:
-      - Postdoctoral Fellowship
-      - Not a postdoctoral fellowship
-      required: false
-    - id: 13
-      name: postdoctoral_fellowship_recommendation_form_13
-      label: recommendation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: postdoctoral_fellowship_recommendation_form_14
-      label: additional_comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: postdoctoral_fellowship_recommendation_form_15
-      label: name_on_card
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: postdoctoral_fellowship_recommendation_form_16
-      label: title
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: postdoctoral_fellowship_recommendation_form_17
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: postdoctoral_fellowship_recommendation_form_18
-      label: institution
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: postdoctoral_fellowship_recommendation_form_19
-      label: postdoctoral_research_area
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: postdoctoral_fellowship_recommendation_form_20
-      label: postdoctoral_fellowship_start_date
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: postdoctoral_fellowship_recommendation_form_21
-      label: postdoctoral_fellowship_end_date
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: postdoctoral_fellowship_recommendation_form_22
-      label: recommendation_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: postdoctoral_fellowship_recommendation_form_23
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: postdoctoral_fellowship_recommendation_form_24
-      label: submitted_by_position
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: postdoctoral_fellowship_recommendation_form_25
-      label: submitted_on
-      hint: null
-      type: date
       options: []
       required: false

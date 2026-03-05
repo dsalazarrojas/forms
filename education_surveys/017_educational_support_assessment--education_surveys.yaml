@@ -37,16 +37,12 @@ inputSchema:
       hint: Choose the most significant challenge
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''lack of interest in the subject'', ''label'': ''lack
-        of interest in the subject''}'
-      - '{''id'': 2, ''name'': ''difficulty keeping up with the pace'', ''label'':
-        ''difficulty keeping up with the pace''}'
-      - '{''id'': 3, ''name'': ''personal issues'', ''label'': ''personal issues''}'
-      - '{''id'': 4, ''name'': ''lack of support from teachers or peers'', ''label'':
-        ''lack of support from teachers or peers''}'
-      - '{''id'': 5, ''name'': ''lack of access to resources'', ''label'': ''lack
-        of access to resources''}'
-      - '{''id'': 6, ''name'': ''other'', ''label'': ''other''}'
+      - lack of interest in the subject
+      - difficulty keeping up with the pace
+      - personal issues
+      - lack of support from teachers or peers
+      - lack of access to resources
+      - other
       required: false
     - id: 6
       name: select_multiple
@@ -54,13 +50,11 @@ inputSchema:
       hint: Select multiple skills
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''time management'', ''label'': ''time management''}'
-      - '{''id'': 2, ''name'': ''organization skills'', ''label'': ''organization
-        skills''}'
-      - '{''id'': 3, ''name'': ''communication skills'', ''label'': ''communication
-        skills''}'
-      - '{''id'': 4, ''name'': ''self confidence'', ''label'': ''self-confidence''}'
-      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      - time management
+      - organization skills
+      - communication skills
+      - self-confidence
+      - other
       required: false
     - id: 7
       name: note
@@ -89,9 +83,9 @@ inputSchema:
       hint: Choose the primary goal
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''improve grades'', ''label'': ''improve grades''}'
-      - '{''id'': 2, ''name'': ''improve engagement'', ''label'': ''improve engagement''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''other''}'
+      - improve grades
+      - improve engagement
+      - other
       required: false
     - id: 11
       name: select_multiple
@@ -99,13 +93,11 @@ inputSchema:
       hint: Select multiple skills
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''time management'', ''label'': ''time management''}'
-      - '{''id'': 2, ''name'': ''organization skills'', ''label'': ''organization
-        skills''}'
-      - '{''id'': 3, ''name'': ''communication skills'', ''label'': ''communication
-        skills''}'
-      - '{''id'': 4, ''name'': ''self confidence'', ''label'': ''self-confidence''}'
-      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      - time management
+      - organization skills
+      - communication skills
+      - self-confidence
+      - other
       required: false
     - id: 12
       name: first_language
@@ -113,10 +105,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''english'', ''label'': ''english''}'
-      - '{''id'': 2, ''name'': ''chinese'', ''label'': ''chinese''}'
-      - '{''id'': 3, ''name'': ''spanish'', ''label'': ''spanish''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
+      - english
+      - chinese
+      - spanish
+      - other
       required: false
     - id: 13
       name: second_language
@@ -124,10 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''english'', ''label'': ''english''}'
-      - '{''id'': 2, ''name'': ''chinese'', ''label'': ''chinese''}'
-      - '{''id'': 3, ''name'': ''spanish'', ''label'': ''spanish''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
+      - english
+      - chinese
+      - spanish
+      - other
       required: false
     - id: 14
       name: third_language
@@ -135,8 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''english'', ''label'': ''english''}'
-      - '{''id'': 2, ''name'': ''chinese'', ''label'': ''chinese''}'
-      - '{''id'': 3, ''name'': ''spanish'', ''label'': ''spanish''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''other''}'
+      - english
+      - chinese
+      - spanish
+      - other
       required: false

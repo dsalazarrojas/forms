@@ -1,93 +1,104 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Content Download Form
     pages:
-      - id: 1
-        name: section_user_info
-        label: -- Lead Details --
-        hint: Please provide your information below to receive your free content.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: user_name
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: user_email
-        label: Your Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: section_content_request
-        label: -- Content Request --
-        hint: Please select the free content you'd like to receive.
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: content_requested
-        label: Free Content Requested
-        hint: null
-        type: select_one
-        options: [eBook, Whitepaper, Guide, Checklist, Webinar, Other]
-        required: true
-      - id: 6
-        name: industry_type
-        label: Your Industry
-        hint: null
-        type: select_one
-        options: [Marketing, Technology, Healthcare, Education, Finance, Other]
-        required: true
-      - id: 7
-        name: company_size_range
-        label: Your Company Size
-        hint: null
-        type: select_one
-        options: [1-10, 11-50, 51-200, 201-500, 501-1000, 1001+]
-        required: true
-      - id: 8
-        name: section_marketing_opt_in
-        label: -- Marketing and Newsletter Opt-in --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: marketing_opt_in
-        label: Sign up for our marketing updates?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 10
-        name: privacy_agreement
-        label: I have read and agree to the privacy policy regarding my data
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 11
-        name: download_request_date
-        label: Date of Download Request
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_user_info
+      label: -- Lead Details --
+      hint: Please provide your information below to receive your free content.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_content_request
+      label: -- Content Request --
+      hint: Please select the free content you'd like to receive.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: content_requested
+      label: Free Content Requested
+      hint: null
+      type: select_one
+      options:
+      - eBook
+      - Whitepaper
+      - Guide
+      - Checklist
+      - Webinar
+      - Other
+      required: true
+    - id: 6
+      name: industry_type
+      label: Your Industry
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Other
+      required: true
+    - id: 7
+      name: company_size_range
+      label: Your Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001+
+      required: true
+    - id: 8
+      name: section_marketing_opt_in
+      label: -- Marketing and Newsletter Opt-in --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: marketing_opt_in
+      label: Sign up for our marketing updates?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: download_request_date
+      label: Date of Download Request
+      hint: null
+      type: date
+      options: []
+      required: true

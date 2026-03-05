@@ -65,16 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
-        True}'
-      - '{''name'': ''contact_location'', ''label'': ''Contact Location'', ''type'':
-        ''text'', ''required'': True}'
-      - '{''name'': ''date_of_contact'', ''label'': ''Date of Contact'', ''type'':
-        ''date'', ''required'': True}'
-      - '{''name'': ''contact_type'', ''label'': ''Contact Type'', ''type'': ''select_one'',
-        ''options'': [{''name'': ''Direct Contact'', ''label'': ''Direct Contact''},
-        {''name'': ''Indirect Contact'', ''label'': ''Indirect Contact''}, {''name'':
-        ''No Contact'', ''label'': ''No Contact''}], ''required'': True}'
+      - Name
+      - Contact Location
+      - Date of Contact
+      - Contact Type
       required: true
     - id: 10
       name: medical_history_list
@@ -82,10 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''previously_treated_doctor'', ''label'': ''Previously Treated
-        Doctor'', ''type'': ''text'', ''required'': False}'
-      - '{''name'': ''medical_condition'', ''label'': ''Medical Conditions'', ''type'':
-        ''text'', ''required'': False}'
+      - Previously Treated Doctor
+      - Medical Conditions
       required: false
     - id: 11
       name: screening_results
@@ -100,12 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''result'', ''label'': ''Result'', ''type'': ''select_one'', ''options'':
-        [{''name'': ''Positive'', ''label'': ''Positive''}, {''name'': ''Negative'',
-        ''label'': ''Negative''}, {''name'': ''Unknown'', ''label'': ''Unknown''}],
-        ''required'': True}'
-      - '{''name'': ''reason'', ''label'': ''Reason'', ''type'': ''text'', ''required'':
-        True}'
+      - Result
+      - Reason
       required: false
     - id: 13
       name: screening_checklist_results
@@ -120,10 +108,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''screening_results'', ''label'': ''Screening Results'', ''type'':
-        ''select_multiple'', ''required'': True, ''options'': [{''name'': ''Positive'',
-        ''label'': ''Positive''}, {''name'': ''Negative'', ''label'': ''Negative''},
-        {''name'': ''Unknown'', ''label'': ''Unknown''}]}'
+      - Screening Results
       - Other
       required: true
     - id: 15
@@ -132,12 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
-        True}'
-      - '{''name'': ''phone'', ''label'': ''Phone'', ''type'': ''text'', ''required'':
-        True}'
-      - '{''name'': ''email'', ''label'': ''Email'', ''type'': ''text'', ''required'':
-        True}'
+      - Name
+      - Phone
+      - Email
       required: true
     - id: 16
       name: medical_declaration_list
@@ -145,20 +127,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''blood_pressure'', ''label'': ''Blood Pressure'', ''type'': ''text'',
-        ''required'': False}'
-      - '{''name'': ''diabetes'', ''label'': ''Diabetes'', ''type'': ''text'', ''required'':
-        False}'
-      - '{''name'': ''heart_disease'', ''label'': ''Heart Disease'', ''type'': ''text'',
-        ''required'': False}'
-      - '{''name'': ''kidney_disease'', ''label'': ''Kidney Disease'', ''type'': ''text'',
-        ''required'': False}'
-      - '{''name'': ''cancer'', ''label'': ''Cancer'', ''type'': ''text'', ''required'':
-        False}'
-      - '{''name'': ''epilepsy'', ''label'': ''Epilepsy'', ''type'': ''text'', ''required'':
-        False}'
-      - '{''name'': ''other_medical_condition'', ''label'': ''Other Medical Condition'',
-        ''type'': ''text'', ''required'': False}'
+      - Blood Pressure
+      - Diabetes
+      - Heart Disease
+      - Kidney Disease
+      - Cancer
+      - Epilepsy
+      - Other Medical Condition
       required: false
     - id: 17
       name: employee_checklist_list
@@ -166,12 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''employee_name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
-        True}'
-      - '{''name'': ''employee_id'', ''label'': ''Employee ID'', ''type'': ''text'',
-        ''required'': True}'
-      - '{''name'': ''employee_email'', ''label'': ''Email'', ''type'': ''text'',
-        ''required'': True}'
+      - Name
+      - Employee ID
+      - Email
       required: true
     - id: 18
       name: visitor_checklist_list
@@ -179,12 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''visitor_name'', ''label'': ''Name'', ''type'': ''text'', ''required'':
-        True}'
-      - '{''name'': ''contact_number'', ''label'': ''Contact Number'', ''type'': ''text'',
-        ''required'': True}'
-      - '{''name'': ''email'', ''label'': ''Email'', ''type'': ''text'', ''required'':
-        True}'
+      - Name
+      - Contact Number
+      - Email
       required: false
     - id: 19
       name: visitor_history_list
@@ -192,14 +161,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''contact_person'', ''label'': ''Contact Person'', ''type'': ''text'',
-        ''required'': False}'
-      - '{''name'': ''medical_condition'', ''label'': ''Medical Condition'', ''type'':
-        ''text'', ''required'': False}'
-      - '{''name'': ''other_medical_condition'', ''label'': ''Other Medical Condition'',
-        ''type'': ''text'', ''required'': False}'
-      - '{''name'': ''recently_treated_doctor'', ''label'': ''Recently Treated Doctor'',
-        ''type'': ''text'', ''required'': False}'
-      - '{''name'': ''visited_locations'', ''label'': ''Visited Locations'', ''type'':
-        ''text'', ''required'': False}'
+      - Contact Person
+      - Medical Condition
+      - Other Medical Condition
+      - Recently Treated Doctor
+      - Visited Locations
       required: false

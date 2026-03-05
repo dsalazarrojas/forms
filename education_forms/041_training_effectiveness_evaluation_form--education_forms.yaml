@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In-person''}'
-      - '{''id'': 2, ''label'': ''Online''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - In-person
+      - Online
+      - Other
       required: false
     - id: 3
       name: course_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Name''}'
-      - '{''id'': 2, ''label'': ''Title''}'
-      - '{''id'': 3, ''label'': ''Organization''}'
+      - Name
+      - Title
+      - Organization
       required: false
     - id: 5
       name: date_attended
@@ -134,10 +134,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Repeat the training''}'
-      - '{''id'': 2, ''label'': ''Improve the training''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Cancel the training''}'
+      - Repeat the training
+      - Improve the training
+      - Other
+      - Cancel the training
       required: false
     - id: 19
       name: participant_id

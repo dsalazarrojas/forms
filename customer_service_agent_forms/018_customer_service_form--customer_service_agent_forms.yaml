@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Jim''}'
-      - '{''label'': ''John''}'
-      - '{''label'': ''Jane''}'
+      - Jim
+      - John
+      - Jane
       required: false
     - id: 9
       name: customer_form_submit
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Save Draft''}'
-      - '{''label'': ''Cancel Form''}'
+      - Submit
+      - Save Draft
+      - Cancel Form
       required: false
     - id: 10
       name: customer_service_form_date
@@ -123,7 +123,7 @@ inputSchema:
       required: false
     - id: 17
       name: customer_form_message
-      label: Customer Message
+      label: Customer Form Message
       hint: null
       type: text
       options: []
@@ -134,27 +134,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Save Draft''}'
-      - '{''label'': ''Cancel Form''}'
+      - Submit
+      - Save Draft
+      - Cancel Form
       required: false
     - id: 19
       name: customer_form_submit_date
-      label: Date
+      label: Customer Form Submit Date
       hint: null
       type: date
       options: []
       required: false
     - id: 20
       name: customer_form_submit_time
-      label: Time
+      label: Customer Form Submit Time
       hint: null
       type: time
       options: []
       required: false
     - id: 21
       name: customer_form_submit_notes
-      label: Notes
+      label: Customer Form Submit Notes
       hint: null
       type: note
       options: []

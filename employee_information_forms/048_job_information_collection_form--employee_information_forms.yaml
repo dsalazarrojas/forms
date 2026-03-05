@@ -16,8 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: education
@@ -25,8 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: date_of_birth
@@ -41,8 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: job_title
@@ -87,8 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: job_status
@@ -96,19 +100,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: job_type_other
-      label: Job Type
+      label: Job Type Other
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: job_title_other
-      label: Job Title
+      label: Job Title Other
       hint: null
       type: text
       options: []
@@ -126,8 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
       name: job_position
@@ -156,19 +162,20 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
       name: job_type_other_desc
-      label: Job Type Other
+      label: Job Type Other Desc
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: job_title_other_desc
-      label: Job Title Other
+      label: Job Title Other Desc
       hint: null
       type: text
       options: []
@@ -182,14 +189,14 @@ inputSchema:
       required: false
     - id: 24
       name: department_other
-      label: Department
+      label: Department Other
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: job_position_other
-      label: Job Position
+      label: Job Position Other
       hint: null
       type: text
       options: []

@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Customer''}'
-      - '{''label'': ''Business''}'
-      - '{''label'': ''Other''}'
+      - Customer
+      - Business
+      - Other
       required: false
     - id: 2
       name: product_satisfaction
@@ -19,10 +19,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Not Satisfied''}'
-      - '{''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Dissatisfied
       required: false
     - id: 3
       name: ease_of_use
@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Easy''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Difficult''}'
+      - Easy
+      - Neutral
+      - Difficult
       required: false
     - id: 4
       name: grill_cover_performance
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: product_suggestions

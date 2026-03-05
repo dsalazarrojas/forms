@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Verified''}'
-      - '{''label'': ''Suspect''}'
+      - Verified
+      - Suspect
       required: true
     - id: 5
       name: reason_for_suspension
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''California''}'
-      - '{''label'': ''New York''}'
-      - '{''label'': ''Other''}'
+      - California
+      - New York
+      - Other
       required: false
     - id: 14
       name: shipping_country
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''United States''}'
-      - '{''label'': ''Canada''}'
-      - '{''label'': ''Mexico''}'
+      - United States
+      - Canada
+      - Mexico
       required: false
     - id: 15
       name: shipping_region
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''North America''}'
-      - '{''label'': ''South America''}'
-      - '{''label'': ''Other''}'
+      - North America
+      - South America
+      - Other
       required: false
     - id: 16
       name: shipping_province

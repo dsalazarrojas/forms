@@ -4,84 +4,110 @@ inputSchema:
     title: Sandwich Order Form Template
     pages:
     - id: 1
-      name: sandwich_order_form_template_delivery_order_templates
-      label: Sandwich Order Form
+      name: bread_type
+      label: What type of bread would you like?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - whole wheat
+      - whole white
+      - rye
       required: false
     - id: 2
-      name: delivery_order_templates_1
-      label: Order
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - vegetarian
+      - vegan
+      - gluten free
       required: false
     - id: 3
-      name: sandwich_order_form_template_delivery_order_templates_2
-      label: Menu
+      name: special_request
+      label: Would you like to order extra?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 4
-      name: sandwich_order_form_template_delivery_order_templates_3
-      label: Sandwich
+      name: extra_cheese
+      label: Would you like extra cheese?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 5
-      name: sandwich_order_form_template_delivery_order_templates_4
-      label: Special Requests
+      name: extra_sauce
+      label: Would you like extra sauce?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 6
-      name: sandwich_order_form_template_delivery_order_templates_5
-      label: Special Requests
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: sandwich_order_form_template_delivery_order_templates_6
-      label: Sandwich
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: sandwich_order_form_template_delivery_order_templates_7
-      label: Sandwich
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: sandwich_order_form_template_delivery_order_templates_8
-      label: sandwich
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: sandwich_order_form_template_delivery_order_templates_9
-      label: Delivery
+      name: delivery_time
+      label: What is your preferred delivery time?
       hint: null
       type: time
       options: []
+      required: false
+    - id: 7
+      name: preparation
+      label: How would you like your sandwich to be prepared?
+      hint: null
+      type: select_one
+      options:
+      - toasted
+      - grilled
+      - panini
+      required: false
+    - id: 8
+      name: toppings
+      label: Do you want to add any toppings?
+      hint: null
+      type: select_multiple
+      options:
+      - lettuce
+      - tomato
+      - avocado
+      required: false
+    - id: 9
+      name: extra_pickles
+      label: Would you like to order extra pickles?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 10
+      name: extra_olives
+      label: Would you like to order extra olives?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 11
+      name: extra_jalapenos
+      label: Would you like to order extra jalapenos?
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: side_dish
+      label: Would you like to order a side dish?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

@@ -11,192 +11,140 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: sacraments_important_points
-      label: What are the important points
-      hint: What are the key points of the Sacraments that every student must know?
-      type: select_one
-      options:
-      - Sacrament of Baptism
-      - Sacrament of the Eucharist
-      - Sacrament of the Sick
-      - Sacrament of Holy Orders
-      - Sacrament of Matrimony
-      - Sacrament of the Anointing of the Sick
-      - Sacrament of Holy Orders
-      - Confirmation
-      - Anointing of the Sick
-      - Holy Orders
-      - Penance
+      name: sacrament_of_baptism
+      label: What is the Sacrament of Baptism?
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 3
-      name: sacraments_description
-      label: What is the Sacrament of Penance
-      hint: What is the purpose and significance of the sacrament of Penance?
-      type: text
-      options: []
-      required: true
-    - id: 4
-      name: sacraments_description
-      label: What is the purpose and significance of the Sacrament of Reconciliation?
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: sacraments_description
-      label: What is the purpose and significance of the Sacrament of the Eucharist?
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: sacraments_description
-      label: What is the purpose and significance of the Sacrament of Baptism?
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: sacraments_description
+      name: sacrament_of_confirmation
       label: What is the purpose and significance of the Sacrament of Confirmation?
       hint: null
       type: text
       options: []
       required: true
-    - id: 8
-      name: sacraments_description
-      label: What is the purpose and significance of the Anointing of the Sick?
+    - id: 4
+      name: eucharist_sacrament
+      label: What is the Sacrament of the Eucharist?
       hint: null
       type: text
       options: []
       required: true
-    - id: 9
-      name: sacraments_description
+    - id: 5
+      name: sacrament_of_penance
+      label: What is the purpose and significance of the Sacrament of Penance?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: anointing_of_the_sick
+      label: What is the purpose and significance of the Sacrament of Anointing of
+        the Sick?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: holy_orders
       label: What is the purpose and significance of the Sacrament of Holy Orders?
       hint: null
       type: text
       options: []
       required: true
+    - id: 8
+      name: matrimony
+      label: What is the Sacrament of Matrimony?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reconciliation
+      label: What is the Sacrament of Reconciliation?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: final_question
-      label: Final Question
+      name: final_question_1
+      label: Can you describe the Sacrament of Baptism?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: final_description
-      label: Final Description
+      name: final_question_2
+      label: Can you describe the Sacrament of Confirmation?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: final_question
-      label: Final Question
+      name: final_question_3
+      label: Can you describe the Sacrament of the Eucharist?
       hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      type: text
+      options: []
       required: false
     - id: 13
-      name: final_description
-      label: Final Description
+      name: final_question_4
+      label: Can you describe the Sacrament of Penance?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: final_question
-      label: Final Question
+      name: final_question_5
+      label: Can you describe the Sacrament of Anointing of the Sick?
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      type: text
+      options: []
       required: false
     - id: 15
-      name: final_description
-      label: Final Description
+      name: final_question_6
+      label: Can you explain the Sacrament of Holy Orders?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: final_question
-      label: Final Question
+      name: final_question_7
+      label: Can you describe the Sacrament of Matrimony?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 17
-      name: final_description
-      label: Final Description
+      name: final_question_8
+      label: Which of the following is a sacrament that is considered a sacrament
+        of healing?
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Sacrament of Penance
+      - Sacrament of Anointing of the Sick
+      - Sacrament of the Eucharist
       required: false
     - id: 18
-      name: final_question
-      label: Final Question
+      name: final_question_9
+      label: What is the purpose and significance of the Sacrament of the Anointing
+        of the Sick?
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 19
-      name: final_description
-      label: Final Description
+      name: final_question_10
+      label: Final Question 10
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: final_question
-      label: Final Question
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: final_description
-      label: Final Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: final_question
-      label: Final Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: final_description
-      label: Final Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: final_question
-      label: Final Question
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      required: false
-    - id: 25
-      name: final_description
-      label: Final Description
+      name: final_question_11
+      label: Can you explain the Sacrament of Matrimony?
       hint: null
       type: text
       options: []

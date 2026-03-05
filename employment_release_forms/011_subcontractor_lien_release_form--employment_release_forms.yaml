@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Homeowner''}'
-      - '{''value'': ''Business''}'
+      - Homeowner
+      - Business
       required: true
     - id: 3
       name: subcontractor_name
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Good payment history''}'
-      - '{''value'': ''No outstanding claims''}'
-      - '{''value'': ''Reasonable suspicion''}'
-      - '{''value'': ''Other''}'
+      - Good payment history
+      - No outstanding claims
+      - Reasonable suspicion
+      - Other
       required: true
     - id: 12
       name: signature

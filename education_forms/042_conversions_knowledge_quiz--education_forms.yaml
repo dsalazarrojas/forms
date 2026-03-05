@@ -1,365 +1,354 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Conversions Knowledge Quiz
     pages:
-      - id: 1
-        name: participant_name
-        label: Full Name
-        hint: Your name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email Address
-        hint: For results delivery
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: institution
-        label: School or Organization
-        hint: Name of institution
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: grade_level
-        label: Grade or Education Level
-        hint: null
-        type: select_one
-        options:
-          - Elementary
-          - Middle School
-          - High School
-          - College
-          - Adult Learner
-        required: false
-      - id: 5
-        name: section_length_conversions
-        label: -- Length Conversions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: q1
-        label: How many centimeters are in 1 meter
-        hint: null
-        type: select_one
-        options:
-          - 10
-          - 100
-          - 1000
-          - 10000
-        required: true
-      - id: 7
-        name: q2
-        label: How many feet are in 1 yard
-        hint: null
-        type: select_one
-        options:
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 8
-        name: q3
-        label: How many inches are in 1 foot
-        hint: null
-        type: select_one
-        options:
-          - 10
-          - 12
-          - 14
-          - 16
-        required: true
-      - id: 9
-        name: q4
-        label: How many millimeters are in 1 centimeter
-        hint: null
-        type: select_one
-        options:
-          - 5
-          - 10
-          - 100
-          - 1000
-        required: true
-      - id: 10
-        name: section_weight_conversions
-        label: -- Weight Conversions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: q5
-        label: How many grams are in 1 kilogram
-        hint: null
-        type: select_one
-        options:
-          - 100
-          - 500
-          - 1000
-          - 10000
-        required: true
-      - id: 12
-        name: q6
-        label: How many ounces are in 1 pound
-        hint: null
-        type: select_one
-        options:
-          - 8
-          - 12
-          - 16
-          - 20
-        required: true
-      - id: 13
-        name: q7
-        label: How many pounds are in 1 ton US
-        hint: null
-        type: select_one
-        options:
-          - 1000
-          - 2000
-          - 2200
-          - 2500
-        required: true
-      - id: 14
-        name: section_volume_conversions
-        label: -- Volume Conversions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: q8
-        label: How many milliliters are in 1 liter
-        hint: null
-        type: select_one
-        options:
-          - 100
-          - 500
-          - 1000
-          - 10000
-        required: true
-      - id: 16
-        name: q9
-        label: How many cups are in 1 pint
-        hint: null
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-        required: true
-      - id: 17
-        name: q10
-        label: How many quarts are in 1 gallon
-        hint: null
-        type: select_one
-        options:
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 18
-        name: q11
-        label: How many fluid ounces are in 1 cup
-        hint: null
-        type: select_one
-        options:
-          - 4
-          - 6
-          - 8
-          - 10
-        required: true
-      - id: 19
-        name: section_time_conversions
-        label: -- Time Conversions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: q12
-        label: How many seconds are in 1 minute
-        hint: null
-        type: select_one
-        options:
-          - 30
-          - 60
-          - 90
-          - 100
-        required: true
-      - id: 21
-        name: q13
-        label: How many minutes are in 1 hour
-        hint: null
-        type: select_one
-        options:
-          - 30
-          - 45
-          - 60
-          - 90
-        required: true
-      - id: 22
-        name: q14
-        label: How many hours are in 1 day
-        hint: null
-        type: select_one
-        options:
-          - 12
-          - 20
-          - 24
-          - 48
-        required: true
-      - id: 23
-        name: q15
-        label: How many days are in a leap year
-        hint: null
-        type: select_one
-        options:
-          - 364
-          - 365
-          - 366
-          - 367
-        required: true
-      - id: 24
-        name: section_temperature_conversions
-        label: -- Temperature Conversions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: q16
-        label: What is the freezing point of water in Celsius
-        hint: null
-        type: select_one
-        options:
-          - -10 degrees
-          - 0 degrees
-          - 10 degrees
-          - 32 degrees
-        required: true
-      - id: 26
-        name: q17
-        label: What is the freezing point of water in Fahrenheit
-        hint: null
-        type: select_one
-        options:
-          - 0 degrees
-          - 16 degrees
-          - 32 degrees
-          - 100 degrees
-        required: true
-      - id: 27
-        name: q18
-        label: What is the boiling point of water in Celsius
-        hint: null
-        type: select_one
-        options:
-          - 50 degrees
-          - 90 degrees
-          - 100 degrees
-          - 212 degrees
-        required: true
-      - id: 28
-        name: q19
-        label: What is the boiling point of water in Fahrenheit
-        hint: null
-        type: select_one
-        options:
-          - 100 degrees
-          - 180 degrees
-          - 200 degrees
-          - 212 degrees
-        required: true
-      - id: 29
-        name: section_practical
-        label: -- Practical Applications --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 30
-        name: q20
-        label: If a recipe calls for 500ml of milk how many liters is this
-        hint: null
-        type: select_one
-        options:
-          - 0.5 liters
-          - 5 liters
-          - 50 liters
-          - 0.05 liters
-        required: true
-      - id: 31
-        name: q21
-        label: If you weigh 70kg approximately how many pounds is this
-        hint: null
-        type: select_one
-        options:
-          - 70 lbs
-          - 154 lbs
-          - 200 lbs
-          - 100 lbs
-        required: true
-      - id: 32
-        name: q22
-        label: A 5 kilometer race is approximately how many miles
-        hint: null
-        type: select_one
-        options:
-          - 2.1 miles
-          - 3.1 miles
-          - 4.1 miles
-          - 5 miles
-        required: true
-      - id: 33
-        name: section_self_assessment
-        label: -- Self Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 34
-        name: confidence_level
-        label: How confident are you with conversions
-        hint: null
-        type: select_one
-        options:
-          - Very Confident
-          - Somewhat Confident
-          - Neutral
-          - Not Very Confident
-          - Not Confident at All
-        required: true
-      - id: 35
-        name: topics_for_review
-        label: Topics you need to review
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Length conversions
-          - Weight conversions
-          - Volume conversions
-          - Time conversions
-          - Temperature conversions
-          - None - I feel confident
-        required: false
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For results delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: School or Organization
+      hint: Name of institution
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: Grade or Education Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      - Adult Learner
+      required: false
+    - id: 5
+      name: section_length_conversions
+      label: -- Length Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1
+      label: How many centimeters are in 1 meter
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '100'
+      - '1000'
+      - '10000'
+      required: true
+    - id: 7
+      name: q2
+      label: How many feet are in 1 yard
+      hint: null
+      type: select_one
+      options:
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: q3
+      label: How many inches are in 1 foot
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '12'
+      - '14'
+      - '16'
+      required: true
+    - id: 9
+      name: q4
+      label: How many millimeters are in 1 centimeter
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '10'
+      - '100'
+      - '1000'
+      required: true
+    - id: 10
+      name: section_weight_conversions
+      label: -- Weight Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: q5
+      label: How many grams are in 1 kilogram
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '500'
+      - '1000'
+      - '10000'
+      required: true
+    - id: 12
+      name: q6
+      label: How many ounces are in 1 pound
+      hint: null
+      type: select_one
+      options:
+      - '8'
+      - '12'
+      - '16'
+      - '20'
+      required: true
+    - id: 13
+      name: q7
+      label: How many pounds are in 1 ton US
+      hint: null
+      type: select_one
+      options:
+      - '1000'
+      - '2000'
+      - '2200'
+      - '2500'
+      required: true
+    - id: 14
+      name: section_volume_conversions
+      label: -- Volume Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: q8
+      label: How many milliliters are in 1 liter
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '500'
+      - '1000'
+      - '10000'
+      required: true
+    - id: 16
+      name: q9
+      label: How many cups are in 1 pint
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: true
+    - id: 17
+      name: q10
+      label: How many quarts are in 1 gallon
+      hint: null
+      type: select_one
+      options:
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 18
+      name: q11
+      label: How many fluid ounces are in 1 cup
+      hint: null
+      type: select_one
+      options:
+      - '4'
+      - '6'
+      - '8'
+      - '10'
+      required: true
+    - id: 19
+      name: section_time_conversions
+      label: -- Time Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: q12
+      label: How many seconds are in 1 minute
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '100'
+      required: true
+    - id: 21
+      name: q13
+      label: How many minutes are in 1 hour
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '45'
+      - '60'
+      - '90'
+      required: true
+    - id: 22
+      name: q14
+      label: How many hours are in 1 day
+      hint: null
+      type: select_one
+      options:
+      - '12'
+      - '20'
+      - '24'
+      - '48'
+      required: true
+    - id: 23
+      name: q15
+      label: How many days are in a leap year
+      hint: null
+      type: select_one
+      options:
+      - '364'
+      - '365'
+      - '366'
+      - '367'
+      required: true
+    - id: 24
+      name: section_temperature_conversions
+      label: -- Temperature Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: q16
+      label: What is the freezing point of water in Celsius
+      hint: null
+      type: select_one
+      options:
+      - -10 degrees
+      - 0 degrees
+      - 10 degrees
+      - 32 degrees
+      required: true
+    - id: 26
+      name: q17
+      label: What is the freezing point of water in Fahrenheit
+      hint: null
+      type: select_one
+      options:
+      - 0 degrees
+      - 16 degrees
+      - 32 degrees
+      - 100 degrees
+      required: true
+    - id: 27
+      name: q18
+      label: What is the boiling point of water in Celsius
+      hint: null
+      type: select_one
+      options:
+      - 50 degrees
+      - 90 degrees
+      - 100 degrees
+      - 212 degrees
+      required: true
+    - id: 28
+      name: q19
+      label: What is the boiling point of water in Fahrenheit
+      hint: null
+      type: select_one
+      options:
+      - 100 degrees
+      - 180 degrees
+      - 200 degrees
+      - 212 degrees
+      required: true
+    - id: 29
+      name: section_practical
+      label: -- Practical Applications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: q20
+      label: If a recipe calls for 500ml of milk how many liters is this
+      hint: null
+      type: select_one
+      options:
+      - 0.5 liters
+      - 5 liters
+      - 50 liters
+      - 0.05 liters
+      required: true
+    - id: 31
+      name: q21
+      label: If you weigh 70kg approximately how many pounds is this
+      hint: null
+      type: select_one
+      options:
+      - 70 lbs
+      - 154 lbs
+      - 200 lbs
+      - 100 lbs
+      required: true
+    - id: 32
+      name: q22
+      label: A 5 kilometer race is approximately how many miles
+      hint: null
+      type: select_one
+      options:
+      - 2.1 miles
+      - 3.1 miles
+      - 4.1 miles
+      - 5 miles
+      required: true
+    - id: 33
+      name: section_self_assessment
+      label: -- Self Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: confidence_level
+      label: How confident are you with conversions
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Neutral
+      - Not Very Confident
+      - Not Confident at All
+      required: true
+    - id: 35
+      name: topics_for_review
+      label: Topics you need to review
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Length conversions
+      - Weight conversions
+      - Volume conversions
+      - Time conversions
+      - Temperature conversions
+      - None - I feel confident
+      required: false

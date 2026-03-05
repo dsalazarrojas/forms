@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: customer_satisfaction_loyalty
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: customer_trust_about_our_company
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: customer_satisfaction_with_services
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: customer_satisfaction_with_experience
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: customer_satisfaction_with_communications
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: customer_loyalty_status
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: customer_satisfaction_loyalty_score_out_of_5
@@ -139,15 +139,13 @@ inputSchema:
       required: false
     - id: 16
       name: customer_satisfaction_loyalty_score_out_of_5_scale
-      label: On a scale from 1 to 5
+      label: Customer Satisfaction Loyalty Score Out Of 5 Scale
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 17
       name: customer_satisfaction_loyalty_score_out_of_5_scale_value
@@ -157,28 +155,24 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: customer_satisfaction_loyalty_score_out_of_5
+      name: customer_satisfaction_loyalty_score_out_of_5_2
       label: What is your estimated loyalty score out of 5?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
       name: customer_awareness_about_our_company_scale
-      label: On a scale from 1 to 5
+      label: Customer Awareness About Our Company Scale
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: customer_awareness_about_our_company_value
@@ -189,15 +183,13 @@ inputSchema:
       required: false
     - id: 21
       name: customer_trust_about_our_company_scale
-      label: On a scale from 1 to 5
+      label: Customer Trust About Our Company Scale
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: customer_trust_about_our_company_value
@@ -212,9 +204,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
       name: customer_loyalty_program_participation_ever

@@ -30,12 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male'', ''label'': ''Male''}'
-      - '{''value'': ''female'', ''label'': ''Female''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
-      - '{''value'': None, ''label'': None}'
-      - '{''value'': None, ''label'': None}'
-      - '{''value'': None, ''label'': None}'
+      - Male
+      - Female
+      - Other
+      - Option 4
+      - Option 5
+      - Option 6
       required: false
     - id: 5
       name: participant_email
@@ -71,13 +71,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': ''I consent for the participant to participate
-        in this VR-based education project''}'
-      - '{''value'': False, ''label'': ''I do not consent for the participant to participate
-        in this VR-based education project''}'
-      - '{''value'': None, ''label'': None}'
-      - '{''value'': None, ''label'': None}'
-      - '{''value'': None, ''label'': None}'
+      - I consent for the participant to participate in this VR-based education project
+      - I do not consent for the participant to participate in this VR-based education
+        project
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 10
       name: participant_comments
@@ -113,11 +112,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male'', ''label'': ''Male''}'
-      - '{''value'': ''female'', ''label'': ''Female''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
-      - '{''value'': None, ''label'': None}'
-      - '{''value'': None, ''label'': None}'
+      - Male
+      - Female
+      - Other
+      - Option 4
+      - Option 5
       required: false
     - id: 15
       name: researcher_email

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5, ''label'': ''Employee''}'
-      - '{''id'': 6, ''label'': ''Dependent''}'
-      - '{''id'': 7, ''label'': ''Other''}'
+      - Employee
+      - Dependent
+      - Other
       required: false
     - id: 6
       name: benefit_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8, ''label'': ''HMO''}'
-      - '{''id'': 9, ''label'': ''PPO''}'
-      - '{''id'': 10, ''label'': ''POS''}'
+      - HMO
+      - PPO
+      - POS
       required: false
     - id: 7
       name: enrollment_date
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''label'': ''Child''}'
-      - '{''id'': 12, ''label'': ''Spouse''}'
-      - '{''id'': 13, ''label'': ''Other''}'
+      - Child
+      - Spouse
+      - Other
       required: false
     - id: 12
       name: dependent_name

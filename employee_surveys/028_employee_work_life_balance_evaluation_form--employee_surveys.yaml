@@ -4,92 +4,101 @@ inputSchema:
     title: Employee Work Life Balance Evaluation Form
     pages:
     - id: 1
-      name: employee_work_life_balance_evaluation_form
-      label: Employee Work Life Balance Evaluation Form
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: employee_work_life_balance_evaluation_form
-      label: Category
-      hint: null
-      type: text
+      name: work_life_balance_perception
+      label: On a scale of 1-5, how would you rate your perception of your work-life
+        balance?
+      hint: Please rate your perception of your work-life balance.
+      type: number
       options: []
       required: false
     - id: 3
-      name: employee_work_life_balance_evaluation_form
-      label: Description
-      hint: null
+      name: work_life_balance_description
+      label: Description of your work-life balance
+      hint: Please describe your work-life balance in 100 words or less.
       type: text
       options: []
       required: false
     - id: 4
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_form
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''category1''}'
-      - '{''id'': 2, ''name'': ''category2''}'
-      - '{''id'': 3, ''name'': ''category3''}'
+      name: work_hours
+      label: How many hours do you work per week?
+      hint: Please enter the number of hours you work per week.
+      type: number
+      options: []
       required: false
     - id: 5
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_form
-      hint: null
+      name: work_life_balance_flexibility
+      label: Do you feel you have sufficient flexibility in your work schedule?
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 6
+      name: communication_with_manager
+      label: How would you rate the communication with your manager about your work-life
+        balance?
+      hint: Please select a date in the format YYYY-MM-DD.
       type: date
       options: []
       required: false
-    - id: 6
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_form
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 7
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_form
-      hint: null
+      name: support_from_manager
+      label: Has your manager supported you in achieving a better work-life balance?
+      hint: Please select one of the options.
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: self_care_activities
+      label: What self-care activities do you regularly engage in to maintain your
+        well-being?
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - yoga
+      - meditation
+      - exercise
+      - hobbies
+      required: false
+    - id: 9
+      name: wellness_plan
+      label: Do you have a personal wellness plan in place?
+      hint: Please select one of the options.
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: feedback
+      label: Any additional feedback or comments?
+      hint: Please provide any additional feedback or comments you have about your
+        work-life balance.
       type: note
       options: []
       required: false
-    - id: 8
-      name: employee_work_life_balance_form
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: employee_work_life_balance_form
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_evaluation_form
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 11
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_form
-      hint: null
+      name: suggestions
+      label: Do you have any suggestions for improving our work-life balance policies?
+      hint: Please provide any suggestions you may have.
       type: text
       options: []
       required: false
     - id: 12
-      name: employee_work_life_balance_form
-      label: employee_work_life_balance_form
+      name: contact_information
+      label: Do you have any contact information you'd like to provide?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''option1''}'
-      - '{''id'': 2, ''name'': ''option2''}'
-      - '{''id'': 3, ''name'': ''option3''}'
+      type: text
+      options: []
       required: false

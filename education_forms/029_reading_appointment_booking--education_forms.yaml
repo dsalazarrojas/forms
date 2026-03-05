@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: student_phone
@@ -53,18 +53,18 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1-2''}'
-      - '{''id'': 2, ''label'': ''3-4''}'
-      - '{''id'': 3, ''label'': ''5-6''}'
-      - '{''id'': 4, ''label'': ''7-8''}'
-      - '{''id'': 5, ''label'': ''9-12''}'
-      - '{''id'': 6, ''label'': ''High School''}'
-      - '{''id'': 7, ''label'': ''Other (please specify)''}'
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-12
+      - High School
+      - Other (please specify)
       required: false
     - id: 8
       name: preferred_time
       label: Preferred Time
-      hint: "09:00 AM-06:00 PM"
+      hint: 09:00 AM-06:00 PM
       type: time
       options: []
       required: false

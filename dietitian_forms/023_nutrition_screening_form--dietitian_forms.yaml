@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''label'': ''Hypertension''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Diabetes
+      - Hypertension
+      - Other
       required: false
     - id: 4
       name: medical_history_other
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Dairy''}'
-      - '{''id'': 3, ''label'': ''Gluten''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Dairy
+      - Gluten
+      - Other
       required: false
     - id: 7
       name: medical_risk_factors
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Obesity''}'
-      - '{''id'': 3, ''label'': ''Smoking''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Obesity
+      - Smoking
+      - Other
       required: false
     - id: 8
       name: nutrition_goals
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Weight Loss''}'
-      - '{''id'': 3, ''label'': ''Muscle Gain''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Weight Loss
+      - Muscle Gain
+      - Other
       required: false
     - id: 9
       name: nutrition_status
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Good''}'
-      - '{''id'': 4, ''label'': ''Excellent''}'
+      - Poor
+      - Fair
+      - Good
+      - Excellent
       required: true
     - id: 10
       name: height
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Underweight''}'
-      - '{''id'': 2, ''label'': ''Normal''}'
-      - '{''id'': 3, ''label'': ''Overweight''}'
-      - '{''id'': 4, ''label'': ''Obese''}'
+      - Underweight
+      - Normal
+      - Overweight
+      - Obese
       required: true
     - id: 14
       name: body_fat_percentage
@@ -187,10 +187,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''Severe''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Moderate
+      - Severe
+      - Other
       required: false
     - id: 24
       name: cardiovascular_risk_factors
@@ -198,10 +198,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''High Blood Pressure''}'
-      - '{''id'': 3, ''label'': ''Family History of Heart Disease''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - High Blood Pressure
+      - Family History of Heart Disease
+      - Other
       required: false
     - id: 25
       name: lifestyle_goals
@@ -209,8 +209,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Regular Exercise''}'
-      - '{''id'': 3, ''label'': ''Balanced Diet''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - None
+      - Regular Exercise
+      - Balanced Diet
+      - Other
       required: false

@@ -5,18 +5,18 @@ inputSchema:
     pages:
     - id: 1
       name: party_details
-      label: Party Details
+      label: What is your party name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_info
       label: Contact Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: rsvp
       label: RSVP
@@ -25,72 +25,83 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
-      name: party_details
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: trick_treat_preferences
-      label: Trick or Treat Preferences
+      label: Do you want a treat or just attend the party?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: stay_time
+      label: How long do you want to stay for the party?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: favorite_halloween_character
+      label: What is your favorite Halloween character?
+      hint: null
+      type: select_multiple
+      options:
+      - Witch
+      - Ghost
+      - Monster
+      - Vampire
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      - Yes, with advance notice
+      required: false
+    - id: 8
+      name: guest_count
+      label: How many guests are you bringing?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: favorite_halloween_candy
+      label: What is your favorite Halloween candy?
+      hint: null
+      type: select_one
+      options:
+      - Candy
+      - Chocolates
+      - Lollipops
+      - Sweets
+      required: false
+    - id: 10
+      name: trick_treat
+      label: Do you like treats?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 11
+      name: trick_treat_2
+      label: Trick or Treat
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 6
-      name: trick_treat_preferences
-      label: Trick or Treat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: rsvp
-      label: RSVP
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: party_details
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: party_details
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: trick_treat_preferences
-      label: Trick or Treat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: party_details
-      label: Party Details
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 12
-      name: trick_treat_preferences
-      label: Trick or Treat
+      name: trick_treat_preferences_2
+      label: Trick or Treat preferences
       hint: null
       type: select_multiple
       options:

@@ -4,40 +4,26 @@ inputSchema:
     title: Win Free Days Of Enrollment Contest Entry
     pages:
     - id: 1
-      name: contest_entry
-      label: Contest Entry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: additional_information
-      label: Additional Information
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
       name: school_name
-      label: School Name
-      hint: null
+      label: What is your school name?
+      hint: School name is required
       type: text
       options: []
       required: true
-    - id: 4
+    - id: 2
       name: school_type
-      label: School Type
-      hint: null
+      label: What type of school do you attend?
+      hint: Please select your school type
       type: select_one
       options:
       - High School
       - Middle School
       - Other
       required: true
-    - id: 5
+    - id: 3
       name: age_range
-      label: Age Range
-      hint: null
+      label: What is your age range?
+      hint: Age range is required
       type: select_multiple
       options:
       - 10-13
@@ -45,218 +31,102 @@ inputSchema:
       - 18-24
       - 25 or older
       required: true
-    - id: 6
+    - id: 4
       name: gender
-      label: Gender
-      hint: null
+      label: What is your gender?
+      hint: Please select your gender
       type: select_one
       options:
       - Male
       - Female
       - Other
       required: true
-    - id: 7
+    - id: 5
       name: phone
-      label: Phone
-      hint: Enter phone number
+      label: What is your phone number?
+      hint: Phone number is required
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: Email address is required
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: What is your address?
+      hint: Address is required
       type: text
       options: []
       required: true
     - id: 8
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
+      name: additional_info
+      label: Do you want to provide additional information?
+      hint: Yes/No
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 9
-      name: address
-      label: Address
-      hint: null
+      name: school_name_2
+      label: What is the name of your school (again)?
+      hint: School name is required
       type: text
       options: []
       required: true
     - id: 10
-      name: message
-      label: Message
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 11
-      name: school_name_2
-      label: School Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
       name: school_type_2
-      label: School Type
-      hint: null
+      label: What type of school do you attend (again)?
+      hint: Please select your school type
       type: select_one
       options:
       - High School
       - Middle School
+      - Other
+      required: true
+    - id: 11
+      name: age_range_2
+      label: What is your age range (again)?
+      hint: Age range is required
+      type: select_multiple
+      options:
+      - 10-13
+      - 14-17
+      - 18-24
+      - 25 or older
+      required: true
+    - id: 12
+      name: gender_2
+      label: What is your gender (again)?
+      hint: Please select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
       - Other
       required: true
     - id: 13
-      name: age_range_2
-      label: Age Range
-      hint: null
-      type: select_multiple
-      options:
-      - 10-13
-      - 14-17
-      - 18-24
-      - 25 or older
+      name: phone_2
+      label: What is your phone number (again)?
+      hint: Phone number is required
+      type: text
+      options: []
       required: true
     - id: 14
-      name: gender_2
-      label: Gender
-      hint: null
-      type: select_one
-      options:
-      - Male
-      - Female
-      - Other
+      name: email_2
+      label: What is your email address (again)?
+      hint: Email address is required
+      type: email
+      options: []
       required: true
     - id: 15
-      name: phone_2
-      label: Phone 2
-      hint: Enter phone number 2
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 17
       name: address_2
-      label: Address 2
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: school_name_3
-      label: School Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: school_type_3
-      label: School Type
-      hint: null
-      type: select_one
-      options:
-      - High School
-      - Middle School
-      - Other
-      required: true
-    - id: 20
-      name: age_range_3
-      label: Age Range
-      hint: null
-      type: select_multiple
-      options:
-      - 10-13
-      - 14-17
-      - 18-24
-      - 25 or older
-      required: true
-    - id: 21
-      name: gender_3
-      label: Gender
-      hint: null
-      type: select_one
-      options:
-      - Male
-      - Female
-      - Other
-      required: true
-    - id: 22
-      name: phone_2_3
-      label: Phone 2
-      hint: Enter phone number 2
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: email_2_3
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 24
-      name: address_2_3
-      label: Address 2
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: school_name_4
-      label: School Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 26
-      name: school_type_4
-      label: School Type
-      hint: null
-      type: select_one
-      options:
-      - High School
-      - Middle School
-      - Other
-      required: true
-    - id: 27
-      name: age_range_4
-      label: Age Range
-      hint: null
-      type: select_multiple
-      options:
-      - 10-13
-      - 14-17
-      - 18-24
-      - 25 or older
-      required: true
-    - id: 28
-      name: gender_4
-      label: Gender
-      hint: null
-      type: select_one
-      options:
-      - Male
-      - Female
-      - Other
-      required: true
-    - id: 29
-      name: phone_2_4
-      label: Phone 2
-      hint: Enter phone number 2
-      type: text
-      options: []
-      required: true
-    - id: 30
-      name: email_4
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 31
-      name: address_4
-      label: Address 4
-      hint: null
+      label: What is your address (again)?
+      hint: Address is required
       type: text
       options: []
       required: true

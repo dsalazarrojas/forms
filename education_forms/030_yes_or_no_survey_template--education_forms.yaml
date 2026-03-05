@@ -11,7 +11,7 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: description
+      name: survey_description
       label: Survey Description
       hint: null
       type: text
@@ -25,16 +25,6 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: survey_questions
-      label: Survey Questions
-      hint: null
-      type: select_multiple
-      options:
-      - Question 1
-      - Question 2
-      - Question 3
-      required: false
-    - id: 5
       name: submit_button
       label: Submit Button
       hint: null
@@ -43,7 +33,7 @@ inputSchema:
       - Submit
       - Cancel
       required: false
-    - id: 6
+    - id: 5
       name: save_response
       label: Save Response
       hint: null
@@ -52,135 +42,53 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 7
+    - id: 6
       name: date_survey
       label: Date of Survey
       hint: null
       type: date
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: time_survey
       label: Time of Survey
       hint: null
       type: time
       options: []
       required: false
-    - id: 9
-      name: survey_responses
-      label: Survey Responses
+    - id: 8
+      name: contact_information
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: email
-      label: Email
+    - id: 9
+      name: save_response_2
+      label: Save Response 2
       hint: null
-      type: email
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
       options: []
       required: false
     - id: 11
-      name: phone
-      label: Phone
+      name: note
+      label: Note
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 12
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: save_response
-      label: Save Response
+      name: save_response_3
+      label: Save Response 3
       hint: null
       type: select_one
       options:

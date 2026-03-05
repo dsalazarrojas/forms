@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Book''}'
-      - '{''value'': ''Computer''}'
-      - '{''value'': ''Other''}'
+      - Book
+      - Computer
+      - Other
       required: false
     - id: 9
       name: resource_type_other
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Book''}'
-      - '{''value'': ''Computer''}'
-      - '{''value'': ''Other''}'
+      - Book
+      - Computer
+      - Other
       required: false
     - id: 11
       name: resource_request_frequency
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Yearly''}'
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 12
       name: resource_request_availability
@@ -96,10 +96,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Now''}'
-      - '{''value'': ''Soon''}'
-      - '{''value'': ''Flexible''}'
-      - '{''value'': ''Flexible (To be determined)''}'
+      - Now
+      - Soon
+      - Flexible
+      - Flexible (To be determined)
       required: false
     - id: 13
       name: resource_request_comments
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Text/SMS''}'
-      - '{''value'': ''In-app''}'
-      - '{''value'': ''None''}'
+      - Email
+      - Phone
+      - Text/SMS
+      - In-app
+      - None
       required: false

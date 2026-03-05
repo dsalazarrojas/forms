@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Part-time''}'
-      - '{''label'': ''Full-time''}'
-      - '{''label'': ''Other''}'
+      - Unemployed
+      - Part-time
+      - Full-time
+      - Other
       required: false
     - id: 3
       name: student_loan_type
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Federal Loans''}'
-      - '{''label'': ''Private Loans''}'
-      - '{''label'': ''Parent Loans''}'
+      - Federal Loans
+      - Private Loans
+      - Parent Loans
       required: false
     - id: 4
       name: annual_income
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 6.9}'
-      - '{''label'': 7.0}'
-      - '{''label'': ''Other''}'
+      - '6.9'
+      - '7.0'
+      - Other
       required: false
     - id: 7
       name: student_loan_balance
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Making Payments''}'
-      - '{''label'': ''Behind on Payments''}'
-      - '{''label'': ''In Default''}'
+      - Making Payments
+      - Behind on Payments
+      - In Default
       required: false
     - id: 9
       name: loan_counseling_status
@@ -78,12 +78,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Incomplete''}'
+      - Completed
+      - Incomplete
       required: false
     - id: 10
       name: annual_income_hint
-      label: Annual Income
+      label: Annual Income Hint
       hint: Enter your annual income
       type: text
       options: []
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Standard Repayment''}'
-      - '{''label'': ''Graduated Repayment''}'
-      - '{''label'': ''Income-Driven Repayment''}'
+      - Standard Repayment
+      - Graduated Repayment
+      - Income-Driven Repayment
       required: false
     - id: 12
       name: loan_forgiveness_option
@@ -104,13 +104,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Public Service Forgiveness''}'
-      - '{''label'': ''Teacher Forgiveness''}'
-      - '{''label'': ''Perkins Loan Forgiveness''}'
+      - Public Service Forgiveness
+      - Teacher Forgiveness
+      - Perkins Loan Forgiveness
       required: false
     - id: 13
-      name: student_loan_assistance_request
-      label: Student Loan Assistance Request
+      name: student_loan_assistance_request_2
+      label: Student Loan Assistance Request 2
       hint: null
       type: text
       options: []
@@ -131,7 +131,7 @@ inputSchema:
       required: false
     - id: 16
       name: student_loan_assistance_request_hint
-      label: Student Loan Assistance Request
+      label: Student Loan Assistance Request Hint
       hint: Please describe your request
       type: text
       options: []
@@ -186,15 +186,15 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: output_file
-      label: Output File
+      name: output_file_2
+      label: Output File 2
       hint: null
       type: text
       options: []

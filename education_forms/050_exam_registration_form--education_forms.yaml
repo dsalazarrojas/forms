@@ -30,9 +30,9 @@ inputSchema:
       hint: Select a student type
       type: select_one
       options:
-      - '{''value'': ''Student''}'
-      - '{''value'': ''Parent''}'
-      - '{''value'': ''Guardian''}'
+      - Student
+      - Parent
+      - Guardian
       required: true
     - id: 5
       name: test_id
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Theory''}'
-      - '{''value'': ''Practical''}'
-      - '{''value'': ''Both''}'
+      - Theory
+      - Practical
+      - Both
       required: true
     - id: 9
       name: location

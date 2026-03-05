@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''john_doe'', ''label'': ''john_doe''}'
+      - chatjimmy
+      - john doe
       required: false
     - id: 10
       name: category
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''customer_service_forms'', ''label'': ''customer_service_forms''}'
-      - '{''id'': 2, ''name'': ''customer_service_forms'', ''label'': ''customer_service_forms''}'
+      - customer service forms
+      - Other
       required: false
     - id: 11
       name: status
@@ -83,7 +83,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''new'', ''label'': ''new''}'
-      - '{''id'': 2, ''name'': ''pending'', ''label'': ''pending''}'
-      - '{''id'': 3, ''name'': ''closed'', ''label'': ''closed''}'
+      - new
+      - pending
+      - closed
       required: false

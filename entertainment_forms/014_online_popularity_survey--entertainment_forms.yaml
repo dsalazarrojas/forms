@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''male'', ''label'': ''Male''}'
-      - '{''id'': 2, ''value'': ''female'', ''label'': ''Female''}'
-      - '{''id'': 3, ''value'': ''other'', ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 3
       name: age_range
@@ -26,11 +26,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''13-24'', ''label'': ''13-24''}'
-      - '{''id'': 2, ''value'': ''25-44'', ''label'': ''25-44''}'
-      - '{''id'': 3, ''value'': ''45-54'', ''label'': ''45-54''}'
-      - '{''id'': 4, ''value'': ''55-64'', ''label'': ''55-64''}'
-      - '{''id'': 5, ''value'': 65, ''label'': 65}'
+      - 13-24
+      - 25-44
+      - 45-54
+      - 55-64
+      - '65'
       required: false
     - id: 4
       name: favorite_food
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''pizza'', ''label'': ''Pizza''}'
-      - '{''id'': 2, ''value'': ''sushi'', ''label'': ''Sushi''}'
-      - '{''id'': 3, ''value'': ''burger'', ''label'': ''Burger''}'
+      - Pizza
+      - Sushi
+      - Burger
       required: false
     - id: 5
       name: how_do_you_find_us
@@ -55,11 +55,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 4, ''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''id'': 5, ''value'': ''Never'', ''label'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
       required: false
     - id: 7
       name: email
@@ -88,11 +88,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': 1, ''label'': 1}'
-      - '{''id'': 2, ''value'': 2, ''label'': 2}'
-      - '{''id'': 3, ''value'': 3, ''label'': 3}'
-      - '{''id'': 4, ''value'': 4, ''label'': 4}'
-      - '{''id'': 5, ''value'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 11
       name: how_do_you_find_us_how
@@ -100,11 +100,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''social_media'', ''label'': ''Social media''}'
-      - '{''id'': 2, ''value'': ''friends'', ''label'': ''Friends''}'
-      - '{''id'': 3, ''value'': ''search_engine'', ''label'': ''Search engine''}'
-      - '{''id'': 4, ''value'': ''word_of_mouth'', ''label'': ''Word of mouth''}'
-      - '{''id'': 5, ''value'': ''online_advertisement'', ''label'': ''Online advertisement''}'
+      - Social media
+      - Friends
+      - Search engine
+      - Word of mouth
+      - Online advertisement
       required: false
     - id: 12
       name: how_do_you_find_us_what
@@ -168,10 +168,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''instagram'', ''label'': ''Instagram''}'
-      - '{''id'': 2, ''value'': ''youtube'', ''label'': ''YouTube''}'
-      - '{''id'': 3, ''value'': ''snapchat'', ''label'': ''Snapchat''}'
-      - '{''id'': 4, ''value'': ''linkedin'', ''label'': ''LinkedIn''}'
+      - Instagram
+      - YouTube
+      - Snapchat
+      - LinkedIn
       required: false
     - id: 21
       name: email_list

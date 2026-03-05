@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Full-time'', ''value'': ''full-time''}'
-      - '{''name'': ''Part-time'', ''value'': ''part-time''}'
-      - '{''name'': ''Contractor'', ''value'': ''contractor''}'
+      - full-time
+      - part-time
+      - contractor
       required: false
     - id: 3
       name: date_of_birth
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Aetna'', ''value'': ''aetna''}'
-      - '{''name'': ''Blue Cross Blue Shield'', ''value'': ''blue-cross-blue-shield''}'
-      - '{''name'': ''Cigna'', ''value'': ''cigna''}'
+      - aetna
+      - blue-cross-blue-shield
+      - cigna
       required: false
     - id: 6
       name: benefits
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 7
       name: benefits_earlier
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 8
       name: benefits_later
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 9
       name: benefits_earlier_2
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 10
       name: benefits_later_2
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 11
       name: benefits_earlier_3
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 12
       name: benefits_later_3
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 13
       name: phone
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Active'', ''value'': ''active''}'
-      - '{''name'': ''Inactive'', ''value'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 16
       name: department
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''HR'', ''value'': ''hr''}'
-      - '{''name'': ''IT'', ''value'': ''it''}'
-      - '{''name'': ''Accounting'', ''value'': ''accounting''}'
+      - hr
+      - it
+      - accounting
       required: false
     - id: 17
       name: job_title
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''John Smith'', ''value'': ''john-smith''}'
-      - '{''name'': ''Jane Doe'', ''value'': ''jane-doe''}'
+      - john-smith
+      - jane-doe
       required: false
     - id: 19
       name: job_level
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''John Smith'', ''value'': ''john-smith''}'
-      - '{''name'': ''Jane Doe'', ''value'': ''jane-doe''}'
+      - john-smith
+      - jane-doe
       required: false
     - id: 22
       name: benefits_earlier_4
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 23
       name: benefits_later_4
@@ -202,9 +202,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 24
       name: benefits_earlier_5
@@ -212,9 +212,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false
     - id: 25
       name: benefits_later_5
@@ -222,7 +222,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Health Insurance'', ''value'': ''health-insurance''}'
-      - '{''name'': ''Vision Insurance'', ''value'': ''vision-insurance''}'
-      - '{''name'': ''Dental Insurance'', ''value'': ''dental-insurance''}'
+      - health-insurance
+      - vision-insurance
+      - dental-insurance
       required: false

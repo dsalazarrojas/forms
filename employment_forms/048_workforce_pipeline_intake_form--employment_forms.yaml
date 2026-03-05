@@ -5,36 +5,37 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: first_name
-      hint: null
+      label: First Name
+      hint: Enter your first name
       type: text
       options: []
       required: false
     - id: 2
       name: page_2
-      label: last_name
-      hint: null
+      label: Last Name
+      hint: Enter your last name
       type: text
       options: []
       required: false
     - id: 3
       name: page_3
-      label: contact_email
-      hint: null
+      label: Contact Email
+      hint: Enter your contact email address
       type: email
       options: []
       required: false
     - id: 4
       name: page_4
-      label: contact_phone
-      hint: null
+      label: Contact Phone
+      hint: Enter your contact phone number
       type: text
       options: []
       required: false
     - id: 5
-      name: page_1
-      label: job_title
-      hint: null
+      name: page_5
+      label: Job Title
+      hint: Select your job title - Software Engineer, Data Scientist, Project Manager,
+        or Other
       type: select_one
       options:
       - Software Engineer
@@ -43,9 +44,9 @@ inputSchema:
       - Other
       required: false
     - id: 6
-      name: page_2
-      label: job_type
-      hint: null
+      name: page_6
+      label: Job Type
+      hint: Select multiple job types - Full-time, Contract, Internship, or Part-time
       type: select_multiple
       options:
       - Full-time
@@ -54,51 +55,44 @@ inputSchema:
       - Part-time
       required: false
     - id: 7
-      name: page_2
-      label: resume
-      hint: null
+      name: page_7
+      label: Resume
+      hint: Upload or paste your resume
       type: text
       options: []
       required: false
     - id: 8
-      name: page_3
-      label: availability
-      hint: null
+      name: page_8
+      label: Availability (Start Date)
+      hint: Enter your start date availability
       type: date
       options: []
       required: false
     - id: 9
-      name: page_1
-      label: availability
-      hint: null
-      type: time
+      name: page_9
+      label: Availability (End Date)
+      hint: Enter your end date availability
+      type: date
       options: []
       required: false
     - id: 10
-      name: page_3
-      label: availability
-      hint: null
+      name: page_10
+      label: Work Hours
+      hint: Enter your work hours
       type: time
       options: []
       required: false
     - id: 11
-      name: page_3
-      label: resume
-      hint: null
+      name: page_11
+      label: Job Description
+      hint: Describe your job experience and skills
       type: text
       options: []
       required: false
     - id: 12
-      name: page_3
-      label: job_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_1
-      label: resume
-      hint: null
-      type: text
+      name: page_12
+      label: Page 12
+      hint: Enter your work hours
+      type: time
       options: []
       required: false

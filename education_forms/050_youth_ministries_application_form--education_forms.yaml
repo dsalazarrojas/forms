@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '[''Cash'', ''Online Payment'', ''Bank Transfer'']'
-      - '[''Other'']'
+      - Cash
+      - Other
       required: true
     - id: 12
       name: amount_paid
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '[''Active'', ''Inactive'']'
-      - '[''Pending'']'
+      - Active
+      - Pending
       required: true
     - id: 14
       name: user_id

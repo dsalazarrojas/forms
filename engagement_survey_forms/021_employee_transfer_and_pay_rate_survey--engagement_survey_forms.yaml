@@ -4,209 +4,96 @@ inputSchema:
     title: Employee Transfer And Pay Rate Survey
     pages:
     - id: 1
-      name: employee_transfer_and_pay_rate_survey
-      label: Employee Transfer And Pay Rate Survey
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: employee_transfer_and_pay_rate_survey_2
-      label: Category
+      name: transfer_category
+      label: Which category does this transfer belong to?
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Engagement Survey Forms''}'
-      - '{''name'': ''Other''}'
+      - Employee Development
+      - Other
+      required: true
+    - id: 2
+      name: employee_name
+      label: What is the employee's name?
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 3
-      name: employee_transfer_and_pay_rate_survey_3
-      label: Description
-      hint: Use the Employee Transfer and Pay Rate Survey form template from Jotform
-        to streamline internal transfer reviews and pay changes with Jotform Form
-        Builder, drag-and-drop interface, and organized data collection.
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: employee_transfer_and_pay_rate_survey_4
-      label: Employee
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Jane Doe''}'
-      - '{''name'': ''John Doe''}'
-      required: false
-    - id: 5
-      name: employee_transfer_and_pay_rate_survey_5
-      label: Transfer Type
+      name: transfer_type
+      label: What type of transfer is this?
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Internal''}'
-      - '{''name'': ''External''}'
+      - Internal
+      - External
+      required: true
+    - id: 4
+      name: pay_change
+      label: Is this transfer for a pay change?
+      hint: yes/no
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 5
+      name: date_of_transfer
+      label: On what date did the pay change occur?
+      hint: null
+      type: date
+      options: []
       required: true
     - id: 6
-      name: employee_transfer_and_pay_rate_survey_6
-      label: Pay Change
+      name: old_pay_rate
+      label: What was the old pay rate?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: employee_transfer_and_pay_rate_survey_7
-      label: Pay Rate
+      name: new_pay_rate
+      label: What is the new pay rate?
       hint: null
       type: number
       options: []
       required: true
     - id: 8
-      name: employee_transfer_and_pay_rate_survey_8
-      label: Date
+      name: reason_for_pay_change
+      label: What is the reason for the pay change?
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 9
-      name: employee_transfer_and_pay_rate_survey_9
-      label: Comments
+      name: impact_on_schedule
+      label: What is the impact on the employee's work schedule?
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: employee_transfer_and_pay_rate_survey_10
-      label: Comments
+      name: comments
+      label: Are there any comments about the transfer or pay change?
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: employee_transfer_and_pay_rate_survey_11
-      label: Category
+      name: transfer_category_2
+      label: What is the category of the transfer?
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
+      - Employee Development
+      - Other
       required: false
     - id: 12
-      name: employee_transfer_and_pay_rate_survey_12
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: employee_transfer_and_pay_rate_survey_13
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: employee_transfer_and_pay_rate_survey_14
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: employee_transfer_and_pay_rate_survey_15
-      label: Category
-      hint: null
-      type: select_multiple
+      name: is_transfer_approved
+      label: Is the transfer approved?
+      hint: yes/no
+      type: select_one
       options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 16
-      name: employee_transfer_and_pay_rate_survey_16
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 17
-      name: employee_transfer_and_pay_rate_survey_17
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 18
-      name: employee_transfer_and_pay_rate_survey_18
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 19
-      name: employee_transfer_and_pay_rate_survey_19
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 20
-      name: employee_transfer_and_pay_rate_survey_20
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 21
-      name: employee_transfer_and_pay_rate_survey_21
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 22
-      name: employee_transfer_and_pay_rate_survey_22
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 23
-      name: employee_transfer_and_pay_rate_survey_23
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 24
-      name: employee_transfer_and_pay_rate_survey_24
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
-    - id: 25
-      name: employee_transfer_and_pay_rate_survey_25
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''Employee Development''}'
-      - '{''name'': ''Other''}'
-      required: false
+      - 'yes'
+      - 'no'
+      required: true

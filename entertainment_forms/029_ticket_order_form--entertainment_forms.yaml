@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '2'
-      - '3'
-      - '4'
+      - Standard
+      - Premium
+      - VIP
       required: true
     - id: 3
-      name: select_quantity
+      name: quantity
       label: Quantity
       hint: null
       type: number
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '2'
-      - '3'
-      - '4'
+      - Standard
+      - Premium
+      - VIP
       required: true
     - id: 13
       name: confirm_quantity
@@ -121,75 +121,22 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: confirm_package
-      label: Confirm Package
+      name: confirm_tickets
+      label: Confirm Tickets
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 17
-      name: confirm_package
-      label: Confirm Package
+      name: confirm_tickets_2
+      label: Confirm Tickets 2
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 18
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 19
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 20
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 21
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 22
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 23
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: confirm_tickets
-      label: Confirm Tickets
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: confirm_tickets
-      label: Confirm Tickets
+      name: confirm_tickets_3
+      label: Confirm Tickets 3
       hint: null
       type: number
       options: []

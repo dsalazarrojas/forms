@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: kindergarten_checklist_form
+    title: Kindergarten Checklist Form
     pages:
     - id: 1
       name: parents_name
@@ -9,172 +9,81 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: birthdate
-      label: birthdate
+      name: child_birthdate
+      label: Child's Birthdate
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: school_name
-      label: school_name
+      name: teacher_name
+      label: Teacher's Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: teacher_name
-      label: teacher_name
+      name: classroom_name
+      label: Classroom Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: classroom_name
-      label: classroom_name
+      name: school_name
+      label: School Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: parents_phone
-      label: parents_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: emergency_contact
-      label: emergency_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: parents_email
-      label: parents_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: child_name
-      label: child_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: child_date_of_birth
-      label: child_date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: parents_address
-      label: parents_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: teacher_signature
-      label: teacher_signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: teacher_name
-      label: teacher_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: classroom_name
-      label: classroom_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: school_name
-      label: school_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
       name: school_phone
-      label: school_phone
+      label: School Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 7
       name: school_email
-      label: school_email
+      label: School Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 8
       name: teacher_phone
-      label: teacher_phone
+      label: Teacher's Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: school_signature
-      label: school_signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: teacher_notes
-      label: teacher_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: school_name
-      label: school_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: teacher_name
-      label: teacher_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: parent_phone
-      label: parent_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: classroom_name
-      label: classroom_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+      required: true
+    - id: 9
       name: teacher_email
-      label: teacher_email
+      label: Teacher's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: teacher_signature
+      label: Teacher's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Parent's Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 12
+      name: classroom_address
+      label: Classroom Address
+      hint: null
+      type: text
+      options: []
+      required: true

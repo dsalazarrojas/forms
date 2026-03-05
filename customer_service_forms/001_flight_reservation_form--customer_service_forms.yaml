@@ -37,8 +37,8 @@ inputSchema:
       hint: prophets
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''AA123''}'
-      - '{''id'': 2, ''name'': ''AA456''}'
+      - AA123
+      - AA456
       required: true
     - id: 6
       name: departure_date
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Economy''}'
-      - '{''id'': 2, ''name'': ''Business''}'
-      - '{''id'': 3, ''name'': ''First Class''}'
+      - Economy
+      - Business
+      - First Class
       required: true
     - id: 10
       name: seat_number
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''On Time''}'
-      - '{''id'': 2, ''name'': ''Delayed''}'
-      - '{''id'': 3, ''name'': ''Boarding Closed''}'
+      - On Time
+      - Delayed
+      - Boarding Closed
       required: true
     - id: 18
       name: arrival_time

@@ -4,193 +4,148 @@ inputSchema:
     title: Global Education Partnership Endorsement Request
     pages:
     - id: 1
-      name: global_education_partnership_endorsement_request_form_1
-      label: Global Education Prophets
-      hint: รผ
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: organization_name
       label: Organization Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 3
+    - id: 2
       name: organization_type
       label: Organization Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Non-Profit
+      - Private
+      - Public
+      - Government
       required: true
-    - id: 4
-      name: global_education_partnership_endorsement_request_form_4
+    - id: 3
+      name: global_education_impact
       label: Global Education Impact
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 5
-      name: global_education_partnership_endorsement_request_form_5
-      label: Global Education Impact 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: global_education_partnership_endorsement_request_form_6
-      label: Global Education Impact 3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: global_education_partnership_endorsement_request_form_7
-      label: Prophets
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: global_education_partnership_endorsement_request_form_8
-      label: Global Education
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: global_education_partnership_endorsement_request_form_9
-      label: Global Education
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 4
       name: organization_address
       label: Organization Address
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: organization_email
-      label: Organization Email
-      hint: null
-      type: email
+      type: text
       options: []
       required: false
-    - id: 12
+    - id: 5
       name: organization_phone
       label: Organization Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: global_education_partnership_endorsement_request_form_13
-      label: Global Education
+    - id: 6
+      name: organization_email
+      label: Organization Email
       hint: null
-      type: text
+      type: email
       options: []
       required: false
-    - id: 14
-      name: organization
-      label: Organization
+    - id: 7
+      name: global_education_focus_areas
+      label: Global Education Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Early Childhood Education
+      - Primary Education
+      - Secondary Education
+      - Tertiary Education
+      - Special Education
+      required: true
+    - id: 8
+      name: organizational_structure
+      label: Organization Structure
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: global_education_partnership_endorsement_request_form_15
-      label: Global Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: global_education_partnership_endorsement_request_form_16
-      label: Global Education
+      - Clear
+      - Unclear
+      required: true
+    - id: 9
+      name: num_partners
+      label: Number of Partners
       hint: null
       type: number
       options: []
-      required: false
-    - id: 17
-      name: global_education_partnership_endorsement_request_form_17
-      label: Global Education
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: global_education_partnership_endorsement_request_form_18
-      label: Global Prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: global_education_partnership_endorsement_request_form_19
-      label: Global Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: global_education_partnership_endorsement_request_form_20
-      label: Global Education
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: global_education_partnership_endorsement_request_form_21
-      label: Global Education
+      required: true
+    - id: 10
+      name: project_duration
+      label: Project Duration
       hint: null
       type: number
       options: []
-      required: false
-    - id: 22
-      name: global_education_partnership_endorsement_request_form_22
-      label: Global Education
+      required: true
+    - id: 11
+      name: num_beneficiaries
+      label: Number of Beneficiaries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 23
-      name: global_education_partnership_endorsement_request_form_23
-      label: Global Education
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: global_education_partnership_endorsement_request_form_24
-      label: Global Education
+      required: true
+    - id: 13
+      name: communication_plan
+      label: Communication Plan
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 25
-      name: global_education_partnership_endorsement_request_form_25
-      label: Global
+      required: true
+    - id: 14
+      name: budget
+      label: Budget
       hint: null
-      type: time
+      type: number
       options: []
-      required: false
+      required: true
+    - id: 15
+      name: skills_expertise
+      label: Skills/Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Consulting
+      - Teaching
+      - Training
+      - Other
+      required: true
+    - id: 16
+      name: monitoring_evaluation
+      label: Monitoring & Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: start_date_2
+      label: Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true

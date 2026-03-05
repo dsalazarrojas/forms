@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -40,35 +29,50 @@ inputSchema:
       label: Greeting protocol followed
       hint: Did agent use the standard greeting
       type: select_one
-      options: [Yes, No, Partially]
+      options:
+      - 'True'
+      - 'False'
+      - Partially
       required: true
     - id: 5
       name: tone_and_professionalism
       label: Tone and professionalism
       hint: Rate communication tone
       type: select_one
-      options: [Excellent, Good, Fair, Poor]
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 6
       name: call_closing_protocol
       label: Call closing protocol followed
       hint: Did agent close the call per script
       type: select_one
-      options: [Yes, No, Partially]
+      options:
+      - 'True'
+      - 'False'
+      - Partially
       required: true
     - id: 7
       name: data_privacy_compliance
       label: Data privacy compliance
       hint: Was customer data handled correctly
       type: select_one
-      options: [Compliant, Non compliant]
+      options:
+      - Compliant
+      - Non compliant
       required: true
     - id: 8
       name: script_adherence
       label: Script adherence
       hint: Level of adherence to approved scripts
       type: select_one
-      options: [High, Moderate, Low]
+      options:
+      - High
+      - Moderate
+      - Low
       required: true
     - id: 9
       name: action_items

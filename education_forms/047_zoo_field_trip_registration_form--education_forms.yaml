@@ -51,13 +51,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''None'', ''value'': ''None''}'
-      - '{''id'': 2, ''name'': ''Allergies'', ''value'': ''Allergies''}'
-      - '{''id'': 3, ''name'': ''Asthma'', ''value'': ''Asthma''}'
-      - '{''id'': 4, ''name'': ''Diabetes'', ''value'': ''Diabetes''}'
-      - '{''id'': 5, ''name'': ''Epilepsy'', ''value'': ''Epilepsy''}'
-      - '{''id'': 6, ''name'': ''Other'', ''value'': ''Other''}'
-      - '{''id'': 7, ''name'': ''Special Needs'', ''value'': ''Special Needs''}'
+      - None
+      - Allergies
+      - Asthma
+      - Diabetes
+      - Epilepsy
+      - Other
+      - Special Needs
       required: true
     - id: 8
       name: emergency_contact_name
@@ -72,11 +72,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Parent'', ''value'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''Guardian'', ''value'': ''Guardian''}'
-      - '{''id'': 3, ''name'': ''Teacher'', ''value'': ''Teacher''}'
-      - '{''id'': 4, ''name'': ''School Administrator'', ''value'': ''School Administrator''}'
-      - '{''id'': 5, ''name'': ''Other'', ''value'': ''Other''}'
+      - Parent
+      - Guardian
+      - Teacher
+      - School Administrator
+      - Other
       required: true
     - id: 10
       name: emergency_contact_phone
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: school_email
@@ -149,11 +149,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Parent'', ''value'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''Guardian'', ''value'': ''Guardian''}'
-      - '{''id'': 3, ''name'': ''Teacher'', ''value'': ''Teacher''}'
-      - '{''id'': 4, ''name'': ''School Administrator'', ''value'': ''School Administrator''}'
-      - '{''id'': 5, ''name'': ''Other'', ''value'': ''Other''}'
+      - Parent
+      - Guardian
+      - Teacher
+      - School Administrator
+      - Other
       required: false
     - id: 20
       name: emergency_contact_phone2
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: student_count2

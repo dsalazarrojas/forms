@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,8 +37,8 @@ inputSchema:
       hint: Select the asset affected
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Warehouse 1''}'
-      - '{''id'': 2, ''label'': ''Warehouse 2''}'
+      - Warehouse 1
+      - Warehouse 2
       required: false
     - id: 6
       name: employee_involved
@@ -71,9 +60,9 @@ inputSchema:
       hint: Select the type of incident that occurred
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Equipment''}'
-      - '{''id'': 2, ''label'': ''Environmental''}'
-      - '{''id'': 3, ''label'': ''Human''}'
+      - Equipment
+      - Environmental
+      - Human
       required: false
     - id: 9
       name: incident_image
@@ -109,8 +98,8 @@ inputSchema:
       hint: Select the extent of asset damage
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Minor''}'
-      - '{''id'': 2, ''label'': ''Significant''}'
+      - Minor
+      - Significant
       required: false
     - id: 14
       name: incident_status
@@ -118,9 +107,9 @@ inputSchema:
       hint: Select the status of the incident
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Resolved''}'
+      - New
+      - In Progress
+      - Resolved
       required: false
     - id: 15
       name: incident_comment
@@ -170,9 +159,9 @@ inputSchema:
       hint: Select the level of priority for the incident
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 22
       name: incident_attachment
@@ -194,9 +183,9 @@ inputSchema:
       hint: Select the status of the asset
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Not Available''}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - Available
+      - Not Available
+      - Unknown
       required: false
     - id: 25
       name: witness

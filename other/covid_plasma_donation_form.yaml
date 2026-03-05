@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''No Condition''}'
-      - '{''id'': 2, ''label'': ''Condition 1''}'
-      - '{''id'': 3, ''label'': ''Condition 2''}'
+      - No Condition
+      - Condition 1
+      - Condition 2
       required: false
     - id: 7
       name: blood_type
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''AB''}'
-      - '{''id'': 4, ''label'': ''O''}'
+      - A
+      - B
+      - AB
+      - O
       required: false
     - id: 8
       name: hospital_location
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: contact_method
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Mail''}'
+      - Phone
+      - Email
+      - Mail
       required: false
     - id: 13
       name: privacy_agreement
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: hipaa_compliance
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: submit

@@ -4,27 +4,11 @@ inputSchema:
     title: filipino_composers_knowledge_quiz
     pages:
     - id: 1
-      name: first_question
-      label: First Question
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 2
-      name: name_of_composer
-      label: Name Of Composer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: century_of_composers
-      label: Century Of Composers
+      name: composer_century
+      label: What century did the composer work in?
       hint: null
       type: select_one
       options:
-      - 20th
-      - 19th
       - 18th
       - 17th
       - 16th
@@ -42,17 +26,25 @@ inputSchema:
       - 4th
       - 3rd
       - 2nd
+      - 1st
       required: false
-    - id: 4
-      name: musical_composition
-      label: Musical Composition
+    - id: 2
+      name: composer_name
+      label: What is the name of the composer?
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
+    - id: 3
+      name: notable_composition
+      label: What is a notable composition of the composer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
       name: musical_composition_type
-      label: Musical Composition Type
+      label: What is the type of musical composition?
       hint: null
       type: select_multiple
       options:
@@ -61,149 +53,67 @@ inputSchema:
       - popular
       - experimental
       required: false
+    - id: 5
+      name: teacher_name
+      label: Who is the teacher of the class or workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 6
-      name: notable_composition
-      label: Notable Composition
+      name: teacher_info
+      label: How can the teacher be contacted?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_date
+      label: When is the class or workshop held?
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: notable_composition_venue
-      label: Notable Composition Venue
+    - id: 8
+      name: class_location
+      label: Where is the class or workshop located?
       hint: null
-      type: time
+      type: text
       options: []
       required: false
-    - id: 8
-      name: notable_composition_venue_type
-      label: Notable Composition Venue Type
-      hint: null
-      type: select_one
-      options:
-      - classical
-      - contemporary
-      - folk
-      - popular
-      - experimental
-      required: false
     - id: 9
-      name: teacher_name
-      label: Teacher Name
+      name: class_description
+      label: Can we have a list of all compositions of the composer?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: teacher_email
-      label: Teacher Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: teacher_phone
-      label: Teacher Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: class_or_workshop
-      label: Class Or Workshop
+      name: class_type
+      label: What type is the class or workshop?
       hint: null
       type: select_multiple
       options:
       - online
       - offline
       required: false
+    - id: 11
+      name: class_start_time
+      label: What is the class or workshop start time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: class_end_time
+      label: What is the class or workshop end time?
+      hint: null
+      type: time
+      options: []
+      required: false
     - id: 13
-      name: class_or_workshop_date
-      label: Class Or Workshop Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: class_or_workshop_start_time
-      label: Class Or Workshop Start Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: class_or_workshop_end_time
-      label: Class Or Workshop End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: class_or_workshop_location
-      label: Class Or Workshop Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: class_or_workshop_number
-      label: Class Or Workshop Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: class_or_workshop_comments
-      label: Class Or Workshop Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: class_or_workshop
-      label: Class Or Workshop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: class_or_workshop
-      label: Class Or Workshop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: class_or_workshop
-      label: Class Or Workshop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: class_or_workshop
-      label: Class Or Workshop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: class_or_workshop
-      label: Class Or Workshop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: class_or_workshop
-      label: Class Or Workshop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: class_or_workshop
-      label: Class Or Workshop
+      name: class_notes
+      label: Class Notes
       hint: null
       type: text
       options: []

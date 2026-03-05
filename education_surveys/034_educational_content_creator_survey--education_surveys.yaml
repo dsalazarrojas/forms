@@ -15,88 +15,115 @@ inputSchema:
     title: Educational Content Creator Survey
     pages:
     - id: 1
-      name: form_title
-      label: form_title
+      name: introduction
+      label: What's your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
-      label: category
+      name: experience_years
+      label: How long have you been creating educational content?
       hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Education Surveys''}'
-      - '{''option2'': ''Other''}'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: description
-      label: description
+      name: content_type
+      label: What type of content do you typically create?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Educational Videos
+      - Educational Podcasts
+      - Educational Blogs
+      - Educational Courses
+      - Other (please specify)
+      required: true
     - id: 4
-      name: form_description
-      label: description
+      name: motivation
+      label: What motivates you to create educational content?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: form_description
-      label: description
+      name: tool_experience
+      label: Can you describe your experience with content creation tools?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: assigned_tool
-      label: assigned_tool
+      name: share_method
+      label: How do you typically share your content with others?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Other (please specify)
+      required: true
     - id: 7
-      name: form_description_2
-      label: form_description_2
+      name: favorite_tools
+      label: What are your favorite tools for content creation?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Google Slides
+      - PowerPoint
+      - Canva
+      - Adobe Creative Cloud
+      - Other (please specify)
+      required: true
     - id: 8
-      name: assigned_tool_2
-      label: assigned_tool_2
+      name: effectiveness_measure
+      label: How do you measure the effectiveness of your content?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Engagement
+      - Completion Rate
+      - Satisfaction
+      - Other (please specify)
+      required: true
     - id: 9
-      name: output_file
-      label: output_file
+      name: content_creation_process
+      label: Can you walk us through your content creation process?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: form_file_name
-      label: form_file_name
+      name: tools_used
+      label: Have you used any of the following tools for content creation?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Google Slides
+      - PowerPoint
+      - Canva
+      - Adobe Creative Cloud
+      - Other (please specify)
+      required: true
     - id: 11
-      name: form_file_name
-      label: form_file_name
+      name: clients
+      label: Have you created content for any of the following types of clients?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Schools
+      - Corporate
+      - Non-profit
+      - Personal projects
+      - Other (please specify)
+      required: true
     - id: 12
-      name: form_file_name_2
-      label: form_file_name_2
+      name: satisfaction_level
+      label: On a scale of 1-10, how satisfied are you with your current content creation
+        workflow?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true

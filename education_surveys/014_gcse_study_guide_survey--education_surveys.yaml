@@ -5,212 +5,127 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: what_is_the_survey_purpose
+      label: What is the purpose of this survey?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: school_name
-      label: school_name
+      label: School Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: student_name
-      label: student_name
+      label: Student Name
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: subject_area
-      label: what_subject_area
+      name: select_one_subject_area
+      label: Subject Area
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: guide_title
-      label: guide_title
+      name: select_multiple_useful_features
+      label: Useful Features
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: guide_type
-      label: guide_type
+      name: select_multiple_not_useful_features
+      label: Not Useful Features
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: revision_notes
-      label: revision_notes
+      name: select_one_guide_title
+      label: Guide Title
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: revision_time
-      label: revision_time
+      name: select_multiple_usefulness_score
+      label: Helpfulness Score
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: difficulty_level
-      label: difficulty_level
+      name: select_multiple_difficulty_level
+      label: Difficulty Level
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: helpfulness_score
-      label: helpfulness_score
+      name: time_spent
+      label: Time Spent
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: useful_features
-      label: useful_features
+      name: select_multiple_improvements
+      label: Suggestions for Improvement
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: not_useful_features
-      label: not_useful_features
+      name: date_completed
+      label: Date Completed
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 13
-      name: suggest_improvements
-      label: suggest_improvements
+      name: time_taken
+      label: Time Taken
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: date_completed
-      label: date_completed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: time_taken
-      label: time_taken
+      name: select_multiple_usefulness_score_2
+      label: Select Multiple Usefulness Score 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 15
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 17
+    - id: 16
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 18
+    - id: 17
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: select_one_subject_area
-      label: subject_area
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: select_one
-      options:
-      - Mathematics
-      - Physics
-      - Chemistry
-      - Biology
-      - Geography
-      - History
-      - English
-      - Computer Science
-      required: false
-    - id: 20
-      name: select_multiple_useful_features
-      label: helpful_features
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      - Maybe
-      - Unsure
-      - Other
-      required: false
-    - id: 21
-      name: select_multiple_not_useful_features
-      label: not_useful_features
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      - Maybe
-      - Unsure
-      - Other
-      required: false
-    - id: 22
-      name: select_one_guides
-      label: guide_title
-      hint: null
-      type: select_one
-      options:
-      - GCSE Study Guide 1
-      - GCSE Study Guide 2
-      - GCSE Study Guide 3
-      required: false
-    - id: 23
-      name: select_multiple_usefulness_score
-      label: helpfulness_score
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 24
-      name: select_multiple_difficulty_level
-      label: difficulty_level
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 25
-      name: select_multiple_improvements
-      label: suggest_improvements
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      - Maybe
-      - Unsure
-      - Other
+      type: note
+      options: []
       required: false

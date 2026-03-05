@@ -4,108 +4,116 @@ inputSchema:
     title: organizational_alignment_impact_survey
     pages:
     - id: 1
-      name: first_page
-      label: Organizational alignment
+      name: page_1
+      label: Organizational Alignment
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: organizational_alignment
-      label: strategy
+      name: alignment_mission
+      label: Alignment to Mission
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 3
-      name: first_page_section_2
-      label: Organizational alignment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: first_page_section_3
-      label: Organizational alignment
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
-      required: true
-    - id: 5
-      name: first_page_section_4
-      label: Organizational alignment
+      name: team_objectives_alignment
+      label: Team Objectives Alignment
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: departmental_collaboration
+      label: Departmental Collaboration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: leadership_vision
+      label: Leadership Vision
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Neutral
+      - Somewhat Uncertain
+      - Very Uncertain
       required: true
     - id: 6
-      name: first_page_section_5
-      label: Organizational alignment
+      name: overall_alignment
+      label: Overall Alignment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: team_role
+      label: Team Role
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Somewhat Critical
+      - Neutral
+      - Somewhat Unimportant
+      - Not at all important
+      required: true
+    - id: 8
+      name: adaptability
+      label: Adaptability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Very Often
+      - Somewhat Often
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: transparency
+      label: Transparency
+      hint: null
+      type: select_one
+      options:
+      - Very Open
+      - Somewhat Open
+      - Neutral
+      - Somewhat Closed
+      - Very Closed
+      required: true
+    - id: 11
+      name: accountability
+      label: Accountability
+      hint: null
+      type: select_one
+      options:
+      - Very Accountable
+      - Somewhat Accountable
+      - Neutral
+      - Somewhat Unaccountable
+      - Not at all Accountable
+      required: true
+    - id: 12
+      name: page_12
+      label: Page 12
       hint: null
       type: date
       options: []
       required: true
-    - id: 7
-      name: first_page_section_6
-      label: Organizational alignment
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: first_page_section_7
-      label: Organizational alignment
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
-      required: true
-    - id: 9
-      name: first_page_section_8
-      label: Organizational alignment
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
-      required: true
-    - id: 10
-      name: first_page_section_9
-      label: Organizational alignment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: first_page_section_10
-      label: Organizational alignment
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: first_page_section_11
-      label: Organizational alignment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: first_page_section_12
-      label: Organizational alignment
-      hint: null
-      type: note
-      options: []
-      required: false

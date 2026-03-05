@@ -5,126 +5,104 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: Please provide a brief introduction to this OSCE evaluation form.
       type: text
       options: []
       required: false
     - id: 2
-      name: osce_station
-      label: osce_station
-      hint: null
+      name: osce_satisfaction
+      label: Satisfaction with OSCE program
+      hint: Rate your level of satisfaction with the OSCE program
       type: select_one
       options:
-      - '3'
-      - '4'
-      - '5'
-      required: false
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
     - id: 3
-      name: osce_station_id
-      label: osce_station
-      hint: null
-      type: number
-      options: []
+      name: osce_experience
+      label: Overall experience with OSCE program
+      hint: Rate your overall experience with the OSCE program
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 4
-      name: osce_station
-      label: osce_station
-      hint: null
-      type: select_one
-      options:
-      - '6'
-      - '7'
-      - '8'
+      name: osce_likes
+      label: What did you like most about OSCE program
+      hint: Please provide your reasons for liking the OSCE program
+      type: text
+      options: []
       required: false
     - id: 5
-      name: osce_station
-      label: osce_station
-      hint: null
-      type: select_one
-      options:
-      - '9'
-      - '10'
-      - '11'
+      name: osce_dislikes
+      label: What did you like least about OSCE program
+      hint: Please provide your reasons for disliking the OSCE program
+      type: text
+      options: []
       required: false
     - id: 6
-      name: osce_station
-      label: osce_station
-      hint: null
+      name: osce_teaching
+      label: OSCE teaching quality
+      hint: Rate the quality of teaching in the OSCE program
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: osce_station_id
-      label: osce_station
-      hint: null
-      type: number
-      options: []
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
+    - id: 7
+      name: osce_expectations
+      label: Expectations for OSCE program future
+      hint: Please provide your expectations for the OSCE program in the future
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: page_2
-      label: evaluation
-      hint: null
+      name: osce_improvements
+      label: Recommendations for OSCE program improvements
+      hint: Please provide your suggestions for improving the OSCE program
       type: text
       options: []
       required: false
     - id: 9
-      name: evaluation
-      label: evaluation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: evaluation
-      label: evaluation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: evaluation
-      label: evaluation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: page_3
-      label: conclusion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: osce_station
-      label: osce_station
-      hint: null
+      name: osce_value
+      label: OSCE program value
+      hint: Rate the value of the OSCE program
       type: select_one
       options:
-      - '12'
-      - '13'
-      - '14'
-      - '15'
-      - '16'
-      required: false
-    - id: 14
-      name: osce_station_id
-      label: osce_station
-      hint: null
-      type: number
-      options: []
+      - High
+      - Medium
+      - Low
       required: true
-    - id: 15
-      name: page_4
-      label: final
-      hint: null
+    - id: 10
+      name: osce_relevance
+      label: OSCE program relevance
+      hint: Rate the relevance of the OSCE program to your field of practice
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: osce_suggestions
+      label: Suggestions for OSCE program development
+      hint: Please provide your suggestions for developing the OSCE program
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: osce_final_thoughts
+      label: Final thoughts and comments
+      hint: Please provide any final thoughts or comments about the OSCE program
       type: text
       options: []
       required: false

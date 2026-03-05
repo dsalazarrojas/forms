@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Bob''}'
+      - John
+      - Jane
+      - Bob
       required: false
     - id: 3
       name: rating
@@ -28,7 +28,7 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: rating
+      name: rating_2
       label: Rating
       hint: null
       type: number
@@ -75,9 +75,9 @@ inputSchema:
       hint: Please evaluate this process
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 11
       name: resourcing_goals
@@ -99,9 +99,9 @@ inputSchema:
       hint: Please evaluate this outcome
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Bad''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
+      - Good
+      - Bad
+      - Fair
       required: false
     - id: 14
       name: outcome
@@ -153,25 +153,25 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: process_evaluation
-      label: Process Evaluation
+      name: process_evaluation_2
+      label: Process Evaluation 2
       hint: Please evaluate this process
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 22
-      name: process_outcomes
-      label: Process Outcomes
+      name: process_outcomes_2
+      label: Process Outcomes 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: campaign_process_goals
-      label: Campaign Process Goals
+      name: campaign_process_goals_2
+      label: Campaign Process Goals 2
       hint: null
       type: text
       options: []
@@ -182,7 +182,7 @@ inputSchema:
       hint: Please evaluate this campaign process
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: false

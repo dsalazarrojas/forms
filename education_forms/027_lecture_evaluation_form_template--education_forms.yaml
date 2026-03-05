@@ -5,243 +5,103 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: what_was_the_overall_quality_of_the_lecture
-      hint: null
+      label: Overall Quality of the Lecture
+      hint: Please provide a brief overview of your experience.
       type: text
       options: []
       required: false
     - id: 2
-      name: rating
-      label: overall_rating
-      hint: null
+      name: overall_rating
+      label: Overall Rating
+      hint: Rate the overall quality of the lecture.
       type: select_one
       options:
       - Poor
       - Fair
       - Good
       - Excellent
-      required: false
+      required: true
     - id: 3
       name: feedback
-      label: provide_feedback
-      hint: null
+      label: Feedback
+      hint: Please provide any comments or suggestions.
       type: note
       options: []
       required: false
     - id: 4
       name: lecturer_name
-      label: lecturer_name
-      hint: null
+      label: Lecturer's Name
+      hint: Please provide the lecturer's name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: date
-      label: date_of_lecture
-      hint: null
+      name: date_of_lecture
+      label: Date of the Lecture
+      hint: Please provide the date of the lecture.
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: time
-      label: time_of_lecture
-      hint: null
+      name: time_of_lecture
+      label: Time of the Lecture
+      hint: Please provide the time of the lecture.
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
-      name: content
-      label: what_was_covered
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: engagement
-      label: engagement
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
       name: helpfulness
-      label: helpfulness
-      hint: null
+      label: How Helpful?
+      hint: How helpful was the content?
       type: number
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: relevance
-      label: relevance
-      hint: null
+      label: Relevance
+      hint: How relevant was the content?
       type: number
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 9
       name: enjoyment
-      label: enjoyment
-      hint: null
+      label: Enjoyment
+      hint: How enjoyable was the lecture?
       type: number
       options: []
-      required: false
-    - id: 12
-      name: clarity
-      label: clarity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 10
       name: pace
-      label: pace
-      hint: null
+      label: Pace
+      hint: How well-paced was the lecture?
       type: number
       options: []
-      required: false
-    - id: 14
-      name: presentation
-      label: presentation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: overall_quality
-      label: overall_quality
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: prophets
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: uto
-      label: uto
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: utoo
-      label: utoo
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: u_prophets
-      label: u_prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: utoooo
-      label: utoooo
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: utop
-      label: utop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: utoop
-      label: utoop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 11
       name: overall_satisfaction
-      label: overall_satisfaction
-      hint: null
+      label: Overall Satisfaction
+      hint: Rate your overall satisfaction.
       type: number
       options: []
-      required: false
-    - id: 25
+      required: true
+    - id: 12
       name: would_recommend
-      label: would_recommend
-      hint: null
+      label: Would Recommend
+      hint: Would you recommend this lecture?
       type: text
       options: []
-      required: false
-    - id: 26
-      name: would_recommend_lecture
-      label: would_recommend_lecture
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: would_recommend_lecture_to
-      label: would_recommend_lecture_to
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: would_recommend_lecture_to_another
-      label: would_recommend_lecture_to_another
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
+      required: true
+    - id: 13
       name: comments
-      label: comments
-      hint: null
+      label: Comments
+      hint: Please provide any additional comments or suggestions.
       type: note
       options: []
-      required: false
-    - id: 30
-      name: uto
-      label: uto
-      hint: null
+      required: true
+    - id: 14
+      name: would_recommend_lecture_to
+      label: Would Recommend to Others
+      hint: Would you recommend this lecture to others?
       type: text
       options: []
-      required: false
-    - id: 31
-      name: utoo
-      label: utoo
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: utoooo
-      label: utoooo
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: utop
-      label: utop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: utoop
-      label: utoop
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

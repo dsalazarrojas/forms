@@ -16,88 +16,104 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: employee_career_growth_evaluation_form
+      label: Title of the Evaluation
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_category
-      label: category
+      name: introduction
+      label: Introduction
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 3
-      name: form_description
-      label: description
+      name: current_job_title
+      label: Current Job Title
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: form_category
-      label: employee_surveys
+      name: years_of_service
+      label: Years of Service
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 5
-      name: form_description
-      label: employee_career_growth_evaluation_form_helps_organizations_assess_employee_career_aspirations_and_development_needs_facilitating_meaningful_feedback_and_growth_opportunities
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: form_category
-      label: employee_surveys
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: form_description
-      label: facilitating_meaningful_feedback_and_growth_opportunities
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: form_category
-      label: employee_surveys
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: form_description
-      label: form_category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_title
-      label: employee_career_growth_evaluation_form
+      name: career_growth_goals
+      label: What are your top career growth goals?
       hint: null
       type: select_multiple
       options:
-      - Employee Development and Growth
-      - Career Development and Growth
-      - Career Development and Growth
+      - Professional Development and Growth
+      - Career Advancement and Growth
+      - Leadership Development and Growth
       required: false
-    - id: 11
-      name: form_description
-      label: employee_career_growth_evaluation_form
+    - id: 6
+      name: current_job_satisfaction
+      label: How satisfied are you with your current job?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 7
+      name: career_satisfaction
+      label: How satisfied are you with your career overall?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 8
+      name: job_description_match
+      label: How well does your current job description match your career aspirations?
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Somewhat Well
+      - Not Well
+      required: false
+    - id: 9
+      name: job_fit
+      label: How well does your current job fit with your skills and experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Somewhat Well
+      - Not Well
+      required: false
+    - id: 10
+      name: job_growth_opportunities
+      label: What growth opportunities do you have within your current role?
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: form_category
-      label: employee_surveys
+    - id: 11
+      name: career_development_areas
+      label: Which areas of career development would you like to see more opportunities
+        for?
       hint: null
-      type: text
+      type: select_multiple
+      options:
+      - Leadership Development
+      - Professional Development
+      - Technical Development
+      required: false
+    - id: 12
+      name: feedback
+      label: Is there anything else you'd like to add or comment on?
+      hint: null
+      type: note
       options: []
       required: false

@@ -1,100 +1,107 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 School Safety Protocol Complaint Form
     pages:
-      - id: 1
-        name: complainant_name_full
-        label: Complainant Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: relationship_to_school_cat
-        label: Relationship to School
-        hint: null
-        type: select_one
-        options: [Parent/Guardian, Student, Staff Member, Faculty, Community Member]
-        required: true
-      - id: 3
-        name: school_name_val
-        label: School Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: incident_date_val
-        label: Date of Incident or Observation
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: protocol_violation_cat
-        label: Protocol Being Violated
-        hint: null
-        type: select_one
-        options: [Mask Wearing, Social Distancing, Hand Hygiene, Entry Screening, Sanitation/Cleaning, Capacity Limits]
-        required: true
-      - id: 6
-        name: violation_location_text
-        label: Location of Violation
-        hint: e.g. Classroom 101, Cafeteria, School Bus
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: violation_desc_text
-        label: Detailed Description of Violation
-        hint: Please provide as much detail as possible
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: witness_names_text
-        label: Witness Names
-        hint: If any
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: evidence_avail_cat
-        label: Evidence Available
-        hint: Do you have photos or videos?
-        type: select_one
-        options: [Photos, Video, Written Statement, None]
-        required: true
-      - id: 10
-        name: desired_resolution_text
-        label: Desired Resolution
-        hint: What would you like to see happen?
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: contact_email_addr
-        label: Contact Email for Follow-up
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 12
-        name: complaint_auth_cert
-        label: I certify that the information in this complaint is true to the best of my knowledge
-        hint: null
-        type: select_one
-        options: [Yes, I certify]
-        required: true
+    - id: 1
+      name: complainant_name_full
+      label: Complainant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_to_school_cat
+      label: Relationship to School
+      hint: null
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Student
+      - Staff Member
+      - Faculty
+      - Community Member
+      required: true
+    - id: 3
+      name: school_name_val
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_date_val
+      label: Date of Incident or Observation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: protocol_violation_cat
+      label: Protocol Being Violated
+      hint: null
+      type: select_one
+      options:
+      - Mask Wearing
+      - Social Distancing
+      - Hand Hygiene
+      - Entry Screening
+      - Sanitation/Cleaning
+      - Capacity Limits
+      required: true
+    - id: 6
+      name: violation_location_text
+      label: Location of Violation
+      hint: e.g. Classroom 101, Cafeteria, School Bus
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: violation_desc_text
+      label: Detailed Description of Violation
+      hint: Please provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: witness_names_text
+      label: Witness Names
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evidence_avail_cat
+      label: Evidence Available
+      hint: Do you have photos or videos?
+      type: select_one
+      options:
+      - Photos
+      - Video
+      - Written Statement
+      - None
+      required: true
+    - id: 10
+      name: desired_resolution_text
+      label: Desired Resolution
+      hint: What would you like to see happen?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email_addr
+      label: Contact Email for Follow-up
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: complaint_auth_cert
+      label: I certify that the information in this complaint is true to the best
+        of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I certify
+      required: true

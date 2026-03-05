@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''mass''}'
-      - '{''id'': 2, ''label'': ''energy''}'
-      - '{''id'': 3, ''label'': ''velocity''}'
+      - mass
+      - energy
+      - velocity
       required: false
     - id: 4
       name: question3
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''mass''}'
-      - '{''id'': 2, ''label'': ''energy''}'
-      - '{''id'': 3, ''label'': ''velocity''}'
+      - mass
+      - energy
+      - velocity
       required: true
     - id: 5
       name: calculate_result

@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''undecided''}'
+      - 'True'
+      - 'False'
+      - undecided
       required: false
     - id: 4
       name: question_3
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''option_1''}'
-      - '{''value'': 2, ''label'': ''option_2''}'
-      - '{''value'': 3, ''label'': ''option_3''}'
+      - option 1
+      - option 2
+      - option 3
       required: false
     - id: 9
       name: page_3
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''option_1''}'
-      - '{''value'': 2, ''label'': ''option_2''}'
-      - '{''value'': 3, ''label'': ''option_3''}'
+      - option 1
+      - option 2
+      - option 3
       required: false
     - id: 12
       name: page_6
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''option_1''}'
-      - '{''value'': 2, ''label'': ''option_2''}'
-      - '{''value'': 3, ''label'': ''option_3''}'
+      - option 1
+      - option 2
+      - option 3
       required: false
     - id: 13
       name: question_7

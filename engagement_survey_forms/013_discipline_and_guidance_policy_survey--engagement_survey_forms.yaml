@@ -12,30 +12,34 @@ inputSchema:
       required: false
     - id: 2
       name: policy_awareness
-      label: Policy Awareness
+      label: What is the current level of policy awareness among employees in your
+        team/department?
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': 1}'
-      - '{''label'': ''Medium'', ''value'': 2}'
-      - '{''label'': ''Low'', ''value'': 3}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 3
       name: policy_effectiveness
-      label: Policy Effectiveness
+      label: How effective do you think the policy is in its current form?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Very Effective
+      required: true
     - id: 4
       name: improvement_ideas
-      label: Improvement Ideas
+      label: Do you have any improvement ideas for the policy?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: comments
+      name: comments_1
       label: Comments
       hint: null
       type: note
@@ -43,140 +47,101 @@ inputSchema:
       required: false
     - id: 6
       name: email
-      label: Email
+      label: Do you have an email address that we can contact you at?
       hint: null
       type: email
       options: []
       required: true
     - id: 7
       name: phone
-      label: Phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: comments_email
-      label: Comments and Email
+      name: comments_2
+      label: What are your comments about this survey?
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 9
-      name: comments_phone
-      label: Comments and Phone
+      name: communication_pref
+      label: Do you have a preferred way of communication (e.g., email, phone, or
+        in-person)?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: true
     - id: 10
-      name: comments
-      label: Comments
+      name: engagement_level
+      label: What is your level of engagement with the policy?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: comments_3
+      label: What are your concerns or suggestions for the policy?
       hint: null
       type: note
       options: []
       required: false
-    - id: 11
-      name: email
-      label: Email
+    - id: 12
+      name: policy_effectiveness_level
+      label: How effective do you think the policy is overall?
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Very Effective
+      required: true
+    - id: 13
+      name: comments_4
+      label: Do you have any comments or feedback about the policy?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: comments_5
+      label: What is your email address?
       hint: null
       type: email
       options: []
       required: true
-    - id: 12
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: phone
-      label: Phone
+    - id: 15
+      name: comments_6
+      label: Comments 6
       hint: null
       type: text
       options: []
       required: true
-    - id: 14
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 16
-      name: comments
-      label: Comments
+      name: policy_improvement
+      label: Do you have any suggestions for improvement?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 17
-      name: email
-      label: Email
+      name: comments_7
+      label: Comments 7
       hint: null
-      type: email
+      type: note
       options: []
-      required: true
+      required: false
     - id: 18
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 21
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: Comments
+      name: comments_8
+      label: Any final comments?
       hint: null
       type: note
       options: []

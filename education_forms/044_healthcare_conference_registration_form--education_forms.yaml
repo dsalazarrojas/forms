@@ -4,113 +4,126 @@ inputSchema:
     title: Healthcare Conference Registration Form
     pages:
     - id: 1
-      name: page1
-      label: page1
+      name: attendee_details
+      label: Attendee Details
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page1
-      label: page1
+      name: email_address
+      label: Email Address
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: page1
-      label: page1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: page1
-      label: page1
+      name: attending_conferences
+      label: Conferences Attending
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: page1
-      label: page1
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: interested_conferences
+      label: Interested Conferences
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: page1
-      label: page1
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
       hint: null
       type: date
       options: []
-      required: false
+      required: true
+    - id: 6
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 7
-      name: page1
-      label: page1
+      name: time_of_arrival
+      label: Time of Arrival
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
-      name: page1
-      label: page1
+      name: time_of_departure
+      label: Time of Departure
       hint: null
-      type: note
+      type: time
       options: []
-      required: false
+      required: true
     - id: 9
-      name: page1
-      label: page1
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: page1
-      label: page1
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: page1
-      label: page1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page1
-      label: page1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page1
-      label: page1
+      name: accommodation_preferences
+      label: Accommodation Preferences
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: page1
-      label: page1
+      - Hotel
+      - Other
+      required: true
+    - id: 10
+      name: transportation_preferences
+      label: Transportation Preferences
       hint: null
-      type: text
+      type: select_multiple
+      options:
+      - Car
+      - Train
+      - Flight
+      - Other
+      required: true
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Other
+      required: true
+    - id: 12
+      name: dietary_requirement
+      label: Dietary Requirement
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Non-vegetarian
+      - Other
+      required: true
+    - id: 13
+      name: medical_requirements
+      label: Medical Requirements
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
       options: []
       required: false
     - id: 15
-      name: page1
-      label: page1
+      name: comments
+      label: Comments
       hint: null
-      type: text
+      type: note
       options: []
       required: false

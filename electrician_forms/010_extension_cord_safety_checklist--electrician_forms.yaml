@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Safety Officer'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Safety Inspector'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Facility Team'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''None'', ''value'': 0}'
+      - Safety Officer
+      - Safety Inspector
+      - Facility Team
+      - None
       required: false
     - id: 3
       name: cord_status
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Hazardous'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Inspected'', ''value'': 3}'
+      - Good
+      - Hazardous
+      - Not Inspected
       required: false
     - id: 4
       name: cord_length
@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Power'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Non-Power'', ''value'': 2}'
+      - Power
+      - Non-Power
       required: false
     - id: 6
       name: cord_condition
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Damaged'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Not Inspected'', ''value'': 3}'
+      - Good
+      - Damaged
+      - Not Inspected
       required: false
     - id: 7
       name: cord_hazards
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Water'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Fire'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Electrical'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': 4}'
+      - Water
+      - Fire
+      - Electrical
+      - Other
       required: false
     - id: 8
       name: cord_notes

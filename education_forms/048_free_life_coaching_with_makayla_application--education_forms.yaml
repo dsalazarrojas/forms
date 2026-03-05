@@ -1,198 +1,97 @@
 inputSchema:
   type: object
   properties:
-    title: free-life-coaching-with-makayla-application
+    title: Free Life Coaching with Makayla Application
     pages:
     - id: 1
-      name: form_title
-      label: Form Title
+      name: title_and_category
+      label: Title-And-Category
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_category
-      label: category
+      name: personal_details
+      label: Personal Details
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: form_description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: form_description_2
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: form_category_2
-      label: category
+      name: category_selection
+      label: Category
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Student
+      - Working Professional
+      required: true
+    - id: 4
+      name: job_role
+      label: Job Role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Working Professional
+      required: true
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 6
-      name: form_title_2
-      label: title
+      name: hobbies
+      label: Hobbies
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: form_description_3
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: form_category_3
-      label: category
+      name: education_level
+      label: Education Level
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Primary School
+      - High School
+      - College/University
+      required: true
+    - id: 8
+      name: income_level
+      label: Income Level
+      hint: null
+      type: select_one
+      options:
+      - Less than $20,000
+      - $20,000-$30,000
+      - $30,000-$40,000
+      - Greater than $40,000
       required: false
     - id: 9
-      name: form_title_3
-      label: title
+      name: description
+      label: Description
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: form_description_4
-      label: description
+      name: category_selection2
+      label: Category Selection2
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Student
+      - Working Professional
+      required: true
     - id: 11
-      name: form_category_4
-      label: category
+      name: job_role2
+      label: Job Role2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: form_title_4
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_description_5
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_category_5
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: form_title_5
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_description_6
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_category_6
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: form_title_6
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_description_7
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_category_7
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: form_title_7
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_description_8
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_category_8
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: form_title_8
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_category_9
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Student
+      - Working Professional
+      required: true

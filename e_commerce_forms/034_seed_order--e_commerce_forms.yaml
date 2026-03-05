@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Cash''}'
-      - '{''name'': ''Credit Card''}'
-      - '{''name'': ''Bank Transfer''}'
+      - Cash
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 3
       name: quantity
@@ -89,9 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''CA''}'
-      - '{''name'': ''NY''}'
-      - '{''name'': ''NY''}'
+      - CA
+      - NY
       required: false
     - id: 13
       name: shipping_zip
@@ -106,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Canada''}'
-      - '{''name'': ''Mexico''}'
-      - '{''name'': ''USA''}'
+      - Canada
+      - Mexico
+      - USA
       required: false
     - id: 15
       name: order_status
@@ -116,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Open''}'
-      - '{''name'': ''Closed''}'
-      - '{''name'': ''In Progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 16
       name: order_type
@@ -126,8 +125,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Seed Sale''}'
-      - '{''name'': ''Seed Purchase''}'
+      - Seed Sale
+      - Seed Purchase
       required: false
     - id: 17
       name: product_info

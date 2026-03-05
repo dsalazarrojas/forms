@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Team Lead''}'
-      - '{''value'': ''Supervisor''}'
-      - '{''value'': ''Team Member''}'
+      - Manager
+      - Team Lead
+      - Supervisor
+      - Team Member
       required: false
     - id: 3
       name: team_member
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Team Member''}'
-      - '{''value'': ''Team Lead''}'
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Supervisor''}'
+      - Team Member
+      - Team Lead
+      - Manager
+      - Supervisor
       required: false
     - id: 4
       name: team_ownership
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 5
       name: comfort_level
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: interest_level
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: support_level
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: other_roles
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: completion_date
@@ -135,8 +135,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: submitted_by
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''HR''}'
-      - '{''value'': ''Team Member''}'
+      - Manager
+      - HR
+      - Team Member
       required: false
     - id: 18
       name: submitted_date
@@ -161,7 +161,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Not Started''}'
+      - In Progress
+      - Completed
+      - Not Started
       required: false

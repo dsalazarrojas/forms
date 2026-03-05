@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Driver''}'
-      - '{''value'': ''Rider''}'
-      - '{''value'': ''Passenger''}'
+      - Driver
+      - Rider
+      - Passenger
       required: false
     - id: 4
       name: vehicle_condition
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: vehicle_location
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 7
       name: vehicle_status
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 8
       name: notes

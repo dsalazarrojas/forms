@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5.1, ''label'': ''No email''}'
-      - '{''id'': 5.2, ''label'': ''Weekly''}'
-      - '{''id'': 5.3, ''label'': ''Daily''}'
+      - No email
+      - Weekly
+      - Daily
       required: true
     - id: 6
       name: updates
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6.1, ''label'': True}'
-      - '{''id'': 6.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: events
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''label'': True}'
-      - '{''id'': 7.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: note
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 16.1, ''label'': ''Email Marketing Forms''}'
-      - '{''id'': 16.2, ''label'': ''Other''}'
+      - Email Marketing Forms
+      - Other
       required: true
     - id: 17
       name: output_file

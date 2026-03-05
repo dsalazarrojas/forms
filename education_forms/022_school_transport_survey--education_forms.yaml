@@ -5,191 +5,175 @@ inputSchema:
     pages:
     - id: 1
       name: school_transport_survey
-      label: school_transport_survey
+      label: School Transport Survey
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: category
-      label: category
+      name: school_transport_frequency
+      label: How often do students commute to school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_transport_favourite_transportation
+      label: What is their favorite mode of transport?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: school_transport_survey_category
-      label: school_transport_survey_category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - Bus
+      - Car
+      - Walking
+      - Bike
       required: false
     - id: 4
-      name: school_transport_survey_description
-      label: school_transport_survey_description
+      name: school_transport_transportation
+      label: Do students use a bus for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: school_transport_survey_no_coding
-      label: school_transport_survey_no_coding
+      name: school_transport_transportation_2
+      label: Do students use a car for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: school_transport_survey_transportation
-      label: school_transport_survey_transportation
+      name: school_transport_transportation_3
+      label: Do students walk to school?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 7
-      name: school_transport_survey_frequency
-      label: school_transport_survey_frequency
+      name: school_transport_transportation_4
+      label: Do students use a bike for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: school_transport_survey_frequency_2
-      label: school_transport_survey_frequency_2
+      name: school_transport_transportation_5
+      label: Do students use other modes of transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: school_transport_survey_frequency_3
-      label: school_transport_survey_frequency_3
+      name: school_transport_transportation_frequent
+      label: What mode of transport is used most frequently?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Bus
+      - Car
+      - Walking
+      - Bike
       required: false
     - id: 10
-      name: school_transport_survey_frequency_4
-      label: school_transport_survey_frequency_4
+      name: school_transport_transportation_frequency
+      label: How often do students use public transport?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: school_transport_survey_transportation_2
-      label: school_transport_survey_transportation_2
-      hint: null
-      type: select_one
-      options:
-      - bus
-      - car
-      - other
-      required: false
-    - id: 12
-      name: school_transport_survey_transportation_3
-      label: school_transport_survey_transportation_3
-      hint: null
-      type: select_one
-      options:
-      - car
-      - bike
-      - walking
-      required: false
-    - id: 13
-      name: school_transport_survey_favourite_transportation
-      label: school_transport_survey_favourite_transportation
-      hint: null
-      type: select_multiple
-      options:
-      - bike
-      - bus
-      - car
-      - car
-      - walking
-      - other
-      required: false
-    - id: 14
-      name: school_transport_survey_survey_completed
-      label: school_transport_survey_survey_completed
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: school_transport_survey_survey_time
-      label: school_transport_survey_survey_time
+      name: school_transport_transportation_time
+      label: What is the average travel time to school?
       hint: null
       type: time
       options: []
       required: false
-    - id: 16
-      name: school_transport_survey_survey_date
-      label: school_transport_survey_survey_date
+    - id: 12
+      name: school_transport_transportation_distance
+      label: What is the average travel distance to school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_transport_survey_completed
+      label: Did the survey complete?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: school_transport_survey_time
+      label: How much time did the survey take?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: school_transport_survey_date
+      label: What date was the survey completed?
       hint: null
       type: date
       options: []
       required: false
-    - id: 17
-      name: category_education
-      label: category_education
+    - id: 16
+      name: school_transport_survey_staff
+      label: Do students use school staff for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: school_transport_survey_teacher
+      label: Do students use school teacher for transport?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: category_school_administration
-      label: category_school_administration
+      name: school_transport_survey_parent
+      label: Do students use school parent for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 19
-      name: category_school_staff
-      label: category_school_staff
+      name: school_transport_survey_school_administration
+      label: Do students use school administration for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 20
-      name: category_parents
-      label: category_parents
+      name: school_transport_survey_school_edition
+      label: Do students use school education for transport?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 21
-      name: category_teachers
-      label: category_teachers
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category_education
-      label: category_education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category_school_administration
-      label: category_school_administration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category_school_staff
-      label: category_school_staff
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: school_transport_survey_survey_completed_2
-      label: school_transport_survey_survey_completed_2
+      name: school_transport_survey_transport
+      label: How many times do students take school transport per week?
       hint: null
       type: number
       options: []

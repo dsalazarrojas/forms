@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''employed''}'
-      - '{''value'': ''unemployed''}'
-      - '{''value'': ''other''}'
+      - employed
+      - unemployed
+      - other
       required: false
     - id: 3
       name: employment_sector
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Government''}'
-      - '{''value'': ''Private Sector''}'
-      - '{''value'': ''Self Employment''}'
-      - '{''value'': ''Other''}'
+      - Government
+      - Private Sector
+      - Self Employment
+      - Other
       required: false
     - id: 4
       name: financial_institutions
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Bank''}'
-      - '{''value'': ''Credit Union''}'
-      - '{''value'': ''Microfinance Institution''}'
-      - '{''value'': ''Other''}'
+      - Bank
+      - Credit Union
+      - Microfinance Institution
+      - Other
       required: false
     - id: 5
       name: financial_inclusion
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Included''}'
-      - '{''value'': ''Not Included''}'
-      - '{''value'': ''Prefer not to say''}'
+      - Included
+      - Not Included
+      - Prefer not to say
       required: false
     - id: 6
       name: perceived_control_over_financial
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: region
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Region 1''}'
-      - '{''value'': ''Region 2''}'
-      - '{''value'': ''Region 3''}'
+      - Region 1
+      - Region 2
+      - Region 3
       required: false
     - id: 8
       name: education_level
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High School''}'
-      - '{''value'': ''College/University''}'
-      - '{''value'': ''Other''}'
+      - High School
+      - College/University
+      - Other
       required: false
     - id: 9
       name: gender
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 10
       name: marital_status
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Single''}'
-      - '{''value'': ''Married''}'
-      - '{''value'': ''Other''}'
+      - Single
+      - Married
+      - Other
       required: false
     - id: 11
       name: household_size
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than 5''}'
-      - '{''value'': ''5 or more''}'
+      - Less than 5
+      - 5 or more
       required: false
     - id: 12
       name: age
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Formal''}'
-      - '{''value'': ''Informal''}'
-      - '{''value'': ''Other''}'
+      - Formal
+      - Informal
+      - Other
       required: false
     - id: 14
       name: financial_support
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: income

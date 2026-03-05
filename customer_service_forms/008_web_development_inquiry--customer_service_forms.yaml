@@ -4,183 +4,150 @@ inputSchema:
     title: web_development_inquiry
     pages:
     - id: 1
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: purpose_of_inquiry
+      label: What is the purpose of your web development inquiry?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 3
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: current_website_url
+      label: What is your current website's URL?
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+    - id: 3
+      name: specific_services_needed
+      label: What specific web development service do you need?
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 5
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+    - id: 4
+      name: expected_launch_date
+      label: What is the expected launch date for your project?
       hint: null
       type: date
       options: []
       required: false
-    - id: 6
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 7
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+    - id: 5
+      name: new_or_existing
+      label: Are you looking to develop a new website or enhance your existing one?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - new
+      - existing
+      required: false
+    - id: 6
+      name: primary_function
+      label: What is your website's primary function?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: What is your company's name?
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 8
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: email
+      label: What is your email?
       hint: null
-      type: number
+      type: email
       options: []
       required: false
     - id: 9
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: phone_number
+      label: What is your phone number?
       hint: null
       type: number
       options: []
       required: false
     - id: 10
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: one_time_or_ongoing
+      label: Is this a one-time or ongoing service?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - one-time
+      - ongoing
       required: false
     - id: 11
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: specific_technologies
+      label: Are there any specific technologies you have in mind for your website?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: preferred_contact_method
+      label: What is your preferred method of contact?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - phone
+      - email
+      - in-person
       required: false
     - id: 13
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: design_requirements
+      label: Do you have any specific design requirements or expectations?
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 14
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: specific_features
+      label: Are there any specific features you need for your website?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 15
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: testing_maintenance
+      label: Do you need assistance with website testing and maintenance?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 16
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: estimated_budget
+      label: What is the estimated budget for your project?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 17
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: deadlines_milestones
+      label: Are there any specific deadlines or milestones for your project?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 18
-      name: customer_service_inquiries
-      label: customer_service_inquiries
+      name: other_services
+      label: Are there any other services you'd like to inquire about?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: customer_service_inquiries
-      label: customer_service_inquiries
-      hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false

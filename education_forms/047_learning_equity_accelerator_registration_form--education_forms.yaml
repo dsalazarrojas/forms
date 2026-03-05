@@ -4,184 +4,168 @@ inputSchema:
     title: Learning Equity Accelerator Registration Form
     pages:
     - id: 1
-      name: contact_information
-      label: Contact Information
+      name: contact_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_information
-      label: Contact Information
+      name: organization_name
+      label: What is your organization name?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: contact_information
-      label: Contact Information
+      name: role_in_organization
+      label: What is your role in the organization?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: contact_email
-      label: Email
+      name: contact_address
+      label: What is your address?
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 5
-      name: contact_phone
-      label: Phone
+      name: contact_state
+      label: What is your state?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - District of Columbia
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
       required: false
     - id: 6
-      name: contact_name
-      label: Name
+      name: contact_country
+      label: What is your country?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 7
-      name: contact_last_name
-      label: Last Name
+      name: contact_preferences
+      label: What type of information do you want to be contacted with (email, phone,
+        mail)?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
       required: false
     - id: 8
-      name: contact_first_name
-      label: First Name
+      name: contact_comments
+      label: What are your comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: organization_name
-      label: Organization Name
+      name: contact_city
+      label: What is your city?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: role_in_organization
-      label: Role in Organization
+      name: contact_zip
+      label: What is your zip code?
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: contact_address
-      label: Address
+      name: contact_title
+      label: What is your title in the form?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: contact_state
-      label: State
+      name: contact_terms_conditions
+      label: Have you read and agreed to the terms and conditions?
       hint: null
-      type: select_one
+      type: checkbox
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 13
-      name: contact_city
-      label: City
+      name: contact_further_comments
+      label: What are your further comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: contact_zip
-      label: Zip
+      name: contact_privacy
+      label: Do you have any comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: contact_country
-      label: Country
+      name: contact_agreed_terms
+      label: What is your agreement status with the terms and conditions?
       hint: null
-      type: select_one
+      type: radio
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: contact_privacy
-      label: What type of information do you want to be contacted with?
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: contact_terms_conditions
-      label: By clicking submit, I acknowledge that I have read and agree to the  Terms
-        and Conditions.
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: contact_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: contact_comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_comments_3
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_comments_4
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: contact_comments_5
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contact_comments_6
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: contact_comments_7
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: contact_comments_8
-      label: Comments
-      hint: null
-      type: text
-      options: []
+      - Agreed
+      - Not Agreed
       required: false

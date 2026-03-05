@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Parent'', ''value'': ''Parent''}'
-      - '{''id'': 2, ''label'': ''Guardian'', ''value'': ''Guardian''}'
-      - '{''id'': 3, ''label'': ''Teacher'', ''value'': ''Teacher''}'
+      - Parent
+      - Guardian
+      - Teacher
       required: false
     - id: 5
       name: contact_phone
@@ -68,6 +68,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Male'', ''value'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female'', ''value'': ''Female''}'
+      - Male
+      - Female
       required: false

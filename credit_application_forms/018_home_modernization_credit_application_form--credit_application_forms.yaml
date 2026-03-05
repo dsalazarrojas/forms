@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Home Renovation''}'
-      - '{''value'': 2, ''label'': ''Home Addition''}'
-      - '{''value'': 3, ''label'': ''Home Extension''}'
+      - Home Renovation
+      - Home Addition
+      - Home Extension
       required: true
     - id: 7
       name: credit_amount
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''6 months''}'
-      - '{''value'': 2, ''label'': ''12 months''}'
-      - '{''value'': 3, ''label'': ''24 months''}'
+      - 6 months
+      - 12 months
+      - 24 months
       required: true
     - id: 9
       name: loan_interest
@@ -71,54 +71,42 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''6%'', ''id'': 10}'
-      - '{''value'': 2, ''label'': ''8%'', ''id'': 11}'
-      - '{''value'': 3, ''label'': ''10%''}'
-      - '{''value'': 4, ''label'': ''12%'', ''id'': 12}'
-      - '{''value'': 5, ''label'': ''14%'', ''id'': 13}'
-      - '{''value'': 6, ''label'': ''16%'', ''id'': 14}'
-      - '{''value'': 7, ''label'': ''18%'', ''id'': 15}'
-      - '{''value'': 8, ''label'': ''20%'', ''id'': 16}'
-      - '{''value'': 9, ''label'': ''22%'', ''id'': 17}'
-      - '{''value'': 10, ''label'': ''24%'', ''id'': 18}'
-      - '{''value'': 11, ''label'': ''26%'', ''id'': 19}'
-      - '{''value'': 12, ''label'': ''28%'', ''id'': 20}'
-      - '{''value'': 13, ''label'': ''30%'', ''id'': 21}'
-      - '{''value'': 14, ''label'': ''32%'', ''id'': 22}'
-      - '{''value'': 15, ''label'': ''34%'', ''id'': 23}'
-      - '{''value'': 16, ''label'': ''36%'', ''id'': 24}'
-      - '{''value'': 17, ''label'': ''38%'', ''id'': 25}'
-      - '{''value'': 18, ''label'': ''40%'', ''id'': 26}'
-      - '{''value'': 19, ''label'': ''42%'', ''id'': 27}'
-      - '{''value'': 20, ''label'': ''44%'', ''id'': 28}'
-      - '{''value'': 21, ''label'': ''46%'', ''id'': 29}'
-      - '{''value'': 22, ''label'': ''48%'', ''id'': 30}'
-      - '{''value'': 23, ''label'': ''50%'', ''id'': 31}'
-      - '{''value'': 24, ''label'': ''52%'', ''id'': 32}'
-      - '{''value'': 25, ''label'': ''54%'', ''id'': 33}'
-      - '{''value'': 26, ''label'': ''56%'', ''id'': 34}'
-      - '{''value'': 27, ''label'': ''58%'', ''id'': 35}'
-      - '{''value'': 28, ''label'': ''60%'', ''id'': 36}'
-      - '{''value'': 29, ''label'': ''62%'', ''id'': 37}'
-      - '{''value'': 30, ''label'': ''64%'', ''id'': 38}'
-      - '{''value'': 31, ''label'': ''66%'', ''id'': 39}'
-      - '{''value'': 32, ''label'': ''68%'', ''id'': 40}'
-      - '{''value'': 33, ''label'': ''70%'', ''id'': 41}'
-      - '{''value'': 34, ''label'': ''72%'', ''id'': 42}'
-      - '{''value'': 35, ''label'': ''74%'', ''id'': 43}'
-      - '{''value'': 36, ''label'': ''76%'', ''id'': 44}'
-      - '{''value'': 37, ''label'': ''78%'', ''id'': 45}'
-      - '{''value'': 38, ''label'': ''80%'', ''id'': 46}'
-      - '{''value'': 39, ''label'': ''82%'', ''id'': 47}'
-      - '{''value'': 40, ''label'': ''84%'', ''id'': 48}'
-      - '{''value'': 41, ''label'': ''86%'', ''id'': 49}'
-      - '{''value'': 42, ''label'': ''88%'', ''id'': 50}'
-      - '{''value'': 43, ''label'': ''90%'', ''id'': 51}'
-      - '{''value'': 44, ''label'': ''92%'', ''id'': 52}'
-      - '{''value'': 45, ''label'': ''94%'', ''id'': 53}'
-      - '{''value'': 46, ''label'': ''96%'', ''id'': 54}'
-      - '{''value'': 47, ''label'': ''98%'', ''id'': 55}'
-      - '{''value'': 48, ''label'': ''100%'', ''id'': 56}'
+      - 6%
+      - 8%
+      - 10%
+      - 12%
+      - 14%
+      - 16%
+      - 18%
+      - 20%
+      - 22%
+      - 24%
+      - 26%
+      - 28%
+      - 30%
+      - 32%
+      - 34%
+      - 36%
+      - 38%
+      - 40%
+      - 42%
+      - 44%
+      - 46%
+      - 48%
+      - 50%
+      - 52%
+      - 54%
+      - 56%
+      - 58%
+      - 60%
+      - 62%
+      - 64%
+      - 66%
+      - 68%
+      - 70%
+      - 72%
+      - 74%
+      - 76%
       required: true
     - id: 10
       name: loan_frequency
@@ -126,10 +114,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Monthly''}'
-      - '{''value'': 2, ''label'': ''Quarterly''}'
-      - '{''value'': 3, ''label'': ''Bi-Annual''}'
-      - '{''value'': 4, ''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Bi-Annual
+      - Annually
       required: true
     - id: 11
       name: loan_start
@@ -158,11 +146,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''6 months''}'
-      - '{''value'': 2, ''label'': ''12 months''}'
-      - '{''value'': 3, ''label'': ''24 months''}'
-      - '{''value'': 4, ''label'': ''36 months''}'
-      - '{''value'': 5, ''label'': ''48 months''}'
+      - 6 months
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
       required: true
     - id: 15
       name: payment_frequency
@@ -170,10 +158,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Bi-Monthly''}'
-      - '{''value'': 2, ''label'': ''Quarterly''}'
-      - '{''value'': 3, ''label'': ''Semi-Monthly''}'
-      - '{''value'': 4, ''label'': ''Annually''}'
+      - Bi-Monthly
+      - Quarterly
+      - Semi-Monthly
+      - Annually
       required: true
     - id: 16
       name: notes
@@ -216,9 +204,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''Inactive''}'
-      - '{''value'': 3, ''label'': ''Suspended''}'
+      - Active
+      - Inactive
+      - Suspended
       required: true
     - id: 22
       name: project_budget
@@ -228,14 +216,14 @@ inputSchema:
       options: []
       required: true
     - id: 23
-      name: project_type
-      label: Project Type
+      name: project_type_2
+      label: Project Type 2
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Home Renovation''}'
-      - '{''value'': 2, ''label'': ''Home Addition''}'
-      - '{''value'': 3, ''label'': ''Home Extension''}'
+      - Home Renovation
+      - Home Addition
+      - Home Extension
       required: true
     - id: 24
       name: contractor_name
@@ -264,193 +252,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
-      - '{''value'': 3, ''label'': ''Undisclosed''}'
+      - 'True'
+      - 'False'
       required: true
     - id: 28
-      name: contract_date
-      label: Contract Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 29
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: credit_status
-      label: Credit Status
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''Approved''}'
-      - '{''value'': 2, ''label'': ''Denied''}'
-      - '{''value'': 3, ''label'': ''Under Review''}'
-      - '{''value'': 4, ''label'': ''Withdrawn''}'
-      - '{''value'': 5, ''label'': ''Pending''}'
-      required: true
-    - id: 31
-      name: loan_type
-      label: Loan Type
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''Unsecured''}'
-      - '{''value'': 2, ''label'': ''Secured''}'
-      required: true
-    - id: 32
-      name: loan_term
-      label: Loan Term
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''Short Term''}'
-      - '{''value'': 2, ''label'': ''Long Term''}'
-      - '{''value'': 3, ''label'': ''Medium Term''}'
-      required: true
-    - id: 33
-      name: credit_amount
-      label: Credit Amount
+      name: home_value_2
+      label: Home Value 2
       hint: null
       type: number
       options: []
       required: true
-    - id: 34
-      name: interest_rate
-      label: Interest Rate
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 35
-      name: loan_interest
-      label: Loan Interest
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 36
-      name: loan_fee
-      label: Loan Fee
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 37
-      name: credit_term
-      label: Credit Term
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''6 months''}'
-      - '{''value'': 2, ''label'': ''12 months''}'
-      - '{''value'': 3, ''label'': ''24 months''}'
-      - '{''value'': 4, ''label'': ''36 months''}'
-      - '{''value'': 5, ''label'': ''48 months''}'
-      required: true
-    - id: 38
-      name: payment_term
-      label: Payment Term
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''6 months''}'
-      - '{''value'': 2, ''label'': ''12 months''}'
-      - '{''value'': 3, ''label'': ''24 months''}'
-      - '{''value'': 4, ''label'': ''36 months''}'
-      - '{''value'': 5, ''label'': ''48 months''}'
-      required: true
-    - id: 39
-      name: loan_status
-      label: Loan Status
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': 1, ''label'': ''Approved''}'
-      - '{''value'': 2, ''label'': ''Denied''}'
-      - '{''value'': 3, ''label'': ''Under Review''}'
-      - '{''value'': 4, ''label'': ''Withdrawn''}'
-      - '{''value'': 5, ''label'': ''Pending''}'
-      required: true
-    - id: 40
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: additional_info_1
-      label: Additional Info 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: additional_info_2
-      label: Additional Info 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: additional_info_3
-      label: Additional Info 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: additional_info_4
-      label: Additional Info 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: additional_info_5
-      label: Additional Info 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: additional_info_6
-      label: Additional Info 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: additional_info_7
-      label: Additional Info 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: additional_info_8
-      label: Additional Info 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: additional_info_9
-      label: Additional Info 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: additional_info_10
-      label: Additional Info 10
-      hint: null
-      type: text
-      options: []
-      required: false

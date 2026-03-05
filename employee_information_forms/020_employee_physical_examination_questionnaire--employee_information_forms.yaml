@@ -4,106 +4,142 @@ inputSchema:
     title: Employee Physical Examination Questionnaire
     pages:
     - id: 1
-      name: employee_physical_examination_questionnaire
-      label: Employee Information Forms
+      name: employee_physical_examination_questionnaire_1
+      label: Medical Status
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: physical_examination_questionnaire_1
-      label: Physical Examination
+      name: physical_examination_questionnaire_2
+      label: Recent Injuries or Illnesses
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: physical_examination_questionnaire_2
-      label: Examination Date
+      name: physical_examination_questionnaire_3
+      label: Height (in cm)
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 4
-      name: physical_examination_questionnaire_3
-      label: Physical Examination
+      name: physical_examination_questionnaire_4
+      label: Weight (in kg)
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: physical_examination_questionnaire_4
-      label: Physical Examination
+      name: physical_examination_questionnaire_5
+      label: BMI
       hint: null
-      type: time
+      type: number
       options: []
       required: false
     - id: 6
-      name: physical_examination_questionnaire_5
-      label: Medical Office
+      name: blood_pressure
+      label: Blood Pressure (mmHg)
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 7
-      name: physical_examination_questionnaire_6
-      label: Health Status
+      name: heart_rate
+      label: Heart Rate (bpm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy_question
+      label: Allergies
       hint: null
       type: select_multiple
       options:
       - Active
       - Inactive
       required: false
-    - id: 8
-      name: physical_examination_questionnaire_7
-      label: Health Status
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: physical_examination_questionnaire_8
-      label: Health Status
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: physical_examination_questionnaire_9
-      label: Health Status
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 11
-      name: physical_examination_questionnaire_10
-      label: Health Status
+      name: medical_condition
+      label: Medical Conditions
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: physical_examination_questionnaire_11
-      label: Health Status
+      name: chronic_condition
+      label: Chronic Conditions
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: physical_examination_questionnaire_12
-      label: Health Status
+      name: smoke_tobacco
+      label: Smoking or Tobacco Use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_device
+      label: Medical Devices or Equipment
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: physical_examination_questionnaire_13
-      label: Health Status
+    - id: 15
+      name: implants_prosthetics
+      label: Implants or Prosthetics
       hint: null
       type: text
       options: []
+      required: false
+    - id: 16
+      name: regular_medication
+      label: Regular Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: medical_procedure
+      label: Medical Procedures or Surgeries
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false

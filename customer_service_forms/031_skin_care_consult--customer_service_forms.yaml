@@ -4,181 +4,114 @@ inputSchema:
     title: skin_care_consult
     pages:
     - id: 1
-      name: skin_care_consult_form
-      label: skin_care_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: skin_type
-      label: skin_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
+      label: What is your skin type?
+      hint: Select one of the following options - Normal, Dry, Oily, Combination,
+        Sensitive
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 2
       name: skin_condition
-      label: skin_condition
-      hint: null
+      label: Describe your skin condition (e.g. acne, aging, etc.)
+      hint: Please provide details about your skin concerns
       type: text
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: skin_care_products
-      label: skin_care_products
-      hint: null
+      label: Are you interested in skin care products?
+      hint: Select one of the following options - Yes, No
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 5
-      name: skin_procedure
-      label: skin_procedure
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: next_steps
-      label: next_steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 4
       name: followup
-      label: followup
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: followup_frequency
-      label: followup_frequency
+      label: How often do you follow-up with your skin care products?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 5
       name: followup_method
-      label: followup_method
+      label: How do you follow-up with your skin care products?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: followup_next_steps
-      label: followup_next_steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 6
       name: skin_care_product_info
-      label: skin_care_product_info
-      hint: null
+      label: Please provide detailed information about your skin care products (e.g.
+        name, price, quantity)
+      hint: Please provide details about your skin care products
       type: text
       options: []
-      required: false
-    - id: 12
-      name: skin_care_product_info_additional
-      label: skin_care_product_info_additional
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 7
       name: skin_care_product_info_price
-      label: skin_care_product_info_price
+      label: Price of the skin care product
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 8
       name: skin_care_product_info_price_currency
-      label: skin_care_product_info_price_currency
+      label: Currency of the skin care product
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
-      name: skin_care_product_info_price_quantity
-      label: skin_care_product_info_price_quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: skin_care_product_info_price_unit
-      label: skin_care_product_info_price_unit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 9
       name: skin_care_product_info_weight
-      label: skin_care_product_info_weight
+      label: Weight of the skin care product
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 10
       name: skin_care_product_info_weight_unit
-      label: skin_care_product_info_weight_unit
+      label: Unit of the skin care product weight
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: skin_care_product_info_weight_quantity
-      label: skin_care_product_info_weight_quantity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: skin_care_product_info_weight_unit
-      label: skin_care_product_info_weight_unit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
+      required: true
+    - id: 11
       name: skin_care_product_info_size
-      label: skin_care_product_info_size
+      label: Size of the skin care product
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 12
       name: skin_care_product_info_size_unit
-      label: skin_care_product_info_size_unit
+      label: Unit of the skin care product size
       hint: null
       type: text
       options: []
-      required: false
-    - id: 23
-      name: skin_care_product_info_size_quantity
-      label: skin_care_product_info_size_quantity
+      required: true
+    - id: 13
+      name: skin_care_product_info_quantity
+      label: Quantity of the skin care product
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 24
-      name: skin_care_product_info_size_unit
-      label: skin_care_product_info_size_unit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+      required: true
+    - id: 14
       name: skin_care_product_info_additional
-      label: skin_care_product_info_additional
+      label: Additional information about the skin care product
       hint: null
       type: text
       options: []
-      required: false
+      required: true

@@ -15,86 +15,96 @@ inputSchema:
     title: Operator Orientation Survey
     pages:
     - id: 1
-      name: operator_orientation_survey_page_1
-      label: Operator Onboarding
+      name: current_job_title
+      label: What is your current job title/position?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: operator_orientation_survey_page_2
-      label: Training Quality
+      name: rate_training_quality
+      label: How would you rate the quality of the training provided?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: operator_orientation_survey_page_3
-      label: Operator Onboarding
+      name: challenging_part
+      label: What was the most challenging part of the onboarding process?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: operator_orientation_survey_page_4
-      label: Onboarding Process
+      name: effectiveness_of_onboarding
+      label: How effective was the onboarding process in preparing you?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: operator_orientation_survey_page_5
-      label: Onboarding Process
+      name: helpful_during_onboarding
+      label: What did you find most helpful during the onboarding process?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Manual
+      - Online Training
+      - Mentorship
+      - Other (please specify)
+      required: true
     - id: 6
-      name: operator_orientation_survey_page_6
-      label: Onboarding Process
+      name: least_helpful_during_onboarding
+      label: What did you find least helpful or confusing during the onboarding process?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: operator_orientation_survey_page_7
-      label: Onboarding Process
+      name: supportiveness_of_colleagues
+      label: How would you rate the supportiveness of your colleagues during the onboarding
+        process?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: operator_orientation_survey_page_8
-      label: Onboarding Process
+      name: feel_prepared_for_new_role
+      label: Did you feel adequately prepared for your new role at the end of the
+        onboarding process?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
-      name: operator_orientation_survey_page_9
-      label: Onboarding Process
+      name: confidence_in_job_responsibilities
+      label: How confident are you in your ability to perform your new job responsibilities?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: operator_orientation_survey_page_10
-      label: Onboarding Process
+      name: suggestions_for_improvement
+      label: What suggestions do you have for improving the onboarding process?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: operator_orientation_survey_page_11
-      label: Onboarding Process
+      name: additional_comments
+      label: Any additional comments or suggestions you'd like to share about your
+        onboarding experience?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: operator_orientation_survey_page_12
-      label: Onboarding Process
+      name: would_recommend_onboarding
+      label: How likely are you to recommend this onboarding process to a friend or
+        colleague?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true

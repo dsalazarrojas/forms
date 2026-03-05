@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
-      - '{''id'': 3, ''text'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 5
       name: feedback_question_2
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
-      - '{''id'': 3, ''text'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 6
       name: rating
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
-      - '{''id'': 3, ''text'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 8
       name: additional_comments
@@ -81,11 +81,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Piano''}'
-      - '{''id'': 2, ''text'': ''Guitar''}'
-      - '{''id'': 3, ''text'': ''Violin''}'
-      - '{''id'': 4, ''text'': ''Drums''}'
-      - '{''id'': 5, ''text'': ''Other''}'
+      - Piano
+      - Guitar
+      - Violin
+      - Drums
+      - Other
       required: false
     - id: 11
       name: instructor_name
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Private''}'
-      - '{''id'': 2, ''text'': ''Group''}'
-      - '{''id'': 3, ''text'': ''Online''}'
+      - Private
+      - Group
+      - Online
       required: false
     - id: 20
       name: lesson_date

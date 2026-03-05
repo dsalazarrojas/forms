@@ -51,16 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Academic Support
-        value: academic_support
-      - label: Financial Assistance
-        value: financial_assistance
-      - label: Extracurricular/Club
-        value: extracurricular
-      - label: Technology/Infrastructure
-        value: technology
-      - label: Community Outreach
-        value: outreach
+      - Academic Support
+      - Financial Assistance
+      - Extracurricular/Club
+      - Technology/Infrastructure
+      - Community Outreach
       required: true
     - id: 8
       name: target_audience
@@ -68,18 +63,12 @@ inputSchema:
       hint: Who will benefit from this program?
       type: select_multiple
       options:
-      - label: K-5 Students
-        value: k5
-      - label: Middle School Students
-        value: middle_school
-      - label: High School Students
-        value: high_school
-      - label: Undergraduate Students
-        value: undergraduate
-      - label: Graduate Students
-        value: graduate
-      - label: Faculty/Staff
-        value: faculty_staff
+      - K-5 Students
+      - Middle School Students
+      - High School Students
+      - Undergraduate Students
+      - Graduate Students
+      - Faculty/Staff
       required: true
     - id: 9
       name: program_description
@@ -150,8 +139,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true

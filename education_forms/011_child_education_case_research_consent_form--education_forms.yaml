@@ -1,136 +1,114 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Education Case Research Consent Form
     pages:
-      - id: 1
-        name: section_researcher_info
-        label: -- Researcher Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: study_title
-        label: Research Study Title
-        hint: As provided by the lead investigator
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: section_participant_details
-        label: -- Participant Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: parent_guardian_name
-        label: Parent or Guardian Name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: child_name
-        label: Child Full Name
-        hint: Student participant name
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: child_dob
-        label: Child Date of Birth
-        hint: To verify age eligibility
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: section_consent_details
-        label: -- Consent Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: participation_consent
-        label: Do you consent to the child participation?
-        hint: Participation is voluntary
-        type: select_one
-        options:
-          - label: Yes - I Consent
-            value: yes
-          - label: No - I Do Not Consent
-            value: no
-        required: true
-      - id: 9
-        name: consent_areas
-        label: Consent for Specific Research Activities
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - label: One-on-one Interviews
-            value: interviews
-          - label: Classroom Observation
-            value: observation
-          - label: Collection of Academic Data
-            value: data
-          - label: Standardized Testing
-            value: testing
-        required: true
-      - id: 10
-        name: recording_consent
-        label: Consent for audio or video recording?
-        hint: Recordings used for research purposes only
-        type: select_one
-        options:
-          - label: Yes - Audio and Video
-            value: both
-          - label: Yes - Audio Only
-            value: audio
-          - label: No Recording Allowed
-            value: none
-        required: true
-      - id: 11
-        name: section_confidentiality
-        label: -- Confidentiality Agreement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: understand_confidentiality
-        label: Do you understand the confidentiality protocols?
-        hint: All data will be de-identified
-        type: select_one
-        options:
-          - label: Yes
-            value: yes
-          - label: No
-            value: no
-        required: true
-      - id: 13
-        name: electronic_signature
-        label: Electronic Signature - Full Name
-        hint: Please type your full name
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: today_date
-        label: Today Date
-        hint: Date of consent
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_researcher_info
+      label: -- Researcher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Research Study Title
+      hint: As provided by the lead investigator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_participant_details
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_name
+      label: Child Full Name
+      hint: Student participant name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_dob
+      label: Child Date of Birth
+      hint: To verify age eligibility
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_consent_details
+      label: -- Consent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participation_consent
+      label: Do you consent to the child participation?
+      hint: Participation is voluntary
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 9
+      name: consent_areas
+      label: Consent for Specific Research Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - One-on-one Interviews
+      - Classroom Observation
+      - Collection of Academic Data
+      - Standardized Testing
+      required: true
+    - id: 10
+      name: recording_consent
+      label: Consent for audio or video recording?
+      hint: Recordings used for research purposes only
+      type: select_one
+      options:
+      - Yes - Audio and Video
+      - Yes - Audio Only
+      - No Recording Allowed
+      required: true
+    - id: 11
+      name: section_confidentiality
+      label: -- Confidentiality Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: understand_confidentiality
+      label: Do you understand the confidentiality protocols?
+      hint: All data will be de-identified
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: electronic_signature
+      label: Electronic Signature - Full Name
+      hint: Please type your full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: today_date
+      label: Today Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

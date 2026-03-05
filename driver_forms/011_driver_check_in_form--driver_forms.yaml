@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Jimmy''}'
-      - '{''id'': 2, ''name'': ''John''}'
-      - '{''id'': 3, ''name'': ''Bob''}'
+      - Jimmy
+      - John
+      - Bob
       required: true
     - id: 6
       name: vehicle_make
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: notes_important
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Pickup''}'
-      - '{''id'': 2, ''name'': ''Dropoff''}'
-      - '{''id'': 3, ''name'': ''Both''}'
+      - Pickup
+      - Dropoff
+      - Both
       required: false
     - id: 22
       name: vehicle_type
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Van''}'
-      - '{''id'': 2, ''name'': ''Car''}'
-      - '{''id'': 3, ''name'': ''Truck''}'
+      - Van
+      - Car
+      - Truck
       required: true
     - id: 23
       name: assigned_user
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Jimmy''}'
-      - '{''id'': 2, ''name'': ''John''}'
-      - '{''id'': 3, ''name'': ''Bob''}'
+      - Jimmy
+      - John
+      - Bob
       required: false
     - id: 24
       name: vehicle_status
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Available''}'
-      - '{''id'': 2, ''name'': ''Not available''}'
+      - Available
+      - Not available
       required: true
     - id: 25
       name: comments

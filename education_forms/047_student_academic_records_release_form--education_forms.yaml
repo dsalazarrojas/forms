@@ -18,10 +18,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Family Member''}'
-      - '{''label'': ''School''}'
-      - '{''label'': ''University''}'
-      - '{''label'': ''Other''}'
+      - Family Member
+      - School
+      - University
+      - Other
       required: false
     - id: 3
       name: release_scope
@@ -29,9 +29,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Transcript''}'
-      - '{''label'': ''Letter of Good Standing''}'
-      - '{''label'': ''Other Academic Records''}'
+      - Transcript
+      - Letter of Good Standing
+      - Other Academic Records
       required: false
     - id: 4
       name: form_submission
@@ -39,6 +39,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

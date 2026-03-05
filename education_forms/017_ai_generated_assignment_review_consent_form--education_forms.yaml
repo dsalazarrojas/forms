@@ -62,10 +62,8 @@ inputSchema:
         AI review tools?
       type: select_one
       options:
-      - label: Yes, I consent
-        value: true
-      - label: No, I do not consent (Manual review only)
-        value: false
+      - Yes, I consent
+      - No, I do not consent (Manual review only)
       required: true
     - id: 9
       name: data_privacy_acknowledgment
@@ -73,9 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I understand that my data will be processed according to the institution's
-          privacy policy and will not be used to train external AI models.
-        value: acknowledged
+      - I understand that my data will be processed according to the institution's
+        privacy policy and will not be used to train external AI models.
       - Other
       required: true
     - id: 10
@@ -84,10 +81,8 @@ inputSchema:
       hint: For which assignments does this consent apply?
       type: select_one
       options:
-      - label: All assignments for the duration of this course
-        value: all
-      - label: Specific assignments only (Please list below)
-        value: specific
+      - All assignments for the duration of this course
+      - Specific assignments only (Please list below)
       required: true
     - id: 11
       name: specific_assignments_list
@@ -102,9 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I understand that AI feedback is supplementary and all final academic
-          decisions are made by human faculty.
-        value: understood
+      - I understand that AI feedback is supplementary and all final academic decisions
+        are made by human faculty.
       - Other
       required: true
     - id: 13
@@ -113,10 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: guardian_name
@@ -138,8 +130,7 @@ inputSchema:
       hint: By selecting 'I agree', you are providing a digital signature.
       type: select_one
       options:
-      - label: I agree and sign this consent form
-        value: signed
+      - I agree and sign this consent form
       - Other
       required: true
     - id: 17

@@ -48,8 +48,8 @@ inputSchema:
       hint: Provide honoree details if applicable
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: false
     - id: 7
       name: payment_method
@@ -67,8 +67,8 @@ inputSchema:
       hint: Select if donor wishes to remain anonymous
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: receipt_preference

@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bachelors''}'
-      - '{''id'': 2, ''label'': ''Masters''}'
-      - '{''id'': 3, ''label'': ''Phd''}'
+      - Bachelors
+      - Masters
+      - Phd
       required: true
     - id: 9
       name: available_to_work
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''Mandarin''}'
+      - English
+      - Spanish
+      - Mandarin
       required: true
     - id: 11
       name: job_title
@@ -85,10 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Software Engineer'', ''value'': ''software-engineer''}'
-      - '{''id'': 2, ''label'': ''Software Development Team Manager'', ''value'':
-        ''software-development-team-manager''}'
-      - '{''id'': 3, ''label'': ''Data Scientist'', ''value'': ''data-scientist''}'
+      - Software Engineer
+      - Software Development Team Manager
+      - Data Scientist
       required: true
     - id: 12
       name: job_type
@@ -96,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full-Time'', ''value'': ''full-time''}'
-      - '{''id'': 2, ''label'': ''Part-Time'', ''value'': ''part-time''}'
-      - '{''id'': 3, ''label'': ''Remote'', ''value'': ''remote''}'
+      - Full-Time
+      - Part-Time
+      - Remote
       required: true
     - id: 13
       name: desired_salary
@@ -148,9 +147,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''Mandarin''}'
+      - English
+      - Spanish
+      - Mandarin
       required: true
     - id: 20
       name: available_holiday
@@ -158,9 +157,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
       required: true
     - id: 21
       name: expected_salary
@@ -182,9 +181,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
-      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: true
     - id: 24
       name: job_type_status
@@ -192,9 +191,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Open'', ''value'': ''open''}'
-      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''closed''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''in-progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: true
     - id: 25
       name: assigned_tool

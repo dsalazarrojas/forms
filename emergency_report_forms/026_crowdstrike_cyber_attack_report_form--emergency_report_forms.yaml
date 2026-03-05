@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''Impact-1'', ''label'': ''Low''}'
-      - '{''id'': ''Impact-2'', ''label'': ''Medium''}'
-      - '{''id'': ''Impact-3'', ''label'': ''High''}'
-      - '{''id'': ''Impact-4'', ''label'': ''Critical''}'
+      - Low
+      - Medium
+      - High
+      - Critical
       required: false
     - id: 5
       name: response
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Resolution-1'', ''label'': ''None''}'
-      - '{''id'': ''Resolution-2'', ''label'': ''In Progress''}'
-      - '{''id'': ''Resolution-3'', ''label'': ''Completed''}'
-      - '{''id'': ''Resolution-4'', ''label'': ''Unknown''}'
+      - None
+      - In Progress
+      - Completed
+      - Unknown
       required: false
     - id: 7
       name: notes
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''Country-1'', ''label'': ''US''}'
-      - '{''id'': ''Country-2'', ''label'': ''Other''}'
+      - US
+      - Other
       required: false
     - id: 11
       name: attacker_location
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Location-1'', ''label'': ''US''}'
-      - '{''id'': ''Location-2'', ''label'': ''Other''}'
+      - US
+      - Other
       required: false
     - id: 12
       name: attacker_os
@@ -98,10 +98,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Os-1'', ''label'': ''Windows''}'
-      - '{''id'': ''Os-2'', ''label'': ''Mac''}'
-      - '{''id'': ''Os-3'', ''label'': ''Linux''}'
-      - '{''id'': ''Os-4'', ''label'': ''Unknown''}'
+      - Windows
+      - Mac
+      - Linux
+      - Unknown
       required: false
     - id: 13
       name: attacker_browser
@@ -109,10 +109,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Browser-1'', ''label'': ''IE''}'
-      - '{''id'': ''Browser-2'', ''label'': ''Chrome''}'
-      - '{''id'': ''Browser-3'', ''label'': ''Firefox''}'
-      - '{''id'': ''Browser-4'', ''label'': ''Other''}'
+      - IE
+      - Chrome
+      - Firefox
+      - Other
       required: false
     - id: 14
       name: ip_address

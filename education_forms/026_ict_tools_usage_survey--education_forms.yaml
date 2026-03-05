@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Never''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Often''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
       required: false
     - id: 4
       name: tool_importance
@@ -71,11 +71,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chat''}'
-      - '{''id'': 2, ''label'': ''google''}'
-      - '{''id'': 3, ''label'': ''microsoft''}'
-      - '{''id'': 4, ''label'': ''other''}'
-      - '{''id'': 5, ''label'': ''default''}'
+      - chat
+      - google
+      - microsoft
+      - other
+      - default
       required: false
     - id: 10
       name: form_footer

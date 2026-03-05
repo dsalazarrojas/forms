@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: academic_year
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 7
       name: graduation_month
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Partially''}'
+      - 'True'
+      - 'False'
+      - Partially
       required: false
     - id: 9
       name: college_type
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
-      - '{''label'': ''Community College''}'
+      - Private
+      - Public
+      - Community College
       required: false
     - id: 10
       name: graduation_date
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Graduated''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Not Applying''}'
+      - Graduated
+      - In Progress
+      - Not Applying
       required: false
     - id: 13
       name: graduation_year_start
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bachelor''}'
-      - '{''label'': ''Master''}'
-      - '{''label'': ''Doctorate''}'
+      - Bachelor
+      - Master
+      - Doctorate
       required: false
     - id: 16
       name: academic_program_year
@@ -134,10 +134,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       required: false
     - id: 17
       name: college_search_location
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''On-campus''}'
-      - '{''label'': ''Off-campus''}'
+      - On-campus
+      - Off-campus
       required: false
     - id: 18
       name: search_location_other

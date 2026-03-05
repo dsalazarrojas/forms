@@ -5,179 +5,88 @@ inputSchema:
     pages:
     - id: 1
       name: form_1
-      label: delivery_request
+      label: Request for delivery coordination
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: form_2
-      label: customer_name
+      label: Customer name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: form_3
-      label: store_name
+      label: Store name
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: form_4
-      label: contact_number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: form_5
-      label: store_phone
+      label: Contact person
       hint: null
       type: text
       options: []
       required: true
-    - id: 6
-      name: form_6
-      label: delivery_date
+    - id: 5
+      name: form_5
+      label: Delivery date
       hint: null
       type: date
       options: []
       required: true
-    - id: 7
-      name: form_7
-      label: delivery_time
+    - id: 6
+      name: form_6
+      label: Delivery time
       hint: null
       type: time
       options: []
       required: true
-    - id: 8
-      name: form_8
-      label: delivery_details
+    - id: 7
+      name: form_7
+      label: Store location
       hint: null
       type: text
       options: []
+      required: true
+    - id: 8
+      name: form_8
+      label: Delivery status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
       required: true
     - id: 9
       name: form_9
-      label: order_number
+      label: Store status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Active
+      - Inactive
       required: true
     - id: 10
       name: form_10
-      label: store_notes
+      label: Form 10
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: form_11
-      label: customer_notes
+      label: Contact information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
       name: form_12
-      label: delivery_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 13
-      name: form_13
-      label: store_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 14
-      name: form_14
-      label: contact_person
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: form_15
-      label: contact_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 16
-      name: form_16
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: form_17
-      label: contact_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: store_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: delivery_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: store_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: store_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_23
-      label: note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: delivery_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: store_notes
+      label: Contact notes
       hint: null
       type: text
       options: []

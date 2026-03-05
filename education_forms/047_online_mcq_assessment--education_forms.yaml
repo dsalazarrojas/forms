@@ -4,199 +4,136 @@ inputSchema:
     title: Online MCQ Assessment
     pages:
     - id: 1
-      name: question_1_label
-      label: What is your name
+      name: question_1
+      label: What is your age?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - a. 18-24
+      - b. 25-34
+      - c. 35-44
+      - d. 45-54
       required: false
     - id: 2
-      name: question_2_label
-      label: What is your age
+      name: question_2
+      label: What is your educational background?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - a. High school
+      - b. Bachelor's degree
+      - c. Master's degree
+      - d. Doctoral degree
       required: false
     - id: 3
-      name: question_3_label
-      label: What is your email
+      name: question_3
+      label: How would you rate your computer skills?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - a. Beginner
+      - b. Intermediate
+      - c. Advanced
       required: false
     - id: 4
-      name: question_4_label
-      label: What is your phone number
+      name: question_4
+      label: What is your primary language spoken at home?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - a. English
+      - b. Other (please specify)
       required: false
     - id: 5
-      name: question_5_label
-      label: What is your date of birth
-      hint: 'null'
-      type: date
+      name: question_5
+      label: How many hours do you spend online daily?
+      hint: null
+      type: number
       options: []
       required: false
     - id: 6
-      name: question_6_label
-      label: What is your time of birth
-      hint: 'null'
-      type: time
-      options: []
+      name: question_6
+      label: What is your preferred time of day for online activities?
+      hint: null
+      type: select_one
+      options:
+      - a. Morning
+      - b. Afternoon
+      - c. Evening
+      - d. Anytime
       required: false
     - id: 7
-      name: question_7_label
-      label: What is your note
-      hint: 'null'
-      type: note
-      options: []
+      name: question_7
+      label: Do you agree or disagree with the following statement?
+      hint: null
+      type: select_one
+      options:
+      - a. Yes
+      - b. No
       required: false
     - id: 8
-      name: question_8_label
-      label: What is your select one
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: true
-    - id: 9
-      name: question_9_label
-      label: What is your select multiple
+      name: question_8
+      label: What is your preferred mode of communication for online interactions?
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - a. Email
+      - b. Phone call
+      - c. Video call
+      - d. Social media
+      required: false
+    - id: 9
+      name: question_9
+      label: How would you rate your experience with online learning platforms?
+      hint: null
+      type: select_one
+      options:
+      - a. Very good
+      - b. Good
+      - c. Average
+      - d. Poor
       required: false
     - id: 10
-      name: question_10_label
-      label: What is your multiple date
+      name: question_10
+      label: What is your level of satisfaction with the current online learning platform?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - a. Very satisfied
+      - b. Satisfied
+      - c. Neutral
+      - d. Dissatisfied
       required: false
     - id: 11
-      name: question_11_label
-      label: What is your multiple time
+      name: question_11
+      label: How often do you use online resources for learning?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - a. Frequently
+      - b. Occasionally
+      - c. Rarely
+      - d. Never
       required: false
     - id: 12
-      name: question_12_label
-      label: What is your multiple date
+      name: question_12
+      label: How would you rate your ability to find relevant online content?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - a. Very good
+      - b. Good
+      - c. Average
+      - d. Poor
       required: false
     - id: 13
-      name: question_13_label
-      label: What is your multiple select one
+      name: question_13
+      label: What is your preferred device for online activities?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: question_14_label
-      label: What is your multiple select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: question_15_label
-      label: What is your multiple select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: question_16_label
-      label: What is your select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: question_17_label
-      label: What is your date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: question_18_label
-      label: What is your time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: question_19_label
-      label: What is your date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: question_20_label
-      label: What is your time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: question_21_label
-      label: What is your select one
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 22
-      name: question_22_label
-      label: What is your select one
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      required: false
-    - id: 23
-      name: question_23_label
-      label: What is your select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: question_24_label
-      label: What is your select multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: question_25_label
-      label: What is your time
-      hint: null
-      type: time
-      options: []
+      - a. Laptop
+      - b. Smartphone
+      - c. Tablet
+      - d. Other (please specify)
       required: false

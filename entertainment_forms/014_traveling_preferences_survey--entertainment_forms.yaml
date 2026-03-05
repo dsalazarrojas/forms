@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Europe''}'
-      - '{''id'': 2, ''label'': ''Asia''}'
-      - '{''id'': 3, ''label'': ''Africa''}'
-      - '{''id'': 4, ''label'': ''Americas''}'
+      - Europe
+      - Asia
+      - Africa
+      - Americas
       required: false
     - id: 3
       name: travel_length
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: false
     - id: 8
       name: mode_of_transportation
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Plane''}'
-      - '{''id'': 2, ''label'': ''Train''}'
-      - '{''id'': 3, ''label'': ''Bus''}'
+      - Plane
+      - Train
+      - Bus
       required: false
     - id: 9
       name: email

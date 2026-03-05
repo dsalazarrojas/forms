@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Department A'', ''value'': ''Department A''}'
-      - '{''id'': 2, ''name'': ''Department B'', ''value'': ''Department B''}'
-      - '{''id'': 3, ''name'': ''Department C'', ''value'': ''Department C''}'
+      - Department A
+      - Department B
+      - Department C
       required: false
     - id: 4
       name: job_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Full-time'', ''value'': ''Full-time''}'
-      - '{''id'': 2, ''name'': ''Part-time'', ''value'': ''Part-time''}'
-      - '{''id'': 3, ''name'': ''Contract'', ''value'': ''Contract''}'
+      - Full-time
+      - Part-time
+      - Contract
       required: false
     - id: 5
       name: job_description
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Open'', ''value'': ''Open''}'
-      - '{''id'': 2, ''name'': ''Closed'', ''value'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 12
       name: job_level
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Entry Level'', ''value'': ''Entry Level''}'
-      - '{''id'': 2, ''name'': ''Mid Level'', ''value'': ''Mid Level''}'
-      - '{''id'': 3, ''name'': ''Senior'', ''value'': ''Senior''}'
+      - Entry Level
+      - Mid Level
+      - Senior
       required: false
     - id: 13
       name: job_type_details
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: approval_status

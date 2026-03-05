@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Offline''}'
-      - '{''id'': 3, ''label'': ''Retired''}'
-      - '{''id'': 4, ''label'': ''Lost''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Active
+      - Offline
+      - Retired
+      - Lost
+      - Other
       required: false
     - id: 4
       name: tool_id
@@ -84,11 +84,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Done''}'
-      - '{''id'': 3, ''label'': ''Not Started''}'
-      - '{''id'': 4, ''label'': ''On Hold''}'
-      - '{''id'': 5, ''label'': ''Cancelled''}'
+      - In Progress
+      - Done
+      - Not Started
+      - On Hold
+      - Cancelled
       required: false
     - id: 12
       name: submitted_by

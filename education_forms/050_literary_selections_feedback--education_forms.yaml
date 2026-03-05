@@ -5,51 +5,51 @@ inputSchema:
     pages:
     - id: 1
       name: ratings
-      label: ratings
+      label: What is your rating for this literary selection?
       hint: null
       type: select_multiple
       options:
       - Good
       - Fair
-      required: false
+      required: true
     - id: 2
       name: comments
-      label: comments
+      label: Do you have any comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: file_uploads
-      label: file-uploads
+      name: file_uploader
+      label: Can you upload any relevant files?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: ratings
-      label: rating
+      name: time_spent
+      label: How many hours do you estimate you spent reading this literary selection?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: comments
-      label: comments
+      name: publication_date
+      label: What is the publication date of this literary selection?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: file_uploads
-      label: file-uploads
+      name: time_of_day
+      label: What time of day did you read this literary selection?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 7
-      name: ratings
-      label: ratings
+      name: other_ratings
+      label: Which other literary selections have you read recently?
       hint: null
       type: select_multiple
       options:
@@ -57,135 +57,52 @@ inputSchema:
       - Fair
       required: false
     - id: 8
-      name: rating
-      label: rating
+      name: overall_experience
+      label: How would you rate your overall experience with this literary selection?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
     - id: 9
-      name: file_uploads
-      label: file-uploads
+      name: other_feedback
+      label: Do you have any other comments or feedback?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: file_uploads
-      label: file-uploads
+      name: time_spent_2
+      label: Time Spent 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: additional_files
+      label: Can you upload any additional relevant files?
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: ratings
-      label: ratings
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
     - id: 12
-      name: rating
-      label: rating
+      name: publication_date_2
+      label: Publication Date 2
       hint: null
-      type: number
+      type: date
       options: []
       required: false
     - id: 13
-      name: comments
-      label: comments
+      name: time_of_day_2
+      label: Time Of Day 2
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 14
-      name: file_uploads
-      label: file-uploads
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: ratings
-      label: ratings
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 16
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: file_uploads
-      label: file-uploads
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: file_uploads
-      label: file-uploads
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: ratings
-      label: ratings
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: file_uploads
-      label: file-uploads
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: ratings
-      label: ratings
-      hint: null
-      type: select_multiple
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 24
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: file_uploads
-      label: file-uploads
+      name: more_feedback
+      label: Do you have any other feedback or comments?
       hint: null
       type: text
       options: []

@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Electronics Course Registration
     pages:
     - id: 1
       name: student_details
@@ -18,36 +18,99 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: student_phone
-      label: Student Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: course_choice
       label: Course Choice
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
+      - Programming
+      - Web Development
+      - Data Science
+      required: true
+    - id: 4
       name: date_of_birth
       label: Date of Birth
       hint: null
       type: date
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: student_email
-      label: Student Email
+      name: student_name_confirmation
+      label: Student Name Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_email_confirmation
+      label: Student Email Confirmation
       hint: null
       type: email
       options: []
+      required: true
+    - id: 8
+      name: student_phone_confirmation
+      label: Student Phone Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_selection_confirmation
+      label: Course Selection Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Web Development
+      - Data Science
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method_confirmation
+      label: Payment Method Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 12
+      name: student_email_2
+      label: Student Email 2
+      hint: null
+      type: text
+      options: []
       required: false
-    - id: 7
+    - id: 13
+      name: student_name_2
+      label: Student Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_phone_2
+      label: Student Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
       name: payment_status
       label: Payment Status
       hint: null
@@ -56,143 +119,13 @@ inputSchema:
       - Active
       - Inactive
       required: false
-    - id: 8
-      name: student_name
-      label: Student Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: payment_status_2
-      label: Payment Status 2
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 10
-      name: student_phone_2
-      label: Student Phone 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: payment_amount_2
-      label: Payment Amount 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: course_choice_2
-      label: Course Choice 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: date_of_birth_2
-      label: Date of Birth 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: student_email_2
-      label: Student Email 2
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
+    - id: 16
       name: payment_method_2
       label: Payment Method 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: payment_amount_2
-      label: Payment Amount 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: payment_status_2
-      label: Payment Status 2
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 18
-      name: student_name_2
-      label: Student Name 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: payment_status_3
-      label: Payment Status 3
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 20
-      name: student_phone_3
-      label: Student Phone 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: course_choice_2
-      label: Course Choice 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: date_of_birth_3
-      label: Date of Birth 3
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: student_email_3
-      label: Student Email 3
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: payment_method_3
-      label: Payment Method 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: payment_amount_3
-      label: Payment Amount 3
-      hint: null
-      type: number
-      options: []
+      - Bank Transfer
+      - Credit Card
+      - PayPal
       required: false

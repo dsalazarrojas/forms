@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''Manager''}'
-      - '{''id'': 1, ''name'': ''Supervisor''}'
-      - '{''id'': 2, ''name'': ''Colleague''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Manager
+      - Supervisor
+      - Colleague
+      - Other
       required: true
     - id: 7
       name: employee_referee_since
@@ -78,6 +78,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''I agree''}'
-      - '{''id'': 1, ''name'': ''I do not agree''}'
+      - I agree
+      - I do not agree
       required: true

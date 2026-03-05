@@ -180,8 +180,8 @@ inputSchema:
       hint: Any DUI in past 10 years
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: license_suspension
@@ -189,8 +189,8 @@ inputSchema:
       hint: Any suspensions or revocations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: section_header_availability
@@ -244,7 +244,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Current
-      - false
+      - 'False'
       - Willing to Obtain
       required: false
     - id: 29
@@ -254,7 +254,7 @@ inputSchema:
       type: select_one
       options:
       - Yes Current
-      - false
+      - 'False'
       - Not Required
       required: false
     - id: 30

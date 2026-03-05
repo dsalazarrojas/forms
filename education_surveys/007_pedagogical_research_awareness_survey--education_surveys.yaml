@@ -5,209 +5,142 @@ inputSchema:
     pages:
     - id: 1
       name: first_page
-      label: welcome
-      hint: null
+      label: Welcome
+      hint: This survey aims to understand your level of awareness about pedagogical
+        research.
       type: text
       options: []
       required: false
     - id: 2
       name: page_2
-      label: research_interest
-      hint: null
+      label: Awareness Level
+      hint: What is your current level of awareness about pedagogical research?
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 3
       name: page_3
-      label: teaching_initiatives
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 4
-      name: first_page_note
-      label: first_page_note
-      hint: null
+      label: Research Project
+      hint: Please provide a brief description of a recent pedagogical research project
+        you've participated in.
       type: note
       options: []
       required: false
-    - id: 5
-      name: page_5
-      label: teaching_principles
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: page_6
-      label: page_6
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: page_7
-      label: page_7
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: page_8
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: first_page_date
-      label: first_page_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: first_page_time
-      label: first_page_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: first_page_email
-      label: first_page_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: first_page_phone
-      label: first_page_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: page_13
-      hint: null
+    - id: 4
+      name: page_4
+      label: Theories Understanding
+      hint: What is your current level of understanding of pedagogical theories?
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 5
+      name: page_5
+      label: Collaboration Level
+      hint: What is your level of collaboration with other researchers in pedagogical
+        research?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: page_6
+      label: Resource Access
+      hint: How do you usually access pedagogical research resources?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
+      name: page_7
+      label: Favorite Resource
+      hint: What is your favorite pedagogical research resource?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 8
+      name: page_8
+      label: Resource Evaluation
+      hint: How do you usually evaluate the quality of pedagogical research?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 9
+      name: page_9
+      label: Teaching Practice
+      hint: Can you provide an example of how you've applied pedagogical research
+        in your teaching practice?
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: page_10
+      label: Support Level
+      hint: What is your current level of support from your institution for pedagogical
+        research?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 11
+      name: page_11
+      label: Challenges
+      hint: What do you think are the main challenges in pedagogical research?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 12
+      name: page_12
+      label: Outcome
+      hint: What is the expected outcome of this survey?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 13
+      name: page_13
+      label: Teaching Initiative
+      hint: Can you provide a brief description of a pedagogical research initiative
+        you'd like to propose or support?
+      type: note
+      options: []
       required: false
     - id: 14
       name: page_14
-      label: page_14
-      hint: null
-      type: select_multiple
+      label: Research Frequency
+      hint: How frequently do you conduct pedagogical research?
+      type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 15
       name: page_15
-      label: page_15
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 16
-      name: first_page_note
-      label: first_page_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: page_17
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 18
-      name: page_18
-      label: page_18
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 19
-      name: first_page_date
-      label: first_page_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: page_20
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 21
-      name: page_21
-      label: page_21
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 22
-      name: page_22
-      label: page_22
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 23
-      name: first_page_time
-      label: first_page_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: page_24
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 25
-      name: first_page_phone
-      label: first_page_phone
-      hint: null
+      label: Conclusion
+      hint: Thank you for participating in this survey!
       type: text
       options: []
       required: false

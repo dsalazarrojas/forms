@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Prefer not to say''}'
+      - 'True'
+      - 'False'
+      - Prefer not to say
       required: false
     - id: 3
       name: progress_tracking
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Communication barriers''}'
-      - '{''id'': 2, ''label'': ''Lack of training''}'
-      - '{''id'': 3, ''label'': ''Fear of saying the wrong thing''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Communication barriers
+      - Lack of training
+      - Fear of saying the wrong thing
+      - Other
       required: false
     - id: 5
       name: training_necessary
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Communication skills''}'
-      - '{''id'': 2, ''label'': ''Understanding the LGBTQ+ community''}'
-      - '{''id'': 3, ''label'': ''Leadership and management''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Communication skills
+      - Understanding the LGBTQ+ community
+      - Leadership and management
+      - Other
       required: false
     - id: 6
       name: lgbtq_awareness

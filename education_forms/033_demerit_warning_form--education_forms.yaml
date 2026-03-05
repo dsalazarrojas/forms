@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Misconduct''}'
-      - '{''id'': 2, ''name'': ''Rule Violation''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Misconduct
+      - Rule Violation
+      - Other
       required: false
     - id: 5
       name: description
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Open''}'
-      - '{''id'': 2, ''name'': ''Closed''}'
-      - '{''id'': 3, ''name'': ''Resolved''}'
+      - Open
+      - Closed
+      - Resolved
       required: false
     - id: 12
       name: reason_for_resolution

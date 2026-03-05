@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I accept''}'
-      - '{''id'': 2, ''label'': ''I decline''}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - I accept
+      - I decline
+      - Maybe
       required: true
     - id: 7
       name: confirm_terms
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Accepted''}'
-      - '{''id'': 2, ''label'': ''Not Accepted''}'
-      - '{''id'': 3, ''label'': ''Not Provided''}'
+      - Accepted
+      - Not Accepted
+      - Not Provided
       required: true
     - id: 8
       name: participant_notes

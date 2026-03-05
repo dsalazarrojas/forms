@@ -4,216 +4,99 @@ inputSchema:
     title: Fashion Brand Customer Information Form
     pages:
     - id: 1
-      name: first_name
-      label: First Name
+      name: customer_name
+      label: Customer Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: email
-      label: Email
+      label: Email Address
       hint: null
       type: email
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: phone_number
       label: Phone Number
       hint: Enter a 10-digit phone number
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: style_preferences
       label: Style Preferences
-      hint: null
+      hint: Select from below options
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 6
+      - Casual
+      - Formal
+      - Active
+      - Sporty
+      required: true
+    - id: 5
       name: date_of_birth
       label: Date of Birth
-      hint: null
+      hint: YYYY/MM/DD
       type: date
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: style_preferred_color
       label: Style Preferred Color
-      hint: null
+      hint: Select from below options
       type: select_multiple
       options:
       - Red
       - Blue
       - Green
       - Yellow
-      required: false
+      required: true
+    - id: 7
+      name: style_preferred_size
+      label: Style Preferred Size
+      hint: Select from below options
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: true
     - id: 8
-      name: style_preferred_size
-      label: Style Preferred Size
-      hint: null
+      name: style_preferred_fit
+      label: Style Preferred Fit
+      hint: Select from below options
       type: select_one
       options:
-      - Small
-      - Medium
-      - Large
-      required: false
+      - Loose
+      - Comfortable
+      - Fitted
+      required: true
     - id: 9
-      name: style_preferred_fit
-      label: Style Preferred Fit
-      hint: null
-      type: select_one
+      name: marketing_opt_in
+      label: Marketing Opt-in
+      hint: Select from below options
+      type: select_multiple
       options:
-      - Loose
-      - Comfortable
-      - Fitted
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: marketing_opt_in
-      label: Marketing Opt-in
-      hint: null
-      type: select_multiple
+      name: style_preferred_brand
+      label: Style Preferred Brand
+      hint: Select from below options
+      type: select_one
       options:
-      - 'True'
-      - 'False'
-      required: false
+      - Brand 1
+      - Brand 2
+      - Brand 3
+      required: true
     - id: 11
-      name: marketing_opt_out
-      label: Opt-out from Marketing
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 12
-      name: style_preferred_brand
-      label: Style Preferred Brand
-      hint: null
-      type: select_one
-      options:
-      - Brand 1
-      - Brand 2
-      - Brand 3
-      required: false
-    - id: 13
-      name: note
+      name: additional_comments
       label: Additional Comments
-      hint: null
+      hint: Enter any additional comments
       type: note
       options: []
-      required: false
-    - id: 14
-      name: note
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: style_preferences
-      label: Style Preferences
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: phone_number
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: date_of_birth
-      label: Date of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: style_preferred_size
-      label: Style Preferred Size
-      hint: null
-      type: select_one
-      options:
-      - Small
-      - Medium
-      - Large
-      required: false
-    - id: 21
-      name: style_preferred_fit
-      label: Style Preferred Fit
-      hint: null
-      type: select_one
-      options:
-      - Loose
-      - Comfortable
-      - Fitted
-      required: false
-    - id: 22
-      name: style_preferred_color
-      label: Style Preferred Color
-      hint: null
-      type: select_multiple
-      options:
-      - Red
-      - Blue
-      - Green
-      required: false
-    - id: 23
-      name: marketing_opt_in
-      label: Marketing Opt-in
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 24
-      name: marketing_opt_out
-      label: Opt-out from Marketing
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 25
-      name: style_preferred_brand
-      label: Style Preferred Brand
-      hint: null
-      type: select_one
-      options:
-      - Brand 1
-      - Brand 2
-      - Brand 3
       required: false

@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''PayPal''}'
+      - Credit Card
+      - PayPal
       required: true
     - id: 6
       name: credit_card_details
@@ -46,10 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Card Type'', ''options'': [{''label'': ''Visa''}, {''label'':
-        ''Mastercard''}, {''label'': ''Amex''}]}'
-      - '{''label'': ''Card Number'', ''options'': [{''label'': ''Card Number''}]}'
-      - '{''label'': ''Security Code'', ''options'': [{''label'': ''Security Code''}]}'
+      - Card Type
+      - Card Number
+      - Security Code
       required: true
     - id: 7
       name: expiration_date

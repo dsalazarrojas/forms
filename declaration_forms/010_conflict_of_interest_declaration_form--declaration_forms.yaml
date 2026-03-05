@@ -1,257 +1,246 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Conflict Of Interest Declaration Form
     pages:
-      - id: 1
-        name: declaration_date
-        label: Declaration Date
-        hint: Date of this disclosure
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: employee_name
-        label: Employee Name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee ID
-        hint: Employee identification number
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: position_title
-        label: Position Title
-        hint: Your current job title
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: department
-        label: Department
-        hint: Your department or division
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: manager_name
-        label: Manager Name
-        hint: Name of your direct supervisor
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: declaration_type
-        label: Type of Declaration
-        hint: Is this an annual or new disclosure
-        type: select_one
-        options:
-          - Annual Declaration
-          - New Employment Declaration
-          - Change in Circumstances
-          - Ad Hoc Disclosure
-        required: true
-      - id: 8
-        name: outside_business_interests
-        label: Do You Have Outside Business Interests
-        hint: Any business ownership or partnership
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: outside_business_details
-        label: Outside Business Details
-        hint: Describe the nature of your business interest
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: outside_employment
-        label: Do You Have Outside Employment
-        hint: Any secondary employment or consulting
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: outside_employment_details
-        label: Outside Employment Details
-        hint: Employer name and nature of work
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: competitor_relationship
-        label: Do You Have Relationship with Competitors
-        hint: Any connection to competing organizations
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: competitor_details
-        label: Competitor Relationship Details
-        hint: Describe the nature of the relationship
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: supplier_customer_interest
-        label: Do You Have Interest in Suppliers or Customers
-        hint: Financial interest in business partners
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: supplier_customer_details
-        label: Supplier or Customer Interest Details
-        hint: Describe the nature and extent
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: board_positions
-        label: Do You Hold Board Positions
-        hint: Any board of directors memberships
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 17
-        name: board_details
-        label: Board Position Details
-        hint: List organizations and your role
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: family_conflicts
-        label: Do Family Members Have Potential Conflicts
-        hint: Immediate family in competing organizations
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Prefer Not to Disclose
-        required: true
-      - id: 19
-        name: family_conflict_details
-        label: Family Conflict Details
-        hint: Describe if applicable
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: gifts_received
-        label: Have You Received Significant Gifts
-        hint: Gifts from vendors clients or partners over $100
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 21
-        name: gifts_details
-        label: Gifts Received Details
-        hint: Describe gifts and source
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: confidential_information
-        label: Have You Shared Confidential Information
-        hint: Any disclosure of company confidential data
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 23
-        name: confidential_info_details
-        label: Confidential Information Details
-        hint: Explain circumstances if applicable
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: company_resources_personal_use
-        label: Have You Used Company Resources for Personal Gain
-        hint: Use of company assets for personal benefit
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 25
-        name: resources_details
-        label: Company Resources Use Details
-        hint: Describe if applicable
-        type: text
-        options: []
-        required: false
-      - id: 26
-        name: other_conflicts
-        label: Any Other Potential Conflicts
-        hint: Disclose any other situations not covered
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: understanding_policy
-        label: I Understand the Conflict of Interest Policy
-        hint: Confirmation of policy understanding
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 28
-        name: information_accuracy
-        label: I Declare This Information is True and Complete
-        hint: Confirmation of accuracy
-        type: select_one
-        options:
-          - Yes - I Confirm
-          - No
-        required: true
-      - id: 29
-        name: employee_signature
-        label: Employee Signature
-        hint: Type your full name as signature
-        type: text
-        options: []
-        required: true
-      - id: 30
-        name: manager_review
-        label: Manager Review Status
-        hint: For manager use
-        type: select_one
-        options:
-          - Pending Review
-          - Reviewed - No Conflict
-          - Reviewed - Potential Conflict Identified
-          - Requires Further Investigation
-        required: false
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of this disclosure
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: declaration_type
+      label: Type of Declaration
+      hint: Is this an annual or new disclosure
+      type: select_one
+      options:
+      - Annual Declaration
+      - New Employment Declaration
+      - Change in Circumstances
+      - Ad Hoc Disclosure
+      required: true
+    - id: 8
+      name: outside_business_interests
+      label: Do You Have Outside Business Interests
+      hint: Any business ownership or partnership
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: outside_business_details
+      label: Outside Business Details
+      hint: Describe the nature of your business interest
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: outside_employment
+      label: Do You Have Outside Employment
+      hint: Any secondary employment or consulting
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: outside_employment_details
+      label: Outside Employment Details
+      hint: Employer name and nature of work
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: competitor_relationship
+      label: Do You Have Relationship with Competitors
+      hint: Any connection to competing organizations
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: competitor_details
+      label: Competitor Relationship Details
+      hint: Describe the nature of the relationship
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supplier_customer_interest
+      label: Do You Have Interest in Suppliers or Customers
+      hint: Financial interest in business partners
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: supplier_customer_details
+      label: Supplier or Customer Interest Details
+      hint: Describe the nature and extent
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: board_positions
+      label: Do You Hold Board Positions
+      hint: Any board of directors memberships
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: board_details
+      label: Board Position Details
+      hint: List organizations and your role
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: family_conflicts
+      label: Do Family Members Have Potential Conflicts
+      hint: Immediate family in competing organizations
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Prefer Not to Disclose
+      required: true
+    - id: 19
+      name: family_conflict_details
+      label: Family Conflict Details
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: gifts_received
+      label: Have You Received Significant Gifts
+      hint: Gifts from vendors clients or partners over $100
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: gifts_details
+      label: Gifts Received Details
+      hint: Describe gifts and source
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confidential_information
+      label: Have You Shared Confidential Information
+      hint: Any disclosure of company confidential data
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: confidential_info_details
+      label: Confidential Information Details
+      hint: Explain circumstances if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: company_resources_personal_use
+      label: Have You Used Company Resources for Personal Gain
+      hint: Use of company assets for personal benefit
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: resources_details
+      label: Company Resources Use Details
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_conflicts
+      label: Any Other Potential Conflicts
+      hint: Disclose any other situations not covered
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: understanding_policy
+      label: I Understand the Conflict of Interest Policy
+      hint: Confirmation of policy understanding
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 28
+      name: information_accuracy
+      label: I Declare This Information is True and Complete
+      hint: Confirmation of accuracy
+      type: select_one
+      options:
+      - Yes - I Confirm
+      - 'False'
+      required: true
+    - id: 29
+      name: employee_signature
+      label: Employee Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: manager_review
+      label: Manager Review Status
+      hint: For manager use
+      type: select_one
+      options:
+      - Pending Review
+      - Reviewed - No Conflict
+      - Reviewed - Potential Conflict Identified
+      - Requires Further Investigation
+      required: false

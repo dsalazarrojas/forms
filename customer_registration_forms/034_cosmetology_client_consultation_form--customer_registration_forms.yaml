@@ -6,189 +6,85 @@ inputSchema:
     - id: 1
       name: service_needed
       label: What type of service needed
-      hint: null
-      type: text
-      options: []
-      required: false
+      hint: Please describe the service you are seeking
+      type: select_one
+      options:
+      - Haircut
+      - Haircolor
+      - Hair styling
+      - Makeup
+      required: true
     - id: 2
       name: contact_method
       label: Contact Method
-      hint: null
+      hint: How would you like to be contacted?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Email
+      - Phone
+      - In person
+      required: true
     - id: 3
-      name: contact_method
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: email
+      name: client_email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 5
-      name: phone
+      required: true
+    - id: 4
+      name: client_phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
-      name: service_needed
-      label: Service Needed
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: service_type
-      label: Service Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: service_type
+      required: true
+    - id: 5
+      name: service_details
       label: Service Details
-      hint: null
+      hint: Describe your service details
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Which tool do you want assigned?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: client_name
-      label: Client Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: client_email
-      label: Client Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: client_phone
-      label: Client Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: service_description
-      label: Service Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: service_price
-      label: Service Price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
+      - Scissors
+      - Hair dryer
+      - Makeup brush
+      required: true
+    - id: 7
+      name: tool_assigned
+      label: Tool Assigned
+      hint: Is the tool assigned?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
       name: notes
       label: Notes
-      hint: null
+      hint: Any additional notes
       type: note
       options: []
       required: false
-    - id: 17
+    - id: 9
       name: service_address
       label: Service Address
-      hint: null
+      hint: Please provide your service address
       type: text
       options: []
-      required: false
-    - id: 18
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
+      required: true
+    - id: 10
       name: submitted_by
       label: Submitted By
-      hint: null
+      hint: Who submitted this form?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Self
+      - Staff
+      - Manager
+      required: true

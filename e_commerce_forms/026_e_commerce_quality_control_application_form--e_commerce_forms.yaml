@@ -6,175 +6,104 @@ inputSchema:
     - id: 1
       name: product_id
       label: Product ID
-      hint: null
+      hint: Please enter the product ID.
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: customer_info
-      label: Customer Info
-      hint: null
+      label: Customer Information
+      hint: Please enter customer's name and contact information.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: inspection_info
-      label: Inspection Info
-      hint: null
-      type: text
-      options: []
+      name: inspection_result
+      label: Inspection Result
+      hint: Please mark the inspection result (e.g., passed or failed).
+      type: select_one
+      options:
+      - Passed
+      - Failed
       required: false
     - id: 4
-      name: compliance_info
-      label: Compliance Info
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: compliance_status
+      label: Compliance Status
+      hint: Is the product compliant with quality standards?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 5
       name: product_info
-      label: Product Info
-      hint: null
+      label: Product Information
+      hint: Please enter product's description, weight, and dimensions.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: shipping_info
-      label: Shipping Info
-      hint: null
-      type: text
-      options: []
+      name: shipping_method
+      label: Shipping Method
+      hint: Please select shipping method (e.g., ground, air, express).
+      type: select_multiple
+      options:
+      - Ground
+      - Air
+      - Express
       required: false
     - id: 7
-      name: payment_info
-      label: Payment Info
-      hint: null
-      type: text
-      options: []
+      name: payment_method
+      label: Payment Method
+      hint: Please select payment method (e.g., credit card, bank transfer).
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 8
-      name: review_info
-      label: Review Info
-      hint: null
-      type: text
-      options: []
+      name: review_status
+      label: Review Status
+      hint: Was the review of the product satisfactory or not?
+      type: radio
+      options:
+      - Satisfactory
+      - Unsatisfactory
       required: false
     - id: 9
-      name: certification_info
-      label: Certification Info
-      hint: null
-      type: text
-      options: []
+      name: certification_status
+      label: Certification Status
+      hint: Is the product certified or not?
+      type: radio
+      options:
+      - Certified
+      - Not Certified
       required: false
     - id: 10
-      name: certification_status
-      label: Status
-      hint: null
-      type: text
-      options: []
+      name: product_status
+      label: Product Status
+      hint: Please select the product's current status (e.g., ready for shipment,
+        in production).
+      type: select_multiple
+      options:
+      - Ready for Shipment
+      - In Production
       required: false
     - id: 11
-      name: review_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: compliance_status_2
+      label: Compliance Status 2
+      hint: Is the product compliant or not?
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 12
-      name: product_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: compliance_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
       name: payment_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: shipping_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: certification_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: review_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: product_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: shipping_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: payment_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: certification_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: review_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: product_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: shipping_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: payment_status
-      label: Status
-      hint: null
-      type: text
-      options: []
+      label: Payment Status
+      hint: Please select the payment status (e.g., paid, pending).
+      type: select_one
+      options:
+      - Paid
+      - Pending
       required: false

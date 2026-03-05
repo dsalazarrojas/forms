@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Monetary''}'
-      - '{''id'': 2, ''name'': ''In-Kind''}'
-      - '{''id'': 3, ''name'': ''Goods''}'
+      - Monetary
+      - In-Kind
+      - Goods
       required: false
     - id: 5
       name: distribution_status
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Shipped''}'
-      - '{''id'': 2, ''name'': ''In Transit''}'
-      - '{''id'': 3, ''name'': ''Not Yet Shipped''}'
-      - '{''id'': 4, ''name'': ''Cancelled''}'
+      - Shipped
+      - In Transit
+      - Not Yet Shipped
+      - Cancelled
       required: false
     - id: 6
       name: notes

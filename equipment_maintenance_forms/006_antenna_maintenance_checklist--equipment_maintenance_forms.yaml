@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,12 +37,12 @@ inputSchema:
       hint: Type of antenna being serviced
       type: select_one
       options:
-        - Dipole
-        - Yagi
-        - Parabolic dish
-        - Panel antenna
-        - Omnidirectional
-        - Other
+      - Dipole
+      - Yagi
+      - Parabolic dish
+      - Panel antenna
+      - Omnidirectional
+      - Other
       required: true
     - id: 6
       name: maintenance_date
@@ -68,11 +57,11 @@ inputSchema:
       hint: Type of maintenance being performed
       type: select_one
       options:
-        - Routine inspection
-        - Preventive maintenance
-        - Corrective maintenance
-        - Emergency repair
-        - Annual certification
+      - Routine inspection
+      - Preventive maintenance
+      - Corrective maintenance
+      - Emergency repair
+      - Annual certification
       required: true
     - id: 8
       name: weather_conditions
@@ -80,12 +69,12 @@ inputSchema:
       hint: Current weather during maintenance
       type: select_one
       options:
-        - Clear and sunny
-        - Cloudy
-        - Light rain
-        - Heavy rain
-        - Windy
-        - Stormy
+      - Clear and sunny
+      - Cloudy
+      - Light rain
+      - Heavy rain
+      - Windy
+      - Stormy
       required: true
     - id: 9
       name: safety_check_section
@@ -100,13 +89,13 @@ inputSchema:
       hint: Select all PPE worn during maintenance
       type: select_multiple
       options:
-        - Hard hat
-        - Safety harness
-        - Safety glasses
-        - Gloves
-        - Steel-toed boots
-        - High-visibility vest
-        - Fall protection equipment
+      - Hard hat
+      - Safety harness
+      - Safety glasses
+      - Gloves
+      - Steel-toed boots
+      - High-visibility vest
+      - Fall protection equipment
       required: true
     - id: 11
       name: site_safety_briefing
@@ -114,8 +103,8 @@ inputSchema:
       hint: Was a safety briefing conducted
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: structural_inspection_section
@@ -130,11 +119,11 @@ inputSchema:
       hint: Condition of mounting hardware
       type: select_one
       options:
-        - Excellent - No issues
-        - Good - Minor wear
-        - Fair - Some attention needed
-        - Poor - Requires repair
-        - Critical - Immediate action required
+      - Excellent - No issues
+      - Good - Minor wear
+      - Fair - Some attention needed
+      - Poor - Requires repair
+      - Critical - Immediate action required
       required: true
     - id: 14
       name: physical_damage
@@ -142,11 +131,11 @@ inputSchema:
       hint: Any visible damage to antenna
       type: select_one
       options:
-        - None
-        - Minor scratches
-        - Dents or deformation
-        - Cracks or fractures
-        - Severe damage
+      - None
+      - Minor scratches
+      - Dents or deformation
+      - Cracks or fractures
+      - Severe damage
       required: true
     - id: 15
       name: corrosion_check
@@ -154,10 +143,10 @@ inputSchema:
       hint: Signs of rust or corrosion
       type: select_one
       options:
-        - No corrosion
-        - Surface rust
-        - Moderate corrosion
-        - Severe corrosion
+      - No corrosion
+      - Surface rust
+      - Moderate corrosion
+      - Severe corrosion
       required: true
     - id: 16
       name: electrical_inspection_section
@@ -172,11 +161,11 @@ inputSchema:
       hint: State of cables and connections
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair - Some wear
-        - Poor - Replace soon
-        - Critical - Replace immediately
+      - Excellent
+      - Good
+      - Fair - Some wear
+      - Poor - Replace soon
+      - Critical - Replace immediately
       required: true
     - id: 18
       name: signal_strength
@@ -198,10 +187,10 @@ inputSchema:
       hint: Condition of grounding
       type: select_one
       options:
-        - Properly grounded
-        - Minor issues
-        - Needs repair
-        - Not grounded
+      - Properly grounded
+      - Minor issues
+      - Needs repair
+      - Not grounded
       required: true
     - id: 21
       name: cleaning_performed
@@ -209,9 +198,9 @@ inputSchema:
       hint: Was cleaning done during maintenance
       type: select_one
       options:
-        - Yes
-        - No
-        - Not applicable
+      - 'True'
+      - 'False'
+      - Not applicable
       required: true
     - id: 22
       name: parts_replaced
@@ -240,9 +229,9 @@ inputSchema:
       hint: Is additional work needed
       type: select_one
       options:
-        - No, maintenance complete
-        - Yes, schedule follow-up
-        - Yes, urgent attention needed
+      - No, maintenance complete
+      - Yes, schedule follow-up
+      - Yes, urgent attention needed
       required: true
     - id: 26
       name: follow_up_date
@@ -271,7 +260,7 @@ inputSchema:
       hint: Review status
       type: select_one
       options:
-        - Pending review
-        - Reviewed and approved
-        - Requires additional review
+      - Pending review
+      - Reviewed and approved
+      - Requires additional review
       required: true

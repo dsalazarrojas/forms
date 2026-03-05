@@ -1,102 +1,91 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Color Street Wishlist
     pages:
-      - id: 1
-        name: customer_name
-        label: Your Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: customer_email
-        label: Your Email
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: section_wishlist_details
-        label: -- My Color Street Interest --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: solids_wishlist
-        label: Solids I'm interested in
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: glitters_wishlist
-        label: Glitters I'm interested in
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: designs_wishlist
-        label: Designs/Art I'm interested in
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: french_wishlist
-        label: French Manicure I'm interested in
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: holiday_wishlist
-        label: Holiday/Seasonal sets I'm looking for
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: notify_relaunch
-        label: Would you like to be notified if these are relaunched?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: referral_stylist
-        label: Who is your current Color Street Stylist?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: wishlist_priority
-        label: Which set is your absolute number one priority?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: additional_comments
-        label: Anything else you want to share?
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: section_wishlist_details
+      label: -- My Color Street Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: solids_wishlist
+      label: Solids I'm interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: glitters_wishlist
+      label: Glitters I'm interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: designs_wishlist
+      label: Designs/Art I'm interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: french_wishlist
+      label: French Manicure I'm interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: holiday_wishlist
+      label: Holiday/Seasonal sets I'm looking for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notify_relaunch
+      label: Would you like to be notified if these are relaunched?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: referral_stylist
+      label: Who is your current Color Street Stylist?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wishlist_priority
+      label: Which set is your absolute number one priority?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Anything else you want to share?
+      hint: null
+      type: text
+      options: []
+      required: false

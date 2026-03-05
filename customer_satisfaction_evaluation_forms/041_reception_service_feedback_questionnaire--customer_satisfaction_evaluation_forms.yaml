@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Very Good''}'
-      - '{''option2'': ''Good''}'
-      - '{''option3'': ''Neutral''}'
-      - '{''option4'': ''Bad''}'
-      - '{''option5'': ''Very Bad''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: true
     - id: 3
       name: service_quality
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''Cleanliness''}'
-      - '{''option2'': ''Friendliness''}'
-      - '{''option3'': ''Efficiency''}'
-      - '{''option4'': ''Communication''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 4
       name: reception_staff_performance
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Very Fast''}'
-      - '{''option2'': ''Fast''}'
-      - '{''option3'': ''Slow''}'
-      - '{''option4'': ''Very Slow''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 6
       name: reception_area
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
+      - Option 1
+      - Option 2
       required: true
     - id: 8
       name: receptionist_name
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''Doctor''}'
-      - '{''option2'': ''Receptionist''}'
-      - '{''option3'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 11
       name: suggestion

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Course 1''}'
-      - '{''id'': 2, ''name'': ''Course 2''}'
-      - '{''id'': 3, ''name'': ''Course 3''}'
+      - Course 1
+      - Course 2
+      - Course 3
       required: false
     - id: 3
       name: payment_details
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Card''}'
-      - '{''id'': 2, ''name'': ''PayPal''}'
-      - '{''id'': 3, ''name'': ''Bank Transfer''}'
+      - Card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 5
       name: payment_amount

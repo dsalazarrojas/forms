@@ -4,231 +4,128 @@ inputSchema:
     title: Wood Material Knowledge Quiz
     pages:
     - id: 1
-      name: wood_material
-      label: Wood Material
-      hint: null
+      name: wood_type
+      label: What type of wood is commonly used for making furniture?
+      hint: None
       type: select_one
       options:
       - Oak
       - Pine
       - Maple
-      - Birch
       - Cherry
       - Walnut
       - Ash
-      - Beech
-      - Teak
       required: false
     - id: 2
-      name: wood_type
-      label: Wood Type
-      hint: null
-      type: select_multiple
+      name: wood_characteristics
+      label: Which wood is known for its durability and resistance to warping?
+      hint: None
+      type: select_one
       options:
-      - Solid Wood
-      - Engineered Wood
-      - Plywood
-      - MDF
-      - Particleboard
-      - Moulding
+      - Teak
+      - Oak
+      - Pine
+      - Maple
+      - Cherry
+      - Ash
       required: false
     - id: 3
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: date
+      name: wood_density
+      label: What is the primary purpose of wood density?
+      hint: None
+      type: text
       options: []
       required: false
     - id: 4
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 5
-      name: wood_density
-      label: Wood Density
-      hint: null
+      name: wood_weight
+      label: What is the average weight of a standard piece of wood?
+      hint: None
       type: number
       options: []
       required: false
+    - id: 5
+      name: wood_type_floors
+      label: What type of wood is often used for flooring?
+      hint: None
+      type: select_multiple
+      options:
+      - Oak
+      - Maple
+      - Pine
+      - Cherry
+      - Walnut
+      - Ash
+      required: false
     - id: 6
-      name: wood_weight
-      label: Wood Weight
-      hint: null
-      type: number
+      name: wood_description
+      label: How would you describe the color of this wood?
+      hint: None
+      type: text
       options: []
       required: false
     - id: 7
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - reported
+      name: wood_engineered
+      label: What is the primary difference between Solid Wood and Engineered Wood?
+      hint: None
+      type: text
+      options: []
       required: false
     - id: 8
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: date
+      name: mdf_purpose
+      label: What is the purpose of MDF?
+      hint: None
+      type: text
       options: []
       required: false
     - id: 9
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - reported
+      name: teak_benefit
+      label: What is the primary benefit of using Teak wood?
+      hint: None
+      type: text
+      options: []
       required: false
     - id: 10
-      name: correct_answer
-      label: Correct Answer
-      hint: null
+      name: correct_answer_1
+      label: What is the correct answer to the question above?
+      hint: None
       type: select_one
       options:
-      - reported
-      - reported
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: correct_answer
-      label: Correct Answer
-      hint: null
+      name: correct_answer_2
+      label: What is the correct answer to this question?
+      hint: None
       type: select_one
       options:
-      - reported
-      - reported
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: correct_answer
-      label: Correct Answer
-      hint: null
+      name: correct_answer_3
+      label: Correct Answer 3
+      hint: None
       type: select_one
       options:
-      - reported
-      - Other
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: correct_answer
-      label: Correct Answer
-      hint: null
+      name: correct_answer_4
+      label: Correct Answer 4
+      hint: None
       type: select_one
       options:
-      - reported
-      - Other
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: correct_answer
-      label: Correct Answer
-      hint: null
+      name: correct_answer_5
+      label: Correct Answer 5
+      hint: None
       type: select_one
       options:
-      - reported
-      - Other
-      required: false
-    - id: 15
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 16
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 17
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 18
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 19
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 20
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 21
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 22
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 23
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 24
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
-      required: false
-    - id: 25
-      name: correct_answer
-      label: Correct Answer
-      hint: null
-      type: select_one
-      options:
-      - reported
-      - Other
+      - 'True'
+      - 'False'
       required: false

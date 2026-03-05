@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Development''}'
-      - '{''id'': 2, ''label'': ''In Production''}'
-      - '{''id'': 3, ''label'': ''Released''}'
+      - In Development
+      - In Production
+      - Released
       required: false
     - id: 4
       name: project_date
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agreed''}'
-      - '{''id'': 2, ''label'': ''Not Agreed''}'
+      - Agreed
+      - Not Agreed
       required: false
     - id: 17
       name: client_agreement
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agreed''}'
-      - '{''id'': 2, ''label'': ''Not Agreed''}'
+      - Agreed
+      - Not Agreed
       required: false
     - id: 18
       name: payment_terms

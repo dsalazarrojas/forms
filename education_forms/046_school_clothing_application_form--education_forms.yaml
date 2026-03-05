@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Parent'', ''label'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''Guardian'', ''label'': ''Guardian''}'
+      - Parent
+      - Guardian
       required: true
     - id: 10
       name: student_school_attended
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Public School'', ''label'': ''Public School''}'
-      - '{''id'': 2, ''name'': ''Private School'', ''label'': ''Private School''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      - Public School
+      - Private School
+      - Other
       required: true
     - id: 11
       name: student_education_level
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Primary 1-5'', ''label'': ''Primary 1-5''}'
-      - '{''id'': 2, ''name'': ''High School'', ''label'': ''High School''}'
-      - '{''id'': 3, ''name'': ''College'', ''label'': ''College''}'
+      - Primary 1-5
+      - High School
+      - College
       required: true
     - id: 12
       name: student_grade_level
@@ -94,16 +94,16 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Grade 1'', ''label'': ''Grade 1''}'
-      - '{''id'': 2, ''name'': ''Grade 2'', ''label'': ''Grade 2''}'
-      - '{''id'': 3, ''name'': ''Grade 3'', ''label'': ''Grade 3''}'
-      - '{''id'': 4, ''name'': ''Grade 4'', ''label'': ''Grade 4''}'
-      - '{''id'': 5, ''name'': ''Grade 5'', ''label'': ''Grade 5''}'
-      - '{''id'': 6, ''name'': ''Grade 6'', ''label'': ''Grade 6''}'
-      - '{''id'': 7, ''name'': ''Grade 7'', ''label'': ''Grade 7''}'
-      - '{''id'': 8, ''name'': ''Grade 8'', ''label'': ''Grade 8''}'
-      - '{''id'': 9, ''name'': ''Grade 9'', ''label'': ''Grade 9''}'
-      - '{''id'': 10, ''name'': ''Grade 10'', ''label'': ''Grade 10''}'
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
       required: true
     - id: 13
       name: student_contact_number

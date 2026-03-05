@@ -51,10 +51,10 @@ inputSchema:
       hint: Please choose mode of transport
       type: select_one
       options:
-      - '{''label'': ''Walk''}'
-      - '{''label'': ''Drive''}'
-      - '{''label'': ''By Bike''}'
-      - '{''label'': ''Other''}'
+      - Walk
+      - Drive
+      - By Bike
+      - Other
       required: false
     - id: 8
       name: mode_of_transport_other
@@ -76,10 +76,10 @@ inputSchema:
       hint: Select all relevant locations
       type: select_multiple
       options:
-      - '{''label'': ''Office''}'
-      - '{''label'': ''School''}'
-      - '{''label'': ''Event''}'
-      - '{''label'': ''Other''}'
+      - Office
+      - School
+      - Event
+      - Other
       required: true
     - id: 11
       name: location_other
@@ -101,10 +101,10 @@ inputSchema:
       hint: Select the purpose of visit
       type: select_one
       options:
-      - '{''label'': ''Meeting''}'
-      - '{''label'': ''Training''}'
-      - '{''label'': ''Event''}'
-      - '{''label'': ''Other''}'
+      - Meeting
+      - Training
+      - Event
+      - Other
       required: true
     - id: 14
       name: purpose_of_visit_other

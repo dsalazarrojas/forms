@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
       name: feedback_frequency
@@ -19,9 +19,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: feedback_quality
@@ -29,9 +29,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: feedback_suggestions
@@ -48,14 +48,14 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: feedback_frequency
-      label: How often
+      name: feedback_frequency_2
+      label: Feedback Frequency 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: employee_id
@@ -87,7 +87,7 @@ inputSchema:
       required: false
     - id: 11
       name: manager
-      label: Manager
+      label: Manager (2)
       hint: Manager
       type: text
       options: []
@@ -107,15 +107,15 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: department
-      label: Department
+      name: department_2
+      label: Department 2
       hint: What department
       type: text
       options: []
       required: false
     - id: 15
-      name: manager
-      label: Manager
+      name: manager_2
+      label: Manager (3)
       hint: Manager
       type: text
       options: []

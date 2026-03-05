@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Participant 1''}'
-      - '{''id'': 2, ''label'': ''Participant 2''}'
-      - '{''id'': 3, ''label'': ''Participant 3''}'
+      - Participant 1
+      - Participant 2
+      - Participant 3
       required: false
     - id: 3
       name: filming_details
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: filming_location

@@ -1,212 +1,201 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Christmas Gift List Form
     pages:
-      - id: 1
-        name: employee_name
-        label: Full Name
-        hint: Enter your first and last name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: employee_id
-        label: Employee ID
-        hint: Your company employee number
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: department
-        label: Department
-        hint: Which department do you work in
-        type: select_one
-        options:
-          - Human Resources
-          - Finance
-          - Marketing
-          - Sales
-          - IT or Technology
-          - Operations
-          - Customer Service
-          - Administration
-          - Other
-        required: true
-      - id: 4
-        name: email_address
-        label: Email Address
-        hint: Company email preferred
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: section_employee_info
-        label: -- Employee Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: gift_category_preference
-        label: Gift Category Preference
-        hint: What type of gift interests you most
-        type: select_one
-        options:
-          - Electronics and Gadgets
-          - Home and Kitchen
-          - Fashion and Accessories
-          - Sports and Outdoors
-          - Books and Media
-          - Food and Gourmet
-          - Experience Gifts
-          - Gift Cards
-        required: true
-      - id: 7
-        name: item_wish_1
-        label: First Wish Item
-        hint: Your top choice gift
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: item_wish_1_price
-        label: Estimated Price Range
-        hint: Approximate cost
-        type: select_one
-        options:
-          - Under 25
-          - 25 to 50
-          - 50 to 100
-          - 100 to 200
-          - Over 200
-        required: true
-      - id: 9
-        name: item_wish_2
-        label: Second Wish Item
-        hint: Your alternative choice
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: item_wish_3
-        label: Third Wish Item
-        hint: Another option
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: section_wishlist
-        label: -- Your Wishlist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: color_preference
-        label: Color Preference
-        hint: Preferred colors for gifts
-        type: select_one
-        options:
-          - No preference
-          - Black
-          - White
-          - Blue
-          - Red
-          - Green
-          - Gray
-          - Other
-        required: false
-      - id: 13
-        name: size_preference
-        label: Size Preference
-        hint: For clothing or wearable items
-        type: select_one
-        options:
-          - Not Applicable
-          - Small
-          - Medium
-          - Large
-          - Extra Large
-          - XXL or Larger
-        required: false
-      - id: 14
-        name: brand_preferences
-        label: Brand Preferences
-        hint: Favorite brands you like
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: section_preferences
-        label: -- Preferences --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: already_received
-        label: Already Received Company Gift This Year
-        hint: Have you received any gifts already
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 17
-        name: dietary_restrictions
-        label: Dietary Restrictions
-        hint: If receiving food gifts
-        type: select_multiple
-        options:
-          - None
-          - Vegetarian
-          - Vegan
-          - Gluten-Free
-          - Nut Allergy
-          - Dairy-Free
-          - Halal
-          - Kosher
-        required: false
-      - id: 18
-        name: delivery_option
-        label: Delivery Option
-        hint: How should we deliver your gift
-        type: select_one
-        options:
-          - Office Delivery
-          - Home Delivery
-          - Pick Up at Office
-        required: true
-      - id: 19
-        name: home_address
-        label: Home Address
-        hint: If home delivery selected
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: special_notes
-        label: Special Notes
-        hint: Any additional information
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: thank_you_message
-        label: Message to Company
-        hint: Optional thank you or feedback
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: employee_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your company employee number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Which department do you work in
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - IT or Technology
+      - Operations
+      - Customer Service
+      - Administration
+      - Other
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Company email preferred
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gift_category_preference
+      label: Gift Category Preference
+      hint: What type of gift interests you most
+      type: select_one
+      options:
+      - Electronics and Gadgets
+      - Home and Kitchen
+      - Fashion and Accessories
+      - Sports and Outdoors
+      - Books and Media
+      - Food and Gourmet
+      - Experience Gifts
+      - Gift Cards
+      required: true
+    - id: 7
+      name: item_wish_1
+      label: First Wish Item
+      hint: Your top choice gift
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_wish_1_price
+      label: Estimated Price Range
+      hint: Approximate cost
+      type: select_one
+      options:
+      - Under 25
+      - 25 to 50
+      - 50 to 100
+      - 100 to 200
+      - Over 200
+      required: true
+    - id: 9
+      name: item_wish_2
+      label: Second Wish Item
+      hint: Your alternative choice
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_wish_3
+      label: Third Wish Item
+      hint: Another option
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_wishlist
+      label: -- Your Wishlist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: color_preference
+      label: Color Preference
+      hint: Preferred colors for gifts
+      type: select_one
+      options:
+      - No preference
+      - Black
+      - White
+      - Blue
+      - Red
+      - Green
+      - Gray
+      - Other
+      required: false
+    - id: 13
+      name: size_preference
+      label: Size Preference
+      hint: For clothing or wearable items
+      type: select_one
+      options:
+      - Not Applicable
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - XXL or Larger
+      required: false
+    - id: 14
+      name: brand_preferences
+      label: Brand Preferences
+      hint: Favorite brands you like
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: already_received
+      label: Already Received Company Gift This Year
+      hint: Have you received any gifts already
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If receiving food gifts
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      - Halal
+      - Kosher
+      required: false
+    - id: 18
+      name: delivery_option
+      label: Delivery Option
+      hint: How should we deliver your gift
+      type: select_one
+      options:
+      - Office Delivery
+      - Home Delivery
+      - Pick Up at Office
+      required: true
+    - id: 19
+      name: home_address
+      label: Home Address
+      hint: If home delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_notes
+      label: Special Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: thank_you_message
+      label: Message to Company
+      hint: Optional thank you or feedback
+      type: text
+      options: []
+      required: false

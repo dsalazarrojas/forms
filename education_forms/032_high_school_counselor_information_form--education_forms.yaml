@@ -16,9 +16,9 @@ inputSchema:
       hint: Select one method
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Text''}'
+      - Email
+      - Phone
+      - Text
       required: false
     - id: 3
       name: contact_method_2
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Text''}'
+      - Email
+      - Phone
+      - Text
       required: false
     - id: 4
       name: email
@@ -64,31 +64,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 9}'
-      - '{''id'': 2, ''label'': 10}'
-      - '{''id'': 3, ''label'': 11}'
-      - '{''id'': 4, ''label'': 12}'
-      - '{''id'': 5, ''label'': 1}'
-      - '{''id'': 6, ''label'': 2}'
-      - '{''id'': 7, ''label'': 3}'
-      - '{''id'': 8, ''label'': 4}'
-      - '{''id'': 9, ''label'': 5}'
-      - '{''id'': 10, ''label'': 6}'
-      - '{''id'': 11, ''label'': 7}'
-      - '{''id'': 12, ''label'': 8}'
-      - '{''id'': 13, ''label'': 9}'
-      - '{''id'': 14, ''label'': 10}'
-      - '{''id'': 15, ''label'': 11}'
-      - '{''id'': 16, ''label'': 12}'
-      - '{''id'': 17, ''label'': 13}'
-      - '{''id'': 18, ''label'': 14}'
-      - '{''id'': 19, ''label'': 15}'
-      - '{''id'': 20, ''label'': 16}'
-      - '{''id'': 21, ''label'': 17}'
-      - '{''id'': 22, ''label'': 18}'
-      - '{''id'': 23, ''label'': 19}'
-      - '{''id'': 24, ''label'': 20}'
-      - '{''id'': 25, ''label'': 21}'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
       required: false
     - id: 9
       name: user_type
@@ -96,9 +92,9 @@ inputSchema:
       hint: Select one type
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''Parent''}'
-      - '{''id'': 3, ''label'': ''Teacher''}'
+      - Student
+      - Parent
+      - Teacher
       required: false
     - id: 10
       name: notes
@@ -113,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Teacher''}'
-      - '{''id'': 2, ''label'': ''Teacher 1''}'
-      - '{''id'': 3, ''label'': ''Teacher 2''}'
+      - Teacher
+      - Teacher 1
+      - Teacher 2
       required: false
     - id: 12
       name: assigned_to_2
@@ -123,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Teacher''}'
-      - '{''id'': 2, ''label'': ''Teacher 1''}'
-      - '{''id'': 3, ''label'': ''Teacher 2''}'
+      - Teacher
+      - Teacher 1
+      - Teacher 2
       required: false
     - id: 13
       name: submitted_on
@@ -147,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Smith''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - John Smith
+      - Jane Doe
       required: false
     - id: 16
       name: submitted_by_3
@@ -156,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Smith''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - John Smith
+      - Jane Doe
       required: false
     - id: 17
       name: submitted_on_2

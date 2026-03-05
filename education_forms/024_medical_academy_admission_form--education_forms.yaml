@@ -5,49 +5,42 @@ inputSchema:
     pages:
     - id: 1
       name: form_header
-      label: form_header
+      label: Form Header
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
+      name: student_name
+      label: Student Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 4
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: date_of_birth
-      label: date of birth
+      label: Date of Birth
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: date_of_birth
-      label: date of birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
       name: medical_specialty
-      label: medical specialty
+      label: Medical Specialty
       hint: null
       type: select_one
       options:
@@ -56,9 +49,16 @@ inputSchema:
       - Endocrinology
       - Gastroenterology
       required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: medical_specialty
-      label: medical specialty
+      name: specialty_preference
+      label: Preferred Specialty
       hint: null
       type: select_one
       options:
@@ -68,36 +68,24 @@ inputSchema:
       - Gastroenterology
       required: false
     - id: 9
-      name: medical_history
-      label: medical history
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: medical_history
-      label: medical history
+      name: consent
+      label: Consent
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
       required: false
     - id: 11
-      name: medical_history
-      label: medical history
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: submit
-      label: submit
+      label: Submit
       hint: null
       type: text
       options: []

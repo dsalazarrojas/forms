@@ -25,13 +25,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 31, ''name'': ''Never'', ''label'': ''Never''}'
-      - '{''id'': 32, ''name'': ''Less than once a week'', ''label'': ''Less than
-        once a week''}'
-      - '{''id'': 32, ''name'': ''1-2 times a week'', ''label'': ''1-2 times a week''}'
-      - '{''id'': 33, ''name'': ''3-4 times a week'', ''label'': ''3-4 times a week''}'
-      - '{''id'': 34, ''name'': ''5 or more times a week'', ''label'': ''5 or more
-        times a week''}'
+      - Never
+      - Less than once a week
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5 or more times a week
       required: false
     - id: 4
       name: food_amount
@@ -46,12 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 51, ''name'': ''Fast Food'', ''label'': ''Fast Food''}'
-      - '{''id'': 52, ''name'': ''Fruits'', ''label'': ''Fruits''}'
-      - '{''id'': 52, ''name'': ''Vegetables'', ''label'': ''Vegetables''}'
-      - '{''id'': 52, ''name'': ''Meat'', ''label'': ''Meat''}'
-      - '{''id'': 52, ''name'': ''Dairy'', ''label'': ''Dairy''}'
-      - '{''id'': 52, ''name'': ''Baked Goods'', ''label'': ''Baked Goods''}'
+      - Fast Food
+      - Fruits
+      - Vegetables
+      - Meat
+      - Dairy
+      - Baked Goods
       required: false
     - id: 6
       name: food_group
@@ -59,12 +57,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 61, ''name'': ''Sweets'', ''label'': ''Sweets''}'
-      - '{''id'': 61, ''name'': ''Fruits'', ''label'': ''Fruits''}'
-      - '{''id'': 61, ''name'': ''Vegetables'', ''label'': ''Vegetables''}'
-      - '{''id'': 61, ''name'': ''Meat'', ''label'': ''Meat''}'
-      - '{''id'': 61, ''name'': ''Dairy'', ''label'': ''Dairy''}'
-      - '{''id'': 61, ''name'': ''Baked Goods'', ''label'': ''Baked Goods''}'
+      - Sweets
+      - Fruits
+      - Vegetables
+      - Meat
+      - Dairy
+      - Baked Goods
       required: true
     - id: 7
       name: food_frequency_time

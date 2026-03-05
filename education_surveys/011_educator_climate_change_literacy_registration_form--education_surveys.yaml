@@ -44,11 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Climate Change Educator'', ''label'': ''Climate
-        Change Educator''}'
-      - '{''id'': 2, ''value'': ''Sustainability Educator'', ''label'': ''Sustainability
-        Educator''}'
-      - '{''id'': 3, ''value'': ''Other'', ''label'': ''Other''}'
+      - Climate Change Educator
+      - Sustainability Educator
+      - Other
       required: false
     - id: 7
       name: select_multiple_subjects
@@ -56,11 +54,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Biology'', ''label'': ''Biology''}'
-      - '{''id'': 2, ''value'': ''Chemistry'', ''label'': ''Chemistry''}'
-      - '{''id'': 3, ''value'': ''Physics'', ''label'': ''Physics''}'
-      - '{''id'': 4, ''value'': ''Math'', ''label'': ''Math''}'
-      - '{''id'': 5, ''value'': ''Other'', ''label'': ''Other''}'
+      - Biology
+      - Chemistry
+      - Physics
+      - Math
+      - Other
       required: false
     - id: 8
       name: note

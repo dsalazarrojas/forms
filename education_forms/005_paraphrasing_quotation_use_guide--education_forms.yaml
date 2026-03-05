@@ -4,194 +4,144 @@ inputSchema:
     title: Paraphrasing & Quotation Use Guide
     pages:
     - id: 1
-      name: user_input
-      label: Paraphrasing & Quotation Use Guide Form
+      name: purpose_of_paraphrasing
+      label: What is the purpose of paraphrasing and quotation use in communication?
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: section_1
-      label: Section 1
+      name: common_mistakes_paraphrasing
+      label: What are some common mistakes to avoid when paraphrasing and quoting
+        others' words?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Inaccurate representation of the original text
+      - Lack of context
+      - Failure to properly cite sources
+      - Overuse of quotes
+      - Underuse of paraphrasing
+      required: true
     - id: 3
-      name: section_2
-      label: Section 2
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: section_3
-      label: Section 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: section_3_1
-      label: Section 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: section_4
-      label: Section 4
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: section_4_1
-      label: Section 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: section_5
-      label: Section 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: section_6
-      label: Section 6
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 10
-      name: section_7
-      label: Section 7
+      name: determine_paraphrase_or_quote
+      label: How do you determine when to paraphrase or quote someone's words?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Always paraphrase
+      - Always quote
+      - It depends on the context
+      - Other
+      required: true
+    - id: 4
+      name: effective_paraphrasing
+      label: What are some strategies for effectively paraphrasing and quoting in
+        different contexts?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: handle_disagreements
+      label: How do you handle disagreements or misunderstandings that arise from
+        paraphrasing and quoting?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: example_paraphrased_sentence
+      label: Can you provide an example of a well-crafted paraphrased sentence?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: example_quoted_sentence
+      label: Can you provide an example of a well-crafted quoted sentence?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quote_in_academic_writing
+      label: What are some best practices for using quotes in academic writing?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: effective_paraphrasing_situation
+      label: Can you describe a situation where paraphrasing was effective in communication?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: effective_quoting_situation
+      label: Can you describe a situation where quoting was effective in communication?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: section_7_1
-      label: Section 7
+      name: unclear_original_meaning
+      label: How do you handle situations where the original speaker's meaning is
+        unclear or ambiguous?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: section_8
-      label: Section 8
+      name: avoid_unintentional_plagiarism
+      label: What are some tips for avoiding unintentional plagiarism when paraphrasing
+        and quoting?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: section_8_1
-      label: Section 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: section_9
-      label: Section 9
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: section_9_1
-      label: Section 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: section_10
-      label: Section 10
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: section_10_1
-      label: Section 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: section_11
-      label: Section 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: section_11_1
-      label: Section 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: section_12
-      label: Section 12
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: section_12_1
-      label: Section 12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
       name: section_13
       label: Section 13
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 23
+    - id: 14
       name: section_13_1
-      label: Section 13
+      label: Section 13 1
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
+    - id: 15
       name: section_14
       label: Section 14
       hint: null
       type: date
       options: []
       required: false
-    - id: 25
+    - id: 16
       name: section_14_1
-      label: Section 14
+      label: Section 14 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_15
+      label: Section 15
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: section_15_1
+      label: Section 15 1
       hint: null
       type: text
       options: []

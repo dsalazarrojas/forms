@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''phone|''}'
-      - '{''value'': ''email|''}'
+      - phone|
+      - email|
       required: false
     - id: 4
       name: tax_id
@@ -39,12 +39,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''net_30|''}'
-      - '{''value'': ''gross_30|''}'
-      - '{''value'': ''net_60|''}'
-      - '{''value'': ''gross_60|''}'
-      - '{''value'': ''net_90|''}'
-      - '{''value'': ''gross_90|''}'
+      - net 30|
+      - gross 30|
+      - net 60|
+      - gross 60|
+      - net 90|
+      - gross 90|
       required: false
     - id: 6
       name: contract_start
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''hourly|''}'
-      - '{''value'': ''flat_fee|''}'
-      - '{''value'': ''project_fee|''}'
-      - '{''value'': ''milestone_fee|''}'
+      - hourly|
+      - flat fee|
+      - project fee|
+      - milestone fee|
       required: false
     - id: 9
       name: contract_terms
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''yes|''}'
-      - '{''value'': ''no|''}'
+      - yes|
+      - no|
       required: false
     - id: 10
       name: payment_frequency
@@ -86,11 +86,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''weekly|''}'
-      - '{''value'': ''bi_weekly|''}'
-      - '{''value'': ''bi_monthly|''}'
-      - '{''value'': ''bi_quarterly|''}'
-      - '{''value'': ''bi_annually|''}'
+      - weekly|
+      - bi weekly|
+      - bi monthly|
+      - bi quarterly|
+      - bi annually|
       required: false
     - id: 11
       name: payment_method
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''check|''}'
-      - '{''value'': ''direct_deposit|''}'
-      - '{''value'': ''bank_transfer|''}'
+      - check|
+      - direct deposit|
+      - bank transfer|
       required: false
     - id: 12
       name: tax_id_type
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''social_security|''}'
-      - '{''value'': ''ein|''}'
-      - '{''value'': ''other|''}'
+      - social security|
+      - ein|
+      - other|
       required: false
     - id: 13
       name: tax_id_number
@@ -146,11 +146,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''weekly|''}'
-      - '{''value'': ''bi_weekly|''}'
-      - '{''value'': ''bi_monthly|''}'
-      - '{''value'': ''bi_quarterly|''}'
-      - '{''value'': ''bi_annually|''}'
+      - weekly|
+      - bi weekly|
+      - bi monthly|
+      - bi quarterly|
+      - bi annually|
       required: false
     - id: 18
       name: payment_terms_method
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''check|''}'
-      - '{''value'': ''direct_deposit|''}'
-      - '{''value'': ''bank_transfer|''}'
+      - check|
+      - direct deposit|
+      - bank transfer|
       required: false
     - id: 19
       name: payment_terms_amount

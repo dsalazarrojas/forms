@@ -4,199 +4,178 @@ inputSchema:
     title: employment_engagement_survey
     pages:
     - id: 1
-      name: overall_happiness
+      name: overall_happiness_1
       label: Overall happiness
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: satisfaction_level
+      name: satisfaction_level_1
       label: Satisfaction level
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: perception
+      name: perception_1
       label: Perception
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: overall_happiness_2
-      label: Overall happiness
+      label: How would you describe your overall happiness with your work? (text)
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: satisfaction_level_2
-      label: Satisfaction level
+      label: What is your overall satisfaction level with your work?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: perception_2
-      label: Perception
+      label: What is your perception of your work experience?
       hint: null
-      type: number
+      type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: overall_happiness_3
-      label: Overall happiness
+      label: Overall happiness (select one)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very happy
+      - Somewhat happy
+      - Neutral
+      - Somewhat not happy
+      - Very not happy
+      required: true
     - id: 8
       name: satisfaction_level_3
-      label: Satisfaction level
+      label: Satisfaction level (select one)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very good
+      - Somewhat good
+      - Neutral
+      - Somewhat not good
+      - Very not good
+      required: true
     - id: 9
       name: perception_3
-      label: Perception
+      label: Perception (select one)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: true
     - id: 10
       name: overall_happiness_4
-      label: Overall happiness
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very happy''}'
-      - '{''label'': ''Somewhat happy''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat not happy''}'
-      - '{''label'': ''Very not happy''}'
-      required: false
-    - id: 11
-      name: satisfaction_level_4
-      label: Satisfaction level
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Somewhat good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat not good''}'
-      - '{''label'': ''Very not good''}'
-      required: false
-    - id: 12
-      name: perception_4
-      label: Perception
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Very positive''}'
-      - '{''label'': ''Somewhat positive''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat negative''}'
-      - '{''label'': ''Very negative''}'
-      required: false
-    - id: 13
-      name: overall_happiness_5
-      label: Overall happiness
+      label: Overall happiness (select multiple)
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very happy''}'
-      - '{''label'': ''Somewhat happy''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat not happy''}'
-      - '{''label'': ''Very not happy''}'
+      - Very happy
+      - Somewhat happy
+      - Neutral
+      - Somewhat not happy
+      - Very not happy
+      required: true
+    - id: 11
+      name: satisfaction_level_4
+      label: Satisfaction level (select multiple)
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Somewhat good
+      - Neutral
+      - Somewhat not good
+      - Very not good
+      required: true
+    - id: 12
+      name: perception_4
+      label: Perception (select multiple)
+      hint: null
+      type: select_multiple
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: true
+    - id: 13
+      name: overall_happiness_5
+      label: Overall happiness (date)
+      hint: null
+      type: date
+      options: []
       required: false
     - id: 14
       name: satisfaction_level_5
-      label: Satisfaction level
+      label: Satisfaction level (date)
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Somewhat good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat not good''}'
-      - '{''label'': ''Very not good''}'
+      type: date
+      options: []
       required: false
     - id: 15
       name: perception_5
-      label: Perception
+      label: Perception (date)
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Very positive''}'
-      - '{''label'': ''Somewhat positive''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat negative''}'
-      - '{''label'': ''Very negative''}'
+      type: date
+      options: []
       required: false
     - id: 16
       name: overall_happiness_6
-      label: Overall happiness
+      label: Overall happiness (time)
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 17
       name: satisfaction_level_6
-      label: Satisfaction level
+      label: Satisfaction level (time)
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 18
       name: perception_6
-      label: Perception
+      label: Perception (time)
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 19
       name: overall_happiness_7
-      label: Overall happiness
+      label: Overall happiness (email)
       hint: null
-      type: time
+      type: email
       options: []
       required: false
     - id: 20
       name: satisfaction_level_7
-      label: Satisfaction level
+      label: Satisfaction level (email)
       hint: null
-      type: time
+      type: email
       options: []
       required: false
     - id: 21
-      name: perception_8
-      label: Perception
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: overall_happiness_9
-      label: Overall happiness
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: satisfaction_level_8
-      label: Satisfaction level
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: perception_9
-      label: Perception
+      name: perception_7
+      label: Perception (email)
       hint: null
       type: email
       options: []

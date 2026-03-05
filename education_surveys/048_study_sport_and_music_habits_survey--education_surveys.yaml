@@ -5,190 +5,143 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: This is the introduction page.
       type: note
       options: []
       required: false
     - id: 2
       name: study_habits
-      label: study_habits
-      hint: null
-      type: text
-      options: []
+      label: Study Habits
+      hint: How often do you study?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: true
     - id: 3
       name: sport_habits
-      label: sport_habits
-      hint: null
+      label: Sport Habits
+      hint: Which types of sports do you engage in?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Gymnastics
+      - Swimming
+      - Soccer
+      - Tennis
+      - Basketball
+      - Volleyball
+      - Cycling
+      - Running
+      - Other
+      required: true
     - id: 4
       name: sport_frequency
-      label: sport_frequency
-      hint: null
+      label: Sport Frequency
+      hint: How many minutes do you spend on sports per week?
       type: number
       options: []
       required: true
     - id: 5
-      name: sport_frequency_other
-      label: if_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: music_habits
-      label: music_habits
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: music_habits_other
-      label: if_music
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: sport_minutes_per_week
-      label: sport_minutes_per_week
-      hint: null
+      name: sport_days_per_week
+      label: Sport Days Per Week
+      hint: How many days do you spend on sports per week?
       type: number
       options: []
-      required: false
+      required: true
+    - id: 6
+      name: music_habits
+      label: Music Habits
+      hint: Which types of music do you enjoy?
+      type: select_multiple
+      options:
+      - Classical
+      - Pop
+      - Jazz
+      - Rock
+      - Hip-Hop
+      - Other
+      required: true
+    - id: 7
+      name: music_minutes_per_week
+      label: Music Minutes Per Week
+      hint: How many minutes do you spend on music per week?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: music_days_per_week
+      label: Music Days Per Week
+      hint: How many days do you spend on music per week?
+      type: number
+      options: []
+      required: true
     - id: 9
-      name: sport_minutes_per_week_other
-      label: if_minutes
-      hint: null
+      name: music_interests
+      label: Music Interests
+      hint: What are your music interests?
       type: text
       options: []
       required: false
     - id: 10
-      name: sport_days_per_week
-      label: sport_days_per_week
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: music_frequency
+      label: Music Frequency
+      hint: How often do you listen to music?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
     - id: 11
-      name: sport_days_per_week_other
-      label: if_days
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: study_frequency_scale
+      label: Study Frequency Scale
+      hint: What is your study frequency scale?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
     - id: 12
-      name: sport_frequency_scale
-      label: sport_frequency_scale
-      hint: null
+      name: study_frequency
+      label: Study Frequency
+      hint: How often do you study?
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 13
-      name: music_minutes_per_week
-      label: music_minutes_per_week
-      hint: null
-      type: number
+      name: sport_interests
+      label: Sport Interests
+      hint: What are your sport interests?
+      type: text
       options: []
       required: false
     - id: 14
-      name: music_minutes_per_week_other
-      label: if_minutes
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: sport_frequency_scale
+      label: Sport Frequency Scale
+      hint: What is your sport frequency scale?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
     - id: 15
-      name: music_days_per_week
-      label: music_days_per_week
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: music_days_per_week_other
-      label: if_days
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: music_frequency_scale
-      label: music_frequency_scale
-      hint: null
+      name: music_interests_scale
+      label: Music Interests Scale
+      hint: What is your music interests scale?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: music_interests
-      label: music_interests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: music_frequency
-      label: music_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: music_habits_scale
-      label: music_habits_scale
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: music_frequency_other
-      label: if_music_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: study_days_per_week
-      label: study_days_per_week
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: study_days_per_week_other
-      label: if_days
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: study_frequency_scale
-      label: study_frequency_scale
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: study_frequency
-      label: study_frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Medium
+      - Low
+      - Very Low
       required: true

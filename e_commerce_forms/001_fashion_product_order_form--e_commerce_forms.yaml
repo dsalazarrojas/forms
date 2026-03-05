@@ -5,198 +5,73 @@ inputSchema:
     pages:
     - id: 1
       name: product_form_1
-      label: order_products
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: product_form_2
-      label: select_products
+      label: What type of fashion product are you interested in purchasing?
       hint: null
       type: select_one
+      options:
+      - Dress
+      - Top
+      - Bottom
+      - Accessory
+      required: true
+    - id: 2
+      name: product_form_2
+      label: Select Multiple
+      hint: null
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 3
       name: product_form_3
-      label: select_product_multiple
+      label: Product Note
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false
     - id: 4
       name: product_form_4
-      label: select_product_multiple_2
+      label: Email
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: email
+      options: []
+      required: true
     - id: 5
       name: product_form_5
-      label: date
-      hint: null
-      type: date
+      label: Phone Number
+      hint: Format - XXX-XXX-XXXX
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: product_form_6
-      label: time
+      label: Delivery Preference
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
     - id: 7
       name: product_form_7
-      label: product_note
+      label: Delivery Note
       hint: null
       type: note
       options: []
       required: false
     - id: 8
       name: product_form_8
-      label: email
-      hint: null
-      type: email
+      label: Latest Delivery Date
+      hint: Format - YYYY-MM-DD
+      type: date
       options: []
       required: false
     - id: 9
       name: product_form_9
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: product_form_10
-      label: select_products_2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: product_form_11
-      label: select_product_multiple_3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: product_form_12
-      label: select_product_multiple_4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: product_form_13
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: product_form_14
-      label: select_product_multiple_5
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: product_form_15
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: product_form_16
-      label: product_note_2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: product_form_17
-      label: select_product_multiple_6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: product_form_18
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: product_form_19
-      label: time
-      hint: null
+      label: Delivery Time
+      hint: Format - HH -MM
       type: time
-      options: []
-      required: false
-    - id: 20
-      name: product_form_20
-      label: product_note_3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: product_form_21
-      label: select_product_multiple_7
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: product_form_22
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: product_form_23
-      label: select_product_multiple_8
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: product_form_24
-      label: select_product_multiple_9
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: product_form_25
-      label: product_note_4
-      hint: null
-      type: note
       options: []
       required: false

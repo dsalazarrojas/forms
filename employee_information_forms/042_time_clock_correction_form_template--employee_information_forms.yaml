@@ -18,15 +18,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''clock_in_error'', ''label'': ''clock_in_error''}'
-      - '{''value'': ''clock_out_error'', ''label'': ''clock_out_error''}'
-      - '{''value'': ''late_start'', ''label'': ''late_start''}'
-      - '{''value'': ''early_out'', ''label'': ''early_out''}'
-      - '{''value'': ''no_clock_in'', ''label'': ''no_clock_in''}'
-      - '{''value'': ''no_clock_out'', ''label'': ''no_clock_out''}'
-      - '{''value'': ''unknown_shift'', ''label'': ''unknown_shift''}'
-      - '{''value'': ''incorrect_shift'', ''label'': ''incorrect_shift''}'
-      - '{''value'': ''incorrect_work_period'', ''label'': ''incorrect_work_period''}'
+      - clock in error
+      - clock out error
+      - late start
+      - early out
+      - no clock in
+      - no clock out
+      - unknown shift
+      - incorrect shift
+      - incorrect work period
       required: false
     - id: 3
       name: employee_information_forms_time_clock_correction_form_template_input_2

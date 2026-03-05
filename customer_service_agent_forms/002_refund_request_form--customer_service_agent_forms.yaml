@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Agent 1''}'
-      - '{''value'': ''Agent 2''}'
-      - '{''value'': ''Agent 3''}'
+      - Agent 1
+      - Agent 2
+      - Agent 3
       required: false
     - id: 5
       name: customer_service_agent_forms_customer_service_agent_comments
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Approve''}'
-      - '{''value'': ''Decline''}'
+      - Approve
+      - Decline
       required: false
     - id: 7
       name: customer_service_agent_forms_customer_refund_status
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false
     - id: 8
       name: customer_service_agent_forms_customer_service_agent_notes
@@ -94,6 +94,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Full Refund''}'
-      - '{''value'': ''Partial Refund''}'
+      - Full Refund
+      - Partial Refund
       required: false

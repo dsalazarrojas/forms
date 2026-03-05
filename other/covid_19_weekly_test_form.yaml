@@ -43,14 +43,18 @@ inputSchema:
       label: Vaccine Dose
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 7
       name: vaccine_type
       label: Vaccine Type
       hint: null
       type: select_multiple
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 8
       name: symptoms
@@ -64,7 +68,9 @@ inputSchema:
       label: Medical Practice
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
       name: medical_practice_id
@@ -78,7 +84,9 @@ inputSchema:
       label: Doctor
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
       name: patient_condition

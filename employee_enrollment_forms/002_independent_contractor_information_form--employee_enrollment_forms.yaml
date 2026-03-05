@@ -6,419 +6,95 @@ inputSchema:
     - id: 1
       name: contract_details
       label: Contract Details
-      hint: null
+      hint: Please enter contract details
       type: note
       options: []
-      required: false
+      required: true
     - id: 2
       name: payment_terms
       label: Payment Terms
-      hint: null
+      hint: Enter payment terms
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: contact_info
       label: Contact Information
-      hint: null
+      hint: Enter contact information
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: tax_info
       label: Tax Identification
-      hint: null
+      hint: Enter tax identification
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: tax_id_number
       label: Tax ID Number
-      hint: null
+      hint: Enter tax ID number
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: social_security_number
       label: Social Security Number
-      hint: null
+      hint: Enter social security number
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: contract_start_date
       label: Contract Start Date
-      hint: null
+      hint: Enter contract start date
       type: date
       options: []
-      required: false
+      required: true
     - id: 8
       name: contract_end_date
       label: Contract End Date
-      hint: null
+      hint: Enter contract end date
       type: date
       options: []
-      required: false
+      required: true
     - id: 9
       name: hours_worked
       label: Hours Worked
-      hint: null
-      type: text
+      hint: Enter hours worked
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
       name: rate_per_hour
       label: Rate Per Hour
-      hint: null
+      hint: Enter rate per hour
       type: number
       options: []
-      required: false
+      required: true
     - id: 11
       name: tax_rate
       label: Tax Rate
-      hint: null
+      hint: Enter tax rate
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: payment_terms_notes
-      label: Payment Terms Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: work_phone
-      label: Work Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
       name: contract_type
       label: Contract Type
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Full-Time'', ''label'': ''Full-Time''}'
-      - '{''value'': ''Part-Time'', ''label'': ''Part-Time''}'
+      - Full-Time
+      - Part-Time
       required: true
-    - id: 18
+    - id: 13
       name: contract_status
       label: Contract Status
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active'', ''label'': ''Active''}'
-      - '{''value'': ''Inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
-    - id: 19
-      name: contract_date
-      label: Contract Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 20
-      name: payment_term_frequencies
-      label: Payment Term Frequencies
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: payment_term_frequency_friday
-      label: Payment Term Frequency - Friday
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Every 4 Weeks'', ''label'': ''Every 4 Weeks''}'
-      - '{''value'': ''Every 2 Weeks'', ''label'': ''Every 2 Weeks''}'
-      required: true
-    - id: 22
-      name: payment_term_frequency_saturday
-      label: Payment Term Frequency - Saturday
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - '{''value'': ''Every 4 Weeks'', ''label'': ''Every 4 Weeks''}'
-      required: true
-    - id: 23
-      name: payment_term_frequency_sunday
-      label: Payment Term Frequency - Sunday
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      required: true
-    - id: 24
-      name: payment_term_frequency_thursday
-      label: Payment Term Frequency - Thursday
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      required: true
-    - id: 25
-      name: payment_term_frequency_tuesday
-      label: Payment Term Frequency - Tuesday
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - Other
-      required: true
-    - id: 26
-      name: payment_term_frequency_wednesday
-      label: Payment Term Frequency - Wednesday
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - Other
-      required: true
-    - id: 27
-      name: payment_term_frequency_monday
-      label: Payment Term Frequency - Monday
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - Other
-      required: true
-    - id: 28
-      name: payment_term_frequency_weekends
-      label: Payment Term Frequency - Weekends
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Every 2 Weeks'', ''label'': ''Every 2 Weeks''}'
-      - Other
-      required: true
-    - id: 29
-      name: payment_term_frequency_weekly
-      label: Payment Term Frequency - Weekly
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - Other
-      required: true
-    - id: 30
-      name: payment_term_frequency_biweekly
-      label: Payment Term Frequency - Bi-Weekly
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - Other
-      required: true
-    - id: 31
-      name: payment_term_frequency_every_2_weeks
-      label: Payment Term Frequency - Every 2 Weeks
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Every 2 Weeks'', ''label'': ''Every 2 Weeks''}'
-      - Other
-      required: true
-    - id: 32
-      name: payment_term_frequency_every_4_weeks
-      label: Payment Term Frequency - Every 4 Weeks
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Every 4 Weeks'', ''label'': ''Every 4 Weeks''}'
-      - Other
-      required: true
-    - id: 33
-      name: payment_term_frequency_other
-      label: Payment Term Frequency Other
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Other'', ''label'': ''Other''}'
-      - Other
-      required: true
-    - id: 34
-      name: payment_term_frequency_other_description
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: payment_term_frequency_other_frequency
-      label: Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: contract_date_notes
-      label: Contract Date Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: contract_status_notes
-      label: Contract Status Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: notes_notes
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: contract_start_date_notes
-      label: Contract Start Date Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: contract_end_date_notes
-      label: Contract End Date Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: payment_term_frequency_2_weekly
-      label: Payment Term Frequency - 2 Weekly
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 42
-      name: payment_term_frequency_4_weekly
-      label: Payment Term Frequency - 4 Weekly
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 43
-      name: payment_term_frequency_4_week
-      label: Payment Term Frequency - 4 Week
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 44
-      name: payment_term_frequency_week
-      label: Payment Term Frequency - Week
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 45
-      name: payment_term_frequency_two_weeks
-      label: Payment Term Frequency - 2 Weeks
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 46
-      name: payment_term_frequency_biweekly
-      label: Payment Term Frequency - 2-Weekly
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 47
-      name: payment_term_frequency_four_week
-      label: Payment Term Frequency - 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 48
-      name: payment_term_frequency_bi_weekly
-      label: Payment Term Frequency - 4-Weekly
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 49
-      name: payment_term_frequency_two_week
-      label: Payment Term Frequency - 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 50
-      name: payment_term_frequency_every_two_weeks
-      label: Payment Term Frequency - Every 2 Weeks
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 51
-      name: payment_term_frequency_every_four_weeks
-      label: Payment Term Frequency - Every 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 52
-      name: payment_term_frequency_four_weeks
-      label: Payment Term Frequency - 4
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: financial_status
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: reason_for_renewal
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Fall'', ''value'': ''fall''}'
-      - '{''label'': ''Spring'', ''value'': ''spring''}'
-      - '{''label'': ''Summer'', ''value'': ''summer''}'
+      - Fall
+      - Spring
+      - Summer
       required: false
     - id: 12
       name: total_credits
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Expired'', ''value'': ''expired''}'
-      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - Active
+      - Expired
+      - Cancelled
       required: false
     - id: 15
       name: renewal_amount
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Full'', ''value'': ''full''}'
-      - '{''label'': ''Partial'', ''value'': ''partial''}'
-      - '{''label'': ''None'', ''value'': ''none''}'
+      - Full
+      - Partial
+      - None
       required: false
     - id: 17
       name: scholarship_award
@@ -134,6 +134,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

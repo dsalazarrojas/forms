@@ -1,159 +1,149 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Classroom Objects Grammar Quiz
     pages:
-      - id: 1
-        name: student_info_header
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_full_name
-        label: Student Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: class_section
-        label: Class Section
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: date_of_quiz
-        label: Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: quiz_instructions
-        label: -- Instructions --
-        hint: Please choose the correct article (a, an, the) or plural form for each classroom object.
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: q1_articles
-        label: I have __ eraser in my bag.
-        hint: null
-        type: select_one
-        options:
-          - a
-          - an
-          - the
-        required: true
-      - id: 7
-        name: q2_articles
-        label: Is there __ whiteboard in the classroom?
-        hint: null
-        type: select_one
-        options:
-          - a
-          - an
-          - the
-        required: true
-      - id: 8
-        name: q3_plural
-        label: What is the plural of "desk"?
-        hint: null
-        type: select_one
-        options:
-          - desks
-          - deskes
-          - deskies
-        required: true
-      - id: 9
-        name: q4_plural
-        label: What is the plural of "dictionary"?
-        hint: null
-        type: select_one
-        options:
-          - dictionarys
-          - dictionaries
-          - dictionars
-        required: true
-      - id: 10
-        name: q5_prepositions
-        label: The book is __ the table.
-        hint: Choose the best preposition
-        type: select_one
-        options:
-          - on
-          - in
-          - under
-          - between
-        required: true
-      - id: 11
-        name: q6_demonstratives
-        label: __ pencil over there is mine.
-        hint: null
-        type: select_one
-        options:
-          - This
-          - That
-          - These
-          - Those
-        required: true
-      - id: 12
-        name: q7_demonstratives
-        label: __ books here are very heavy.
-        hint: null
-        type: select_one
-        options:
-          - This
-          - That
-          - These
-          - Those
-        required: true
-      - id: 13
-        name: q8_sentence_construction
-        label: Write a complete sentence using the word "blackboard".
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: q9_identification
-        label: Identify the object - "You use it to sharpen your pencil."
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: q10_countability
-        label: Is "furniture" a countable or uncountable noun?
-        hint: null
-        type: select_one
-        options:
-          - Countable
-          - Uncountable
-        required: true
-      - id: 16
-        name: quiz_feedback
-        label: How difficult was this quiz for you?
-        hint: null
-        type: select_one
-        options:
-          - Very Easy
-          - Easy
-          - Just Right
-          - Challenging
-          - Very Difficult
-        required: false
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_quiz
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: quiz_instructions
+      label: -- Instructions --
+      hint: Please choose the correct article (a, an, the) or plural form for each
+        classroom object.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_articles
+      label: I have __ eraser in my bag.
+      hint: null
+      type: select_one
+      options:
+      - a
+      - an
+      - the
+      required: true
+    - id: 7
+      name: q2_articles
+      label: Is there __ whiteboard in the classroom?
+      hint: null
+      type: select_one
+      options:
+      - a
+      - an
+      - the
+      required: true
+    - id: 8
+      name: q3_plural
+      label: What is the plural of "desk"?
+      hint: null
+      type: select_one
+      options:
+      - desks
+      - deskes
+      - deskies
+      required: true
+    - id: 9
+      name: q4_plural
+      label: What is the plural of "dictionary"?
+      hint: null
+      type: select_one
+      options:
+      - dictionarys
+      - dictionaries
+      - dictionars
+      required: true
+    - id: 10
+      name: q5_prepositions
+      label: The book is __ the table.
+      hint: Choose the best preposition
+      type: select_one
+      options:
+      - 'True'
+      - in
+      - under
+      - between
+      required: true
+    - id: 11
+      name: q6_demonstratives
+      label: __ pencil over there is mine.
+      hint: null
+      type: select_one
+      options:
+      - This
+      - That
+      - These
+      - Those
+      required: true
+    - id: 12
+      name: q7_demonstratives
+      label: __ books here are very heavy.
+      hint: null
+      type: select_one
+      options:
+      - This
+      - That
+      - These
+      - Those
+      required: true
+    - id: 13
+      name: q8_sentence_construction
+      label: Write a complete sentence using the word "blackboard".
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: q9_identification
+      label: Identify the object - "You use it to sharpen your pencil."
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: q10_countability
+      label: Is "furniture" a countable or uncountable noun?
+      hint: null
+      type: select_one
+      options:
+      - Countable
+      - Uncountable
+      required: true
+    - id: 16
+      name: quiz_feedback
+      label: How difficult was this quiz for you?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Just Right
+      - Challenging
+      - Very Difficult
+      required: false

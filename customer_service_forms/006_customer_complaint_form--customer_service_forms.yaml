@@ -30,10 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 101, ''name'': ''Technical Issue'', ''value'': ''Technical Issue''}'
-      - '{''id'': 102, ''name'': ''Non-Technical Issue'', ''value'': ''Non-Technical
-        Issue''}'
-      - '{''id'': 103, ''name'': ''Other'', ''value'': ''Other''}'
+      - Technical Issue
+      - Non-Technical Issue
+      - Other
       required: false
     - id: 5
       name: complaint_category
@@ -41,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 201, ''name'': ''Customer Support'', ''value'': ''Customer Support''}'
-      - '{''id'': 202, ''name'': ''Sales'', ''value'': ''Sales''}'
-      - '{''id'': 203, ''name'': ''Other'', ''value'': ''Other''}'
+      - Customer Support
+      - Sales
+      - Other
       required: false
     - id: 6
       name: description

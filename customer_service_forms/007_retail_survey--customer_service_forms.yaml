@@ -5,232 +5,90 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: What_is_the_primary_Reason_for_your_Visit_
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 2
-      name: page_2
-      label: How_did_you_Find_Us
+      label: What is the primary reason for your visit?
       hint: null
       type: select_one
       options:
-      - social_media
-      - word_of_mouth
+      - social media
+      - word of mouth
       - ad
       - other
-      required: false
+      required: true
+    - id: 2
+      name: page_2
+      label: How did you find us?
+      hint: null
+      type: select_one
+      options:
+      - social media
+      - word of mouth
+      - ad
+      - other
+      required: true
     - id: 3
       name: page_3
-      label: What_is_Your_Age
+      label: What is your age?
       hint: null
       type: number
       options: []
       required: true
     - id: 4
       name: page_4
-      label: How_Satisfying_is_Your_Experience_
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 5
-      name: page_5
-      label: How_Satisfying_is_Your_Experience_
+      label: How satisfying is your experience?
       hint: null
       type: select_one
       options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
+      - very satisfying
+      - somewhat satisfying
+      - neither satisfying nor satisfying
+      - very unsatisfying
+      required: true
+    - id: 5
+      name: page_5
+      label: Do you have a previous experience with us?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
       required: true
     - id: 6
       name: page_6
-      label: Do_You_Have_a_Previous_Experience_with_Us
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 7
-      name: page_7
-      label: How_Often_Do_You_Visit_Our_Store_
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 8
-      name: page_8
-      label: How_Often_Do_You_Visit_Our_Store_
+      label: How often do you visit our store?
       hint: null
       type: select_multiple
       options:
-      - very_often
+      - very often
       - often
       - occasionally
       - rarely
       - never
       required: true
-    - id: 9
-      name: page_9
-      label: Have_You_Been_to_Our_Store_Today
+    - id: 7
+      name: page_7
+      label: Have you been to our store today?
       hint: null
       type: select_one
       options:
       - 'yes'
       - 'no'
       required: true
-    - id: 10
-      name: page_10
-      label: If_Not_Why
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: page_11
-      label: How_did_you_get_to_Our_Store_
+    - id: 8
+      name: page_8
+      label: How did you get to our store?
       hint: null
       type: select_multiple
       options:
       - car
-      - public_transportation
-      - on_foot
+      - public transportation
+      - on foot
       - bicycle
       - other
-      required: false
-    - id: 12
-      name: page_12
-      label: Do_You_Have_a_Phone_Number_
+      required: true
+    - id: 9
+      name: page_9
+      label: Do you have a phone number?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Email_Address
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: page_14
-      label: How_Satisfying_is_Your_Experience_
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: page_15
-      label: Have_We_Helped_You_Solve_a_Problem
-      hint: null
-      type: select_one
-      options:
-      - 'yes'
-      - 'no'
-      required: true
-    - id: 16
-      name: page_16
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: true
-    - id: 17
-      name: page_17
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: true
-    - id: 18
-      name: page_18
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: false
-    - id: 19
-      name: page_19
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: false
-    - id: 20
-      name: page_20
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: false
-    - id: 21
-      name: page_21
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: false
-    - id: 22
-      name: page_22
-      label: How_Satisfying_is_your_Experience_
-      hint: null
-      type: select_one
-      options:
-      - very_satisfying
-      - somewhat_satisfying
-      - neither_satisfying_nor_satisfying
-      - very_unsatisfying
-      required: false
-    - id: 23
-      name: page_23
-      label: page_23
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: page_24
-      label: page_24
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: page_25
-      label: page_25
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

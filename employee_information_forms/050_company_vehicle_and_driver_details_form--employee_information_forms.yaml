@@ -65,8 +65,8 @@ inputSchema:
       hint: Vehicle assignment
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: vehicle_make
@@ -192,7 +192,7 @@ inputSchema:
       hint: Violations
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, 1 violation
       - Yes, 2 violations
       - Yes, 3+ violations
@@ -210,7 +210,7 @@ inputSchema:
       hint: Accidents
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, 1 accident
       - Yes, 2 accidents
       - Yes, 3+ accidents
@@ -228,8 +228,8 @@ inputSchema:
       hint: License status
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: false
     - id: 31
       name: suspended_license_details
@@ -311,7 +311,7 @@ inputSchema:
       hint: Problems
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, minor
       - Yes, major
       required: false

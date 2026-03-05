@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -97,10 +86,10 @@ inputSchema:
       hint: Any fever, cough, or other symptoms
       type: select_one
       options:
-        - No symptoms
-        - Mild symptoms
-        - Moderate symptoms
-        - Severe symptoms
+      - No symptoms
+      - Mild symptoms
+      - Moderate symptoms
+      - Severe symptoms
       required: true
     - id: 13
       name: student_exposed_positive
@@ -108,9 +97,9 @@ inputSchema:
       hint: Close contact with COVID-positive person
       type: select_one
       options:
-        - No exposure
-        - Possible exposure
-        - Confirmed exposure
+      - No exposure
+      - Possible exposure
+      - Confirmed exposure
       required: true
     - id: 14
       name: student_tested_positive
@@ -118,10 +107,10 @@ inputSchema:
       hint: Any positive COVID-19 test recently
       type: select_one
       options:
-        - Never tested positive
-        - Tested positive - recovered
-        - Recently tested positive
-        - Unsure
+      - Never tested positive
+      - Tested positive - recovered
+      - Recently tested positive
+      - Unsure
       required: true
     - id: 15
       name: student_positive_test_date
@@ -136,11 +125,11 @@ inputSchema:
       hint: Student's vaccination status
       type: select_one
       options:
-        - Fully vaccinated and boosted
-        - Fully vaccinated, not boosted
-        - Partially vaccinated
-        - Not vaccinated
-        - Prefer not to disclose
+      - Fully vaccinated and boosted
+      - Fully vaccinated, not boosted
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
       required: true
     - id: 17
       name: medical_conditions_header
@@ -155,9 +144,9 @@ inputSchema:
       hint: Any ongoing health conditions
       type: select_one
       options:
-        - No chronic conditions
-        - Has chronic conditions
-        - Prefer not to disclose
+      - No chronic conditions
+      - Has chronic conditions
+      - Prefer not to disclose
       required: true
     - id: 19
       name: student_condition_details
@@ -186,9 +175,9 @@ inputSchema:
       hint: Parent acknowledges risks and safety measures
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
-        - No
+      - Yes, I understand
+      - I have questions
+      - 'False'
       required: true
     - id: 23
       name: parent_health_compliance
@@ -196,9 +185,9 @@ inputSchema:
       hint: Parent agrees child will follow rules
       type: select_one
       options:
-        - Yes, I agree
-        - I have concerns
-        - No
+      - Yes, I agree
+      - I have concerns
+      - 'False'
       required: true
     - id: 24
       name: parent_intake_completion
@@ -206,8 +195,8 @@ inputSchema:
       hint: Parent confirms truthfulness of information
       type: select_one
       options:
-        - I certify information is accurate
-        - Some information needs correction
+      - I certify information is accurate
+      - Some information needs correction
       required: true
     - id: 25
       name: agreement_date

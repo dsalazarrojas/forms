@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied'', ''value'': 5}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat Dissatisfied'', ''value'': 2}'
-      - '{''label'': ''Very Dissatisfied'', ''value'': 1}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: false
     - id: 4
       name: delivery_speed
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Clear'', ''value'': 5}'
-      - '{''label'': ''Somewhat Clear'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat Unclear'', ''value'': 2}'
-      - '{''label'': ''Not Clear'', ''value'': 1}'
+      - Very Clear
+      - Somewhat Clear
+      - Neutral
+      - Somewhat Unclear
+      - Not Clear
       required: false
     - id: 6
       name: product_price
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''On Time'', ''value'': ''on_time''}'
-      - '{''label'': ''Late'', ''value'': ''late''}'
-      - '{''label'': ''Not on Time'', ''value'': ''not_on_time''}'
+      - On Time
+      - Late
+      - Not on Time
       required: false
     - id: 8
       name: product_reliability
@@ -71,11 +71,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Reliable'', ''value'': 5}'
-      - '{''label'': ''Somewhat Reliable'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat Unreliable'', ''value'': 2}'
-      - '{''label'': ''Not Reliable'', ''value'': 1}'
+      - Very Reliable
+      - Somewhat Reliable
+      - Neutral
+      - Somewhat Unreliable
+      - Not Reliable
       required: false
     - id: 9
       name: communication_frequency
@@ -83,11 +83,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Often'', ''value'': 5}'
-      - '{''label'': ''Somewhat Often'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat Not Often'', ''value'': 2}'
-      - '{''label'': ''Not Often'', ''value'': 1}'
+      - Very Often
+      - Somewhat Often
+      - Neutral
+      - Somewhat Not Often
+      - Not Often
       required: false
     - id: 10
       name: product_quality_complaints
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''No Complaints'', ''value'': ''no_complaints''}'
-      - '{''label'': ''Some Complaints'', ''value'': ''some_complaints''}'
-      - '{''label'': ''Many Complaints'', ''value'': ''many_complains''}'
+      - No Complaints
+      - Some Complaints
+      - Many Complaints
       required: false
     - id: 11
       name: delivery_speed_complaints
@@ -105,7 +105,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''On Time'', ''value'': ''on_time''}'
-      - '{''label'': ''Late'', ''value'': ''late''}'
-      - '{''label'': ''Not on Time'', ''value'': ''not_on_time''}'
+      - On Time
+      - Late
+      - Not on Time
       required: false

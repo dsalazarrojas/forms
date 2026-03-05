@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very satisfied''}'
-      - '{''value'': 2, ''label'': ''Somewhat satisfied''}'
-      - '{''value'': 3, ''label'': ''Not satisfied''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
       required: false
     - id: 4
       name: customer_service_satisfaction_why
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: customer_service_satisfaction_additional_comments

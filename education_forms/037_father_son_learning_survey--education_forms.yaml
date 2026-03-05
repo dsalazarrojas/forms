@@ -5,190 +5,121 @@ inputSchema:
     pages:
     - id: 1
       name: father_son_learning_survey_title
-      label: Father Son Learning Survey
-      hint: null
+      label: Title
+      hint: Enter the title of the survey
       type: text
       options: []
       required: true
     - id: 2
       name: father_son_learning_survey_category
-      label: category
-      hint: null
+      label: Category
+      hint: Choose the category that best describes this survey
       type: select_one
       options:
-      - Education Forms
+      - Personal
+      - Professional
+      - Educational
       - Other
       required: true
     - id: 3
       name: father_son_learning_survey_description
-      label: description
-      hint: null
+      label: Description
+      hint: Briefly describe the purpose and objective of the survey
       type: text
       options: []
       required: true
     - id: 4
       name: father_son_learning_survey_hobbies
-      label: father_son_learning_survey_hobbies
-      hint: null
+      label: Hobbies
+      hint: What are some activities the father and son enjoy doing together?
       type: select_multiple
       options:
-      - reading
-      - playing sports
-      - playing video games
-      - learning
-      - playing an instrument
+      - Reading
+      - Sports
+      - Playing Video Games
+      - Playing an Instrument
+      - Learning
+      - Other (please specify)
       required: true
     - id: 5
-      name: father_son_learning_survey_hobbies_other
-      label: other_hobbies
-      hint: Enter the other hobbies that you enjoy with your son
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: father_son_learning_survey_conversation_topics
-      label: conversation_topics
-      hint: null
+      label: Conversation Topics
+      hint: What subjects do the father and son usually discuss?
       type: select_multiple
       options:
-      - schoolwork
-      - hobbies
-      - interests
-      - goals
-      - values
-      - goals
-      - values
+      - Schoolwork
+      - Hobbies
+      - Interests
+      - Goals
+      - Values
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: father_son_learning_survey_reflections
+      label: Reflections
+      hint: How often do you reflect on your relationship with your son?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
       required: true
     - id: 7
-      name: father_son_learning_survey_conversation_topics_other
-      label: other_conversation_topics
-      hint: Enter any other topics that you discuss with your son
-      type: text
-      options: []
-      required: false
+      name: father_son_learning_survey_reflections_frequency
+      label: Reflections Frequency
+      hint: How often do you take time to reflect on your relationship with your son?
+      type: select_one
+      options:
+      - 10 minutes
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - More than 2 hours
+      required: true
     - id: 8
-      name: father_son_learning_survey_reflections
-      label: reflections
-      hint: null
+      name: father_son_learning_survey_suggestions
+      label: Suggestions
+      hint: What are some suggestions for improving the father-son relationship?
       type: text
       options: []
       required: true
     - id: 9
-      name: father_son_learning_survey_recommendations
-      label: recommendations
-      hint: null
-      type: text
-      options: []
+      name: father_son_learning_survey_active_role
+      label: Active Role
+      hint: How often do you take an active role in your son's education?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
       required: true
     - id: 10
-      name: father_son_learning_survey_reflections_on_reflections
-      label: reflections_on_reflections
-      hint: null
-      type: text
-      options: []
+      name: father_son_learning_survey_education
+      label: Education
+      hint: What is your son's current level of education?
+      type: select_one
+      options:
+      - Primary School
+      - Secondary School
+      - University
+      - College
+      - Other
       required: true
     - id: 11
-      name: father_son_learning_survey_recommendations_on_recommendations
-      label: recommendations_on_recommendations
-      hint: null
+      name: father_son_learning_survey_other_hobbies
+      label: Other Hobbies
+      hint: Please specify any other activities you enjoy with your son
       type: text
       options: []
-      required: true
+      required: false
     - id: 12
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: father_son_learning_survey_reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      label: reflections_on_reflections_on_reflections_on_reflections_on_reflections_on_reflections
-      hint: null
+      name: father_son_learning_survey_other_topics
+      label: Other Topics
+      hint: Please specify any other subjects you discuss with your son
       type: text
       options: []
       required: false

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,11 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Satisfied'', ''value'': 5}'
-      - '{''label'': ''Somewhat Satisfied'', ''value'': 4}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat Dissatisfied'', ''value'': 2}'
-      - '{''label'': ''Very Dissatisfied'', ''value'': 1}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 2
       name: instructor_performance
@@ -32,10 +21,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent'', ''value'': ''Excellent''}'
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''label'': ''Poor'', ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 3
       name: instruction_quality
@@ -43,11 +32,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 2}'
-      - '{''label'': ''Very Poor'', ''value'': 1}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: true
     - id: 4
       name: course_materials
@@ -55,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Good'', ''value'': ''Very Good''}'
-      - '{''label'': ''Good'', ''value'': ''Good''}'
-      - '{''label'': ''Fair'', ''value'': ''Fair''}'
-      - '{''label'': ''Poor'', ''value'': ''Poor''}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 5
       name: course_duration
@@ -73,11 +62,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good'', ''value'': 5}'
-      - '{''label'': ''Good'', ''value'': 4}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 2}'
-      - '{''label'': ''Very Poor'', ''value'': 1}'
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 7
       name: comments_and_suggestions
@@ -92,7 +81,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Improved'', ''value'': ''Improved''}'
-      - '{''label'': ''No Change'', ''value'': ''No Change''}'
-      - '{''label'': ''Declined'', ''value'': ''Declined''}'
+      - Improved
+      - No Change
+      - Declined
       required: true

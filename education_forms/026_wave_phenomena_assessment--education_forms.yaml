@@ -4,39 +4,32 @@ inputSchema:
     title: Wave Phenomena Assessment
     pages:
     - id: 1
-      name: wave_phenomena_assessment_form
-      label: Wave Phenomena Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: wave_type
-      label: wave_type
+      label: Wave Type
       hint: null
       type: select_one
       options:
       - Wave
       - Particle
       - Electromagnetic
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: wave_speed
-      label: wave_speed
+      label: Wave Speed
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: wave_frequency
-      label: wave_frequency
+      label: Wave Frequency
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: wave_example
-      label: wave_example
+      label: Wave Example
       hint: null
       type: select_multiple
       options:
@@ -45,146 +38,87 @@ inputSchema:
       - Pressure waves
       - Electromagnetic waves
       required: false
-    - id: 6
+    - id: 5
       name: wave_characteristics
-      label: wave_characteristics
+      label: Wave Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wave_real_life
+      label: Wave Real Life
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: wave_real_life
-      label: wave_real_life
+      name: wave_properties
+      label: Wave Properties
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: wave_properties
-      label: wave_properties
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: wave_assessment
-      label: wave_assessment
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
       name: wave_notes
-      label: wave_notes
+      label: Wave Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 11
+    - id: 9
       name: student_name
-      label: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: student_phone
+      label: Student Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: student_email
-      label: student_email
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: teacher_email
+      label: Teacher Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 13
-      name: student_phone
-      label: student_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: student_address
-      label: student_address
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 15
-      name: teacher_name
-      label: teacher_name
+      name: teacher_phone
+      label: Teacher Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: teacher_phone
-      label: teacher_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: teacher_email
-      label: teacher_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
       name: teacher_address
-      label: teacher_address
+      label: Teacher Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: institution
-      label: institution
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: department
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: wave_phenomena_assessment_form_2
-      label: Wave Phenomena Assessment Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: wave_phenomena_assessment
-      label: Wave Phenomena Assessment
-      hint: null
-      type: select_multiple
-      options:
-      - Wave
-      - Particle
-      - Electromagnetic
-      required: false
-    - id: 23
-      name: wave_phenomena_assessment
-      label: Wave Phenomena Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: wave_phenomena_assessment_2
-      label: Wave Phenomena Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: wave_phenomena_assessment_3
-      label: Wave Phenomena Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

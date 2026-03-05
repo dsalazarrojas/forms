@@ -4,317 +4,91 @@ inputSchema:
     title: Holiday Cake Order Form Template
     pages:
     - id: 1
-      name: holiday_cake_order_form_template_page_1
-      label: order_details
+      name: order_details
+      label: Order Details
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Single
+      - Multiple
       required: false
     - id: 2
-      name: holiday_cake_order_form_template_page_2
-      label: cake_design
+      name: cake_design
+      label: Cake Design
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: holiday_cake_order_form_template_page_3
-      label: shipping_info
+      name: customer_info
+      label: Customer Information
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: holiday_cake_order_form_template_page_4
-      label: payment
+      name: payment_info
+      label: Payment Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: holiday_cake_order_form_template_page_5
-      label: order_review
+      name: order_date_time
+      label: Order Date and Time
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: holiday_cake_order_form_template_page_6
-      label: order_confirmation
+      name: cake_description
+      label: Cake Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: holiday_cake_order_form_template_page_7
-      label: order_receipt
+      name: order_total
+      label: Order Total
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: holiday_cake_order_form_template_page_8
-      label: order_notes
+      name: customer_price
+      label: Customer Price
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: holiday_cake_order_form_template_page_9
-      label: order_status
+      name: discount
+      label: Discount
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 10
-      name: holiday_cake_order_form_template_page_10
-      label: contact_info
+      name: tax
+      label: Tax
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 11
-      name: holiday_cake_order_form_template_page_11
-      label: customer_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: holiday_cake_order_form_template_page_12
-      label: order_history
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: holiday_cake_order_form_template_page_13
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: holiday_cake_order_form_template_page_14
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: holiday_cake_order_form_template_page_15
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: holiday_cake_order_form_template_page_16
-      label: order_number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: holiday_cake_order_form_template_page_17
-      label: cake_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: holiday_cake_order_form_template_page_18
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: holiday_cake_order_form_template_page_19
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: holiday_cake_order_form_template_page_20
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: holiday_cake_order_form_template_page_21
-      label: order_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: holiday_cake_order_form_template_page_22
-      label: order_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: holiday_cake_order_form_template_page_23
-      label: cake_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: holiday_cake_order_form_template_page_24
-      label: customer_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: holiday_cake_order_form_template_page_25
-      label: order_total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 26
-      name: holiday_cake_order_form_template_page_26
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - Bank Transfer
-      - Credit Card
-      - PayPal
-      required: false
-    - id: 27
-      name: holiday_cake_order_form_template_page_27
-      label: order_status
+      name: order_status
+      label: Order Status
       hint: null
       type: select_multiple
       options:
-      - Pending
       - Completed
+      - Pending
       - Cancelled
-      required: false
-    - id: 28
-      name: holiday_cake_order_form_template_page_28
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 29
-      name: holiday_cake_order_form_template_page_29
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 30
-      name: holiday_cake_order_form_template_page_30
-      label: notes
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 31
-      name: holiday_cake_order_form_template_page_31
-      label: cake_type
-      hint: null
-      type: select_one
-      options:
-      - Chocolate Cake
-      - Fruit Cake
-      - Vanilla Cake
-      required: false
-    - id: 32
-      name: holiday_cake_order_form_template_page_32
-      label: order_type
-      hint: null
-      type: select_one
-      options:
-      - Single
-      - Multi
-      required: false
-    - id: 33
-      name: holiday_cake_order_form_template_page_33
-      label: cake_size
-      hint: null
-      type: select_one
-      options:
-      - Large
-      - Medium
-      - Small
-      required: false
-    - id: 34
-      name: holiday_cake_order_form_template_page_34
-      label: order_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 35
-      name: holiday_cake_order_form_template_page_35
-      label: order_price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 36
-      name: holiday_cake_order_form_template_page_36
-      label: order_total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 37
-      name: holiday_cake_order_form_template_page_37
-      label: customer_price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 38
-      name: holiday_cake_order_form_template_page_38
-      label: discount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 39
-      name: holiday_cake_order_form_template_page_39
-      label: tax
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 40
-      name: holiday_cake_order_form_template_page_40
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 41
-      name: holiday_cake_order_form_template_page_41
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: holiday_cake_order_form_template_page_43
-      label: order_number
-      hint: null
-      type: number
       options: []
       required: false

@@ -23,9 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - I agree
+      - I do not agree
       required: false
     - id: 4
       name: signatures
@@ -40,8 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: recruiter_signature
@@ -49,8 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: hr_signature
@@ -58,8 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: employment_program_signature
@@ -67,8 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: date_signed
@@ -79,21 +82,21 @@ inputSchema:
       required: false
     - id: 10
       name: date_signed_recruiter
-      label: Date Signed
+      label: Date Signed Recruiter
       hint: null
       type: date
       options: []
       required: false
     - id: 11
       name: date_signed_hrs
-      label: Date Signed
+      label: Date Signed Hrs
       hint: null
       type: date
       options: []
       required: false
     - id: 12
       name: date_signed_employment
-      label: Date Signed
+      label: Date Signed Employment
       hint: null
       type: date
       options: []
@@ -153,9 +156,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
       name: recruiter_name

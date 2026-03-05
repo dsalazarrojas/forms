@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Student''}'
-      - '{''value'': ''Teacher''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Parent/Guardian''}'
+      - Student
+      - Teacher
+      - Other
+      - Parent/Guardian
       required: false
     - id: 3
       name: participant_details
@@ -45,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Address''}'
-      - '{''value'': ''Fax''}'
+      - Phone
+      - Email
+      - Address
+      - Fax
       required: false
     - id: 5
       name: education_level
@@ -56,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High School''}'
-      - '{''value'': ''Bachelor''}'
-      - '{''value'': ''Master''}'
-      - '{''value'': ''Doctoral''}'
+      - High School
+      - Bachelor
+      - Master
+      - Doctoral
       required: false
     - id: 6
       name: education_field
@@ -67,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Arts''}'
-      - '{''value'': ''Engineering''}'
-      - '{''value'': ''Science''}'
-      - '{''value'': ''Languages''}'
+      - Arts
+      - Engineering
+      - Science
+      - Languages
       required: false
     - id: 7
       name: language_proficiency
@@ -78,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''English''}'
-      - '{''value'': ''Spanish''}'
-      - '{''value'': ''French''}'
-      - '{''value'': ''Chinese''}'
+      - English
+      - Spanish
+      - French
+      - Chinese
       required: false
     - id: 8
       name: preferred_location
@@ -89,10 +78,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''USA''}'
-      - '{''value'': ''Europe''}'
-      - '{''value'': ''Asia''}'
-      - '{''value'': ''Africa''}'
+      - USA
+      - Europe
+      - Asia
+      - Africa
       required: false
     - id: 9
       name: exchange_program
@@ -100,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Short-Term''}'
-      - '{''value'': ''Long-Term''}'
-      - '{''value'': ''Summer''}'
+      - Short-Term
+      - Long-Term
+      - Summer
       required: false
     - id: 10
       name: participant_status
@@ -110,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 11
       name: exchange_start_date
@@ -141,9 +130,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Expiration of Exchange''}'
-      - '{''value'': "Participant''s request"}'
-      - '{''value'': ''Other''}'
+      - Expiration of Exchange
+      - Participant's request
+      - Other
       required: false
     - id: 15
       name: exchange_renewal_date

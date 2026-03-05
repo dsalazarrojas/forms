@@ -21,8 +21,11 @@ inputSchema:
       name: preferences
       label: Preferences
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 4
       name: request_date
@@ -30,181 +33,69 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: request_time
       label: Request Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 6
-      name: context_1
-      label: Context 1
+      name: select_context
+      label: Select Context
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
-      name: preferences_1
-      label: Preferences 1
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: request_date_1
-      label: Request Date 1
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
-      name: request_time_1
-      label: Request Time 1
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 10
-      name: select_context
-      label: Context
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 11
-      name: select_preferences
-      label: Preferences
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 12
-      name: select_context_1
-      label: Context 1
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 13
-      name: select_preferences_1
-      label: Preferences 1
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 14
-      name: select_context_2
-      label: Context 2
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 15
-      name: select_preferences_2
-      label: Preferences 2
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 16
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 17
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 8
       name: note
       label: Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 19
+    - id: 9
       name: select_note
       label: Select Note
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 20
-      name: select_note_1
-      label: Select Note 1
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 21
-      name: note_1
-      label: Note 1
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 22
+    - id: 10
       name: phone_1
       label: Phone 1
       hint: null
       type: text
       options: []
       required: true
-    - id: 23
-      name: email_1
+    - id: 11
+      name: email
       label: Email 1
       hint: null
       type: email
       options: []
       required: true
-    - id: 24
-      name: select_note_2
-      label: Select Note 2
+    - id: 12
+      name: select_note_1
+      label: Select Note 1
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 25
-      name: select_note_3
-      label: Select Note 3
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

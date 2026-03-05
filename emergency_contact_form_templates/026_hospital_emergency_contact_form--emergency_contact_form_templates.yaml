@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Other Relative''}'
+      - Parent
+      - Spouse
+      - Other Relative
       required: false
     - id: 5
       name: emergency_contact_name
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Allergic to medications''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''Heart condition''}'
+      - None
+      - Allergic to medications
+      - Diabetes
+      - Heart condition
       required: false
     - id: 8
       name: medication_allergies
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Penicillin''}'
-      - '{''label'': ''Codeine''}'
-      - '{''label'': ''Ibuprofen''}'
+      - None
+      - Penicillin
+      - Codeine
+      - Ibuprofen
       required: false
     - id: 9
       name: medical_equipment
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Other''}'
+      - Parent
+      - Spouse
+      - Other
       required: false
     - id: 13
       name: emergency_contact_relationship_other
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: false
     - id: 17
       name: medical_staff_description
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 19
       name: emergency_medical_services_other

@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Conference Center''}'
-      - '{''label'': ''Convention Center''}'
-      - '{''label'': ''Outdoor Location''}'
-      - '{''label'': ''Online''}'
+      - Conference Center
+      - Convention Center
+      - Outdoor Location
+      - Online
       required: false
     - id: 8
       name: event_description
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Charity Event''}'
-      - '{''label'': ''Conference''}'
-      - '{''label'': ''Seminar''}'
-      - '{''label'': ''Charity''}'
+      - Charity Event
+      - Conference
+      - Seminar
+      - Charity
       required: false
     - id: 10
       name: event_status
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Cancelled''}'
+      - Pending
+      - Approved
+      - Cancelled
       required: true
     - id: 11
       name: event_requester_info
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: event_organizers_info
@@ -190,6 +190,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

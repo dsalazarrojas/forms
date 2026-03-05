@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 6
       name: department
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 7
       name: job_date
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 10
       name: note
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Verified'', ''value'': ''verified''}'
-      - '{''id'': 2, ''label'': ''Not verified'', ''value'': ''not_verified''}'
+      - Verified
+      - Not verified
       required: false
     - id: 12
       name: phone
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 14
       name: team
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 15
       name: location
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New York'', ''value'': ''new_york''}'
-      - '{''id'': 2, ''label'': ''California'', ''value'': ''california''}'
-      - '{''id'': 3, ''label'': ''Chicago'', ''value'': ''chicago''}'
+      - New York
+      - California
+      - Chicago
       required: false
     - id: 16
       name: job_title_manager
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 17
       name: department_manager
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 18
       name: employee_status
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 19
       name: reporting_manager
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 20
       name: reporting_department
@@ -168,9 +168,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 21
       name: reporting_team
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''id'': 3, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      - Sales
+      - Marketing
+      - Engineering
       required: false
     - id: 22
       name: reporting_level
@@ -188,8 +188,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 2, ''label'': ''Team member'', ''value'': ''team_member''}'
+      - Manager
+      - Team member
       required: false
     - id: 23
       name: reporting_date

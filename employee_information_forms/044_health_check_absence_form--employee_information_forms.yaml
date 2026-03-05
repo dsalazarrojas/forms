@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Sick''}'
-      - '{''value'': ''Other''}'
+      - Present
+      - Sick
+      - Other
       required: false
     - id: 3
       name: illness_details
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 123456}'
-      - '{''value'': 654321}'
-      - '{''value'': 987654}'
+      - '123456'
+      - '654321'
+      - '987654'
       required: false
     - id: 9
       name: contact_number
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Required''}'
-      - '{''value'': ''Required''}'
-      - '{''value'': ''Recommended''}'
+      - Not Required
+      - Required
+      - Recommended
       required: false
     - id: 12
       name: approval_comments
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Pending''}'
+      - In Progress
+      - Completed
+      - Pending
       required: false
     - id: 17
       name: comments

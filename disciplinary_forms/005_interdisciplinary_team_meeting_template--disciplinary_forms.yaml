@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Team''}'
-      - '{''value'': ''Other''}'
+      - Team
+      - Other
       required: false
     - id: 3
       name: meeting_description
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Doctor''}'
-      - '{''value'': ''Nurse''}'
-      - '{''value'': ''Therapist''}'
-      - '{''value'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Therapist
+      - Other
       required: false
     - id: 5
       name: meeting_location
@@ -85,7 +85,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Scheduled''}'
-      - '{''value'': ''Canceled''}'
-      - '{''value'': ''In Progress''}'
+      - Scheduled
+      - Canceled
+      - In Progress
       required: false

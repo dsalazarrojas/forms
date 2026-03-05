@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''USA'', ''label'': ''USA''}'
-      - '{''value'': ''China'', ''label'': ''China''}'
-      - '{''value'': ''Japan'', ''label'': ''Japan''}'
+      - USA
+      - China
+      - Japan
       required: false
     - id: 5
       name: customs_declaration
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Declaration 1'', ''label'': ''Declaration 1''}'
-      - '{''value'': ''Declaration 2'', ''label'': ''Declaration 2''}'
-      - '{''value'': ''Declaration 3'', ''label'': ''Declaration 3''}'
+      - Declaration 1
+      - Declaration 2
+      - Declaration 3
       required: false
     - id: 6
       name: shipment_date
@@ -169,8 +169,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Terms of Service'', ''label'': ''Terms of Service''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Terms of Service
+      - Other
       required: false
     - id: 24
       name: notes

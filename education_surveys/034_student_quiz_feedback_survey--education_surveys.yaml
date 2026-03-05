@@ -5,191 +5,87 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: Introduction
+      label: Welcome to the Quiz Feedback Survey
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: quiz_experience
-      label: Quiz Experience
-      hint: How would you rate your experience taking the quiz?
-      type: number
-      options: []
-      required: false
-    - id: 3
       name: technical_issues
       label: Technical Issues
-      hint: Were there any technical issues that affected your ability to complete
-        the quiz?
+      hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - No issues
+      - Issues with loading times
+      - Issues with question display
+      - Other (please specify)
       required: true
-    - id: 4
+    - id: 3
       name: learning_objectives
       label: Learning Objectives
-      hint: Were the learning objectives clear and achievable?
+      hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Too broad''}'
-      - '{''label'': ''Adequate''}'
-      - '{''label'': ''Too narrow''}'
-      - '{''label'': ''Not clear''}'
+      - Clear and achievable
+      - Clear and somewhat achievable
+      - Not clear or too broad
+      - Not clear or too narrow
       required: true
-    - id: 5
+    - id: 4
       name: question_difficulty
       label: Question Difficulty
-      hint: Were the questions clear and concise?
+      hint: null
       type: number
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: time_management
       label: Time Management
-      hint: How long did it take you to complete the quiz?
+      hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 5 minutes''}'
-      - '{''label'': ''5-10 minutes''}'
-      - '{''label'': ''10-15 minutes''}'
-      - '{''label'': ''More than 15 minutes''}'
+      - Less than 5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - More than 15 minutes
       required: true
-    - id: 7
+    - id: 6
       name: feedback
       label: Feedback
-      hint: Any additional feedback or comments?
+      hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: overall_experience
       label: Overall Experience
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: improvement_areas
       label: Areas for Improvement
-      hint: What could we do to improve the quiz?
+      hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Clearer instructions''}'
-      - '{''label'': ''More feedback''}'
-      - '{''label'': ''Less questions''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Clearer instructions
+      - More feedback
+      - Less questions
+      - Other (please specify)
       required: true
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 10
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: date
-      label: Date
+      label: Date of Birth
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 13
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: email_address
-      label: Email Address
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone_number
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: name
-      label: Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name
-      label: Name
-      hint: null
-      type: text
       options: []
       required: false

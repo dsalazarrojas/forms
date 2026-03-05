@@ -115,7 +115,7 @@ inputSchema:
       - Yes - US Citizen
       - Yes - Permanent Resident
       - Yes - Work Visa
-      - false
+      - 'False'
       required: true
     - id: 16
       name: education_level
@@ -167,7 +167,7 @@ inputSchema:
       - Yes - Active
       - Yes - Expired
       - In progress
-      - false
+      - 'False'
       - Not required
       required: true
     - id: 22
@@ -320,8 +320,8 @@ inputSchema:
       hint: Convictions or pending charges
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 42
       name: criminal_history_details
@@ -336,8 +336,8 @@ inputSchema:
       hint: Do you consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 44
       name: drug_test_consent
@@ -345,8 +345,8 @@ inputSchema:
       hint: Do you consent if required
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 45
       name: fingerprint_consent
@@ -354,8 +354,8 @@ inputSchema:
       hint: Do you consent
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 46
       name: equal_opportunity
@@ -373,7 +373,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I certify
-      - false
+      - 'False'
       required: true
     - id: 48
       name: applicant_signature

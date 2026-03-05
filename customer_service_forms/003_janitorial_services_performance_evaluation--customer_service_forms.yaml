@@ -5,155 +5,85 @@ inputSchema:
     pages:
     - id: 1
       name: janitorial_services_performance
-      label: janitorial_services_performance
+      label: Janitorial Services Performance
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 2
-      name: name
-      label: customer_name
+      name: customer_name
+      label: Customer Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: contact_method
-      label: preferred_contact_method
+      name: preferred_contact_method
+      label: Preferred Contact Method
       hint: null
       type: select_multiple
       options:
-      - janitorial
-      - call
-      - text
-      - email
-      - in_person
-      required: false
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 5
+      name: quality_of_service
+      label: Quality of Service
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 6
-      name: category1
-      label: quality_of_service
+      name: communication_skills
+      label: Communication Skills
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: category2
-      label: communication_skills
+      name: janitorial_skills
+      label: Janitorial Skills
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: category3
-      label: janitorial_skills
+      name: overall_experience
+      label: Overall Experience
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: category4
-      label: overall_experience
+      name: janitorial_performance
+      label: Janitorial Performance
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: category5
-      label: janitorial_performance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: note
-      label: comments
+      name: comments
+      label: Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 11
       name: submit
-      label: submit_form
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: email
-      label: email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: contact_method
-      label: contact_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category1
-      label: quality_of_service
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category2
-      label: communication_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: category3
-      label: janitorial_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category4
-      label: overall_experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category5
-      label: janitorial_performance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category6
-      label: category1
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

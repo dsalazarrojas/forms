@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paypal''}'
-      - '{''value'': ''Stripe''}'
-      - '{''value'': ''Bank transfer''}'
+      - Paypal
+      - Stripe
+      - Bank transfer
       required: false
     - id: 4
       name: shipping_details
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Free''}'
-      - '{''value'': ''Flat rate''}'
-      - '{''value'': ''Weight based''}'
+      - Free
+      - Flat rate
+      - Weight based
       required: false
     - id: 5
       name: store_settings
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Shopify''}'
-      - '{''value'': ''Woo Commerce''}'
-      - '{''value'': ''Shopify +''}'
+      - Shopify
+      - Woo Commerce
+      - Shopify +
       required: false
     - id: 6
       name: product_info
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Physical''}'
-      - '{''value'': ''Digital''}'
-      - '{''value'': ''Both''}'
+      - Physical
+      - Digital
+      - Both
       required: false
     - id: 7
       name: launch_plan
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
       name: store_owner

@@ -16,16 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''equipment_type'', ''label'': ''Type'', ''type'': ''select_one'',
-        ''options'': [{''name'': ''hydraulic-equipment'', ''label'': ''Hydraulic''},
-        {''name'': ''pneumatic-equipment'', ''label'': ''Pneumatic''}], ''required'':
-        True}'
-      - '{''name'': ''equipment_id'', ''label'': ''Equipment ID'', ''type'': ''select_multiple'',
-        ''options'': []}'
-      - '{''name'': ''equipment_serial_number'', ''label'': ''Equipment Serial Number'',
-        ''type'': ''text'', ''options'': []}'
-      - '{''name'': ''equipment_model'', ''label'': ''Equipment Model'', ''type'':
-        ''text'', ''options'': []}'
+      - Type
+      - Equipment ID
+      - Equipment Serial Number
+      - Equipment Model
       required: true
     - id: 3
       name: monitoring_data

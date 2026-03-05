@@ -1,139 +1,122 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Meal Planning Form
     pages:
     - id: 1
-      name: meal_planning_form_1
-      label: first_page
+      name: general_info
+      label: What type of meals do you typically eat?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
       required: true
     - id: 2
-      name: meal_planning_form_2
-      label: food_preferences
+      name: dietary_preferences
+      label: What are your dietary preferences?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option_2''}'
-      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option_3''}'
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Low-carb
       required: true
     - id: 3
-      name: meal_planning_form_3
-      label: dietary_restrictions
+      name: allergies
+      label: Do you have any food allergies or intolerances?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option_2''}'
-      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option_3''}'
+      - Allergy 1
+      - Intolerance 1
       required: true
     - id: 4
-      name: meal_planning_form_4
-      label: meal_preferences
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: meal_planning_form_5
-      label: meal_preferences
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: meal_planning_form_6
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: meal_planning_form_7
-      label: dietary_restrictions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 4, ''name'': ''option_4'', ''label'': ''option_4''}'
-      - '{''id'': 5, ''name'': ''option_5'', ''label'': ''option_5''}'
-      - '{''id'': 6, ''name'': ''option_6'', ''label'': ''option_6''}'
-      required: false
-    - id: 8
-      name: meal_planning_form_8
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: meal_planning_form_9
-      label: food_preferences
+      name: planning_goals
+      label: What are your meal planning goals?
       hint: null
       type: select_one
       options:
-      - '{''id'': 7, ''name'': ''option_7'', ''label'': ''option_7''}'
-      - '{''id'': 8, ''name'': ''option_8'', ''label'': ''option_8''}'
-      - '{''id'': 9, ''name'': ''option_9'', ''label'': ''option_9''}'
+      - Weight Loss
+      - Weight Gain
+      - Health Maintenance
+      required: true
+    - id: 5
+      name: favorites
+      label: What are your favorite foods or cuisines?
+      hint: null
+      type: select_multiple
+      options:
+      - Italian
+      - Mexican
+      - Indian
+      required: false
+    - id: 6
+      name: restrictions
+      label: Do you have any specific dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Low Sodium
+      required: false
+    - id: 7
+      name: eating_out
+      label: How often do you eat out or order takeout?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Often
+      required: false
+    - id: 8
+      name: planning_method
+      label: What is your preferred method of meal planning?
+      hint: null
+      type: select_one
+      options:
+      - App
+      - Cookbook
+      - Online Recipes
+      required: false
+    - id: 9
+      name: needs
+      label: Do you have any specific dietary needs or concerns?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Kidney Disease
+      - Other
       required: false
     - id: 10
-      name: meal_planning_form_10
-      label: dietary_restrictions
+      name: meals_per_day
+      label: How many meals do you typically eat per day?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 10, ''name'': ''option_10'', ''label'': ''option_10''}'
-      - '{''id'': 11, ''name'': ''option_11'', ''label'': ''option_11''}'
-      - '{''id'': 12, ''name'': ''option_12'', ''label'': ''option_12''}'
+      type: number
+      options: []
       required: false
     - id: 11
-      name: meal_planning_form_11
-      label: first_page
+      name: cooking_method
+      label: Do you have a preferred cooking method?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Baking
+      - Grilling
+      - Sautéing
       required: false
     - id: 12
-      name: meal_planning_form_12
-      label: food_preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: meal_planning_form_13
-      label: dietary_restrictions
+      name: planning_schedule
+      label: Do you have any specific meal planning schedules?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13, ''name'': ''option_13'', ''label'': ''option_13''}'
-      - '{''id'': 14, ''name'': ''option_14'', ''label'': ''option_14''}'
-      - '{''id'': 15, ''name'': ''option_15'', ''label'': ''option_15''}'
-      required: false
-    - id: 14
-      name: meal_planning_form_14
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: meal_planning_form_15
-      label: food_preferences
-      hint: null
-      type: text
-      options: []
+      - Meal Prep
+      - Batch Cooking
+      - Other
       required: false

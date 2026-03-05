@@ -51,7 +51,7 @@ inputSchema:
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
       name: seminar_type
       label: Seminar Type
@@ -102,22 +102,22 @@ inputSchema:
       options: []
       required: true
     - id: 14
-      name: event_time
-      label: Event Time
+      name: event_time_2
+      label: Event Time 2
       hint: null
       type: time
       options: []
       required: true
     - id: 15
-      name: event_date
-      label: Event Date
+      name: seminar_date
+      label: Seminar Date
       hint: null
       type: date
       options: []
       required: true
     - id: 16
-      name: seminar_type
-      label: Seminar Type
+      name: seminar_type_2
+      label: Seminar Type 2
       hint: null
       type: select_one
       options:
@@ -126,69 +126,39 @@ inputSchema:
       - Type 3
       required: true
     - id: 17
-      name: seminar_date
-      label: Seminar Date
+      name: attendees_2
+      label: Attendees 2
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 18
-      name: event_time
-      label: Event Time
+      name: seminar_title_2
+      label: Seminar Title 2
       hint: null
-      type: time
+      type: text
       options: []
       required: true
     - id: 19
-      name: seminar_title
-      label: Seminar Title
+      name: seminar_description_2
+      label: Seminar Description 2
       hint: null
       type: text
       options: []
       required: true
     - id: 20
-      name: seminar_description
-      label: Seminar Description
+      name: seminar_location_2
+      label: Seminar Location 2
       hint: null
       type: text
       options: []
       required: true
     - id: 21
-      name: seminar_location
-      label: Seminar Location
+      name: event_time_2_2
+      label: Event Time 2 2
       hint: null
-      type: text
+      type: time
       options: []
       required: true
-    - id: 22
-      name: attendees
-      label: Attendees
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: true
-    - id: 23
-      name: registered
-      label: Registered
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: true
-    - id: 24
-      name: form_id
-      label: Form ID
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false

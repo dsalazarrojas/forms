@@ -25,10 +25,9 @@ inputSchema:
       hint: Please select the capacity of the party bus you are renting
       type: select_one
       options:
-      - '20'
-      - '30'
-      - '40'
-      - '50'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: bus_equipment
@@ -113,14 +112,14 @@ inputSchema:
       required: false
     - id: 15
       name: emergency_phone
-      label: Phone
+      label: Emergency Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: emergency_contact_email
-      label: Contact E-mail
+      label: Emergency Contact Email
       hint: null
       type: email
       options: []
@@ -155,35 +154,35 @@ inputSchema:
       required: false
     - id: 21
       name: emergency_contact_phone
-      label: Phone
+      label: Emergency Contact Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: emergency_contact_email
-      label: Contact E-mail
+      name: emergency_contact_email_2
+      label: Emergency Contact Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 23
       name: emergency_contact_employer_address
-      label: Address
+      label: Emergency Contact Employer Address
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: emergency_contact_employer_phone
-      label: Phone
+      label: Emergency Contact Employer Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: emergency_contact_employer_email
-      label: Contact E-mail
+      label: Emergency Contact Employer Email
       hint: null
       type: email
       options: []

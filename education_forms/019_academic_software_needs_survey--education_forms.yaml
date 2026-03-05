@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -17,7 +6,8 @@ inputSchema:
     - id: 1
       name: survey_header
       label: -- Academic Software Needs Survey --
-      hint: Help us understand your software needs to guide future IT purchasing and licensing decisions.
+      hint: Help us understand your software needs to guide future IT purchasing and
+        licensing decisions.
       type: note
       options: []
       required: false
@@ -27,11 +17,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Student
-        - Faculty
-        - Researcher
-        - Staff
-        - IT Administrator
+      - Student
+      - Faculty
+      - Researcher
+      - Staff
+      - IT Administrator
       required: true
     - id: 3
       name: department
@@ -42,40 +32,43 @@ inputSchema:
       required: true
     - id: 4
       name: current_tools
-      label: Which software tools do you currently use for academic work (select all that apply)
+      label: Which software tools do you currently use for academic work (select all
+        that apply)
       hint: null
       type: select_multiple
       options:
-        - Microsoft Office Suite
-        - Google Workspace
-        - MATLAB
-        - SPSS or SAS
-        - Adobe Creative Suite
-        - Python or R (programming)
-        - Reference managers (Zotero, Mendeley)
-        - Learning management system (Canvas, Blackboard)
+      - Microsoft Office Suite
+      - Google Workspace
+      - MATLAB
+      - SPSS or SAS
+      - Adobe Creative Suite
+      - Python or R (programming)
+      - Reference managers (Zotero, Mendeley)
+      - Learning management system (Canvas, Blackboard)
       required: true
     - id: 5
       name: satisfaction_current_tools
-      label: How satisfied are you with the software tools currently available to you
+      label: How satisfied are you with the software tools currently available to
+        you
       hint: null
       type: select_one
       options:
-        - Very dissatisfied
-        - Dissatisfied
-        - Neutral
-        - Satisfied
-        - Very satisfied
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
       required: true
     - id: 6
       name: unmet_software_needs
-      label: Are there software tools you need that are not currently available or licensed
+      label: Are there software tools you need that are not currently available or
+        licensed
       hint: null
       type: select_one
       options:
-        - Yes
-        - No
-        - Not sure
+      - 'True'
+      - 'False'
+      - Not sure
       required: true
     - id: 7
       name: unmet_software_details
@@ -90,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Yes - training is sufficient
-        - Somewhat - more training would help
-        - No - training is inadequate
+      - Yes - training is sufficient
+      - Somewhat - more training would help
+      - No - training is inadequate
       required: true
     - id: 9
       name: training_topics
@@ -100,12 +93,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-        - Data analysis and visualization
-        - Statistical software
-        - Graphic design tools
-        - Collaboration platforms
-        - Programming and coding
-        - Research tools and databases
+      - Data analysis and visualization
+      - Statistical software
+      - Graphic design tools
+      - Collaboration platforms
+      - Programming and coding
+      - Research tools and databases
       required: false
     - id: 10
       name: device_usage
@@ -113,11 +106,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-        - Desktop computer (university provided)
-        - Laptop (personal)
-        - Laptop (university provided)
-        - Tablet
-        - Smartphone
+      - Desktop computer (university provided)
+      - Laptop (personal)
+      - Laptop (university provided)
+      - Tablet
+      - Smartphone
       required: true
     - id: 11
       name: operating_system
@@ -125,11 +118,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Windows
-        - macOS
-        - Linux
-        - ChromeOS
-        - Other
+      - Windows
+      - macOS
+      - Linux
+      - ChromeOS
+      - Other
       required: true
     - id: 12
       name: cloud_storage_preference
@@ -137,11 +130,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-        - Google Drive
-        - OneDrive
-        - Dropbox
-        - Institutional cloud storage
-        - None - I use local storage
+      - Google Drive
+      - OneDrive
+      - Dropbox
+      - Institutional cloud storage
+      - None - I use local storage
       required: true
     - id: 13
       name: biggest_challenge

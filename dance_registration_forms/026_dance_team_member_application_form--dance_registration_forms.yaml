@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Dancer''}'
-      - '{''value'': ''Team Member''}'
-      - '{''value'': ''Both''}'
+      - Dancer
+      - Team Member
+      - Both
       required: false
     - id: 3
       name: name
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Dancer''}'
-      - '{''value'': ''Team Member''}'
-      - '{''value'': ''Both''}'
+      - Dancer
+      - Team Member
+      - Both
       required: false
     - id: 12
       name: dance_style
@@ -92,14 +92,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Ballet''}'
-      - '{''value'': ''Contemporary''}'
-      - '{''value'': ''Hip Hop''}'
-      - '{''value'': ''Jazz''}'
-      - '{''value'': ''Tap''}'
-      - '{''value'': ''Ballroom''}'
-      - '{''value'': ''Latin''}'
-      - '{''value'': ''Other''}'
+      - Ballet
+      - Contemporary
+      - Hip Hop
+      - Jazz
+      - Tap
+      - Ballroom
+      - Latin
+      - Other
       required: false
     - id: 13
       name: dance_levels
@@ -107,10 +107,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Beginner''}'
-      - '{''value'': ''Intermediate''}'
-      - '{''value'': ''Advanced''}'
-      - '{''value'': ''Advanced-Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Advanced-Advanced
       required: false
     - id: 14
       name: emergency_contact_relationship
@@ -118,12 +118,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mother''}'
-      - '{''value'': ''Father''}'
-      - '{''value'': ''Brother''}'
-      - '{''value'': ''Sister''}'
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Other''}'
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Other
       required: false
     - id: 15
       name: emergency_contact_address
@@ -161,31 +161,31 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: emergency_contact_phone
-      label: Phone
+      name: emergency_contact_phone_2
+      label: Emergency Contact Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: emergency_contact_email
-      label: Email
+      label: Emergency Contact Email
       hint: null
       type: email
       options: []
       required: false
     - id: 22
-      name: emergency_contact_relationship
-      label: Relationship
+      name: emergency_contact_relationship_2
+      label: Emergency Contact Relationship 2
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mother''}'
-      - '{''value'': ''Father''}'
-      - '{''value'': ''Brother''}'
-      - '{''value'': ''Sister''}'
-      - '{''value'': ''Spouse''}'
-      - '{''value'': ''Other''}'
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Other
       required: false
     - id: 23
       name: emergency_contact_organisation

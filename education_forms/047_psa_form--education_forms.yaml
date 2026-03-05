@@ -16,120 +16,73 @@ inputSchema:
     pages:
     - id: 1
       name: media_declaration
-      label: media_declaration
-      hint: null
-      type: text
+      label: Media Declaration
+      hint: Please declare the number of children in your household.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: terms_and_conditions
-      label: terms_and_conditions
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Terms and Conditions
+      hint: Please accept our terms and conditions.
+      type: checkbox
+      options:
+      - I accept
+      - I do not accept
+      required: true
     - id: 3
       name: first_kid
-      label: first_kid
-      hint: null
+      label: First Kid
+      hint: Provide details about your first child.
       type: text
       options: []
       required: false
     - id: 4
-      name: first_kid
-      label: first_kid
-      hint: null
+      name: second_kid
+      label: Second Kid
+      hint: Provide details about your second child.
       type: text
       options: []
       required: false
     - id: 5
-      name: first_kid
-      label: first_kid
-      hint: null
+      name: third_kid
+      label: Third Kid
+      hint: Provide details about your third child.
       type: text
       options: []
       required: false
     - id: 6
-      name: second_kid
-      label: second_kid
-      hint: null
+      name: fourth_kid
+      label: Fourth Kid
+      hint: Provide details about your fourth child.
       type: text
       options: []
       required: false
     - id: 7
-      name: second_kid
-      label: second_kid
-      hint: null
+      name: fifth_kid
+      label: Fifth Kid
+      hint: Provide details about your fifth child.
       type: text
       options: []
       required: false
     - id: 8
-      name: second_kid
-      label: second_kid
-      hint: null
+      name: sixth_kid
+      label: Sixth Kid
+      hint: Provide details about your sixth child.
       type: text
       options: []
       required: false
     - id: 9
-      name: third_kid
-      label: third_kid
+      name: media_declaration_2
+      label: Number of Children
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: third_kid
-      label: third_kid
+      name: media_declaration_3
+      label: Additional Information
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: third_kid
-      label: third_kid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: fourth_kid
-      label: fourth_kid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: fourth_kid
-      label: fourth_kid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: fourth_kid
-      label: fourth_kid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: fifth_kid
-      label: fifth_kid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: fifth_kid
-      label: fifth_kid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: fifth_kid
-      label: fifth_kid
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

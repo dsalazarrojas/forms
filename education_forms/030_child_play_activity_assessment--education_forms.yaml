@@ -1,164 +1,135 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Play Activity Assessment
     pages:
-      - id: 1
-        name: section_assessment_info
-        label: -- Assessment Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: child_name
-        label: Child Full Name
-        hint: Student being observed
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: observer_name
-        label: Observer Name
-        hint: Educator or therapist
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: observation_date
-        label: Observation Date
-        hint: When play session occurred
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: section_play_engagement
-        label: -- Play Engagement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: play_type
-        label: Type of Play Observed
-        hint: Developmental play category
-        type: select_one
-        options:
-          - label: Solitary Play
-            value: solitary
-          - label: Parallel Play
-            value: parallel
-          - label: Associative Play
-            value: associative
-          - label: Cooperative Play
-            value: cooperative
-        required: true
-      - id: 7
-        name: engagement_level
-        label: Level of Engagement
-        hint: Focus and intensity
-        type: select_one
-        options:
-          - label: High Engagement
-            value: high
-          - label: Moderate Engagement
-            value: moderate
-          - label: Low Engagement
-            value: low
-          - label: Disinterested or Detached
-            value: none
-        required: true
-      - id: 8
-        name: section_social_interactions
-        label: -- Social Interactions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: peer_cooperation
-        label: Cooperation with Peers
-        hint: Willingness to share and collaborate
-        type: select_one
-        options:
-          - label: Always Demonstrates
-            value: always
-          - label: Sometimes Demonstrates
-            value: sometimes
-          - label: Rarely Demonstrates
-            value: rarely
-        required: true
-      - id: 10
-        name: verbal_communication
-        label: Verbal Communication during play
-        hint: Frequency of speech
-        type: select_one
-        options:
-          - label: Frequent and Clear
-            value: frequent
-          - label: Occasional Communication
-            value: occasional
-          - label: Minimal or Non-verbal
-            value: minimal
-        required: true
-      - id: 11
-        name: section_skill_dev
-        label: -- Skill Development --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: demonstrated_skills
-        label: Skills Demonstrated
-        hint: Select all observed
-        type: select_multiple
-        options:
-          - label: Fine Motor Control
-            value: fine_motor
-          - label: Problem Solving and Logic
-            value: logic
-          - label: Imagination and Roleplay
-            value: imagination
-          - label: Empathy and Caring
-            value: empathy
-        required: false
-      - id: 13
-        name: section_summary_feedback
-        label: -- Summary and Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: session_summary
-        label: Qualitative summary of play session
-        hint: Detailed observations
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: activity_recommendations
-        label: Recommendations for future play activities
-        hint: How to support growth
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: today_date
-        label: Today Date
-        hint: Form completion date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_assessment_info
+      label: -- Assessment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Student being observed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observer_name
+      label: Observer Name
+      hint: Educator or therapist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: When play session occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_play_engagement
+      label: -- Play Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: play_type
+      label: Type of Play Observed
+      hint: Developmental play category
+      type: select_one
+      options:
+      - Solitary Play
+      - Parallel Play
+      - Associative Play
+      - Cooperative Play
+      required: true
+    - id: 7
+      name: engagement_level
+      label: Level of Engagement
+      hint: Focus and intensity
+      type: select_one
+      options:
+      - High Engagement
+      - Moderate Engagement
+      - Low Engagement
+      - Disinterested or Detached
+      required: true
+    - id: 8
+      name: section_social_interactions
+      label: -- Social Interactions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: peer_cooperation
+      label: Cooperation with Peers
+      hint: Willingness to share and collaborate
+      type: select_one
+      options:
+      - Always Demonstrates
+      - Sometimes Demonstrates
+      - Rarely Demonstrates
+      required: true
+    - id: 10
+      name: verbal_communication
+      label: Verbal Communication during play
+      hint: Frequency of speech
+      type: select_one
+      options:
+      - Frequent and Clear
+      - Occasional Communication
+      - Minimal or Non-verbal
+      required: true
+    - id: 11
+      name: section_skill_dev
+      label: -- Skill Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: demonstrated_skills
+      label: Skills Demonstrated
+      hint: Select all observed
+      type: select_multiple
+      options:
+      - Fine Motor Control
+      - Problem Solving and Logic
+      - Imagination and Roleplay
+      - Empathy and Caring
+      required: false
+    - id: 13
+      name: section_summary_feedback
+      label: -- Summary and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: session_summary
+      label: Qualitative summary of play session
+      hint: Detailed observations
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: activity_recommendations
+      label: Recommendations for future play activities
+      hint: How to support growth
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: today_date
+      label: Today Date
+      hint: Form completion date
+      type: date
+      options: []
+      required: true

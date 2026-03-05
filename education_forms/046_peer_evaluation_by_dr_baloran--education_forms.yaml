@@ -4,201 +4,78 @@ inputSchema:
     title: Peer Evaluation By Dr. Baloran
     pages:
     - id: 1
-      name: page1
-      label: first_name_label
-      hint: null
+      name: first_page
+      label: First Name
+      hint: Enter your first name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: first_name
-      label: first_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: email
-      hint: null
+      name: email_page
+      label: Email
+      hint: Enter your email address
       type: email
       options: []
       required: true
-    - id: 4
-      name: phone
-      label: phone
-      hint: null
+    - id: 3
+      name: phone_page
+      label: Phone Number
+      hint: Enter your phone number
       type: text
       options: []
-      required: false
-    - id: 5
-      name: select_one
-      label: rating
-      hint: null
+      required: true
+    - id: 4
+      name: rating_page
+      label: Rating of Dr. Baloran's Teaching Style
+      hint: Good or Fair
       type: select_one
       options:
       - Good
       - Fair
+      required: true
+    - id: 5
+      name: note_page
+      label: Additional Comments
+      hint: Provide any additional comments about Dr. Baloran's performance
+      type: note
+      options: []
       required: false
     - id: 6
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: date
-      label: date
-      hint: null
+      name: date_page
+      label: Date of Evaluation
+      hint: Enter the date of the evaluation
       type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_page
+      label: Time of Evaluation
+      hint: Enter the time of the evaluation
+      type: time
       options: []
       required: true
     - id: 8
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
+      name: second_page
+      label: Rating of Dr. Baloran's Communication Skills
+      hint: Good or Fair
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: first_name
-      label: first_name
-      hint: null
-      type: text
-      options: []
+      - Good
+      - Fair
       required: true
-    - id: 15
-      name: last_name
-      label: last_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: rating
-      label: rating
-      hint: null
+    - id: 9
+      name: third_page
+      label: Rating of Dr. Baloran's Organization and Preparation
+      hint: Good or Fair
       type: select_one
       options:
       - Good
       - Fair
-      required: false
-    - id: 17
-      name: rating
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 18
-      name: rating
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 19
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: rating
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 22
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: note
-      label: note
-      hint: null
+      required: true
+    - id: 10
+      name: fourth_page
+      label: Additional Comments (2)
+      hint: Provide any additional comments about Dr. Baloran's performance
       type: note
       options: []
-      required: false
-    - id: 25
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

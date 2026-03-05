@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 4
       name: phone
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Educator''}'
-      - '{''value'': ''Program Organizer''}'
-      - '{''value'': ''Both''}'
+      - Educator
+      - Program Organizer
+      - Both
       required: false
     - id: 7
       name: workshop_info
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Other (Specify)''}'
+      - Email
+      - Phone
+      - Other (Specify)
       required: false
     - id: 9
       name: other_contact
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: follow_up

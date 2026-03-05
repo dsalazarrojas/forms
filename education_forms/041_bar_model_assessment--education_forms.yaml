@@ -80,9 +80,9 @@ inputSchema:
       hint: Do you understand what's being asked?
       type: select_one
       options:
-      - true
+      - 'True'
       - Somewhat
-      - false
+      - 'False'
       required: true
     - id: 10
       name: bar_model_description
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: false
     - id: 15

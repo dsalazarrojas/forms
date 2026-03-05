@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''8am - 12pm''}'
-      - '{''id'': 2, ''label'': ''12pm - 4pm''}'
-      - '{''id'': 3, ''label'': ''4pm - 8pm''}'
+      - 8am - 12pm
+      - 12pm - 4pm
+      - 4pm - 8pm
       required: false
     - id: 4
       name: electrician_details_form
@@ -51,7 +51,7 @@ inputSchema:
     - id: 7
       name: installation_time
       label: installation_time
-      hint: "HH:MM"
+      hint: HH:MM
       type: time
       options: []
       required: false
@@ -82,9 +82,9 @@ inputSchema:
       hint: Residential, Commercial, Industrial
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''residential''}'
-      - '{''id'': 2, ''label'': ''commercial''}'
-      - '{''id'': 3, ''label'': ''industrial''}'
+      - residential
+      - commercial
+      - industrial
       required: false
     - id: 12
       name: job_description
@@ -106,7 +106,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Done''}'
+      - New
+      - In Progress
+      - Done
       required: false

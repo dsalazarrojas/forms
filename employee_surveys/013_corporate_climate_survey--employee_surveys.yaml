@@ -15,191 +15,102 @@ inputSchema:
     title: Corporate Climate Survey
     pages:
     - id: 1
-      name: employee_survey
-      label: Employee Survey
+      name: overall_health
+      label: Overall Health
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: overall_health
-      label: Overall Health
+      name: company_culture
+      label: Company Culture
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: company_culture
-      label: Company Culture
+      name: leadership_support
+      label: Leadership Support
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: leadership_support
-      label: Leadership Support
+      name: employee_engagement
+      label: Employee Engagement
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: company_values
-      label: Company Values
-      hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': ''Very good''}'
-      - '{''label'': ''Somewhat good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat bad''}'
-      - '{''label'': ''Very bad''}'
-      required: false
+      - Strongly disagree
+      - Somewhat disagree
+      - Neutral
+      - Somewhat agree
+      - Strongly agree
+      required: true
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly disagree
+      - Somewhat disagree
+      - Neutral
+      - Somewhat agree
+      - Strongly agree
+      required: true
     - id: 6
-      name: team_dynamics
-      label: Team Dynamics
+      name: job_security
+      label: Job Security
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: company_culture
-      label: Company Culture
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: overall_health
-      label: Overall Health
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: employee_engagement
-      label: Employee Engagement
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Strongly disagree''}'
-      - '{''label'': ''Somewhat disagree''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat agree''}'
-      - '{''label'': ''Strongly agree''}'
-      required: true
-    - id: 10
-      name: communication
-      label: Communication
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Strongly disagree''}'
-      - '{''label'': ''Somewhat disagree''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat agree''}'
-      - '{''label'': ''Strongly agree''}'
-      required: true
-    - id: 11
-      name: job_security
-      label: Job Security
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: job_security
-      label: Job Security
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: company_values
       label: Company Values
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: overall_health
-      label: Overall Health
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+    - id: 8
       name: team_dynamics
       label: Team Dynamics
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: company_culture
-      label: Company Culture
+    - id: 9
+      name: overall_health_2
+      label: Overall Health 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
-      name: leadership_support
-      label: Leadership Support
+    - id: 10
+      name: leadership_support_2
+      label: Leadership Support 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: employee_engagement
-      label: Employee Engagement
+    - id: 11
+      name: company_culture_2
+      label: Company Culture 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: communication
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: company_values
-      label: Company Values
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: job_security
-      label: Job Security
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+    - id: 12
       name: employee_survey
       label: Employee Survey
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: team_dynamics
-      label: Team Dynamics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: overall_health
-      label: Overall Health
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: company_values
-      label: Company Values
+    - id: 13
+      name: team_dynamics_2
+      label: Team Dynamics 2
       hint: null
       type: text
       options: []

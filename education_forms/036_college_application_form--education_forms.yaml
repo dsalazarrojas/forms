@@ -237,7 +237,7 @@ inputSchema:
       options:
       - Yes Will Apply
       - Maybe
-      - false
+      - 'False'
       required: true
     - id: 30
       name: fafsa_filed
@@ -245,8 +245,8 @@ inputSchema:
       hint: Free Application for Federal Student Aid
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - In Progress
       required: false
     - id: 31
@@ -294,5 +294,5 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true

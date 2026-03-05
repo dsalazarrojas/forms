@@ -4,200 +4,171 @@ inputSchema:
     title: GlyMed For You!
     pages:
     - id: 1
-      name: customer_service_forms
-      label: skin_care_quiz
-      hint: null
-      type: text
+      name: intro
+      label: Introduction
+      hint: Please take a few minutes to fill out this form to help us improve our
+        skincare services
+      type: note
       options: []
       required: false
     - id: 2
-      name: customer_service_forms
-      label: select_one
-      hint: null
+      name: experience
+      label: What is your experience with our skincare services?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: quality
+      label: How would you rate the quality of our skincare services?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: problem
+      label: Have you ever had a problem with our skincare services?
+      hint: Please select one of the options below
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 3
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
+      required: true
     - id: 5
-      name: time
-      label: time
-      hint: null
-      type: time
+      name: improvement
+      label: What would you like to see improved in our skincare services?
+      hint: Please type your answer
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
+      name: comments
+      label: Any additional comments or feedback?
+      hint: Please type your answer
+      type: note
       options: []
       required: false
     - id: 7
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: visit
+      label: How often do you visit our skincare services?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
     - id: 8
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: recommend
+      label: How likely are you to recommend our skincare services to a friend or
+        family member?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
     - id: 9
-      name: select_one
-      label: select_one
-      hint: null
+      name: products
+      label: What do you think about our skincare products?
+      hint: Please select one of the options below
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 10
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
+      name: purchased
+      label: Have you ever purchased our skincare products?
+      hint: Please select one of the options below
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 11
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: repurchase
+      label: How likely are you to repurchase our skincare products?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
     - id: 12
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
+      name: value
+      label: Do you think our skincare services are value for money?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 13
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
+      name: customer_service
+      label: What do you think about our customer service?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 14
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: problem_customer_service
+      label: Have you ever had a problem with our customer service?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 15
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: comparison
+      label: What do you think about our skincare services in comparison to others?
+      hint: Please select one of the options below
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 16
-      name: select_one
-      label: select_one
-      hint: null
+      name: use_again
+      label: How likely are you to use our skincare services again?
+      hint: Please select one of the options below
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      - Not sure
+      required: true
     - id: 17
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: phone
-      label: phone
-      hint: null
+      name: new_services
+      label: Would you like to see any new services or features in our skincare services?
+      hint: Please type your answer
       type: text
       options: []
-      required: false
-    - id: 22
-      name: note
-      label: note
-      hint: null
+      required: true
+    - id: 18
+      name: other_comments
+      label: Do you have any other comments or feedback?
+      hint: Please type your answer
       type: note
-      options: []
-      required: false
-    - id: 23
-      name: select_one
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: select_multiple
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 26
-      name: time
-      label: time
-      hint: null
-      type: time
       options: []
       required: false

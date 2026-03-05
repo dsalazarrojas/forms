@@ -16,26 +16,19 @@ inputSchema:
     pages:
     - id: 1
       name: page1
-      label: page1_label
+      label: page1
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: page2
-      label: page2_label
+      label: page2
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: page3
-      label: page3_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: safety_perception
       label: How safe do you feel when walking alone at night?
       hint: null
@@ -46,14 +39,14 @@ inputSchema:
       - Not very safe
       - Not at all safe
       required: false
-    - id: 5
-      name: page2
-      label: page2_label
+    - id: 4
+      name: page2_2
+      label: Page2 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: safety_perception_2
       label: Do you feel safe when walking alone on campus?
       hint: null
@@ -65,14 +58,14 @@ inputSchema:
       - Somewhat disagree
       - Strongly disagree
       required: false
-    - id: 7
-      name: page2
-      label: page2_label
+    - id: 6
+      name: page3
+      label: page3
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: safety_perception_3
       label: How safe do you feel when you're walking on a parking lot or garage?
       hint: null
@@ -83,14 +76,14 @@ inputSchema:
       - Not very safe
       - Not at all safe
       required: false
-    - id: 9
-      name: page3
-      label: page3_label
+    - id: 8
+      name: page4
+      label: page4
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: safety_perception_4
       label: Do you feel safe when you are walking in a poorly lit area?
       hint: null
@@ -101,14 +94,14 @@ inputSchema:
       - Not very safe
       - Not at all safe
       required: false
-    - id: 11
-      name: page3
-      label: page3_label
+    - id: 10
+      name: page5
+      label: page5
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 11
       name: safety_perception_5
       label: Do you feel safe when you are alone in a parking garage?
       hint: null
@@ -120,14 +113,14 @@ inputSchema:
       - Somewhat disagree
       - Strongly disagree
       required: false
-    - id: 13
-      name: page3
-      label: page3_label
+    - id: 12
+      name: page6
+      label: page6
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
+    - id: 13
       name: safety_score
       label: How would you rate your sense of safety on a scale of 1 to 5?
       hint: null
@@ -139,30 +132,33 @@ inputSchema:
       - Somewhat agree
       - Very safe
       required: false
-    - id: 15
-      name: page4
-      label: page4_label
+    - id: 14
+      name: page7
+      label: page7
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 15
       name: safety_score_2
-      label: Would you rate your sense of safety as 1?
+      label: Would you rate your sense of safety as 1-5 when walking in a poorly lit
+        area?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Very safe
+      - Somewhat safe
+      - Not very safe
+      - Not at all safe
       required: false
-    - id: 17
-      name: page4
-      label: page4_label
+    - id: 16
+      name: page8
+      label: page8
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 17
       name: safety_score_3
       label: How would you rate your sense of safety when walking alone in a parking
         garage?
@@ -175,45 +171,33 @@ inputSchema:
       - Somewhat disagree
       - Strongly disagree
       required: false
+    - id: 18
+      name: page9
+      label: page9
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 19
-      name: page4
-      label: page4_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: safety_score_4
-      label: Would you rate your sense of safety as 1-5 when walking in a poorly lit
-        area?
-      hint: null
-      type: select_multiple
-      options:
-      - Very safe
-      - Somewhat safe
-      - Not very safe
-      - Not at all safe
-      required: false
-    - id: 21
-      name: page5
-      label: page5_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page5
-      label: page5_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: safety_perception_6
       label: Are there any areas around the parking garage that are considered unsafe?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: page10
+      label: page10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
       required: false

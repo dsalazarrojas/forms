@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Customer 1''}'
-      - '{''id'': 2, ''label'': ''Customer 2''}'
-      - '{''id'': 3, ''label'': ''Customer 3''}'
+      - Customer 1
+      - Customer 2
+      - Customer 3
       required: false
     - id: 4
       name: get_an_estimate
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Today''}'
-      - '{''id'': 2, ''label'': ''Tomorrow''}'
-      - '{''id'': 3, ''label'': ''Next 7 Days''}'
+      - Today
+      - Tomorrow
+      - Next 7 Days
       required: false
     - id: 7
       name: service_address
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Chat Jimmy''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Chat Jimmy
+      - Other
       required: false
     - id: 11
       name: customer_message

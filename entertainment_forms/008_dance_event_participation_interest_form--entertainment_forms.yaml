@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Available''}'
-      - '{''id'': 2, ''name'': ''Unavailable''}'
+      - Available
+      - Unavailable
       required: true
     - id: 3
       name: dance_preferences
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Hip Hop''}'
-      - '{''id'': 2, ''name'': ''Contemporary''}'
-      - '{''id'': 3, ''name'': ''Ballroom''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Hip Hop
+      - Contemporary
+      - Ballroom
+      - Other
       required: false
     - id: 4
       name: additional_info

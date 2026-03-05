@@ -44,16 +44,11 @@ inputSchema:
       hint: e.g., Mother, Father, Guardian
       type: select_one
       options:
-      - label: Mother
-        value: mother
-      - label: Father
-        value: father
-      - label: Step-parent
-        value: stepparent
-      - label: Legal Guardian
-        value: guardian
-      - label: Other
-        value: other
+      - Mother
+      - Father
+      - Step-parent
+      - Legal Guardian
+      - Other
       required: true
     - id: 7
       name: contact_1_phone_primary
@@ -89,14 +84,10 @@ inputSchema:
       hint: e.g., Aunt, Grandparent, Friend
       type: select_one
       options:
-      - label: Grandparent
-        value: grandparent
-      - label: Aunt or Uncle
-        value: relative
-      - label: Family Friend
-        value: friend
-      - label: Neighbor
-        value: neighbor
+      - Grandparent
+      - Aunt or Uncle
+      - Family Friend
+      - Neighbor
       required: true
     - id: 12
       name: contact_2_phone

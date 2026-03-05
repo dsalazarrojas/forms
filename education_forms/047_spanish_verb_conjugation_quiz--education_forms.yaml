@@ -1,192 +1,184 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Spanish Verb Conjugation Quiz
     pages:
     - id: 1
-      name: spanish_verb_conjugation_quiz
-      label: Spanish Verb Conjugation Quiz
+      name: question_1
+      label: Conjugate the verb 'hablar' in the present tense.
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - hablo (I speak)
+      - hableo (I speak)
+      - hablo (hablo)
+      - hablo (he speaks)
+      - habla (she/he/it speaks)
+      required: true
     - id: 2
-      name: spanish_verb_conjugation_quiz_question
+      name: question_2
       label: What is the correct translation of the following verb in the present
         tense?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - habló (he/she/it spoke)
+      - hablamos (we speak)
+      - hablan (they speak)
+      - hablo (I speak)
+      - hablas (you speak)
+      - habla (he/she/it speaks)
+      - hablábamos (we spoke)
+      - hablás (you spoke)
+      - hablaron (they spoke)
       required: false
     - id: 3
-      name: spanish_verb_conjugation_quiz_answer
-      label: Answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: spanish_verb_conjugation_quiz_hint
-      label: Spanish Verb Conjugation Quiz Hint
-      hint: Please enter a translation.
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: spanish_verb_conjugation_quiz_question_1
-      label: Conjugate the verb 'hablar' in the present tense.
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: spanish_verb_conjugation_quiz_answer_1
-      label: Answer 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: spanish_verb_conjugation_quiz_hint_1
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: spanish_verb_conjugation_quiz_question_2
+      name: question_3
       label: Conjugate the verb 'comenzar' in the present tense.
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: spanish_verb_conjugation_quiz_answer_2
-      label: Answer 2
-      hint: null
+    - id: 4
+      name: question_4
+      label: How would you translate this verb into English?
+      hint: Provide a translation of the verb in the original language.
       type: text
       options: []
-      required: false
-    - id: 10
-      name: spanish_verb_conjugation_quiz_hint_2
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: spanish_verb_conjugation_quiz_question_3
+      required: true
+    - id: 5
+      name: question_5
       label: Conjugate the verb 'vivir' in the present tense.
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: spanish_verb_conjugation_quiz_answer_3
-      label: Answer 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: spanish_verb_conjugation_quiz_hint_3
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: spanish_verb_conjugation_quiz_question_4
+      type: select_one
+      options:
+      - vivo (I live)
+      - vivimos (we live)
+      - vivir (I live)
+      - vives (you live)
+      - vive (he/she/it lives)
+      - vivimos (they live)
+      - vivieron (we lived)
+      - vivieron (you lived)
+      - vivieron (he/she/it lived)
+      - vivimos (they lived)
+      required: true
+    - id: 6
+      name: question_6
       label: Conjugate the verb 'poder' in the present tense.
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: spanish_verb_conjugation_quiz_answer_4
-      label: Answer 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: spanish_verb_conjugation_quiz_hint_4
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: spanish_verb_conjugation_quiz_question_5
+      type: select_multiple
+      options:
+      - puedo (I can)
+      - podemos (we can)
+      - pudes (you can)
+      - pueden (you can)
+      - puedo (he/she/it can)
+      - podían (they can)
+      - podremos (we can)
+      - pude (you can)
+      - pudieron (they can)
+      - podéis (you can)
+      required: true
+    - id: 7
+      name: question_7
       label: Conjugate the verb 'ser' in the present tense.
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: spanish_verb_conjugation_quiz_answer_5
-      label: Answer 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: spanish_verb_conjugation_quiz_hint_5
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: spanish_verb_conjugation_quiz_question_6
+      type: select_one
+      options:
+      - soy (I am)
+      - somos (we are)
+      - eres (you are)
+      - son (he/she/it are)
+      - somos (they are)
+      - era (I was)
+      - hemos (we have)
+      - has (you have)
+      - han (they have)
+      - es (he/she/it has)
+      required: true
+    - id: 8
+      name: question_8
       label: Conjugate the verb 'ir' in the present tense.
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: spanish_verb_conjugation_quiz_answer_6
-      label: Answer 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: spanish_verb_conjugation_quiz_hint_6
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: spanish_verb_conjugation_quiz_question_7
+      type: select_multiple
+      options:
+      - voy (I go)
+      - vay (you go)
+      - va (he/she/it goes)
+      - vamos (we go)
+      - vais (you go)
+      - vaya (I am going)
+      - vayamos (we are going)
+      - vay (he/she/it is going)
+      - vayán (they are going)
+      - vayamos (they are going)
+      required: true
+    - id: 9
+      name: question_9
       label: Conjugate the verb 'tener' in the present tense.
       hint: null
+      type: select_one
+      options:
+      - tengo (I have)
+      - tenemos (we have)
+      - tiene (you have)
+      - tiene (he/she/it has)
+      - tengan (they have)
+      - tenía (I had)
+      - teníamos (we had)
+      - tenías (you had)
+      - tenían (they had)
+      - tengo (he/she/it had)
+      required: true
+    - id: 10
+      name: question_10
+      label: Question 10
+      hint: Provide the verb in the original language and your translation.
       type: text
       options: []
-      required: false
-    - id: 24
-      name: spanish_verb_conjugation_quiz_answer_7
-      label: Answer 7
+      required: true
+    - id: 11
+      name: question_11
+      label: Question 11
+      hint: Provide your translation of the verb.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: question_12
+      label: Conjugate the verb 'pensar' in the present tense.
+      hint: null
+      type: select_one
+      options:
+      - pienso (I think)
+      - pensamos (we think)
+      - pienes (you think)
+      - piensas (you think)
+      - piensa (he/she/it thinks)
+      - pensamos (they think)
+      required: true
+    - id: 13
+      name: question_13
+      label: What is the correct answer to the following question?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: spanish_verb_conjugation_quiz_hint_7
-      label: None
+      required: true
+    - id: 14
+      name: question_14
+      label: Question 14
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - soy (I am)
+      - somos (we are)
+      - eres (you are)
+      - son (he/she/it are)
+      - somos (they are)
+      - era (I was)
+      - hemos (we have)
+      - has (you have)
+      - han (they have)
+      - es (he/she/it has)
+      required: true

@@ -38,9 +38,9 @@ inputSchema:
       type: select_one
       options:
       - None
-      - '{''Level 1'': None}'
-      - '{''Level 2'': None}'
-      - '{''Level 3'': None}'
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 6
       name: membership_status
@@ -62,7 +62,7 @@ inputSchema:
     - id: 8
       name: time_joined
       label: Time Joined
-      hint: "Time Joined (HH:MM AM/PM)"
+      hint: Time Joined (HH:MM AM/PM)
       type: time
       options: []
       required: false

@@ -51,12 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Single'', ''label'': ''Single''}'
-      - '{''value'': ''In a relationship'', ''label'': ''In a relationship''}'
-      - '{''value'': ''In a long-term relationship'', ''label'': ''In a long-term
-        relationship''}'
-      - '{''value'': ''In a marriage'', ''label'': ''In a marriage''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Single
+      - In a relationship
+      - In a long-term relationship
+      - In a marriage
+      - Other
       required: false
     - id: 8
       name: years_in_relationship
@@ -71,13 +70,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Online'', ''label'': ''Online''}'
-      - '{''value'': ''Mutual friend'', ''label'': ''Mutual friend''}'
-      - '{''value'': ''Social media'', ''label'': ''Social media''}'
-      - '{''value'': ''Through a friend of a friend'', ''label'': ''Through a friend
-        of a friend''}'
-      - '{''value'': ''At an event'', ''label'': ''At an event''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Online
+      - Mutual friend
+      - Social media
+      - Through a friend of a friend
+      - At an event
+      - Other
       required: false
     - id: 10
       name: what_did_you_do_before_meeting
@@ -85,11 +83,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Talked on the phone'', ''label'': ''Talked on the phone''}'
-      - '{''value'': ''Sent a text message'', ''label'': ''Sent a text message''}'
-      - '{''value'': ''Sent a message online'', ''label'': ''Sent a message online''}'
-      - '{''value'': ''Sent an email'', ''label'': ''Sent an email''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Talked on the phone
+      - Sent a text message
+      - Sent a message online
+      - Sent an email
+      - Other
       required: false
     - id: 11
       name: what_did_you_expect
@@ -97,10 +95,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Fun and casual'', ''label'': ''Fun and casual''}'
-      - '{''value'': ''Romantic'', ''label'': ''Romantic''}'
-      - '{''value'': ''Friendship'', ''label'': ''Friendship''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Fun and casual
+      - Romantic
+      - Friendship
+      - Other
       required: false
     - id: 12
       name: how_long_have_you_known
@@ -108,13 +106,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''A few hours'', ''label'': ''A few hours''}'
-      - '{''value'': ''A few days'', ''label'': ''A few days''}'
-      - '{''value'': ''A few weeks'', ''label'': ''A few weeks''}'
-      - '{''value'': ''A few months'', ''label'': ''A few months''}'
-      - '{''value'': ''Less than a week'', ''label'': ''Less than a week''}'
-      - '{''value'': ''More than a month'', ''label'': ''More than a month''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - A few hours
+      - A few days
+      - A few weeks
+      - A few months
+      - Less than a week
+      - More than a month
+      - Other
       required: false
     - id: 13
       name: what_is_interesting_to_you
@@ -122,12 +120,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Hobbies'', ''label'': ''Hobbies''}'
-      - '{''value'': ''Hiking'', ''label'': ''Hiking''}'
-      - '{''value'': ''Movies'', ''label'': ''Movies''}'
-      - '{''value'': ''Reading'', ''label'': ''Reading''}'
-      - '{''value'': ''Traveling'', ''label'': ''Traveling''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Hobbies
+      - Hiking
+      - Movies
+      - Reading
+      - Traveling
+      - Other
       required: false
     - id: 14
       name: how_much_do_you_like
@@ -135,10 +133,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A lot'', ''label'': ''A lot''}'
-      - '{''value'': ''Somewhat'', ''label'': ''Somewhat''}'
-      - '{''value'': ''Not very much'', ''label'': ''Not very much''}'
-      - '{''value'': ''Not at all'', ''label'': ''Not at all''}'
+      - A lot
+      - Somewhat
+      - Not very much
+      - Not at all
       required: false
     - id: 15
       name: have_you_met_siblings
@@ -146,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: have_you_met_children
@@ -155,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: have_you_met_parents
@@ -164,8 +162,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: have_you_met_friends
@@ -173,8 +171,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: have_you_met_family
@@ -182,8 +180,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: how_do_you_feel
@@ -191,11 +189,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Happy'', ''label'': ''Happy''}'
-      - '{''value'': ''Sad'', ''label'': ''Sad''}'
-      - '{''value'': ''Excited'', ''label'': ''Excited''}'
-      - '{''value'': ''Bored'', ''label'': ''Bored''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Happy
+      - Sad
+      - Excited
+      - Bored
+      - Other
       required: false
     - id: 21
       name: would_you_like_meeting
@@ -203,8 +201,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: would_like_to_meet_in_person
@@ -212,8 +210,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: rate_app
@@ -221,11 +219,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
-      - '{''value'': 4, ''label'': 4}'
-      - '{''value'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 24
       name: have_you_been_in_treatment
@@ -233,8 +231,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: how_many_times

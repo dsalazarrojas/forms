@@ -11,182 +11,92 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: historical_quiz_the_crusades_input
-      label: Historical Quiz The Crusades
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: historical_quiz_the_crusades_input_2
-      label: Historical Quiz The Crusades Input 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: historical_quiz_the_crusades_date
-      label: Historical Quiz The Crusades Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: historical_quiz_the_crusades_time
-      label: Historical Quiz The Crusades Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: historical_quiz_the_crusades_note
-      label: Historical Quiz The Crusades Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: historical_quiz_the_crusades_email
-      label: Historical Quiz The Crusades Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: historical_quiz_the_crusades_phone
-      label: Historical Quiz The Crusades Phone
+      name: historical_quiz_causes
+      label: Causes of the Crusades
       hint: null
       type: text
       options: []
       required: false
+    - id: 3
+      name: historical_quiz_leaders
+      label: Leaders of the Crusades
+      hint: null
+      type: select_one
+      options:
+      - Saladin
+      - Frederick I
+      - Bohemond
+      required: false
+    - id: 4
+      name: historical_events
+      label: Events of the Crusades
+      hint: null
+      type: select_multiple
+      options:
+      - The fall of Jerusalem
+      - The rise of the Ottoman Empire
+      - The establishment of the Kingdom of Jerusalem
+      required: false
+    - id: 5
+      name: historical_outcome
+      label: Outcome of the Crusades
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: historical_figures
+      label: Key Figures of the Crusades
+      hint: null
+      type: select_multiple
+      options:
+      - Saladin
+      - Frederick I
+      - Bohemond
+      - Richard the Lionheart
+      required: false
+    - id: 7
+      name: historical_start_time
+      label: Start Time of the Crusades
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: historical_location
+      label: Location of the Crusades
+      hint: null
+      type: select_multiple
+      options:
+      - Europe
+      - Middle East
+      - Mediterranean
+      required: false
     - id: 9
-      name: historical_quiz_the_crusades_text
-      label: Historical Quiz The Crusades Text
+      name: historical_motivation
+      label: Motivation of the Crusades
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: historical_quiz_the_crusades_text_2
-      label: Historical Quiz The Crusades Text 2
+      name: historical_byzantine_impact
+      label: Impact on the Byzantine Empire
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: historical_quiz_the_crusades_integer
-      label: Historical Quiz The Crusades Integer
+      name: historical_church_role
+      label: Role of the Church in the Crusades
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 12
-      name: historical_quiz_the_crusades_decimal
-      label: Historical Quiz The Crusades Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: historical_quiz_the_crusades_select_one
-      label: Historical Quiz The Crusades Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: historical_quiz_the_crusades_select_multiple
-      label: Historical Quiz The Crusades Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: historical_quiz_the_crusades_date
-      label: Historical Quiz The Crusades Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: historical_quiz_the_crusades_time
-      label: Historical Quiz The Crusades Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: historical_quiz_the_crusades_note
-      label: Historical Quiz The Crusades Note
+      name: historical_note
+      label: Additional Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 18
-      name: historical_quiz_the_crusades_email
-      label: Historical Quiz The Crusades Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: historical_quiz_the_crusades_phone
-      label: Historical Quiz The Crusades Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: historical_quiz_the_crusades_text
-      label: Historical Quiz The Crusades Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: historical_quiz_the_crusades_text_2
-      label: Historical Quiz The Crusades Text 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: historical_quiz_the_crusades_integer
-      label: Historical Quiz The Crusades Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: historical_quiz_the_crusades_decimal
-      label: Historical Quiz The Crusades Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: historical_quiz_the_crusades_select_one
-      label: Historical Quiz The Crusades Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: historical_quiz_the_crusades_select_multiple
-      label: Historical Quiz The Crusades Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

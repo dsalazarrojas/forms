@@ -4,78 +4,98 @@ inputSchema:
     title: Education Class Registration Form
     pages:
     - id: 1
-      name: class_registration_form
-      label: Registration Form
-      hint: null
+      name: personal_details
+      label: What is your name?
+      hint: Please enter your full name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_information
-      label: Contact Information
-      hint: Enter contact information
+      label: Do you have a parent/guardian's contact number?
+      hint: Enter a valid phone number
       type: text
       options: []
       required: false
     - id: 3
-      name: personal_details
-      label: Personal Details
-      hint: Enter personal details
-      type: text
-      options: []
+      name: class_enrollment
+      label: Are you a returning student?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 4
-      name: class_enrollment
-      label: Class Enrollment
-      hint: Select which class to enroll
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: contact_information
-      label: Contact Information
-      hint: Enter contact information
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: personal_details
-      label: Personal Details
-      hint: Enter personal details
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: class_enrollment
-      label: Class Enrollment
-      hint: Select which class to enroll
+      name: class_enrollment_2
+      label: Which class do you want to enroll in?
+      hint: Select one class
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: contact_information
-      label: Contact Information
-      hint: null
-      type: email
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 5
+      name: contact_method
+      label: How would you like to be contacted?
+      hint: Choose one contact method
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: What is your date of birth?
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: allergies_health_issues
+      label: Do you have any allergies or health issues we should be aware of?
+      hint: List any allergies or health issues
+      type: text
       options: []
       required: false
-    - id: 9
-      name: personal_details
-      label: Personal Details
+    - id: 8
+      name: previous_experience
+      label: Do you have any previous education experience?
       hint: null
-      type: number
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 9
+      name: special_needs
+      label: Do you have any special needs requirements?
+      hint: List any special needs
+      type: text
       options: []
       required: false
     - id: 10
-      name: class_enrollment
-      label: Class Enrollment
-      hint: Select which class to enroll
-      type: select_one
+      name: contact_time
+      label: What time would you like to be contacted during the day?
+      hint: HH -MM 24-hour format
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Do you have any other comments or concerns?
+      hint: Please share any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: Do you confirm your enrollment?
+      hint: null
+      type: radio
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Free'', ''label'': ''Free''}'
-      - '{''value'': ''Paid'', ''label'': ''Paid''}'
+      - Free
+      - Paid
       required: true
     - id: 3
       name: select_trip
@@ -25,9 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''One-way'', ''label'': ''One way''}'
-      - '{''value'': ''Round-trip'', ''label'': ''Round trip''}'
-      - '{''value'': ''Oneway'', ''label'': ''One way''}'
+      - One way
+      - Round trip
       required: true
     - id: 4
       name: pickup

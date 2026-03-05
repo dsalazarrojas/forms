@@ -5,181 +5,108 @@ inputSchema:
     pages:
     - id: 1
       name: course_assessment
-      label: Course Assessment
+      label: What's your assessment of the course?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: student_name
-      label: Student Name
+      name: course_instructor
+      label: Who is your course instructor?
+      hint: null
+      type: select_multiple
+      options:
+      - Professor John
+      - Professor Jane
+      required: false
+    - id: 3
+      name: instructor_feedback
+      label: What did you learn from your instructor?
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: email_address
-      label: Email Address
-      hint: Your Email Address
+    - id: 4
+      name: course_rating
+      label: How would you rate your experience with the course?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: course_like
+      label: What do you like about the course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_feedback
+      label: What do you think the course could improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_sent_to
+      label: Email address to send feedback to
+      hint: null
       type: email
       options: []
       required: false
-    - id: 4
+    - id: 8
       name: course_name
       label: Course Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: assessment_rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: assessment_comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: submitted_by
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: email_sent_to
-      label: Email Sent To
-      hint: Enter the email address to send feedback to
-      type: email
-      options: []
-      required: false
     - id: 9
-      name: submitted
+      name: submitted_time
       label: Submitted
       hint: null
       type: time
       options: []
       required: false
     - id: 10
-      name: course_instructor
-      label: Course Instructor
+      name: student_feedback_2
+      label: Student Feedback 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: course_instructor_multiple
-      label: Course Instructor(s)
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 12
-      name: submitted_by_2
-      label: Submitted By
+      name: student_feedback_3
+      label: What do you dislike about the course?
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_evaluation
+      label: How would you evaluate the course?
+      hint: null
+      type: number
       options: []
       required: false
     - id: 13
-      name: course_name_2
-      label: Course Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: assessment_comments_2
+      name: assessment_comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
+    - id: 14
+      name: student_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 15
-      name: submitted_2
-      label: Submitted
+      name: email
+      label: Email
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: submitter_2
-      label: Student
-      hint: null
-      type: select_one
-      options:
-      - Student 1
-      - Student 2
-      - Student 3
-      required: false
-    - id: 17
-      name: submitted_by_3
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: course_name_3
-      label: Course Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submitted_3
-      label: Submitted
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: submitted_by_4
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: course_instructor_2
-      label: Course Instructor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: course_instructor_3
-      label: Course Instructor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitted_4
-      label: Submitted
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: submitted_by_5
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted_5
-      label: Submitted
-      hint: null
-      type: time
+      type: email
       options: []
       required: false

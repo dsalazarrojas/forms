@@ -185,7 +185,7 @@ inputSchema:
       options:
       - Yes - No limitations
       - Yes - With accommodations
-      - false
+      - 'False'
       required: true
     - id: 23
       name: physical_limitations
@@ -213,7 +213,7 @@ inputSchema:
       options:
       - Yes - Personal vehicle
       - Yes - 4WD vehicle
-      - false
+      - 'False'
       required: true
     - id: 26
       name: drivers_license
@@ -221,8 +221,8 @@ inputSchema:
       hint: Valid license status
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: emergency_contact_name
@@ -251,8 +251,8 @@ inputSchema:
       hint: Is vaccination up to date
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 31
@@ -296,8 +296,8 @@ inputSchema:
       hint: Do you consent to background check
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: confidentiality_agreement
@@ -305,8 +305,8 @@ inputSchema:
       hint: Do you agree to confidentiality terms
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 38
       name: safety_training_required
@@ -315,7 +315,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Understand
-      - false
+      - 'False'
       required: true
     - id: 39
       name: additional_information

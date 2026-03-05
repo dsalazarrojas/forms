@@ -65,7 +65,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Category 1'', ''value'': ''Category 1''}'
+      - Category 1
       - Other
       required: false
     - id: 10
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Subcategory 1'', ''value'': 1}'
-      - '{''id'': 2, ''name'': ''Subcategory 2'', ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 11
       name: note
@@ -90,6 +90,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false

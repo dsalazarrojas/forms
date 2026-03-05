@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Gasoline''}'
-      - '{''id'': 2, ''name'': ''Diesel''}'
-      - '{''id'': 3, ''name'': ''Hybrid''}'
-      - '{''id'': 4, ''name'': ''Electric''}'
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
       required: false
     - id: 3
       name: engine_condition
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Normal''}'
-      - '{''id'': 2, ''name'': ''Abnormal''}'
-      - '{''id'': 3, ''name'': ''Critical''}'
+      - Normal
+      - Abnormal
+      - Critical
       required: true
     - id: 4
       name: oil_level
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Normal''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Normal
+      - High
       required: true
     - id: 5
       name: temperature
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''White''}'
-      - '{''id'': 2, ''name'': ''Blue''}'
-      - '{''id'': 3, ''name'': ''Black''}'
+      - White
+      - Blue
+      - Black
       required: false
     - id: 8
       name: vibration
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 9
       name: leaks
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''Low''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - None
+      - Low
+      - High
       required: false
     - id: 10
       name: engine_hours
@@ -98,10 +98,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Gasoline''}'
-      - '{''id'': 2, ''name'': ''Diesel''}'
-      - '{''id'': 3, ''name'': ''Hybrid''}'
-      - '{''id'': 4, ''name'': ''Electric''}'
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
       required: true
     - id: 12
       name: engine_oil_type
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Mineral''}'
-      - '{''id'': 2, ''name'': ''Synthetic''}'
-      - '{''id'': 3, ''name'': ''Synthetic Blend''}'
+      - Mineral
+      - Synthetic
+      - Synthetic Blend
       required: true
     - id: 13
       name: coolant_temperature
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Normal''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Normal
+      - High
       required: true
     - id: 15
       name: engine_coolant
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: true
     - id: 16
       name: transmission_temperature
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Fluid''}'
-      - '{''id'': 2, ''name'': ''Low''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Fluid
+      - Low
+      - High
       required: false
     - id: 18
       name: trans_fuild_level
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Low''}'
-      - '{''id'': 3, ''name'': ''Fluid''}'
+      - High
+      - Low
+      - Fluid
       required: true
     - id: 19
       name: drive_type
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Front-Wheel Drive''}'
-      - '{''id'': 2, ''name'': ''Rear-Wheel Drive''}'
-      - '{''id'': 3, ''name'': ''Four-Wheel Drive''}'
+      - Front-Wheel Drive
+      - Rear-Wheel Drive
+      - Four-Wheel Drive
       required: true
     - id: 20
       name: engine_type
@@ -183,10 +183,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Gasoline''}'
-      - '{''id'': 2, ''name'': ''Diesel''}'
-      - '{''id'': 3, ''name'': ''Hybrid''}'
-      - '{''id'': 4, ''name'': ''Electric''}'
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
       required: true
     - id: 21
       name: engine_oil_condition
@@ -194,9 +194,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Clean''}'
-      - '{''id'': 2, ''name'': ''Dirty''}'
-      - '{''id'': 3, ''name'': ''Severe''}'
+      - Clean
+      - Dirty
+      - Severe
       required: true
     - id: 22
       name: fuel_level
@@ -204,9 +204,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Normal''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Normal
+      - Low
       required: true
     - id: 23
       name: transmission_condition
@@ -214,9 +214,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Bad''}'
+      - Good
+      - Fair
+      - Bad
       required: true
     - id: 24
       name: engine_rpm_range

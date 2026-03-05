@@ -4,58 +4,66 @@ inputSchema:
     title: Herons Formula Math Quiz
     pages:
     - id: 1
-      name: user_input
-      label: What is the length of side a
+      name: herons_formula
+      label: What is the formula for the area of a triangle?
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 2
-      name: user_input_2
-      label: What is the length of side b
+      name: side_a
+      label: What is the length of side a?
       hint: null
       type: number
       options: []
       required: true
     - id: 3
-      name: user_input_3
-      label: What is the length of side c
+      name: side_b
+      label: What is the length of side b?
       hint: null
       type: number
       options: []
       required: true
     - id: 4
-      name: user_input_4
-      label: What is the length of side a
+      name: side_c
+      label: What is the length of side c?
       hint: null
       type: number
       options: []
       required: true
     - id: 5
-      name: user_input_5
-      label: What is the length of side b
+      name: herons_result
+      label: What is the area of the triangle using Heron's formula?
       hint: null
       type: number
       options: []
       required: true
     - id: 6
-      name: user_input_6
-      label: What is the length of side c
+      name: equal_sides_case
+      label: How does Heron's formula handle the case where two sides are equal?
       hint: null
-      type: number
+      type: text
       options: []
       required: true
     - id: 7
-      name: result
-      label: What is the area of the triangle
+      name: side_length_effect
+      label: What is the effect of increasing the length of one side on the area of
+        the triangle?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: example_triangle
+      label: Can you provide an example of a triangle with equal sides?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: min_required_sides
+      label: What is the minimum number of sides required to use Heron's formula?
       hint: null
       type: number
       options: []
       required: true
-    - id: 8
-      name: result_2
-      label: How many times did I get it wrong
-      hint: null
-      type: number
-      options: []
-      required: false

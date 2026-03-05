@@ -1,86 +1,67 @@
 inputSchema:
   type: object
   properties:
-    title: script_lab_submission
+    title: Script Lab Submission
     pages:
     - id: 1
-      name: script_lab_submission
-      label: script_lab_submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: category
-      label: category
-      hint: null
+      label: Category
+      hint: Select the category for your submission
       type: select_one
       options:
       - Entertainment
       - Other
       required: true
-    - id: 3
+    - id: 2
       name: description
-      label: description
-      hint: null
+      label: Description
+      hint: Briefly describe your submission
       type: text
       options: []
       required: true
-    - id: 4
+    - id: 3
       name: assigned_tool
-      label: assigned_tool
-      hint: null
+      label: Assigned Tool
+      hint: Select the tool used for your submission
       type: select_one
       options:
       - chatjimmy
       - Other
       required: true
-    - id: 5
+    - id: 4
       name: form_id
-      label: form_id
-      hint: null
+      label: Form ID
+      hint: Enter a unique form ID
       type: number
       options: []
       required: true
-    - id: 6
+    - id: 5
       name: output_file
-      label: output_file
-      hint: null
+      label: Output File
+      hint: Upload your output file
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_description
+      label: File Description
+      hint: Description of the uploaded file
       type: text
       options: []
       required: true
     - id: 7
-      name: category
-      label: category
-      hint: null
+      name: form_id_2
+      label: Duplicate Form ID
+      hint: Another unique ID
       type: text
       options: []
       required: false
     - id: 8
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
+      name: assigned_tool_2
+      label: Another Assigned Tool
+      hint: Select another tool
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
       required: false

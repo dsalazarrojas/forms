@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''US citizen''}'
-      - '{''label'': ''Legal Permanent Resident''}'
-      - '{''label'': ''Non-US Citizen''}'
+      - US citizen
+      - Legal Permanent Resident
+      - Non-US Citizen
       required: true
     - id: 4
       name: non_citizen_residency_status
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Legal Permanent Resident''}'
-      - '{''label'': ''Conditional Resident''}'
-      - '{''label'': ''Asylum''}'
+      - Legal Permanent Resident
+      - Conditional Resident
+      - Asylum
       required: true
     - id: 5
       name: gift_type
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Property''}'
-      - '{''label'': ''Stock''}'
-      - '{''label'': ''Other''}'
+      - Cash
+      - Property
+      - Stock
+      - Other
       required: true
     - id: 6
       name: recipient_entity
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''One-time''}'
-      - '{''label'': ''Ongoing''}'
-      - '{''label'': ''Unknown''}'
+      - One-time
+      - Ongoing
+      - Unknown
       required: true
     - id: 19
       name: gift_frequency_other_description

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Sports''}'
-      - '{''value'': ''Arts''}'
-      - '{''value'': ''Music''}'
-      - '{''value'': ''Clubs''}'
+      - Sports
+      - Arts
+      - Music
+      - Clubs
       required: true
     - id: 3
       name: lessons
@@ -27,11 +27,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Math''}'
-      - '{''value'': ''Science''}'
-      - '{''value'': ''History''}'
-      - '{''value'': ''Geography''}'
-      - '{''value'': ''English''}'
+      - Math
+      - Science
+      - History
+      - Geography
+      - English
       required: false
     - id: 4
       name: expectations
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Improve skills''}'
-      - '{''value'': ''Have fun''}'
-      - '{''value'': ''Learn new things''}'
-      - '{''value'': ''Get grades''}'
+      - Improve skills
+      - Have fun
+      - Learn new things
+      - Get grades
       required: true
     - id: 5
       name: enjoy_school
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: school_activities_lessons
@@ -59,27 +59,27 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Both''}'
-      - '{''value'': ''Activities''}'
-      - '{''value'': ''Lessons''}'
+      - Both
+      - Activities
+      - Lessons
       required: false
     - id: 7
-      name: school_year
-      label: School Year
+      name: school_year_2
+      label: School Year 2
       hint: null
       type: date
       options: []
       required: false
     - id: 8
-      name: school_year_2
-      label: School Year
+      name: school_year_2_2
+      label: School Year 2 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Summer''}'
-      - '{''value'': ''Fall''}'
-      - '{''value'': ''Winter''}'
-      - '{''value'': ''Spring''}'
+      - Summer
+      - Fall
+      - Winter
+      - Spring
       required: false
     - id: 9
       name: school_time
@@ -90,13 +90,13 @@ inputSchema:
       required: false
     - id: 10
       name: school_time_2
-      label: School Time
+      label: School Time 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Afternoon''}'
-      - '{''value'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 11
       name: phone

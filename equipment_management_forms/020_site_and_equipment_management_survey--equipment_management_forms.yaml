@@ -39,33 +39,37 @@ inputSchema:
       name: maintenance_status
       label: Maintenance Status
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Working
+      - Not working
+      - Maintenance needed
+      - Other (please specify)
       required: false
     - id: 5
-      name: site_inspection
-      label: Site Inspection
+      name: comments_1
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: maintenance_comments
-      label: Maintenance Comments
+      name: comments_2
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: safety_status
-      label: Safety Status
+      name: site_inspection
+      label: Site Inspection
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 8
-      name: comments
-      label: Comments
+      name: comments_3
+      label: Comments 3
       hint: null
       type: text
       options: []
@@ -78,15 +82,15 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: site_location
-      label: Site Location
+      name: contact_phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: contact_phone
-      label: Contact Phone
+      name: comments_4
+      label: Comments 4
       hint: null
       type: text
       options: []
@@ -94,97 +98,6 @@ inputSchema:
     - id: 12
       name: assigned_to
       label: Assigned To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: comments_2
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: comments_3
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: comments_4
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments_5
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: comments_6
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments_7
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments_8
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments_9
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments_10
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments_11
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments_12
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: comments_13
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments_14
-      label: Comments
       hint: null
       type: text
       options: []

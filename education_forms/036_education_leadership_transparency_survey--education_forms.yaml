@@ -12,31 +12,31 @@ inputSchema:
       required: true
     - id: 2
       name: education_leadership_transparency_survey_page_2
-      label: Leadership transparency in the education sector?
+      label: Leadership Transparency in Education Sector
       hint: null
       type: number
       options: []
       required: false
     - id: 3
       name: education_leadership_transparency_survey_page_3
-      label: Education Leadership Transparency Survey
+      label: Select One Option
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 4
       name: education_leadership_transparency_survey_page_4
       label: Select All That Apply
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 5
       name: education_leadership_transparency_survey_page_5
       label: Date of Birth
@@ -46,156 +46,101 @@ inputSchema:
       required: true
     - id: 6
       name: education_leadership_transparency_survey_page_6
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 7
-      name: education_leadership_transparency_survey_page_7
       label: Email Address
       hint: null
       type: email
       options: []
       required: true
-    - id: 8
-      name: education_leadership_transparency_survey_page_8
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
-      name: education_leadership_transparency_survey_page_9
+    - id: 7
+      name: education_leadership_transparency_survey_page_7
       label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
-      name: education_leadership_transparency_survey_page_10
+    - id: 8
+      name: education_leadership_transparency_survey_page_8
       label: How did you hear about this survey?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 9
+      name: education_leadership_transparency_survey_page_9
+      label: How likely are you to recommend this survey?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 10
+      name: education_leadership_transparency_survey_page_10
+      label: Would you like to participate in future surveys on this topic?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 11
       name: education_leadership_transparency_survey_page_11
-      label: What was the primary purpose of this survey?
+      label: Comments
       hint: null
       type: text
       options: []
       required: true
     - id: 12
       name: education_leadership_transparency_survey_page_12
-      label: What is the primary purpose of this survey?
+      label: Comments About this Survey
       hint: null
       type: text
       options: []
       required: true
     - id: 13
       name: education_leadership_transparency_survey_page_13
-      label: Do you have any additional comments about this survey?
+      label: Education Leadership Transparency Survey Page 13
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
       name: education_leadership_transparency_survey_page_14
-      label: Comments about this survey
+      label: Education Leadership Transparency Survey Page 14
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: education_leadership_transparency_survey_page_15
+      label: Education Leadership Transparency Survey Page 15
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: education_leadership_transparency_survey_page_15
-      label: How likely are you to recommend this survey?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
     - id: 16
       name: education_leadership_transparency_survey_page_16
-      label: How likely are you to recommend this survey?
+      label: Time of Day
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
+      type: time
+      options: []
+      required: false
     - id: 17
       name: education_leadership_transparency_survey_page_17
-      label: Would you like to participate in future surveys on this topic?
+      label: Phone Number
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: text
+      options: []
       required: true
     - id: 18
       name: education_leadership_transparency_survey_page_18
-      label: Would you like to participate in future surveys on this topic?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 19
-      name: education_leadership_transparency_survey_page_19
-      label: Education Leadership Transparency Survey
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: education_leadership_transparency_survey_page_20
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: education_leadership_transparency_survey_page_21
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: education_leadership_transparency_survey_page_22
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: education_leadership_transparency_survey_page_23
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: education_leadership_transparency_survey_page_24
-      label: Comments
+      label: Education Leadership Transparency Survey Page 18
       hint: null
       type: text
       options: []
       required: false
-    - id: 25
-      name: education_leadership_transparency_survey_page_25
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: true

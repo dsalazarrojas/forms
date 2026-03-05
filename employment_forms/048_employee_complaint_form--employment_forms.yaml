@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,194 +5,84 @@ inputSchema:
     pages:
     - id: 1
       name: employee_complaint_form_page_1
-      label: complaint_description
-      hint: null
+      label: Description of the complaint
+      hint: Please describe the issue you are experiencing
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: employee_complaint_form_page_2
-      label: incident_description
-      hint: null
+      label: Incident description
+      hint: Provide details about what happened
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: employee_complaint_form_page_3
-      label: action_taken
-      hint: null
+      label: Action taken
+      hint: Describe the action taken by you
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: employee_complaint_form_page_4
-      label: witness
-      hint: null
+      label: Witness
+      hint: If there were any witnesses, please list their names
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: employee_complaint_form_page_5
-      label: incident_date
-      hint: null
+      label: Incident date
+      hint: Date of the incident
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: employee_complaint_form_page_6
-      label: incident_time
-      hint: null
+      label: Incident time
+      hint: Time of the incident
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: employee_complaint_form_page_7
-      label: incident_location
-      hint: null
+      label: Incident location
+      hint: Location of the incident
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: employee_complaint_form_page_8
-      label: incident_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: employee_complaint_form_page_9
-      label: complaintant
-      hint: null
+      label: Relationship between you and the complainant
+      hint: Who was the person you were interacting with?
       type: select_multiple
       options:
-      - '{''name'': ''employee_complaint_form_page_9_complaintant_0'', ''label'':
-        ''Other'', ''value'': ''Other''}'
-      - '{''name'': ''employee_complaint_form_page_9_complaintant_1'', ''label'':
-        ''Employee'', ''value'': ''Employee''}'
-      - '{''name'': ''employee_complaint_form_page_9_complaintant_2'', ''label'':
-        ''Supervisor'', ''value'': ''Supervisor''}'
+      - Other
+      - Employee
+      - Supervisor
+      required: true
+    - id: 9
+      name: employee_complaint_form_page_9
+      label: Type of incident
+      hint: Choose the type of incident that occurred
+      type: select_multiple
+      options:
+      - Other
+      - Verbal Abuse
+      - Physical Threat
       required: true
     - id: 10
       name: employee_complaint_form_page_10
-      label: complaintant_relationship
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''employee_complaint_form_page_10_complaintant_relationship_0'',
-        ''label'': ''Other'', ''value'': ''Other''}'
-      - '{''name'': ''employee_complaint_form_page_10_complaintant_relationship_1'',
-        ''label'': ''Direct Supervisor'', ''value'': ''Direct Supervisor''}'
-      - '{''name'': ''employee_complaint_form_page_10_complaintant_relationship_2'',
-        ''label'': ''Senior Manager'', ''value'': ''Senior Manager''}'
+      label: Incident details
+      hint: Provide any additional details you think are relevant
+      type: text
+      options: []
       required: true
     - id: 11
       name: employee_complaint_form_page_11
-      label: incident_type
-      hint: null
-      type: select_multiple
-      options:
-      - '{''name'': ''employee_complaint_form_page_11_incident_type_0'', ''label'':
-        ''Other'', ''value'': ''Other''}'
-      - '{''name'': ''employee_complaint_form_page_11_incident_type_1'', ''label'':
-        ''Verbal Abuse'', ''value'': ''Verbal''}'
-      - '{''name'': ''employee_complaint_form_page_11_incident_type_2'', ''label'':
-        ''Physical Threat'', ''value'': ''Physical''}'
-      required: true
-    - id: 12
-      name: employee_complaint_form_page_12
-      label: incident_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: employee_complaint_form_page_13
-      label: incident_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: employee_complaint_form_page_14
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: employee_complaint_form_page_15
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: employee_complaint_form_page_16
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: employee_complaint_form_page_17
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: employee_complaint_form_page_18
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: employee_complaint_form_page_19
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: employee_complaint_form_page_20
-      label: supporting_document
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: employee_complaint_form_page_21
-      label: action_taken
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: employee_complaint_form_page_22
-      label: action_taken
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: employee_complaint_form_page_23
-      label: action_taken
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: employee_complaint_form_page_24
-      label: action_taken
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: employee_complaint_form_page_25
-      label: action_taken
-      hint: null
+      label: Supporting documentation
+      hint: Upload any supporting documentation for this incident
       type: text
       options: []
       required: false

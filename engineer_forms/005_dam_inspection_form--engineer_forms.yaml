@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Dam prophets''}'
-      - '{''text'': ''Dam gates''}'
-      - '{''text'': ''Dam spillway''}'
+      - Dam prophets
+      - Dam gates
+      - Dam spillway
       required: true
     - id: 3
       name: inspection_date
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Engineer''}'
-      - '{''text'': ''Maintenance''}'
-      - '{''text'': ''Operations''}'
+      - Engineer
+      - Maintenance
+      - Operations
       required: true
     - id: 6
       name: inspection_results
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Good''}'
-      - '{''text'': ''Fair''}'
-      - '{''text'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 9
       name: location
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Above Water''}'
-      - '{''text'': ''Below Water''}'
-      - '{''text'': ''On Water''}'
+      - Above Water
+      - Below Water
+      - On Water
       required: true
     - id: 10
       name: dam_height
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Closed''}'
-      - '{''text'': ''Open''}'
-      - '{''text'': ''In Use''}'
+      - Closed
+      - Open
+      - In Use
       required: true
     - id: 14
       name: inspection_frequency
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Monthly''}'
-      - '{''text'': ''Bi-Monthly''}'
-      - '{''text'': ''Quarterly''}'
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
       required: true
     - id: 15
       name: last_inspection_date
@@ -128,17 +128,17 @@ inputSchema:
       required: false
     - id: 16
       name: inspector_frequency
-      label: Inspection Frequency
+      label: Inspector Frequency
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Monthly''}'
-      - '{''text'': ''Bi-Monthly''}'
-      - '{''text'': ''Quarterly''}'
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
       required: false
     - id: 17
-      name: spillway_status
-      label: Spillway Status
+      name: spillway_status_2
+      label: Spillway Status 2
       hint: null
       type: select_multiple
       options:
@@ -146,8 +146,8 @@ inputSchema:
       - Inactive
       required: false
     - id: 18
-      name: dam_condition
-      label: Dam Condition
+      name: dam_condition_2
+      label: Dam Condition 2
       hint: null
       type: select_multiple
       options:
@@ -155,8 +155,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 19
-      name: inspection_results
-      label: Inspection Results
+      name: inspection_results_2
+      label: Inspection Results 2
       hint: null
       type: text
       options: []

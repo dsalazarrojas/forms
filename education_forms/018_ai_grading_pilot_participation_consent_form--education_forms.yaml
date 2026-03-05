@@ -30,14 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Undergraduate Student
-        value: undergrad
-      - label: Graduate Student
-        value: grad
-      - label: Faculty / Instructor
-        value: faculty
-      - label: Teaching Assistant (TA)
-        value: ta
+      - Undergraduate Student
+      - Graduate Student
+      - Faculty / Instructor
+      - Teaching Assistant (TA)
       required: true
     - id: 5
       name: institution_department
@@ -68,10 +64,8 @@ inputSchema:
       hint: This document contains detailed risks and benefits.
       type: select_one
       options:
-      - label: Yes, I have read it
-        value: true
-      - label: No, I need a copy
-        value: request_copy
+      - Yes, I have read it
+      - No, I need a copy
       required: true
     - id: 9
       name: participation_consent
@@ -79,10 +73,8 @@ inputSchema:
       hint: Do you agree to participate in the AI Grading Pilot?
       type: select_one
       options:
-      - label: Yes, I consent to participate
-        value: true
-      - label: No, I do not wish to participate
-        value: false
+      - Yes, I consent to participate
+      - No, I do not wish to participate
       required: true
     - id: 10
       name: data_sharing_consent
@@ -91,10 +83,8 @@ inputSchema:
         with the research team?
       type: select_one
       options:
-      - label: Yes, I consent
-        value: true
-      - label: No, I do not consent
-        value: false
+      - Yes, I consent
+      - No, I do not consent
       required: true
     - id: 11
       name: anonymization_preference
@@ -102,10 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Complete Anonymization (No identifying links)
-        value: complete
-      - label: Linked Pseudonymization (Allows withdrawal of data later)
-        value: linked
+      - Complete Anonymization (No identifying links)
+      - Linked Pseudonymization (Allows withdrawal of data later)
       required: true
     - id: 12
       name: right_to_withdraw_ack
@@ -113,9 +101,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I understand I can withdraw from the pilot at any time without academic
-          penalty.
-        value: acknowledged
+      - I understand I can withdraw from the pilot at any time without academic penalty.
       - Other
       required: true
     - id: 13
@@ -124,10 +110,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: academic_integrity_promise
@@ -135,9 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I understand that this pilot does not change the existing academic
-          integrity policies of the institution.
-        value: agreed
+      - I understand that this pilot does not change the existing academic integrity
+        policies of the institution.
       - Other
       required: true
     - id: 15
@@ -146,8 +129,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I confirm my participation and agreement to the terms above.
-        value: signed
+      - I confirm my participation and agreement to the terms above.
       - Other
       required: true
     - id: 16

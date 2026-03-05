@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Vaccinated''}'
-      - '{''label'': ''Not Vaccinated''}'
-      - '{''label'': ''Partially Vaccinated''}'
+      - Vaccinated
+      - Not Vaccinated
+      - Partially Vaccinated
       required: true
     - id: 3
       name: symptoms
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
-      - '{''label'': ''Pending''}'
+      - Positive
+      - Negative
+      - Pending
       required: true
     - id: 6
       name: hospitalization_info
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: true
     - id: 9
       name: submitted_by
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: false
     - id: 10
       name: patient_id
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: false
     - id: 13
       name: updated_at
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 19
       name: active_status
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 20
       name: medical_team_info
@@ -189,8 +189,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Positive''}'
-      - '{''label'': ''Negative''}'
+      - Positive
+      - Negative
       required: true
     - id: 25
       name: test_date

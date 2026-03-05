@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''On Leave''}'
+      - Active
+      - Inactive
+      - On Leave
       required: false
     - id: 5
       name: name
@@ -68,11 +68,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Communication''}'
-      - '{''id'': 2, ''name'': ''Sales''}'
-      - '{''id'': 3, ''name'': ''Leadership''}'
-      - '{''id'': 4, ''name'': ''Time Management''}'
-      - '{''id'': 5, ''name'': ''Teamwork''}'
+      - Communication
+      - Sales
+      - Leadership
+      - Time Management
+      - Teamwork
       required: false
     - id: 10
       name: previous_companies
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Morning''}'
-      - '{''id'': 2, ''name'': ''Afternoon''}'
-      - '{''id'': 3, ''name'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 12
       name: salary_range
@@ -132,10 +132,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': "Bachelor''s Degree"}'
-      - '{''id'': 2, ''name'': "Master''s Degree"}'
-      - '{''id'': 3, ''name'': ''Doctoral Degree''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      - Other
       required: false
     - id: 18
       name: available_days_off_weekly
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Flexible''}'
-      - '{''id'': 2, ''name'': ''Fixed''}'
+      - Flexible
+      - Fixed
       required: false
     - id: 22
       name: available_languages
@@ -173,10 +173,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''English''}'
-      - '{''id'': 2, ''name'': ''Spanish''}'
-      - '{''id'': 3, ''name'': ''French''}'
-      - '{''id'': 4, ''name'': ''German''}'
+      - English
+      - Spanish
+      - French
+      - German
       required: false
     - id: 23
       name: emergency_contact_name

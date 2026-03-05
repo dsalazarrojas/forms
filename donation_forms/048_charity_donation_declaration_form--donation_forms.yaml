@@ -44,8 +44,8 @@ inputSchema:
       hint: indicate if donation is recurring
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: tax_receipt_required
@@ -53,8 +53,8 @@ inputSchema:
       hint: request a tax receipt if applicable
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: anonymity_request

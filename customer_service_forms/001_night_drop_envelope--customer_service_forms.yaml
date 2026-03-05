@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: repair_location
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: customer_id
@@ -155,8 +155,8 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: service_type
-      label: Service Type
+      name: service_type_2
+      label: Service Type 2
       hint: null
       type: select_one
       options:
@@ -178,15 +178,15 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: customer_zip
-      label: Customer Zip
+      name: customer_zip_2
+      label: Customer Zip 2
       hint: null
       type: number
       options: []
       required: false
     - id: 25
-      name: service_type
-      label: Service Type
+      name: service_type_3
+      label: Service Type 3
       hint: null
       type: select_one
       options:

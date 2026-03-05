@@ -1,76 +1,65 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Education Availability Survey
     pages:
-      - id: 1
-        name: respondent_type
-        label: Respondent type
-        hint: Are you a resident educator or parent
-        type: select_one
-        options:
-          - Resident
-          - Educator
-          - Parent
-          - Other
-        required: true
-      - id: 2
-        name: topics_of_interest
-        label: Topics of interest
-        hint: Select learning topics of interest
-        type: select_multiple
-        options:
-          - Basic literacy
-          - Computer skills
-          - Job training
-          - Parenting classes
-          - Financial literacy
-        required: true
-      - id: 3
-        name: preferred_format
-        label: Preferred learning format
-        hint: Choose how you prefer to learn
-        type: select_one
-        options:
-          - In person
-          - Online live
-          - Online self paced
-          - Hybrid
-        required: true
-      - id: 4
-        name: preferred_days
-        label: Preferred days for classes
-        hint: Days you are available to attend
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: preferred_times
-        label: Preferred times for classes
-        hint: Morning afternoon or evening
-        type: select_one
-        options:
-          - Morning
-          - Afternoon
-          - Evening
-        required: false
-      - id: 6
-        name: childcare_needs
-        label: Childcare needs during classes
-        hint: Do you require childcare support
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: respondent_type
+      label: Respondent type
+      hint: Are you a resident educator or parent
+      type: select_one
+      options:
+      - Resident
+      - Educator
+      - Parent
+      - Other
+      required: true
+    - id: 2
+      name: topics_of_interest
+      label: Topics of interest
+      hint: Select learning topics of interest
+      type: select_multiple
+      options:
+      - Basic literacy
+      - Computer skills
+      - Job training
+      - Parenting classes
+      - Financial literacy
+      required: true
+    - id: 3
+      name: preferred_format
+      label: Preferred learning format
+      hint: Choose how you prefer to learn
+      type: select_one
+      options:
+      - In person
+      - Online live
+      - Online self paced
+      - Hybrid
+      required: true
+    - id: 4
+      name: preferred_days
+      label: Preferred days for classes
+      hint: Days you are available to attend
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_times
+      label: Preferred times for classes
+      hint: Morning afternoon or evening
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: childcare_needs
+      label: Childcare needs during classes
+      hint: Do you require childcare support
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

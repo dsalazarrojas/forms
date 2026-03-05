@@ -4,7 +4,7 @@ inputSchema:
     title: software_update_employee_insights_report
     pages:
     - id: 1
-      name: update_experiences
+      name: update_experience
       label: How did you experience the update
       hint: Describe your experience
       type: text
@@ -13,7 +13,7 @@ inputSchema:
     - id: 2
       name: issues_encountered
       label: What issues did you encounter
-      hint: null
+      hint: List the issues you faced
       type: select_multiple
       options:
       - No issues
@@ -29,26 +29,25 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: contact_details
+      name: contact_preferred_method
       label: How can we contact you
-      hint: null
+      hint: Choose your preferred contact method
       type: select_one
       options:
       - Email
       - Phone
       - Chat
       - Meeting
-      - In Person
       required: true
     - id: 5
-      name: comments
+      name: additional_comments
       label: Additional comments
       hint: null
       type: note
       options: []
       required: false
     - id: 6
-      name: email_address
+      name: email
       label: Email
       hint: null
       type: email
@@ -62,35 +61,29 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: contact_meeting
-      label: Meeting
+      name: meeting_time
+      label: Meeting Time
       hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
+      type: time
+      options: []
       required: false
     - id: 9
-      name: contact_in_person
-      label: In person
+      name: meeting_date
+      label: Meeting Date
       hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
+      type: date
+      options: []
       required: false
     - id: 10
-      name: contact_chat
-      label: Chat
+      name: phone
+      label: Phone (2)
       hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
+      type: text
+      options: []
       required: false
     - id: 11
-      name: contact_email
-      label: Email
+      name: meeting
+      label: Meeting
       hint: null
       type: select_one
       options:
@@ -98,8 +91,8 @@ inputSchema:
       - 'False'
       required: false
     - id: 12
-      name: contact_phone
-      label: Phone
+      name: in_person
+      label: In person
       hint: null
       type: select_one
       options:
@@ -107,53 +100,7 @@ inputSchema:
       - 'False'
       required: false
     - id: 13
-      name: contact_meeting_time
-      label: Meeting Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: contact_meeting_date
-      label: Meeting Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: contact_meeting
-      label: Meeting
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 18
-      name: contact_in_person
-      label: In Person
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 19
-      name: contact_chat
+      name: chat
       label: Chat
       hint: null
       type: select_one
@@ -161,45 +108,17 @@ inputSchema:
       - 'True'
       - 'False'
       required: false
-    - id: 20
+    - id: 14
       name: email_address
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: phone_number
-      label: Phone
+      label: Email address
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: contact_meeting_date
-      label: Meeting Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: meeting_time
-      label: Meeting Time
+    - id: 15
+      name: meeting_time_2
+      label: Meeting Time 2
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 24
-      name: contact_meeting_time
-      label: Meeting Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: Email
-      hint: null
-      type: email
       options: []
       required: false

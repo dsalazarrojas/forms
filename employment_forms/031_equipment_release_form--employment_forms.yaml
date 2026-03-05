@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Computer''}'
-      - '{''value'': 2, ''label'': ''Smartphone''}'
-      - '{''value'': 3, ''label'': ''Laptop''}'
+      - Computer
+      - Smartphone
+      - Laptop
       required: false
     - id: 3
       name: start_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Sales''}'
-      - '{''value'': 2, ''label'': ''Marketing''}'
-      - '{''value'': 3, ''label'': ''Other''}'
+      - Sales
+      - Marketing
+      - Other
       required: false
     - id: 9
       name: manager_name
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Active''}'
-      - '{''value'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 18
       name: status_note
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Good''}'
-      - '{''value'': 2, ''label'': ''Bad''}'
+      - Good
+      - Bad
       required: false
     - id: 20
       name: condition_note
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: approved_by
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Manager''}'
-      - '{''value'': 2, ''label'': ''Director''}'
+      - Manager
+      - Director
       required: false
     - id: 23
       name: approved_date

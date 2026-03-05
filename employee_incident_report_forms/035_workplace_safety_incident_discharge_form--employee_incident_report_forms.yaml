@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Started''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Complete''}'
+      - Not Started
+      - In Progress
+      - Complete
       required: false
     - id: 4
       name: incident_reported
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Applicable''}'
-      - '{''label'': ''Minor''}'
-      - '{''label'': ''Serious''}'
+      - Not Applicable
+      - Minor
+      - Serious
       required: false
     - id: 9
       name: root_cause
@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: report_status
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Started''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: false
     - id: 16
       name: incident_category
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Near Miss''}'
-      - '{''label'': ''Actual Harm''}'
-      - '{''label'': ''Injury''}'
+      - Near Miss
+      - Actual Harm
+      - Injury
       required: false
     - id: 17
       name: incident_type
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Slip, Trip, and Fall''}'
-      - '{''label'': ''Equipment Related''}'
-      - '{''label'': ''Other''}'
+      - Slip, Trip, and Fall
+      - Equipment Related
+      - Other
       required: false
     - id: 18
       name: incident_location
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Office''}'
-      - '{''label'': ''Warehouse''}'
-      - '{''label'': ''Other''}'
+      - Office
+      - Warehouse
+      - Other
       required: false
     - id: 19
       name: incident_description
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 23
       name: medical_provider

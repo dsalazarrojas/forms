@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Service 1''}'
-      - '{''id'': 2, ''label'': ''Service 2''}'
+      - Service 1
+      - Service 2
       required: true
     - id: 8
       name: client_notes
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Follow up 1''}'
-      - '{''id'': 2, ''label'': ''Follow up 2''}'
+      - Follow up 1
+      - Follow up 2
       required: true
     - id: 21
       name: schedule_date
@@ -181,6 +181,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Follow up 1''}'
-      - '{''id'': 2, ''label'': ''Follow up 2'', ''required'': False}'
+      - Follow up 1
+      - Follow up 2
       required: true

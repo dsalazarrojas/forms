@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Highly Satisfactory''}'
-      - '{''value'': ''Satisfactory''}'
-      - '{''value'': ''Poor''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Poor
       required: false
     - id: 3
       name: course_satisfaction
@@ -33,11 +33,11 @@ inputSchema:
       hint: 1-5
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
-      - '{''value'': 4}'
-      - '{''value'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 5
       name: suggestion
@@ -59,11 +59,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1-5''}'
-      - '{''value'': ''4-5''}'
-      - '{''value'': ''3-5''}'
-      - '{''value'': ''2-5''}'
-      - '{''value'': ''1-4''}'
+      - 1-5
+      - 4-5
+      - 3-5
+      - 2-5
+      - 1-4
       required: false
     - id: 8
       name: department_feedback
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''geology''}'
-      - '{''value'': ''other''}'
+      - geology
+      - other
       required: false
     - id: 9
       name: instructor_feedback
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Highly Recommended''}'
-      - '{''value'': ''Not Recommended''}'
-      - '{''value'': ''Not Applicable''}'
+      - Highly Recommended
+      - Not Recommended
+      - Not Applicable
       required: false
     - id: 10
       name: student_suggestion

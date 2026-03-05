@@ -44,14 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Academic-Industry Collaboration
-        value: academic_industry
-      - label: Inter-University Partnership
-        value: inter_university
-      - label: Non-Profit / Public Sector Collaboration
-        value: non_profit_public
-      - label: Technology Provider Partnership
-        value: tech_provider
+      - Academic-Industry Collaboration
+      - Inter-University Partnership
+      - Non-Profit / Public Sector Collaboration
+      - Technology Provider Partnership
       required: true
     - id: 7
       name: research_overview_header
@@ -80,18 +76,12 @@ inputSchema:
       hint: Select all relevant topics.
       type: select_multiple
       options:
-      - label: Generative AI / LLMs in the Classroom
-        value: gen_ai
-      - label: Personalized / Adaptive Learning Systems
-        value: personalized_learning
-      - label: AI Ethics and Policy in Education
-        value: ethics_policy
-      - label: Intelligent Tutoring Systems
-        value: tutoring_systems
-      - label: Automated Assessment & Feedback
-        value: assessment
-      - label: Educational Data Mining / Analytics
-        value: data_mining
+      - Generative AI / LLMs in the Classroom
+      - Personalized / Adaptive Learning Systems
+      - AI Ethics and Policy in Education
+      - Intelligent Tutoring Systems
+      - Automated Assessment & Feedback
+      - Educational Data Mining / Analytics
       required: true
     - id: 11
       name: target_educational_level
@@ -99,16 +89,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Early Childhood (Pre-K)
-        value: early_childhood
-      - label: K-12 Education
-        value: k12
-      - label: Higher Education (Undergraduate/Graduate)
-        value: higher_ed
-      - label: Vocational / Professional Training
-        value: vocational
-      - label: Informal / Lifelong Learning
-        value: informal
+      - Early Childhood (Pre-K)
+      - K-12 Education
+      - Higher Education (Undergraduate/Graduate)
+      - Vocational / Professional Training
+      - Informal / Lifelong Learning
       required: true
     - id: 12
       name: logistics_header
@@ -130,14 +115,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Fully Funded
-        value: fully_funded
-      - label: Partially Funded
-        value: partially_funded
-      - label: Seeking Funding (Grant Proposal Phase)
-        value: seeking
-      - label: Not Funded (In-kind partnership only)
-        value: not_funded
+      - Fully Funded
+      - Partially Funded
+      - Seeking Funding (Grant Proposal Phase)
+      - Not Funded (In-kind partnership only)
       required: true
     - id: 15
       name: resources_requested
@@ -159,14 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Approved
-        value: approved
-      - label: Submitted / Pending
-        value: pending
-      - label: Not Yet Submitted
-        value: not_submitted
-      - label: Not Applicable
-        value: na
+      - Approved
+      - Submitted / Pending
+      - Not Yet Submitted
+      - Not Applicable
       required: true
     - id: 18
       name: additional_comments

@@ -5,183 +5,42 @@ inputSchema:
     pages:
     - id: 1
       name: course_info
-      label: course-info
+      label: Course Information
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: name
-      label: Name
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: email
-      label: Email
+      name: payment_info
+      label: Payment Information
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 4
-      name: phone_number
-      label: Phone number
+      name: enrollment_type
+      label: Enrollment Type
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 5
-      name: course_type
-      label: course-type
+      name: notes
+      label: Notes
       hint: null
-      type: select_one
-      options:
-      - SAT
-      - ACT
-      - PSAT
-      - AP
+      type: text
+      options: []
       required: false
     - id: 6
-      name: start_date
-      label: start-date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 7
-      name: payment_method
-      label: payment-method
-      hint: null
-      type: select_one
-      options:
-      - PayPal
-      - Other
-      required: true
-    - id: 8
-      name: payment_amount
-      label: payment-amount
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 9
-      name: payment_callback_url
-      label: payment-callback-url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: payment_callback_password
-      label: payment-callback-password
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: enrollment_type
-      label: enrollment-type
-      hint: null
-      type: select_multiple
-      options:
-      - Full
-      - Part-time
-      required: true
-    - id: 12
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
       name: email_suffix
-      label: email-suffix
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: email_suffix_2
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: email_suffix_3
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: email_suffix_4
-      label: email-suffix
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: email_suffix_5
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: email_suffix_6
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email_suffix_7
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: email_suffix_8
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: email_suffix_9
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email_suffix_10
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: email_suffix_11
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: email_suffix_12
-      label: email-suffix-2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: email_suffix_13
-      label: email-suffix-2
+      label: Email Suffix
       hint: null
       type: text
       options: []

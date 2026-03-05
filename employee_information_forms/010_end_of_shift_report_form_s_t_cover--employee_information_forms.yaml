@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: comments
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: notes
@@ -97,11 +97,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Supervisor 1''}'
-      - '{''label'': ''Supervisor 2''}'
-      - '{''label'': ''Supervisor 3''}'
-      - '{''label'': ''Supervisor 4''}'
-      - '{''label'': ''Supervisor 5''}'
+      - Supervisor 1
+      - Supervisor 2
+      - Supervisor 3
+      - Supervisor 4
+      - Supervisor 5
       required: true
     - id: 14
       name: supervisor_name
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Regular''}'
-      - '{''label'': ''Overtime''}'
-      - '{''label'': ''Double Overtime''}'
-      - '{''label'': ''Call In''}'
+      - Regular
+      - Overtime
+      - Double Overtime
+      - Call In
       required: true
     - id: 17
       name: shift_start_date
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Employee''}'
-      - '{''label'': ''Temp''}'
+      - Manager
+      - Employee
+      - Temp
       required: true
     - id: 24
       name: employee_status
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: true
     - id: 25
       name: notes

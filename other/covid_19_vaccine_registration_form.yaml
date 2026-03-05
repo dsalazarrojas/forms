@@ -29,14 +29,18 @@ inputSchema:
       label: Vaccination Status
       hint: null
       type: select_one
-      options: []
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 5
       name: symptoms
       label: Symptoms
       hint: null
       type: select_multiple
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 6
       name: vaccination_schedule
@@ -50,14 +54,18 @@ inputSchema:
       label: Vaccination Site
       hint: null
       type: select_multiple
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 8
       name: vaccination_type
       label: Vaccination Type
       hint: null
       type: select_one
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
       name: medical_record_number
@@ -99,7 +107,9 @@ inputSchema:
       label: Vaccination Status Update
       hint: null
       type: select_one
-      options: []
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 15
       name: vaccination_status_update_date
@@ -141,14 +151,18 @@ inputSchema:
       label: Medical Record Provider
       hint: null
       type: select_multiple
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 21
       name: medical_history_status
       label: Medical History Status
       hint: null
       type: select_one
-      options: []
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 22
       name: medical_history_status_date
@@ -169,12 +183,16 @@ inputSchema:
       label: Medical Record Status
       hint: null
       type: select_one
-      options: []
+      options:
+      - Active
+      - Inactive
       required: false
     - id: 25
       name: form_submission
       label: Form Submission
       hint: null
       type: select_multiple
-      options: []
+      options:
+      - 'Yes'
+      - 'No'
       required: false

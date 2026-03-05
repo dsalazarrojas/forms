@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Embroidery''}'
-      - '{''id'': 2, ''label'': ''Monogram''}'
-      - '{''id'': 3, ''label'': ''Logo''}'
+      - Embroidery
+      - Monogram
+      - Logo
       required: false
     - id: 3
       name: upload_design
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''New''}'
-      - '{''id'': 2, ''label'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
-      - '{''id'': 4, ''label'': ''Waiting''}'
+      - New
+      - In Progress
+      - Completed
+      - Waiting
       required: false
     - id: 10
       name: upload_date

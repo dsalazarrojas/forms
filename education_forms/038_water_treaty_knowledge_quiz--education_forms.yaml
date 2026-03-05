@@ -4,52 +4,57 @@ inputSchema:
     title: water_treaty_knowledge_quiz
     pages:
     - id: 1
-      name: form_title
-      label: Water Treaty Knowledge Quiz
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: category
-      label: Category
+      name: form_name
+      label: What is the name of the water treaty that you are familiar with?
       hint: null
       type: select_one
       options:
-      - Education Forms
-      - Other
+      - Agreement
+      - Treaty
+      - Protocol
+      - Convention
+      - Declaration
+      - Accord
+      - Pact
+      - Agreement on
+      - Treaty on
+      - Protocol on
+      - Convention on
       required: false
-    - id: 3
-      name: description
-      label: Description
-      hint: Brief description of the form
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: form_id
-      label: Form ID
+    - id: 2
+      name: num_types
+      label: How many types of water treaties are there?
       hint: null
       type: number
       options: []
       required: false
-    - id: 5
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
-      required: false
-    - id: 6
-      name: output_file
-      label: Output File
+    - id: 3
+      name: main_goal
+      label: What is the main goal of a water treaty?
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
+    - id: 4
+      name: main_responsible
+      label: Who is the primary responsible for enforcing water treaties?
+      hint: null
+      type: select_one
+      options:
+      - United Nations
+      - Country
+      - International Community
+      - Global Community
+      - National Government
+      required: false
+    - id: 5
+      name: main_benefits
+      label: What are the main benefits of having a water treaty?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
       name: submitted_by
       label: Submitted By
       hint: null
@@ -58,128 +63,86 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 8
+    - id: 7
       name: submitted_at
       label: Submitted At
       hint: null
       type: date
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: submitted_time
       label: Submitted Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: submitted_date
       label: Submitted Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
+    - id: 10
       name: submitted_date_time
       label: Submitted Date-Time
       hint: null
       type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time_2
+      label: Submitted Time 2
+      hint: null
+      type: time
       options: []
       required: false
     - id: 12
-      name: submitted_date_time
-      label: Submitted Date-Time
+      name: form_description
+      label: Form Description
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 13
-      name: submitted_date_time
-      label: Submitted Date-Time
+      name: form_id
+      label: Form ID
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 14
-      name: submitted_date_time
-      label: Submitted Date-Time
+      name: submitted_date_2
+      label: Submitted Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 15
-      name: submitted_time
-      label: Submitted Time
+      name: submitted_time_3
+      label: Submitted Time 3
       hint: null
       type: time
       options: []
       required: false
     - id: 16
-      name: submitted_time
-      label: Submitted Time
+      name: form_id_2
+      label: Form Id 2
       hint: null
-      type: time
+      type: number
       options: []
       required: false
     - id: 17
-      name: submitted_time
-      label: Submitted Time
+      name: submitted_date_3
+      label: Submitted Date 3
       hint: null
-      type: time
+      type: date
       options: []
       required: false
     - id: 18
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: submitted_time
-      label: Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: submitted_time
-      label: Submitted Time
+      name: submitted_time_4
+      label: Submitted Time 4
       hint: null
       type: time
       options: []

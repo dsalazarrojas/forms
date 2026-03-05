@@ -168,8 +168,8 @@ inputSchema:
       hint: Is this person already authorized to pick up the student on file?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: special_pickup_authorization
@@ -177,8 +177,8 @@ inputSchema:
       hint: Is this a one-time special authorization for pick-up?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: authorization_details
@@ -214,8 +214,8 @@ inputSchema:
       hint: Has the parent/guardian been notified of this pick-up arrangement?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not required
       required: true
     - id: 26
@@ -239,8 +239,8 @@ inputSchema:
         know about?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: medical_alert_details
@@ -277,6 +277,6 @@ inputSchema:
         person
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

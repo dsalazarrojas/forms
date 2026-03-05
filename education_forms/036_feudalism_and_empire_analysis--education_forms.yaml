@@ -4,161 +4,72 @@ inputSchema:
     title: Feudalism And Empire Analysis
     pages:
     - id: 1
-      name: feudalism_and_empire_analysis
-      label: feudal-systems-and-empires
+      name: feudalism_and_empire
+      label: Feudalism and Empire
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: empires
-      label: empires
+      label: Emperies
       hint: null
       type: select_one
       options:
       - Ancient Rome
       - Ottoman Empire
-      - Rome
       - Sui Dynasty
       - Han Dynasty
       required: true
     - id: 3
-      name: feudalism_and_empires_relationship
-      label: relationship-between-feudalism-and-empires
+      name: relationship_between_feudalism_and_empires
+      label: Relationship between Feudalism and Empires
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: impact_of_feudalism_and_empires
-      label: impact-of-feudalism-and-empires
+      name: impact_feudalism_and_empires
+      label: Impact of Feudalism and Empires
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: submit_button
-      label: submit
+      name: submit_note
+      label: Submit Note
       hint: null
       type: note
       options: []
       required: true
     - id: 6
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: email
-      label: email
+      name: user_email
+      label: User Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 8
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: select_one
-      label: select-one
-      hint: null
-      type: select_one
-      options:
-      - First
-      - Second
-      - Third
-      required: false
-    - id: 11
+      required: true
+    - id: 7
       name: select_multiple
-      label: select-multiple
+      label: Select Multiple
       hint: null
       type: select_multiple
-      options:
-      - Alpha
-      - Beta
-      - Gamma
-      - Delta
-      required: true
-    - id: 12
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: select_one
-      label: select-one
-      hint: null
-      type: select_one
       options:
       - Option A
       - Option B
       - Option C
       - Option D
-      required: false
-    - id: 16
-      name: select_multiple
-      label: select-multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
-    - id: 17
+      required: true
+    - id: 8
       name: time
-      label: time
+      label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 18
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
+    - id: 9
       name: select_one
-      label: select-one
+      label: Select One
       hint: null
       type: select_one
       options:
@@ -167,42 +78,24 @@ inputSchema:
       - Option G
       - Option H
       required: false
-    - id: 21
-      name: select_multiple
-      label: select-multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option I
-      - Option J
-      - Option K
-      - Option L
-      required: true
-    - id: 22
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
+    - id: 10
       name: date
-      label: date
+      label: Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 24
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: note
-      label: note
+    - id: 11
+      name: submit_note_2
+      label: Submit Note 2
       hint: null
       type: note
       options: []
-      required: true
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

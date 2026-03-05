@@ -4,105 +4,88 @@ inputSchema:
     title: Performance Review Check In Form
     pages:
     - id: 1
-      name: performance_review_check_in_form_1
-      label: Performance Review Check In
+      name: team_lead
+      label: What team lead am I working with during this review period?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: performance_review_check_in_form_2
-      label: Team Lead
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: performance_review_check_in_form_3
-      label: Team Lead
-      hint: Select the team lead you are working with
       type: select_one
       options:
       - Team Lead 1
       - Team Lead 2
       - Team Lead 3
-      required: false
-    - id: 4
-      name: performance_review_check_in_form_4
+      required: true
+    - id: 2
+      name: employee_name
       label: Employee Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: performance_review_check_in_form_5
+      required: true
+    - id: 3
+      name: employee_title
       label: Employee Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: performance_period
+      label: Which performance period am I being reviewed for?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: review_start_date
+      label: What is the start date of this review?
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 6
-      name: performance_review_check_in_form_6
-      label: Performance Period
+      name: review_end_date
+      label: What is the end date of this review?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: performance_review_check_in_form_7
-      label: Review Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: performance_review_check_in_form_8
-      label: Review End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: performance_review_check_in_form_9
-      label: Review Comments
+      name: review_comments
+      label: What are some comments about this review?
       hint: null
       type: note
       options: []
-      required: false
-    - id: 10
-      name: performance_review_check_in_form_10
-      label: Overall
+      required: true
+    - id: 8
+      name: overall_rating_1
+      label: How would you rate the employee's overall performance?
       hint: null
       type: number
+      options: []
+      required: true
+    - id: 9
+      name: overall_rating_2
+      label: What specific areas for improvement would you like to focus on?
+      hint: null
+      type: checkbox
+      options:
+      - Improve communication skills
+      - Improve time management
+      - Improve teamwork
+      required: false
+    - id: 10
+      name: overall_rating_3
+      label: What specific accomplishments or successes would you like to highlight?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 11
-      name: performance_review_check_in_form_11
-      label: Overall
+      name: overall_rating_4
+      label: Overall Performance Rating
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: performance_review_check_in_form_12
-      label: Overall
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: performance_review_check_in_form_13
-      label: Overall
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: performance_review_check_in_form_14
-      label: Overall
-      hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Outstanding
+      - Satisfactory
+      - Needs Improvement
+      required: true

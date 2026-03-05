@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Concert''}'
-      - '{''id'': 2, ''label'': ''Conference''}'
-      - '{''id'': 3, ''label'': ''Live Event''}'
+      - Concert
+      - Conference
+      - Live Event
       required: true
     - id: 4
       name: artist_name
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''With Consent''}'
-      - '{''id'': 2, ''label'': ''Without Consent''}'
+      - With Consent
+      - Without Consent
       required: true
     - id: 6
       name: contact_info

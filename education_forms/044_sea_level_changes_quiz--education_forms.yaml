@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,15 +16,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''Sea Level Rise'': ''0-1 meters''}'
-      - '{''Sea Level Rise'': ''1-2 meters''}'
-      - '{''Sea Level Rise'': ''2-3 meters''}'
-      - '{''Sea Level Rise'': ''3-4 meters''}'
-      - '{''Sea Level Rise'': ''4-5 meters''}'
-      - '{''Sea Level Rise'': ''5-6 meters''}'
-      - '{''Sea Level Rise'': ''6-7 meters''}'
-      - '{''Sea Level Rise'': ''7-8 meters''}'
-      - '{''Sea Level Rise'': ''More than 8 meters''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 3
       name: measurement
@@ -43,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - tide_stick
-      - satellite_imagery
-      - sea_level_gauge
+      - tide stick
+      - satellite imagery
+      - sea level gauge
       - other
       required: false
     - id: 4
@@ -56,11 +45,11 @@ inputSchema:
       options:
       - erosion
       - flooding
-      - saltwater_infiltration
-      - increased_salinity
-      - increased_sedimentation
-      - loss_of_biodiversity
-      - loss_of_habitat
+      - saltwater infiltration
+      - increased salinity
+      - increased sedimentation
+      - loss of biodiversity
+      - loss of habitat
       - displacement
       - other
       required: false
@@ -71,11 +60,11 @@ inputSchema:
       type: select_multiple
       options:
       - educate
-      - build_flood_defenses
-      - adapt_to_new_conditions
-      - move_to_higher_ground
-      - sea_level_gates
-      - restore_wetlands
+      - build flood defenses
+      - adapt to new conditions
+      - move to higher ground
+      - sea level gates
+      - restore wetlands
       - other
       required: false
     - id: 6

@@ -9,130 +9,95 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: question_1
+      name: q1_choice
       label: What transition word do you choose?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
-      name: answer_1
-      label: Answer 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: question_2
-      label: What transition word do you choose?
+      name: q2_choice
+      label: Another choice?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: q3_choice
+      label: Yet another choice?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: answer_2
-      label: Answer 2
+      name: q4_choice
+      label: More choices?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: question_3
-      label: What transition word do you choose?
+      name: q5_choice
+      label: Still more choices?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
-      name: answer_3
-      label: Answer 3
+      name: q6_choice
+      label: Almost done?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: question_4
-      label: What transition word do you choose?
+      name: conclusion
+      label: Conclusion
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 9
-      name: answer_4
-      label: Answer 4
+      name: question_1
+      label: What is your relationship with the subject?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: question_5
-      label: What transition word do you choose?
+      name: question_2
+      label: How many times have you been to this place?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 11
-      name: answer_5
-      label: Answer 5
+      name: question_3
+      label: Date of visit
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 12
-      name: question_6
-      label: What transition word do you choose?
+      name: question_4
+      label: What time?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: answer_6
-      label: Answer 6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: question_7
-      label: What transition word do you choose?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: answer_7
-      label: Answer 7
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: time
+      options: []
+      required: true

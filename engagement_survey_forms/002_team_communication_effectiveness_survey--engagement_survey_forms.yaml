@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Frequently''}'
-      - '{''label'': ''Almost Always''}'
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost Always
       required: true
     - id: 4
       name: communication_channels
@@ -34,11 +34,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Chat''}'
-      - '{''label'': ''Text message''}'
-      - '{''label'': ''Video call''}'
+      - Email
+      - Phone
+      - Chat
+      - Text message
+      - Video call
       required: true
     - id: 5
       name: collaboration_channels
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''In-person''}'
-      - '{''label'': ''Video call''}'
-      - '{''label'': ''Shared doc''}'
-      - '{''label'': ''Task list''}'
+      - In-person
+      - Video call
+      - Shared doc
+      - Task list
       required: true
     - id: 6
       name: feedback
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: conflict_resolution
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Avoid''}'
-      - '{''label'': ''Address''}'
-      - '{''label'': ''Delegate''}'
-      - '{''label'': ''Refer to a third party''}'
+      - Avoid
+      - Address
+      - Delegate
+      - Refer to a third party
       required: true
     - id: 8
       name: team_satisfaction
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Save and Continue Later''}'
+      - Submit
+      - Save and Continue Later
       required: true
     - id: 14
       name: email
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online''}'
-      - '{''label'': ''In person''}'
+      - Online
+      - In person
       required: false
     - id: 21
       name: submission_device
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Computer''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Tablet''}'
+      - Computer
+      - Phone
+      - Tablet
       required: true
     - id: 22
       name: submission_language
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''French''}'
-      - '{''label'': ''Spanish''}'
+      - English
+      - French
+      - Spanish
       required: true
     - id: 23
       name: submission_comment
@@ -199,8 +199,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Confirm''}'
-      - '{''label'': ''No confirm''}'
+      - Confirm
+      - No confirm
       required: true
     - id: 25
       name: submission_agreement
@@ -208,6 +208,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Agree''}'
-      - '{''label'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: true

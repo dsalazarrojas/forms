@@ -4,101 +4,124 @@ inputSchema:
     title: Technology Survey
     pages:
     - id: 1
-      name: classroom_survey
-      label: classroom_survey
+      name: education_level
+      label: What is your highest level of education completed?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - high school
+      - some college
+      - bachelor degree
+      - master degree
+      - doctorate
+      - other
       required: false
     - id: 2
-      name: workplace_survey
-      label: workplace_survey
+      name: technology_experience_workplace
+      label: How would you rate your experience with technology at work?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
       required: false
     - id: 3
-      name: school_survey
-      label: school_survey
+      name: technology_experience_classroom
+      label: How would you rate your experience with technology in the classroom?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
       required: false
     - id: 4
-      name: technology_interest_level
-      label: technology_interest_level
+      name: technology_importance
+      label: How important is technology to your job?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - not at all
+      - somewhat
+      - neutral
+      - very important
       required: false
     - id: 5
-      name: technology_interest_level_other
-      label: other
+      name: technology_hobby
+      label: What is your favorite technology-related hobby or activity?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: technology_interest_level_other_description
-      label: other_description
+      name: technology_use_personal
+      label: How often do you use technology for personal projects or hobbies?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - never
+      - occasionally
+      - sometimes
+      - often
+      - always
       required: false
     - id: 7
-      name: classroom_technology_level
-      label: classroom_technology_level
+      name: technology_interest
+      label: What is your level of interest in learning more about technology?
       hint: null
       type: select_one
       options:
-      - classroom_1
-      - classroom_2
-      - classroom_3
+      - not at all
+      - somewhat
+      - neutral
+      - very important
       required: false
     - id: 8
-      name: classroom_technology_level_other
-      label: other
+      name: online_resources
+      label: Do you prefer to learn through online resources or in-person tutorials?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - online
+      - in person
       required: false
     - id: 9
-      name: workplace_technology_level
-      label: workplace_technology_level
+      name: online_experience
+      label: How would you rate your experience with online learning platforms?
       hint: null
       type: select_one
       options:
-      - workplace_1
-      - workplace_2
-      - workplace_3
+      - beginner
+      - intermediate
+      - advanced
+      - expert
       required: false
     - id: 10
-      name: workplace_technology_level_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: school_technology_level
-      label: school_technology_level
+      name: online_use
+      label: How often do you use online resources for learning?
       hint: null
       type: select_one
       options:
-      - school_1
-      - school_2
-      - school_3
+      - never
+      - occasionally
+      - sometimes
+      - often
+      - always
       required: false
-    - id: 12
-      name: school_technology_level_other
-      label: other
+    - id: 11
+      name: online_language
+      label: What is your preferred language for online learning (e.g., programming
+        languages, languages)?
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: technology_survey_comments
-      label: technology_survey_comments
+    - id: 12
+      name: technology_comments
+      label: Any additional comments or suggestions for improving technology education?
       hint: null
       type: text
       options: []

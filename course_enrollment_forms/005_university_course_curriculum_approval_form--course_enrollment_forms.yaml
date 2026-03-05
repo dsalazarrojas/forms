@@ -4,85 +4,94 @@ inputSchema:
     title: University Course Curriculum Approval Form
     pages:
     - id: 1
-      name: first_page
-      label: course_curriculum_form
+      name: page1
+      label: University Course Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: course_curriculum_info
-      label: curriculum_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: faculty_approval
-      label: faculty_approvals
+      name: page2
+      label: Faculty Approval
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 3
+      name: page3
+      label: Course Changes
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: course_changes
-      label: course_changes
+      name: page4
+      label: Curriculum Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: approval_decision
-      label: approval_decision
+      name: page5
+      label: Committee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page6
+      label: Approval Decision
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 6
-      name: committee_feedback
-      label: committee_feedback
+      required: true
+    - id: 7
+      name: page7
+      label: Page7
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: comments
-      label: comments
+    - id: 8
+      name: page8
+      label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 8
-      name: course_changes
-      label: course_changes
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 9
-      name: committee_approvals
-      label: committee_approvals
+      name: page9
+      label: Faculty Approval 2
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: approval_decision
-      label: approval_decision
-      hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 11
-      name: course_changes
-      label: course_changes
+    - id: 10
+      name: page10
+      label: Page10
       hint: null
       type: text
       options: []
+      required: false
+    - id: 11
+      name: page11
+      label: Page11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page12
+      label: Committee Approval 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false

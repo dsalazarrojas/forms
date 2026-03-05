@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Enrollment''}'
-      - '{''id'': 2, ''name'': ''Other''}'
+      - Enrollment
+      - Other
       required: false
     - id: 3
       name: description
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Beginner''}'
-      - '{''id'': 2, ''name'': ''Intermediate''}'
-      - '{''id'': 3, ''name'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 8
       name: medical_conditions
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 11
       name: agree
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 12
       name: submit
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false
     - id: 13
       name: kids
@@ -116,75 +116,75 @@ inputSchema:
       required: false
     - id: 15
       name: kid_date_of_birth
-      label: Date of Birth
+      label: Kid Date Of Birth
       hint: null
       type: date
       options: []
       required: false
     - id: 16
       name: kid_assessment_level
-      label: Assessment Level
+      label: Kid Assessment Level
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Beginner''}'
-      - '{''id'': 2, ''name'': ''Intermediate''}'
-      - '{''id'': 3, ''name'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 17
       name: kid_medical_conditions
-      label: Medical Conditions
+      label: Kid Medical Conditions
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: kid_media_declaration
-      label: Media Declaration
+      label: Kid Media Declaration
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: kid_terms_conditions
-      label: Terms and Conditions
+      label: Kid Terms Conditions
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 20
       name: kid_agree
-      label: Agree
+      label: Kid Agree
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false
     - id: 21
       name: kid_submit
-      label: Submit
+      label: Kid Submit
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''Cancel''}'
+      - Submit
+      - Cancel
       required: false
     - id: 22
       name: kid_terms
-      label: Terms and Conditions
+      label: Kid Terms
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: kid_terms_conditions
-      label: Terms and Conditions
+      name: kid_terms_conditions_2
+      label: Kid Terms Conditions 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agree''}'
-      - '{''id'': 2, ''name'': ''Disagree''}'
+      - Agree
+      - Disagree
       required: false

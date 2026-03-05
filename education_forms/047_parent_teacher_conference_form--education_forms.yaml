@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 16
       name: meeting_date
@@ -119,8 +119,8 @@ inputSchema:
       options: []
       required: true
     - id: 17
-      name: meeting_time
-      label: Meeting Time
+      name: meeting_time_2
+      label: Meeting Time 2
       hint: null
       type: time
       options: []
@@ -140,13 +140,14 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: subject
-      label: Subject
+      name: subject_2
+      label: Subject 2
       hint: null
       type: select_one
       options:
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 21
       name: notes
@@ -172,8 +173,8 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: meeting_location
-      label: Meeting Location
+      name: meeting_location_2
+      label: Meeting Location 2
       hint: null
       type: text
       options: []

@@ -4,189 +4,158 @@ inputSchema:
     title: HR Process Experience Survey
     pages:
     - id: 1
-      name: form_title
-      label: HR Process Experience Survey
+      name: overall_experience
+      label: Overall Experience
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: category
-      label: category
+      name: hr_effectiveness
+      label: Effectiveness of HR Department
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: true
     - id: 3
-      name: description
-      label: description
+      name: adequate_support
+      label: Adequate Support
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 4
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 5
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: employee_surveys_1
-      label: Employee Surveys
+      name: timely_responses
+      label: Timeliness of Responses
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: form_comments
-      label: Comments
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: training
+      label: Sufficient Training
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_title_2
-      label: HR Process Experience Survey
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: approachability
+      label: Approachability
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: category_1
-      label: Category
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: quality_service
+      label: Quality of Service
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 8
+      name: efficiency_process
+      label: Efficiency of HR Processes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_outside_work_hours
+      label: Contact HR outside of Work Hours
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: proactive_approach
+      label: Proactive Approach
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: challenges
+      label: Major Challenge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: meet_expectations
+      label: Meet Expectations
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 13
-      name: description_1
-      label: Description
+      name: suggestions
+      label: Suggestions
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: email_1
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone_1
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date_1
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time_1
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: note_1
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: employee_surveys_1_1
-      label: Employee Surveys 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: employee_surveys_1_2
-      label: Employee Surveys 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: form_comments_1
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_1
-      label: Question 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: question_2
-      label: Question 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_3
-      label: Question 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted_by
-      label: Submitted By
+      name: transparency
+      label: Transparency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: approachability_2
+      label: Approachability 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: resources
+      label: Resources
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: overall_experience_2
+      label: Overall Experience 2
+      hint: null
+      type: text
+      options: []
       required: false

@@ -30,8 +30,8 @@ inputSchema:
       hint: Select yes if symptomatic
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 5
       name: symptoms_list
@@ -46,8 +46,8 @@ inputSchema:
       hint: Within the last 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: close_contact
@@ -55,8 +55,8 @@ inputSchema:
       hint: Within the last 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: temperature_reading

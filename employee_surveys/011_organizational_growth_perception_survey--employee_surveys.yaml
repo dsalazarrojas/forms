@@ -5,74 +5,119 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: introduction
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: page_2
-      label: questions
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: page_3
-      label: questions
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: page_4
-      label: questions
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
+    - id: 2
+      name: page_2
+      label: Leadership and Mission
+      hint: null
+      type: select_one
+      options:
+      - Very clear and effective
+      - Somewhat clear and effective
+      - Not very clear and effective
+      - Not at all clear and effective
+      required: true
+    - id: 3
+      name: page_3
+      label: Employee Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: false
+    - id: 4
+      name: page_4
+      label: Team Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: false
     - id: 5
       name: page_5
-      label: questions
+      label: Decision-Making
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Very transparent
+      - Somewhat transparent
+      - Not very transparent
+      - Not at all transparent
       required: false
     - id: 6
       name: page_6
-      label: questions
+      label: Page 6
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
       required: false
     - id: 7
       name: page_7
-      label: questions
+      label: Feedback and Improvement
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Very open
+      - Somewhat open
+      - Not very open
+      - Not at all open
       required: false
     - id: 8
       name: page_8
-      label: questions
+      label: Page 8
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Very willing
+      - Somewhat willing
+      - Not very willing
+      - Not at all willing
       required: false
     - id: 9
       name: page_9
-      label: questions
+      label: Growth Opportunities
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 10
       name: page_10
-      label: questions
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - Very long
+      - Somewhat long
+      - Not very long
+      - Not at all long
+      required: true
+    - id: 12
+      name: page_12
+      label: Additional Comments
       hint: null
       type: text
       options: []

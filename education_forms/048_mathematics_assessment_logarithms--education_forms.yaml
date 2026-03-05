@@ -6,178 +6,224 @@ inputSchema:
     - id: 1
       name: page_one
       label: Page One
-      hint: null
+      hint: Instructions - This is the first page of the assessment.
       type: text
       options: []
       required: false
     - id: 2
-      name: page_two
+      name: student_information
       label: Student Information
-      hint: null
+      hint: Provide your name, email, and student ID.
       type: text
       options: []
       required: false
     - id: 3
-      name: logarithm_type
-      label: Logarithm Type
-      hint: null
-      type: select_one
-      options:
-      - Natural Logarithm
-      - Base-2 Logarithm
-      - Base-10 Logarithm
-      required: false
-    - id: 4
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_one
+      label: What is the value of log 2?
+      hint: Use the correct base 10 logarithm.
       type: number
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: question_two
+      label: What is the value of log (3/2) / 2?
+      hint: Simplify your answer.
+      type: number
+      options: []
+      required: true
     - id: 5
-      name: page_three
-      label: Page Three
-      hint: null
+      name: page_two
+      label: Page Two
+      hint: This is the second page of the assessment.
       type: text
       options: []
       required: false
     - id: 6
-      name: question
-      label: What is the value of log 2?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_three
+      label: What is the value of log 3^2?
+      hint: Use the correct base 10 logarithm.
       type: number
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: question_four
+      label: What is the value of log 2 + 3?
+      hint: Simplify your answer.
+      type: number
+      options: []
+      required: true
     - id: 8
-      name: page_four
-      label: Page Four
-      hint: null
+      name: page_three
+      label: Page Three
+      hint: This is the third page of the assessment.
       type: text
       options: []
       required: false
     - id: 9
-      name: question
-      label: What is the value of log (3/2) / 2?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_five
+      label: What is the value of log (3/4) / 2?
+      hint: Use the correct base 10 logarithm.
       type: number
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: question_six
+      label: What is the value of log 0?
+      hint: This should be an undefined value.
+      type: number
+      options: []
+      required: true
     - id: 11
-      name: page_five
-      label: Page Five
-      hint: null
+      name: page_four
+      label: Page Four
+      hint: This is the fourth page of the assessment.
       type: text
       options: []
       required: false
     - id: 12
-      name: question
-      label: What is the value of log 3^2?
-      hint: null
-      type: text
+      name: question_seven
+      label: What is the value of log (-1) / 4?
+      hint: This should be an undefined value.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 13
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_eight
+      label: What is the value of log 2 - 1?
+      hint: Simplify your answer.
       type: number
       options: []
-      required: false
+      required: true
     - id: 14
-      name: page_six
-      label: Page Six
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question
-      label: What is the value of log (3/4) / 2?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_nine
+      label: What is the value of log 2^2 + 2?
+      hint: Use the correct base 10 logarithm.
       type: number
+      options: []
+      required: true
+    - id: 15
+      name: question_ten
+      label: What is the value of log 2 - 2?
+      hint: This should be a negative value.
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: page_five
+      label: Page Five
+      hint: This is the fifth page of the assessment.
+      type: text
       options: []
       required: false
     - id: 17
-      name: page_seven
-      label: Page Seven
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question
-      label: What is the value of log 0?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_eleven
+      label: Question Eleven
+      hint: Use the correct base 10 logarithm.
       type: number
+      options: []
+      required: true
+    - id: 18
+      name: question_twelve
+      label: Question Twelve
+      hint: Simplify your answer.
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: page_six
+      label: Page Six
+      hint: This is the sixth page of the assessment.
+      type: text
       options: []
       required: false
     - id: 20
-      name: page_eight
-      label: Page Eight
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question
-      label: What is the value of log (-1) / 4?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: answer
-      label: Answer
-      hint: Enter the answer
+      name: question_thirteen
+      label: Question Thirteen
+      hint: Use the correct base 10 logarithm.
       type: number
+      options: []
+      required: true
+    - id: 21
+      name: question_fourteen
+      label: Question Fourteen
+      hint: This should be an undefined value.
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: page_seven
+      label: Page Seven
+      hint: This is the seventh page of the assessment.
+      type: text
       options: []
       required: false
     - id: 23
+      name: question_fifteen
+      label: Question Fifteen
+      hint: Simplify your answer.
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: question_sixteen
+      label: Question Sixteen
+      hint: Use the correct base 10 logarithm.
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: question_seventeen
+      label: Question Seventeen
+      hint: This should be an undefined value.
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: page_eight
+      label: Page Eight
+      hint: This is the eighth page of the assessment.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: question_eighteen
+      label: Question Eighteen
+      hint: Simplify your answer.
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: question_nineteen
+      label: Question Nineteen
+      hint: Use the correct base 10 logarithm.
+      type: number
+      options: []
+      required: true
+    - id: 29
       name: page_nine
       label: Page Nine
-      hint: null
+      hint: This is the ninth page of the assessment.
       type: text
       options: []
       required: false
-    - id: 24
-      name: question
-      label: What is the value of log 2 + 3?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: answer
-      label: Answer
-      hint: Enter the answer
+    - id: 30
+      name: question_twenty
+      label: Question Twenty
+      hint: Simplify your answer.
       type: number
+      options: []
+      required: true
+    - id: 31
+      name: question_twenty_one
+      label: Question Twenty One
+      hint: Use the correct base 10 logarithm.
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: page_ten
+      label: Page Ten
+      hint: null
+      type: text
       options: []
       required: false

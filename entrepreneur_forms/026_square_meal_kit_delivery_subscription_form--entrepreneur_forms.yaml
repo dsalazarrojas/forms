@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Basic''}'
-      - '{''id'': 2, ''name'': ''Premium''}'
-      - '{''id'': 3, ''name'': ''Business''}'
+      - Basic
+      - Premium
+      - Business
       required: false
     - id: 3
       name: meal_plan
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner''}'
+      - Breakfast
+      - Lunch
+      - Dinner
       required: false
     - id: 4
       name: payment_info
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Bank Transfer''}'
-      - '{''id'': 2, ''name'': ''Credit Card''}'
-      - '{''id'': 3, ''name'': ''PayPal''}'
+      - Bank Transfer
+      - Credit Card
+      - PayPal
       required: false
     - id: 12
       name: payment_details
@@ -123,6 +123,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''CVV''}'
-      - '{''id'': 2, ''name'': ''Security Code''}'
+      - CVV
+      - Security Code
       required: false

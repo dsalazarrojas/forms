@@ -5,106 +5,85 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: form_title
-      hint: null
+      label: What's your experience with remote work?
+      hint: Please provide a brief description of your experience.
       type: text
       options: []
       required: false
     - id: 2
       name: manager_name
-      label: manager_name
-      hint: null
+      label: Manager's Name
+      hint: Please provide your manager's name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: employee_name
-      label: employee_name
-      hint: null
-      type: text
+      name: manager_email
+      label: Manager's Email
+      hint: Please provide your manager's email address.
+      type: email
       options: []
       required: false
     - id: 4
-      name: satisfaction_score
-      label: satisfaction_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: productivity_score
-      label: productivity_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: challenges
-      label: challenges
-      hint: null
+      name: manager_phone
+      label: Manager's Phone
+      hint: Please provide your manager's phone number.
       type: text
       options: []
       required: false
+    - id: 5
+      name: employee_name
+      label: Your Name
+      hint: Please provide your name.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_email
+      label: Your Email
+      hint: Please provide your email address.
+      type: email
+      options: []
+      required: false
     - id: 7
-      name: comments
-      label: comments
-      hint: null
+      name: employee_phone
+      label: Your Phone
+      hint: Please provide your phone number.
       type: text
       options: []
       required: false
     - id: 8
-      name: email
-      label: email
-      hint: null
-      type: email
+      name: satisfaction_score
+      label: Satisfaction Score (1-5)
+      hint: Please rate your satisfaction with remote work.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: phone
-      label: phone
-      hint: null
-      type: text
+      name: productivity_score
+      label: Productivity Score (1-5)
+      hint: Please rate your productivity with remote work.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: manager_comments
-      label: manager_comments
-      hint: null
+      name: challenges
+      label: Challenges Faced
+      hint: Please list any challenges you faced with remote work.
       type: text
       options: []
       required: false
     - id: 11
-      name: manager_satisfaction_score
-      label: manager_satisfaction_score
-      hint: null
-      type: number
+      name: comments
+      label: Comments and Feedback
+      hint: Please provide any comments or feedback.
+      type: text
       options: []
       required: false
     - id: 12
-      name: manager_productivity_score
-      label: manager_productivity_score
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: manager_challenges
-      label: manager_challenges
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: manager_comments
-      label: manager_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: category
-      label: category
-      hint: null
+      label: Category
+      hint: Please select the category that best describes your experience.
       type: select_one
       options:
       - Remote Work
@@ -112,80 +91,57 @@ inputSchema:
       - Work-Life Balance
       - Other
       required: true
-    - id: 16
-      name: category_other
-      label: category_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_title
-      label: how_long_have
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: form_title
-      label: form_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_title
-      label: form_title
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
-      required: true
-    - id: 20
-      name: form_title
-      label: form_title
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: form_title
-      label: form_title
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: form_title
-      label: form_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_title
-      label: form_title
-      hint: null
+    - id: 13
+      name: how_long_have
+      label: How long have you worked remotely?
+      hint: Please select the duration of your remote work experience.
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 24
-      name: form_title
-      label: form_title
-      hint: null
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 14
+      name: remote_duration
+      label: Duration of Remote Setup
+      hint: Please select the duration of your remote work setup.
+      type: select_multiple
+      options:
+      - 1-2 days
+      - 2-4 days
+      - 4-5 days
+      - 5-7 days
+      - More than 7 days
+      required: true
+    - id: 15
+      name: category_other
+      label: Other Category
+      hint: Please provide any other category that best describes your experience.
       type: text
       options: []
       required: false
-    - id: 25
-      name: form_title
-      label: form_title
-      hint: null
+    - id: 16
+      name: select_multiple
+      label: Select Multiple
+      hint: Please select multiple options that best describe your experience.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 17
+      name: date_experience
+      label: Date of Experience
+      hint: Please provide the date of your remote work experience.
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: end_screen
+      label: End Screen
+      hint: Thank you for taking the time to share your feedback.
       type: text
       options: []
       required: false

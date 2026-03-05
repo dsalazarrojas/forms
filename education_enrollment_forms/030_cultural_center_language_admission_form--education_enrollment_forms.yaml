@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 4
       name: course_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Language Course''}'
-      - '{''id'': 2, ''label'': ''Culture Course''}'
-      - '{''id'': 3, ''label'': ''Art Course''}'
+      - Language Course
+      - Culture Course
+      - Art Course
       required: false
     - id: 5
       name: name
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''French''}'
-      - '{''id'': 4, ''label'': ''Chinese''}'
-      - '{''id'': 5, ''label'': ''Japanese''}'
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Japanese
       required: false
     - id: 11
       name: cultural_center
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Language Institute''}'
-      - '{''id'': 2, ''label'': ''Culture Institute''}'
-      - '{''id'': 3, ''label'': ''Art Institute''}'
+      - Language Institute
+      - Culture Institute
+      - Art Institute
       required: false
     - id: 12
       name: course_length
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Proficient''}'
-      - '{''id'': 2, ''label'': ''Beginner''}'
-      - '{''id'': 3, ''label'': ''Intermediate''}'
+      - Proficient
+      - Beginner
+      - Intermediate
       required: false
     - id: 16
       name: language_proficiency_level
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 17
       name: language_proficiency_scale
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1-5''}'
-      - '{''id'': 2, ''label'': ''6-10''}'
-      - '{''id'': 3, ''label'': ''11-15''}'
+      - 1-5
+      - 6-10
+      - 11-15
       required: false
     - id: 18
       name: language_proficiency_scale_scale

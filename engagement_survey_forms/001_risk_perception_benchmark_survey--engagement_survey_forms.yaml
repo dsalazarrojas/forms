@@ -4,195 +4,176 @@ inputSchema:
     title: Risk Perception Benchmark Survey
     pages:
     - id: 1
-      name: risk_perception_benchmark_survey_page
-      label: Risk Perceptions
+      name: overall_risk_perception
+      label: Overall Risk Perception
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: risk_data_reviewed
+      label: How does it relate to your current situation?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: risk_concerned
+      label: Are you concerned about risks in your area?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 4
+      name: risk_data_sourced
+      label: What kind of risk data do you use to make decisions?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: risk_perception_benchmark_survey_page_2
-      label: How Risk-Related
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: risk_perception_benchmark_survey_page_3
-      label: What Is The Risk
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: risk_perception_benchmark_survey_page_4
-      label: What Risk-Related Data
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Internal
+      - External
+      - Both
+      required: true
     - id: 5
-      name: risk_perception_benchmark_survey_page_5
-      label: Risk Perception
+      name: data_reviewed_frequency
+      label: How often do you review data?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: risk_perception_benchmark_survey_page_6
-      label: Risk Perception
+      name: risk_data_sources
+      label: What sources do you use to gather risk data?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Both
+      required: true
     - id: 7
-      name: risk_perception_benchmark_survey_page_7
-      label: What Risk-Related
+      name: risk_factor_description
+      label: What is the biggest risk you face?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: risk_perception_benchmark_survey_page_8
-      label: What Is The Risk
+      name: risk_level_assessment
+      label: What is the risk level of this risk?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Low
+      - Medium
+      - High
+      required: true
     - id: 9
-      name: risk_perception_benchmark_survey_page_9
-      label: Risk Perception
+      name: risk_control_status
+      label: Do you think this risk is under control?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 10
-      name: risk_perception_benchmark_survey_page_10
-      label: What Is The Risk
+      name: major_concern
+      label: Is the risk a major concern for you?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 11
-      name: risk_perception_benchmark_survey_page_11
-      label: Risk Perception
+      name: risk_data_availability
+      label: Do you have any risk-related data?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 12
-      name: risk_perception_benchmark_survey_page_12
-      label: Risk Perception
+      name: risk_data_kind
+      label: What kind of risk data do you have?
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Both
+      required: true
     - id: 13
-      name: risk_perception_benchmark_survey_page_13
-      label: What Risk-Related
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: risk_perception_benchmark_survey_page_14
-      label: What Is The Risk
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: risk_perception_benchmark_survey_page_15
-      label: Risk Perception
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: risk_perception_benchmark_survey_page_16
-      label: What Is The Risk
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: risk_perception_benchmark_survey_page_17
-      label: Risk Perception
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: risk_perception_benchmark_survey_page_18
-      label: Risk Perception
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: risk_perception_benchmark_survey_page_19
-      label: Risk Perception
+      name: data_reviewed_frequency_2
+      label: Data Reviewed Frequency 2
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 14
+      name: risk_factor_description_2
+      label: What is the risk factor?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: risk_level_assessment_2
+      label: Risk Level Assessment 2
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 16
+      name: risk_control_status_2
+      label: Risk Control Status 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: major_concern_2
+      label: Major Concern 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: risk_data_availability_2
+      label: Risk Data Availability 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: risk_data_kind_2
+      label: Risk Data Kind 2
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Both
+      required: true
     - id: 20
-      name: risk_perception_benchmark_survey_page_20
-      label: Risk Perception
+      name: data_reviewed_frequency_3
+      label: Data Reviewed Frequency 3
       hint: null
-      type: date
+      type: number
       options: []
-      required: false
-    - id: 21
-      name: risk_perception_benchmark_survey_page_21
-      label: Risk Perception
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: risk_perception_benchmark_survey_page_22
-      label: What Is The Risk
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: risk_perception_benchmark_survey_page_23
-      label: What Is The Risk
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: risk_perception_benchmark_survey_page_24
-      label: Risk Perception
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: risk_perception_benchmark_survey_page_25
-      label: What Risk-Related
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

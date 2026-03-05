@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Hourly''}'
-      - '{''label'': ''Contract''}'
-      - '{''label'': ''Seasonal''}'
+      - Hourly
+      - Contract
+      - Seasonal
       required: false
     - id: 4
       name: job_start_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cash''}'
-      - '{''label'': ''Check''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Cash
+      - Check
+      - Bank Transfer
       required: false
     - id: 8
       name: job_duration
@@ -120,10 +120,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Child''}'
-      - '{''label'': ''Other''}'
+      - Spouse
+      - Parent
+      - Child
+      - Other
       required: false
     - id: 17
       name: emergency_notice_period_unit
@@ -131,8 +131,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Hours''}'
-      - '{''label'': ''Days''}'
+      - Hours
+      - Days
       required: false
     - id: 18
       name: job_end_date

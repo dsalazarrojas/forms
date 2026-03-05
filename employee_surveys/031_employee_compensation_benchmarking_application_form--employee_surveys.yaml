@@ -5,35 +5,35 @@ inputSchema:
     pages:
     - id: 1
       name: job_title
-      label: job_title
+      label: What is your job title?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: salary_range
-      label: salary_range
+      label: What is your salary range?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
       name: years_of_service
-      label: years_of_service
+      label: How many years of service have you had in your current company?
       hint: null
       type: number
       options: []
       required: false
     - id: 4
       name: benefits_packages
-      label: benefits_packages
+      label: What type of benefits packages do you currently have?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: company_size
-      label: company_size
+      label: What is the size of your company?
       hint: null
       type: select_multiple
       options:
@@ -43,7 +43,7 @@ inputSchema:
       required: false
     - id: 6
       name: department
-      label: department prophets
+      label: What department do you currently work in?
       hint: null
       type: select_one
       options:
@@ -59,87 +59,66 @@ inputSchema:
       required: false
     - id: 7
       name: manager_title
-      label: manager_title
+      label: What is your manager's title?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: employee_id
-      label: prophets
+      name: email
+      label: What is your email address?
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 9
       name: phone_number
-      label: phone_number
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: date_of_birth
-      label: date_of_birth
+      label: What is your date of birth?
       hint: null
       type: date
       options: []
       required: false
     - id: 11
       name: start_date
-      label: start_date
+      label: When did you start working for this company?
       hint: null
-      type: time
+      type: date
       options: []
       required: false
     - id: 12
       name: end_date
-      label: end_date
+      label: When did you leave this company?
       hint: null
       type: date
       options: []
       required: false
     - id: 13
       name: note
-      label: notes
+      label: Do you have any additional notes or comments?
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 14
-      name: job_description
-      label: job_description
+      name: job_responsibilities
+      label: Can you describe your current job responsibilities?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
       name: manager_name
-      label: manager
+      label: Can you provide your manager's name?
       hint: null
       type: select_one
       options:
       - John Smith
       - Jane Doe
-      required: false
-    - id: 16
-      name: job_title_1
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: job_title_2
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: job_title_3
-      label: job_title
-      hint: null
-      type: text
-      options: []
       required: false

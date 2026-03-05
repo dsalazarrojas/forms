@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 3
       name: preferred_format
@@ -37,9 +26,9 @@ inputSchema:
       hint: Which format do you prefer?
       type: select_one
       options:
-      - '{''value'': ''Digital Only''}'
-      - '{''value'': ''Print Only''}'
-      - '{''value'': ''Both''}'
+      - Digital Only
+      - Print Only
+      - Both
       required: false
     - id: 4
       name: reading_frequency
@@ -47,10 +36,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
       required: false
     - id: 5
       name: device_usage
@@ -58,10 +47,10 @@ inputSchema:
       hint: Which devices do you use to read?
       type: select_multiple
       options:
-      - '{''value'': ''E-Reader''}'
-      - '{''value'': ''Tablet''}'
-      - '{''value'': ''Smartphone''}'
-      - '{''value'': ''Other''}'
+      - E-Reader
+      - Tablet
+      - Smartphone
+      - Other
       required: false
     - id: 6
       name: reading_location
@@ -69,10 +58,10 @@ inputSchema:
       hint: Where do you usually read?
       type: select_multiple
       options:
-      - '{''value'': ''Home''}'
-      - '{''value'': ''Office''}'
-      - '{''value'': ''Public Transportation''}'
-      - '{''value'': ''Other''}'
+      - Home
+      - Office
+      - Public Transportation
+      - Other
       required: false
     - id: 7
       name: reading_length
@@ -80,10 +69,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than 15 minutes''}'
-      - '{''value'': ''15-30 minutes''}'
-      - '{''value'': ''30-60 minutes''}'
-      - '{''value'': ''More than 1 hour''}'
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - More than 1 hour
       required: false
     - id: 8
       name: preferred_format_for_reading_materials
@@ -91,8 +80,8 @@ inputSchema:
       hint: Which format do you prefer for reading materials?
       type: select_multiple
       options:
-      - '{''value'': ''Digital''}'
-      - '{''value'': ''Print''}'
+      - Digital
+      - Print
       required: false
     - id: 9
       name: format_purchasing
@@ -100,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Digital Only''}'
-      - '{''value'': ''Print Only''}'
-      - '{''value'': ''Both''}'
+      - Digital Only
+      - Print Only
+      - Both
       required: false
     - id: 10
       name: format_shared
@@ -110,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Digital Only''}'
-      - '{''value'': ''Print Only''}'
-      - '{''value'': ''Both''}'
+      - Digital Only
+      - Print Only
+      - Both
       required: false
     - id: 11
       name: format_retained
@@ -120,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Digital Only''}'
-      - '{''value'': ''Print Only''}'
-      - '{''value'': ''Both''}'
+      - Digital Only
+      - Print Only
+      - Both
       required: false
     - id: 12
       name: format_discarded
@@ -130,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Digital Only''}'
-      - '{''value'': ''Print Only''}'
-      - '{''value'': ''Both''}'
+      - Digital Only
+      - Print Only
+      - Both
       required: false
     - id: 13
       name: reading_habits

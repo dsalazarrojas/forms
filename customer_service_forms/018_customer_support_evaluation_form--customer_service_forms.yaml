@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': True, ''label'': True}'
-      - '{''id'': 11, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: evaluation_form_submit
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11, ''name'': ''Submit'', ''label'': ''Submit''}'
-      - '{''id'': 12, ''name'': ''Cancel'', ''label'': ''Cancel''}'
-      - '{''id'': 13, ''name'': ''Save and Continue'', ''label'': ''Save and Continue''}'
+      - Submit
+      - Cancel
+      - Save and Continue
       required: false
     - id: 12
       name: evaluation_form_date

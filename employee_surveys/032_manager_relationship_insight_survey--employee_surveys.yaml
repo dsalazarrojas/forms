@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sales''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''IT''}'
+      - Sales
+      - Marketing
+      - IT
       required: false
     - id: 8
       name: job_title
@@ -82,11 +82,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Strongly Disagree''}'
-      - '{''id'': 2, ''name'': ''Somewhat Disagree''}'
-      - '{''id'': 3, ''name'': ''Neutral''}'
-      - '{''id'': 4, ''name'': ''Somewhat Agree''}'
-      - '{''id'': 5, ''name'': ''Strongly Agree''}'
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
       required: false
     - id: 12
       name: manager_survey_rating
@@ -94,10 +94,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 13
       name: job_performance_rating
@@ -105,10 +105,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 14
       name: communication_rating
@@ -116,10 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 15
       name: leadership_rating
@@ -127,10 +127,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 16
       name: feedback_frequency
@@ -138,10 +138,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
       required: false
     - id: 17
       name: support_rating
@@ -149,10 +149,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 18
       name: recognition_rating
@@ -160,10 +160,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 19
       name: feedback_availability
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Available''}'
-      - '{''id'': 2, ''name'': ''Somewhat Available''}'
-      - '{''id'': 3, ''name'': ''Not Available''}'
+      - Available
+      - Somewhat Available
+      - Not Available
       required: false
     - id: 20
       name: training_and_development
@@ -181,10 +181,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Important''}'
-      - '{''id'': 2, ''name'': ''Somewhat Important''}'
-      - '{''id'': 3, ''name'': ''Not Very Important''}'
-      - '{''id'': 4, ''name'': ''Not Important at All''}'
+      - Very Important
+      - Somewhat Important
+      - Not Very Important
+      - Not Important at All
       required: false
     - id: 21
       name: opportunities_for_advancement
@@ -192,10 +192,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 22
       name: worklife_balance
@@ -203,10 +203,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false
     - id: 23
       name: overall_satisfaction
@@ -214,8 +214,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Not Good''}'
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
       required: false

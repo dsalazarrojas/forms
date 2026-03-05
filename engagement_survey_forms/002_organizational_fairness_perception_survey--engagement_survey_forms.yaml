@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 7
       name: fair_leadership
@@ -65,10 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 9
       name: fair_opportunities
@@ -85,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 11
       name: fair_inclusion
@@ -104,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 13
       name: fair_workload
@@ -121,11 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 15
       name: fair_health
@@ -133,12 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
-      - Option 6
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 16
       name: fair_environment
@@ -146,11 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      - Option 5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 17
       name: fair_diversity
@@ -176,14 +168,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 20
-      name: fair_diversity
-      label: Fair Diversities
+      name: fair_diversity_2
+      label: Fair Diversity 2
       hint: null
       type: select_multiple
       options:
@@ -196,28 +187,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 22
-      name: fair_safety
-      label: Fair Safety
+      name: fair_safety_2
+      label: Fair Safety 2
       hint: null
       type: text
       options: []
       required: true
     - id: 23
-      name: fair_sustainability
-      label: Fair Sustainibility
+      name: fair_sustainability_2
+      label: Fair Sustainability 2
       hint: null
       type: number
       options: []
       required: false
     - id: 24
       name: fair_sustainibility
-      label: Fair Sustainibility
+      label: Fair Sustainibility (3)
       hint: null
       type: text
       options: []

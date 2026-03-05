@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''full-time'', ''label'': ''Full-time''}'
-      - '{''value'': ''part-time'', ''label'': ''Part-time''}'
-      - '{''value'': ''retired'', ''label'': ''Retired''}'
-      - '{''value'': ''unemployed'', ''label'': ''Unemployed''}'
+      - Full-time
+      - Part-time
+      - Retired
+      - Unemployed
       required: false
     - id: 11
       name: applicant_employment_length
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''fixed'', ''label'': ''Fixed''}'
-      - '{''value'': ''variable'', ''label'': ''Variable''}'
+      - Fixed
+      - Variable
       required: false
     - id: 20
       name: loan_terms_payment
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
+      - Monthly
+      - Quarterly
       required: false
     - id: 21
       name: contact_phone

@@ -39,8 +39,8 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: student_status
-      label: Student Status
+      name: student_status_2
+      label: Student Status 2
       hint: null
       type: text
       options: []
@@ -132,14 +132,14 @@ inputSchema:
       - 'No'
       required: false
     - id: 19
-      name: payment_method
-      label: Payment Method
+      name: payment_method_2
+      label: Payment Method 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''credit_card''}'
-      - '{''label'': ''cash''}'
-      - '{''label'': ''bank_transfer''}'
+      - credit card
+      - cash
+      - bank transfer
       required: false
     - id: 20
       name: student_signature
@@ -147,17 +147,17 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''signature''}'
-      - '{''label'': False}'
+      - signature
+      - 'False'
       required: false
     - id: 21
-      name: student_signature
-      label: Student Signature
+      name: student_signature_2
+      label: Student Signature 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''signature''}'
-      - '{''label'': False}'
+      - signature
+      - 'False'
       required: false
     - id: 22
       name: student_signature_date
@@ -167,8 +167,8 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: student_signature
-      label: Student Signature
+      name: student_signature_3
+      label: Student Signature 3
       hint: null
       type: time
       options: []

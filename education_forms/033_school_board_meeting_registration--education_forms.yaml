@@ -4,185 +4,59 @@ inputSchema:
     title: School Board Meeting Registration
     pages:
     - id: 1
-      name: school_board_meeting_registration_form
-      label: school_board_meeting_registration_form
-      hint: null
+      name: attendee_details
+      label: Attendee Details
+      hint: Please provide attendee's name and title
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: rsvp
-      label: RSVP
-      hint: null
-      type: number
+      name: meeting_details
+      label: Meeting Details
+      hint: Meeting date, time, and location
+      type: text
       options: []
       required: false
     - id: 3
-      name: attendee_roles
-      label: attendee_roles
-      hint: null
+      name: participation_details
+      label: Participation Details
+      hint: Participation type and other details
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
+      - Member of the School Committee
+      - Staff Member
+      - Guest
+      required: true
     - id: 4
-      name: participation_type
-      label: participation_type
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
+      name: comments_and_questions
+      label: Comments and Questions
+      hint: Comments and questions for the meeting
+      type: text
+      options: []
       required: false
     - id: 5
-      name: questions
-      label: questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: accessibility_requests
-      label: accessibility_requests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: virtual_meeting_url
-      label: virtual_meeting_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: in_person_meeting_location
-      label: in_person_meeting_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: rsvp_date
-      label: rsvp_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: rsvp_time
-      label: rsvp_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: form_submission_date
-      label: form_submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: form_submission_time
-      label: form_submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: school_district
-      label: school_district
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: meeting_attendance
-      label: meeting_attendance
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: meeting_agenda_items
-      label: meeting_agenda_items
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: attendees
-      label: attendees
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: questions
-      label: questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: accessibility_requests
-      label: accessibility_requests
-      hint: null
+      label: Accessibility Requests
+      hint: Accessibility requests
       type: select_multiple
       options:
-      - option1
-      - option2
+      - Accessible meeting materials
+      - Sign language interpreter
+      - Other (please specify)
       required: false
-    - id: 23
-      name: in_person_meeting_location_id
-      label: in_person_meeting_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: virtual_meeting_url
-      label: virtual_meeting_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: in_person_meeting_location_notes
-      label: in_person_meeting_location_notes
-      hint: null
+    - id: 6
+      name: meeting_attendance
+      label: Meeting Attendance
+      hint: Confirm meeting attendance
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: meeting_agenda_items
+      label: Meeting Agenda Items
+      hint: Meeting agenda items
       type: text
       options: []
       required: false

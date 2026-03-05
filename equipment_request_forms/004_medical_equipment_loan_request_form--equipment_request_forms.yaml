@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Autoclave''}'
-      - '{''value'': ''Defibrillator''}'
-      - '{''value'': ''ECG Machine''}'
-      - '{''value'': ''Oxygen Tank''}'
+      - Autoclave
+      - Defibrillator
+      - ECG Machine
+      - Oxygen Tank
       required: false
     - id: 5
       name: equipment_location
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Hospital''}'
-      - '{''value'': ''Clinic''}'
-      - '{''value'': ''University''}'
-      - '{''value'': ''Lab''}'
+      - Hospital
+      - Clinic
+      - University
+      - Lab
       required: false
     - id: 6
       name: loan_duration
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Denied''}'
+      - Pending
+      - Approved
+      - Denied
       required: false
     - id: 12
       name: loaned_to
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Borrower''}'
-      - '{''value'': ''Loaner''}'
+      - Borrower
+      - Loaner
       required: false
     - id: 13
       name: loan_returned
@@ -106,7 +106,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''On Time''}'
-      - '{''value'': ''Late''}'
-      - '{''value'': ''Not Returned''}'
+      - On Time
+      - Late
+      - Not Returned
       required: false

@@ -5,125 +5,104 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: first_page
+      label: First Page
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: gas_system_inspection
-      label: gas_system_inspection
+      label: Inspect Gas System Components
       hint: null
       type: select_one
       options:
-      - '{1: ''Valve 1''}'
-      - '{2: ''Valve 2''}'
-      - '{3: ''Valve 3''}'
+      - Valve 1
+      - Valve 2
+      - Valve 3
       required: false
     - id: 3
       name: page_2
-      label: second_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: maintenance_activities
-      label: maintenance_activities
+      label: Maintenance Activities
       hint: null
       type: select_multiple
       options:
-      - '{1: ''Maintenance Activity 1''}'
-      - '{2: ''Maintenance Activity 2''}'
-      - '{3: ''Maintenance Activity 3''}'
+      - Maintenance Activity 1
+      - Maintenance Activity 2
+      - Maintenance Activity 3
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
       required: false
     - id: 5
       name: page_3
-      label: comments
+      label: Page 3
       hint: null
       type: note
       options: []
       required: false
     - id: 6
-      name: comments
-      label: comments
+      name: facility_email
+      label: Facility Email
       hint: null
-      type: note
+      type: email
       options: []
       required: false
     - id: 7
-      name: submit_button
-      label: submit
+      name: facility_phone
+      label: Facility Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: email
-      label: facility_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: facility_phone
-      label: facility_phone
+      name: submit_button
+      label: Submit
       hint: null
       type: text
       options: []
       required: false
+    - id: 9
+      name: facility_email_2
+      label: Facility Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
     - id: 10
-      name: submit_button
-      label: submit
+      name: facility_phone_2
+      label: Facility Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: email
-      label: facility_email
+      name: submit_button_2
+      label: Submit Button 2
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 12
-      name: facility_phone
-      label: facility_phone
+      name: gas_inlet
+      label: Gas Inlet
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: submit_button
-      label: submit
+      name: gas_outlet
+      label: Gas Outlet
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: page_4
-      label: page_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: gas_inlet
-      label: gas_inlet_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: gas_outlet
-      label: gas_outlet_label
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_5
-      label: page_5
+      label: Additional Comments
       hint: null
       type: text
       options: []

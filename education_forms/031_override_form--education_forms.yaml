@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Education Forms''}'
-      - '{''value'': 2, ''label'': ''Other''}'
+      - Education Forms
+      - Other
       required: false
     - id: 4
       name: form_category_id
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pending'', ''label'': ''pending''}'
-      - '{''value'': ''approved'', ''label'': ''approved''}'
-      - '{''value'': ''denied'', ''label'': ''denied''}'
+      - pending
+      - approved
+      - denied
       required: false
     - id: 7
       name: form_submitter
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''student'', ''label'': ''Student''}'
-      - '{''value'': ''instructor'', ''label'': ''Instructor''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Student
+      - Instructor
+      - Other
       required: false
     - id: 8
       name: form_student_id
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''academic'', ''label'': ''academic''}'
-      - '{''value'': ''other'', ''label'': ''other''}'
+      - academic
+      - other
       required: false
     - id: 10
       name: form_start_date
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending'', ''label'': ''pending''}'
-      - '{''value'': ''approved'', ''label'': ''approved''}'
-      - '{''value'': ''denied'', ''label'': ''denied''}'
+      - pending
+      - approved
+      - denied
       required: false
     - id: 16
       name: form_comments

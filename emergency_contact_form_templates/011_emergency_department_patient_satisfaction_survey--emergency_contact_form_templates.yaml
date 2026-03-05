@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 30 minutes''}'
-      - '{''label'': ''30-60 minutes''}'
-      - '{''label'': ''60-90 minutes''}'
-      - '{''label'': ''More than 90 minutes''}'
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - More than 90 minutes
       required: false
     - id: 3
       name: rating_of_nurse
@@ -27,11 +27,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: rating_of_doctor
@@ -39,11 +39,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: patient_safety_procedure
@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: hospital_environment
@@ -60,11 +60,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: staff_helpfulness
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very helpful''}'
-      - '{''label'': ''Somewhat helpful''}'
-      - '{''label'': ''Not helpful at all''}'
+      - Very helpful
+      - Somewhat helpful
+      - Not helpful at all
       required: false
     - id: 8
       name: overall_satisfaction

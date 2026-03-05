@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': ''true''}'
-      - '{''label'': False, ''value'': ''false''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: upload_resume
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
-      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
-      - '{''label'': ''Contract'', ''value'': ''Contract''}'
+      - Full-time
+      - Part-time
+      - Contract
       required: false
     - id: 17
       name: employment_status
@@ -126,8 +126,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Open'', ''value'': ''Open''}'
-      - '{''label'': ''Closed'', ''value'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 18
       name: work_experience
@@ -142,11 +142,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bachelor'', ''value'': ''Bachelor''}'
-      - '{''label'': ''Master'', ''value'': ''Master''}'
-      - '{''label'': ''High School'', ''value'': ''High School''}'
-      - '{''label'': ''Doctorate'', ''value'': ''Doctorate''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Bachelor
+      - Master
+      - High School
+      - Doctorate
+      - Other
       required: false
     - id: 20
       name: job_start_date
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''Active''}'
-      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 23
       name: company_info

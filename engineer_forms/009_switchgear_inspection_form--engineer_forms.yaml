@@ -15,198 +15,143 @@ inputSchema:
     title: switchgear_inspection_form
     pages:
     - id: 1
-      name: switchgear_inspection_form_page
-      label: switchgear_inspection_form_page
+      name: switchgear_item_page
+      label: What is the name of the switchgear item?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: switchgear_item
-      label: switchgear_item
+      name: switchgear_location_page
+      label: Where was the switchgear item inspected?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: switchgear_location
-      label: switchgear_location
+      name: switchgear_condition_page
+      label: What was the condition of the switchgear item during inspection?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: switchgear_condition
-      label: switchgear_condition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: switchgear_inspection_type
-      label: switchgear_inspection_type
+      name: switchgear_inspection_type_page
+      label: What type of inspection was performed on the switchgear item?
       hint: null
       type: select_one
       options:
-      - item1
-      - item2
-      - item3
-      - item4
-      - item5
-      - item6
-      required: false
+      - Visual Inspection
+      - Mechanical Inspection
+      - Functional Inspection
+      required: true
+    - id: 5
+      name: switchgear_result_page
+      label: What was the result of the inspection?
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pending
+      required: true
     - id: 6
-      name: switchgear_inspection_date
-      label: switchgear_inspection_date
+      name: switchgear_status_page
+      label: What is the status of the inspection?
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 7
+      name: switchgear_recommendation_action_page
+      label: What is the recommended action for the switchgear item?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: switchgear_recommendation_date_page
+      label: What is the date of the inspection recommendation?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 7
-      name: switchgear_inspection_time
-      label: switchgear_inspection_time
+      required: true
+    - id: 9
+      name: switchgear_recommendation_time_page
+      label: What is the time of the inspection recommendation?
       hint: null
       type: time
       options: []
-      required: false
-    - id: 8
-      name: switchgear_inspection_note
-      label: switchgear_inspection_note
+      required: true
+    - id: 10
+      name: switchgear_recommendation_note_page
+      label: Is there a note for the inspection recommendation?
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: switchgear_inspection_result
-      label: switchgear_inspection_result
-      hint: null
-      type: select_one
-      options:
-      - item1
-      - item2
-      - item3
-      required: false
-    - id: 10
-      name: switchgear_inspection_status
-      label: switchgear_inspection_status
-      hint: null
-      type: select_one
-      options:
-      - item1
-      - item2
-      - item3
-      required: false
     - id: 11
-      name: switchgear_inspection_comment
-      label: switchgear_inspection_comment
+      name: switchgear_recommendation_comments_page
+      label: Are there any comments for the inspection recommendation?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: switchgear_inspection_recommendation
-      label: switchgear_inspection_recommendation
+      name: switchgear_recommendation_status_page
+      label: What is the status of the inspection recommendation?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
     - id: 13
-      name: switchgear_inspection_recommendation_action
-      label: switchgear_inspection_recommendation_action
+      name: switchgear_recommendation_comments_page_2
+      label: Switchgear Recommendation Comments Page 2
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: switchgear_inspection_recommendation_status
-      label: switchgear_inspection_recommendation_status
-      hint: null
-      type: select_one
-      options:
-      - item1
-      - item2
-      - item3
-      required: false
-    - id: 15
-      name: switchgear_inspection_recommendation_comments
-      label: switchgear_inspection_recommendation_comments
+      name: switchgear_recommendation_comments_text_page
+      label: Switchgear Recommendation Comments Text Page
       hint: null
       type: text
       options: []
       required: false
+    - id: 15
+      name: switchgear_result_page_2
+      label: What is the result of the inspection?
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pending
+      required: true
     - id: 16
-      name: switchgear_inspection_recommendation_date
-      label: switchgear_inspection_recommendation_date
+      name: switchgear_recommendation_date_page_2
+      label: Switchgear Recommendation Date Page 2
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 17
-      name: switchgear_inspection_recommendation_time
-      label: switchgear_inspection_recommendation_time
+      name: switchgear_recommendation_time_page_2
+      label: Switchgear Recommendation Time Page 2
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 18
-      name: switchgear_inspection_recommendation_note
-      label: switchgear_inspection_recommendation_note
+      name: switchgear_recommendation_note_page_2
+      label: Switchgear Recommendation Note Page 2
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 19
-      name: switchgear_inspection_recommendation_result
-      label: switchgear_inspection_result
-      hint: null
-      type: select_one
-      options:
-      - item1
-      - item2
-      - item3
-      required: false
-    - id: 20
-      name: switchgear_inspection_recommendation_status
-      label: switchgear_inspection_recommendation_status
-      hint: null
-      type: select_one
-      options:
-      - item1
-      - item2
-      - item3
-      required: false
-    - id: 21
-      name: switchgear_inspection_recommendation_comments
-      label: switchgear_inspection_recommendation_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: switchgear_inspection_recommendation_comments_text
-      label: switchgear_inspection_recommendation_comments_text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: switchgear_inspection_recommendation_comments_text
-      label: switchgear_inspection_recommendation_comments_text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: switchgear_inspection_recommendation_comments_text_2
-      label: switchgear_inspection_recommendation_comments_text_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: switchgear_inspection_result_text
-      label: switchgear_inspection_result_text
-      hint: null
-      type: text
       options: []
       required: false

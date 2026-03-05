@@ -4,195 +4,146 @@ inputSchema:
     title: state_of_the_region_museums_survey_2013
     pages:
     - id: 1
-      name: form_1
-      label: survey_start
+      name: page_1
+      label: About You
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_2
-      label: how_did_you_hear
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 3
-      name: form_3
-      label: have_you_visited
+      name: page_2
+      label: How did you hear about our museum?
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - I saw a social media post
+      - I was referred by a friend
+      - I read an online review
+      - I saw a billboard
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: page_3
+      label: Have you visited our museum before?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 4
-      name: form_4
-      label: number_of_visits
+      name: page_4
+      label: How many times have you visited our museum in the last year?
       hint: null
       type: number
       options: []
       required: true
     - id: 5
-      name: form_5
-      label: how_many_times_in_last_year
+      name: page_5
+      label: When was your last visit to our museum?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: page_6
+      label: How long did you stay at the museum during your last visit?
       hint: null
       type: number
       options: []
       required: true
-    - id: 6
-      name: form_6
-      label: last_visit_date
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 7
-      name: form_7
-      label: how_long
+      name: page_7
+      label: What brought you to our museum last time you visited?
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - Exhibits
+      - Programs
+      - Events
+      - Other (please specify)
       required: true
     - id: 8
-      name: form_8
-      label: contact_email
+      name: page_8
+      label: What is your current occupation?
       hint: null
-      type: email
+      type: text
       options: []
-      required: true
+      required: false
     - id: 9
-      name: form_9
-      label: contact_phone
+      name: page_9
+      label: What is your current level of education?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: form_10
-      label: how_did_you_hear
+      name: page_10
+      label: How did you find our museum's facilities and exhibits?
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 11
-      name: form_11
-      label: what_brought
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 12
-      name: form_12
-      label: what_brought_2
+      name: page_11
+      label: Would you recommend our museum to friends and family?
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      required: false
-    - id: 13
-      name: form_13
-      label: contact_name
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: page_12
+      label: Why or why not?
       hint: null
       type: text
       options: []
-      required: true
+      required: false
+    - id: 13
+      name: page_13
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: form_14
-      label: contact_organisation
+      name: page_14
+      label: How can we improve our museum's accessibility for visitors?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: form_15
-      label: contact_email
+      name: page_15
+      label: Would you like to be on our mailing list?
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 16
-      name: form_16
-      label: contact_phone
+      name: page_16
+      label: Your contact information
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: form_17
-      label: form_16
+      name: page_17
+      label: Additional comments
       hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: text
+      options: []
       required: false
     - id: 18
-      name: form_18
-      label: form_17
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: form_19
-      label: form_18
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: form_19
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 21
-      name: form_21
-      label: form_20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: form_21
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      required: false
-    - id: 23
-      name: form_23
-      label: form_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: form_23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: form_24
+      name: page_18
+      label: Additional comments (2)
       hint: null
       type: text
       options: []

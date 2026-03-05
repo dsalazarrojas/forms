@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''10-1'', ''name'': ''CA'', ''label'': ''California''}'
-      - '{''id'': ''10-2'', ''name'': ''NY'', ''label'': ''New York''}'
+      - California
+      - New York
       required: true
     - id: 11
       name: country
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''11-1'', ''name'': ''US'', ''label'': ''United States''}'
-      - '{''id'': ''11-2'', ''name'': ''CA'', ''label'': ''Canada''}'
+      - United States
+      - Canada
       required: true
     - id: 12
       name: customer_type
@@ -90,6 +90,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''12-1'', ''name'': ''Individual'', ''label'': ''Individual''}'
-      - '{''id'': ''12-2'', ''name'': ''Business'', ''label'': ''Business''}'
+      - Individual
+      - Business
       required: true

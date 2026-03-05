@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: First name
+      label: First Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: last_name
-      label: Last name
+      label: Last Name
       hint: null
       type: text
       options: []
@@ -32,155 +32,62 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: message
-      label: Message
+      name: category
+      label: Category
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: subject
-      label: Subject
+      name: message
+      label: Message
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 8
       name: attachment
       label: Attachment
       hint: null
       type: note
       options: []
-      required: false
-    - id: 9
-      name: first_name
-      label: First name
+      required: true
+    - id: 8
+      name: subject
+      label: Subject
       hint: null
       type: text
       options: []
       required: false
+    - id: 9
+      name: category_repeat
+      label: Category (repeat)
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 10
-      name: last_name
-      label: Last name
+      name: attachment_description
+      label: Attachment Description
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: email
-      label: E-mail
+      name: attachment_upload
+      label: Attachment Upload
       hint: null
-      type: email
+      type: note
       options: []
       required: false
     - id: 12
-      name: phone
-      label: Phone
+      name: subject_repeat
+      label: Subject (repeat)
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 13
-      name: message
-      label: Message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: subject
-      label: Subject
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: attachment
-      label: Attachment
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 17
-      name: first_name
-      label: First name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: last_name
-      label: Last name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: E-mail
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: message
-      label: Message
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: subject
-      label: Subject
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: attachment
-      label: Attachment
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: attachment
-      label: Attachment
-      hint: null
-      type: note
       options: []
       required: false

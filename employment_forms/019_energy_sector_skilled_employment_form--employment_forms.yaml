@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full-time'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Part-time'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Contract'', ''value'': 3}'
+      - Full-time
+      - Part-time
+      - Contract
       required: false
     - id: 3
       name: job_positions
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engineer'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Technician'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Tradesperson'', ''value'': 3}'
+      - Engineer
+      - Technician
+      - Tradesperson
       required: false
     - id: 4
       name: job_positions_2
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Electrician'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Plumber'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Mechanic'', ''value'': 3}'
+      - Electrician
+      - Plumber
+      - Mechanic
       required: false
     - id: 5
       name: job_locations
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Australia'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''UK'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Canada'', ''value'': 3}'
+      - Australia
+      - UK
+      - Canada
       required: false
     - id: 6
       name: contact_number

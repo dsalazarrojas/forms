@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Contemporary''}'
-      - '{''id'': 2, ''label'': ''Ballroom''}'
-      - '{''id'': 3, ''label'': ''Hip-Hop''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Contemporary
+      - Ballroom
+      - Hip-Hop
+      - Other
       required: true
     - id: 5
       name: vote_type
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Judge''}'
-      - '{''id'': 2, ''label'': ''Audience''}'
-      - '{''id'': 3, ''label'': ''Participant''}'
+      - Judge
+      - Audience
+      - Participant
       required: true
     - id: 6
       name: vote_weight

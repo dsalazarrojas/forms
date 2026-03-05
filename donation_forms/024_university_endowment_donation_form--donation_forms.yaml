@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Donor'', ''label'': ''Individual Donor''}'
-      - '{''value'': ''Organization'', ''label'': ''Organization''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Individual Donor
+      - Organization
+      - Other
       required: true
     - id: 3
       name: contact_number
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Once'', ''label'': ''One Time''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''Quarterly'', ''label'': ''Quarterly''}'
-      - '{''value'': ''Yearly'', ''label'': ''Yearly''}'
+      - One Time
+      - Monthly
+      - Quarterly
+      - Yearly
       required: true
     - id: 7
       name: additional_donations
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: payment_method
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
-      - '{''value'': ''Credit Card'', ''label'': ''Credit Card''}'
-      - '{''value'': ''Check'', ''label'': ''Check''}'
+      - Bank Transfer
+      - Credit Card
+      - Check
       required: true
     - id: 9
       name: payment_date

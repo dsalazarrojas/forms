@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''bus''}'
-      - '{''value'': ''walk''}'
-      - '{''value'': ''bike''}'
+      - bus
+      - walk
+      - bike
       required: false
     - id: 6
       name: student_transportation_vehicle_type
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''bus''}'
-      - '{''value'': ''car''}'
-      - '{''value'': ''taxi''}'
+      - bus
+      - car
+      - taxi
       required: false
     - id: 7
       name: student_transportation_notes
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 11
       name: form_id

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
-      - '{''id'': 4, ''label'': "Don''t know"}'
+      - 'True'
+      - 'False'
+      - Maybe
+      - Don't know
       required: false
     - id: 3
       name: ctc_link_logins
@@ -52,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': ''Maybe''}'
+      - 'True'
+      - Maybe
       required: false
     - id: 6
       name: student_phone_computer_skills
@@ -61,8 +50,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': ''Maybe''}'
+      - 'True'
+      - Maybe
       required: false
     - id: 7
       name: other_info
@@ -70,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': ''Maybe''}'
+      - 'True'
+      - Maybe
       required: false
     - id: 8
       name: students_with_covid
@@ -79,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': ''Maybe''}'
-      - '{''id'': 3, ''label'': False}'
+      - 'True'
+      - Maybe
+      - 'False'
       required: false
     - id: 9
       name: students_with_other_needs
@@ -89,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': ''Maybe''}'
-      - '{''id'': 3, ''label'': False}'
+      - 'True'
+      - Maybe
+      - 'False'
       required: false
     - id: 10
       name: ctc_link_login_info

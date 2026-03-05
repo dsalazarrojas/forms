@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Attribution''}'
-      - '{''label'': ''Anonymous''}'
-      - '{''label'': ''Both''}'
-      - '{''label'': ''Other''}'
+      - Attribution
+      - Anonymous
+      - Both
+      - Other
       required: false
     - id: 3
       name: sharing_consent
@@ -27,10 +27,10 @@ inputSchema:
       hint: Please select one or more ways to share your story.
       type: select_multiple
       options:
-      - '{''label'': ''Publicly''}'
-      - '{''label'': ''Privately''}'
-      - '{''label'': ''With educators''}'
-      - '{''label'': ''With the school community''}'
+      - Publicly
+      - Privately
+      - With educators
+      - With the school community
       required: false
     - id: 4
       name: follow_up
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Call''}'
-      - '{''label'': ''In-person''}'
-      - '{''label'': ''None''}'
+      - Email
+      - Call
+      - In-person
+      - None
       required: false
     - id: 5
       name: follow_up_email
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: follow_up_in_person
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: attribution_name

@@ -1,157 +1,128 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Development Progress Report
     pages:
-      - id: 1
-        name: section_student_info
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: child_name
-        label: Child Full Name
-        hint: Name of student
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: teacher_name
-        label: Teacher Name
-        hint: Lead educator
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: period_start
-        label: Reporting Period Start
-        hint: Beginning of evaluation phase
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: period_end
-        label: Reporting Period End
-        hint: End of evaluation phase
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: section_development_areas
-        label: -- Developmental Areas --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: cognitive_rating
-        label: Cognitive Development Rating
-        hint: Problem solving and memory
-        type: select_one
-        options:
-          - label: Exceeds Expectations
-            value: exceeds
-          - label: Meets Expectations
-            value: meets
-          - label: Progressing Towards Goals
-            value: progressing
-          - label: Needs Support
-            value: support
-        required: true
-      - id: 8
-        name: social_emotional_rating
-        label: Social-Emotional Rating
-        hint: Self-regulation and relationships
-        type: select_one
-        options:
-          - label: Exceeds Expectations
-            value: exceeds
-          - label: Meets Expectations
-            value: meets
-          - label: Progressing Towards Goals
-            value: progressing
-          - label: Needs Support
-            value: support
-        required: true
-      - id: 9
-        name: physical_rating
-        label: Physical Development Rating
-        hint: Motor skills and health
-        type: select_one
-        options:
-          - label: Exceeds Expectations
-            value: exceeds
-          - label: Meets Expectations
-            value: meets
-          - label: Progressing Towards Goals
-            value: progressing
-          - label: Needs Support
-            value: support
-        required: true
-      - id: 10
-        name: language_rating
-        label: Language and Literacy Rating
-        hint: Communication and reading readiness
-        type: select_one
-        options:
-          - label: Exceeds Expectations
-            value: exceeds
-          - label: Meets Expectations
-            value: meets
-          - label: Progressing Towards Goals
-            value: progressing
-          - label: Needs Support
-            value: support
-        required: true
-      - id: 11
-        name: section_comments
-        label: -- Detailed Comments --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: achievements
-        label: Specific Achievements
-        hint: Highlight key strengths observed
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: growth_areas
-        label: Areas for Growth
-        hint: Opportunities for improvement
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: next_period_goal
-        label: Goal for Next Period
-        hint: Primary focus for upcoming months
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: conference_request
-        label: Request for Parent Conference?
-        hint: Select yes to schedule a meeting
-        type: select_one
-        options:
-          - label: Yes - Please Schedule
-            value: yes
-          - label: No - Not Needed
-            value: no
-        required: true
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Name of student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: Lead educator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: period_start
+      label: Reporting Period Start
+      hint: Beginning of evaluation phase
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: period_end
+      label: Reporting Period End
+      hint: End of evaluation phase
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_development_areas
+      label: -- Developmental Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cognitive_rating
+      label: Cognitive Development Rating
+      hint: Problem solving and memory
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Progressing Towards Goals
+      - Needs Support
+      required: true
+    - id: 8
+      name: social_emotional_rating
+      label: Social-Emotional Rating
+      hint: Self-regulation and relationships
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Progressing Towards Goals
+      - Needs Support
+      required: true
+    - id: 9
+      name: physical_rating
+      label: Physical Development Rating
+      hint: Motor skills and health
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Progressing Towards Goals
+      - Needs Support
+      required: true
+    - id: 10
+      name: language_rating
+      label: Language and Literacy Rating
+      hint: Communication and reading readiness
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Progressing Towards Goals
+      - Needs Support
+      required: true
+    - id: 11
+      name: section_comments
+      label: -- Detailed Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: achievements
+      label: Specific Achievements
+      hint: Highlight key strengths observed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: growth_areas
+      label: Areas for Growth
+      hint: Opportunities for improvement
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_period_goal
+      label: Goal for Next Period
+      hint: Primary focus for upcoming months
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: conference_request
+      label: Request for Parent Conference?
+      hint: Select yes to schedule a meeting
+      type: select_one
+      options:
+      - Yes - Please Schedule
+      - No - Not Needed
+      required: true

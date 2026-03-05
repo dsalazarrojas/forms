@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''E-commerce''}'
-      - '{''name'': ''Finance''}'
-      - '{''name'': ''Health''}'
+      - E-commerce
+      - Finance
+      - Health
       required: false
     - id: 6
       name: subcategory
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''E-commerce''}'
-      - '{''name'': ''Finance''}'
-      - '{''name'': ''Health''}'
-      - '{''name'': ''Technology''}'
+      - E-commerce
+      - Finance
+      - Health
+      - Technology
       required: false
     - id: 7
       name: date
@@ -142,10 +142,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Open''}'
-      - '{''name'': ''In Progress''}'
-      - '{''name'': ''Pending''}'
-      - '{''name'': ''Closed''}'
+      - Open
+      - In Progress
+      - Pending
+      - Closed
       required: false
     - id: 20
       name: review_comments
@@ -160,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Incomplete''}'
-      - '{''name'': ''Complete''}'
-      - '{''name'': ''In Progress''}'
+      - Incomplete
+      - Complete
+      - In Progress
       required: false
     - id: 22
       name: review_date

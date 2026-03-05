@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''label'': ''Online Payment'', ''value'': ''online_payment''}'
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - Cash
+      - Online Payment
+      - Credit Card
+      - Other
+      - PayPal
       required: false
     - id: 7
       name: select_payment_method_2
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''label'': ''Online Payment'', ''value'': ''online_payment''}'
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - Cash
+      - Online Payment
+      - Credit Card
+      - Other
+      - PayPal
       required: false
     - id: 8
       name: date_donate
@@ -152,11 +152,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''label'': ''Accepted'', ''value'': ''accepted''}'
-      - '{''label'': ''Declined'', ''value'': ''declined''}'
-      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
-      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - Pending
+      - Accepted
+      - Declined
+      - Cancelled
+      - Completed
       required: false
     - id: 21
       name: reason_declined
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Refunded'', ''value'': ''not_refunded''}'
-      - '{''label'': ''Partially Refunded'', ''value'': ''partially_refunded''}'
-      - '{''label'': ''Fully Refunded'', ''value'': ''fully_refunded''}'
+      - Not Refunded
+      - Partially Refunded
+      - Fully Refunded
       required: false
     - id: 24
       name: refund_method
@@ -188,9 +188,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Check'', ''value'': ''check''}'
-      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
-      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - Check
+      - Bank Transfer
+      - PayPal
       required: false
     - id: 25
       name: comments

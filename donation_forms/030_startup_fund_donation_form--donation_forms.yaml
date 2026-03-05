@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-time''}'
-      - '{''id'': 2, ''label'': ''Recurring''}'
-      - '{''id'': 3, ''label'': ''Ongoing''}'
+      - One-time
+      - Recurring
+      - Ongoing
       required: false
     - id: 7
       name: notes
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: confirm_frequency
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-time''}'
-      - '{''id'': 2, ''label'': ''Recurring''}'
-      - '{''id'': 3, ''label'': ''Ongoing''}'
+      - One-time
+      - Recurring
+      - Ongoing
       required: false
     - id: 10
       name: assigned_tool

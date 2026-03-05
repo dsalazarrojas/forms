@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Mail''}'
+      - Phone
+      - Email
+      - Mail
       required: true
     - id: 6
       name: employment_status
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Unemployed''}'
-      - '{''label'': ''Not Looking''}'
-      - '{''label'': ''Retired''}'
+      - Employed
+      - Unemployed
+      - Not Looking
+      - Retired
       required: true
     - id: 7
       name: employment_type
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Part-time''}'
-      - '{''label'': ''Full-time''}'
-      - '{''label'': ''Seasonal''}'
-      - '{''label'': ''Other''}'
+      - Part-time
+      - Full-time
+      - Seasonal
+      - Other
       required: true
     - id: 8
       name: job_seeker_details

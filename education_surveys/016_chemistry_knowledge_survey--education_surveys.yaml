@@ -1,241 +1,230 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chemistry Knowledge Survey
     pages:
-      - id: 1
-        name: survey_intro
-        label: -- Chemistry Knowledge Survey --
-        hint: Help us assess your chemistry knowledge and interests
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: respondent_role
-        label: Your role
-        hint: null
-        type: select_one
-        options:
-          - Student
-          - Educator
-          - Professional
-          - Parent
-          - General public
-        required: true
-      - id: 4
-        name: education_level
-        label: Highest education level
-        hint: null
-        type: select_one
-        options:
-          - High school
-          - Associate degree
-          - Bachelor degree
-          - Master degree
-          - Doctorate
-          - Other
-        required: true
-      - id: 5
-        name: chemistry_experience
-        label: Years of chemistry experience
-        hint: null
-        type: select_one
-        options:
-          - None
-          - Less than 1 year
-          - 1-3 years
-          - 4-7 years
-          - More than 7 years
-        required: true
-      - id: 6
-        name: chemistry_interest
-        label: How interested are you in chemistry?
-        hint: Rate from 1 (Not interested) to 5 (Very interested)
-        type: select_one
-        options:
-          - 1 - Not interested
-          - 2 - Somewhat uninterested
-          - 3 - Neutral
-          - 4 - Somewhat interested
-          - 5 - Very interested
-        required: true
-      - id: 7
-        name: knowledge_self_assessment
-        label: Rate your overall chemistry knowledge
-        hint: null
-        type: select_one
-        options:
-          - Beginner
-          - Elementary
-          - Intermediate
-          - Advanced
-          - Expert
-        required: true
-      - id: 8
-        name: atomic_structure_knowledge
-        label: Understanding of atomic structure
-        hint: null
-        type: select_one
-        options:
-          - Very poor
-          - Poor
-          - Average
-          - Good
-          - Excellent
-        required: true
-      - id: 9
-        name: bonding_knowledge
-        label: Understanding of chemical bonding
-        hint: null
-        type: select_one
-        options:
-          - Very poor
-          - Poor
-          - Average
-          - Good
-          - Excellent
-        required: true
-      - id: 10
-        name: periodic_table_knowledge
-        label: Understanding of the periodic table
-        hint: null
-        type: select_one
-        options:
-          - Very poor
-          - Poor
-          - Average
-          - Good
-          - Excellent
-        required: true
-      - id: 11
-        name: reaction_knowledge
-        label: Understanding of chemical reactions
-        hint: null
-        type: select_one
-        options:
-          - Very poor
-          - Poor
-          - Average
-          - Good
-          - Excellent
-        required: true
-      - id: 12
-        name: acids_bases_knowledge
-        label: Understanding of acids and bases
-        hint: null
-        type: select_one
-        options:
-          - Very poor
-          - Poor
-          - Average
-          - Good
-          - Excellent
-        required: true
-      - id: 13
-        name: learning_methods
-        label: Most effective learning methods for you
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Lectures
-          - Hands-on experiments
-          - Videos
-          - Reading materials
-          - Group discussions
-          - Online tutorials
-          - One-on-one tutoring
-          - Interactive simulations
-        required: true
-      - id: 14
-        name: challenging_topics
-        label: Most challenging chemistry topics
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Stoichiometry
-          - Equilibrium
-          - Thermodynamics
-          - Kinetics
-          - Quantum mechanics
-          - Organic synthesis
-          - Problem-solving
-          - Mathematical calculations
-        required: false
-      - id: 15
-        name: application_interest
-        label: Most interesting applications of chemistry
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Medicine and pharmaceuticals
-          - Environmental science
-          - Materials science
-          - Food science
-          - Energy production
-          - Cosmetics and personal care
-          - Industrial processes
-          - Nanotechnology
-        required: false
-      - id: 16
-        name: confidence_problem_solving
-        label: Confidence in solving chemistry problems
-        hint: null
-        type: select_one
-        options:
-          - Very unconfident
-          - Unconfident
-          - Neutral
-          - Confident
-          - Very confident
-        required: true
-      - id: 17
-        name: resource_access
-        label: Resources that would help your chemistry learning
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Better textbooks
-          - More practice problems
-          - Video demonstrations
-          - Virtual lab software
-          - Tutoring support
-          - Study groups
-          - Online courses
-          - Mobile apps
-        required: false
-      - id: 18
-        name: improvement_areas
-        label: Areas where you want to improve
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: career_chemistry
-        label: Does your career involve chemistry?
-        hint: null
-        type: select_one
-        options:
-          - Yes, directly
-          - Yes, indirectly
-          - No
-          - Planning to
-        required: false
+    - id: 1
+      name: survey_intro
+      label: -- Chemistry Knowledge Survey --
+      hint: Help us assess your chemistry knowledge and interests
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Educator
+      - Professional
+      - Parent
+      - General public
+      required: true
+    - id: 4
+      name: education_level
+      label: Highest education level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 5
+      name: chemistry_experience
+      label: Years of chemistry experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - More than 7 years
+      required: true
+    - id: 6
+      name: chemistry_interest
+      label: How interested are you in chemistry?
+      hint: Rate from 1 (Not interested) to 5 (Very interested)
+      type: select_one
+      options:
+      - 1 - Not interested
+      - 2 - Somewhat uninterested
+      - 3 - Neutral
+      - 4 - Somewhat interested
+      - 5 - Very interested
+      required: true
+    - id: 7
+      name: knowledge_self_assessment
+      label: Rate your overall chemistry knowledge
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 8
+      name: atomic_structure_knowledge
+      label: Understanding of atomic structure
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: bonding_knowledge
+      label: Understanding of chemical bonding
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: periodic_table_knowledge
+      label: Understanding of the periodic table
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: reaction_knowledge
+      label: Understanding of chemical reactions
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 12
+      name: acids_bases_knowledge
+      label: Understanding of acids and bases
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 13
+      name: learning_methods
+      label: Most effective learning methods for you
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lectures
+      - Hands-on experiments
+      - Videos
+      - Reading materials
+      - Group discussions
+      - Online tutorials
+      - One-on-one tutoring
+      - Interactive simulations
+      required: true
+    - id: 14
+      name: challenging_topics
+      label: Most challenging chemistry topics
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stoichiometry
+      - Equilibrium
+      - Thermodynamics
+      - Kinetics
+      - Quantum mechanics
+      - Organic synthesis
+      - Problem-solving
+      - Mathematical calculations
+      required: false
+    - id: 15
+      name: application_interest
+      label: Most interesting applications of chemistry
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medicine and pharmaceuticals
+      - Environmental science
+      - Materials science
+      - Food science
+      - Energy production
+      - Cosmetics and personal care
+      - Industrial processes
+      - Nanotechnology
+      required: false
+    - id: 16
+      name: confidence_problem_solving
+      label: Confidence in solving chemistry problems
+      hint: null
+      type: select_one
+      options:
+      - Very unconfident
+      - Unconfident
+      - Neutral
+      - Confident
+      - Very confident
+      required: true
+    - id: 17
+      name: resource_access
+      label: Resources that would help your chemistry learning
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Better textbooks
+      - More practice problems
+      - Video demonstrations
+      - Virtual lab software
+      - Tutoring support
+      - Study groups
+      - Online courses
+      - Mobile apps
+      required: false
+    - id: 18
+      name: improvement_areas
+      label: Areas where you want to improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: career_chemistry
+      label: Does your career involve chemistry?
+      hint: null
+      type: select_one
+      options:
+      - Yes, directly
+      - Yes, indirectly
+      - 'False'
+      - Planning to
+      required: false

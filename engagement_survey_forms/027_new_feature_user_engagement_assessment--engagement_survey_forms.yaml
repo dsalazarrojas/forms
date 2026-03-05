@@ -9,8 +9,8 @@ inputSchema:
       hint: None
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 2
       name: user_experience
@@ -25,11 +25,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very satisfied''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false
     - id: 4
       name: feature_adoption
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''On track''}'
-      - '{''label'': ''Off track''}'
-      - '{''label'': ''Not planned''}'
+      - On track
+      - Off track
+      - Not planned
       required: true
     - id: 8
       name: comments

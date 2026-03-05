@@ -1,182 +1,94 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Halloween Costume Rental Form
     pages:
     - id: 1
       name: costume_id
       label: Select Costume
-      hint: null
+      hint: Which costume would you like to rent?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Costume 1
+      - Costume 2
+      - Costume 3
       required: false
     - id: 2
-      name: costume_name
+      name: customer_name
       label: Costume Name
-      hint: Enter costume description
+      hint: Name of the costume you'd like to rent?
       type: text
       options: []
       required: false
     - id: 3
-      name: description
+      name: costume_description
       label: Costume Description
-      hint: null
+      hint: Description of the costume?
       type: text
       options: []
       required: false
     - id: 4
       name: price
-      label: Costume Price
-      hint: null
+      label: Cost of the Costume
+      hint: How much would you like to pay for the costume?
       type: number
       options: []
       required: false
     - id: 5
-      name: image
-      label: Image of Costume
-      hint: null
+      name: image_url
+      label: Costume Image URL
+      hint: Please enter the URL of an image of the costume.
       type: text
       options: []
       required: false
     - id: 6
-      name: image_url
-      label: Costume Image URL
-      hint: null
+      name: contact_info
+      label: Contact Information
+      hint: What's your contact information?
       type: text
       options: []
       required: false
     - id: 7
-      name: submit
-      label: Submit
-      hint: null
-      type: text
+      name: email
+      label: Email
+      hint: What's your email address?
+      type: email
       options: []
       required: false
     - id: 8
-      name: contact
-      label: Contact
-      hint: null
+      name: home_address
+      label: Address
+      hint: What's your home address?
       type: text
       options: []
       required: false
     - id: 9
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: additional_info
+      label: Additional Information
+      hint: How can we contact you?
+      type: text
       options: []
       required: false
     - id: 10
-      name: address
-      label: Address
-      hint: null
-      type: note
+      name: image_upload
+      label: Upload Another Image
+      hint: Please upload another image of the costume.
+      type: text
       options: []
       required: false
     - id: 11
-      name: image2
-      label: Another Image
-      hint: null
-      type: text
-      options: []
+      name: more_costumes
+      label: Rent More Costumes
+      hint: Do you want to rent another costume?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
-      name: price_2
-      label: Another Price
+      name: confirm_submission
+      label: Confirm Submission
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: image_url_2
-      label: Another Image URL
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: submit_2
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: image3
-      label: Another Image
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: submit_3
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: image4
-      label: Image 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: submit_4
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: image5
-      label: Image 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submit_5
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: image6
-      label: Image 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: description_2
-      label: Description 2
-      hint: Enter description 2
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submit_6
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: description_3
-      label: Description 3
-      hint: Enter description 3
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description_4
-      label: Description 4
-      hint: Enter description 4
       type: text
       options: []
       required: false

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1 month''}'
-      - '{''value'': ''3 months''}'
-      - '{''value'': ''6 months''}'
+      - 1 month
+      - 3 months
+      - 6 months
       required: false
     - id: 7
       name: user_program_start_date
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Discontinued''}'
+      - In Progress
+      - Completed
+      - Discontinued
       required: false
     - id: 9
       name: user_program_end_date
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Bi-weekly''}'
+      - Daily
+      - Weekly
+      - Bi-weekly
       required: false
     - id: 12
       name: user_tutoring_start_date
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Discontinued''}'
+      - In Progress
+      - Completed
+      - Discontinued
       required: false
     - id: 14
       name: user_tutoring_end_date
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Jim''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''John''}'
+      - Jim
+      - Jane
+      - John
       required: false
     - id: 19
       name: assigned_room
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Available''}'
-      - '{''value'': ''Unavailable''}'
-      - '{''value'': ''Completed''}'
+      - Available
+      - Unavailable
+      - Completed
       required: false
     - id: 23
       name: assigned_notes
@@ -195,7 +195,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Mr. John Doe''}'
-      - '{''value'': ''Ms. Jane Doe''}'
-      - '{''value'': ''Mr. Jim Smith''}'
+      - Mr. John Doe
+      - Ms. Jane Doe
+      - Mr. Jim Smith
       required: false

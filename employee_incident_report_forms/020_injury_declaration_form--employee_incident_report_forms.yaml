@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employee Name'', ''value'': ''employee_name''}'
-      - '{''label'': ''Job Title'', ''value'': ''job_title''}'
-      - '{''label'': ''Contact Information'', ''value'': ''contact_information''}'
+      - Employee Name
+      - Job Title
+      - Contact Information
       required: false
     - id: 2
       name: incident_details
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Sprains and Strains'', ''value'': ''sprains_and_strains''}'
-      - '{''label'': ''Muscle Strains'', ''value'': ''muscle_strains''}'
-      - '{''label'': ''Bone Fractures'', ''value'': ''bone_fractures''}'
+      - Sprains and Strains
+      - Muscle Strains
+      - Bone Fractures
       required: false
     - id: 5
       name: medical_history
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: reported_by

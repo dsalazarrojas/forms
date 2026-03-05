@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit_card'', ''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 3
       name: service
@@ -25,10 +25,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''social_media_setup'', ''label'': ''Social Media Setup'', ''value'':
-        ''social_media_setup''}'
-      - '{''name'': ''social_media_management'', ''label'': ''Social Media Management'',
-        ''value'': ''social_media_management''}'
+      - Social Media Setup
+      - Social Media Management
       required: false
     - id: 4
       name: appearance

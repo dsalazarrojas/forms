@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Restrictive Anorexia''}'
-      - '{''label'': ''Binge Eating''}'
-      - '{''label'': ''No Symptoms''}'
-      - '{''label'': ''Other''}'
+      - Restrictive Anorexia
+      - Binge Eating
+      - No Symptoms
+      - Other
       required: false
     - id: 4
       name: eating_disorder_diagnosis
@@ -34,11 +34,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Anorexia Nervosa''}'
-      - '{''label'': ''Binge Eating Disorder''}'
-      - '{''label'': ''Avoidant/Restrictive Food Intake Disorder''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''No Diagnosis''}'
+      - Anorexia Nervosa
+      - Binge Eating Disorder
+      - Avoidant/Restrictive Food Intake Disorder
+      - Other
+      - No Diagnosis
       required: false
     - id: 5
       name: eating_habits_frequency
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: hospital_visits
@@ -160,10 +160,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Anorexia Nervosa''}'
-      - '{''label'': ''Binge Eating Disorder''}'
-      - '{''label'': ''Avoidant/Restrictive Food Intake Disorder''}'
-      - '{''label'': ''Other''}'
+      - Anorexia Nervosa
+      - Binge Eating Disorder
+      - Avoidant/Restrictive Food Intake Disorder
+      - Other
       required: false
     - id: 22
       name: family_history_frequency
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Close''}'
-      - '{''label'': ''Distant''}'
-      - '{''label'': False}'
+      - Close
+      - Distant
+      - 'False'
       required: false
     - id: 24
       name: friends_frequency

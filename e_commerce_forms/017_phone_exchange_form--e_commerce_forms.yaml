@@ -30,12 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''port''}'
-      - '{''value'': ''transfer''}'
-      - '{''value'': ''swap''}'
-      - '{''value'': ''merge''}'
-      - '{''value'': ''port_transfer''}'
-      - '{''value'': ''transfer_swap''}'
+      - port
+      - transfer
+      - swap
+      - merge
+      - port transfer
+      - transfer swap
       required: false
     - id: 5
       name: new_account
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''account1''}'
-      - '{''value'': ''account2''}'
-      - '{''value'': ''account3''}'
-      - '{''value'': ''account4''}'
+      - account1
+      - account2
+      - account3
+      - account4
       required: false
     - id: 6
       name: confirm_exchange
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: exchange_date
@@ -98,6 +98,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

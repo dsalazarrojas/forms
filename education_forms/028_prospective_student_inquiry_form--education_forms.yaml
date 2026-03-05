@@ -16,106 +16,81 @@ inputSchema:
     pages:
     - id: 1
       name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: contact_info
-      label: contact_info
+      label: What is your email address?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
-      hint: null
-      type: text
-      options: []
-      required: true
+      name: program_inquiry
+      label: Which program or course are you interested in?
+      hint: Choose one or more programs
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      required: false
     - id: 4
-      name: contact_info
-      label: contact_info
+      name: discovery_method
+      label: How did you find out about this program?
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - Social Media
+      - Word of mouth
+      - Online search
+      required: false
     - id: 5
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
+      name: availability
+      label: What is your availability for the program start date?
       hint: null
-      type: text
+      type: date
       options: []
-      required: true
+      required: false
     - id: 6
-      name: contact_info
-      label: contact_info
+      name: financial_aid
+      label: Do you have any financial aid or scholarship questions?
       hint: null
-      type: text
-      options: []
-      required: true
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
     - id: 7
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
+      name: contact_preferences
+      label: How would you like to be contacted?
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
     - id: 8
-      name: contact_info
-      label: contact_info
+      name: contact_info2
+      label: What is your phone number?
       hint: null
-      type: text
+      type: number
       options: []
-      required: true
+      required: false
     - id: 9
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
+      name: contact_info3
+      label: What is your address?
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 10
-      name: contact_info
-      label: contact_info
+      name: additional_comments
+      label: Do you have any additional comments or questions?
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: prospective_student_inquiry_form
-      label: prospective_student_inquiry
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

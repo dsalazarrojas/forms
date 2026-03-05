@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''laptop''}'
-      - '{''value'': ''other''}'
+      - laptop
+      - other
       required: false
     - id: 3
       name: serial_number
@@ -53,8 +53,8 @@ inputSchema:
       hint: High or Low
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 8
       name: assignee
@@ -62,8 +62,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''IT''}'
-      - '{''value'': ''Other''}'
+      - IT
+      - Other
       required: false
     - id: 9
       name: notes

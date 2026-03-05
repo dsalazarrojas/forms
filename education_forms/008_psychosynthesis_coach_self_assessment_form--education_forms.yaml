@@ -15,183 +15,97 @@ inputSchema:
     title: Psychosynthesis Coach Self Assessment Form
     pages:
     - id: 1
-      name: psychosynthesis_coach_self_assessment_form_page_1
-      label: client_info
+      name: client_info
+      label: Client Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: client_info
-      label: client_info
+      name: coach_info
+      label: Coaching Level
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Client''}'
-      - '{''value'': ''Coach''}'
+      - New
+      - Seasoned
       required: true
     - id: 3
-      name: coach_info
-      label: coach_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: coach_info
-      label: coach_info
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''Seasoned''}'
-      required: true
-    - id: 5
       name: growth_goals
-      label: growth_goals
+      label: Growth Goals
       hint: null
       type: note
       options: []
       required: false
-    - id: 6
-      name: growth_goals
-      label: growth_goals
+    - id: 4
+      name: personal_growth
+      label: Personal Growth
       hint: null
       type: text
       options: []
       required: false
+    - id: 5
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_issues
+      label: Mental Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Depression
+      - Anxiety
+      - PTSD
+      required: true
     - id: 7
-      name: personal_growth
-      label: personal_growth
+      name: emotional_intelligence
+      label: Emotional Intelligence
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: personal_growth
-      label: personal_growth
+      name: self_awareness
+      label: Self-Awareness
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: mental_health
-      label: mental_health
+      name: relationship_skills
+      label: Relationship Skills
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: mental_health
-      label: mental_health
+      name: communication_skills
+      label: Communication Skills
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Depression''}'
-      - '{''value'': ''Anxiety''}'
-      - '{''value'': ''PTSD''}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 11
-      name: emotional_intelligence
-      label: emotional_intelligence
+      name: problem_solving
+      label: Problem Solving
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: emotional_intelligence
-      label: emotional_intelligence
+      name: decision_making
+      label: Decision Making
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: self_awareness
-      label: self-awareness
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: self_awareness
-      label: self-awareness
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: relationship_skills
-      label: relationship_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: relationship_skills
-      label: relationship_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: communication_skills
-      label: communication_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: communication_skills
-      label: communication_skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: problem_solving
-      label: problem_solving
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: problem_solving
-      label: problem_solving
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: decision_making
-      label: decision_making
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: decision_making
-      label: decision_making
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: time_management
-      label: time_management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: time_management
-      label: time_management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: time_management
-      label: time_management
+      label: Time Management
       hint: null
       type: text
       options: []

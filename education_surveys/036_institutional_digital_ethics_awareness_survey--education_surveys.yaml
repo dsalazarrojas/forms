@@ -4,86 +4,132 @@ inputSchema:
     title: Institutional Digital Ethics Awareness Survey
     pages:
     - id: 1
-      name: institutional_digital_ethics_awareness_survey
-      label: Institutional Digital Ethics Awareness
+      name: has_digital_ethics_training
+      label: Is digital ethics training available within the institution?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 2
-      name: institutional_digital_ethics_survey_category
-      label: Education Surveys
+      name: digital_ethics_training_frequency
+      label: How often is digital ethics training provided to employees within the
+        institution?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
       required: false
     - id: 3
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: digital_ethics_training_hours
+      label: How many hours of digital ethics training are provided to employees within
+        the institution?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 4
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: top_priority_areas
+      label: Which of the following areas of digital ethics should be the top priority
+        for the institution?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Digital Security
+      - Data Protection
+      - User Authentication
+      - Digital Signature
+      - Data Breach
+      - Compliance
       required: false
     - id: 5
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: primary_digital_ethics_goal
+      label: What is the primary goal of digital ethics training within the institution?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - To increase user engagement
+      - To increase productivity
+      - To improve security
+      - To reduce costs
+      - To enhance customer satisfaction
+      - Other (please specify)
       required: false
     - id: 6
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: digital_ethics_policy_communication
+      label: How does the institution communicate digital ethics policies to employees?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Email
+      - Newsletter
+      - Social Media
+      - Training sessions
+      - Other (please specify)
       required: false
     - id: 7
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: digital_ethics_policies_implementation
+      label: What is the main method used by the institution to ensure digital ethics
+        practices are being followed?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Audits
+      - Monitoring
+      - Regular checklists
+      - Other (please specify)
       required: false
     - id: 8
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: digital_ethics_policies_revision
+      label: How often are digital ethics policies reviewed within the institution?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Annually
+      - Quarterly
+      - Monthly
+      - Daily
+      - Rarely
       required: false
     - id: 9
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: departmental_digital_ethics_policies
+      label: Are there any digital ethics policies that are specific to a certain
+        department within the institution?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: responsible_person
+      label: Who is responsible for implementing and enforcing digital ethics policies
+        within the institution?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Management
+      - Employees
+      - IT Department
+      - Other (please specify)
       required: false
     - id: 11
-      name: institutional_digital_ethics_survey_description
-      label: Description
+      name: has_digital_ethics_incidents
+      label: Are there any digital ethics related incidents that have occurred within
+        the institution?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: institutional_digital_ethics_awareness_survey_output_file
+      name: output_file
       label: Output File
       hint: null
       type: select_one
@@ -92,7 +138,7 @@ inputSchema:
       - other
       required: false
     - id: 13
-      name: institutional_digital_ethics_awareness_survey_assigned_tool
+      name: assigned_tool
       label: Assigned Tool
       hint: null
       type: select_multiple
@@ -101,14 +147,14 @@ inputSchema:
       - 'No'
       required: false
     - id: 14
-      name: institutional_digital_ethics_awareness_survey_form_id
+      name: form_id
       label: Form Id
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: institutional_digital_ethics_awareness_survey_form_category
+      name: form_category
       label: Form Category
       hint: null
       type: text

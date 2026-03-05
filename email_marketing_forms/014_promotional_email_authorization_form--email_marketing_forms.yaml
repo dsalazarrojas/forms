@@ -6,26 +6,26 @@ inputSchema:
     - id: 1
       name: customer_name
       label: Customer Name
-      hint: null
+      hint: Please enter your name
       type: text
       options: []
       required: true
     - id: 2
       name: email
       label: Email
-      hint: null
+      hint: Please enter your email address
       type: email
       options: []
       required: true
     - id: 3
       name: company
       label: Company
-      hint: null
+      hint: Please enter your company (if applicable)
       type: text
       options: []
       required: false
     - id: 4
-      name: preferred_email_frequency
+      name: email_frequency
       label: Preferred Email Frequency
       hint: null
       type: select_multiple
@@ -36,10 +36,12 @@ inputSchema:
       required: true
     - id: 5
       name: consent_given
-      label: Consent
+      label: Consent for Email Marketing
       hint: null
-      type: note
-      options: []
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
       required: true
     - id: 6
       name: additional_comments
@@ -49,136 +51,45 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: assigned_tool
-      label: Assigned Tool
+      name: description
+      label: Description of Form Purpose
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
       name: category
       label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: output_file_name
-      label: Output File Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: output_file_format
-      label: Output File Format
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: output_file_path
-      label: Output File Path
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: Choose Category
+      hint: Select a category
       type: select_one
       options:
       - Email Marketing Forms
       - Other
       required: true
-    - id: 17
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
+    - id: 9
       name: form_id
       label: Form ID
-      hint: null
+      hint: Please enter a Form ID
       type: number
       options: []
-      required: false
-    - id: 19
-      name: form_ids
-      label: Form ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 10
       name: output_file
       label: Output File
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
+    - id: 11
       name: output_file_name
       label: Output File Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
+    - id: 12
       name: output_file_path
       label: Output File Path
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_ids
-      label: Form ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: output_file
-      label: Output File
       hint: null
       type: text
       options: []

@@ -1,159 +1,92 @@
 inputSchema:
   type: object
   properties:
-    title: digital_teaching_story_submission_registration_form
+    title: Digital Teaching Story Submission Registration Form
     pages:
     - id: 1
-      name: first_page
-      label: first_page
+      name: submission_story
+      label: Please share your teaching story
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: submission_title
-      label: submission_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: submission_description
-      label: submission_description
-      hint: Briefly describe your teaching story
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: submission_tags
-      label: submission_tags
+      name: submission_category
+      label: Category
       hint: null
       type: select_one
       options:
-      - None
-      - None
-      - None
-      - None
-      required: false
+      - Academic
+      - Non-Academic
+      - Other
+      required: true
+    - id: 3
+      name: submission_title
+      label: Title
+      hint: Please enter a title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_description
+      label: Description
+      hint: A brief description of your submission
+      type: note
+      options: []
+      required: true
     - id: 5
-      name: submission_tags
-      label: submission_tags
-      hint: null
-      type: select_multiple
-      options:
-      - None
-      - None
-      required: false
+      name: submission_file
+      label: Attachment
+      hint: Please upload a file
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: submission_image
-      label: submission_image
+      name: submission_audio
+      label: Audio
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: submission_audio
-      label: submission_audio
+      name: submission_video
+      label: Video
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: submission_video
-      label: submission_video
+      name: submission_email
+      label: Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 9
-      name: submission_file
-      label: submission_file
+      name: submission_phone
+      label: Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: submission_file_2
-      label: submission_file_2
+      name: submission_date
+      label: Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 11
-      name: submission_email
-      label: submission_email
+      name: submission_time
+      label: Time
       hint: null
-      type: email
+      type: time
       options: []
       required: false
     - id: 12
-      name: submission_phone
-      label: submission_phone
+      name: submission_location
+      label: Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: submission_date_range
-      label: submission_date_range
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: submission_time_range
-      label: submission_time_range
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: submission_venue
-      label: submission_venue
-      hint: null
-      type: select_one
-      options:
-      - venue-1
-      - venue-2
-      required: false
-    - id: 18
-      name: submission_venue
-      label: submission_venue
-      hint: null
-      type: select_multiple
-      options:
-      - venue-1
-      - venue-2
-      required: false
-    - id: 19
-      name: submission_venue
-      label: submission_venue
-      hint: null
-      type: select_one
-      options:
-      - venue-1
-      - venue-2
-      required: false
-    - id: 20
-      name: submission_venue
-      label: submission_venue
-      hint: null
-      type: select_multiple
-      options:
-      - venue-1
-      - venue-2
       required: false

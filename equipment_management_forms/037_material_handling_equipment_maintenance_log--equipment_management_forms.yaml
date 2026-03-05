@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Running''}'
-      - '{''id'': 2, ''text'': ''Non-operational''}'
-      - '{''id'': 3, ''text'': ''Offline''}'
+      - Running
+      - Non-operational
+      - Offline
       required: true
     - id: 4
       name: maintenance_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Scheduled''}'
-      - '{''id'': 2, ''text'': ''Unscheduled''}'
-      - '{''id'': 3, ''text'': ''Emergency''}'
+      - Scheduled
+      - Unscheduled
+      - Emergency
       required: true
     - id: 5
       name: notes

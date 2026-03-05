@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''High''}'
-      - '{''id'': 4, ''label'': ''Critical''}'
+      - Low
+      - Medium
+      - High
+      - Critical
       required: false
     - id: 4
       name: threat_type
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cyber Threat''}'
-      - '{''id'': 2, ''label'': ''Physical Threat''}'
-      - '{''id'': 3, ''label'': ''Human Threat''}'
+      - Cyber Threat
+      - Physical Threat
+      - Human Threat
       required: false
     - id: 5
       name: threat_area
@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Network''}'
-      - '{''id'': 2, ''label'': ''System''}'
-      - '{''id'': 3, ''label'': ''Physical''}'
+      - Network
+      - System
+      - Physical
       required: false
     - id: 6
       name: risk_area
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Network''}'
-      - '{''id'': 2, ''label'': ''System''}'
-      - '{''id'': 3, ''label'': ''Physical''}'
+      - Network
+      - System
+      - Physical
       required: false
     - id: 7
       name: risk_factor_area
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Network''}'
-      - '{''id'': 2, ''label'': ''System''}'
-      - '{''id'': 3, ''label'': ''Physical''}'
+      - Network
+      - System
+      - Physical
       required: false
     - id: 8
       name: employee_info

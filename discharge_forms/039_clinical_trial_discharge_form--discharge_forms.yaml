@@ -1,128 +1,123 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Trial Discharge Form
     pages:
-      - id: 1
-        name: participant_id
-        label: Participant ID Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: trial_title
-        label: Clinical Trial Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: discharge_date
-        label: Date of Study Discharge
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: section_reason
-        label: -- Reason for Discharge --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: discharge_status
-        label: Participant Discharge Status
-        hint: null
-        type: select_one
-        options: [Completed Study, Early Termination, Safety Withdrawal, Withdrawn Consent]
-        required: true
-      - id: 6
-        name: participation_summary
-        label: Summary of Study Participation
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: section_instructions
-        label: -- Post-Trial Instructions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: discontinued_meds
-        label: Trial medications to be discontinued immediately
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: follow_up_plan
-        label: Follow-up care plan with your regular physician
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: team_follow_up_date
-        label: Scheduled final follow-up visit with research team
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 11
-        name: section_feedback
-        label: -- Participant Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: adverse_events_check
-        label: Did you experience any new adverse events since your last visit?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 13
-        name: ae_description
-        label: If yes, please describe the adverse event symptoms
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: section_conclusion
-        label: -- Final Sign-off --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: participant_signature
-        label: Participant Digital Signature
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: investigator_signature
-        label: Principal Investigator Digital Signature
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: participant_id
+      label: Participant ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trial_title
+      label: Clinical Trial Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: discharge_date
+      label: Date of Study Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_reason
+      label: -- Reason for Discharge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: discharge_status
+      label: Participant Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Completed Study
+      - Early Termination
+      - Safety Withdrawal
+      - Withdrawn Consent
+      required: true
+    - id: 6
+      name: participation_summary
+      label: Summary of Study Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_instructions
+      label: -- Post-Trial Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: discontinued_meds
+      label: Trial medications to be discontinued immediately
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_plan
+      label: Follow-up care plan with your regular physician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_follow_up_date
+      label: Scheduled final follow-up visit with research team
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_feedback
+      label: -- Participant Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: adverse_events_check
+      label: Did you experience any new adverse events since your last visit?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: ae_description
+      label: If yes, please describe the adverse event symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_conclusion
+      label: -- Final Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: participant_signature
+      label: Participant Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: investigator_signature
+      label: Principal Investigator Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

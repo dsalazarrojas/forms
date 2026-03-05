@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High school''}'
-      - '{''id'': 2, ''name'': "Bachelor''s"}'
-      - '{''id'': 3, ''name'': "Master''s"}'
-      - '{''id'': 4, ''name'': ''Phd''}'
+      - High school
+      - Bachelor's
+      - Master's
+      - Phd
       required: false
     - id: 3
       name: fields_of_interest
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Science''}'
-      - '{''id'': 2, ''name'': ''Arts''}'
-      - '{''id'': 3, ''name'': ''Humanities''}'
+      - Science
+      - Arts
+      - Humanities
       required: false
     - id: 4
       name: contact_number
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Expo''}'
-      - '{''id'': 2, ''name'': ''Workshop''}'
+      - Expo
+      - Workshop
       required: false
     - id: 8
       name: note

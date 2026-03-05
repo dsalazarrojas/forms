@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: amount
@@ -82,13 +82,13 @@ inputSchema:
       required: false
     - id: 11
       name: frequency_options
-      label: How often?
+      label: Frequency Options
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: campaign_id
@@ -122,13 +122,13 @@ inputSchema:
       required: false
     - id: 16
       name: donation_status_options
-      label: Donation Status
+      label: Donation Status Options
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
       name: notes
@@ -148,12 +148,13 @@ inputSchema:
       required: false
     - id: 19
       name: email_confirmation_options
-      label: Email Confirmation
+      label: Email Confirmation Options
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: terms_and_conditions
@@ -166,13 +167,13 @@ inputSchema:
       required: false
     - id: 21
       name: terms_and_conditions_options
-      label: Terms and Conditions
+      label: Terms And Conditions Options
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: payment_method
@@ -185,13 +186,13 @@ inputSchema:
       required: false
     - id: 23
       name: payment_method_options
-      label: Payment Method
+      label: Payment Method Options
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 24
       name: payment_status
@@ -202,7 +203,7 @@ inputSchema:
       required: false
     - id: 25
       name: payment_status_label
-      label: Payment Status
+      label: Payment Status Label
       hint: null
       type: text
       options: []

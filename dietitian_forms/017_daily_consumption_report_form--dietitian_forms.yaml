@@ -5,182 +5,107 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Food
-      hint: null
+      label: What did you eat today?
+      hint: Describe your food consumption
       type: text
       options: []
       required: false
     - id: 2
       name: page_2
       label: Date
-      hint: null
+      hint: MM/DD/YYYY
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: page_3
       label: Time
-      hint: null
+      hint: HH -MM AM/PM
       type: time
       options: []
-      required: false
+      required: true
     - id: 4
       name: page_4
       label: Consumption Amount
-      hint: null
+      hint: Number of units or amount
       type: number
       options: []
       required: true
     - id: 5
       name: page_5
       label: Notes
-      hint: null
+      hint: Additional notes about today's consumption
       type: note
       options: []
       required: false
     - id: 6
       name: page_6
       label: Phone
-      hint: null
+      hint: Phone number or extension
       type: text
       options: []
       required: false
     - id: 7
       name: page_7
       label: Email
-      hint: null
+      hint: Email address
       type: email
       options: []
       required: false
     - id: 8
       name: page_8
       label: Category
-      hint: null
+      hint: Select category for this consumption
       type: select_one
       options:
-      - Category 1
-      - Category 2
-      - Category 3
+      - Fresh Fruits
+      - Cooked Food
+      - Snacks
+      - Others
       required: true
     - id: 9
       name: page_9
       label: Subcategory
-      hint: null
+      hint: Select subcategories for this consumption
       type: select_multiple
       options:
-      - Subcat 1
-      - Subcat 2
-      - Subcat 3
+      - Fresh Fruits
+      - Cooked Food
+      - Desserts
+      - Beverages
       required: false
     - id: 10
       name: page_10
       label: Submit
-      hint: null
+      hint: Submit this form
       type: text
       options: []
       required: false
     - id: 11
       name: page_11
       label: Cancel
-      hint: null
+      hint: Cancel this form
       type: text
       options: []
       required: false
     - id: 12
       name: page_12
       label: Back
-      hint: null
+      hint: Back to previous page
       type: text
       options: []
       required: false
     - id: 13
       name: page_13
       label: Save
-      hint: null
+      hint: Save this form
       type: text
       options: []
       required: false
     - id: 14
       name: page_14
       label: Reset
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: page_15
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: page_16
-      label: Cancel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: Back
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_18
-      label: Save
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Reset
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: page_21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: page_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: page_23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: page_24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: page_25
-      hint: null
+      hint: Reset this form
       type: text
       options: []
       required: false

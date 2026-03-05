@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Live''}'
-      - '{''id'': 2, ''label'': ''Pre-Recorded''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Live
+      - Pre-Recorded
+      - Other
       required: true
     - id: 5
       name: broadcast_date
@@ -54,6 +54,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

@@ -4,64 +4,100 @@ inputSchema:
     title: Fall Preorder
     pages:
     - id: 1
-      name: fall_preorder
-      label: Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: product
-      label: Product
+      name: product_preorder
+      label: What is the product being preordered?
       hint: null
       type: select_one
       options:
-      - Product 1
-      - Product 2
-      - Product 3
-      required: false
-    - id: 3
+      - Fleece Jacket
+      - Hoodie
+      - Sweater
+      required: true
+    - id: 2
       name: quantity
-      label: Quantity
+      label: How many would you like to preorder?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: contact_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Both
+      required: true
     - id: 4
-      name: email
-      label: Email
-      hint: Enter email
-      type: email
-      options: []
+      name: other_products
+      label: Are you interested in other products?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 5
-      name: fall_preorder
-      label: Form
+      name: email
+      label: What is your email address?
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: product
-      label: Product
+      name: comments
+      label: Do you have any other comments or questions?
       hint: null
-      type: select_one
-      options:
-      - Product 1
-      - Product 2
-      - Product 3
+      type: note
+      options: []
       required: false
     - id: 7
-      name: quantity
-      label: Quantity
+      name: updates
+      label: Would you like to receive updates on this preorder?
       hint: null
-      type: number
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: email
-      label: Email
-      hint: Enter email
+      name: add_other_products
+      label: Would you like to add any other products to your preorder?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 9
+      name: email_confirmation
+      label: Please confirm your email address
+      hint: null
       type: email
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_updates
+      label: Would you like to confirm you want to receive updates?
+      hint: null
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: additional_products
+      label: Add any other products to your preorder
+      hint: null
+      type: text
       options: []
       required: false

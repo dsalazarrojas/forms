@@ -30,12 +30,9 @@ inputSchema:
       hint: Optional demographic info
       type: select_one
       options:
-      - label: Male
-        value: male
-      - label: Female
-        value: female
-      - label: Other
-        value: other
+      - Male
+      - Female
+      - Other
       required: false
     - id: 5
       name: section_family_background
@@ -85,14 +82,10 @@ inputSchema:
       hint: e.g., Aunt, Friend, Grandparent
       type: select_one
       options:
-      - label: Relative
-        value: relative
-      - label: Family Friend
-        value: friend
-      - label: Neighbor
-        value: neighbor
-      - label: Grandparent
-        value: grandparent
+      - Relative
+      - Family Friend
+      - Neighbor
+      - Grandparent
       required: true
     - id: 12
       name: emergency_phone

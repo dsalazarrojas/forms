@@ -4,15 +4,15 @@ inputSchema:
     title: Induction Checklist
     pages:
     - id: 1
-      name: onboarding_process
-      label: Onboarding Process
+      name: employment_status
+      label: Employment Status
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: reporting_line
-      label: Reporting Line
+      name: reporting_line_manager
+      label: Reporting Line Manager
       hint: null
       type: select_one
       options:
@@ -20,13 +20,24 @@ inputSchema:
       - 'No'
       required: false
     - id: 3
-      name: emergency_contact
-      label: Emergency Contact
+      name: reporting_line_members
+      label: Reporting Line Members
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 4
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
       name: emergency_contact_relationship
       label: Emergency Contact Relationship
       hint: null
@@ -35,23 +46,28 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 5
-      name: contact_information
-      label: Contact Information
+    - id: 6
+      name: email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 6
-      name: reporting_line_manager
-      label: Reporting Line Manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
       name: emergency_exit_prophets
       label: Emergency Exit Prophets
       hint: null
@@ -60,106 +76,16 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 8
-      name: reporting_line_manager
-      label: Reporting Line Manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: emergency_contact
-      label: Emergency Contact
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 10
-      name: reporting_line_manager
-      label: Reporting Line Manager
+      name: emergency_exit_prophets_relationship
+      label: Emergency Exit Prophets Relationship
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 11
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: reporting_line_manager
-      label: Reporting Line Manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: reporting_line
-      label: Reporting Line
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: prophets_exit
-      label: Prophets Exit
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: reporting_line
-      label: Reporting Line
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: reporting_line_manager
-      label: Reporting Line Manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: emergency_contact_person
-      label: Emergency Contact Person
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
       name: report_to
       label: Report To
       hint: null
@@ -168,56 +94,11 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 20
-      name: reporting_line_manager
-      label: Reporting Line Manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: emergency_contact
-      label: Emergency Contact
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: reporting_line
-      label: Reporting Line
+    - id: 12
+      name: report_to_relationship
+      label: Report To Relationship
       hint: null
       type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: emergency_contact_person
-      label: Emergency Contact Person
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: report_to
-      label: Prophets Exit
-      hint: null
-      type: select_one
       options:
       - 'Yes'
       - 'No'

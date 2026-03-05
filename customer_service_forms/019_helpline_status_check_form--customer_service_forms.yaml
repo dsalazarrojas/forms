@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: customer_id
@@ -29,14 +29,14 @@ inputSchema:
       required: false
     - id: 4
       name: date_last_contacted
-      label: prophets
+      label: Date Last Contacted
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: date_next_contact
-      label: prophets
+      label: Date Next Contact
       hint: null
       type: date
       options: []
@@ -50,7 +50,7 @@ inputSchema:
       required: false
     - id: 7
       name: time_next_contact
-      label: time
+      label: Time Next Contact
       hint: null
       type: time
       options: []
@@ -64,14 +64,14 @@ inputSchema:
       required: false
     - id: 9
       name: email
-      label: prophets
+      label: Email
       hint: null
       type: email
       options: []
       required: false
     - id: 10
       name: phone
-      label: prophets
+      label: Phone
       hint: null
       type: text
       options: []
@@ -98,22 +98,22 @@ inputSchema:
       options: []
       required: false
     - id: 14
-      name: status
+      name: status_2
       label: Status
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: customer_id
-      label: Customer ID
+      name: customer_id_2
+      label: Customer Id 2
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: date_last_contacted
-      label: Date Last Contacted
+      name: date_last_contacted_2
+      label: Date Last Contacted 2
       hint: null
       type: date
       options: []

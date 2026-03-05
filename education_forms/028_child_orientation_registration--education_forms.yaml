@@ -16,12 +16,9 @@ inputSchema:
       hint: Select the time that works best for you
       type: select_one
       options:
-      - label: Morning - 9AM
-        value: morning
-      - label: Afternoon - 2PM
-        value: afternoon
-      - label: Evening - 6PM
-        value: evening
+      - Morning - 9AM
+      - Afternoon - 2PM
+      - Evening - 6PM
       required: true
     - id: 3
       name: section_student_details
@@ -85,14 +82,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Visual Arts and Crafts
-        value: art
-      - label: Music and Rhythm
-        value: music
-      - label: Sports and Outdoor Play
-        value: sports
-      - label: Science and Discovery
-        value: science
+      - Visual Arts and Crafts
+      - Music and Rhythm
+      - Sports and Outdoor Play
+      - Science and Discovery
       required: false
     - id: 12
       name: orientation_questions
@@ -107,8 +100,6 @@ inputSchema:
       hint: Available for siblings and students
       type: select_one
       options:
-      - label: Yes - Need Childcare
-        value: true
-      - label: No - Not Needed
-        value: false
+      - Yes - Need Childcare
+      - No - Not Needed
       required: true

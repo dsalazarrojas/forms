@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''text'', ''value'': ''text''}'
-      - '{''label'': ''integer'', ''value'': ''integer''}'
-      - '{''label'': ''decimal'', ''value'': ''decimal''}'
+      - text
+      - integer
+      - decimal
       required: false
     - id: 9
       name: form_id
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''draft'', ''value'': ''draft''}'
-      - '{''label'': ''published'', ''value'': ''published''}'
-      - '{''label'': ''archived'', ''value'': ''archived''}'
+      - draft
+      - published
+      - archived
       required: false
     - id: 12
       name: category
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Entrepreneur Forms'', ''value'': ''Entrepreneur Forms''}'
-      - '{''label'': ''Business Forms'', ''value'': ''Business Forms''}'
-      - '{''label'': ''Organization Forms'', ''value'': ''Organization Forms''}'
+      - Entrepreneur Forms
+      - Business Forms
+      - Organization Forms
       required: false

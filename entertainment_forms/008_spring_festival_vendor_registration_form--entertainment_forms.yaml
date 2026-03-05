@@ -23,10 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I accept the terms and conditions'', ''value'':
-        ''1''}'
-      - '{''id'': 2, ''label'': ''I do not accept the terms and conditions'', ''value'':
-        ''2''}'
+      - I accept the terms and conditions
+      - I do not accept the terms and conditions
       required: false
     - id: 4
       name: contact_info
@@ -34,11 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
-      - '{''id'': 2, ''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
-      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': ''other'',
-        ''options'': []}'
+      - Email
+      - Phone
+      - Both
+      - Other (please specify)
       required: false
     - id: 5
       name: contact_info_other

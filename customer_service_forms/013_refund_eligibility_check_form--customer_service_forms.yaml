@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full Refund'', ''value'': ''full_refund''}'
-      - '{''id'': 2, ''label'': ''Partial Refund'', ''value'': ''partial_refund''}'
-      - '{''id'': 3, ''label'': ''No Refund'', ''value'': ''no_refund''}'
+      - Full Refund
+      - Partial Refund
+      - No Refund
       required: false
     - id: 3
       name: reason_for_refund
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Team A'', ''value'': ''team_a''}'
-      - '{''id'': 2, ''label'': ''Team B'', ''value'': ''team_b''}'
+      - Team A
+      - Team B
       required: false
     - id: 8
       name: date_of_refund

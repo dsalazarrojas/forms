@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: ประกashion Show Vendor Application Form
+    title: "\u0E1B\u0E23\u0E30\u0E01ashion Show Vendor Application Form"
     pages:
     - id: 1
       name: vendor_name
@@ -9,7 +9,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_name
       label: Contact Name
@@ -23,7 +23,7 @@ inputSchema:
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: contact_phone
       label: Contact Phone
@@ -37,7 +37,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: product_image
       label: Product Image
@@ -49,131 +49,28 @@ inputSchema:
       name: category
       label: Category
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
       name: description
       label: Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: price
-      label: Price
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 10
-      name: product_image
-      label: Product Image
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: product_image
-      label: Product Image
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: category
-      label: Category
+      name: additional_comments
+      label: Additional Comments or Details
       hint: null
       type: text
       options: []

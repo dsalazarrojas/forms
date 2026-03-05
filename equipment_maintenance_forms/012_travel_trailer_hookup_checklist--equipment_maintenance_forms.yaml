@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hitch''}'
-      - '{''value'': ''Tandem''}'
-      - '{''value'': ''Fifth-Wheel''}'
+      - Hitch
+      - Tandem
+      - Fifth-Wheel
       required: true
     - id: 4
       name: trailer_model
@@ -117,11 +117,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Ball''}'
-      - '{''value'': ''L-Box''}'
-      - '{''value'': ''Plate''}'
-      - '{''value'': ''R-Box''}'
-      - '{''value'': ''Other''}'
+      - Ball
+      - L-Box
+      - Plate
+      - R-Box
+      - Other
       required: true
     - id: 17
       name: hitch_size
@@ -136,8 +136,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: safety_chain_length
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cable''}'
-      - '{''value'': ''Chain''}'
-      - '{''value'': ''Strap''}'
+      - Cable
+      - Chain
+      - Strap
       required: true
     - id: 21
       name: safety_chain_weight
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Ball''}'
-      - '{''value'': ''L-Box''}'
-      - '{''value'': ''Plate''}'
+      - Ball
+      - L-Box
+      - Plate
       required: true
     - id: 24
       name: towing_connection
@@ -186,10 +186,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hook''}'
-      - '{''value'': ''Ball''}'
-      - '{''value'': ''Plate''}'
-      - '{''value'': ''L-Box''}'
+      - Hook
+      - Ball
+      - Plate
+      - L-Box
       required: true
     - id: 25
       name: notes

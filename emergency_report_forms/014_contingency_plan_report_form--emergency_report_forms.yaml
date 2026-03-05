@@ -1,215 +1,204 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contingency Plan Report Form
     pages:
-      - id: 1
-        name: report_date
-        label: Report Date
-        hint: Date of report
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: organization_name
-        label: Organization Name
-        hint: Company or organization
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: department
-        label: Department
-        hint: Reporting department
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: report_prepared_by
-        label: Report Prepared By
-        hint: Name and title
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: incident_type
-        label: Incident Type
-        hint: Category of incident
-        type: select_one
-        options:
-          - Natural Disaster
-          - Medical Emergency
-          - Fire
-          - Security Breach
-          - Technology Failure
-          - Supply Chain Disruption
-          - Financial Crisis
-          - Other
-        required: true
-      - id: 6
-        name: incident_description
-        label: Incident Description
-        hint: Detailed description
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: incident_date
-        label: Incident Date
-        hint: When did it occur?
-        type: date
-        options: []
-        required: true
-      - id: 8
-        name: incident_time
-        label: Incident Time
-        hint: Time of occurrence
-        type: time
-        options: []
-        required: false
-      - id: 9
-        name: location
-        label: Location
-        hint: Where did it occur?
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: personnel_involved
-        label: Personnel Involved
-        hint: Names of affected staff
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: severity_level
-        label: Severity Level
-        hint: Impact level
-        type: select_one
-        options:
-          - Critical
-          - High
-          - Medium
-          - Low
-          - Minimal
-        required: true
-      - id: 12
-        name: immediate_actions_taken
-        label: Immediate Actions Taken
-        hint: Initial response steps
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: contingency_plan_activated
-        label: Contingency Plan Activated
-        hint: Was the plan activated?
-        type: select_one
-        options:
-          - Yes, fully
-          - Yes, partially
-          - No
-        required: true
-      - id: 14
-        name: plan_effectiveness
-        label: Plan Effectiveness
-        hint: How well did the plan work?
-        type: select_one
-        options:
-          - Very effective
-          - Effective
-          - Somewhat effective
-          - Not effective
-          - Not activated
-        required: true
-      - id: 15
-        name: resources_deployed
-        label: Resources Deployed
-        hint: What resources were used?
-        type: select_multiple
-        options:
-          - Emergency team
-          - Medical personnel
-          - IT support
-          - Security
-          - External agencies
-          - Equipment
-          - Supplies
-          - Other
-        required: true
-      - id: 16
-        name: communication_methods
-        label: Communication Methods
-        hint: How was information shared?
-        type: select_multiple
-        options:
-          - Email
-          - Phone calls
-          - Text alerts
-          - Public address
-          - Social media
-          - In-person meetings
-        required: false
-      - id: 17
-        name: challenges_encountered
-        label: Challenges Encountered
-        hint: What obstacles arose?
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: lessons_learned
-        label: Lessons Learned
-        hint: Key takeaways
-        type: text
-        options: []
-        required: true
-      - id: 19
-        name: recommendations
-        label: Recommendations
-        hint: Suggested improvements
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: follow_up_required
-        label: Follow-up Required
-        hint: Is additional action needed?
-        type: select_one
-        options:
-          - Yes, urgent
-          - Yes, routine
-          - No
-        required: true
-      - id: 21
-        name: follow_up_date
-        label: Follow-up Date
-        hint: When to review
-        type: date
-        options: []
-        required: false
-      - id: 22
-        name: attachments
-        label: Attachments
-        hint: List any attached documents
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: supervisor_approval
-        label: Supervisor Approval
-        hint: Supervisor name
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Reporting department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Name and title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: Category of incident
+      type: select_one
+      options:
+      - Natural Disaster
+      - Medical Emergency
+      - Fire
+      - Security Breach
+      - Technology Failure
+      - Supply Chain Disruption
+      - Financial Crisis
+      - Other
+      required: true
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_date
+      label: Incident Date
+      hint: When did it occur?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Incident Time
+      hint: Time of occurrence
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: Where did it occur?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: personnel_involved
+      label: Personnel Involved
+      hint: Names of affected staff
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: severity_level
+      label: Severity Level
+      hint: Impact level
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - Minimal
+      required: true
+    - id: 12
+      name: immediate_actions_taken
+      label: Immediate Actions Taken
+      hint: Initial response steps
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contingency_plan_activated
+      label: Contingency Plan Activated
+      hint: Was the plan activated?
+      type: select_one
+      options:
+      - Yes, fully
+      - Yes, partially
+      - 'False'
+      required: true
+    - id: 14
+      name: plan_effectiveness
+      label: Plan Effectiveness
+      hint: How well did the plan work?
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      - Not activated
+      required: true
+    - id: 15
+      name: resources_deployed
+      label: Resources Deployed
+      hint: What resources were used?
+      type: select_multiple
+      options:
+      - Emergency team
+      - Medical personnel
+      - IT support
+      - Security
+      - External agencies
+      - Equipment
+      - Supplies
+      - Other
+      required: true
+    - id: 16
+      name: communication_methods
+      label: Communication Methods
+      hint: How was information shared?
+      type: select_multiple
+      options:
+      - Email
+      - Phone calls
+      - Text alerts
+      - Public address
+      - Social media
+      - In-person meetings
+      required: false
+    - id: 17
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: What obstacles arose?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Key takeaways
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: Suggested improvements
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional action needed?
+      type: select_one
+      options:
+      - Yes, urgent
+      - Yes, routine
+      - 'False'
+      required: true
+    - id: 21
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to review
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: attachments
+      label: Attachments
+      hint: List any attached documents
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Supervisor name
+      type: text
+      options: []
+      required: false

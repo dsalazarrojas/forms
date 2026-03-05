@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Company A''}'
-      - '{''id'': 2, ''label'': ''Company B''}'
-      - '{''id'': 3, ''label'': ''Company C''}'
+      - Company A
+      - Company B
+      - Company C
       required: false
     - id: 6
       name: new_hire_manager
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager A''}'
-      - '{''id'': 2, ''label'': ''Manager B''}'
-      - '{''id'': 3, ''label'': ''Manager C''}'
+      - Manager A
+      - Manager B
+      - Manager C
       required: false
     - id: 7
       name: job_title
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''On Leave''}'
+      - Active
+      - Inactive
+      - On Leave
       required: false
     - id: 24
       name: job_type_status
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Full-time''}'
-      - '{''id'': 2, ''label'': ''Part-time''}'
-      - '{''id'': 3, ''label'': ''Contract''}'
+      - Full-time
+      - Part-time
+      - Contract
       required: false
     - id: 25
       name: manager_approval
@@ -189,7 +189,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Not Approved''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Not Approved
+      - Pending
       required: false

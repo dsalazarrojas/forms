@@ -5,184 +5,114 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: what is soil
-      hint: null
+      label: introduction
+      hint: This is the introduction to the soil science quiz.
       type: text
       options: []
       required: false
     - id: 2
-      name: multiple_choice
+      name: soil_types
       label: soil types
-      hint: null
+      hint: Choose the correct type of soil.
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - sand
+      - silt
+      - clay
       required: false
     - id: 3
-      name: time
-      label: time
-      hint: please select in 24 hours format
-      type: time
+      name: soil_composition
+      label: soil composition
+      hint: Describe the primary component of soil that affects its structure.
+      type: text
       options: []
       required: false
     - id: 4
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
+      name: soil_processes
+      label: soil processes
+      hint: Choose the process by which soil loses its nutrients.
+      type: select_one
+      options:
+      - leaching
+      - erosion
+      - weathering
       required: false
     - id: 5
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
+      name: soil_properties
+      label: soil properties
+      hint: Choose the relationship between pH and soil fertility.
+      type: select_multiple
+      options:
+      - pH affects soil fertility
+      - pH does not affect soil fertility
+      - pH affects soil structure
+      - pH does not affect soil structure
       required: false
     - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
+      name: conservation
+      label: conservation
+      hint: Choose the primary goal of soil conservation.
+      type: select_one
+      options:
+      - prevent soil erosion
+      - prevent soil erosion and improve fertility
+      - improve soil fertility
       required: false
     - id: 7
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
+      name: fertility
+      label: fertility
+      hint: Choose the factor that affects soil fertility.
+      type: select_multiple
+      options:
+      - organic matter
+      - pH
+      - water content
+      - temperature
       required: false
     - id: 8
-      name: decimal
-      label: decimal
-      hint: null
-      type: number
+      name: microbiology
+      label: microbiology
+      hint: Describe the role of microorganisms in soil formation.
+      type: text
       options: []
       required: false
     - id: 9
-      name: integer
-      label: integer
-      hint: null
-      type: number
-      options: []
+      name: erosion
+      label: erosion
+      hint: Choose the causes of soil erosion.
+      type: select_multiple
+      options:
+      - water erosion
+      - wind erosion
+      - tillage
+      - deforestation
       required: false
     - id: 10
-      name: select_multiple
-      label: select multiple
-      hint: null
+      name: water
+      label: water
+      hint: Choose the importance of water in soil formation.
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - water affects soil formation
+      - water does not affect soil formation
+      - water affects soil fertility
+      - water does not affect soil fertility
       required: false
     - id: 11
-      name: select_one
-      label: select one
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: decimal
-      label: decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: integer
-      label: integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: select_multiple
-      label: select multiple
-      hint: null
+      name: nutrients
+      label: nutrients
+      hint: Choose the essential nutrients for plant growth.
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - nitrogen
+      - phosphorus
+      - potassium
+      - magnesium
       required: false
-    - id: 20
-      name: select_one
-      label: select one
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: note
-      label: note
-      hint: null
+    - id: 12
+      name: conclusion
+      label: conclusion
+      hint: Summarize what you have learned from this quiz.
       type: note
-      options: []
-      required: false
-    - id: 24
-      name: phone
-      label: phone
-      hint: null
-      type: text
       options: []
       required: false

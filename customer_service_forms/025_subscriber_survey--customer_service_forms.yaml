@@ -4,193 +4,110 @@ inputSchema:
     title: subscriber_survey
     pages:
     - id: 1
-      name: survey_questions
-      label: Survey questions
+      name: customer_feedback
+      label: 1. What do you think about our service?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: feedback
-      label: Feedback
+      name: quality_service
+      label: 2. How would you rate our service?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Average
+      - Bad
+      - Very Good
+      - Excellent
+      required: true
+    - id: 3
+      name: contact_info
+      label: 3. What is your contact information?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Address
+      - Other
+      required: true
+    - id: 4
+      name: contact_date
+      label: 4. When would you like to contact us?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_time
+      label: 5. What time of day do you prefer to contact us?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: source_contact
+      label: 6. How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Phone
+      - Word of mouth
+      - Online search
+      - Other
+      required: true
+    - id: 7
+      name: suggestions
+      label: 7. Do you have any suggestions for us?
       hint: null
       type: note
       options: []
       required: false
-    - id: 3
-      name: contact_info
-      label: Contact info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 5
-      name: phone
-      label: Phone
+    - id: 8
+      name: changes
+      label: 8. What would you like to see changed?
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
     - id: 9
-      name: select_multiple
-      label: Select Multiple
+      name: improvements
+      label: 9. How can we improve our service?
       hint: null
       type: select_multiple
       options:
-      - Option A
-      - Option B
-      - Option C
-      - Option D
+      - Faster
+      - More frequent
+      - Better communication
+      - Other
       required: false
     - id: 10
-      name: note
-      label: Note
+      name: other_comments
+      label: 10. Do you have any other comments?
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: select_one
-      label: Select One
+      name: emotional_experience
+      label: 11. How did you feel about our service?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 17
-      name: select_multiple
-      label: Select Multiple
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 12
+      name: future_visit
+      label: 12. Do you plan to come back?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Option A
-      - Option B
-      - Option C
-      - Option D
-      required: false
-    - id: 18
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
+      - 'True'
+      - 'False'
+      required: true

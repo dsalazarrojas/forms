@@ -4,8 +4,8 @@ inputSchema:
     title: prophets
     pages:
     - id: 1
-      name: section_1
-      label: Section 1
+      name: pronunciation
+      label: Pronunciation
       hint: null
       type: select_one
       options:
@@ -16,17 +16,22 @@ inputSchema:
       - Very Poor
       required: true
     - id: 2
-      name: pronunciation
-      label: pronunciation
+      name: fluency
+      label: Fluency
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Very Poor
       required: true
     - id: 3
-      name: fluency
-      label: fluency
+      name: vocabulary
+      label: Vocabulary
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Excellent
       - Good
@@ -35,8 +40,8 @@ inputSchema:
       - Very Poor
       required: true
     - id: 4
-      name: vocabulary
-      label: vocabulary
+      name: comprehension
+      label: Comprehension
       hint: null
       type: select_one
       options:
@@ -47,10 +52,10 @@ inputSchema:
       - Very Poor
       required: true
     - id: 5
-      name: comprehension
-      label: comprehension
+      name: interaction
+      label: Interaction
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Excellent
       - Good
@@ -59,158 +64,149 @@ inputSchema:
       - Very Poor
       required: true
     - id: 6
-      name: interaction
-      label: interaction
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pronunciation_skills
+      label: Pronunciation Skills
       hint: null
       type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
-      required: true
-    - id: 7
-      name: section_2
-      label: Section 2
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Accent
+      - Articulation
+      - Inflection
+      - Intonation
+      - Vowel sounds
+      - Consonant sounds
+      - Fluency
       required: true
     - id: 8
-      name: section_1
-      label: Section 1
+      name: comprehension_areas
+      label: Comprehension Areas
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Listening
+      - Reading
+      - Writing
+      - Speaking
       required: true
     - id: 9
-      name: section_1
-      label: Section 1
+      name: additional_skills
+      label: Additional Skills
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Grammar
+      - Pronunciation
+      - Vocabulary
+      - Fluency
+      - Interaction
       required: true
     - id: 10
-      name: section_1
-      label: Section 1
+      name: pronunciation_challenges
+      label: Pronunciation Challenges
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Word order
+      - Syntactic errors
+      - Articulation difficulties
+      - Vowel sounds
+      - Consonant sounds
       required: true
     - id: 11
-      name: section_1
-      label: Section 1
+      name: fluency_challenges
+      label: Fluency Challenges
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Speed
+      - Confidence
+      - Speaking in front of an audience
+      - Using idiomatic expressions
+      - Understanding nuances
       required: true
     - id: 12
-      name: section_1
-      label: Section 1
+      name: comprehension_challenges
+      label: Comprehension Challenges
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Reading speed
+      - Vocabulary building
+      - Contextual understanding
+      - Active listening
+      - Grammar rules
       required: true
     - id: 13
-      name: section_1
-      label: Section 1
+      name: interaction_challenges
+      label: Interaction Challenges
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Engaging in conversations
+      - Understanding idiomatic expressions
+      - Asking questions
+      - Giving feedback
+      - Maintaining eye contact
       required: true
     - id: 14
-      name: section_1
-      label: Section 1
+      name: additional_resources
+      label: Additional Resources
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Language learning apps
+      - YouTube videos
+      - Podcasts
+      - Language exchange websites
+      - Language learning podcasts
       required: true
     - id: 15
-      name: section_1
-      label: Section 1
+      name: language_exchange
+      label: Language Exchange
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Language exchange websites
+      - Language exchange apps
+      - Language exchange events
+      - Language conversation practice with a tutor
+      - Language conversation groups
       required: true
     - id: 16
-      name: section_1
-      label: Section 1
+      name: self_assessment
+      label: Self-Assessment
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Self-assessment 1
+      - Self-assessment 2
+      - Self-assessment 3
+      - Self-assessment 4
+      - Self-assessment 5
       required: true
     - id: 17
-      name: section_1
-      label: Section 1
+      name: feedback_from_others
+      label: Feedback from Others
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      - Feedback from language teacher
+      - Feedback from language partner
+      - Feedback from family member
+      - Feedback from friend
+      - Feedback from self-reflection
       required: true
     - id: 18
-      name: section_1
-      label: Section 1
+      name: recommendations
+      label: Recommendations
       hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Good
-      - Average
-      - Fair
-      - Very Poor
+      type: text
+      options: []
       required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''logo_type_option_1'', ''label'': ''Iconic''}'
-      - '{''id'': ''logo_type_option_2'', ''label'': ''Logotype''}'
-      - '{''id'': ''logo_type_option_3'', ''label'': ''Badge''}'
+      - Iconic
+      - Logotype
+      - Badge
       required: false
     - id: 3
       name: contest_date
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''upload_result_option_1'', ''label'': ''Success''}'
-      - '{''id'': ''upload_result_option_2'', ''label'': ''Error''}'
-      - '{''id'': ''upload_result_option_3'', ''label'': ''Warning''}'
+      - Success
+      - Error
+      - Warning
       required: false
     - id: 5
       name: logo_url
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''logo_size_option_1'', ''label'': ''Small''}'
-      - '{''id'': ''logo_size_option_2'', ''label'': ''Medium''}'
-      - '{''id'': ''logo_size_option_3'', ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 7
       name: logo_color
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''logo_color_option_1'', ''label'': ''Black''}'
-      - '{''id'': ''logo_color_option_2'', ''label'': ''White''}'
-      - '{''id'': ''logo_color_option_3'', ''label'': ''Grey''}'
+      - Black
+      - White
+      - Grey
       required: false
     - id: 8
       name: logo_width

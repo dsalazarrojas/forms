@@ -15,29 +15,51 @@ inputSchema:
     title: Student Satisfaction With Academic Services Evaluation Form
     pages:
     - id: 1
-      name: student_satisfaction_with_academic_services_evaluation_form_page_1
-      label: Introduction
+      name: overview
+      label: Overall Experience
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: student_satisfaction_page_2
-      label: Question 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: question_1
-      label: What is your overall satisfaction with the academic services provided?
+      label: Satisfaction with Quality of Instruction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 3
+      name: question_2
+      label: Satisfaction with Availability of Resources
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of instruction
+      - Availability of facilities
+      - Availability of library and other resources
+      - Support from instructors
+      - Support from peers
       required: false
     - id: 4
-      name: question_1_response
-      label: None
+      name: question_3
+      label: Satisfaction with Support from Instructors
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 5
+      name: question_4
+      label: Satisfaction with Support from Peers
       hint: null
       type: select_one
       options:
@@ -47,53 +69,76 @@ inputSchema:
       - Somewhat Satisfied
       - Very Satisfied
       required: false
-    - id: 5
-      name: question_2
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 6
-      name: question_2_response
-      label: None
+      name: question_5
+      label: Overall Satisfaction
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Quality of instruction
-      - Availability of resources
-      - Support from instructors
-      - Support from peers
-      - Other (please specify)
-      required: false
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
     - id: 7
-      name: question_3
-      label: None
+      name: question_6
+      label: Quality of Academic Advice and Guidance
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
       required: false
     - id: 8
-      name: question_3_response
-      label: None
+      name: question_7
+      label: Availability of Facilities
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Quality of academic advice and guidance
-      - Availability of facilities
-      - Availability of library and other resources
-      - Other (please specify)
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
       required: false
     - id: 9
-      name: student_feedback
-      label: None
+      name: question_8
+      label: Availability of Library and Other Resources
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction (2)
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neither
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: suggestions
+      label: Suggestions and Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: question_4
-      label: None
+    - id: 12
+      name: feedback
+      label: Additional Feedback
       hint: null
       type: text
       options: []

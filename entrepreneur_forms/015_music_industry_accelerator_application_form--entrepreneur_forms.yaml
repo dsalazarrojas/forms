@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Indie''}'
-      - '{''label'': ''Rock''}'
-      - '{''label'': ''Pop''}'
-      - '{''label'': ''Jazz''}'
+      - Indie
+      - Rock
+      - Pop
+      - Jazz
       required: false
     - id: 4
       name: music_style
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Classical''}'
-      - '{''label'': ''Folk''}'
-      - '{''label'': ''Blues''}'
-      - '{''label'': ''Electronic''}'
+      - Classical
+      - Folk
+      - Blues
+      - Electronic
       required: false
     - id: 5
       name: start_date
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Studio''}'
-      - '{''label'': ''Home''}'
-      - '{''label'': ''Other''}'
+      - Studio
+      - Home
+      - Other
       required: false
     - id: 10
       name: application_form
@@ -104,10 +104,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Now''}'
-      - '{''label'': ''Soon''}'
-      - '{''label'': ''Not Yet''}'
-      - '{''label'': ''Later''}'
+      - Now
+      - Soon
+      - Not Yet
+      - Later
       required: false
     - id: 14
       name: application_status
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Rejected''}'
+      - Approved
+      - In Progress
+      - Rejected
       required: false
     - id: 15
       name: notes

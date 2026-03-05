@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Present'', ''required'': True}'
-      - '{''value'': 2, ''label'': ''Absent'', ''required'': True}'
-      - '{''value'': 3, ''label'': ''Tardy'', ''required'': True}'
+      - Present
+      - Absent
+      - Tardy
       required: true
     - id: 2
       name: lesson_date
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Present'', ''label'': ''Present''}'
-      - '{''value'': 1, ''label'': ''Absent'', ''required'': True}'
-      - '{''value'': 2, ''label'': ''Tardy'', ''required'': True}'
+      - Present
+      - Absent
+      - Tardy
       required: true
     - id: 12
       name: form_submitted_by
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Tutors''}'
-      - '{''value'': 2, ''label'': ''Administrators''}'
-      - '{''value'': 3, ''label'': ''Students''}'
+      - Tutors
+      - Administrators
+      - Students
       required: true
     - id: 13
       name: form_submitted_at
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Desktop''}'
-      - '{''value'': 2, ''label'': ''Mobile''}'
-      - '{''value'': 3, ''label'': ''Tablet''}'
+      - Desktop
+      - Mobile
+      - Tablet
       required: false
     - id: 15
       name: form_ip_address
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Tutors''}'
-      - '{''value'': 2, ''label'': ''Administrators''}'
-      - '{''value'': 3, ''label'': ''Students''}'
+      - Tutors
+      - Administrators
+      - Students
       required: true
     - id: 24
       name: form_submitted_by_ip_address

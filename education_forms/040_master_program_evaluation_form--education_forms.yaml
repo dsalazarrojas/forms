@@ -1,118 +1,131 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Master Program Evaluation Form
     pages:
     - id: 1
-      name: master_program_evaluation_form
-      label: master_program_evaluation_form
+      name: introduction
+      label: Introduction
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: comments
-      label: comments
+      name: program_title
+      label: Program Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: accessing_information_satisfaction_level
-      label: accessing_information_satisfaction_level
+      name: program_duration
+      label: Program Duration
       hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Highly Satisfied''}'
-      - '{''label'': ''Moderately Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
-      - '{''label'': ''Somewhat Unsatisfied''}'
-      - '{''label'': ''Highly Unsatisfied''}'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 4
-      name: clarity_of_policies_satisfaction_level
-      label: clarity_of_policies_satisfaction_level
+      name: satisfaction_with_program
+      label: Satisfaction with Program
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Highly Satisfied''}'
-      - '{''label'': ''Moderately Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
-      - '{''label'': ''Somewhat Unsatisfied''}'
-      - '{''label'': ''Highly Unsatisfied''}'
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false
     - id: 5
-      name: faculty_issues_and_academic_support_satisfaction_level
-      label: faculty_issues_and_academic_support_satisfaction_level
+      name: accessibility_of_program_resources
+      label: Accessibility of Program Resources
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Highly Satisfied''}'
-      - '{''label'': ''Moderately Satisfied''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Neither Satisfied nor Unsatisfied''}'
-      - '{''label'': ''Somewhat Unsatisfied''}'
-      - '{''label'': ''Highly Unsatisfied''}'
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false
     - id: 6
       name: comments
-      label: comments
+      label: Comments
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: comments
-      label: comments
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: comments
-      label: comments
+      name: program_satisfaction
+      label: Program Satisfaction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false
     - id: 9
-      name: comments
-      label: comments
+      name: faculty_satisfaction
+      label: Faculty Satisfaction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false
     - id: 10
-      name: comments
-      label: comments
+      name: academic_support_satisfaction
+      label: Academic Support Satisfaction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false
     - id: 11
-      name: comments
-      label: comments
+      name: accessibility_of_program_resources_satisfaction
+      label: Accessibility Of Program Resources Satisfaction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false
     - id: 12
-      name: comments
-      label: comments
+      name: total_satisfaction
+      label: Total Satisfaction
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied nor Unsatisfied
+      - Somewhat Unsatisfied
+      - Highly Unsatisfied
       required: false

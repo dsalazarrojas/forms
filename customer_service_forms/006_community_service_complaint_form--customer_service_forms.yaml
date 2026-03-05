@@ -1,72 +1,68 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Service Complaint Form
     pages:
-      - id: 1
-        name: complainant_name
-        label: Complainant full name
-        hint: Person submitting the complaint
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: complainant_contact
-        label: Contact email or phone
-        hint: For follow up and resolution
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: service_area
-        label: Service area or department
-        hint: Which service or department is the complaint about
-        type: select_one
-        options: [Sanitation, Parks, Community Programs, Support Services, Other]
-        required: true
-      - id: 4
-        name: complaint_summary
-        label: Complaint summary
-        hint: Concise description of the issue
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: incident_date
-        label: Date of incident
-        hint: Date when the issue occurred
-        type: date
-        options: []
-        required: false
-      - id: 6
-        name: location
-        label: Location related to complaint
-        hint: Address or facility name
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: desired_resolution
-        label: Desired resolution
-        hint: What outcome are you seeking
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: anonymous_submission
-        label: Submit anonymously
-        hint: Choose Yes if you do not want to be contacted
-        type: select_one
-        options: [Yes, No]
-        required: false
+    - id: 1
+      name: complainant_name
+      label: Complainant full name
+      hint: Person submitting the complaint
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complainant_contact
+      label: Contact email or phone
+      hint: For follow up and resolution
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_area
+      label: Service area or department
+      hint: Which service or department is the complaint about
+      type: select_one
+      options:
+      - Sanitation
+      - Parks
+      - Community Programs
+      - Support Services
+      - Other
+      required: true
+    - id: 4
+      name: complaint_summary
+      label: Complaint summary
+      hint: Concise description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_date
+      label: Date of incident
+      hint: Date when the issue occurred
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location related to complaint
+      hint: Address or facility name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: desired_resolution
+      label: Desired resolution
+      hint: What outcome are you seeking
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: anonymous_submission
+      label: Submit anonymously
+      hint: Choose Yes if you do not want to be contacted
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

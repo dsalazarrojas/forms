@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Parent/Guardian'', ''value'': ''Parent/Guardian''}'
-      - '{''id'': 2, ''label'': ''Spouse'', ''value'': ''Spouse''}'
-      - '{''id'': 3, ''label'': ''Emergency Contact'', ''value'': ''Emergency Contact''}'
+      - Parent/Guardian
+      - Spouse
+      - Emergency Contact
       required: true
     - id: 9
       name: medical_conditions
@@ -110,10 +110,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Child'', ''value'': ''Child''}'
-      - '{''id'': 2, ''label'': ''Spouse'', ''value'': ''Spouse''}'
-      - '{''id'': 3, ''label'': ''Parent/Guardian'', ''value'': ''Parent/Guardian''}'
-      - '{''id'': 4, ''label'': ''Emergency Contact'', ''value'': ''Emergency Contact''}'
+      - Child
+      - Spouse
+      - Parent/Guardian
+      - Emergency Contact
       required: true
     - id: 16
       name: emergency_contact_address

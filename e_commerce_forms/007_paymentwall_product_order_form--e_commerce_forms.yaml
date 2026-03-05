@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Shipped''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Pending
+      - Shipped
+      - Cancelled
       required: false
     - id: 7
       name: user_email
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit card''}'
-      - '{''id'': 2, ''label'': ''PayPal''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit card
+      - PayPal
+      - Bank Transfer
       required: false
     - id: 13
       name: form_notes

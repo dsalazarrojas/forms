@@ -16,410 +16,259 @@ inputSchema:
     pages:
     - id: 1
       name: first_question
-      label: Poetic devices
+      label: What is the purpose of a metaphor?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: first_option
-      label: Metaphor
+      label: A comparison between two things
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A figure of speech that makes a comparison between  two different
-        things''}'
-      - '{''option'': ''a way of expressing a concept or idea''}'
+      - A way of comparing two things
+      - A way of expressing one thing as another
       required: false
     - id: 3
       name: second_question
-      label: Symbolism
+      label: What is a way of expressing an idea or concept through the use of symbols
+        or images?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: second_option
-      label: A way of using symbols, images, or objects to represent abstract ideas
-        or concepts
+      label: An image or representation
       hint: null
       type: select_one
       options:
-      - '{''option'': ''An image, picture, or object that represents an idea or feeling''}'
-      - '{''option'': ''A way of using words or images to convey meaning''}'
+      - A way of representing an idea or concept
+      - A way of conveying meaning through images or symbols
       required: false
     - id: 5
       name: third_question
-      label: Alliteration
+      label: What is the effect of alliteration?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: third_option
-      label: A way of using words that start with the same sound
+      label: Repeating sounds in a sentence or phrase
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Words that are pronounced the same''}'
-      - '{''option'': ''Words that start with the same sound''}'
+      - A way of repeating sounds
+      - A repetition of sounds
       required: false
     - id: 7
       name: fourth_question
-      label: Imagery
+      label: What is a way of making a comparison using the words 'like' or 'as'?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: fourth_option
-      label: A way of using words to create a mental image of a person, place, or
-        object
+      label: Using 'like' or 'as' to compare two things
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A description of the senses''}'
-      - '{''option'': ''A way of creating a picture in the mind''}'
+      - A comparison between two things
+      - A comparison using 'like' or 'as'
       required: false
     - id: 9
       name: fifth_question
-      label: Allusion
+      label: What is the effect of personification?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: fifth_option
-      label: A reference to a person, place, or event in a text, especially in the
-        Bible
+      label: Giving human-like qualities to non-human things
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A word or phrase that refers to a thing or event in the past''}'
-      - '{''option'': ''A reference to something in the Bible or another religious
-        text''}'
+      - Attributing human qualities to objects or concepts
+      - Giving human qualities to non-human things
       required: false
     - id: 11
       name: sixth_question
-      label: Simile
+      label: What is a word that imitates the sound of what is being described?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: sixth_option
-      label: A comparison of two things using 'like'
+      label: A word that imitates a sound
       hint: null
       type: select_one
       options:
-      - "{'option': 'A comparison of two things using \u2018like\u2019'}"
-      - '{''option'': ''A comparison between two things''}'
+      - A word that imitates the sound
+      - A word that repeats a sound
       required: false
     - id: 13
       name: seventh_question
-      label: Hyperbole
+      label: What is the effect of allusion?
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: seventh_option
-      label: Exaggeration
+      label: Reference to a person, place, or event
       hint: null
       type: select_one
       options:
-      - '{''option'': ''An overstatement''}'
-      - '{''option'': ''A way of expressing an idea that is stronger than the reality''}'
+      - A reference to the past
+      - A hint of something in the past
       required: false
     - id: 15
       name: eighth_question
-      label: Personification
+      label: What is a repeated phrase or word?
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: eighth_option
-      label: Giving human-like qualities to objects or abstract ideas
+      label: A phrase or word that repeats
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Attributing human qualities or characteristics to non-human
-        things''}'
-      - '{''option'': ''An idea or object that is given human-like qualities''}'
+      - A repeated phrase
+      - A repeated word
       required: false
     - id: 17
       name: ninth_question
-      label: Onomatopoeia
+      label: Ninth Question
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: ninth_option
-      label: A word that imitates the sound of what is being described
+      label: Ninth Option
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A word that imitates the sound''}'
-      - '{''option'': ''A word that imitates the sound of something''}'
+      - A word that imitates the sound
+      - A word that repeats a sound
       required: false
     - id: 19
       name: tenth_question
-      label: Enjambment
+      label: What is a reference to a person, place, or event in the past?
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: tenth_option
-      label: The continuation of a sentence or phrase into the next line without a
-        pause
+      label: A reference to the past
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A sentence or phrase that continues into the next line''}'
-      - '{''option'': ''Continuation of a sentence or phrase without a pause''}'
+      - A reference to something in the past
+      - A hint of something in the past
       required: false
     - id: 21
       name: eleventh_question
-      label: Anaphora
+      label: Eleventh Question
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: eleventh_option
-      label: A repeated phrase or word at the beginning of successive clauses or lines
+      label: A repeated word
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A repeated phrase or word at the beginning of successive lines''}'
-      - '{''option'': ''A repeated word or phrase at the beginning of successive clauses''}'
+      - A repeated word
+      - A repeated phrase
       required: false
     - id: 23
       name: twelfth_question
-      label: Repetition
+      label: What is a mental image or picture?
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: twelfth_option
-      label: The repetition of a word or phrase
+      label: A mental picture
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A repeated word or phrase''}'
-      - '{''option'': ''Repeating a word or phrase''}'
+      - A mental image
+      - A mental picture
       required: false
     - id: 25
       name: thirteenth_question
-      label: Imagery
+      label: What is a comparison of two things using 'like' or 'as'?
       hint: null
       type: text
       options: []
       required: false
     - id: 26
       name: thirteenth_option
-      label: An image that creates a mental picture
+      label: A comparison using 'like' or 'as'
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A picture that is created in the mind''}'
-      - '{''option'': ''A mental picture''}'
+      - A comparison using 'like' or 'as'
+      - A comparison between two things
       required: false
     - id: 27
       name: fourteenth_question
-      label: Allusion
+      label: What is a repeated phrase or word at the beginning of successive clauses
+        or lines?
       hint: null
       type: text
       options: []
       required: false
     - id: 28
       name: fourteenth_option
-      label: A reference to a person, place, or event
+      label: A repeated phrase or word
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A reference to a person, place, or event in the past''}'
-      - '{''option'': ''A hint of something in the past''}'
+      - A repeated phrase
+      - A repeated word
       required: false
     - id: 29
       name: fifteenth_question
-      label: Symbolism
+      label: What is a way of giving human-like qualities to objects or abstract ideas?
       hint: null
       type: text
       options: []
       required: false
     - id: 30
       name: fifteenth_option
-      label: A way of using symbols to represent abstract ideas or concepts
+      label: Giving human qualities to non-human things
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A representation of abstract ideas or concepts''}'
-      - '{''option'': ''A way of using symbols''}'
+      - Attributing human qualities to objects or concepts
+      - Giving human qualities to non-human things
       required: false
     - id: 31
       name: sixteenth_question
-      label: Imagery
+      label: Sixteenth Question
       hint: null
       type: text
       options: []
       required: false
     - id: 32
       name: sixteenth_option
-      label: A way of creating a mental image
+      label: Sixteenth Option
       hint: null
       type: select_one
       options:
-      - '{''option'': ''A description that creates a mental picture''}'
-      - '{''option'': ''A way of creating mental images''}'
-      required: false
-    - id: 33
-      name: seventeenth_question
-      label: Hyperbole
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: seventeenth_option
-      label: An overstatement
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''Exaggeration''}'
-      - '{''option'': ''Saying more than what is true''}'
-      required: false
-    - id: 35
-      name: eighteenth_question
-      label: Metaphor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: eighteenth_option
-      label: "A comparison between two things without using \u2018like\u2019"
-      hint: null
-      type: select_one
-      options:
-      - "{'option': 'A comparison without \u2018like\u2019'}"
-      - '{''option'': ''A comparison between two things''}'
-      required: false
-    - id: 37
-      name: nineteenth_question
-      label: Juxtaposition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: nineteenth_option
-      label: Placing two images side by side to show their relationship
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''Side by side comparison''}'
-      - '{''option'': ''Placing two things next to each other''}'
-      required: false
-    - id: 39
-      name: twentieth_question
-      label: Allegory
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: twentieth_option
-      label: A story that uses a real event or person to represent a general truth
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''A story that represents a general truth''}'
-      - '{''option'': ''An extended metaphor''}'
-      required: false
-    - id: 41
-      name: twentyfirst_question
-      label: Personification
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: twentyfirst_option
-      label: A figure of speech that gives human-like qualities to objects or abstract
-        things
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''Giving human qualities to things that are not human''}'
-      - '{''option'': ''Attributing human qualities to objects or ideas''}'
-      required: false
-    - id: 43
-      name: twentysecond_question
-      label: Imagery
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: twentysecond_option
-      label: A way of expressing an idea using mental images
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''A description that creates a mental picture''}'
-      - '{''option'': ''A way to express an idea''}'
-      required: false
-    - id: 45
-      name: twentythird_question
-      label: Enjambment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: twentythird_option
-      label: The continuation of a sentence or phrase into the next line without a
-        pause
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''A sentence that continues into the next line''}'
-      - '{''option'': ''Continuation of a sentence into the next line''}'
-      required: false
-    - id: 47
-      name: twentyfourth_question
-      label: Anaphora
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: twentyfourth_option
-      label: A repeated word or phrase at the beginning of successive clauses
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''Repeated word or phrase at the beginning''}'
-      - '{''option'': ''Repeating a word or phrase''}'
-      required: false
-    - id: 49
-      name: twentyfifth_question
-      label: Repetition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: twentyfifth_option
-      label: A repeated phrase or word
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''A repeated phrase or word''}'
-      - '{''option'': ''Repeating a phrase or word''}'
+      - A word that imitates the sound
+      - A word that repeats a sound
       required: false

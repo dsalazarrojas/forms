@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''type1''}'
-      - '{''id'': 2, ''label'': ''type2''}'
-      - '{''id'': 3, ''label'': ''type3''}'
+      - type1
+      - type2
+      - type3
       required: false
     - id: 6
       name: price_range
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''range1''}'
-      - '{''id'': 2, ''label'': ''range2''}'
+      - range1
+      - range2
       required: false
     - id: 7
       name: special_instructions

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dihedral angle''}'
-      - '{''id'': 2, ''label'': ''Reflection line''}'
+      - Dihedral angle
+      - Reflection line
       required: true
     - id: 5
       name: rotational_symmetry
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Dihedral angle''}'
-      - '{''id'': 2, ''label'': ''Reflection axis''}'
-      - '{''id'': 3, ''label'': ''None of the above''}'
+      - Dihedral angle
+      - Reflection axis
+      - None of the above
       required: true
     - id: 6
       name: additional_comments

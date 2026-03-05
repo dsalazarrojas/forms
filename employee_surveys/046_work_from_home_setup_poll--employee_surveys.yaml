@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Development''}'
-      - '{''id'': 2, ''label'': ''Sales''}'
-      - '{''id'': 3, ''label'': ''Customer Service''}'
-      - '{''id'': 4, ''label'': ''Management''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Development
+      - Sales
+      - Customer Service
+      - Management
+      - Other
       required: false
     - id: 3
       name: work_from_home_setup_poll_2
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Laptop''}'
-      - '{''id'': 2, ''label'': ''Desktop''}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Mac''}'
+      - Laptop
+      - Desktop
+      - Other
+      - Mac
       required: false
     - id: 5
       name: work_from_home_setup_poll_4
@@ -46,11 +46,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Mon-Fri, 8-5''}'
-      - '{''id'': 2, ''label'': ''Mon-Fri, 9-6''}'
-      - '{''id'': 3, ''label'': ''Mon-Thu, 8-4''}'
-      - '{''id'': 4, ''label'': ''Mon-Thu, 9-5''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Mon-Fri, 8-5
+      - Mon-Fri, 9-6
+      - Mon-Thu, 8-4
+      - Mon-Thu, 9-5
+      - Other
       required: false
     - id: 6
       name: work_from_home_setup_poll_5
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': "Yes, it''s a dedicated space"}'
-      - '{''id'': 2, ''label'': ''No, I work from anywhere''}'
-      - '{''id'': 3, ''label'': ''Sometimes, it depends on the day''}'
+      - Yes, it's a dedicated space
+      - No, I work from anywhere
+      - Sometimes, it depends on the day
       required: false
     - id: 8
       name: work_from_home_setup_poll_7
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Use video conferencing software''}'
-      - '{''id'': 2, ''label'': ''Email or text''}'
-      - '{''id'': 3, ''label'': ''Phone''}'
-      - '{''id'': 4, ''label'': ''In-person''}'
+      - Use video conferencing software
+      - Email or text
+      - Phone
+      - In-person
       required: false
     - id: 9
       name: work_from_home_setup_poll_8
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Yes, frequently''}'
-      - '{''id'': 2, ''label'': ''Yes, rarely''}'
-      - '{''id'': 3, ''label'': False}'
+      - Yes, frequently
+      - Yes, rarely
+      - 'False'
       required: false
     - id: 10
       name: work_from_home_setup_poll_9
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Regular video calls''}'
-      - '{''id'': 2, ''label'': ''Email and instant messaging''}'
-      - '{''id'': 3, ''label'': ''In-person meetings''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Regular video calls
+      - Email and instant messaging
+      - In-person meetings
+      - Other
       required: false
     - id: 11
       name: work_from_home_setup_poll_10
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': ''No, it depends on the day''}'
-      - '{''id'': 3, ''label'': False}'
+      - 'True'
+      - No, it depends on the day
+      - 'False'
       required: false
     - id: 12
       name: work_from_home_setup_poll_11
@@ -118,8 +118,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: work_from_home_setup_poll_12
@@ -127,10 +127,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Difficulty staying connected with team''}'
-      - '{''id'': 2, ''label'': ''Difficulty with time zone challenges''}'
-      - '{''id'': 3, ''label'': ''Difficulty with technology integration''}'
-      - '{''id'': 4, ''label'': ''Difficulty with communication challenges''}'
+      - Difficulty staying connected with team
+      - Difficulty with time zone challenges
+      - Difficulty with technology integration
+      - Difficulty with communication challenges
       required: false
     - id: 14
       name: work_from_home_setup_poll_13
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cable internet''}'
-      - '{''id'': 2, ''label'': ''Wi-Fi''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Cable internet
+      - Wi-Fi
+      - Other
       required: false
     - id: 15
       name: work_from_home_setup_poll_14
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Alone''}'
-      - '{''id'': 2, ''label'': ''2-3 people''}'
-      - '{''id'': 3, ''label'': ''4 or more people''}'
+      - Alone
+      - 2-3 people
+      - 4 or more people
       required: false
     - id: 16
       name: work_from_home_setup_poll_15
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Every few hours''}'
-      - '{''id'': 2, ''label'': ''Several times a day''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
+      - Every few hours
+      - Several times a day
+      - Rarely
       required: false
     - id: 17
       name: work_from_home_setup_poll_16
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: work_from_home_setup_poll_19
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: work_from_home_setup_poll_21
@@ -207,10 +207,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Every day''}'
-      - '{''id'': 2, ''label'': ''Most days''}'
-      - '{''id'': 3, ''label'': ''Few days a week''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
+      - Every day
+      - Most days
+      - Few days a week
+      - Rarely
       required: false
     - id: 23
       name: work_from_home_setup_poll_22
@@ -232,6 +232,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

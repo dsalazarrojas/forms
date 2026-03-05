@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full Time''}'
-      - '{''id'': 2, ''name'': ''Part Time''}'
-      - '{''id'': 3, ''name'': ''Freelance''}'
+      - Full Time
+      - Part Time
+      - Freelance
       required: false
     - id: 4
       name: job_location
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Entry Level''}'
-      - '{''id'': 2, ''name'': ''Mid Level''}'
-      - '{''id'': 3, ''name'': ''Senior Level''}'
+      - Entry Level
+      - Mid Level
+      - Senior Level
       required: false
     - id: 6
       name: job_start_date
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Leave''}'
+      - Active
+      - Inactive
+      - Leave
       required: false
     - id: 17
       name: job_status
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Ongoing''}'
-      - '{''id'': 2, ''name'': ''Completed''}'
+      - Ongoing
+      - Completed
       required: false
     - id: 18
       name: employment_type
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full Time''}'
-      - '{''id'': 2, ''name'': ''Part Time''}'
-      - '{''id'': 3, ''name'': ''Freelance''}'
+      - Full Time
+      - Part Time
+      - Freelance
       required: false
     - id: 19
       name: job_category
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full Time''}'
-      - '{''id'': 2, ''name'': ''Part Time''}'
+      - Full Time
+      - Part Time
       required: false
     - id: 24
       name: agreement_term
@@ -193,6 +193,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

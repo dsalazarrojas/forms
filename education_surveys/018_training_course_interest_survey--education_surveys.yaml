@@ -5,183 +5,111 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: category
-      label: categories
+      name: categories
+      label: What category are you interested in?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''category1'', ''label'': ''category1''}'
-      - '{''id'': 2, ''name'': ''category2'', ''label'': ''category2''}'
+      - Category 1
+      - Category 2
       required: false
     - id: 3
-      name: topic
-      label: topics
+      name: topics
+      label: What topics are you interested in?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''topic1'', ''label'': ''topic1''}'
-      - '{''id'': 2, ''name'': ''topic2'', ''label'': ''topic2''}'
+      - Topic 1
+      - Topic 2
       required: false
     - id: 4
       name: frequency
-      label: how_often
+      label: How often would you like to attend a training course?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily'', ''label'': ''daily''}'
-      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''weekly'', ''hint'': None}'
+      - Daily
+      - Weekly
       required: false
     - id: 5
       name: preference
-      label: preference
+      label: What is your preference for the duration of the course?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 6
       name: email
-      label: email
+      label: What is your preferred email address?
       hint: null
       type: email
       options: []
       required: false
     - id: 7
       name: comments
-      label: comments
+      label: Do you have any comments about the training?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: schedule
-      label: schedule
+      label: What is your schedule like?
       hint: null
       type: date
       options: []
       required: false
     - id: 9
       name: start_date
-      label: start_date
+      label: When would you like to start the course?
       hint: null
       type: date
       options: []
       required: false
     - id: 10
       name: end_date
-      label: end_date
+      label: When would you like to end the course?
       hint: null
       type: date
       options: []
       required: false
     - id: 11
       name: start_time
-      label: start_time
+      label: What time of day do you prefer to start the course?
       hint: null
       type: time
       options: []
       required: false
     - id: 12
       name: end_time
-      label: end_time
+      label: What time of day do you prefer to end the course?
       hint: null
       type: time
       options: []
       required: false
     - id: 13
       name: duration
-      label: duration
+      label: How long do you expect the course to last?
       hint: null
       type: number
       options: []
       required: false
     - id: 14
       name: max_participants
-      label: max_participants
+      label: How many participants are you expecting in the course?
       hint: null
       type: number
       options: []
       required: false
     - id: 15
-      name: comments
-      label: comments
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''comment1'', ''label'': ''comment1''}'
-      - '{''id'': 2, ''name'': ''comment2'', ''label'': ''comment2''}'
-      required: false
-    - id: 16
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments
-      label: comments
+      name: comments_2
+      label: Do you have any comments about the course?
       hint: null
       type: text
       options: []

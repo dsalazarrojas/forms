@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Communication''}'
-      - '{''value'': ''Leadership''}'
-      - '{''value'': ''Teamwork''}'
-      - '{''value'': ''Problem Solving''}'
+      - Communication
+      - Leadership
+      - Teamwork
+      - Problem Solving
       required: false
     - id: 4
       name: training_needs_other
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: training_status_other
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 12
       name: training_needs_status_other

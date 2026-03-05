@@ -15,193 +15,44 @@ inputSchema:
     title: Reaction Assignment Form
     pages:
     - id: 1
-      name: reaction_assignment
-      label: assign_reaction_tasks
-      hint: null
-      type: select_multiple
-      options:
-      - Task A
-      - Task B
-      - Task C
+      name: participant_info
+      label: Participant Info
+      hint: Please provide your participant info
+      type: text
+      options: []
       required: false
     - id: 2
-      name: materials_and_safety_rules
-      label: materials_and_safety_rules_label
-      hint: null
-      type: note
+      name: task_assignment
+      label: Task Assignment
+      hint: Please select tasks for the participant
+      type: text
       options: []
       required: false
     - id: 3
-      name: due_date
-      label: due_date
-      hint: null
-      type: date
+      name: participant_confirmation
+      label: Confirmation
+      hint: Please confirm participation
+      type: text
       options: []
       required: false
     - id: 4
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
+      name: task_details
+      label: Task Details
+      hint: Please provide task details
+      type: text
+      options: []
       required: false
     - id: 5
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
+      name: participant_confirmation_2
+      label: Another Confirmation
+      hint: Please confirm participation
+      type: text
+      options: []
       required: false
     - id: 6
-      name: participant_confirmation
-      label: confirm_participant_confirmation
+      name: participant_info_2
+      label: Participant Info 2
       hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 7
-      name: due_date
-      label: set_due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 9
-      name: materials_and_safety_rules
-      label: materials_and_safety_rules_label
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: due_date
-      label: set_due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 12
-      name: due_date
-      label: due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 14
-      name: materials_and_safety_rules
-      label: materials_and_safety_rules_label
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: due_date
-      label: set_due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 17
-      name: materials_and_safety_rules
-      label: materials_and_safety_rules_label
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 19
-      name: due_date
-      label: due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: materials_and_safety_rules
-      label: materials_and_safety_rules_label
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 22
-      name: participant_confirmation
-      label: confirm_participant_confirmation
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 23
-      name: due_date
-      label: set_due_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: materials_and_safety_rules
-      label: materials_and_safety_rules_label
-      hint: null
-      type: note
+      type: text
       options: []
       required: false

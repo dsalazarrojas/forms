@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''label'': ''Healthy''}'
-      - '{''id'': 200, ''label'': ''Sick''}'
+      - Healthy
+      - Sick
       required: false
     - id: 5
       name: medical_note
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 300, ''label'': ''Active''}'
-      - '{''id'': 400, ''label'': ''Inactive''}'
-      - '{''id'': 500, ''label'': ''Retired''}'
+      - Active
+      - Inactive
+      - Retired
       required: false
     - id: 9
       name: date

@@ -12,235 +12,88 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Course Overview Acknowledgement Form
     pages:
     - id: 1
-      name: introduction
-      label: introduction
+      name: course_details
+      label: Course Title
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: course_details
-      label: course_details
+      name: student_details
+      label: Student Information
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: acknowledgement
-      label: acknowledgement
+      name: parent_details
+      label: Parent Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: agreement
-      label: agreement
+      name: course_director
+      label: Course Director
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: parent_consent
-      label: parent_consent
+      name: student_address
+      label: Student's Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: student_consent
-      label: student_consent
+      name: parent_address
+      label: Parent's Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: student_name
-      label: student_name
+      name: acknowledgement
+      label: Acknowledgement
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: parent_name
-      label: parent_name
+      name: signature
+      label: Signature
       hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: contact_number
-      label: contact_number
+      name: submission_date
+      label: Submission Date
       hint: null
       type: text
       options: []
       required: true
     - id: 10
-      name: email
-      label: email
+      name: submission_time
+      label: Submission Time
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: address
-      label: address
+      name: acknowledgement_date
+      label: Acknowledgement Date
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: signature
-      label: signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: date
-      label: date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: submitted_date
-      label: submitted_date
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: acknowledgement_date
-      label: acknowledgement_date
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
       name: acknowledgement_time
-      label: acknowledgement_time
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: parent_signature
-      label: parent_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: student_signature
-      label: student_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: acknowledgement_text
-      label: acknowledgement_text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_comments
-      label: form_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: submitted_date
-      label: submitted_date
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: acknowledgement_date
-      label: acknowledgement_date
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: acknowledgement_time
-      label: acknowledgement_time
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 26
-      name: parent_signature
-      label: parent_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: student_signature
-      label: student_signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: acknowledgement_text
-      label: acknowledgement_text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: form_comments
-      label: form_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 31
-      name: submitted_date
-      label: submitted_date
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 32
-      name: acknowledgement_date
-      label: acknowledgement_date
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 33
-      name: acknowledgement_time
-      label: acknowledgement_time
+      label: Acknowledgement Time
       hint: null
       type: text
       options: []

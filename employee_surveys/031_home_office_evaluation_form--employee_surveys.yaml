@@ -4,197 +4,146 @@ inputSchema:
     title: Home Office Evaluation Form
     pages:
     - id: 1
-      name: employee_survey
-      label: employee_survey
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: work_from_home_frequency
+      label: Work from Home Frequency
+      hint: Select one - Yes, No
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 2
-      name: work_from_home
-      label: work_from_home
+      name: overall_experience
+      label: Overall Experience
+      hint: Select one - Excellent, Good, Average, Poor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: Scale from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: teamwork
+      label: Teamwork Experience
+      hint: Scale from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback_on_employees
+      label: Feedback on Employees
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: job_performance
-      label: job_performance
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: communication_skills
-      label: communication_skills
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: teamwork
-      label: teamwork
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true
     - id: 6
-      name: feedback_on_employees
-      label: feedback_on_employees
+      name: suggestions
+      label: Suggestions
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: feedback_on_management
-      label: feedback_on_management
-      hint: null
-      type: text
-      options: []
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: Select one - Daily, Weekly, Bi-Weekly, Monthly
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 8
       name: work_from_home_equipment
-      label: work_from_home_equipment
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      label: Work from Home Equipment
+      hint: Scale from 1-5
+      type: number
+      options: []
       required: false
     - id: 9
-      name: overall_experience
-      label: overall_experience
-      hint: null
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: Scale from 1-5
       type: number
       options: []
       required: false
     - id: 10
-      name: suggestions_for_improvement
-      label: suggestions_for_improvement
+      name: feedback_on_work_from_home
+      label: Feedback on Work from Home
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: evaluation_frequency
-      label: evaluation_frequency
+      name: evaluation_type
+      label: Evaluation Type
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: evaluation_type
-      label: evaluation_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
       name: work_from_home_location
-      label: work_from_home_location
+      label: Work from Home Location
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
+    - id: 13
       name: time_of_day
-      label: time_of_day
-      hint: null
-      type: select_multiple
+      label: Time of Day
+      hint: Select one - Yes, No
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: work_life_balance_2
+      label: Work Life Balance 2
+      hint: Scale from 1-5
+      type: number
+      options: []
       required: false
     - id: 15
-      name: work_life_balance
-      label: work_life_balance
-      hint: null
+      name: work_from_home_status
+      label: Work from Home Status
+      hint: Scale from 1-5
       type: number
       options: []
       required: false
     - id: 16
-      name: work_from_home_status
-      label: work_from_home_status
-      hint: null
-      type: number
-      options: []
+      name: overall_experience_2
+      label: Overall Experience 2
+      hint: Select one - Excellent, Good, Average, Poor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
       required: false
     - id: 17
-      name: feedback_on_work_from_home
-      label: feedback_on_work_from_home
+      name: feedback_on_work_from_home_2
+      label: Feedback On Work From Home 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: suggestions
-      label: suggestions
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: overall_experience
-      label: overall_experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: work_from_home_equipment
-      label: work_from_home_equipment
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: evaluation_frequency
-      label: evaluation_frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: evaluation_type
-      label: evaluation_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: work_from_home_location
-      label: work_from_home_location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: time_of_day
-      label: time_of_day
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: work_life_balance
-      label: work_life_balance
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''Teacher''}'
-      - '{''id'': 3, ''label'': ''Staff''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Student
+      - Teacher
+      - Staff
+      - Other
       required: false
     - id: 3
       name: opinion
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree''}'
-      - '{''id'': 2, ''label'': ''Somewhat Agree''}'
-      - '{''id'': 3, ''label'': ''Neither Agree nor Disagree''}'
-      - '{''id'': 4, ''label'': ''Somewhat Disagree''}'
-      - '{''id'': 5, ''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
       required: false
     - id: 6
       name: comment

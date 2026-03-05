@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed'', ''label'': ''Employed''}'
-      - '{''value'': ''Unemployed'', ''label'': ''Unemployed''}'
-      - '{''value'': ''Retired'', ''label'': ''Retired''}'
+      - Employed
+      - Unemployed
+      - Retired
       required: false
     - id: 6
       name: employment_start_date
@@ -96,12 +96,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Full-time'', ''label'': ''Full-time''}'
-      - '{''value'': ''Part-time'', ''label'': ''Part-time''}'
-      - '{''value'': ''Contract'', ''label'': ''Contract''}'
-      - '{''value'': ''Intern'', ''label'': ''Intern''}'
-      - '{''value'': ''Freelance'', ''label'': ''Freelance''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Full-time
+      - Part-time
+      - Contract
+      - Intern
+      - Freelance
+      - Other
       required: false
     - id: 14
       name: manager_name
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employed'', ''label'': ''Employed''}'
-      - '{''value'': ''Unemployed'', ''label'': ''Unemployed''}'
-      - '{''value'': ''Retired'', ''label'': ''Retired''}'
+      - Employed
+      - Unemployed
+      - Retired
       required: false
     - id: 20
       name: manager_employment_start_date

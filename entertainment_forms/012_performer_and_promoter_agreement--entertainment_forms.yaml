@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Concert'', ''value'': ''concert''}'
-      - '{''id'': 2, ''label'': ''Show'', ''value'': ''show''}'
-      - '{''id'': 3, ''label'': ''Meet'', ''value'': ''meet''}'
+      - Concert
+      - Show
+      - Meet
       required: false
     - id: 9
       name: event_venue
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''cash''}'
-      - '{''id'': 2, ''label'': ''Check'', ''value'': ''check''}'
-      - '{''id'': 3, ''label'': ''Wire Transfer'', ''value'': ''wire-transfer''}'
+      - Cash
+      - Check
+      - Wire Transfer
       required: false
     - id: 13
       name: terms_and_conditions
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Upcoming'', ''value'': ''upcoming''}'
-      - '{''id'': 2, ''label'': ''Past'', ''value'': ''past''}'
-      - '{''id'': 3, ''label'': ''Present'', ''value'': ''present''}'
+      - Upcoming
+      - Past
+      - Present
       required: false
     - id: 17
       name: promoter_agreement
@@ -158,8 +158,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
-      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 22
       name: payment_terms

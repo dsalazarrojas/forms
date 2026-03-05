@@ -12,7 +12,7 @@ inputSchema:
       required: false
     - id: 2
       name: subject_label
-      label: Subject
+      label: Subject Label
       hint: null
       type: text
       options: []
@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Android''}'
-      - '{''id'': 2, ''label'': ''iPhone''}'
-      - '{''id'': 3, ''label'': ''iPad''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Android
+      - iPhone
+      - iPad
+      - Other
       required: false
     - id: 4
       name: device_other
@@ -41,13 +41,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 6
       name: reminder_frequency_other
-      label: Other
+      label: Reminder Frequency Other
       hint: null
       type: text
       options: []
@@ -58,21 +58,21 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Reminder Notifications''}'
-      - '{''id'': 2, ''label'': ''Smart Notifications''}'
-      - '{''id'': 3, ''label'': ''Auto Save''}'
-      - '{''id'': 4, ''label'': ''Auto Backup''}'
+      - Reminder Notifications
+      - Smart Notifications
+      - Auto Save
+      - Auto Backup
       required: false
     - id: 8
       name: feature_requests_other
-      label: Other
+      label: Feature Requests Other
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: subject_other
-      label: Other
+      label: Subject Other
       hint: null
       type: text
       options: []

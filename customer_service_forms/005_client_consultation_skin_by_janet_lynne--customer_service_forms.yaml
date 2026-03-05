@@ -1,114 +1,121 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Consultation Skin By Janet Lynne
     pages:
-      - id: 1
-        name: full_name
-        label: Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: date_of_birth
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 3
-        name: email_address
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: section_skin_profile
-        label: -- Skin Profile --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: skin_type
-        label: How would you describe your skin type?
-        hint: null
-        type: select_one
-        options: [Dry, Oily, Combination, Sensitive, Normal]
-        required: true
-      - id: 6
-        name: skin_concern
-        label: What is your primary skin concern?
-        hint: null
-        type: select_one
-        options: [Acne, Aging, Pigmentation, Rosacea, Texture, Dehydration]
-        required: true
-      - id: 7
-        name: current_routine
-        label: Describe your current skincare routine
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: known_allergies
-        label: List any known allergies - e.g. nuts, citrus, shellfish
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: skin_medications
-        label: Are you currently using any prescription skin medications?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: sun_exposure
-        label: How frequent is your sun exposure?
-        hint: null
-        type: select_one
-        options: [Low, Moderate, High]
-        required: false
-      - id: 11
-        name: section_history
-        label: -- Treatment History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: last_facial_date
-        label: Date of last facial treatment
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 13
-        name: previous_treatments
-        label: Have you ever had a chemical peel or microdermabrasion?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 14
-        name: treatment_consent
-        label: I consent to the recommended skin treatment
-        hint: null
-        type: select_one
-        options: [Yes, I consent]
-        required: true
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_skin_profile
+      label: -- Skin Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: skin_type
+      label: How would you describe your skin type?
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 6
+      name: skin_concern
+      label: What is your primary skin concern?
+      hint: null
+      type: select_one
+      options:
+      - Acne
+      - Aging
+      - Pigmentation
+      - Rosacea
+      - Texture
+      - Dehydration
+      required: true
+    - id: 7
+      name: current_routine
+      label: Describe your current skincare routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: known_allergies
+      label: List any known allergies - e.g. nuts, citrus, shellfish
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: skin_medications
+      label: Are you currently using any prescription skin medications?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sun_exposure
+      label: How frequent is your sun exposure?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 11
+      name: section_history
+      label: -- Treatment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: last_facial_date
+      label: Date of last facial treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: previous_treatments
+      label: Have you ever had a chemical peel or microdermabrasion?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: treatment_consent
+      label: I consent to the recommended skin treatment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I consent
+      required: true

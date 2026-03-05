@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General Education Diploma''}'
-      - '{''id'': 2, ''label'': ''Career and Technical Education''}'
-      - '{''id'': 3, ''label'': ''Special Education Diploma''}'
+      - General Education Diploma
+      - Career and Technical Education
+      - Special Education Diploma
       required: false
     - id: 4
       name: student_name
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Parent''}'
-      - '{''id'': 2, ''label'': ''Guardian''}'
-      - '{''id'': 3, ''label'': ''Relative''}'
+      - Parent
+      - Guardian
+      - Relative
       required: false
     - id: 14
       name: guardian_phone
@@ -113,11 +113,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Elementary School''}'
-      - '{''id'': 2, ''label'': ''High School Diploma''}'
-      - '{''id'': 3, ''label'': ''Some High School''}'
-      - '{''id'': 4, ''label'': ''College Diploma''}'
-      - '{''id'': 5, ''label'': ''Special Diploma''}'
+      - Elementary School
+      - High School Diploma
+      - Some High School
+      - College Diploma
+      - Special Diploma
       required: false
     - id: 16
       name: student_education_level_other
@@ -135,7 +135,7 @@ inputSchema:
       required: false
     - id: 18
       name: student_additional_info_other
-      label: Other (please specify)
+      label: Student Additional Info Other
       hint: null
       type: text
       options: []
@@ -155,7 +155,7 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: student_signature
+      name: student_signature_2
       label: Parent Signature
       hint: null
       type: text
@@ -163,14 +163,14 @@ inputSchema:
       required: false
     - id: 22
       name: parent_signature_date
-      label: Date Signed
+      label: Parent Signature Date
       hint: null
       type: date
       options: []
       required: false
     - id: 23
       name: parent_info_additional
-      label: Additional Information
+      label: Parent Info Additional
       hint: null
       type: text
       options: []
@@ -205,7 +205,7 @@ inputSchema:
       required: false
     - id: 28
       name: student_program_info_other
-      label: Other (please specify)
+      label: Student Program Info Other
       hint: null
       type: text
       options: []

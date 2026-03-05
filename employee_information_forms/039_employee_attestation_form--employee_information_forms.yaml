@@ -4,209 +4,121 @@ inputSchema:
     title: Employee Attestation Form
     pages:
     - id: 1
-      name: employee_attestation_form_1
+      name: employee_information
       label: Employee Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: employee_attestation_form_2
-      label: Job Title
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
-      - '{''id'': 3, ''label'': ''Intern''}'
-      required: true
-    - id: 3
-      name: employee_attestation_form_3
-      label: Job Status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      required: true
-    - id: 4
-      name: employee_attestation_form_4
-      label: Job Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Full-time''}'
-      - '{''id'': 2, ''label'': ''Part-time''}'
-      required: true
-    - id: 5
-      name: employee_attestation_form_5
-      label: Job Function
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Sales''}'
-      - '{''id'': 2, ''label'': ''Management''}'
-      - '{''id'': 3, ''label'': ''Operations''}'
-      - '{''id'': 4, ''label'': ''Human Resources''}'
-      required: true
-    - id: 6
-      name: employee_attestation_form_6
-      label: Job Responsibilities
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: employee_attestation_form_7
-      label: Job Expectations
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: employee_attestation_form_8
+      name: reporting_manager
       label: Reporting Manager
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''John Smith''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      required: true
-    - id: 9
-      name: employee_attestation_form_9
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
       label: Department
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Sales''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''Operations''}'
+      type: text
+      options: []
       required: false
-    - id: 10
-      name: employee_attestation_form_10
+    - id: 4
+      name: location
       label: Location
       hint: null
       type: text
       options: []
-      required: true
-    - id: 11
-      name: employee_attestation_form_11
+      required: false
+    - id: 5
+      name: job_grade
       label: Job Grade
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''A''}'
-      - '{''id'': 2, ''label'': ''B''}'
-      - '{''id'': 3, ''label'': ''C''}'
-      required: true
-    - id: 12
-      name: employee_attestation_form_12
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_code
       label: Job Code
       hint: null
       type: text
       options: []
-      required: true
-    - id: 13
-      name: employee_attestation_form_13
+      required: false
+    - id: 7
+      name: date_of_hire
       label: Date Of Hire
       hint: null
-      type: date
-      options: []
-      required: true
-    - id: 14
-      name: employee_attestation_form_14
-      label: Date Of Last Promotion
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 15
-      name: employee_attestation_form_15
-      label: Employee ID
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 16
-      name: employee_attestation_form_16
-      label: Date Of Last Payroll Run
-      hint: null
-      type: date
+      type: text
       options: []
       required: false
-    - id: 17
-      name: employee_attestation_form_17
+    - id: 8
+      name: date_of_last_promotion
+      label: Date Of Last Promotion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_payroll_run
+      label: Date Of Last Payroll Run
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_payroll_run_number
       label: Last Payroll Run Number
       hint: null
       type: text
       options: []
-      required: true
-    - id: 18
-      name: employee_attestation_form_18
+      required: false
+    - id: 12
+      name: next_payroll_run_date
       label: Next Payroll Run Date
       hint: null
-      type: date
+      type: text
       options: []
-      required: true
-    - id: 19
-      name: employee_attestation_form_19
-      label: Employee Type
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Regular''}'
-      - '{''id'': 2, ''label'': ''Contract''}'
-      required: true
-    - id: 20
-      name: employee_attestation_form_20
-      label: Job Category
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Full-time''}'
-      - '{''id'': 2, ''label'': ''Part-time''}'
-      required: true
-    - id: 21
-      name: employee_attestation_form_21
-      label: Job Title
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Staff''}'
-      - '{''id'': 3, ''label'': ''Intern''}'
-      required: true
-    - id: 22
-      name: employee_attestation_form_22
-      label: Job Status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      required: true
-    - id: 23
-      name: employee_attestation_form_23
-      label: Job Function
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Sales''}'
-      - '{''id'': 2, ''label'': ''Management''}'
-      - '{''id'': 3, ''label'': ''Operations''}'
-      - '{''id'': 4, ''label'': ''Human Resources''}'
-      required: true
-    - id: 24
-      name: employee_attestation_form_24
-      label: Job Responsibilities
+      required: false
+    - id: 13
+      name: reporting_manager_2
+      label: Reporting Manager 2
       hint: null
       type: text
       options: []
-      required: true
-    - id: 25
-      name: employee_attestation_form_25
-      label: Job Expectations
+      required: false
+    - id: 14
+      name: department_1
+      label: Department 1
       hint: null
       type: text
       options: []
-      required: true
+      required: false
+    - id: 15
+      name: location_1
+      label: Location 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reporting_manager_1
+      label: Reporting Manager 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_manager_2_2
+      label: Reporting Manager 2 2
+      hint: null
+      type: text
+      options: []
+      required: false

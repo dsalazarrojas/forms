@@ -4,151 +4,52 @@ inputSchema:
     title: Senior Superlatives Form
     pages:
     - id: 1
-      name: superlatives_title
-      label: Senior Superlatives Form
+      name: senior_superlatives_form_name
+      label: Name of the Senior Superlatives Form
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
+      name: superlatives_attendance
+      label: Who will be attending from our department?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: superlatives_name
       label: Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: vote_category_1
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true
     - id: 4
-      name: vote_category_2
-      label: Vote for Superlatives
+      name: superlatives_category
+      label: What category will be voted for?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 5
-      name: vote_category_3
-      label: Vote for Superlatives
+      name: superlatives_category_1
+      label: Will the person attending be voting for category 1?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: vote_category_4
-      label: Vote for Superlatives
+      name: superlatives_category_2
+      label: Will the person attending be voting for category 2?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: vote_category_5
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: vote_category_6
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: vote_category_7
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: vote_category_8
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: vote_category_9
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: vote_category_10
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: vote_category_11
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: vote_category_12
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: vote_category_13
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: vote_category_14
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: vote_category_15
-      label: Vote for Superlatives
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true

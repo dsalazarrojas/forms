@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Marketing''}'
-      - '{''id'': 2, ''name'': ''Sales''}'
-      - '{''id'': 3, ''name'': ''Support''}'
+      - Marketing
+      - Sales
+      - Support
       required: false
     - id: 4
       name: job_title
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Team Lead''}'
-      - '{''id'': 2, ''name'': ''Senior Team Lead''}'
-      - '{''id'': 3, ''name'': ''Manager''}'
+      - Team Lead
+      - Senior Team Lead
+      - Manager
       required: false
     - id: 5
       name: performance_metrics
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Annual''}'
-      - '{''id'': 2, ''name'': ''Semi-Annual''}'
-      - '{''id'': 3, ''name'': ''Quarterly''}'
+      - Annual
+      - Semi-Annual
+      - Quarterly
       required: false
     - id: 8
       name: evaluation_comments
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Needs Improvement''}'
+      - Excellent
+      - Fair
+      - Needs Improvement
       required: false
     - id: 11
       name: recommended_action_items
@@ -98,7 +98,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Needs Improvement''}'
+      - Excellent
+      - Fair
+      - Needs Improvement
       required: false

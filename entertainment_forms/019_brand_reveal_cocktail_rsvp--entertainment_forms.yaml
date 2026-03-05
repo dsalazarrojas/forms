@@ -113,8 +113,8 @@ inputSchema:
       hint: Do you need parking information
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: brand_connection
@@ -158,7 +158,7 @@ inputSchema:
       hint: Is this event part of a special celebration for you
       type: select_one
       options:
-      - false
+      - 'False'
       - Birthday
       - Anniversary
       - Promotion

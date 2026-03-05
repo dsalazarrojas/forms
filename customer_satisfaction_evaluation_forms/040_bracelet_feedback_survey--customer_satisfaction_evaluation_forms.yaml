@@ -1,285 +1,274 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Bracelet Feedback Survey
     pages:
-      - id: 1
-        name: customer_first_name
-        label: First Name
-        hint: Your first name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: customer_last_name
-        label: Last Name
-        hint: Your last name
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: customer_email
-        label: Email Address
-        hint: For follow-up communications
-        type: email
-        options: []
-        required: false
-      - id: 4
-        name: purchase_date
-        label: Purchase Date
-        hint: When did you purchase the bracelet
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: bracelet_type
-        label: Bracelet Type
-        hint: What type of bracelet did you purchase
-        type: select_one
-        options:
-          - Charm bracelet
-          - Bangle
-          - Cuff bracelet
-          - Chain bracelet
-          - Beaded bracelet
-          - Leather bracelet
-          - Tennis bracelet
-          - Friendship bracelet
-          - Other
-        required: true
-      - id: 6
-        name: bracelet_material
-        label: Bracelet Material
-        hint: What material is your bracelet
-        type: select_one
-        options:
-          - Gold
-          - Silver
-          - Rose gold
-          - Platinum
-          - Stainless steel
-          - Leather
-          - Fabric
-          - Beads
-          - Mixed materials
-        required: true
-      - id: 7
-        name: purchase_reason
-        label: Purchase Reason
-        hint: Why did you buy this bracelet
-        type: select_one
-        options:
-          - Personal use
-          - Gift for someone
-          - Special occasion
-          - Collection addition
-          - Impulse purchase
-        required: true
-      - id: 8
-        name: overall_satisfaction
-        label: Overall Satisfaction
-        hint: How satisfied are you with your bracelet
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
-      - id: 9
-        name: quality_rating
-        label: Quality Rating
-        hint: Rate the quality of the bracelet
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 10
-        name: design_rating
-        label: Design Rating
-        hint: Rate the design and appearance
-        type: select_one
-        options:
-          - Excellent
-          - Very good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 11
-        name: comfort_rating
-        label: Comfort Rating
-        hint: How comfortable is the bracelet
-        type: select_one
-        options:
-          - Very comfortable
-          - Comfortable
-          - Neutral
-          - Uncomfortable
-          - Very uncomfortable
-        required: true
-      - id: 12
-        name: value_rating
-        label: Value for Money Rating
-        hint: Rate the value for the price
-        type: select_one
-        options:
-          - Excellent value
-          - Good value
-          - Fair value
-          - Poor value
-          - Very poor value
-        required: true
-      - id: 13
-        name: durability_experience
-        label: Durability Experience
-        hint: How is the bracelet holding up
-        type: select_one
-        options:
-          - Excellent - like new
-          - Good - minor wear
-          - Fair - noticeable wear
-          - Poor - significant wear
-          - Has broken or damaged
-        required: true
-      - id: 14
-        name: size_fit
-        label: Size and Fit
-        hint: How does the bracelet fit
-        type: select_one
-        options:
-          - Perfect
-          - Too tight
-          - Too loose
-          - Adjustable - works well
-          - Adjustable - difficult to use
-        required: true
-      - id: 15
-        name: clasp_function
-        label: Clasp Function
-        hint: How well does the clasp work
-        type: select_one
-        options:
-          - Works perfectly
-          - Works but stiff
-          - Works but loose
-          - Difficult to use
-          - Broken or defective
-        required: true
-      - id: 16
-        name: color_accuracy
-        label: Color Accuracy
-        hint: Does color match what you expected
-        type: select_one
-        options:
-          - Exactly as expected
-          - Slightly different
-          - Significantly different
-          - Not applicable
-        required: true
-      - id: 17
-        name: would_recommend
-        label: Would Recommend
-        hint: Would you recommend this bracelet
-        type: select_one
-        options:
-          - Definitely yes
-          - Probably yes
-          - Not sure
-          - Probably no
-          - Definitely no
-        required: true
-      - id: 18
-        name: would_purchase_again
-        label: Would Purchase Again
-        hint: Would you buy from us again
-        type: select_one
-        options:
-          - Definitely yes
-          - Probably yes
-          - Not sure
-          - Probably no
-          - Definitely no
-        required: true
-      - id: 19
-        name: favorite_feature
-        label: Favorite Feature
-        hint: What do you like most
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: areas_improvement
-        label: Areas for Improvement
-        hint: What could be better
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: packaging_feedback
-        label: Packaging Feedback
-        hint: Rate the packaging
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Not applicable
-        required: false
-      - id: 22
-        name: shipping_feedback
-        label: Shipping Feedback
-        hint: Rate the shipping experience
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Not applicable
-        required: false
-      - id: 23
-        name: customer_service_feedback
-        label: Customer Service Feedback
-        hint: Rate customer service if contacted
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Did not contact
-        required: false
-      - id: 24
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other feedback
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: photo_upload
-        label: Photo Upload
-        hint: Would you like to share a photo
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you purchase the bracelet
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: bracelet_type
+      label: Bracelet Type
+      hint: What type of bracelet did you purchase
+      type: select_one
+      options:
+      - Charm bracelet
+      - Bangle
+      - Cuff bracelet
+      - Chain bracelet
+      - Beaded bracelet
+      - Leather bracelet
+      - Tennis bracelet
+      - Friendship bracelet
+      - Other
+      required: true
+    - id: 6
+      name: bracelet_material
+      label: Bracelet Material
+      hint: What material is your bracelet
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Rose gold
+      - Platinum
+      - Stainless steel
+      - Leather
+      - Fabric
+      - Beads
+      - Mixed materials
+      required: true
+    - id: 7
+      name: purchase_reason
+      label: Purchase Reason
+      hint: Why did you buy this bracelet
+      type: select_one
+      options:
+      - Personal use
+      - Gift for someone
+      - Special occasion
+      - Collection addition
+      - Impulse purchase
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with your bracelet
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: quality_rating
+      label: Quality Rating
+      hint: Rate the quality of the bracelet
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: design_rating
+      label: Design Rating
+      hint: Rate the design and appearance
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: comfort_rating
+      label: Comfort Rating
+      hint: How comfortable is the bracelet
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 12
+      name: value_rating
+      label: Value for Money Rating
+      hint: Rate the value for the price
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 13
+      name: durability_experience
+      label: Durability Experience
+      hint: How is the bracelet holding up
+      type: select_one
+      options:
+      - Excellent - like new
+      - Good - minor wear
+      - Fair - noticeable wear
+      - Poor - significant wear
+      - Has broken or damaged
+      required: true
+    - id: 14
+      name: size_fit
+      label: Size and Fit
+      hint: How does the bracelet fit
+      type: select_one
+      options:
+      - Perfect
+      - Too tight
+      - Too loose
+      - Adjustable - works well
+      - Adjustable - difficult to use
+      required: true
+    - id: 15
+      name: clasp_function
+      label: Clasp Function
+      hint: How well does the clasp work
+      type: select_one
+      options:
+      - Works perfectly
+      - Works but stiff
+      - Works but loose
+      - Difficult to use
+      - Broken or defective
+      required: true
+    - id: 16
+      name: color_accuracy
+      label: Color Accuracy
+      hint: Does color match what you expected
+      type: select_one
+      options:
+      - Exactly as expected
+      - Slightly different
+      - Significantly different
+      - Not applicable
+      required: true
+    - id: 17
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this bracelet
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 18
+      name: would_purchase_again
+      label: Would Purchase Again
+      hint: Would you buy from us again
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 19
+      name: favorite_feature
+      label: Favorite Feature
+      hint: What do you like most
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: What could be better
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: packaging_feedback
+      label: Packaging Feedback
+      hint: Rate the packaging
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: false
+    - id: 22
+      name: shipping_feedback
+      label: Shipping Feedback
+      hint: Rate the shipping experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: false
+    - id: 23
+      name: customer_service_feedback
+      label: Customer Service Feedback
+      hint: Rate customer service if contacted
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did not contact
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: photo_upload
+      label: Photo Upload
+      hint: Would you like to share a photo
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

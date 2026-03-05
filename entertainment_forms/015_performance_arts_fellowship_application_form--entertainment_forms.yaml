@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Artist or Organization''}'
-      - '{''name'': ''Organization''}'
-      - '{''name'': ''Other''}'
+      - Artist or Organization
+      - Organization
+      - Other
       required: false
     - id: 8
       name: art_form_type
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Theater''}'
-      - '{''name'': ''Music''}'
-      - '{''name'': ''Dance''}'
-      - '{''name'': ''Other''}'
+      - Theater
+      - Music
+      - Dance
+      - Other
       required: false
     - id: 9
       name: grant_type
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Residency Grant''}'
-      - '{''name'': ''Production Grant''}'
-      - '{''name'': ''Other''}'
+      - Residency Grant
+      - Production Grant
+      - Other
       required: false
     - id: 10
       name: contact_email
@@ -187,7 +187,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      - '{''name'': ''Undetermined''}'
+      - 'True'
+      - 'False'
+      - Undetermined
       required: false

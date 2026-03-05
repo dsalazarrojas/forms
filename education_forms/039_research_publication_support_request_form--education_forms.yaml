@@ -4,197 +4,180 @@ inputSchema:
     title: Research Publication Support Request Form
     pages:
     - id: 1
-      name: research_publication_support_request_form
-      label: Research Publication Support Request Form
+      name: category
+      label: Category
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Research Article
+      - Research Report
+      - Other
       required: false
     - id: 2
-      name: category
-      label: category
+      name: description
+      label: Description
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: research_group
-      label: research_group
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: research_publication_type
-      label: research_publication_type
+      label: Research Group
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Research Group A
+      - Research Group B
+      - Other
       required: false
-    - id: 6
+    - id: 4
+      name: research_publication_type
+      label: Research Publication Type
+      hint: null
+      type: select_one
+      options:
+      - Research Article
+      - Research Report
+      - Other
+      required: false
+    - id: 5
       name: manuscript_status
-      label: manuscript_status
+      label: Manuscript Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
-    - id: 7
+    - id: 6
       name: manuscript_status_details
-      label: manuscript_status_details
+      label: Manuscript Status Details
       hint: null
       type: text
       options: []
+      required: false
+    - id: 7
+      name: manuscript_format
+      label: Manuscript Format
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: manuscript_format
-      label: manuscript_format
+      name: manuscript_length
+      label: Manuscript Length
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 9
-      name: manuscript_length
-      label: manuscript_length
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: manuscript_language
-      label: manuscript_language
+      label: Manuscript Language
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - English
+      - Other
       required: false
-    - id: 11
+    - id: 10
       name: manuscript_format_details
-      label: manuscript_format_details
+      label: Manuscript Format Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: research_publication_support_request_form_attachments
-      label: research_publication_support_request_form_attachments
+    - id: 11
+      name: attachments_required
+      label: Attachments Required
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 13
-      name: research_publication_support_request_form_comments
-      label: research_publication_support_request_form_comments
+      name: attachments_comments
+      label: Attachments Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: research_publication_support_request_form_attachments_comments
-      label: research_publication_support_request_form_attachments_comments
+      name: attachments
+      label: Attachments
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: research_publication_support_request_form_attachments
-      label: research_publication_support_request_form_attachments
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: research_publication_support_request_form_comments
-      label: research_publication_support_request_form_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: research_publication_support_request_form_attachments
-      label: research_publication_support_request_form_attachments
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
       name: assigned_to
-      label: assigned_to
+      label: Assigned To
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - User A
+      - User B
+      - Other
       required: false
-    - id: 19
-      name: assigned_by
-      label: assigned_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+    - id: 16
       name: assigned_date
-      label: assigned_date
+      label: Assigned Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 21
+    - id: 17
       name: assigned_time
-      label: assigned_time
+      label: Assigned Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 22
+    - id: 18
       name: status
-      label: status
+      label: Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: false
-    - id: 23
+    - id: 19
       name: status_update
-      label: status_update
+      label: Status Update
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
+    - id: 20
       name: due_date
-      label: due_date
+      label: Due Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 25
+    - id: 21
       name: due_time
-      label: due_time
+      label: Due Time
       hint: null
       type: time
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
       options: []
       required: false

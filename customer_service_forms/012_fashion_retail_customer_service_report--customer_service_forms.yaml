@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Order Issue''}'
-      - '{''label'': ''Product Return''}'
-      - '{''label'': ''Customer Complaint''}'
+      - Order Issue
+      - Product Return
+      - Customer Complaint
       required: false
     - id: 12
       name: incident_date
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Resolved''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Awaiting Response''}'
+      - Resolved
+      - In Progress
+      - Awaiting Response
       required: false
     - id: 15
       name: incident_outcome
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Successful Resolution''}'
-      - '{''label'': ''Customer Satisfied''}'
-      - '{''label'': ''Improvement''}'
+      - Successful Resolution
+      - Customer Satisfied
+      - Improvement
       required: false
     - id: 16
       name: customer_feedback
@@ -179,8 +179,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Sales Associate''}'
-      - '{''label'': ''Customer Support''}'
-      - '{''label'': ''Store Manager''}'
-      - '{''label'': ''Regional Manager''}'
+      - Sales Associate
+      - Customer Support
+      - Store Manager
+      - Regional Manager
       required: false

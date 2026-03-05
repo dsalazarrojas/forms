@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Bi-Weekly''}'
+      - Monthly
+      - Weekly
+      - Bi-Weekly
       required: true
     - id: 5
       name: delivery_frequency
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monday to Sunday''}'
-      - '{''label'': ''Tuesday to Saturday''}'
+      - Monday to Sunday
+      - Tuesday to Saturday
       required: true
     - id: 6
       name: delivery_date
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card''}'
-      - '{''label'': ''PayPal''}'
-      - '{''label'': ''Bank Transfer''}'
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 13
       name: amount

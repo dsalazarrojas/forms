@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''coffee_latte'', ''label'': ''Coffee Latte''}'
-      - '{''name'': ''coffee_cappuccino'', ''label'': ''Coffee Cappuccino''}'
-      - '{''name'': ''coffee_espresso'', ''label'': ''Coffee Espresso''}'
+      - Coffee Latte
+      - Coffee Cappuccino
+      - Coffee Espresso
       required: false
     - id: 3
       name: contact_details
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''credit_card'', ''label'': ''Credit card''}'
-      - '{''name'': ''cash'', ''label'': ''Cash''}'
-      - '{''name'': ''online_transfer'', ''label'': ''Online transfer''}'
+      - Credit card
+      - Cash
+      - Online transfer
       required: false
     - id: 12
       name: order
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''coffee_large'', ''label'': ''coffee_large''}'
-      - '{''name'': ''coffee_medium'', ''label'': ''coffee_medium''}'
-      - '{''name'': ''coffee_small'', ''label'': ''coffee_small''}'
+      - coffee large
+      - coffee medium
+      - coffee small
       required: false

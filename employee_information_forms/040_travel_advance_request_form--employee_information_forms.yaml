@@ -5,77 +5,56 @@ inputSchema:
     pages:
     - id: 1
       name: employee_name
-      label: employee name
+      label: Employee name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: manager_name
-      label: manager name
+      name: employee_id
+      label: Employee ID
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 3
       name: business_purpose
-      label: business purpose
+      label: Business purpose
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: travel_start_date
-      label: travel start date
+      label: Travel start date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: travel_end_date
-      label: travel end date
+      label: Travel end date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
       name: travel_destination
-      label: travel destination
+      label: Travel destination
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: travel_advance_amount
-      label: travel advance amount
-      hint: Enter travel advance amount.
+      name: travel_expense_estimate
+      label: Estimated travel expenses
+      hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: travel_expense_estimate
-      label: travel expense estimate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: employee_id
-      label: employee id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: manager_id
-      label: manager id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
       name: department
-      label: department
+      label: Department
       hint: null
       type: select_one
       options:
@@ -83,33 +62,9 @@ inputSchema:
       - Finance
       - HR
       required: false
-    - id: 12
-      name: department
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - Accounting
-      - Finance
-      - HR
-      required: false
-    - id: 13
-      name: submitted_by
-      label: submitted by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: approved_by
-      label: approved by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: travel_advance_request_form_status
-      label: travel advance request form status
+    - id: 9
+      name: form_status
+      label: Form status
       hint: null
       type: select_one
       options:
@@ -117,94 +72,27 @@ inputSchema:
       - Closed
       - Pending Review
       required: false
-    - id: 16
-      name: travel_destination
-      label: travel destination
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_status_update
-      label: form status update
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_status_update
-      label: form status update
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+    - id: 10
       name: submitted_by
-      label: submitted by
+      label: Submitted by
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 20
+    - id: 11
       name: approved_by
-      label: approved by
+      label: Approved by
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 21
-      name: travel_destination_2
-      label: travel destination
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_status_update_2
-      label: form status update
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitted_by
-      label: submitted by
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: approved_by
-      label: approved by
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: submitted_by_2
-      label: submitted by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: form_status_update_3
-      label: form status update
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: form_status_update_3
-      label: form status update
+    - id: 12
+      name: form_status_update
+      label: Form status update
       hint: null
       type: text
       options: []

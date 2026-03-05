@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Individual''}'
-      - '{''label'': ''Organization''}'
-      - '{''label'': ''Institutional''}'
+      - Individual
+      - Organization
+      - Institutional
       required: false
     - id: 10
       name: membership_category
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''General''}'
-      - '{''label'': ''Premium''}'
-      - '{''label'': ''Basic''}'
+      - General
+      - Premium
+      - Basic
       required: false
     - id: 11
       name: membership_level
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Silver''}'
-      - '{''label'': ''Gold''}'
-      - '{''label'': ''Platinum''}'
+      - Silver
+      - Gold
+      - Platinum
       required: false
     - id: 12
       name: membership_term
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Yearly''}'
+      - Monthly
+      - Yearly
       required: false
     - id: 13
       name: email

@@ -4,185 +4,140 @@ inputSchema:
     title: Profile Builder Form
     pages:
     - id: 1
-      name: create_profile
-      label: Create Profile
-      hint: null
+      name: profile_field_1
+      label: What's your name?
+      hint: Tell us your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: select_profile_field
-      label: Select Profile Field
-      hint: null
+      name: select_profile_field_1
+      label: Are you a team member?
+      hint: Choose Yes or No
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
-      name: select_profile_field
-      label: Select Profile Field
-      hint: null
+      name: select_profile_field_2
+      label: Can you select multiple options?
+      hint: Choose Yes or No
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 4
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: profile_field
-      label: Profile Field
-      hint: null
+      name: email_address
+      label: What is your email address?
+      hint: Your email address for contact purposes
       type: email
       options: []
-      required: false
-    - id: 9
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: select_profile_field
-      label: Select Profile Field
-      hint: null
+      required: true
+    - id: 5
+      name: select_profile_field_3
+      label: Is this a public profile?
+      hint: Choose Yes or No
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 13
-      name: select_profile_field
-      label: Select Profile Field
-      hint: null
+    - id: 6
+      name: select_profile_field_4
+      label: Can you select multiple options again?
+      hint: Choose Yes or No
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 7
+      name: profile_field_2
+      label: What is your favorite color?
+      hint: Tell us your favorite color
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: profile_field_3
+      label: What is your age?
+      hint: Your age
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: profile_field_4
+      label: What is your height?
+      hint: Your height in inches
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: profile_field_5
+      label: What is your date of birth?
+      hint: Your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: profile_field_6
+      label: What is your favorite time?
+      hint: Your favorite time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: profile_field_7
+      label: What is your email?
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: profile_field_8
+      label: What is your phone number?
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: profile_field
-      label: Profile Field
-      hint: null
+      name: profile_field_9
+      label: What is your favorite hobby?
+      hint: Tell us your favorite hobby
       type: text
       options: []
       required: false
     - id: 15
-      name: profile_field
-      label: Profile Field
-      hint: null
+      name: profile_field_10
+      label: What is your favorite food?
+      hint: Tell us your favorite food
       type: text
       options: []
       required: false
     - id: 16
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: number
+      name: profile_field_11
+      label: What is your favorite animal?
+      hint: Tell us your favorite animal
+      type: text
       options: []
       required: false
     - id: 17
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: checkbox_1
+      label: Checkbox 1
+      hint: Choose Yes or No
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 18
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: profile_field
-      label: Profile Field
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: radio_1
+      label: Can you select single option?
+      hint: Choose Yes or No
+      type: radio
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

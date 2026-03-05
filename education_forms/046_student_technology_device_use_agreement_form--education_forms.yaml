@@ -23,187 +23,100 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: device_use_policy
       label: Device Use Policy
       hint: null
       type: select_one
       options:
-      - None
-      - '{1: ''Accept''}'
-      - '{2: ''Accept with some conditions''}'
-      - '{3: ''Decline''}'
+      - Accept
+      - Accept with some conditions
+      - Decline
       required: true
     - id: 5
-      name: agreement_term
-      label: Agreement term
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
       name: device_type
       label: Device type
       hint: null
       type: select_one
       options:
-      - None
       - laptop
       - tablet
       - desktop
       - smartphone
       required: true
-    - id: 7
+    - id: 6
       name: device_condition
       label: Device condition
       hint: null
       type: select_multiple
       options:
-      - None
       - good
       - fair
       - poor
       required: true
-    - id: 8
+    - id: 7
       name: agreement_duration
       label: Agreement duration
       hint: null
       type: number
       options: []
       required: true
-    - id: 9
+    - id: 8
       name: student_signature
       label: Student signature
       hint: null
       type: note
       options: []
       required: true
-    - id: 10
-      name: device_return_date
-      label: Device return date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
+    - id: 9
       name: institution_signature
       label: Institution signature
       hint: null
       type: note
       options: []
       required: true
-    - id: 12
-      name: student_signature_date
-      label: Student signature date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: student_contact_number
-      label: Student contact number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: student_contact_email
-      label: Student contact email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
+    - id: 10
       name: device_return_status
       label: Device return status
       hint: null
       type: select_one
       options:
-      - None
       - 'True'
       - 'False'
       required: false
-    - id: 16
+    - id: 11
       name: device_return_note
       label: Device return note
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
-      name: student_name
-      label: Student name
+    - id: 12
+      name: student_contact_number
+      label: Student contact number
       hint: null
       type: text
       options: []
-      required: true
-    - id: 18
-      name: student_id_number
-      label: Student ID number
+      required: false
+    - id: 13
+      name: student_contact_email
+      label: Student contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: student_contact_number_2
+      label: Student Contact Number 2
       hint: null
       type: text
       options: []
-      required: true
-    - id: 19
-      name: date_signed
-      label: Date signed
+      required: false
+    - id: 15
+      name: date_signed_2
+      label: Date Signed 2
       hint: null
       type: date
       options: []
       required: false
-    - id: 20
-      name: device_use_policy
-      label: Device Use Policy
-      hint: null
-      type: select_one
-      options:
-      - None
-      - Accept
-      - Accept with some conditions
-      - Decline
-      required: true
-    - id: 21
-      name: agreement_term
-      label: Agreement term
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: device_type
-      label: Device type
-      hint: null
-      type: select_one
-      options:
-      - None
-      - laptop
-      - tablet
-      - desktop
-      - smartphone
-      required: true
-    - id: 23
-      name: device_condition
-      label: Device condition
-      hint: null
-      type: select_multiple
-      options:
-      - None
-      - good
-      - fair
-      - poor
-      required: true
-    - id: 24
-      name: agreement_duration
-      label: Agreement duration
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 25
-      name: institution_signature
-      label: Institution signature
-      hint: null
-      type: note
-      options: []
-      required: true

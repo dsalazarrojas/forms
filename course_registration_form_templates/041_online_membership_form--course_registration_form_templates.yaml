@@ -5,190 +5,161 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first_name
-      hint: null
+      label: First Name
+      hint: Please enter your first name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
-      label: last_name
-      hint: null
+      label: Last Name
+      hint: Please enter your last name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
-      label: email
-      hint: null
+      label: Email Address
+      hint: Please enter your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: phone
-      label: phone
-      hint: null
+      label: Phone Number
+      hint: Please enter your phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: emergency_contact_name
-      label: emergency_contact_name
-      hint: null
+      label: Emergency Contact Name
+      hint: Please enter the emergency contact's name
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: emergency_contact_relationship
-      label: emergency_contact_relationship
-      hint: null
+      label: Relationship with Emergency Contact
+      hint: Please select your relationship with the emergency contact
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Parent/Guardian
+      - Friend
+      - Relative
+      required: true
     - id: 7
-      name: emergency_contact_phone
-      label: emergency_contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: emergency_contact_email
-      label: emergency_contact_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: emergency_contact_address
-      label: emergency_contact_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: student_grade
-      label: student_grade
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: payment_plan
-      label: payment_plan
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: class_level
-      label: class_level
-      hint: null
+      label: Student Grade
+      hint: Please select your student grade
       type: select_multiple
       options:
       - High
       - Low
-      required: false
-    - id: 13
-      name: start_date
-      label: start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: end_date
-      label: end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: classes_per_week
-      label: classes_per_week
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: class_time
-      label: class_time
-      hint: null
+      required: true
+    - id: 8
+      name: payment_plan
+      label: Payment Plan
+      hint: Please select your payment plan
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: student_name
-      label: student_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: parents_name
-      label: parents_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: parents_email
-      label: parents_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: medical_condition
-      label: medical_condition
-      hint: null
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: class_level
+      label: Class Level
+      hint: Please select your class level
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: allergies
-      label: allergies
-      hint: null
+      - High
+      - Low
+      required: true
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: Please select the start date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: Please select the end date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: classes_per_week
+      label: Classes per Week
+      hint: Please enter the number of classes per week
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: class_time
+      label: Class Time
+      hint: Please select the class time
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: student_name
+      label: Student Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 15
+      name: parents_name
+      label: Parent's Name
+      hint: Please enter your parent's name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: parents_email
+      label: Parent's Email
+      hint: Please enter your parent's email
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: medical_condition
+      label: Medical Condition
+      hint: Please select your medical condition
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: Please enter your allergies
+      type: text
+      options: []
+      required: true
+    - id: 19
       name: emergency_contact_note
-      label: emergency_contact_note
-      hint: null
+      label: Emergency Contact Note
+      hint: Please enter a note about the emergency contact
       type: note
       options: []
       required: false
-    - id: 23
-      name: emergency_contact_relationship
-      label: emergency_contact_relationship
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
+    - id: 20
       name: emergency_contact_phone
-      label: emergency_contact_phone
-      hint: null
+      label: Emergency Contact Phone
+      hint: Please enter the emergency contact's phone number
       type: text
       options: []
       required: false
-    - id: 25
+    - id: 21
       name: emergency_contact_email
-      label: emergency_contact_email
-      hint: null
+      label: Emergency Contact Email
+      hint: Please enter the emergency contact's email
       type: email
       options: []
       required: false

@@ -1,169 +1,158 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Care Unusual Incident Report Form
     pages:
-      - id: 1
-        name: incident_date
-        label: Date of Incident
-        hint: When did the incident occur?
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: incident_time
-        label: Time of Incident
-        hint: Approximate time the incident occurred
-        type: time
-        options: []
-        required: true
-      - id: 3
-        name: incident_location
-        label: Location of Incident
-        hint: Specific area or room where incident occurred
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: reporter_name
-        label: Reporter Name
-        hint: Full name of person reporting the incident
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: reporter_role
-        label: Reporter Role
-        hint: Your position or relationship to the care setting
-        type: select_one
-        options:
-          - Staff Member
-          - Supervisor
-          - Volunteer
-          - Family Member
-          - Resident
-          - Other
-        required: true
-      - id: 6
-        name: reporter_contact
-        label: Reporter Contact Information
-        hint: Phone number or email address
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: incident_type
-        label: Type of Incident
-        hint: Select the primary category of incident
-        type: select_one
-        options:
-          - Fall
-          - Medication Error
-          - Injury
-          - Behavioral Incident
-          - Property Damage
-          - Missing Person
-          - Medical Emergency
-          - Other
-        required: true
-      - id: 8
-        name: persons_involved
-        label: Persons Involved
-        hint: Names of all individuals involved in the incident
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: incident_description
-        label: Detailed Description of Incident
-        hint: Provide a complete account of what happened
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: witnesses
-        label: Witnesses
-        hint: Names and contact information of any witnesses
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: injuries_sustained
-        label: Injuries Sustained
-        hint: Describe any injuries that resulted from the incident
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: immediate_actions
-        label: Immediate Actions Taken
-        hint: What was done immediately after the incident?
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: medical_attention
-        label: Medical Attention Required
-        hint: Was medical attention sought or provided?
-        type: select_one
-        options:
-          - Yes - Emergency Services Called
-          - Yes - First Aid Provided
-          - Yes - Medical Professional Consulted
-          - No Medical Attention Needed
-          - Refused Medical Attention
-        required: true
-      - id: 14
-        name: notifications_made
-        label: Notifications Made
-        hint: Who was notified about this incident?
-        type: select_multiple
-        options:
-          - Supervisor
-          - Family Member
-          - Physician
-          - Emergency Services
-          - Regulatory Agency
-          - Other
-        required: true
-      - id: 15
-        name: contributing_factors
-        label: Contributing Factors
-        hint: What factors may have contributed to this incident?
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: preventive_measures
-        label: Recommended Preventive Measures
-        hint: Suggestions to prevent similar incidents
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: follow_up_required
-        label: Follow-up Required
-        hint: Is additional follow-up needed?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: follow_up_details
-        label: Follow-up Details
-        hint: Describe the follow-up actions needed
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: incident_date
+      label: Date of Incident
+      hint: When did the incident occur?
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time the incident occurred
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: incident_location
+      label: Location of Incident
+      hint: Specific area or room where incident occurred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name of person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_role
+      label: Reporter Role
+      hint: Your position or relationship to the care setting
+      type: select_one
+      options:
+      - Staff Member
+      - Supervisor
+      - Volunteer
+      - Family Member
+      - Resident
+      - Other
+      required: true
+    - id: 6
+      name: reporter_contact
+      label: Reporter Contact Information
+      hint: Phone number or email address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_type
+      label: Type of Incident
+      hint: Select the primary category of incident
+      type: select_one
+      options:
+      - Fall
+      - Medication Error
+      - Injury
+      - Behavioral Incident
+      - Property Damage
+      - Missing Person
+      - Medical Emergency
+      - Other
+      required: true
+    - id: 8
+      name: persons_involved
+      label: Persons Involved
+      hint: Names of all individuals involved in the incident
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Provide a complete account of what happened
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: witnesses
+      label: Witnesses
+      hint: Names and contact information of any witnesses
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: Describe any injuries that resulted from the incident
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: What was done immediately after the incident?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_attention
+      label: Medical Attention Required
+      hint: Was medical attention sought or provided?
+      type: select_one
+      options:
+      - Yes - Emergency Services Called
+      - Yes - First Aid Provided
+      - Yes - Medical Professional Consulted
+      - No Medical Attention Needed
+      - Refused Medical Attention
+      required: true
+    - id: 14
+      name: notifications_made
+      label: Notifications Made
+      hint: Who was notified about this incident?
+      type: select_multiple
+      options:
+      - Supervisor
+      - Family Member
+      - Physician
+      - Emergency Services
+      - Regulatory Agency
+      - Other
+      required: true
+    - id: 15
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What factors may have contributed to this incident?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preventive_measures
+      label: Recommended Preventive Measures
+      hint: Suggestions to prevent similar incidents
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional follow-up needed?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: follow_up_details
+      label: Follow-up Details
+      hint: Describe the follow-up actions needed
+      type: text
+      options: []
+      required: false

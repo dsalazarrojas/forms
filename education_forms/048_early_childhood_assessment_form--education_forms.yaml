@@ -16,178 +16,88 @@ inputSchema:
     pages:
     - id: 1
       name: page1
-      label: Page 1
+      label: Name and Contact
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: page2
-      label: Assessment Tools
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: demographics
-      label: Child Demographics
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: child_info
       label: Child Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 5
-      name: developmental_status
-      label: Developmental Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: family_info
+    - id: 3
+      name: page3
       label: Family Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: developmental_progress
+    - id: 4
+      name: page4
       label: Developmental Progress
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: assessment_tools
+    - id: 5
+      name: page5
       label: Assessment Tools
       hint: null
       type: text
       options: []
       required: false
+    - id: 6
+      name: page6
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page7
+      label: Family Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page8
+      label: Family Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 9
-      name: observations
-      label: Observations
+      name: page9
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: recommendations
-      label: Recommendations
+      name: page10
+      label: Submission Confirmation
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: notes
-      label: Notes
+      name: page11
+      label: Additional Comments
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: submit
-      label: Submit
+      name: page12
+      label: Submission Status 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: notes_submitted
-      label: Notes Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: submission_time
-      label: Submission Time
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: submission_time_time
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: notes_submitted_2
-      label: Notes Submitted 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submission_date
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: notes_submitted_date
-      label: Notes Submitted Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: submission_time_2
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: notes_submitted_time
-      label: Notes Submitted Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: submission_time_3
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: notes_submitted_3
-      label: Notes Submitted 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submission_date_2
-      label: Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: notes_submitted_date_2
-      label: Notes Submitted Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: submission_time_4
-      label: Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
+      - Completed
+      - In Progress
+      - Not Started
+      required: true

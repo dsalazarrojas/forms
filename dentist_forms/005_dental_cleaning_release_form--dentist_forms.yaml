@@ -15,184 +15,79 @@ inputSchema:
     title: dental_cleaning_release_form
     pages:
     - id: 1
-      name: patient_information
-      label: Patient Information
-      hint: null
+      name: patient_info
+      label: Patient's Name -
+      hint: Full name of patient.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: patient_name
-      label: patient_name
-      hint: null
+      name: contact_info
+      label: Contact Information -
+      hint: Email address or phone number.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: dental_history
-      label: Dental History
-      hint: null
+      label: Dental History -
+      hint: Please provide dental history.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: allergies
-      label: Allergies
+      label: Allergies?
       hint: List patient allergies
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 5
       name: medical_condition
       label: Medical Condition
-      hint: null
+      hint: Provide medical condition information
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: medical_condition
-      label: Medical Condition
-      hint: Please list all medical conditions
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: medications
-      label: Medications
-      hint: List patient medications
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: medical_history
-      label: Medical History
-      hint: Please provide medical history
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: medical_history
-      label: Medical History
-      hint: Please provide detailed medical history
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: dentist_info
-      label: Dentist Info
-      hint: Provide dentist information
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: dentist_info
-      label: Doctor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: dentist_info
-      label: Dentist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
       name: medical_aid
       label: Medical Aid
-      hint: Please choose medical aid
+      hint: Select medical aid
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 15
-      name: medical_aid
-      label: Medical Aid
-      hint: null
+      required: true
+    - id: 7
+      name: dentist_info
+      label: Dentist's Name
+      hint: Name of the dentist performing procedure
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_aid_details
+      label: Additional Medical History
+      hint: Provide additional medical history
       type: text
       options: []
       required: false
-    - id: 16
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
+    - id: 9
+      name: medications
+      label: Medications
+      hint: List patient's medications
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
-    - id: 17
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_aid
-      label: Medical Aid
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+    - id: 10
       name: consent
       label: Consent
-      hint: List medical aid consent
-      type: select_multiple
+      hint: Does the patient consent to medical aid?
+      type: select_one
       options:
       - 'Yes'
       - 'No'

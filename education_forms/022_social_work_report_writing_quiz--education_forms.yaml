@@ -5,203 +5,148 @@ inputSchema:
     pages:
     - id: 1
       name: intro_page
-      label: Social Work Report Writing Quiz
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: scenario_1
-      label: Scenario 1
+      label: Writing Reports on Emotional Distress
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
-      name: scenario_2
-      label: Scenario 2
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 4
-      name: scenario_3
-      label: Scenario 3
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
       name: confidence_level
       label: Confidence Level
       hint: null
       type: number
       options: []
       required: false
-    - id: 6
+    - id: 4
       name: time_spent
-      label: Time Spent
+      label: Time Spent on Report Writing
       hint: null
       type: time
       options: []
       required: false
-    - id: 7
-      name: report_writing_knowledge
-      label: Report Writing Knowledge
+    - id: 5
+      name: report_writing_skills
+      label: Report Writing Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 6
+      name: scenario_2
+      label: Writing Reports on Substance Abuse
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 7
+      name: last_report_date
+      label: Last Report Date
+      hint: null
+      type: date
+      options: []
       required: false
     - id: 8
-      name: scenario_4
-      label: Scenario 4
+      name: report_2_time
+      label: Time Spent on Last Report
       hint: null
       type: time
       options: []
       required: false
     - id: 9
-      name: time_spent_2
-      label: Time Spent
+      name: scenario_3
+      label: Writing Reports on Homelessness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 10
+      name: report_writing_knowledge
+      label: Report Writing Knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 11
+      name: scenario_4
+      label: Writing Reports on Domestic Violence
       hint: null
       type: time
       options: []
       required: false
-    - id: 10
-      name: scenario_5
-      label: Scenario 5
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: report_5
-      label: Report Writing Skills
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
     - id: 12
-      name: scenario_6
-      label: Scenario 6
+      name: report_2_time_spent
+      label: Time Spent on Last Report 2
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 13
-      name: time_spent_3
-      label: Time Spent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: confidence_level_2
-      label: Confidence Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: report_6
-      label: Report Writing Knowledge
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 16
-      name: time_spent_4
-      label: Time Spent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: report_7
-      label: Report Writing Skills
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 18
-      name: scenario_7
-      label: Scenario 7
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: report_8
-      label: Report Writing Knowledge
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 20
-      name: time_spent_5
-      label: Time Spent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: confidence_level_3
-      label: Confidence Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: report_9
-      label: Report Writing Skills
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 23
-      name: scenario_8
-      label: Scenario 8
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: scenario_9
-      label: Scenario 9
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
-      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
-      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
-      required: false
-    - id: 25
       name: submit_page
       label: Submit
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 14
+      name: scenario_5
+      label: Writing Reports on Multiple Scenarios
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 15
+      name: confidence_level_2
+      label: Confidence Level 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: report_5_knowledge
+      label: Report Writing Knowledge 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 17
+      name: scenario_6
+      label: Writing Reports on Multiple Issues
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: report_3_time_spent
+      label: Time Spent on Report 3
+      hint: null
+      type: time
       options: []
       required: false

@@ -16,21 +16,21 @@ inputSchema:
     pages:
     - id: 1
       name: employee_recognition_program_intake_form_1
-      label: employee_nominations
+      label: Employee Nominations
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: employee_recognition_program_intake_form_2
-      label: employee_nominations
+      label: Reason for Nomination
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: employee_recognition_program_intake_form_3
-      label: recognition_type
+      label: Recognition Type
       hint: null
       type: select_one
       options:
@@ -40,21 +40,66 @@ inputSchema:
       required: false
     - id: 4
       name: employee_recognition_program_intake_form_4
-      label: nomination_date
+      label: Nomination Date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: employee_recognition_program_intake_form_5
-      label: nomination_date
+      label: Nomination Period
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: employee_recognition_program_intute_form_6
-      label: employee_nominations
+      name: employee_recognition_program_intake_form_6
+      label: Nomination Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Occasional
+      - One-time
+      required: false
+    - id: 7
+      name: employee_recognition_program_intake_form_7
+      label: Nomination Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_recognition_program_intake_form_8
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_recognition_program_intake_form_9
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_recognition_program_intake_form_10
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_recognition_program_intake_form_11
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_recognition_program_intake_form_12
+      label: Additional Comments
       hint: null
       type: text
       options: []

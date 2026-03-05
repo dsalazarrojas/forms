@@ -4,147 +4,101 @@ inputSchema:
     title: Likert Scale Feedback Survey
     pages:
     - id: 1
-      name: survey_header
-      label: Survey Header
-      hint: null
-      type: note
+      name: introduction
+      label: Survey Introduction
+      hint: This is a short survey to gather your feedback
+      type: text
       options: []
       required: false
     - id: 2
-      name: rating_1
-      label: Very Dissatisfied
-      hint: null
+      name: question_1
+      label: How would you rate our service overall?
+      hint: Rate our service on a scale of 1-5
       type: number
       options: []
       required: false
     - id: 3
-      name: rating_2
-      label: Somewhat Dissatisfied
-      hint: null
-      type: number
+      name: question_2
+      label: Do you have any suggestions or feedback for us?
+      hint: Please share any thoughts or comments you have
+      type: text
       options: []
       required: false
     - id: 4
-      name: rating_3
-      label: Neutral
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: rating_4
-      label: Somewhat Satisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: rating_5
-      label: Very Satisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: submit_button
-      label: Submit
+      name: question_3
+      label: How satisfied are you with the quality of our product/service?
       hint: null
       type: select_one
       options:
-      - Next
-      - Previous
-      - Submit
-      required: false
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 5
+      name: question_4
+      label: How likely are you to recommend our product/service to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 6
+      name: question_5
+      label: How would you rate the overall value of our product/service?
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 7
+      name: question_6
+      label: How likely are you to use our product/service again?
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
     - id: 8
-      name: survey_footer
-      label: Survey Footer
+      name: question_7
+      label: How would you rate the speed of our service?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
     - id: 9
-      name: rating_6
-      label: Not Applicable
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: rating_7
-      label: Not Rated
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
       name: submit
       label: Submit
-      hint: null
+      hint: Please click submit to complete the survey
       type: select_one
       options:
-      - Submit
-      - Cancel
-      required: false
-    - id: 12
-      name: rating_8
-      label: Very Dissatisfied
+      - Option A
+      - Option B
+      required: true
+    - id: 10
+      name: thank_you
+      label: Thank you for taking the time to provide your feedback
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: rating_9
-      label: Somewhat Dissatisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: rating_10
-      label: Neutral
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: rating_11
-      label: Somewhat Satisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: rating_12
-      label: Very Satisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: rating_13
-      label: Not Applicable
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: rating_14
-      label: Not Rated
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: rating_15
-      label: Very Dissatisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: rating_16
-      label: Somewhat Dissatisfied
-      hint: null
-      type: number
+      type: text
       options: []
       required: false

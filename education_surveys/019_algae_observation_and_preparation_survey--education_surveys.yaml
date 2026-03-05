@@ -140,8 +140,8 @@ inputSchema:
       hint: Did you collect a sample?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: sample_id
@@ -184,7 +184,7 @@ inputSchema:
       options:
       - Yes, in field
       - Yes, in lab
-      - false
+      - 'False'
       required: true
     - id: 20
       name: magnification_used
@@ -218,8 +218,8 @@ inputSchema:
       hint: Were flagella observed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unable to determine
       required: false
     - id: 24

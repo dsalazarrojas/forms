@@ -5,49 +5,51 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first_name
+      label: First name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: last_name
-      label: last_name
+      label: Last name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: company
-      label: company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: email
-      label: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: confirm_email
+      label: Confirm Email address
       hint: null
       type: email
       options: []
       required: true
     - id: 5
-      name: confirm_email
-      label: confirm_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 6
       name: job_title
-      label: job_title
+      label: Job title
       hint: null
       type: text
       options: []
       required: false
+    - id: 6
+      name: job_role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 7
-      name: role
-      label: role
+      name: department
+      label: Department
       hint: null
       type: select_multiple
       options:
@@ -55,144 +57,9 @@ inputSchema:
       - 'No'
       required: true
     - id: 8
-      name: department
-      label: department
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: company
-      label: company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: job_title
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: role
-      label: role
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: department
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: industry
-      label: industry
+      label: Industry
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: job_title
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: job_title
-      label: job_title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 16
-      name: department
-      label: department
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: industry
-      label: industry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: job_title
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: job_title
-      label: job_title
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: department
-      label: department
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: department
-      label: department
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: industry
-      label: industry
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: job_title
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: department
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: job_title
-      label: job_title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true

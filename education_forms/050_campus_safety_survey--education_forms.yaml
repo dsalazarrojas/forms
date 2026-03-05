@@ -1,264 +1,253 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Campus Safety Survey
     pages:
-      - id: 1
-        name: section_respondent_info
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_role
-        label: Your Role on Campus
-        hint: null
-        type: select_one
-        options:
-          - Student
-          - Faculty
-          - Staff
-          - Administrator
-          - Visitor
-          - Other
-        required: true
-      - id: 3
-        name: respondent_anonymous
-        label: Response should be anonymous
-        hint: null
-        type: select_one
-        options:
-          - Yes, anonymous
-          - No, include my name
-        required: false
-      - id: 4
-        name: respondent_years_on_campus
-        label: How long have you been on this campus
-        hint: null
-        type: select_one
-        options:
-          - Less than 1 year
-          - 1-2 years
-          - 3-4 years
-          - 5+ years
-        required: true
-      - id: 5
-        name: section_general_safety
-        label: -- General Campus Safety --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: overall_safety_feeling
-        label: Overall, how safe do you feel on campus
-        hint: null
-        type: select_one
-        options:
-          - Extremely Safe
-          - Very Safe
-          - Safe
-          - Somewhat Unsafe
-          - Unsafe
-        required: true
-      - id: 7
-        name: daytime_safety
-        label: Safety during daytime hours
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 8
-        name: nighttime_safety
-        label: Safety during nighttime hours
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-          - Very Poor
-        required: true
-      - id: 9
-        name: campus_lighting
-        label: Campus is well-lit in the evening
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 10
-        name: section_specific_concerns
-        label: -- Specific Safety Concerns --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: experienced_incidents
-        label: Have you experienced or witnessed safety incidents
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Prefer not to say
-        required: true
-      - id: 12
-        name: incident_type
-        label: Type of incident
-        hint: If yes selected above
-        type: select_multiple
-        options:
-          - Theft
-          - Assault or Violence
-          - Harassment
-          - Property Damage
-          - Drug Activity
-          - Weapon Presence
-          - Other
-        required: false
-      - id: 13
-        name: reported_incident
-        label: Did you report the incident
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Reported to someone else
-        required: false
-      - id: 14
-        name: section_infrastructure
-        label: -- Safety Infrastructure --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: security_presence
-        label: Campus security presence is adequate
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 16
-        name: emergency_procedures
-        label: Emergency procedures are clear and accessible
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 17
-        name: emergency_equipment
-        label: Emergency equipment and phones available
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 18
-        name: section_improvements
-        label: -- Areas for Improvement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: main_safety_concerns
-        label: What are your main safety concerns on campus
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: safety_improvement_suggestions
-        label: Suggestions for improving campus safety
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: section_resources
-        label: -- Safety Resources --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: aware_of_resources
-        label: Are you aware of campus safety resources
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Somewhat
-        required: true
-      - id: 23
-        name: resource_accessibility
-        label: Safety resources are easily accessible
-        hint: null
-        type: select_one
-        options:
-          - Strongly Agree
-          - Agree
-          - Neutral
-          - Disagree
-          - Strongly Disagree
-        required: true
-      - id: 24
-        name: section_overall
-        label: -- Overall Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: overall_safety_rating
-        label: Overall Campus Safety Rating
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Poor
-          - Very Poor
-        required: true
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role on Campus
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Administrator
+      - Visitor
+      - Other
+      required: true
+    - id: 3
+      name: respondent_anonymous
+      label: Response should be anonymous
+      hint: null
+      type: select_one
+      options:
+      - Yes, anonymous
+      - No, include my name
+      required: false
+    - id: 4
+      name: respondent_years_on_campus
+      label: How long have you been on this campus
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5+ years
+      required: true
+    - id: 5
+      name: section_general_safety
+      label: -- General Campus Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_safety_feeling
+      label: Overall, how safe do you feel on campus
+      hint: null
+      type: select_one
+      options:
+      - Extremely Safe
+      - Very Safe
+      - Safe
+      - Somewhat Unsafe
+      - Unsafe
+      required: true
+    - id: 7
+      name: daytime_safety
+      label: Safety during daytime hours
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: nighttime_safety
+      label: Safety during nighttime hours
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: campus_lighting
+      label: Campus is well-lit in the evening
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: section_specific_concerns
+      label: -- Specific Safety Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: experienced_incidents
+      label: Have you experienced or witnessed safety incidents
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Prefer not to say
+      required: true
+    - id: 12
+      name: incident_type
+      label: Type of incident
+      hint: If yes selected above
+      type: select_multiple
+      options:
+      - Theft
+      - Assault or Violence
+      - Harassment
+      - Property Damage
+      - Drug Activity
+      - Weapon Presence
+      - Other
+      required: false
+    - id: 13
+      name: reported_incident
+      label: Did you report the incident
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Reported to someone else
+      required: false
+    - id: 14
+      name: section_infrastructure
+      label: -- Safety Infrastructure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: security_presence
+      label: Campus security presence is adequate
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: emergency_procedures
+      label: Emergency procedures are clear and accessible
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 17
+      name: emergency_equipment
+      label: Emergency equipment and phones available
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 18
+      name: section_improvements
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_safety_concerns
+      label: What are your main safety concerns on campus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_improvement_suggestions
+      label: Suggestions for improving campus safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_resources
+      label: -- Safety Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: aware_of_resources
+      label: Are you aware of campus safety resources
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Somewhat
+      required: true
+    - id: 23
+      name: resource_accessibility
+      label: Safety resources are easily accessible
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 24
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: overall_safety_rating
+      label: Overall Campus Safety Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true

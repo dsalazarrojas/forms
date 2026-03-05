@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Program A''}'
-      - '{''id'': 2, ''name'': ''Program B''}'
-      - '{''id'': 3, ''name'': ''Program C''}'
+      - Program A
+      - Program B
+      - Program C
       required: false
     - id: 5
       name: student_date_of_birth
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Male''}'
-      - '{''id'': 2, ''name'': ''Female''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 7
       name: student_address
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''Spouse''}'
-      - '{''id'': 3, ''name'': ''Guardian''}'
+      - Parent
+      - Spouse
+      - Guardian
       required: false
     - id: 14
       name: emergency_contact_phone
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: student_consent
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: student_signature
@@ -183,6 +183,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

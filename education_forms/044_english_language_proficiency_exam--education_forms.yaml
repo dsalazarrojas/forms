@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''in_house'', ''label'': ''in_house''}'
-      - '{''value'': ''online'', ''label'': ''online''}'
+      - in house
+      - online
       required: false
     - id: 6
       name: assessment_date
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''reading'', ''label'': ''reading''}'
-      - '{''value'': ''writing'', ''label'': ''writing''}'
-      - '{''value'': ''listening'', ''label'': ''listening''}'
-      - '{''value'': ''speaking'', ''label'': ''speaking''}'
+      - reading
+      - writing
+      - listening
+      - speaking
       required: false
     - id: 10
       name: school_assessment
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pass'', ''label'': ''pass''}'
-      - '{''value'': ''fail'', ''label'': ''fail''}'
+      - pass
+      - fail
       required: false
     - id: 11
       name: student_language_level
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''intermediate'', ''label'': ''intermediate''}'
-      - '{''value'': ''advanced'', ''label'': ''advanced''}'
-      - '{''value'': ''novice'', ''label'': ''novice''}'
+      - intermediate
+      - advanced
+      - novice
       required: false
     - id: 12
       name: student_language_background
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''native'', ''label'': ''native''}'
-      - '{''value'': ''non_native'', ''label'': ''non_native''}'
+      - native
+      - non native
       required: false
     - id: 13
       name: student_language_assessment_score
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''intermediate'', ''label'': ''intermediate''}'
-      - '{''value'': ''advanced'', ''label'': ''advanced''}'
-      - '{''value'': ''novice'', ''label'': ''novice''}'
+      - intermediate
+      - advanced
+      - novice
       required: false
     - id: 16
       name: student_language_background_2
@@ -130,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''native'', ''label'': ''native''}'
-      - '{''value'': ''non_native'', ''label'': ''non_native''}'
+      - native
+      - non native
       required: false
     - id: 17
       name: student_language_assessment_score_2

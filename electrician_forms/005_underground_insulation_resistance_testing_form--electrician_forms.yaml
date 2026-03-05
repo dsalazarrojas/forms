@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''air'', ''label'': ''Air''}'
-      - '{''value'': ''cable'', ''label'': ''Cable''}'
-      - '{''value'': ''pipe'', ''label'': ''Pipe''}'
-      - '{''value'': ''wire'', ''label'': ''Wire''}'
+      - Air
+      - Cable
+      - Pipe
+      - Wire
       required: false
     - id: 4
       name: page1_tab_1_insulation_resistance_value
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''ohm'', ''label'': ''Ohm''}'
-      - '{''value'': ''kohm'', ''label'': ''KOhm''}'
-      - '{''value'': ''mohm'', ''label'': ''MOhm''}'
+      - Ohm
+      - KOhm
+      - MOhm
       required: false
     - id: 6
       name: page1_tab_2
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''air'', ''label'': ''Air''}'
-      - '{''value'': ''cable'', ''label'': ''Cable''}'
-      - '{''value'': ''pipe'', ''label'': ''Pipe''}'
-      - '{''value'': ''wire'', ''label'': ''Wire''}'
+      - Air
+      - Cable
+      - Pipe
+      - Wire
       required: false
     - id: 11
       name: test_info_insulation_type_other
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''ohm'', ''label'': ''Ohm''}'
-      - '{''value'': ''kohm'', ''label'': ''KOhm''}'
-      - '{''value'': ''mohm'', ''label'': ''MOhm''}'
+      - Ohm
+      - KOhm
+      - MOhm
       required: false
     - id: 15
       name: test_results_insulation_temperature
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''room'', ''label'': ''Room''}'
-      - '{''value'': ''ambient'', ''label'': ''Ambient''}'
-      - '{''value'': ''unknown'', ''label'': ''Unknown''}'
+      - Room
+      - Ambient
+      - Unknown
       required: false
     - id: 16
       name: test_results_other_insulation_temperature
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''jimmy'', ''label'': ''Jimmy''}'
-      - '{''value'': ''jane'', ''label'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: false
     - id: 19
       name: submitted_by
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''jimmy'', ''label'': ''Jimmy''}'
-      - '{''value'': ''jane'', ''label'': ''Jane''}'
+      - Jimmy
+      - Jane
       required: false
     - id: 20
       name: submission_date
@@ -198,6 +198,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''true'', ''label'': ''True''}'
-      - '{''value'': ''false'', ''label'': ''False''}'
+      - 'True'
+      - 'False'
       required: false

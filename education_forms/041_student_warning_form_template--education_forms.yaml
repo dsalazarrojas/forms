@@ -12,180 +12,117 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Student Warning Form Template
     pages:
     - id: 1
-      name: string
-      label: <text without colons>
+      name: student_name
+      label: Student Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: string
-      label: <text without colons>
+      name: student_id
+      label: Student ID Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: string
-      label: <text without colons>
+      name: incident_name
+      label: Name of Student Committed Infraction
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: string
-      label: <text without colons>
+      name: date_of_incident
+      label: Date of Incident
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: string
-      label: <text without colons>
+      name: time_of_incident
+      label: Time of Incident
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 6
-      name: string
-      label: <text without colons>
+      name: infraction_nature
+      label: Nature of Infraction
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Academic dishonesty
+      - Misconduct on campus
+      - Other (please specify)
+      required: true
     - id: 7
-      name: string
-      label: <text without colons>
+      name: reason_for_warning
+      label: Reason for Warning
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - First-time offender
+      - Repeat offender
+      - Other (please specify)
+      required: true
     - id: 8
-      name: string
-      label: <text without colons>
+      name: next_action
+      label: Recommended Action
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: string
-      label: <text without colons>
+      name: additional_information
+      label: Additional Information
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 10
-      name: string
-      label: <text without colons>
+      name: prior_warnings
+      label: Has this student received any prior warnings?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 11
-      name: string
-      label: <text without colons>
+      name: questions_or_concerns
+      label: Do you have any questions or concerns about this warning?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: string
-      label: <text without colons>
+      name: final_comments
+      label: Are there any other relevant comments to add?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: string
-      label: <text without colons>
+      name: repeat_offender
+      label: Is this student a repeat offender?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 14
-      name: string
-      label: <text without colons>
+      name: warning_given
+      label: Has this warning been given to the student?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: string
-      label: <text without colons>
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true

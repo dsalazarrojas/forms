@@ -1,198 +1,102 @@
 inputSchema:
   type: object
   properties:
-    title: Doctors&ampCo Referral Form
+    title: Doctors&amp;Co Referral Form
     pages:
     - id: 1
       name: first_name
-      label: First Name
+      label: Patient/Client First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
-      label: Last Name
+      label: Patient/Client Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
-      label: Email
+      label: Contact Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: phone
-      label: Phone
+      label: Phone Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: date
-      label: Date
+      label: Date of Visit/Appointment
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
       name: time
-      label: Time
+      label: Time of Visit/Appointment
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: note
-      label: Note
+      label: Note for the Doctor
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: select_multiple
-      label: Select Multiple
+      label: Conditions or Symptoms
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Allergic to Penicillin
+      - High Blood Pressure
+      - Diabetic
+      - Other (Please specify)
       required: true
     - id: 9
       name: select_one
-      label: Select One
+      label: Referring Doctor
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
+      - Other (Please specify)
       required: true
     - id: 10
       name: decimal
-      label: Decimal
+      label: Age (in years)
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 11
       name: integer
-      label: Integer
+      label: Number of Visits
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 12
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: select_multiple
-      label: Select Multiple
+      name: select_multiple_2
+      label: Available Time Slots
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 1:00 PM - 2:00 PM
+      - Other (Please specify)
       required: true
-    - id: 16
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 17
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 23
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 24
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false

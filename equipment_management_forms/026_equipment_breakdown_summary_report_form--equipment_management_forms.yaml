@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Cancelled''}'
+      - Pending
+      - Completed
+      - Cancelled
       required: false
     - id: 6
       name: failure_cause
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''A''}'
-      - '{''label'': ''B''}'
-      - '{''label'': ''C''}'
-      - '{''label'': ''D''}'
+      - A
+      - B
+      - C
+      - D
       required: false
     - id: 11
       name: location
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''In Progress''}'
+      - Pending
+      - Completed
+      - In Progress
       required: false
     - id: 18
       name: last_maintenance_date

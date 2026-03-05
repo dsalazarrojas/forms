@@ -101,9 +101,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: assigned_teachers_notes
@@ -128,7 +128,7 @@ inputSchema:
       required: false
     - id: 17
       name: assigned_teachers_comments_2
-      label: Assigned Teachers Comments
+      label: Assigned Teachers Comments 2
       hint: null
       type: text
       options: []
@@ -141,8 +141,8 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: assigned_teacher
-      label: Assigned Teacher
+      name: assigned_teacher_2
+      label: Assigned Teacher 2
       hint: null
       type: select_one
       options:
@@ -150,8 +150,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 20
-      name: assigned_teachers_comments_2
-      label: Assigned Teachers Comments
+      name: assigned_teachers_comments_2_2
+      label: Assigned Teachers Comments 2 2
       hint: null
       type: text
       options: []

@@ -4,192 +4,115 @@ inputSchema:
     title: Streaming Trivia Quiz
     pages:
     - id: 1
-      name: introduction
-      label: What is this?
+      name: intro_page
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: What category?
+      name: music_preference
+      label: music
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - pop
+      - rock
+      - hip-hop
+      - classical
+      - jazz
+      - country
       required: false
     - id: 3
-      name: name
-      label: name
+      name: stream_platforms
+      label: stream-platforms
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Netflix
+      - Hulu
+      - Disney+
+      - Amazon Prime Video
+      - HBO Max
+      - YouTube
       required: false
     - id: 4
-      name: email
-      label: Email
+      name: live_stream_frequency
+      label: live-stream-frequency
       hint: null
-      type: email
+      type: time
       options: []
       required: false
     - id: 5
-      name: phone
-      label: Phone
+      name: stream_time_spent
+      label: stream-time-spent
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 6
-      name: date
-      label: Date
+      name: favorite_streamer
+      label: favorite-streamer
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 7
-      name: time
-      label: Time
+      name: live_event_attendance
+      label: live-event-attendance
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: note
-      label: Note
+      name: content_type_watched
+      label: content-type-watched
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - music
+      - video
+      - live-streams
       required: false
     - id: 9
-      name: select_one
-      label: Select
+      name: stream_time_spent_weekly
+      label: stream-time-spent-weekly
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      type: number
+      options: []
       required: false
     - id: 10
-      name: select_multiple
-      label: Select
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: select_one
-      label: Select
+      name: streamer_personality
+      label: streamer-personality
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - friendly
+      - funny
+      - entertaining
+      - informative
+      - energetic
       required: false
-    - id: 20
-      name: select_multiple
-      label: Select
+    - id: 11
+      name: online_discussions
+      label: online-discussions
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - chat
+      - social media
+      - forums
+      - reddit
+      - discord
       required: false
-    - id: 21
-      name: date
-      label: Date
+    - id: 12
+      name: online_community
+      label: online-community
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false

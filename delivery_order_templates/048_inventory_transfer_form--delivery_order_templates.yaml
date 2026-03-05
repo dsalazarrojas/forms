@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Member1''}'
-      - '{''id'': 2, ''label'': ''Member2''}'
-      - '{''id'': 3, ''label'': ''Member3''}'
+      - Member1
+      - Member2
+      - Member3
       required: false
     - id: 3
       name: transfer_to_member
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Member1''}'
-      - '{''id'': 2, ''label'': ''Member2''}'
-      - '{''id'': 3, ''label'': ''Member3''}'
+      - Member1
+      - Member2
+      - Member3
       required: false
     - id: 4
       name: quantity
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Completed''}'
-      - '{''id'': 2, ''label'': ''Pending''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Completed
+      - Pending
+      - Cancelled
       required: false
     - id: 8
       name: comments
@@ -144,7 +144,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Type 1''}'
-      - '{''id'': 2, ''label'': ''Type 2''}'
-      - '{''id'': 3, ''label'': ''Type 3''}'
+      - Type 1
+      - Type 2
+      - Type 3
       required: false

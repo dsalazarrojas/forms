@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''one_time''}'
-      - '{''id'': 2, ''label'': ''recurring''}'
+      - one time
+      - recurring
       required: false
     - id: 4
       name: frequency_duration
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - USD
+      - Other
       required: true
     - id: 9
       name: donor_address
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''weekly''}'
-      - '{''id'': 2, ''label'': ''monthly''}'
-      - '{''id'': 3, ''label'': ''annually''}'
+      - weekly
+      - monthly
+      - annually
       required: false
     - id: 13
       name: donation_frequency_start_date
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''USD''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - USD
+      - Other
       required: true
     - id: 20
       name: frequency_donation_note
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''weekly''}'
-      - '{''id'': 2, ''label'': ''monthly''}'
-      - '{''id'': 3, ''label'': ''annually''}'
+      - weekly
+      - monthly
+      - annually
       required: false
     - id: 22
       name: frequency_donation_end_date

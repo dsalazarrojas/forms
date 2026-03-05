@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Vegetarian''}'
-      - '{''id'': 3, ''label'': ''Vegan''}'
-      - '{''id'': 4, ''label'': ''Omnivore''}'
+      - None
+      - Vegetarian
+      - Vegan
+      - Omnivore
       required: false
     - id: 4
       name: what_food_groups_do_you_eat_most_days_a_week
@@ -45,11 +34,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Fruits''}'
-      - '{''id'': 3, ''label'': ''Vegetables''}'
-      - '{''id'': 4, ''label'': ''Protein''}'
-      - '{''id'': 5, ''label'': ''Grains''}'
+      - None
+      - Fruits
+      - Vegetables
+      - Protein
+      - Grains
       required: false
     - id: 5
       name: what_time_do_you_usually_start_your_meal
@@ -71,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 8
       name: how_do_you_feel_when_you_cannot_eat_your_preferred_food

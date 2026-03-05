@@ -44,12 +44,9 @@ inputSchema:
       hint: Choose your contribution frequency
       type: select_one
       options:
-      - label: One-time Gift
-        value: onetime
-      - label: Monthly Recurring
-        value: monthly
-      - label: Annual Sponsorship
-        value: annual
+      - One-time Gift
+      - Monthly Recurring
+      - Annual Sponsorship
       required: true
     - id: 7
       name: donation_amount_selection
@@ -57,16 +54,11 @@ inputSchema:
       hint: Select an amount or enter custom below
       type: select_one
       options:
-      - label: $25 - Monthly Support
-        value: '25'
-      - label: $50 - Supply Kit
-        value: '50'
-      - label: $100 - Tuition Assistance
-        value: '100'
-      - label: $500 - Major Initiative
-        value: '500'
-      - label: Custom Amount
-        value: custom
+      - $25 - Monthly Support
+      - $50 - Supply Kit
+      - $100 - Tuition Assistance
+      - $500 - Major Initiative
+      - Custom Amount
       required: true
     - id: 8
       name: custom_amount
@@ -81,14 +73,10 @@ inputSchema:
       hint: Where should your funds go?
       type: select_one
       options:
-      - label: Student Scholarships
-        value: scholarships
-      - label: School Supplies and Tech
-        value: supplies
-      - label: Teacher Training
-        value: training
-      - label: Facility Improvements
-        value: facilities
+      - Student Scholarships
+      - School Supplies and Tech
+      - Teacher Training
+      - Facility Improvements
       required: true
     - id: 10
       name: section_payment_pref
@@ -103,12 +91,9 @@ inputSchema:
       hint: Secure processing will follow
       type: select_one
       options:
-      - label: Credit or Debit Card
-        value: card
-      - label: PayPal
-        value: paypal
-      - label: Bank Transfer (ACH)
-        value: ach
+      - Credit or Debit Card
+      - PayPal
+      - Bank Transfer (ACH)
       required: true
     - id: 12
       name: section_anonymous
@@ -123,8 +108,6 @@ inputSchema:
       hint: Select yes to keep your name private
       type: select_one
       options:
-      - label: Yes - Keep my donation anonymous
-        value: true
-      - label: No - Publicly acknowledge my gift
-        value: false
+      - Yes - Keep my donation anonymous
+      - No - Publicly acknowledge my gift
       required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1 month''}'
-      - '{''value'': ''3 months''}'
-      - '{''value'': ''6 months''}'
+      - 1 month
+      - 3 months
+      - 6 months
       required: true
     - id: 4
       name: donation_frequency
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 5
       name: donation_date
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Shelter Renovations''}'
-      - '{''value'': ''Furniture and Supplies''}'
-      - '{''value'': ''Other''}'
+      - Shelter Renovations
+      - Furniture and Supplies
+      - Other
       required: true
     - id: 7
       name: donor_name

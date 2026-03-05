@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -20,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''low'', ''text'': ''Low''}'
-      - '{''value'': ''moderate'', ''text'': ''Moderate''}'
-      - '{''value'': ''high'', ''text'': ''High''}'
-      - '{''value'': ''critical'', ''text'': ''Critical''}'
+      - low
+      - moderate
+      - high
+      - critical
       required: false
     - id: 2
       name: burnout_risks_known
@@ -31,10 +20,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''work_life_balance'', ''text'': ''Work life balance''}'
-      - '{''value'': ''workload'', ''text'': ''Workload''}'
-      - '{''value'': ''stress'', ''text'': ''Stress''}'
-      - '{''value'': ''lack_of_support'', ''text'': ''Lack of support''}'
+      - work life balance
+      - workload
+      - stress
+      - lack of support
       required: false
     - id: 3
       name: support_needed
@@ -42,8 +31,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''text'': True}'
-      - '{''value'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: manager_support
@@ -51,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''high'', ''text'': ''High''}'
-      - '{''value'': ''low'', ''text'': ''Low''}'
+      - high
+      - low
       required: false
     - id: 5
       name: training_support
@@ -60,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''text'': True}'
-      - '{''value'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: employee_resources
@@ -69,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''adequate'', ''text'': ''Adequate''}'
-      - '{''value'': ''inadequate'', ''text'': ''Inadequate''}'
+      - adequate
+      - inadequate
       required: false
     - id: 7
       name: burnout_prevention_strategies
@@ -78,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''text'': True}'
-      - '{''value'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: burnout_prevention_plan
@@ -87,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''text'': True}'
-      - '{''value'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: manager_commitment
@@ -96,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''high'', ''text'': ''High''}'
-      - '{''value'': ''low'', ''text'': ''Low''}'
+      - high
+      - low
       required: false
     - id: 10
       name: feedback_mechanism
@@ -105,6 +94,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''text'': True}'
-      - '{''value'': False, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false

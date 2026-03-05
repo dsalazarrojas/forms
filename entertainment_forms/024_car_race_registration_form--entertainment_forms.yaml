@@ -223,7 +223,7 @@ inputSchema:
       options:
       - Yes - certified
       - Yes - not certified
-      - false
+      - 'False'
       required: true
     - id: 30
       name: racing_harness
@@ -244,7 +244,7 @@ inputSchema:
       options:
       - Yes - onboard
       - Yes - handheld
-      - false
+      - 'False'
       required: true
     - id: 32
       name: racing_seat
@@ -279,7 +279,7 @@ inputSchema:
       - Yes - SFI 3.2A/5
       - Yes - SFI 3.2A/1
       - Yes - other rating
-      - false
+      - 'False'
       required: true
     - id: 35
       name: additional_safety
@@ -346,8 +346,8 @@ inputSchema:
       hint: Do you need pit space?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 41
       name: fuel_type
@@ -412,8 +412,8 @@ inputSchema:
       hint: Do you have sponsors?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 48
       name: sponsor_names

@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fire''}'
-      - '{''id'': 2, ''label'': ''Police''}'
-      - '{''id'': 3, ''label'': ''Medical''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Fire
+      - Police
+      - Medical
+      - Other
       required: true
     - id: 4
       name: observation_date
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 7
       name: participant_satisfaction
@@ -58,11 +58,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
-      - '{''id'': 4, ''label'': 4}'
-      - '{''id'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 8
       name: observer_satisfaction
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': 1}'
-      - '{''id'': 2, ''label'': 2}'
-      - '{''id'': 3, ''label'': 3}'
-      - '{''id'': 4, ''label'': 4}'
-      - '{''id'': 5, ''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 9
       name: suggestions

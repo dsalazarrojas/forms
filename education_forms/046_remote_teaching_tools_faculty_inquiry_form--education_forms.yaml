@@ -4,19 +4,18 @@ inputSchema:
     title: Remote Teaching Tools Faculty Inquiry Form
     pages:
     - id: 1
-      name: remote_teaching_tools_faculty_inquiry_form_1
-      label: What kind of remote teaching technology have you used
+      name: remote_teaching_tools
+      label: What kind of remote teaching technology have you used?
       hint: null
       type: select_multiple
       options:
       - Zoom
       - Google Meet
       - Skype
-      - Other
       required: false
     - id: 2
-      name: remote_teaching_tools_faculty_inquiry_form_2
-      label: What was most helpful in terms of remote teaching technology
+      name: teaching_technology_helpfulness
+      label: What was most helpful in terms of remote teaching technology?
       hint: null
       type: select_one
       options:
@@ -25,69 +24,80 @@ inputSchema:
       - No opinion
       required: false
     - id: 3
-      name: remote_teaching_tools_faculty_inquiry_form_3
-      label: How would you rate your overall satisfaction with remote teaching technology
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with remote teaching technology?
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: remote_teaching_tools_faculty_inquiry_form_4
-      label: What kind of support would you like to see
+      name: support_type
+      label: What kind of support would you like to see for remote teaching technology?
       hint: null
       type: select_multiple
       options:
       - Technical Support
       - Training
       - Both
-      - Other
       required: false
     - id: 5
-      name: remote_teaching_tools_faculty_inquiry_form_5
-      label: How many times have you used remote teaching technology
+      name: usage_count
+      label: How many times have you used remote teaching technology?
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: remote_teaching_tools_faculty_inquiry_form_6
-      label: Do you have any suggestions
+      name: suggestions
+      label: Do you have any suggestions for improving remote teaching technology?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: remote_teaching_tools_faculty_inquiry_form_7
-      label: Do you have any other comments
+      name: comments
+      label: Do you have any other comments?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: remote_teaching_tools_faculty_inquiry_form_8
-      label: Do you have any other comments
+      name: technical_issues
+      label: Have you encountered any technical issues with remote teaching technology?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
-      name: remote_teaching_tools_faculty_inquiry_form_9
-      label: Do you have any other comments
+      name: essential_features
+      label: What features do you think are essential for effective remote teaching?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Video conferencing
+      - Audio conferencing
+      - Chat or messaging
+      - Polling or quizzing
       required: false
     - id: 10
-      name: remote_teaching_tools_faculty_inquiry_form_10
-      label: Do you have any other comments
+      name: adequate_support
+      label: Have you received adequate support for remote teaching technology?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: remote_teaching_tools_faculty_inquiry_form_11
-      label: Do you have any other comments
+      name: other_tools
+      label: What other tools or platforms have you used for remote teaching?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Other (please specify)
+      - Zoom
+      - Google Meet
+      - Skype
       required: false

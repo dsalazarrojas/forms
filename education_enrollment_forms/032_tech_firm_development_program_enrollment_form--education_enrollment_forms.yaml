@@ -5,176 +5,73 @@ inputSchema:
     pages:
     - id: 1
       name: program_details
-      label: program_details
-      hint: null
+      label: Program Name and Description
+      hint: Enter the name and description of the program
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: program_enrollment_details
-      label: program_enrollment_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: training_program_starting_date
-      label: training_program_starting_date
-      hint: null
+      name: program_starting_date
+      label: Training Program Start Date
+      hint: YYYY-MM-DD format, date of the training program start
       type: date
       options: []
-      required: false
-    - id: 4
-      name: training_program_starting_time
-      label: training_program_starting_time
-      hint: null
+      required: true
+    - id: 3
+      name: program_starting_time
+      label: Training Program Start Time
+      hint: HH -MM format, time of the training program start
       type: time
       options: []
-      required: false
-    - id: 5
-      name: training_program_duration
-      label: training_program_duration
-      hint: null
+      required: true
+    - id: 4
+      name: program_duration
+      label: Training Program Duration
+      hint: Number of days, weeks or months
       type: number
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: program_location
+      label: Training Program Location
+      hint: Enter the location of the training program
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: training_program_location
-      label: training_program_location
-      hint: null
+      name: resume_upload
+      label: Resume Upload
+      hint: Attach a resume for evaluation
       type: text
       options: []
       required: false
     - id: 7
-      name: training_program_starting_date
-      label: training_program_starting_date
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: training_program_type
+      label: Training Program Type
+      hint: Select type of the program (full-time, part-time)
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: true
     - id: 8
-      name: resume_upload
-      label: resume_upload
-      hint: null
+      name: program_focus_area
+      label: Program Focus Area
+      hint: Enter the focus area of the program
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: resume_upload2
-      label: resume_upload2
-      hint: null
+      name: resume_portfolio
+      label: Resume for Portfolio
+      hint: Attach a resume for portfolio review
       type: text
       options: []
       required: false
     - id: 10
-      name: resume_upload3
-      label: resume_upload3
-      hint: null
+      name: contact_information
+      label: Contact Information
+      hint: Enter the contact information for follow-up questions
       type: text
       options: []
-      required: false
-    - id: 11
-      name: resume_upload4
-      label: resume_upload4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: resume_upload5
-      label: resume_upload5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: resume_upload6
-      label: resume_upload6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: resume_upload7
-      label: resume_upload7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: resume_upload8
-      label: resume_upload8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: resume_upload9
-      label: resume_upload9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: training_program_starting_time
-      label: training_program_starting_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: resume_upload10
-      label: resume_upload10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: resume_upload11
-      label: resume_upload11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: training_program_duration
-      label: training_program_duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: resume_upload12
-      label: resume_upload12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: resume_upload13
-      label: resume_upload13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: resume_upload14
-      label: resume_upload14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: resume_upload15
-      label: resume_upload15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: resume_upload16
-      label: resume_upload16
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

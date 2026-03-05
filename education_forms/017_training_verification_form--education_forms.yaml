@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: training_date
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''improved''}'
-      - '{''id'': 2, ''name'': ''same''}'
-      - '{''id'': 3, ''name'': ''worse''}'
+      - improved
+      - same
+      - worse
       required: false
     - id: 6
       name: training_location

@@ -4,191 +4,193 @@ inputSchema:
     title: Scholarship Reference Submission
     pages:
     - id: 1
-      name: submitter
-      label: Submitter
+      name: is_submitter
+      label: Is the referee a submitter?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: referee_name
-      label: referee_name
+      name: submitter_name
+      label: Submitter Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: referee_title
-      label: referee_title
+      name: referee_name
+      label: Referee Name
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: referee_institution
-      label: referee_institution
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: referee_department
-      label: referee_department
+      name: referee_title
+      label: Referee Title
       hint: null
       type: text
       options: []
       required: false
+    - id: 5
+      name: referee_institution
+      label: Referee Institution
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 6
+      name: referee_department
+      label: Referee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
       name: rating
-      label: rating
+      label: Rating
       hint: null
       type: number
       options: []
       required: false
-    - id: 7
-      name: reference_type
-      label: reference_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 8
-      name: reference_length
-      label: reference_length
+      name: is_reference
+      label: Is the referee a reference for the submitter?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: referee_comment
-      label: referee_comment
+      name: reference_type
+      label: Reference Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: referee_letter
-      label: referee_letter
+      name: reference_length
+      label: Reference Length
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: referee_signature
-      label: referee_signature
+      name: referee_comment
+      label: Referee Comment
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: referee_letter_attachment
-      label: referee_letter_attachment
+      name: referee_letter
+      label: Referee Letter
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: referee_letter_other_attachment
-      label: referee_letter_other_attachment
+      name: referee_signature
+      label: Referee Signature
       hint: null
       type: text
       options: []
       required: false
     - id: 14
+      name: referee_letter_attachment
+      label: Referee Letter Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referee_other_attachment
+      label: Other Referee Letter Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
       name: date_submitted
-      label: date_submitted
+      label: Date Submitted
       hint: null
       type: date
       options: []
       required: false
-    - id: 15
+    - id: 17
       name: time_submitted
-      label: time_submitted
+      label: Time Submitted
       hint: null
       type: time
       options: []
       required: false
-    - id: 16
-      name: time_submitted
-      label: Time Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: date_submitted
-      label: Date Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 18
       name: referee_phone
-      label: referee_phone
+      label: Referee Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: referee_email
-      label: referee_email
+      label: Referee Email
       hint: null
       type: email
       options: []
       required: false
     - id: 20
-      name: referee_institution
-      label: referee_institution
+      name: referee_institution_2
+      label: Referee Institution 2
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: submitter_institution
-      label: submitter_institution
+      label: Submitter Institution
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: referee_address
-      label: referee_address
+      label: Referee Address
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: referee_zip
-      label: referee_zip
+      label: Referee Zip
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: referee_city
-      label: referee_city
+      label: Referee City
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: referee_state
-      label: referee_state
+      label: Referee State
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

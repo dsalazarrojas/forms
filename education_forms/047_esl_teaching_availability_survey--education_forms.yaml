@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Education Forms''}'
+      - Education Forms
       - Other
       required: true
     - id: 3
@@ -39,7 +39,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true
     - id: 6
@@ -62,9 +62,9 @@ inputSchema:
       hint: How often would you like to schedule?
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 9
       name: schedule_days
@@ -72,13 +72,13 @@ inputSchema:
       hint: Which days of the week to schedule?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 10
       name: schedule_time
@@ -100,9 +100,9 @@ inputSchema:
       hint: How do you want to be contacted?
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat/Message''}'
+      - Phone
+      - Email
+      - Chat/Message
       required: true
     - id: 13
       name: contact_phone_number
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''user1''}'
-      - '{''label'': ''user2''}'
-      - '{''label'': ''user3''}'
+      - user1
+      - user2
+      - user3
       required: true
     - id: 18
       name: notes
@@ -155,8 +155,8 @@ inputSchema:
       hint: Are you sure about your schedule?
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: contact_method
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat/Message''}'
+      - Phone
+      - Email
+      - Chat/Message
       required: false
     - id: 21
       name: assigned_tool

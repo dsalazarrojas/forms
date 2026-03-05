@@ -160,8 +160,8 @@ inputSchema:
       hint: Has anaphylaxis occurred?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unknown
       required: true
     - id: 22
@@ -198,8 +198,8 @@ inputSchema:
       hint: Is there a backup?
       type: select_one
       options:
-      - Yes, location: ____________
-      - false
+      - Option 1
+      - 'False'
       required: true
     - id: 27
       name: antihistamine_authorization
@@ -304,7 +304,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, for identification
-      - false
+      - 'False'
       required: false
     - id: 40
       name: annual_update_required
@@ -313,7 +313,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I will update annually
-      - false
+      - 'False'
       required: true
     - id: 41
       name: information_accuracy
@@ -322,7 +322,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, all information is accurate
-      - false
+      - 'False'
       required: true
     - id: 42
       name: parent_signature

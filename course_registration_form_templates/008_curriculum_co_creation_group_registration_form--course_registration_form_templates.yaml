@@ -4,35 +4,35 @@ inputSchema:
     title: Curriculum Co Creation Group Registration Form
     pages:
     - id: 1
-      name: user_input
-      label: User Input
+      name: group_name
+      label: Group Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: email
-      label: Email
+      name: group_email
+      label: Group Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: name
-      label: Name
+      name: group_leader_name
+      label: Group Leader's Name
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: role
-      label: Role
+      name: group_role
+      label: Group Role
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
       name: department
       label: Department
@@ -41,8 +41,8 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: course
-      label: Course
+      name: course_title
+      label: Course Title
       hint: null
       type: text
       options: []
@@ -55,45 +55,36 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: user_input_2
-      label: User Input 2
+      name: group_purpose
+      label: Group Purpose
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: email_2
-      label: Email
+      name: group_size
+      label: Group Size
       hint: null
-      type: email
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: name_2
-      label: Name
+      name: group_meeting_time
+      label: Group Meeting Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 11
-      name: role_2
-      label: Role
+      name: group_meeting_date
+      label: Group Meeting Date
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: department_2
-      label: Department
-      hint: null
-      type: text
+      type: date
       options: []
       required: false
-    - id: 13
-      name: course_2
-      label: Course
+    - id: 12
+      name: group_location
+      label: Group Location
       hint: null
       type: text
       options: []

@@ -126,7 +126,7 @@ inputSchema:
       hint: Is this donation in honor or memory
       type: select_one
       options:
-      - false
+      - 'False'
       - In honor of
       - In memory of
       required: true
@@ -143,8 +143,8 @@ inputSchema:
       hint: Should we notify the honoree or family
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: notification_email
@@ -166,8 +166,8 @@ inputSchema:
       hint: Is your employer matching donations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: false
     - id: 20
@@ -239,8 +239,8 @@ inputSchema:
       hint: Receive text updates
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 28
       name: donor_message

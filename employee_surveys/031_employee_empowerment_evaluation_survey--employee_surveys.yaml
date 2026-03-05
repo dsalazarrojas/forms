@@ -4,80 +4,98 @@ inputSchema:
     title: Employee Empowerment Evaluation Survey
     pages:
     - id: 1
-      name: employee_empowerment_evaluation_survey
-      label: Employee Empowerment Evaluation
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: category
-      label: Category
+      name: empowerment_frequency
+      label: How often do you feel empowered to make decisions?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
-    - id: 3
-      name: description
-      label: Description
+    - id: 2
+      name: workplace_challenges
+      label: What are your biggest challenges in the workplace?
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: form_id
-      label: Form
+    - id: 3
+      name: job_satisfaction
+      label: How would you rate your overall job satisfaction?
       hint: null
       type: number
       options: []
       required: false
+    - id: 4
+      name: favorite_tools
+      label: What are your favorite tools and resources in the workplace?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: false
     - id: 5
-      name: assigned_tool
-      label: Assigned
+      name: autonomy
+      label: Do you have the necessary autonomy to make decisions?
       hint: null
       type: select_one
       options:
-      - chatjimmy
-      - Other
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: output_file
-      label: Output
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: description
-      label: Description
+      name: improvement_suggestions
+      label: What are your biggest suggestions for improvement?
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: description
-      label: Description
+    - id: 7
+      name: communication
+      label: How would you rate your communication with your manager?
       hint: null
-      type: text
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: felt_valued
+      label: Do you feel valued and heard in the workplace?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: work_life_balance
+      label: How would you rate your work-life balance?
+      hint: null
+      type: number
       options: []
       required: false
     - id: 10
-      name: description
-      label: Description
+      name: role_support
+      label: Do you feel supported in your role?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: areas_for_improvement
+      label: What are some areas where you would like to see more support?
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with the survey?
+      hint: null
+      type: number
       options: []
       required: false

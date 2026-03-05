@@ -4,195 +4,46 @@ inputSchema:
     title: Time Constant Calculation Form
     pages:
     - id: 1
-      name: first_page
-      label: Time Constant Calculation Form
-      hint: null
-      type: note
+      name: user_info
+      label: User Information
+      hint: Please enter your information
+      type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 5
-      name: first_page
+      name: time_constant
       label: Time Constant
-      hint: null
-      type: date
+      hint: Choose a specific date
+      type: text
       options: []
+      required: false
+    - id: 3
+      name: calculation
+      label: Calculation Method
+      hint: Choose a calculation method
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: result_info
+      label: Result Information
+      hint: Enter result information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review
+      label: Review
+      hint: Confirm your result
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: true
     - id: 6
-      name: second_page
-      label: Time Constant
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 7
-      name: first_page
-      label: Calculation
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 8
-      name: first_page
-      label: Calculation
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 9
-      name: second_page
-      label: Calculation
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 10
-      name: second_page
-      label: Calculation
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 11
-      name: first_page
-      label: Result
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 12
-      name: first_page
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: first_page
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 14
-      name: second_page
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 15
-      name: second_page
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 16
-      name: first_page
-      label: Result
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 17
-      name: second_page
-      label: Result
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 18
-      name: first_page
-      label: Result
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 19
-      name: second_page
-      label: Result
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 20
-      name: first_page
-      label: Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: second_page
-      label: Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: first_page
-      label: Result
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 23
-      name: second_page
-      label: Result
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: true
-    - id: 24
-      name: first_page
-      label: Calculation
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: second_page
-      label: Calculation
-      hint: null
+      name: submit
+      label: Submit
+      hint: Submit your form
       type: text
       options: []
       required: true

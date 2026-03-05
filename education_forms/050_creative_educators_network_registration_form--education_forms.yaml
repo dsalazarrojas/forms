@@ -12,82 +12,107 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Creative Educators Network Registration Form
     pages:
     - id: 1
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
+      name: contact_details
+      label: Enter your contact details
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
+      name: education_background
+      label: Education background
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's
+      - Master's
+      - Ph.D.
+      required: true
     - id: 3
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
+      name: teaching_subjects
+      label: Teaching subjects
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - Art
+      required: true
     - id: 4
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
-      type: text
+      name: teaching_experience
+      label: Teaching experience
+      hint: null
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
+      name: resources_access
+      label: Resources you'd like to access
+      hint: null
+      type: select_multiple
+      options:
+      - Articles
+      - Videos
+      - Lesson plans
+      required: true
     - id: 6
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
+      name: connections
+      label: How would you like to connect with others?
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborations
+      - Mentorship
+      - Networking
+      required: true
     - id: 7
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
+      name: additional_details
+      label: Additional details
+      hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
+      name: teaching_philosophy
+      label: Teaching philosophy
+      hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
+      name: teaching_interests
+      label: Teaching interests
+      hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
-      type: text
-      options: []
-      required: false
+      name: contact_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Social media
+      required: true
     - id: 11
-      name: text_without_colons
-      label: <text without colons>
-      hint: <text or null>
+      name: interest_groups
+      label: Would you like to join any special interest groups?
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Art
+      - Science
+      required: true
+    - id: 12
+      name: feedback
+      label: Any feedback or suggestions?
+      hint: null
       type: text
       options: []
       required: false

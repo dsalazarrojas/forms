@@ -4,203 +4,107 @@ inputSchema:
     title: tech_customer_support_assessment_form
     pages:
     - id: 1
-      name: form_heading
-      label: Form Heading
+      name: customer_experience
+      label: Customer Experience
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_section1
-      label: form section 1
+      name: resolution_satisfaction
+      label: Resolution Satisfaction
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
     - id: 3
-      name: channel
-      label: channel
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In-person
+      required: true
+    - id: 5
+      name: follow_up_report
+      label: Follow-up Report
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: rating
-      label: rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: comments
-      label: comments
+    - id: 6
+      name: issue_description
+      label: Issue Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: form_section2
-      label: form section 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 7
-      name: issue_description
-      label: issue description
+      name: issue_details
+      label: Issue Details
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: resolution_time
-      label: resolution time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
       name: resolution_channel
-      label: resolution channel
+      label: Resolution Channel
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Phone
+      - Email
+      - Chat
+      - In-person
+      required: true
+    - id: 9
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Manual
       required: false
     - id: 10
-      name: follow_up_report
-      label: Follow up report
+      name: resolution_status
+      label: Resolution Status
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: report
-      label: Report
-      hint: null
-      type: text
-      options: []
+      - Resolved
+      - Not Resolved
       required: true
+    - id: 11
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
     - id: 12
-      name: channel_2
-      label: channel 2
+      name: issue_solved
+      label: Issue Solved
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: followup_2_report
-      label: Follow up 2 report
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: follow_up_time
-      label: follow-up time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: channel
-      label: channel
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: follow_up_report
-      label: Follow up report
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: issue_description
-      label: issue description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: resolution_time
-      label: resolution time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: resolution_channel
-      label: resolution channel
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: follow_up_report
-      label: Follow up report
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: follow_up_time
-      label: follow-up time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: channel_2
-      label: channel 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: followup_2_report
-      label: Follow up 2 report
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: follow_up_time
-      label: follow-up time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: issue_description
-      label: issue description
-      hint: null
-      type: text
-      options: []
+      - Option A
+      - Option B
       required: false

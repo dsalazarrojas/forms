@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: medical_certification_note
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Recreational''}'
-      - '{''id'': 2, ''label'': ''Competition''}'
-      - '{''id'': 3, ''label'': ''Instructor''}'
+      - Recreational
+      - Competition
+      - Instructor
       required: false
     - id: 12
       name: certification

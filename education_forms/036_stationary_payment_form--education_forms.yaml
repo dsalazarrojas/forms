@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: store_name
-      label: store_name
+      label: Store Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: stationery_type
-      label: stationery_type
+      label: Stationery Type
       hint: null
       type: select_multiple
       options:
@@ -24,63 +24,49 @@ inputSchema:
       required: true
     - id: 3
       name: quantity
-      label: quantity
+      label: Quantity
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: stationery_amount
-      label: stationery_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
       name: customer_email
-      label: customer_email
+      label: Customer Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: customer_phone
-      label: customer_phone
+      label: Customer Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: customer_date
-      label: customer_date
+      label: Customer Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: customer_time
-      label: customer_time
+      label: Customer Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 9
-      name: stationery_comments
-      label: stationery_comments
+      required: true
+    - id: 8
+      name: notes
+      label: Stationery Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
-      name: total_cost
-      label: total_cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
+    - id: 9
       name: payment_method
-      label: payment_method
+      label: Payment Method
       hint: null
       type: select_one
       options:
@@ -88,105 +74,47 @@ inputSchema:
       - Credit Card
       - Bank Transfer
       required: true
-    - id: 12
+    - id: 10
       name: payment_amount
-      label: payment_amount
+      label: Payment Amount
       hint: null
       type: number
       options: []
       required: true
-    - id: 13
+    - id: 11
       name: payment_method_2
-      label: payment_method_2
+      label: Payment Method 2
       hint: null
       type: select_one
       options:
       - Credit Card
       - Bank Transfer
       required: true
-    - id: 14
-      name: payment_method_3
-      label: payment_method_3
+    - id: 12
+      name: total
+      label: Total
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 15
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
       name: store_comments
-      label: store_comments
+      label: Store Comments
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 17
-      name: total
-      label: total
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: tax_rate
-      label: tax_rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: tax_amount
-      label: tax_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: store_name_2
-      label: store_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: store_name_3
-      label: store_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: store_name_4
-      label: store_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: store_name_5
-      label: store_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: store_name_6
-      label: store_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: store_name_7
-      label: store_name
-      hint: null
-      type: text
       options: []
       required: false

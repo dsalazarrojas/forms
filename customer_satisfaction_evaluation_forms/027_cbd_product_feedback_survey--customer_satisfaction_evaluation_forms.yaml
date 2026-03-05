@@ -1,165 +1,154 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CBD Product Feedback Survey
     pages:
-      - id: 1
-        name: feedback_intro
-        label: -- CBD Product Feedback --
-        hint: Your insights help us improve the quality and effectiveness of our products.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: product_name_feedback
-        label: Which product did you purchase?
-        hint: null
-        type: select_one
-        options:
-          - CBD Oil Tincture
-          - CBD Gummies
-          - CBD Topical Cream
-          - CBD Capsules
-          - CBD Pet Product
-        required: true
-      - id: 3
-        name: purchase_source_cbd
-        label: Where did you purchase this product?
-        hint: null
-        type: select_one
-        options:
-          - Online Store
-          - Retail Location
-          - Subscription Service
-          - Event/Market
-        required: true
-      - id: 4
-        name: primary_use_case_cbd
-        label: What was your primary reason for using this CBD product?
-        hint: null
-        type: select_one
-        options:
-          - Pain Relief
-          - Anxiety/Stress Management
-          - Sleep Support
-          - General Wellness
-          - Recovery from Exercise
-        required: true
-      - id: 5
-        name: frequency_of_use_cbd
-        label: How often do you use this product?
-        hint: null
-        type: select_one
-        options:
-          - Daily
-          - A few times a week
-          - Once a week
-          - As needed
-        required: true
-      - id: 6
-        name: effectiveness_rating_cbd
-        label: How effective was the product for your needs?
-        hint: null
-        type: select_one
-        options:
-          - Not effective at all
-          - Slightly effective
-          - Moderately effective
-          - Very effective
-          - Extremely effective
-        required: true
-      - id: 7
-        name: dosage_used
-        label: What dosage or amount do you typically use?
-        hint: e.g., 1 dropper, 2 gummies
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: side_effects_noticed
-        label: Did you experience any side effects?
-        hint: null
-        type: select_one
-        options:
-          - None
-          - Drowsiness
-          - Dry Mouth
-          - Changes in Appetite
-          - Other
-        required: true
-      - id: 9
-        name: taste_texture_feedback
-        label: Rate the taste or texture of the product
-        hint: null
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Excellent
-        required: true
-      - id: 10
-        name: packaging_satisfaction_rating
-        label: Are you satisfied with the product packaging?
-        hint: null
-        type: select_one
-        options:
-          - Yes, very satisfied
-          - Yes, satisfied
-          - No, needs improvement
-        required: true
-      - id: 11
-        name: value_for_money_rating
-        label: Do you feel the product is worth the price?
-        hint: null
-        type: select_one
-        options:
-          - Yes, great value
-          - Fair price
-          - No, too expensive
-        required: true
-      - id: 12
-        name: brand_loyalty_intent
-        label: How likely are you to purchase this product again?
-        hint: null
-        type: select_one
-        options:
-          - Definitely Will
-          - Probably Will
-          - Unsure
-          - Definitely Will Not
-        required: true
-      - id: 13
-        name: detailed_product_comments
-        label: Is there anything else you'd like to share about your experience?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: newsletter_opt_in_cbd
-        label: Would you like to join our VIP list for exclusive discounts?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: survey_thank_you_note
-        label: -- Thank You --
-        hint: We appreciate your honest feedback.
-        type: note
-        options: []
-        required: false
+    - id: 1
+      name: feedback_intro
+      label: -- CBD Product Feedback --
+      hint: Your insights help us improve the quality and effectiveness of our products.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name_feedback
+      label: Which product did you purchase?
+      hint: null
+      type: select_one
+      options:
+      - CBD Oil Tincture
+      - CBD Gummies
+      - CBD Topical Cream
+      - CBD Capsules
+      - CBD Pet Product
+      required: true
+    - id: 3
+      name: purchase_source_cbd
+      label: Where did you purchase this product?
+      hint: null
+      type: select_one
+      options:
+      - Online Store
+      - Retail Location
+      - Subscription Service
+      - Event/Market
+      required: true
+    - id: 4
+      name: primary_use_case_cbd
+      label: What was your primary reason for using this CBD product?
+      hint: null
+      type: select_one
+      options:
+      - Pain Relief
+      - Anxiety/Stress Management
+      - Sleep Support
+      - General Wellness
+      - Recovery from Exercise
+      required: true
+    - id: 5
+      name: frequency_of_use_cbd
+      label: How often do you use this product?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - A few times a week
+      - Once a week
+      - As needed
+      required: true
+    - id: 6
+      name: effectiveness_rating_cbd
+      label: How effective was the product for your needs?
+      hint: null
+      type: select_one
+      options:
+      - Not effective at all
+      - Slightly effective
+      - Moderately effective
+      - Very effective
+      - Extremely effective
+      required: true
+    - id: 7
+      name: dosage_used
+      label: What dosage or amount do you typically use?
+      hint: e.g., 1 dropper, 2 gummies
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: side_effects_noticed
+      label: Did you experience any side effects?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Drowsiness
+      - Dry Mouth
+      - Changes in Appetite
+      - Other
+      required: true
+    - id: 9
+      name: taste_texture_feedback
+      label: Rate the taste or texture of the product
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: packaging_satisfaction_rating
+      label: Are you satisfied with the product packaging?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very satisfied
+      - Yes, satisfied
+      - No, needs improvement
+      required: true
+    - id: 11
+      name: value_for_money_rating
+      label: Do you feel the product is worth the price?
+      hint: null
+      type: select_one
+      options:
+      - Yes, great value
+      - Fair price
+      - No, too expensive
+      required: true
+    - id: 12
+      name: brand_loyalty_intent
+      label: How likely are you to purchase this product again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Will
+      - Probably Will
+      - Unsure
+      - Definitely Will Not
+      required: true
+    - id: 13
+      name: detailed_product_comments
+      label: Is there anything else you'd like to share about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: newsletter_opt_in_cbd
+      label: Would you like to join our VIP list for exclusive discounts?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: survey_thank_you_note
+      label: -- Thank You --
+      hint: We appreciate your honest feedback.
+      type: note
+      options: []
+      required: false

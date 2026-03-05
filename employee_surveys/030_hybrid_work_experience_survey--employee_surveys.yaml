@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Remote''}'
-      - '{''id'': 2, ''label'': ''Office''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Remote
+      - Office
+      - Both
       required: false
     - id: 3
       name: job_title
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Satisfied''}'
-      - '{''id'': 2, ''label'': ''Unsatisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
+      - Satisfied
+      - Unsatisfied
+      - Neutral
       required: false
     - id: 17
       name: job_satisfaction_important
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Important''}'
-      - '{''id'': 2, ''label'': ''Somewhat Important''}'
-      - '{''id'': 3, ''label'': ''Not Important''}'
+      - Very Important
+      - Somewhat Important
+      - Not Important
       required: false
     - id: 18
       name: job_satisfaction_reasons
@@ -137,12 +137,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Job Title''}'
-      - '{''id'': 2, ''label'': ''Work Environment''}'
-      - '{''id'': 3, ''label'': ''Work Hours''}'
-      - '{''id'': 4, ''label'': ''Team''}'
-      - '{''id'': 5, ''label'': ''Manager Support''}'
-      - '{''id'': 6, ''label'': ''Benefits''}'
+      - Job Title
+      - Work Environment
+      - Work Hours
+      - Team
+      - Manager Support
+      - Benefits
       required: false
     - id: 19
       name: job_satisfaction_comments
@@ -171,11 +171,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Somewhat Unsatisfied''}'
-      - '{''id'': 5, ''label'': ''Very Unsatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
       required: false
     - id: 23
       name: time_management_importance
@@ -183,9 +183,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Important''}'
-      - '{''id'': 2, ''label'': ''Somewhat Important''}'
-      - '{''id'': 3, ''label'': ''Not Important''}'
+      - Very Important
+      - Somewhat Important
+      - Not Important
       required: false
     - id: 24
       name: time_management_reasons
@@ -193,12 +193,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Work Hours''}'
-      - '{''id'': 2, ''label'': ''Job Title''}'
-      - '{''id'': 3, ''label'': ''Work Environment''}'
-      - '{''id'': 4, ''label'': ''Team''}'
-      - '{''id'': 5, ''label'': ''Manager Support''}'
-      - '{''id'': 6, ''label'': ''Benefits''}'
+      - Work Hours
+      - Job Title
+      - Work Environment
+      - Team
+      - Manager Support
+      - Benefits
       required: false
     - id: 25
       name: time_management_comments

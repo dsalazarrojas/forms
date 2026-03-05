@@ -84,9 +84,9 @@ inputSchema:
       hint: When will you take the exam
       type: select_one
       options:
-      - 2026
-      - 2027
-      - 2028
+      - '2026'
+      - '2027'
+      - '2028'
       required: true
     - id: 12
       name: exam_session
@@ -214,8 +214,8 @@ inputSchema:
       hint: For disabilities or medical needs
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: accommodations_details

@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pfizer'', ''value'': ''pfizer''}'
-      - '{''label'': ''Moderna'', ''value'': ''moderna''}'
+      - Pfizer
+      - Moderna
       required: true
     - id: 9
       name: vaccine_manufacturer
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High Blood Pressure'', ''value'': ''high-blood-pressure''}'
-      - '{''label'': ''Diabetes'', ''value'': ''diabetes''}'
-      - '{''label'': ''Asthma'', ''value'': ''asthma''}'
+      - High Blood Pressure
+      - Diabetes
+      - Asthma
       required: false
     - id: 12
       name: allergies

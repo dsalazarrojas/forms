@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Books''}'
-      - '{''label'': ''Articles''}'
-      - '{''label'': ''Videos''}'
-      - '{''label'': ''Websites''}'
+      - Books
+      - Articles
+      - Videos
+      - Websites
       required: false
     - id: 4
       name: frequency
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Research''}'
-      - '{''label'': ''Training''}'
-      - '{''label'': ''Reference''}'
-      - '{''label'': ''Other''}'
+      - Research
+      - Training
+      - Reference
+      - Other
       required: false
     - id: 7
       name: difficulty_level
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Easy''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Hard''}'
+      - Easy
+      - Medium
+      - Hard
       required: false
     - id: 8
       name: comments

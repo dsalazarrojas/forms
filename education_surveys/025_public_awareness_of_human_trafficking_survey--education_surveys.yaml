@@ -4,232 +4,159 @@ inputSchema:
     title: public_awareness_of_human_traffic
     pages:
     - id: 1
-      name: page_1
-      label: human_trafficking_survey
+      name: human_trafficking_awareness
+      label: What do you know about human trafficking?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: demographic_info
-      label: demographic_info
+      name: level_of_knowledge
+      label: How much do you know about human trafficking?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 3
+      name: human_trafficking_heard
+      label: Have you ever heard of human trafficking before?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 4
+      name: risks_associated
+      label: What are the risks associated with human trafficking?
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: awareness_question_1
-      label: what_do_you_know_about_human_trafficking
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 4
-      name: awareness_question_2
-      label: what_do_you_know_about_human_trafficking
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
     - id: 5
-      name: awareness_question_3
-      label: what_do_you_know_about_human_trafficking
+      name: prevention_methods
+      label: How can human trafficking be prevented?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 6
-      name: awareness_question_4
-      label: what_do_you_know_about_human_trafficking
+      name: awareness_raising
+      label: What can be done to raise awareness about human trafficking?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 7
-      name: awareness_question_5
-      label: what_do_you_know_about_human_trafficking
+      name: human_traffacking_info
+      label: Have you ever come across any information about human trafficking?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: level_of_concern
+      label: What is your level of concern about human trafficking?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 8
-      name: awareness_question_6
-      label: what_do_you_know_about_human_traffacking
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 9
-      name: awareness_question_7
-      label: what_do_you_know_about_human_trafficking
+      name: prevention_effectiveness
+      label: What do you think is the most effective way to prevent human trafficking?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 10
-      name: awareness_question_8
-      label: what_do_you_know_about_human_traffacking
+      name: knowledge_rating
+      label: How would you rate your knowledge about human trafficking on a scale
+        of 1-5?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      type: number
+      options: []
       required: false
     - id: 11
-      name: awareness_question_9
-      label: what_do_you_know_about_human_traffacking
+      name: human_traffacking_types
+      label: What is your understanding of the difference between human trafficking
+        and smuggling?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      type: text
+      options: []
       required: false
     - id: 12
-      name: awareness_question_10
-      label: what_do_you_know_about_human_traffacking
+      name: educate_about_human_traffacking
+      label: How can people be educated about human trafficking?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
+      type: text
+      options: []
       required: false
     - id: 13
-      name: awareness_question_11
-      label: what_do_you_know_about_human_traffacking
+      name: human_traffacking_experience
+      label: Have you ever been affected by human trafficking or know someone who
+        has?
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 14
-      name: awareness_question_12
-      label: what_do_you_know_about_human_traffacking
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 15
-      name: awareness_question_13
-      label: what_do_you_know_about_human_traffacking
-      hint: null
-      type: select_multiple
+      type: checkbox
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 16
-      name: awareness_question_14
-      label: awareness_question_14
+    - id: 14
+      name: common_cases
+      label: What are the most common types of human trafficking cases?
       hint: null
-      type: date
+      type: text
       options: []
       required: false
-    - id: 17
-      name: awareness_question_15
-      label: awareness_question_15
+    - id: 15
+      name: consequences_of_human_traffacking
+      label: What are the consequences of human trafficking?
       hint: null
-      type: time
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: community_prevention
+      label: How can communities come together to prevent human trafficking?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 17
+      name: government_role
+      label: What role do you think the government should play in preventing human
+        trafficking?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 18
-      name: awareness_question_16
-      label: awareness_question_16
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
       name: awareness_question_17
-      label: awareness_question_17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: awareness_question_18
-      label: awareness_question_18
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 21
-      name: awareness_question_19
-      label: awareness_question_19
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: awareness_question_20
-      label: awareness_question_20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: awareness_question_21
-      label: awareness_question_21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: awareness_question_22
-      label: awareness_question_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: awareness_question_23
-      label: awareness_question_23
+      label: Awareness Question 17
       hint: null
       type: text
       options: []

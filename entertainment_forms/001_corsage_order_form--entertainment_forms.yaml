@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Deluxe''}'
+      - Standard
+      - Deluxe
       required: true
     - id: 3
       name: flower_type
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Roses''}'
-      - '{''id'': 2, ''label'': ''Lilies''}'
-      - '{''id'': 3, ''label'': ''Carnations''}'
+      - Roses
+      - Lilies
+      - Carnations
       required: true
     - id: 4
       name: quantity
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Red''}'
-      - '{''id'': 2, ''label'': ''Pink''}'
-      - '{''id'': 3, ''label'': ''Yellow''}'
+      - Red
+      - Pink
+      - Yellow
       required: true
     - id: 6
       name: delivery_date
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''In-store''}'
+      - Online
+      - In-store
       required: false
     - id: 18
       name: special_requests
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Visa''}'
-      - '{''id'': 2, ''label'': ''Mastercard''}'
+      - Visa
+      - Mastercard
       required: true
     - id: 21
       name: cvv
@@ -189,6 +189,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

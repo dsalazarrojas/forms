@@ -1,202 +1,191 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Benefit Change Communication Form
     pages:
-      - id: 1
-        name: section_employee
-        label: -- Employee Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: employee_name
-        label: Employee Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: employee_id
-        label: Employee ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: email_address
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: department
-        label: Department
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: manager_name
-        label: Manager Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: section_change
-        label: -- Benefit Change Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: change_date
-        label: Effective Date of Change
-        hint: When does the change take effect
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: benefit_type_changed
-        label: Type of Benefit Being Changed
-        hint: null
-        type: select_one
-        options:
-          - Health Insurance
-          - Dental Insurance
-          - Vision Insurance
-          - Life Insurance
-          - Retirement Plan
-          - Flexible Spending
-          - Other
-        required: true
-      - id: 10
-        name: change_description
-        label: Description of Change
-        hint: What is changing and how
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: change_impact
-        label: Impact on Employees
-        hint: How does this affect you
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: section_understanding
-        label: -- Comprehension Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: understand_change
-        label: I Understand the Change
-        hint: null
-        type: select_one
-        options:
-          - Fully Understand
-          - Mostly Understand
-          - Partially Understand
-          - Do Not Understand
-        required: true
-      - id: 14
-        name: understand_impact
-        label: I Understand How This Affects My Benefits
-        hint: null
-        type: select_one
-        options:
-          - Fully Understand
-          - Mostly Understand
-          - Partially Understand
-          - Do Not Understand
-        required: true
-      - id: 15
-        name: understand_timeline
-        label: I Understand the Timeline
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - Mostly
-          - Somewhat
-          - No
-        required: true
-      - id: 16
-        name: section_feedback
-        label: -- Feedback and Concerns --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: concerns_questions
-        label: I Have Concerns or Questions
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: specific_concerns
-        label: Describe Your Concerns or Questions
-        hint: What would you like to know more about
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: support_needed
-        label: Type of Support Needed
-        hint: null
-        type: select_multiple
-        options:
-          - Additional Information
-          - One-on-One Meeting
-          - Group Meeting
-          - Written Materials
-          - Online Resources
-          - Other
-        required: false
-      - id: 20
-        name: communication_preference
-        label: Preferred Communication Method
-        hint: null
-        type: select_one
-        options:
-          - Email
-          - Phone
-          - In-Person
-          - Video Call
-          - Written Materials
-        required: true
-      - id: 21
-        name: additional_feedback
-        label: Additional Feedback
-        hint: Any other comments about the change
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: form_date
-        label: Date of Response
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_change
+      label: -- Benefit Change Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: change_date
+      label: Effective Date of Change
+      hint: When does the change take effect
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: benefit_type_changed
+      label: Type of Benefit Being Changed
+      hint: null
+      type: select_one
+      options:
+      - Health Insurance
+      - Dental Insurance
+      - Vision Insurance
+      - Life Insurance
+      - Retirement Plan
+      - Flexible Spending
+      - Other
+      required: true
+    - id: 10
+      name: change_description
+      label: Description of Change
+      hint: What is changing and how
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: change_impact
+      label: Impact on Employees
+      hint: How does this affect you
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_understanding
+      label: -- Comprehension Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: understand_change
+      label: I Understand the Change
+      hint: null
+      type: select_one
+      options:
+      - Fully Understand
+      - Mostly Understand
+      - Partially Understand
+      - Do Not Understand
+      required: true
+    - id: 14
+      name: understand_impact
+      label: I Understand How This Affects My Benefits
+      hint: null
+      type: select_one
+      options:
+      - Fully Understand
+      - Mostly Understand
+      - Partially Understand
+      - Do Not Understand
+      required: true
+    - id: 15
+      name: understand_timeline
+      label: I Understand the Timeline
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - Mostly
+      - Somewhat
+      - 'False'
+      required: true
+    - id: 16
+      name: section_feedback
+      label: -- Feedback and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: concerns_questions
+      label: I Have Concerns or Questions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: specific_concerns
+      label: Describe Your Concerns or Questions
+      hint: What would you like to know more about
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_needed
+      label: Type of Support Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Additional Information
+      - One-on-One Meeting
+      - Group Meeting
+      - Written Materials
+      - Online Resources
+      - Other
+      required: false
+    - id: 20
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-Person
+      - Video Call
+      - Written Materials
+      required: true
+    - id: 21
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments about the change
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_date
+      label: Date of Response
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -11,7 +11,7 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
       name: course_content
       label: Course Content
@@ -41,25 +41,25 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: teacher_performance_2
-      label: Teacher Performance
+      name: teacher_performance_repeated
+      label: Teacher Performance (Again)
       hint: null
       type: number
       options: []
-      required: true
+      required: false
     - id: 7
-      name: course_content_2
-      label: Course Content
+      name: course_content_repeated
+      label: Course Content (Again)
       hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: overall_experience_2
-      label: Overall Experience
+      name: overall_experience_repeated
+      label: Overall Experience (Again)
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: true
+      required: false

@@ -1,64 +1,53 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chinese New Year Student Survey
     pages:
-      - id: 1
-        name: student_name
-        label: Student Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: class_level
-        label: Class or Grade Level
-        hint: Student grade
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: prior_knowledge
-        label: Prior Knowledge of Chinese New Year
-        hint: Rate students familiarity
-        type: select_one
-        options:
-          - Very familiar
-          - Somewhat familiar
-          - Slightly familiar
-          - Not familiar
-        required: true
-      - id: 4
-        name: favorite_activity
-        label: Favorite Activity from Lessons
-        hint: Which activity did you like most
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: cultural_understanding
-        label: Did the lessons improve cultural understanding
-        hint: Yes or no response
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: suggestions
-        label: Suggestions for Future Lessons
-        hint: Student ideas for improvement
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_level
+      label: Class or Grade Level
+      hint: Student grade
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prior_knowledge
+      label: Prior Knowledge of Chinese New Year
+      hint: Rate students familiarity
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Slightly familiar
+      - Not familiar
+      required: true
+    - id: 4
+      name: favorite_activity
+      label: Favorite Activity from Lessons
+      hint: Which activity did you like most
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cultural_understanding
+      label: Did the lessons improve cultural understanding
+      hint: Yes or no response
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggestions for Future Lessons
+      hint: Student ideas for improvement
+      type: text
+      options: []
+      required: false

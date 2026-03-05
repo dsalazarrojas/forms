@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Drama''}'
-      - '{''id'': 2, ''label'': ''Comedy''}'
-      - '{''id'': 3, ''label'': ''Sci-Fi''}'
+      - Drama
+      - Comedy
+      - Sci-Fi
       required: false
     - id: 4
       name: genre
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Action''}'
-      - '{''id'': 2, ''label'': ''Adventure''}'
-      - '{''id'': 3, ''label'': ''Romance''}'
-      - '{''id'': 4, ''label'': ''Sci-Fi''}'
-      - '{''id'': 5, ''label'': ''Thriller''}'
+      - Action
+      - Adventure
+      - Romance
+      - Sci-Fi
+      - Thriller
       required: false
     - id: 5
       name: main_character
@@ -94,11 +94,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Actor''}'
-      - '{''id'': 2, ''label'': ''Actress''}'
-      - '{''id'': 3, ''label'': ''Comedian''}'
-      - '{''id'': 4, ''label'': ''Director''}'
-      - '{''id'': 5, ''label'': ''Writer''}'
+      - Actor
+      - Actress
+      - Comedian
+      - Director
+      - Writer
       required: false
     - id: 13
       name: supporting_character_description_list
@@ -113,11 +113,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Producer''}'
-      - '{''id'': 2, ''label'': ''Production Assistant''}'
-      - '{''id'': 3, ''label'': ''Director''}'
-      - '{''id'': 4, ''label'': ''Writer''}'
-      - '{''id'': 5, ''label'': ''Production Coordinator''}'
+      - Producer
+      - Production Assistant
+      - Director
+      - Writer
+      - Production Coordinator
       required: false
     - id: 15
       name: production_team_description

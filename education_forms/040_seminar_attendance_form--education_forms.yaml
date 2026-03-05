@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Confirmed''}'
-      - '{''id'': 2, ''value'': ''Tentative''}'
-      - '{''id'': 3, ''value'': ''Declined''}'
+      - Confirmed
+      - Tentative
+      - Declined
       required: false
     - id: 12
       name: payment_method
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Cash''}'
-      - '{''id'': 2, ''value'': ''Credit''}'
-      - '{''id'': 3, ''value'': ''Bank''}'
+      - Cash
+      - Credit
+      - Bank
       required: false
     - id: 13
       name: attendees
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Seminar A''}'
-      - '{''id'': 2, ''value'': ''Seminar B''}'
-      - '{''id'': 3, ''value'': ''Seminar C''}'
+      - Seminar A
+      - Seminar B
+      - Seminar C
       required: false
     - id: 15
       name: name

@@ -1,206 +1,195 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Abuse Awareness Quiz
     pages:
-      - id: 1
-        name: quiz_intro
-        label: -- Child Abuse Awareness Quiz --
-        hint: Test your knowledge of child protection and safety
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: organization_affiliation
-        label: Organization or school
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: role_type
-        label: Your role
-        hint: null
-        type: select_one
-        options:
-          - Teacher
-          - School staff
-          - Healthcare provider
-          - Social worker
-          - Parent
-          - Community member
-          - Other
-        required: true
-      - id: 5
-        name: quiz_date
-        label: Quiz date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: question_1
-        label: What is a key warning sign of child physical abuse?
-        hint: null
-        type: select_one
-        options:
-          - Unexplained bruises or injuries
-          - Happy demeanor
-          - Good grades
-          - Excellent attendance
-        required: true
-      - id: 7
-        name: question_2
-        label: What should you do if you suspect child abuse?
-        hint: null
-        type: select_one
-        options:
-          - Immediately report to authorities
-          - Wait and observe further
-          - Keep it confidential
-          - Tell only your supervisor
-        required: true
-      - id: 8
-        name: question_3
-        label: Which of these is a sign of emotional abuse?
-        hint: null
-        type: select_one
-        options:
-          - Extreme fear of specific adults
-          - Low self-esteem
-          - Withdrawal and depression
-          - All of the above
-        required: true
-      - id: 9
-        name: question_4
-        label: Neglect can include which of the following?
-        hint: null
-        type: select_multiple
-        options:
-          - Lack of proper nutrition
-          - Inadequate medical care
-          - Unsafe living conditions
-          - Lack of supervision
-          - Not providing education
-          - All of the above
-        required: true
-      - id: 10
-        name: question_5
-        label: What is a mandatory reporter?
-        hint: null
-        type: select_one
-        options:
-          - Someone who must report suspected abuse to authorities
-          - Someone who reports only when asked
-          - Someone who reports only to school administration
-          - Someone who may report if they choose
-        required: true
-      - id: 11
-        name: question_6
-        label: Which populations are at higher risk of abuse?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Children with disabilities
-          - Children in poverty
-          - Children in foster care
-          - All children are equally vulnerable
-        required: true
-      - id: 12
-        name: question_7
-        label: What is child sexual abuse?
-        hint: null
-        type: select_one
-        options:
-          - Any sexual activity between an adult and child
-          - Only intercourse
-          - Only physical contact
-          - Only with strangers
-        required: true
-      - id: 13
-        name: question_8
-        label: How can you create a safe environment for disclosure?
-        hint: null
-        type: select_multiple
-        options:
-          - Listen without judgment
-          - Assure the child they are not to blame
-          - Maintain confidentiality appropriately
-          - React with shock and alarm
-        required: true
-      - id: 14
-        name: question_9
-        label: What should you NOT do when a child discloses abuse?
-        hint: null
-        type: select_one
-        options:
-          - Question them extensively about details
-          - Listen carefully
-          - Document what they say
-          - Remain calm and supportive
-        required: true
-      - id: 15
-        name: question_10
-        label: Grooming behavior includes which tactics?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Building trust
-          - Isolation from others
-          - Normalizing sexual behavior
-          - Gift-giving
-          - All of the above
-        required: true
-      - id: 16
-        name: question_11
-        label: Who can provide resources and support for victims?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: question_12
-        label: What is the importance of prevention training?
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 18
-        name: quiz_completion_confidence
-        label: How confident do you feel about recognizing abuse?
-        hint: null
-        type: select_one
-        options:
-          - Not confident
-          - Somewhat confident
-          - Moderately confident
-          - Very confident
-          - Extremely confident
-        required: true
-      - id: 19
-        name: training_completion
-        label: I have completed this awareness training
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: quiz_intro
+      label: -- Child Abuse Awareness Quiz --
+      hint: Test your knowledge of child protection and safety
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_affiliation
+      label: Organization or school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_type
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - School staff
+      - Healthcare provider
+      - Social worker
+      - Parent
+      - Community member
+      - Other
+      required: true
+    - id: 5
+      name: quiz_date
+      label: Quiz date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: question_1
+      label: What is a key warning sign of child physical abuse?
+      hint: null
+      type: select_one
+      options:
+      - Unexplained bruises or injuries
+      - Happy demeanor
+      - Good grades
+      - Excellent attendance
+      required: true
+    - id: 7
+      name: question_2
+      label: What should you do if you suspect child abuse?
+      hint: null
+      type: select_one
+      options:
+      - Immediately report to authorities
+      - Wait and observe further
+      - Keep it confidential
+      - Tell only your supervisor
+      required: true
+    - id: 8
+      name: question_3
+      label: Which of these is a sign of emotional abuse?
+      hint: null
+      type: select_one
+      options:
+      - Extreme fear of specific adults
+      - Low self-esteem
+      - Withdrawal and depression
+      - All of the above
+      required: true
+    - id: 9
+      name: question_4
+      label: Neglect can include which of the following?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of proper nutrition
+      - Inadequate medical care
+      - Unsafe living conditions
+      - Lack of supervision
+      - Not providing education
+      - All of the above
+      required: true
+    - id: 10
+      name: question_5
+      label: What is a mandatory reporter?
+      hint: null
+      type: select_one
+      options:
+      - Someone who must report suspected abuse to authorities
+      - Someone who reports only when asked
+      - Someone who reports only to school administration
+      - Someone who may report if they choose
+      required: true
+    - id: 11
+      name: question_6
+      label: Which populations are at higher risk of abuse?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Children with disabilities
+      - Children in poverty
+      - Children in foster care
+      - All children are equally vulnerable
+      required: true
+    - id: 12
+      name: question_7
+      label: What is child sexual abuse?
+      hint: null
+      type: select_one
+      options:
+      - Any sexual activity between an adult and child
+      - Only intercourse
+      - Only physical contact
+      - Only with strangers
+      required: true
+    - id: 13
+      name: question_8
+      label: How can you create a safe environment for disclosure?
+      hint: null
+      type: select_multiple
+      options:
+      - Listen without judgment
+      - Assure the child they are not to blame
+      - Maintain confidentiality appropriately
+      - React with shock and alarm
+      required: true
+    - id: 14
+      name: question_9
+      label: What should you NOT do when a child discloses abuse?
+      hint: null
+      type: select_one
+      options:
+      - Question them extensively about details
+      - Listen carefully
+      - Document what they say
+      - Remain calm and supportive
+      required: true
+    - id: 15
+      name: question_10
+      label: Grooming behavior includes which tactics?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Building trust
+      - Isolation from others
+      - Normalizing sexual behavior
+      - Gift-giving
+      - All of the above
+      required: true
+    - id: 16
+      name: question_11
+      label: Who can provide resources and support for victims?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: question_12
+      label: What is the importance of prevention training?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: quiz_completion_confidence
+      label: How confident do you feel about recognizing abuse?
+      hint: null
+      type: select_one
+      options:
+      - Not confident
+      - Somewhat confident
+      - Moderately confident
+      - Very confident
+      - Extremely confident
+      required: true
+    - id: 19
+      name: training_completion
+      label: I have completed this awareness training
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

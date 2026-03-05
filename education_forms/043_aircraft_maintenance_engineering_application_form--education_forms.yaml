@@ -186,8 +186,8 @@ inputSchema:
       hint: Did you serve in military
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: military_branch
@@ -288,8 +288,8 @@ inputSchema:
       hint: Can you provide references
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 33
       name: drug_screen_consent
@@ -298,7 +298,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 34
       name: background_check_consent
@@ -307,7 +307,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 35
       name: cover_letter
@@ -322,8 +322,8 @@ inputSchema:
       hint: Have you attached resume
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: applicant_signature

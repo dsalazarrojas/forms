@@ -4,52 +4,52 @@ inputSchema:
     title: publicUtilityWorkerExitOffboardingForm
     pages:
     - id: 1
-      name: exitdate
-      label: exitDate
+      name: exit_date
+      label: What is the worker's last day of employment?
       hint: null
       type: date
       options: []
       required: false
     - id: 2
-      name: exitreason
-      label: exitReason
+      name: exit_reason
+      label: What is the reason for exiting the company?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: true
     - id: 3
       name: feedback
-      label: feedback
+      label: Do you have any feedback or comments about your experience at the company?
       hint: null
       type: note
       options: []
       required: false
     - id: 4
-      name: phonenumber
-      label: phoneNumber
+      name: phone_number
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: email
-      label: email
+      label: What is your email address?
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: supervisorname
-      label: supervisorName
+      name: supervisor_name
+      label: Who is your supervisor?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: department
-      label: department
+      label: What department are you leaving?
       hint: null
       type: select_one
       options:
@@ -57,140 +57,23 @@ inputSchema:
       - 'No'
       required: true
     - id: 8
-      name: notes
-      label: notes
+      name: supervisor_comments
+      label: Do you have any supervisor comments about your exit?
       hint: null
       type: note
       options: []
       required: false
     - id: 9
-      name: employeeid
-      label: employeeId
+      name: employee_id
+      label: What is your ID number?
       hint: null
       type: number
       options: []
       required: true
     - id: 10
-      name: exitreasonoptions
-      label: exitReasonOptions
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: exitdate
-      label: exitDate
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: exitreason
-      label: exitReason
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: supervisorcomments
-      label: supervisorComments
+      name: manager_comments
+      label: Do you have any manager comments about your exit?
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 14
-      name: managercomments
-      label: managerComments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: department
-      label: department
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: employeename
-      label: employeeName
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: exitreason
-      label: exitReason
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 18
-      name: exitdate
-      label: exitDate
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 19
-      name: employeeid
-      label: employeeId
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 20
-      name: exitreason
-      label: exitReason
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: supervisorcomments
-      label: supervisorComments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: managercomments
-      label: managerComments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: exitreason
-      label: exitReason
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: employeename
-      label: employeeName
-      hint: null
-      type: text
       options: []
       required: false

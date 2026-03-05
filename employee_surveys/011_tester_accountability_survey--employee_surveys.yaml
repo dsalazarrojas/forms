@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: test_cycle_status
-      label: test_cycle_status
+      label: Test Cycle Status
       hint: null
       type: select_one
       options:
@@ -15,70 +15,99 @@ inputSchema:
       required: true
     - id: 2
       name: blockers
-      label: blockers
-      hint: List the blockers that prevented you from completing this test cycle
+      label: Blockers
+      hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: test_cycle_comments
-      label: test_cycle_comments
+      label: Test Cycle Comments
       hint: null
       type: note
       options: []
       required: true
     - id: 4
       name: self_assessed_accountability
-      label: self_assessed_accountability
+      label: Self-Assessed Accountability
       hint: null
       type: number
       options: []
       required: true
     - id: 5
       name: manager_assessed_accountability
-      label: manager_assessed_accountability
+      label: Manager-Assessed Accountability
       hint: null
       type: number
       options: []
       required: true
     - id: 6
-      name: blockers
-      label: blockers
+      name: blockers_2
+      label: Blockers 2
       hint: null
       type: select_multiple
       options:
       - blocker1
       - blocker2
       - blocker3
+      - blocker4
+      - blocker5
+      - blocker6
       required: false
     - id: 7
-      name: test_cycle_status
-      label: test_cycle_status
+      name: test_cycle_status_2
+      label: Test Cycle Status 2
       hint: null
       type: date
       options: []
       required: true
     - id: 8
-      name: test_cycle_comments
-      label: test_cycle_comments
+      name: test_cycle_comments_2
+      label: Test Cycle Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: blockers
-      label: blockers
+      name: test_cycle_status_3
+      label: Test Cycle Status 3
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - blocker4
-      - blocker5
-      - blocker6
-      required: false
+      - Test Cycle In Progress
+      - On Hold
+      - Not Started
+      required: true
     - id: 10
       name: manager_comments
-      label: manager_comments
+      label: Manager Comments
       hint: null
       type: text
       options: []
       required: true
+    - id: 11
+      name: did_the_test_cycle_meet_its_goals
+      label: Has the test cycle met its goals?
+      hint: null
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: biggest_challenges_faced_during_the_test_cycle
+      label: What were the biggest challenges faced during the test cycle?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 13
+      name: prepared_for_test_cycle
+      label: Prepared For Test Cycle
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Open'', ''value'': ''Open''}'
-      - '{''label'': ''Resolved'', ''value'': ''Resolved''}'
-      - '{''label'': ''Closed'', ''value'': ''Closed''}'
+      - Open
+      - Resolved
+      - Closed
       required: false
     - id: 9
       name: resolution_outcome
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Approved'', ''value'': ''approved''}'
-      - '{''label'': ''Denied'', ''value'': ''denied''}'
-      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Approved
+      - Denied
+      - In Progress
       required: false
     - id: 10
       name: comments

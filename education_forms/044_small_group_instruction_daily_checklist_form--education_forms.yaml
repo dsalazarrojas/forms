@@ -4,78 +4,85 @@ inputSchema:
     title: Small Group Instruction Daily Checklist Form
     pages:
     - id: 1
-      name: form_title
-      label: Small Group Instruction Daily Checklist Form
+      name: form_name
+      label: Small Group Instruction Activity Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: category
       label: Category
-      hint: null
+      hint: Select the category of the activity
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
       name: description
       label: Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: assigned_tool
       label: Assigned Tool
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: form_ids
-      label: Form Id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: category
-      label: Category
+      name: category_copy
+      label: Category Copy
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      required: true
+    - id: 6
+      name: student_progress
+      label: Student Progress
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_progress_notes
+      label: Student Progress Notes
+      hint: null
+      type: note
+      options: []
       required: false

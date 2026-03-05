@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Math''}'
-      - '{''value'': 2, ''label'': ''Science''}'
-      - '{''value'': 3, ''label'': ''History''}'
+      - Math
+      - Science
+      - History
       required: false
     - id: 3
       name: teaching_quality
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Much more than enough''}'
-      - '{''value'': 2, ''label'': ''Just enough''}'
-      - '{''value'': 3, ''label'': ''A little less than enough''}'
+      - Much more than enough
+      - Just enough
+      - A little less than enough
       required: false
     - id: 6
       name: materials_provided
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Excellent''}'
-      - '{''value'': 2, ''label'': ''Good''}'
-      - '{''value'': 3, ''label'': ''Fair''}'
-      - '{''value'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: communication
@@ -68,11 +68,11 @@ inputSchema:
       hint: How satisfied are you with your course?
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very satisfied''}'
-      - '{''value'': 2, ''label'': ''Satisfied''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Dissatisfied''}'
-      - '{''value'': 5, ''label'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
       required: false
     - id: 9
       name: comments

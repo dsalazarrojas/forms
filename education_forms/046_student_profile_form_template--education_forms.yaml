@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High school'', ''value'': ''high_school''}'
-      - '{''label'': ''Undergraduate'', ''value'': ''undergraduate''}'
-      - '{''label'': ''Graduate'', ''value'': ''graduate''}'
+      - High school
+      - Undergraduate
+      - Graduate
       required: false
     - id: 6
       name: student_course
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Science'', ''value'': ''science''}'
-      - '{''label'': ''Arts'', ''value'': ''arts''}'
-      - '{''label'': ''Humanities'', ''value'': ''humanities''}'
+      - Science
+      - Arts
+      - Humanities
       required: false
     - id: 7
       name: student_interests
@@ -71,6 +71,6 @@ inputSchema:
       hint: Parent's permission
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -1,192 +1,102 @@
 inputSchema:
   type: object
   properties:
-    title: disaster_recovery_plan_authorization_form
+    title: Disaster Recovery Plan Authorization Form
     pages:
     - id: 1
-      name: user_input
-      label: User Input
-      hint: null
+      name: organization_name
+      label: Organization Name
+      hint: Please enter the name of the organization.
       type: text
       options: []
       required: true
     - id: 2
-      name: contact_info
-      label: contact_info
-      hint: null
+      name: contact_person_name
+      label: Contact Person's Name
+      hint: Enter the name of the contact person.
       type: text
       options: []
       required: true
     - id: 3
-      name: emergency_info
-      label: emergency_info
-      hint: null
+      name: contact_person_title
+      label: Contact Person's Title
+      hint: Enter the title of the contact person.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Person's Email
+      hint: Enter the email address of the contact person.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Person's Phone
+      hint: Enter the phone number of the contact person.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_department
+      label: Contact Department
+      hint: Enter the department or role of the contact person.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact Person
+      hint: Is there an emergency contact person?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: emergency_contact_extension
+      label: Emergency Contact Extension
+      hint: Enter the extension of the emergency contact person.
       type: text
       options: []
       required: false
-    - id: 4
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: email_input
-      label: email_input
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: email_subject
-      label: email_subject
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: emergency_contact
-      label: emergency_contact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: contact_person
-      label: contact_person
-      hint: null
-      type: note
-      options: []
-      required: true
     - id: 9
-      name: contact_person_title
-      label: contact_person_title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: contact_company
-      label: contact_company
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: contact_department
-      label: contact_department
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: contact_extension
-      label: contact_extension
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: contact_title
-      label: contact_title
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: contact_role
-      label: contact_role
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: contact_level
-      label: contact_level
-      hint: null
+      name: emergency_contact_level
+      label: Contact Level
+      hint: Enter the level (high or low) of the emergency contact person.
       type: select_one
       options:
       - High
       - Low
       required: false
-    - id: 18
-      name: emergency_contact
-      label: emergency_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
+    - id: 10
       name: emergency_contact_info
-      label: emergency_contact_info
-      hint: null
+      label: Emergency Contact Information
+      hint: Enter any additional information about the emergency contact person.
       type: text
       options: []
       required: false
-    - id: 20
-      name: emergency_contact_title
-      label: emergency_contact_title
-      hint: null
+    - id: 11
+      name: authorized_to_act
+      label: Authorized to Act
+      hint: Is the contact person authorized to act on behalf of the organization?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: email_subject
+      label: Email Subject
+      hint: Enter the email subject for the disaster recovery plan.
       type: text
       options: []
-      required: false
-    - id: 21
-      name: contact
-      label: contact
-      hint: null
+      required: true
+    - id: 13
+      name: email_body
+      label: Email Body
+      hint: Enter the email body for the disaster recovery plan.
       type: text
       options: []
-      required: false
-    - id: 22
-      name: contact_email
-      label: contact_email
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contact_phone
-      label: contact_phone
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

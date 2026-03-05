@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 2
       name: quality_of_work
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Strong''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
+      - Strong
+      - Fair
+      - Poor
       required: true
     - id: 4
       name: feedback_and_comments
@@ -79,11 +79,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Quality of work''}'
-      - '{''id'': 2, ''name'': ''Time management''}'
-      - '{''id'': 3, ''name'': ''Collaboration skills''}'
-      - '{''id'': 4, ''name'': ''Adaptability''}'
-      - '{''id'': 5, ''name'': ''Communication skills''}'
+      - Quality of work
+      - Time management
+      - Collaboration skills
+      - Adaptability
+      - Communication skills
       required: true
     - id: 11
       name: collaboration_skills_1
@@ -105,10 +105,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Communication''}'
-      - '{''id'': 2, ''name'': ''Adaptability''}'
-      - '{''id'': 3, ''name'': ''Time management''}'
-      - '{''id'': 4, ''name'': ''Quality of work''}'
+      - Communication
+      - Adaptability
+      - Time management
+      - Quality of work
       required: false
     - id: 14
       name: collaboration_scale_1

@@ -4,183 +4,82 @@ inputSchema:
     title: Customer Follow Through Call
     pages:
     - id: 1
-      name: customer_follow_through_call_1
-      label: First Step
+      name: first_follow_through_call_1
+      label: Initial Contact
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: customer_follow_through_call_2
-      label: Second Step
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: customer_follow_through_call_3
-      label: Third Step
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 4
-      name: customer_follow_through_call_4
-      label: Follow Up
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 5
-      name: customer_follow_through_call_5
-      label: Call Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 6
-      name: customer_follow_through_call_6
-      label: Call Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: customer_follow_through_call_7
-      label: Call Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: customer_follow_through_call_8
-      label: Follow Up
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: customer_follow_through_call_9
-      label: Follow Up Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 10
-      name: customer_follow_through_call_10
-      label: Call Result 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: customer_follow_through_call_11
-      label: Call Reason
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: customer_follow_through_call_12
-      label: Call Time
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 13
-      name: customer_follow_through_call_13
-      label: Follow Through Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 14
-      name: customer_follow_through_call_14
-      label: Follow Through Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 15
-      name: customer_follow_through_call_15
-      label: Customer
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: customer_follow_through_call_16
-      label: Next Steps
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: customer_follow_through_call_17
-      label: Next Steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: customer_follow_through_call_18
-      label: Follow Up Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 19
-      name: customer_follow_through_call_19
-      label: Follow Up Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 20
-      name: customer_follow_through_call_20
+      name: follow_through_call_2
       label: Follow Through
       hint: null
       type: text
       options: []
       required: true
-    - id: 21
-      name: customer_follow_through_call_21
-      label: Follow Up
+    - id: 3
+      name: call_outcome_3
+      label: Call Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 4
+      name: follow_through_date_4
+      label: Date of Follow Through Call
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: follow_through_time_5
+      label: Time of Follow Through Call
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: follow_through_type_6
+      label: Follow Through Type
+      hint: null
+      type: select_one
+      options:
+      - Follow Up Call
+      - Email
+      - Phone Call
+      - Message
+      required: true
+    - id: 7
+      name: next_steps_7
+      label: Next Steps
       hint: null
       type: text
       options: []
       required: true
-    - id: 22
-      name: customer_follow_through_call_22
-      label: Follow Up
+    - id: 8
+      name: customer_response_8
+      label: Customer Response
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: customer_follow_through_call_23
-      label: Follow Up
+    - id: 9
+      name: follow_up_time_9
+      label: Follow Through Time
       hint: null
-      type: text
+      type: time
       options: []
       required: true
-    - id: 24
-      name: customer_follow_through_call_24
-      label: Follow Up
+    - id: 10
+      name: follow_up_plan_10
+      label: Follow Up Plan
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
-    - id: 25
-      name: customer_follow_through_call_25
-      label: Follow Up
-      hint: null
-      type: text
-      options: []
-      required: false

@@ -106,8 +106,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to answer
       required: false
     - id: 15
@@ -154,7 +154,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I understand
-      - false
+      - 'False'
       required: true
     - id: 20
       name: declaration_true
@@ -163,5 +163,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, true and accurate
-      - false
+      - 'False'
       required: true

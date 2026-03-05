@@ -12,172 +12,52 @@ inputSchema:
       required: false
     - id: 2
       name: favorite_dessert
-      label: Favorite dessert
+      label: Favorite Dessert
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Watermelon
+      - Brownies
+      - Ice Cream
+      required: true
     - id: 3
       name: favorite_game
-      label: Favorite game
+      label: Favorite Game
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Video Game
+      - Board Game
+      - Escape Room
+      required: true
     - id: 4
-      name: favorite_song
-      label: Favorite song
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: attended_events
       label: Attended Events
       hint: null
       type: number
       options: []
-      required: false
-    - id: 6
-      name: attended_events_1
-      label: Number of Events
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: attended_events_2
+      required: true
+    - id: 5
+      name: event_type
       label: Event Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 71, ''name'': ''Party''}'
-      - '{''id'': 72, ''name'': ''Concert''}'
-      - '{''id'': 73, ''name'': ''Festival''}'
-      required: false
-    - id: 8
+      - Party
+      - Concert
+      - Festival
+      required: true
+    - id: 6
       name: favorite_food
       label: Favorite Food
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: favorite_drink
       label: Favorite Drink
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: favorite_band
-      label: Favorite band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: favorite_band_1
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: favorite_band_2
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: favorite_band_3
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: favorite_band_4
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: favorite_band_5
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: favorite_band_6
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: favorite_band_7
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: favorite_band_8
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: favorite_band_9
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: favorite_band_10
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: favorite_band_11
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: favorite_band_12
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: favorite_band_13
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: favorite_band_14
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: favorite_band_15
-      label: Favorite Band
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

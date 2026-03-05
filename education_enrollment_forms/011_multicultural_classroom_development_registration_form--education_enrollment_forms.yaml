@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Bachelor'', ''value'': ''bachelor''}'
-      - '{''label'': ''Master'', ''value'': ''master''}'
-      - '{''label'': ''Doctoral'', ''value'': ''doctoral''}'
+      - Bachelor
+      - Master
+      - Doctoral
       required: true
     - id: 6
       name: training_interests
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Diversity'', ''value'': ''diversity''}'
-      - '{''label'': ''Classroom Management'', ''value'': ''classroom_management''}'
-      - '{''label'': ''Leadership'', ''value'': ''leadership''}'
+      - Diversity
+      - Classroom Management
+      - Leadership
       required: true
     - id: 7
       name: training_participation
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online'', ''value'': ''online''}'
-      - '{''label'': ''In-Person'', ''value'': ''in-person''}'
-      - '{''label'': ''Both'', ''value'': ''both''}'
+      - Online
+      - In-Person
+      - Both
       required: true
     - id: 8
       name: submission_date
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: additional_notes
@@ -118,9 +118,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I confirm that my submission is complete and accurate.'', ''value'':
-        ''I confirm that my submission is complete and accurate.''}'
-      - '{''label'': ''Not yet'', ''value'': ''not_yet''}'
+      - I confirm that my submission is complete and accurate.
+      - Not yet
       required: true
     - id: 16
       name: additional_comments
@@ -135,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: confirm_submission_date

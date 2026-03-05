@@ -122,7 +122,7 @@ inputSchema:
       hint: Is this in honor or memory of someone
       type: select_one
       options:
-      - false
+      - 'False'
       - In honor of
       - In memory of
       required: true
@@ -162,8 +162,8 @@ inputSchema:
       hint: Is your employer matching donations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: false
     - id: 20
@@ -204,8 +204,8 @@ inputSchema:
       hint: Is billing address same as above
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: anonymous_donation
@@ -233,8 +233,8 @@ inputSchema:
       hint: Receive updates on our work
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 28
       name: additional_comments

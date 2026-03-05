@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -97,9 +86,9 @@ inputSchema:
       hint: Temperature of 100.4F or higher
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 13
       name: onsite_cough
@@ -107,9 +96,9 @@ inputSchema:
       hint: New or persistent cough
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 14
       name: onsite_shortness_of_breath
@@ -117,9 +106,9 @@ inputSchema:
       hint: Difficulty breathing
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 15
       name: onsite_loss_of_taste_smell
@@ -127,9 +116,9 @@ inputSchema:
       hint: New loss of taste or smell
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 16
       name: onsite_other_symptoms
@@ -137,9 +126,9 @@ inputSchema:
       hint: Any other symptoms like body aches, headache
       type: select_one
       options:
-        - No other symptoms
-        - Yes, have other symptoms
-        - Unsure
+      - No other symptoms
+      - Yes, have other symptoms
+      - Unsure
       required: true
     - id: 17
       name: onsite_covid_exposure_header
@@ -154,9 +143,9 @@ inputSchema:
       hint: Contact in last 14 days with someone positive
       type: select_one
       options:
-        - No close contact
-        - Yes, close contact
-        - Unsure
+      - No close contact
+      - Yes, close contact
+      - Unsure
       required: true
     - id: 19
       name: onsite_positive_test
@@ -164,9 +153,9 @@ inputSchema:
       hint: Recent positive COVID-19 test
       type: select_one
       options:
-        - No positive test
-        - Yes, tested positive
-        - Unsure
+      - No positive test
+      - Yes, tested positive
+      - Unsure
       required: true
     - id: 20
       name: onsite_positive_test_date
@@ -188,11 +177,11 @@ inputSchema:
       hint: Your vaccination status
       type: select_one
       options:
-        - Fully vaccinated and boosted
-        - Fully vaccinated, not boosted
-        - Partially vaccinated
-        - Not vaccinated
-        - Prefer not to disclose
+      - Fully vaccinated and boosted
+      - Fully vaccinated, not boosted
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
       required: true
     - id: 23
       name: onsite_screening_result_header
@@ -207,9 +196,9 @@ inputSchema:
       hint: Based on screening questions
       type: select_one
       options:
-        - Yes, approved to attend
-        - No, not approved to attend
-        - Conditional approval pending review
+      - Yes, approved to attend
+      - No, not approved to attend
+      - Conditional approval pending review
       required: true
     - id: 25
       name: onsite_screening_date

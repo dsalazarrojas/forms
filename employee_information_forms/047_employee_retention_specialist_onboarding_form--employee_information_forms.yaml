@@ -23,9 +23,9 @@ inputSchema:
       hint: Select department
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Sales''}'
-      - '{''value'': 2, ''label'': ''Marketing''}'
-      - '{''value'': 3, ''label'': ''IT''}'
+      - Sales
+      - Marketing
+      - IT
       required: false
     - id: 4
       name: job_title
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Bob''}'
-      - '{''value'': 2, ''label'': ''Alice''}'
+      - Bob
+      - Alice
       required: false
     - id: 11
       name: reporting_manager_name
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active'', ''label'': ''Active''}'
-      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 15
       name: manager_notes
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''completed'', ''label'': ''Completed''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Completed
+      - Pending
       required: false
     - id: 17
       name: employee_retention_specialist_id

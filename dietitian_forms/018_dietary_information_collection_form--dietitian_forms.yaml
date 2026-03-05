@@ -16,10 +16,10 @@ inputSchema:
       hint: Choose your preferred foods
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Vegetarian'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Non-Vegetarian'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Vegan'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': 4}'
+      - Vegetarian
+      - Non-Vegetarian
+      - Vegan
+      - Other
       required: true
     - id: 3
       name: dietary_information_collection_form_foods_intake_form
@@ -76,11 +76,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Lactose intolerance'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Gluten-free'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Low-Fat'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': 5}'
+      - None
+      - Lactose intolerance
+      - Gluten-free
+      - Low-Fat
+      - Other
       required: false
     - id: 11
       name: dietary_information_collection_form_dietary_restrictions_1

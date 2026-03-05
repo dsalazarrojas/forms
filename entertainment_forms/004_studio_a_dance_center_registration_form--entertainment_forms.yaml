@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full'', ''value'': ''Full''}'
-      - '{''label'': ''Drop-in'', ''value'': ''Drop-in''}'
-      - '{''label'': ''Session'', ''value'': ''Session''}'
+      - Full
+      - Drop-in
+      - Session
       required: false
     - id: 11
       name: payment_method
@@ -82,11 +82,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Visa'', ''value'': ''Visa''}'
-      - '{''label'': ''Mastercard'', ''value'': ''Mastercard''}'
-      - '{''label'': ''Amex'', ''value'': ''Amex''}'
-      - '{''label'': ''Discover'', ''value'': ''Discover''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Other
       required: false
     - id: 12
       name: notes
@@ -101,10 +101,10 @@ inputSchema:
       hint: Select from dropdown list
       type: select_one
       options:
-      - '{''label'': ''Full Time'', ''value'': ''full-time''}'
-      - '{''label'': ''Part Time'', ''value'': ''part-time''}'
-      - '{''label'': ''Private'', ''value'': ''private''}'
-      - '{''label'': ''Trial'', ''value'': ''trial''}'
+      - Full Time
+      - Part Time
+      - Private
+      - Trial
       required: false
     - id: 14
       name: class_level
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Beginner'', ''value'': ''beginner''}'
-      - '{''label'': ''Intermediate'', ''value'': ''intermediate''}'
-      - '{''label'': ''Advanced'', ''value'': ''advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 15
       name: dance_style
@@ -122,10 +122,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Ballet'', ''value'': ''ballet''}'
-      - '{''label'': ''Jazz'', ''value'': ''jazz''}'
-      - '{''label'': ''Tap'', ''value'': ''tap''}'
-      - '{''label'': ''Hip Hop'', ''value'': ''hip-hop''}'
+      - Ballet
+      - Jazz
+      - Tap
+      - Hip Hop
       required: false
     - id: 16
       name: emergency_contact_relationship
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Paid'', ''value'': ''paid''}'
-      - '{''label'': ''Unpaid'', ''value'': ''unpaid''}'
-      - '{''label'': ''Partially Paid'', ''value'': ''partially-paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: false
     - id: 20
       name: class_status
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active'', ''value'': ''active''}'
-      - '{''label'': ''Pending'', ''value'': ''pending''}'
-      - '{''label'': ''Canceled'', ''value'': ''canceled''}'
+      - Active
+      - Pending
+      - Canceled
       required: false
     - id: 21
       name: student_id

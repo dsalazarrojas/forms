@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undisclosed''}'
+      - 'True'
+      - 'False'
+      - Undisclosed
       required: true
     - id: 3
       name: health_goals
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Lose weight''}'
-      - '{''label'': ''Manage blood sugar''}'
-      - '{''label'': ''Improve gut health''}'
-      - '{''label'': ''Other''}'
+      - Lose weight
+      - Manage blood sugar
+      - Improve gut health
+      - Other
       required: false
     - id: 4
       name: food_intake
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Omnivore''}'
-      - '{''label'': ''Vegetarian''}'
-      - '{''label'': ''Vegan''}'
-      - '{''label'': ''Raw food''}'
+      - Omnivore
+      - Vegetarian
+      - Vegan
+      - Raw food
       required: false
     - id: 5
       name: supplements

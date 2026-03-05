@@ -1,393 +1,382 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chores And Vocabulary Quiz
     pages:
-      - id: 1
-        name: student_information
-        label: Student Information
-        hint: Your details
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Your Name
-        hint: First and last
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: grade_level
-        label: Grade Level
-        hint: null
-        type: select_one
-        options:
-          - Kindergarten
-          - 1st Grade
-          - 2nd Grade
-          - 3rd Grade
-          - 4th Grade
-          - 5th Grade
-          - 6th Grade
-          - 7th Grade
-          - 8th Grade
-        required: true
-      - id: 4
-        name: teacher_name
-        label: Teacher Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: quiz_date
-        label: Quiz Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: quiz_instructions
-        label: Quiz Instructions
-        hint: Read each question carefully
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: question_1
-        label: Question 1 - What does it mean to sweep the floor
-        hint: null
-        type: select_one
-        options:
-          - To clean with a broom
-          - To wash with water
-          - To vacuum
-          - To dust
-        required: true
-      - id: 8
-        name: question_2
-        label: Question 2 - Which chore involves using soap and water
-        hint: null
-        type: select_one
-        options:
-          - Washing dishes
-          - Folding laundry
-          - Making the bed
-          - Taking out trash
-        required: true
-      - id: 9
-        name: question_3
-        label: Question 3 - What is another word for tidying up
-        hint: null
-        type: select_one
-        options:
-          - Organizing
-          - Breaking
-          - Hiding
-          - Ignoring
-        required: true
-      - id: 10
-        name: question_4
-        label: Question 4 - Where do you put dirty clothes
-        hint: null
-        type: select_one
-        options:
-          - Laundry basket
-          - Floor
-          - Kitchen
-          - Bathroom sink
-        required: true
-      - id: 11
-        name: question_5
-        label: Question 5 - What do you use to vacuum
-        hint: null
-        type: select_one
-        options:
-          - Vacuum cleaner
-          - Broom
-          - Mop
-          - Sponge
-        required: true
-      - id: 12
-        name: question_6
-        label: Question 6 - What does dusting mean
-        hint: null
-        type: select_one
-        options:
-          - Removing dirt from surfaces
-          - Adding dirt to surfaces
-          - Washing with water
-          - Throwing things away
-        required: true
-      - id: 13
-        name: question_7
-        label: Question 7 - Which chore comes first
-        hint: null
-        type: select_one
-        options:
-          - Wash dishes, then dry them
-          - Dry dishes, then wash them
-          - Put away dishes, then wash them
-          - Eat off dishes, then put away
-        required: true
-      - id: 14
-        name: question_8
-        label: Question 8 - What is a synonym for garbage
-        hint: null
-        type: select_one
-        options:
-          - Trash
-          - Treasure
-          - Toys
-          - Books
-        required: true
-      - id: 15
-        name: question_9
-        label: Question 9 - What do you do with recyclables
-        hint: null
-        type: select_one
-        options:
-          - Put in recycling bin
-          - Throw in trash
-          - Leave on floor
-          - Burn them
-        required: true
-      - id: 16
-        name: question_10
-        label: Question 10 - What does to organize mean
-        hint: null
-        type: select_one
-        options:
-          - To arrange neatly
-          - To scatter around
-          - To hide
-          - To throw away
-        required: true
-      - id: 17
-        name: question_11
-        label: Question 11 - Which is a bedroom chore
-        hint: null
-        type: select_one
-        options:
-          - Making the bed
-          - Washing the car
-          - Mowing the lawn
-          - Cleaning the garage
-        required: true
-      - id: 18
-        name: question_12
-        label: Question 12 - What do you need to mop the floor
-        hint: null
-        type: select_one
-        options:
-          - Mop and bucket
-          - Broom only
-          - Vacuum
-          - Duster
-        required: true
-      - id: 19
-        name: question_13
-        label: Question 13 - What does scrub mean
-        hint: null
-        type: select_one
-        options:
-          - To clean by rubbing hard
-          - To wipe gently
-          - To sweep
-          - To dry
-        required: true
-      - id: 20
-        name: question_14
-        label: Question 14 - Which chore is done outside
-        hint: null
-        type: select_one
-        options:
-          - Raking leaves
-          - Washing dishes
-          - Folding laundry
-          - Dusting shelves
-        required: true
-      - id: 21
-        name: question_15
-        label: Question 15 - What is a household
-        hint: null
-        type: select_one
-        options:
-          - A home and the people in it
-          - A type of pet
-          - A kind of food
-          - A school subject
-        required: true
-      - id: 22
-        name: question_16
-        label: Question 16 - Match the word - Laundry
-        hint: null
-        type: select_one
-        options:
-          - Washing clothes
-          - Washing dishes
-          - Cleaning windows
-          - Sweeping floors
-        required: true
-      - id: 23
-        name: question_17
-        label: Question 17 - Match the word - Errands
-        hint: null
-        type: select_one
-        options:
-          - Short trips to do tasks
-          - Long vacations
-          - Playing games
-          - Sleeping
-        required: true
-      - id: 24
-        name: question_18
-        label: Question 18 - What does responsibility mean
-        hint: null
-        type: select_one
-        options:
-          - Something you are in charge of
-          - Something you avoid
-          - A type of game
-          - A food item
-        required: true
-      - id: 25
-        name: question_19
-        label: Question 19 - Which word means very clean
-        hint: null
-        type: select_one
-        options:
-          - Spotless
-          - Dirty
-          - Messy
-          - Cluttered
-        required: true
-      - id: 26
-        name: question_20
-        label: Question 20 - What is a routine
-        hint: null
-        type: select_one
-        options:
-          - A regular way of doing things
-          - A special occasion
-          - A type of dance
-          - A food recipe
-        required: true
-      - id: 27
-        name: bonus_question
-        label: Bonus Question - Name three kitchen chores
-        hint: Write your answer
-        type: text
-        options: []
-        required: false
-      - id: 28
-        name: self_assessment
-        label: Self-Assessment
-        hint: How you did
-        type: note
-        options: []
-        required: false
-      - id: 29
-        name: confidence_level
-        label: How confident are you about chore vocabulary
-        hint: null
-        type: select_one
-        options:
-          - Very confident
-          - Confident
-          - Somewhat confident
-          - Not confident
-        required: true
-      - id: 30
-        name: difficulty_rating
-        label: How difficult was this quiz
-        hint: null
-        type: select_one
-        options:
-          - Very easy
-          - Easy
-          - Moderate
-          - Difficult
-          - Very difficult
-        required: true
-      - id: 31
-        name: chores_at_home
-        label: Chores At Home
-        hint: Your experience
-        type: note
-        options: []
-        required: false
-      - id: 32
-        name: do_chores_at_home
-        label: Do you do chores at home
-        hint: null
-        type: select_one
-        options:
-          - Yes, many
-          - Yes, some
-          - Yes, a few
-          - No
-        required: true
-      - id: 33
-        name: favorite_chore
-        label: What is your favorite chore
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 34
-        name: least_favorite_chore
-        label: What is your least favorite chore
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 35
-        name: want_to_learn
-        label: Are there chores you want to learn
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 36
-        name: which_chores
-        label: Which chores do you want to learn
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 37
-        name: additional_comments
-        label: Additional Comments
-        hint: Anything else
-        type: text
-        options: []
-        required: false
-      - id: 38
-        name: student_signature
-        label: Student Signature
-        hint: Your name
-        type: text
-        options: []
-        required: true
-      - id: 39
-        name: quiz_completion_date
-        label: Quiz Completion Date
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Your Name
+      hint: First and last
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: quiz_instructions
+      label: Quiz Instructions
+      hint: Read each question carefully
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      label: Question 1 - What does it mean to sweep the floor
+      hint: null
+      type: select_one
+      options:
+      - To clean with a broom
+      - To wash with water
+      - To vacuum
+      - To dust
+      required: true
+    - id: 8
+      name: question_2
+      label: Question 2 - Which chore involves using soap and water
+      hint: null
+      type: select_one
+      options:
+      - Washing dishes
+      - Folding laundry
+      - Making the bed
+      - Taking out trash
+      required: true
+    - id: 9
+      name: question_3
+      label: Question 3 - What is another word for tidying up
+      hint: null
+      type: select_one
+      options:
+      - Organizing
+      - Breaking
+      - Hiding
+      - Ignoring
+      required: true
+    - id: 10
+      name: question_4
+      label: Question 4 - Where do you put dirty clothes
+      hint: null
+      type: select_one
+      options:
+      - Laundry basket
+      - Floor
+      - Kitchen
+      - Bathroom sink
+      required: true
+    - id: 11
+      name: question_5
+      label: Question 5 - What do you use to vacuum
+      hint: null
+      type: select_one
+      options:
+      - Vacuum cleaner
+      - Broom
+      - Mop
+      - Sponge
+      required: true
+    - id: 12
+      name: question_6
+      label: Question 6 - What does dusting mean
+      hint: null
+      type: select_one
+      options:
+      - Removing dirt from surfaces
+      - Adding dirt to surfaces
+      - Washing with water
+      - Throwing things away
+      required: true
+    - id: 13
+      name: question_7
+      label: Question 7 - Which chore comes first
+      hint: null
+      type: select_one
+      options:
+      - Wash dishes, then dry them
+      - Dry dishes, then wash them
+      - Put away dishes, then wash them
+      - Eat off dishes, then put away
+      required: true
+    - id: 14
+      name: question_8
+      label: Question 8 - What is a synonym for garbage
+      hint: null
+      type: select_one
+      options:
+      - Trash
+      - Treasure
+      - Toys
+      - Books
+      required: true
+    - id: 15
+      name: question_9
+      label: Question 9 - What do you do with recyclables
+      hint: null
+      type: select_one
+      options:
+      - Put in recycling bin
+      - Throw in trash
+      - Leave on floor
+      - Burn them
+      required: true
+    - id: 16
+      name: question_10
+      label: Question 10 - What does to organize mean
+      hint: null
+      type: select_one
+      options:
+      - To arrange neatly
+      - To scatter around
+      - To hide
+      - To throw away
+      required: true
+    - id: 17
+      name: question_11
+      label: Question 11 - Which is a bedroom chore
+      hint: null
+      type: select_one
+      options:
+      - Making the bed
+      - Washing the car
+      - Mowing the lawn
+      - Cleaning the garage
+      required: true
+    - id: 18
+      name: question_12
+      label: Question 12 - What do you need to mop the floor
+      hint: null
+      type: select_one
+      options:
+      - Mop and bucket
+      - Broom only
+      - Vacuum
+      - Duster
+      required: true
+    - id: 19
+      name: question_13
+      label: Question 13 - What does scrub mean
+      hint: null
+      type: select_one
+      options:
+      - To clean by rubbing hard
+      - To wipe gently
+      - To sweep
+      - To dry
+      required: true
+    - id: 20
+      name: question_14
+      label: Question 14 - Which chore is done outside
+      hint: null
+      type: select_one
+      options:
+      - Raking leaves
+      - Washing dishes
+      - Folding laundry
+      - Dusting shelves
+      required: true
+    - id: 21
+      name: question_15
+      label: Question 15 - What is a household
+      hint: null
+      type: select_one
+      options:
+      - A home and the people in it
+      - A type of pet
+      - A kind of food
+      - A school subject
+      required: true
+    - id: 22
+      name: question_16
+      label: Question 16 - Match the word - Laundry
+      hint: null
+      type: select_one
+      options:
+      - Washing clothes
+      - Washing dishes
+      - Cleaning windows
+      - Sweeping floors
+      required: true
+    - id: 23
+      name: question_17
+      label: Question 17 - Match the word - Errands
+      hint: null
+      type: select_one
+      options:
+      - Short trips to do tasks
+      - Long vacations
+      - Playing games
+      - Sleeping
+      required: true
+    - id: 24
+      name: question_18
+      label: Question 18 - What does responsibility mean
+      hint: null
+      type: select_one
+      options:
+      - Something you are in charge of
+      - Something you avoid
+      - A type of game
+      - A food item
+      required: true
+    - id: 25
+      name: question_19
+      label: Question 19 - Which word means very clean
+      hint: null
+      type: select_one
+      options:
+      - Spotless
+      - Dirty
+      - Messy
+      - Cluttered
+      required: true
+    - id: 26
+      name: question_20
+      label: Question 20 - What is a routine
+      hint: null
+      type: select_one
+      options:
+      - A regular way of doing things
+      - A special occasion
+      - A type of dance
+      - A food recipe
+      required: true
+    - id: 27
+      name: bonus_question
+      label: Bonus Question - Name three kitchen chores
+      hint: Write your answer
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: self_assessment
+      label: Self-Assessment
+      hint: How you did
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: confidence_level
+      label: How confident are you about chore vocabulary
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      required: true
+    - id: 30
+      name: difficulty_rating
+      label: How difficult was this quiz
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 31
+      name: chores_at_home
+      label: Chores At Home
+      hint: Your experience
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: do_chores_at_home
+      label: Do you do chores at home
+      hint: null
+      type: select_one
+      options:
+      - Yes, many
+      - Yes, some
+      - Yes, a few
+      - 'False'
+      required: true
+    - id: 33
+      name: favorite_chore
+      label: What is your favorite chore
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: least_favorite_chore
+      label: What is your least favorite chore
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: want_to_learn
+      label: Are there chores you want to learn
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 36
+      name: which_chores
+      label: Which chores do you want to learn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: student_signature
+      label: Student Signature
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: quiz_completion_date
+      label: Quiz Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

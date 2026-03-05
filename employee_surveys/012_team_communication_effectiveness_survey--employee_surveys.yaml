@@ -4,191 +4,70 @@ inputSchema:
     title: Team Communication Effectiveness Survey
     pages:
     - id: 1
-      name: team_communication_effectiveness_survey_1
-      label: Team Member
+      name: page_1
+      label: How frequently do you receive feedback from your team members?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
     - id: 2
-      name: team_communication_effectiveness_survey_2
-      label: Collaboration
+      name: page_2
+      label: What type of feedback do you usually receive from your team members?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Constructive
+      - None
+      required: true
     - id: 3
-      name: team_communication_effectiveness_survey_3
-      label: Frequency of Feedback
+      name: page_3
+      label: How often do you give feedback to your team members?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
     - id: 4
-      name: team_communication_effectiveness_survey_4
-      label: Team Feedback
-      hint: Please provide your feedback
-      type: text
-      options: []
-      required: false
+      name: page_4
+      label: How would you rate the quality of feedback you receive from your team
+        members?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
     - id: 5
-      name: team_communication_effectiveness_survey_5
-      label: Team Feedback
-      hint: Please provide your feedback
-      type: select_multiple
+      name: page_5
+      label: How would you rate the quality of feedback you give to your team members?
+      hint: null
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - High
+      - Medium
+      - Low
+      required: true
     - id: 6
-      name: team_communication_effectiveness_survey_6
-      label: Team Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: team_communication_effectiveness_survey_7
-      label: Team Feedback
-      hint: Please provide your feedback
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: team_communication_effectiveness_survey_8
-      label: Communication
+      name: page_6
+      label: How satisfied are you with the communication style of your team leader?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: team_communication_effectiveness_survey_9
-      label: Communication
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: team_communication_effectiveness_survey_10
-      label: Communication
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: team_communication_effectiveness_survey_11
-      label: Communication
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: team_communication_effectiveness_survey_12
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: team_communication_effectiveness_survey_13
-      label: Communication
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: team_communication_effectiveness_survey_14
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: team_communication_effectiveness_survey_15
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: team_communication_effectiveness_survey_16
-      label: Communication
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: team_communication_effectiveness_survey_17
-      label: Communication
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: team_communication_effectiveness_survey_18
-      label: Communication
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: team_communication_effectiveness_survey_19
-      label: Communication
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: team_communication_effectiveness_survey_20
-      label: Communication
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: team_communication_effectiveness_survey_21
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: team_communication_effectiveness_survey_22
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: team_communication_effectiveness_survey_23
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: team_communication_effectiveness_survey_24
-      label: Team Feedback
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: team_communication_effectiveness_survey_25
-      label: Team Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

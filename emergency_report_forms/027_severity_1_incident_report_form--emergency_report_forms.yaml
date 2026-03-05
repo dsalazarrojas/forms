@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''name'': ''Low'', ''value'': ''low''}'
+      - high
+      - medium
+      - low
       required: true
     - id: 6
       name: incident_respondent
@@ -58,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''IT'', ''value'': ''it''}'
-      - '{''id'': 2, ''name'': ''Operations'', ''value'': ''operations''}'
-      - '{''id'': 3, ''name'': ''Management'', ''value'': ''management''}'
+      - it
+      - operations
+      - management
       required: true
     - id: 7
       name: incident_severity
@@ -68,10 +57,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Critical'', ''value'': ''critical''}'
-      - '{''id'': 2, ''name'': ''High'', ''value'': ''high''}'
-      - '{''id'': 3, ''name'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 4, ''name'': ''Low'', ''value'': ''low''}'
+      - critical
+      - high
+      - medium
+      - low
       required: true
     - id: 8
       name: incident_status
@@ -79,10 +68,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Open'', ''value'': ''open''}'
-      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''in_progress''}'
-      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''closed''}'
-      - '{''id'': 4, ''name'': ''Reopened'', ''value'': ''reopened''}'
+      - open
+      - in progress
+      - closed
+      - reopened
       required: true
     - id: 9
       name: incident_reporter
@@ -132,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Fixed'', ''value'': ''fixed''}'
-      - '{''id'': 2, ''name'': ''Not Fixed'', ''value'': ''not_fixed''}'
+      - fixed
+      - not fixed
       required: true
     - id: 16
       name: incident_reopened_by
@@ -141,9 +130,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''IT'', ''value'': ''it''}'
-      - '{''id'': 2, ''name'': ''Operations'', ''value'': ''operations''}'
-      - '{''id'': 3, ''name'': ''Management'', ''value'': ''management''}'
+      - it
+      - operations
+      - management
       required: false
     - id: 17
       name: incident_closed_at
@@ -200,9 +189,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''IT'', ''value'': ''it''}'
-      - '{''id'': 2, ''name'': ''Operations'', ''value'': ''operations''}'
-      - '{''id'': 3, ''name'': ''Management'', ''value'': ''management''}'
+      - it
+      - operations
+      - management
       required: false
     - id: 25
       name: incident_close_reason

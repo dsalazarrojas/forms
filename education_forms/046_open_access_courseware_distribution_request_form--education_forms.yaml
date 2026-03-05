@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [{''name'': ''Student''}, ''Student'', ''Student'', ''Student'']}'
-      - '{''options'': [{''name'': ''Faculty''}, ''Faculty'', ''Faculty'', ''Faculty'']}'
-      - '{''options'': [{''name'': ''Staff''}, ''Staff'', ''Staff'', ''Staff'']}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 12
       name: select_multiple_what_career
@@ -89,10 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': [{''name'': ''Department 1''}, ''Department 1'', ''Department
-        1'', ''Department 1'', ''Department 1'']}'
-      - '{''options'': [{''name'': ''Department 2''}, ''Department 2'', ''Department
-        2'', ''Department 2'', ''Department 2'']}'
+      - Option 1
+      - Option 2
       required: false
     - id: 13
       name: date_of_birth_day
@@ -117,21 +115,21 @@ inputSchema:
       required: true
     - id: 16
       name: date_of_request_day
-      label: Day
+      label: Date Of Request Day
       hint: null
       type: number
       options: []
       required: true
     - id: 17
       name: date_of_request_month
-      label: Month
+      label: Date Of Request Month
       hint: null
       type: number
       options: []
       required: true
     - id: 18
       name: date_of_request_year
-      label: Year
+      label: Date Of Request Year
       hint: null
       type: number
       options: []
@@ -149,11 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [{''name'': ''Course Material''}, ''Course Material'', ''Course
-        Material'', ''Course Material'']}'
-      - '{''options'': [{''name'': ''Courseware''}, ''Courseware'', ''Courseware'',
-        ''Courseware'']}'
-      - '{''options'': [{''name'': ''Other''}, ''Other'', ''Other'', ''Other'']}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 21
       name: select_multiple_request_what_for
@@ -161,10 +157,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''options'': [{''name'': ''Self Use''}, ''Self Use'', ''Self Use'', ''Self
-        Use'', ''Self Use'']}'
-      - '{''options'': [{''name'': ''Teaching and Learning''}, ''Teaching and Learning'',
-        ''Teaching and Learning'', ''Teaching and Learning'', ''Teaching and Learning'']}'
+      - Option 1
+      - Option 2
       required: false
     - id: 22
       name: date_range_start

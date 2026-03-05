@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employed''}'
-      - '{''label'': ''Not Employed''}'
+      - Employed
+      - Not Employed
       required: false
     - id: 2
       name: program_outcome_data
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Full-time prophets of the company''}'
-      - '{''label'': ''Part-time prophets of the company''}'
-      - '{''label'': ''Other''}'
+      - Full-time prophets of the company
+      - Part-time prophets of the company
+      - Other
       required: false
     - id: 4
       name: employment_rate
@@ -42,11 +42,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Less than 5%''}'
-      - '{''label'': ''5-20%''}'
-      - '{''label'': ''21-50%''}'
-      - '{''label'': ''51-80%''}'
-      - '{''label'': ''More than 80%''}'
+      - Less than 5%
+      - 5-20%
+      - 21-50%
+      - 51-80%
+      - More than 80%
       required: false
     - id: 6
       name: notes

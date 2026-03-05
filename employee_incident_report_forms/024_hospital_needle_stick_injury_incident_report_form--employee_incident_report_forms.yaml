@@ -9,199 +9,15 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
-    - id: 2
-      name: incident_time
-      label: Incident Time
-      hint: null
-      type: time
-      options: []
       required: true
-    - id: 3
+    - id: 2
       name: incident_location
       label: Incident Location
       hint: null
       type: text
       options: []
       required: true
-    - id: 4
-      name: incident_description
-      label: Incident Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: sharps_used
-      label: Sharps Used
-      hint: null
-      type: select_one
-      options:
-      - 10-Gauge  10
-      - 13-Gauge  13
-      - 14-Gauge  14
-      - 16-Gauge  16
-      - 18-Gauge  18
-      - 20-Gauge  20
-      - 22-Gauge  22
-      - 23-Gauge  23
-      - 25-Gauge  25
-      - 26-Gauge  26
-      - 27-Gauge  27
-      - 28-Gauge  28
-      - 30-Gauge  30
-      - 31-Gauge  31
-      - 32-Gauge  32
-      - 33-Gauge  33
-      - 34-Gauge  34
-      - 35-Gauge  35
-      - 36-Gauge  36
-      - 37-Gauge  37
-      - 38-Gauge  38
-      - 40-Gauge  40
-      - 41-Gauge  41
-      - 42-Gauge  42
-      - 43-Gauge  43
-      - 45-Gauge  45
-      - 47-Gauge  47
-      - 48-Gauge  48
-      - 50-Gauge  50
-      - 51-Gauge  51
-      - 52-Gauge  52
-      - 53-Gauge  53
-      - 55-Gauge  55
-      - 59-Gauge  59
-      - 60-Gauge  60
-      - 61-Gauge  61
-      - 62-Gauge  62
-      - 65-Gauge  65
-      - 67-Gauge  67
-      - 70-Gauge  70
-      - 72-Gauge  72
-      - 73-Gauge  73
-      - 75-Gauge  75
-      required: true
-    - id: 6
-      name: sharps_description
-      label: Sharps Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: needle_stick_injury_description
-      label: Needle Stick Injury Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: sharps_used_other
-      label: Sharps Used Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: sharps_used_other_description
-      label: Sharps Used Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: sharps_used_other_other
-      label: Sharps Used Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: sharps_used_other_other_description
-      label: Sharps Used Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: sharps_dose
-      label: Sharps Dose
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: sharps_dose_description
-      label: Sharps Dose Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: sharps_dose_administered_by
-      label: Sharps Dose Administered By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: sharps_dose_administered_to
-      label: Sharps Dose Administered To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: sharps_dose_unit
-      label: Sharps Dose Unit
-      hint: null
-      type: select_one
-      options:
-      - cc
-      - ccm
-      - cu
-      - cu
-      required: true
-    - id: 17
-      name: sharps_dose_administered_by_description
-      label: Sharps Dose Administered By Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: sharps_dose_administered_to_description
-      label: Sharps Dose Administered To Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: sharps_number
-      label: Sharps Number
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: sharps_total_number
-      label: Sharps Total Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: sharps_total_number_description
-      label: Sharps Total Number Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+    - id: 3
       name: sharps_injury_type
       label: Sharps Injury Type
       hint: Please select one option.
@@ -215,42 +31,65 @@ inputSchema:
       - Bone/ Joint
       - Other
       required: true
-    - id: 23
-      name: sharps_injury_type_other
-      label: Sharps Injury Type Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+    - id: 4
       name: sharps_injury_location
       label: Sharps Injury Location
       hint: null
       type: text
       options: []
       required: true
-    - id: 25
-      name: sharps_injury_location_description
-      label: Sharps Injury Location Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
+    - id: 5
       name: sharps_injury_description
       label: Sharps Injury Description
       hint: null
       type: text
       options: []
       required: true
-    - id: 27
-      name: sharps_injury_description_location
-      label: Sharps Injury Description Location
+    - id: 6
+      name: sharps_number
+      label: Sharps Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sharps_total_number
+      label: Sharps Total Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 28
+    - id: 8
+      name: sharps_safety_precautions
+      label: Sharps Safety Precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sharps_precautions_immediate_action
+      label: Sharps Precautions Immediate Action
+      hint: Please select one option.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: sharps_precautions_immediate_action_description
+      label: Sharps Precautions Immediate Action Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sharps_precautions_long_term_action
+      label: Sharps Precautions Long Term Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
       name: sharps_injury_location_type
       label: Sharps Injury Location Type
       hint: Please select one option.
@@ -260,544 +99,55 @@ inputSchema:
       - Right
       - Back
       - Front
-      - Back
-      - Front
       - Top
       - Bottom
       - Side
       required: true
-    - id: 29
-      name: sharps_injury_location_type_other
-      label: Sharps Injury Location Type Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
+    - id: 13
       name: sharps_injury_date
       label: Sharps Injury Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 31
+    - id: 14
       name: sharps_injury_time
       label: Sharps Injury Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 32
+    - id: 15
       name: sharps_injury_location_description
       label: Sharps Injury Location Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 33
-      name: sharps_safety_precautions
-      label: Sharps Safety Precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
+    - id: 16
       name: sharps_safety_precautions_description
       label: Sharps Safety Precautions Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 35
-      name: sharps_precautions_immediate_action
-      label: Sharps Precautions Immediate Action
+    - id: 17
+      name: sharps_safety_precautions_other
+      label: Sharps Safety Precautions Other
       hint: null
       type: text
       options: []
       required: false
-    - id: 36
-      name: sharps_precautions_immediate_action_description
-      label: Sharps Precautions Immediate Action Description
+    - id: 18
+      name: sharps_safety_precautions_immediate_description
+      label: Sharps Safety Precautions Immediate Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 37
-      name: sharps_precautions_immediate_action_taken
-      label: Sharps Precautions Immediate Action Taken
-      hint: Please select one option.
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 38
-      name: sharps_precautions_immediate_action_taken_description
-      label: Sharps Precautions Immediate Action Taken Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: sharps_precautions_long_term_action
-      label: Sharps Precautions Long Term Action
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: sharps_precautions_long_term_action_description
-      label: Sharps Precautions Long Term Action Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: sharps_precautions_long_term_action_taken
-      label: Sharps Precautions Long Term Action Taken
-      hint: Please select one option.
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 42
-      name: sharps_precautions_long_term_action_taken_description
-      label: Sharps Precautions Long Term Action Taken Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: sharps_precautions_other
-      label: Sharps Precautions Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: sharps_precautions_other_description
-      label: Sharps Precautions Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: sharps_precautions_other_other
-      label: Sharps Precautions Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 46
-      name: sharps_precautions_other_other_description
-      label: Sharps Precautions Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: sharps_precautions_other_other_other
-      label: Sharps Precautions Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: sharps_safety_precautions
-      label: Sharps Safety Precautions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: sharps_safety_precautions_description
-      label: Sharps Safety Precautions Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: sharps_safety_precautions_administered_to
-      label: Sharps Safety Precautions Administered To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 51
-      name: sharps_safety_precautions_administered_to_description
-      label: Sharps Safety Precautions Administered To Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 52
-      name: sharps_safety_precautions_administered_by
-      label: Sharps Safety Precautions Administered By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: sharps_safety_precautions_administered_by_description
-      label: Sharps Safety Precautions Administered By Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: sharps_safety_precautions_administered_by_other
-      label: Sharps Safety Precautions Administered By Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 55
-      name: sharps_safety_precautions_administered_by_other_description
-      label: Sharps Safety Precautions Administered By Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: sharps_safety_precautions_administered_by_other_other
-      label: Sharps Safety Precautions Administered By Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 57
-      name: sharps_safety_precautions_administered_by_other_other_description
-      label: Sharps Safety Precautions Administered By Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: sharps_safety_precautions_administered_by_other_other_other
-      label: Sharps Safety Precautions Administered By Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 59
-      name: sharps_safety_precautions_administered_to_other
-      label: Sharps Safety Precautions Administered To Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 60
-      name: sharps_safety_precautions_administered_to_other_description
-      label: Sharps Safety Precautions Administered To Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 61
-      name: sharps_safety_precautions_administered_to_other_other
-      label: Sharps Safety Precautions Administered To Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 62
-      name: sharps_safety_precautions_administered_to_other_other_description
-      label: Sharps Safety Precautions Administered To Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 63
-      name: sharps_safety_precautions_other_administered_to
-      label: Sharps Safety Precautions Other Administered To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 64
-      name: sharps_safety_precautions_other_administered_to_description
-      label: Sharps Safety Precautions Other Administered To Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 65
-      name: sharps_safety_precautions_other_administered_by
-      label: Sharps Safety Precautions Other Administered By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 66
-      name: sharps_safety_precautions_other_administered_by_description
-      label: Sharps Safety Precautions Other Administered By Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 67
-      name: sharps_safety_precautions_other_administered_by_other
-      label: Sharps Safety Precautions Other Administered By Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 68
-      name: sharps_safety_precautions_other_administered_by_other_description
-      label: Sharps Safety Precautions Other Administered By Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 69
-      name: sharps_safety_precautions_other_administered_by_other_other
-      label: Sharps Safety Precautions Other Administered By Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 70
-      name: sharps_safety_precautions_other_administered_by_other_other_description
-      label: Sharps Safety Precautions Other Administered By Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 71
-      name: sharps_safety_precautions_other_administered_by_other_other_other
-      label: Sharps Safety Precautions Other Administered By Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 72
-      name: sharps_precautions_administered_by
-      label: Sharps Precautions Administered By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 73
-      name: sharps_precautions_administered_by_description
-      label: Sharps Precautions Administered By Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 74
-      name: sharps_precautions_administered_by_other
-      label: Sharps Precautions Administered By Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 75
-      name: sharps_precautions_administered_by_other_description
-      label: Sharps Precautions Administered By Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 76
-      name: sharps_precautions_administered_by_other_other
-      label: Sharps Precautions Administered By Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 77
-      name: sharps_precautions_administered_by_other_other_description
-      label: Sharps Precautions Administered By Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 78
-      name: sharps_precautions_administered_by_other_other_other
-      label: Sharps Precautions Administered By Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 79
-      name: sharps_administered_by
-      label: Sharps Administered By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 80
-      name: sharps_administered_by_description
-      label: Sharps Administered By Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 81
-      name: sharps_administered_by_other
-      label: Sharps Administered By Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 82
-      name: sharps_administered_by_other_description
-      label: Sharps Administered By Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 83
-      name: sharps_administered_by_other_other
-      label: Sharps Administered By Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 84
-      name: sharps_administered_by_other_other_description
-      label: Sharps Administered By Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 85
-      name: sharps_administered_by_other_other_other
-      label: Sharps Administered By Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 86
-      name: sharps_administered_to
-      label: Sharps Administered To
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 87
-      name: sharps_administered_to_description
-      label: Sharps Administered To Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 88
-      name: sharps_administered_to_other
-      label: Sharps Administered To Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 89
-      name: sharps_administered_to_other_description
-      label: Sharps Administered To Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 90
-      name: sharps_administered_to_other_other
-      label: Sharps Administered To Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 91
-      name: sharps_administered_to_other_other_description
-      label: Sharps Administered To Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 92
-      name: sharps_administered_to_other_other_other
-      label: Sharps Administered To Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 93
-      name: sharps_administered_by
-      label: Sharps Administered By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 94
-      name: sharps_administered_by_description
-      label: Sharps Administered By Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 95
-      name: sharps_administered_by_other
-      label: Sharps Administered By Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 96
-      name: sharps_administered_by_other_description
-      label: Sharps Administered By Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 97
-      name: sharps_administered_by_other_other
-      label: Sharps Administered By Other Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 98
-      name: sharps_administered_by_other_other_description
-      label: Sharps Administered By Other Other Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 99
-      name: sharps_administered_by_other_other_other
-      label: Sharps Administered By Other Other Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 100
-      name: sharps_administered_by_other_other_other_description
-      label: Sharps Administered By Other Other Other Description
+    - id: 19
+      name: sharps_safety_precautions_long_description
+      label: Sharps Safety Precautions Long Description
       hint: null
       type: text
       options: []

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 3
       name: driver_info
@@ -40,10 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1-5 Years'', ''value'': ''5 years''}'
-      - '{''id'': 2, ''label'': ''5-10 Years'', ''value'': ''10 years''}'
-      - '{''id'': 3, ''label'': ''More than 10 Years'', ''value'': ''more than 10
-        years''}'
+      - 1-5 Years
+      - 5-10 Years
+      - More than 10 Years
       required: false
     - id: 6
       name: work_hours
@@ -51,10 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 2 hours'', ''value'': ''less than 2''}'
-      - '{''id'': 2, ''label'': ''2-10 hours'', ''value'': ''2-10 hours''}'
-      - '{''id'': 3, ''label'': ''More than 10 hours'', ''value'': ''more than 10
-        hours''}'
+      - Less than 2 hours
+      - 2-10 hours
+      - More than 10 hours
       required: false
     - id: 7
       name: income
@@ -76,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sedan'', ''value'': ''sedan''}'
-      - '{''id'': 2, ''label'': ''SUV'', ''value'': ''suv''}'
-      - '{''id'': 3, ''label'': ''Truck'', ''value'': ''truck''}'
-      - '{''id'': 4, ''label'': ''Motorcycle'', ''value'': ''motorcycle''}'
+      - Sedan
+      - SUV
+      - Truck
+      - Motorcycle
       required: false
     - id: 10
       name: comments
@@ -94,7 +92,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
-      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Male
+      - Female
+      - Other
       required: false

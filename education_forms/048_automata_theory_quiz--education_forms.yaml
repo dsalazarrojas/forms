@@ -1,136 +1,125 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Automata Theory Quiz
     pages:
-      - id: 1
-        name: student_info_header
-        label: -- Student Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: student_name
-        label: Student Name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: student_id
-        label: Student ID
-        hint: Your university identifier
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: email
-        label: Email Address
-        hint: For quiz results
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: quiz_section_1_header
-        label: -- Quiz Section 1 - Finite Automata --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: dfa_definition
-        label: What is the formal definition of a DFA?
-        hint: Select the most accurate tuple description
-        type: select_one
-        options:
-          - A 5-tuple
-          - A 3-tuple
-          - A 7-tuple
-        required: true
-      - id: 7
-        name: dfa_nfa_explanation
-        label: DFA vs NFA Explanation
-        hint: Briefly describe the primary difference between DFA and NFA
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: regular_languages_properties
-        label: Properties of Regular Languages
-        hint: Select all properties that apply
-        type: select_multiple
-        options:
-          - Closure under Union
-          - Closure under Intersection
-          - Closure under Complement
-          - Closure under Concatenation
-        required: true
-      - id: 9
-        name: quiz_section_2_header
-        label: -- Quiz Section 2 - Pushdown Automata and Context-Free Languages --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: pda_stack_ops
-        label: Common PDA Stack Operations
-        hint: Select the core operations
-        type: select_one
-        options:
-          - Push and Pop
-          - Shift and Reduce
-          - Enqueue and Dequeue
-        required: true
-      - id: 11
-        name: cfg_palindrome
-        label: CFG Example for Palindrome
-        hint: Provide a simple production rule for binary palindromes
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: quiz_section_3_header
-        label: -- Quiz Section 3 - Turing Machines --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: halting_problem
-        label: The Turing Machine Halting Problem is
-        hint: Select the correct decidability status
-        type: select_one
-        options:
-          - Decidable
-          - Undecidable
-          - Semi-decidable
-        required: true
-      - id: 14
-        name: church_turing_thesis
-        label: Church-Turing Thesis Summary
-        hint: Briefly summarize the thesis in your own words
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: submit_grading
-        label: Submit for Grading?
-        hint: I confirm this is my own work
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Your university identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For quiz results
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: quiz_section_1_header
+      label: -- Quiz Section 1 - Finite Automata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dfa_definition
+      label: What is the formal definition of a DFA?
+      hint: Select the most accurate tuple description
+      type: select_one
+      options:
+      - A 5-tuple
+      - A 3-tuple
+      - A 7-tuple
+      required: true
+    - id: 7
+      name: dfa_nfa_explanation
+      label: DFA vs NFA Explanation
+      hint: Briefly describe the primary difference between DFA and NFA
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: regular_languages_properties
+      label: Properties of Regular Languages
+      hint: Select all properties that apply
+      type: select_multiple
+      options:
+      - Closure under Union
+      - Closure under Intersection
+      - Closure under Complement
+      - Closure under Concatenation
+      required: true
+    - id: 9
+      name: quiz_section_2_header
+      label: -- Quiz Section 2 - Pushdown Automata and Context-Free Languages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: pda_stack_ops
+      label: Common PDA Stack Operations
+      hint: Select the core operations
+      type: select_one
+      options:
+      - Push and Pop
+      - Shift and Reduce
+      - Enqueue and Dequeue
+      required: true
+    - id: 11
+      name: cfg_palindrome
+      label: CFG Example for Palindrome
+      hint: Provide a simple production rule for binary palindromes
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quiz_section_3_header
+      label: -- Quiz Section 3 - Turing Machines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: halting_problem
+      label: The Turing Machine Halting Problem is
+      hint: Select the correct decidability status
+      type: select_one
+      options:
+      - Decidable
+      - Undecidable
+      - Semi-decidable
+      required: true
+    - id: 14
+      name: church_turing_thesis
+      label: Church-Turing Thesis Summary
+      hint: Briefly summarize the thesis in your own words
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submit_grading
+      label: Submit for Grading?
+      hint: I confirm this is my own work
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

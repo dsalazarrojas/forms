@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Professor''}'
-      - '{''value'': ''Instructor''}'
-      - '{''value'': ''Other''}'
+      - Professor
+      - Instructor
+      - Other
       required: false
     - id: 4
       name: application_documents
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Professor''}'
-      - '{''value'': ''Instructor''}'
+      - Professor
+      - Instructor
       required: false
     - id: 9
       name: job_type
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Tenured''}'
-      - '{''value'': ''Non-Tenured''}'
+      - Tenured
+      - Non-Tenured
       required: false
     - id: 10
       name: job_classification
@@ -79,13 +79,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Tenure-Track''}'
-      - '{''value'': ''Tenure-Track (Non-tenurable)''}'
-      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured''}'
-      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured''}'
-      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured (part-time)''}'
-      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured (part-time)/Tenured''}'
-      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenure-Track (Non-tenurable)''}'
+      - Tenure-Track
+      - Tenure-Track (Non-tenurable)
+      - Tenure-Track (Non-tenurable)/Tenured
+      - Tenure-Track (Non-tenurable)/Tenured (part-time)
+      - Tenure-Track (Non-tenurable)/Tenured (part-time)/Tenured
+      - Tenure-Track (Non-tenurable)/Tenure-Track (Non-tenurable)
       required: false
     - id: 11
       name: department
@@ -118,8 +117,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: start_date
@@ -141,10 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Tenured''}'
-      - '{''value'': ''Non-Tenured''}'
-      - '{''value'': ''Adjunct''}'
-      - '{''value'': ''Other''}'
+      - Tenured
+      - Non-Tenured
+      - Adjunct
+      - Other
       required: false
     - id: 18
       name: employment_type
@@ -152,10 +151,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Tenured''}'
-      - '{''value'': ''Tenured (Part-time)''}'
-      - '{''value'': ''Non-Tenured''}'
-      - '{''value'': ''Non-Tenured (Part-time)''}'
+      - Tenured
+      - Tenured (Part-time)
+      - Non-Tenured
+      - Non-Tenured (Part-time)
       required: false
     - id: 19
       name: job_location
@@ -163,9 +162,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''New Brunswick''}'
-      - '{''value'': ''Other''}'
-      - '{''value'': ''Ontario''}'
+      - New Brunswick
+      - Other
+      - Ontario
       required: false
     - id: 20
       name: work_status
@@ -173,10 +172,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Tenured''}'
-      - '{''value'': ''Non-Tenured''}'
-      - '{''value'': ''Adjunct''}'
-      - '{''value'': ''Other''}'
+      - Tenured
+      - Non-Tenured
+      - Adjunct
+      - Other
       required: false
     - id: 21
       name: job_description

@@ -23,8 +23,8 @@ inputSchema:
       hint: Please be honest for safety
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: recent_travel
@@ -32,8 +32,8 @@ inputSchema:
       hint: Travel outside local area in past 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 5
       name: contact_with_cases
@@ -41,8 +41,8 @@ inputSchema:
       hint: Close contact within 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: temperature

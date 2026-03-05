@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''approved'', ''label'': ''Approved''}'
-      - '{''value'': ''rejected'', ''label'': ''Rejected''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: false
     - id: 3
       name: employee_name
@@ -40,9 +40,9 @@ inputSchema:
       hint: 'Example: Online course, Instructor-led course'
       type: select_one
       options:
-      - '{''value'': ''online'', ''label'': ''Online Course''}'
-      - '{''value'': ''instructor-led'', ''label'': ''Instructor-led Course''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Online Course
+      - Instructor-led Course
+      - Other
       required: false
     - id: 6
       name: manager_email

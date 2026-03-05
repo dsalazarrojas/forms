@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''id'': 2, ''name'': ''Bank Account'', ''value'': ''bank_account''}'
-      - '{''id'': 3, ''name'': ''Check'', ''value'': ''check''}'
+      - credit card
+      - bank account
+      - check
       required: false
     - id: 6
       name: recurring_donation
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''id'': 2, ''name'': ''Yearly'', ''value'': ''yearly''}'
-      - '{''id'': 3, ''name'': ''One Time'', ''value'': ''one_time''}'
+      - monthly
+      - yearly
+      - one time
       required: true
     - id: 7
       name: notes

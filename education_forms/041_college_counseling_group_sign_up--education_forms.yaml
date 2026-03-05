@@ -98,8 +98,8 @@ inputSchema:
       hint: Previous experience
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: previous_experience_details
@@ -173,7 +173,7 @@ inputSchema:
       options:
       - Yes On Campus
       - Yes Off Campus
-      - false
+      - 'False'
       - Previously
       required: true
     - id: 19
@@ -189,8 +189,8 @@ inputSchema:
       hint: Medication status
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer Not to Say
       required: false
     - id: 21
@@ -201,7 +201,7 @@ inputSchema:
       options:
       - Yes Currently
       - Yes In the Past
-      - false
+      - 'False'
       - Prefer Not to Say
       required: true
     - id: 22
@@ -246,7 +246,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 27
       name: confidentiality_agreement
@@ -255,7 +255,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 28
       name: additional_comments
